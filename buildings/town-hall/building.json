@@ -12,6 +12,7 @@
   "dailyTokensPerAgent": 10000000,
   "meetings": [],
   "rules": "",
+  "managerAgentId": null,
   "workspace": null,
   "lot": {
     "x": 48,

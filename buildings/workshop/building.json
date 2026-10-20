@@ -9,9 +9,10 @@
   "model": "claude-opus-5-5",
   "cheapModel": "claude-haiku-5-5",
   "maxTurnsPerSession": 120,
-  "dailyTokensPerAgent": 10000000,
+  "dailyTokensPerAgent": 30000000,
   "meetings": [],
-  "rules": "",
+  "rules": "We are in the early stages of this project. Do not bother with opening PRs and waiting for review. Commit and push straight to main.",
+  "managerAgentId": null,
   "workspace": {
     "path": "/Users/mitchg/Desktop/agent-town",
     "tools": [
@@ -37,12 +38,7 @@
     ],
     "branchPrefix": "agent",
     "base": "main",
-    "repoUrl": "git@github.com:mitchellgordon95/agent-town.git",
-    "merge": "human",
-    "checks": [
-      "npm run typecheck",
-      "npm test"
-    ]
+    "repoUrl": "git@github.com:mitchellgordon95/agent-town.git"
   },
   "lot": {
     "x": 29,

@@ -39,15 +39,15 @@
       "y": 29
     },
     "status": "idle",
-    "activity": "Running: cd ~/.cache/ms-playwright; ls chromium_headless_shell-1248/*/; B=$(ls…",
+    "activity": "Submitting report: README: subscription auth and redeploy documented in two pa…",
     "model": null,
-    "spentTokensToday": 7563214,
-    "spentTokensTotal": 7563214,
-    "spentUsdTotal": 4.581262625000001,
-    "currentAssignmentId": "as_gqix417748",
+    "spentTokensToday": 8164839,
+    "spentTokensTotal": 17308445,
+    "spentUsdTotal": 9.863942000000002,
+    "currentAssignmentId": null,
     "currentMeetingId": null,
     "createdAt": "2026-10-20T00:16:54.306Z",
-    "lastActiveAt": "2026-10-20T03:36:13.276Z"
+    "lastActiveAt": "2026-10-20T04:44:50.258Z"
   },
   {
     "id": "ag_oycvqt9sa6",
@@ -60,19 +60,19 @@
     "direction": "Core, server, and runtime (packages/core, server, runtime): verbs, permissions, budgets, meetings, sessions, export. Reliability first: tests for state machines, no lost updates, clear errors. Every change is a small PR with tests.",
     "sprite": 1,
     "pos": {
-      "x": 35,
-      "y": 29
+      "x": 40,
+      "y": 33
     },
     "status": "idle",
-    "activity": "Setting up agent/root/inspect-the-uncommitted-packages-desk-sr",
+    "activity": "Arrived at Town Workshop meeting room",
     "model": null,
-    "spentTokensToday": 6256801,
-    "spentTokensTotal": 6256801,
-    "spentUsdTotal": 3.737950025,
+    "spentTokensToday": 6079,
+    "spentTokensTotal": 10142792,
+    "spentUsdTotal": 5.74776825,
     "currentAssignmentId": null,
     "currentMeetingId": null,
     "createdAt": "2026-10-20T00:16:54.306Z",
-    "lastActiveAt": "2026-10-20T03:35:58.397Z"
+    "lastActiveAt": "2026-10-20T03:55:05.870Z"
   },
   {
     "id": "ag_x87ckq8vc1",
@@ -89,15 +89,15 @@
       "y": 29
     },
     "status": "idle",
-    "activity": "Setting up agent/sage/before-the-board-task-explain-to-mitchel",
+    "activity": "Submitting report: Merged PR #33: Resume button (un-stop to idle)",
     "model": null,
-    "spentTokensToday": 4487305,
-    "spentTokensTotal": 4487305,
-    "spentUsdTotal": 2.3714314,
+    "spentTokensToday": 1529516,
+    "spentTokensTotal": 8291243,
+    "spentUsdTotal": 4.948343725000001,
     "currentAssignmentId": null,
     "currentMeetingId": null,
     "createdAt": "2026-10-20T00:16:54.307Z",
-    "lastActiveAt": "2026-10-20T03:35:58.416Z"
+    "lastActiveAt": "2026-10-20T04:30:53.819Z"
   },
   {
     "id": "ag_svu7z5horc",
@@ -128,15 +128,15 @@
     "id": "ag_0vfbh2bvly",
     "name": "Mitchell",
     "kind": "human",
-    "buildingId": "workshop",
+    "buildingId": null,
     "homeBuildingId": null,
     "ownerUserId": "us_1la74k332n",
     "title": "Human",
     "direction": "",
     "sprite": 0,
     "pos": {
-      "x": 42,
-      "y": 29
+      "x": 36,
+      "y": 39
     },
     "status": "idle",
     "activity": "",
@@ -147,7 +147,7 @@
     "currentAssignmentId": null,
     "currentMeetingId": null,
     "createdAt": "2026-10-20T00:17:06.060Z",
-    "lastActiveAt": "2026-10-20T03:36:15.449Z"
+    "lastActiveAt": "2026-10-20T04:48:08.538Z"
   },
   {
     "id": "ag_wckat5qkk7",
@@ -164,14 +164,14 @@
       "y": 32
     },
     "status": "idle",
-    "activity": "Setting up agent/lena/feature-let-the-facilitator-question-att",
+    "activity": "Submitting report: Merged PR #34 (set building token budget at creation)",
     "model": null,
-    "spentTokensToday": 1215511,
-    "spentTokensTotal": 1215511,
-    "spentUsdTotal": 0.7188399250000002,
+    "spentTokensToday": 9636498,
+    "spentTokensTotal": 13706076,
+    "spentUsdTotal": 7.793973725000001,
     "currentAssignmentId": null,
     "currentMeetingId": null,
     "createdAt": "2026-10-20T01:59:12.616Z",
-    "lastActiveAt": "2026-10-20T03:35:58.392Z"
+    "lastActiveAt": "2026-10-20T04:32:03.748Z"
   }
 ]
