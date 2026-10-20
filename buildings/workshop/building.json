@@ -1,0 +1,55 @@
+{
+  "id": "workshop",
+  "name": "Town Workshop",
+  "kind": "lab",
+  "goal": "Ship improvements to Agent Town as small, reviewed pull requests",
+  "description": "The building that works on Agent Town itself. Residents edit the repo in their own git worktrees, run typecheck and tests, and open draft PRs. Read docs/design.md for what the town is for, docs/architecture.md for how it is built, and docs/log.md for what happened recently.",
+  "headcount": 4,
+  "reviewPolicy": "human",
+  "model": "claude-opus-5-5",
+  "cheapModel": "claude-haiku-5-5",
+  "maxTurnsPerSession": 120,
+  "dailyTokensPerAgent": 10000000,
+  "meetings": [],
+  "rules": "",
+  "workspace": {
+    "path": "/Users/mitchg/Desktop/agent-town",
+    "tools": [
+      "Read",
+      "Write",
+      "Edit",
+      "Glob",
+      "Grep",
+      "Bash(git:*)",
+      "Bash(gh:*)",
+      "Bash(npm:*)",
+      "Bash(npx:*)",
+      "Bash(node:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(mkdir:*)",
+      "Bash(sed:*)",
+      "Bash(grep:*)",
+      "Bash(find:*)",
+      "Bash(wc:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)"
+    ],
+    "branchPrefix": "agent",
+    "base": "main",
+    "repoUrl": "git@github.com:mitchellgordon95/agent-town.git",
+    "merge": "human",
+    "checks": [
+      "npm run typecheck",
+      "npm test"
+    ]
+  },
+  "lot": {
+    "x": 29,
+    "y": 26,
+    "w": 15,
+    "h": 12
+  },
+  "createdAt": "2026-10-20T00:16:54.305Z",
+  "createdBy": "us_1la74k332n"
+}
