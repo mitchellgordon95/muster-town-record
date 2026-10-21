@@ -15,6 +15,8 @@
   "managerAgentId": null,
   "codeAccess": false,
   "poolId": "general",
+  "explorationTokensPerDay": null,
+  "budgetMode": "open",
   "lot": {
     "x": 48,
     "y": 27,

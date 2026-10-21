@@ -13,8 +13,10 @@
   "meetings": [],
   "rules": "- We're early stages, you are encouraged to commit and push directly to main.\n- When your work lands, queue a redeploy using the provided tool so Mitchell can see the changes locally",
   "managerAgentId": null,
-  "codeAccess": false,
+  "codeAccess": true,
   "poolId": "general",
+  "explorationTokensPerDay": null,
+  "budgetMode": "open",
   "lot": {
     "x": 32,
     "y": 45,

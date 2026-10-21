@@ -1,0 +1,34 @@
+---
+id: "mt_pttstgvrx2"
+kind: "standup"
+buildingId: "workshop"
+title: "Town Workshop standup"
+scheduledAt: "2026-10-21T01:35:42.997Z"
+phase: "done"
+facilitatorId: "ag_mh0qidzgw6"
+attendeeIds: ["ag_wckat5qkk7","ag_mh0qidzgw6","ag_oycvqt9sa6","ag_x87ckq8vc1"]
+agenda: ""
+summaries: {"ag_mh0qidzgw6":"Did: I wrote and published the goal-directed budgets design doc, then sent it to Mitchell for review.\nNext: I'll add doc links for reports and sketch a filesystem layout for the docs we generate.\nNeed: Mitchell, please answer the four open questions in the design doc so I can start the build.","ag_oycvqt9sa6":"Did: I confirmed the live server returns per-building token counts for today and all-time, and I made no code changes.\nNext: I'll confirm the live server has the newest fix, then check the building panel and banner.","ag_x87ckq8vc1":"Did: I verified the building banners work live, including the full goal text and clicking to open.\nNext: I'm sending a request for a manager to click a banner and confirm the Settings tab opens.\nNeed: A GitHub manager needs to sign in and click a banner on a building they manage.","ag_wckat5qkk7":"Did: I finished the accounting pools web half and pushed the token usage panel to main, then redeployed.\nNext: Once Root's live check passes, I'll file the close-out report and fix anything Root finds."}
+transcript: [{"speakerId":"ag_mh0qidzgw6","speakerKind":"agent","text":"Agenda: 1) Token usage panel: Root's live check of the building panel and banner, then Lena closes out. 2) Banners: Sage needs a GitHub manager to click one and confirm the Settings tab opens. 3) Budgets design doc: waiting on Mitchell's answers to 4 open questions. Meanwhile Pix works on doc links and the docs filesystem layout.","at":"2026-10-21T01:35:51.918Z"},{"speakerId":"us_1la74k332n","speakerKind":"user","text":"for sage, yes it works but i think we should change it to the Overview tab\n\nwhat are the budget questions?\n\nand then i need someone to figure out a skill system so agents can add and share skills (i have a personal one i want to add to this town in particular)","at":"2026-10-21T01:37:23.366Z"},{"speakerId":"ag_mh0qidzgw6","speakerKind":"agent","text":"Mitchell, noted: Sage will change the banner click to open Overview instead of Settings. The budget questions (doc dc_k955hun6c4), each with my default:\n1) Exploration allowance: 10% of the pool's daily inflow for each building (2M tokens/day each), or split across buildings (~670K each, under one median session)? Default: per building.\n2) Directed work: should tasks a human assigns directly keep bypassing grants? Default: yes.\n3) Who can fund grants: only town admins, or also humans with a building's manager role? Default: both.\n4) Grants: spending ceilings, or hard reservations carved out of the pool? Default: ceilings.\nA short \"defaults ok\" is enough, or override any of them. On skills: I'll take the design. Plan: a skill is a markdown doc agents can publish and share in the library, and buildings can pin one into their brief. Can you share your personal skill so I build around a real example?","at":"2026-10-21T01:37:33.909Z"},{"speakerId":"us_1la74k332n","speakerKind":"user","text":"defaults ok","at":"2026-10-21T01:38:21.318Z"},{"speakerId":"ag_mh0qidzgw6","speakerKind":"agent","text":"Recorded: 1) Pix builds budgets step 1 with your defaults. 2) Sage switches the banner to open Overview. 3) Pix writes the skill system design. 4) Root finishes the live check, then Lena closes out. Anything else?","at":"2026-10-21T01:38:31.484Z"}]
+decisions: [{"text":"Budget design: Mitchell approved the defaults (exploration 10% of daily inflow per building; human-directed work bypasses grants; admins and human building managers can fund; grants are ceilings). Pix starts the build at rollout step 1 (core schema, tables, derived spend, grant/KR CRUD, decide, building.fund guard, tests), commits to main, and redeploys.","assigneeId":"ag_mh0qidzgw6","assignmentId":"as_dere9buanq"},{"text":"Change the building banner click to open the Overview tab instead of Settings, commit to main, redeploy, and verify live.","assigneeId":"ag_x87ckq8vc1","assignmentId":"as_v5c8nxs35v"},{"text":"Design a skill system so agents can add and share skills (publish, discover, pin to a building or agent brief), with room for Mitchell's personal skill for this town. Write a design doc with open questions and ask Mitchell for his skill as the first example.","assigneeId":"ag_mh0qidzgw6","assignmentId":"as_4mdt6vc60h"},{"text":"Root finishes the live check of the token usage building panel and banner; Lena files the close-out report and fixes anything Root finds.","assigneeId":"ag_oycvqt9sa6","assignmentId":"as_ic8i2tust3"}]
+notesDocId: "dc_jx75wgbxdb"
+createdAt: "2026-10-21T01:35:42.997Z"
+startedAt: "2026-10-21T01:35:48.220Z"
+endedAt: "2026-10-21T01:38:34.433Z"
+---
+# Town Workshop standup
+
+- **Pix** (2026-10-21T01:35:51.918Z): Agenda: 1) Token usage panel: Root's live check of the building panel and banner, then Lena closes out. 2) Banners: Sage needs a GitHub manager to click one and confirm the Settings tab opens. 3) Budgets design doc: waiting on Mitchell's answers to 4 open questions. Meanwhile Pix works on doc links and the docs filesystem layout.
+- **Mitchell** (2026-10-21T01:37:23.366Z): for sage, yes it works but i think we should change it to the Overview tab
+
+what are the budget questions?
+
+and then i need someone to figure out a skill system so agents can add and share skills (i have a personal one i want to add to this town in particular)
+- **Pix** (2026-10-21T01:37:33.909Z): Mitchell, noted: Sage will change the banner click to open Overview instead of Settings. The budget questions (doc dc_k955hun6c4), each with my default:
+1) Exploration allowance: 10% of the pool's daily inflow for each building (2M tokens/day each), or split across buildings (~670K each, under one median session)? Default: per building.
+2) Directed work: should tasks a human assigns directly keep bypassing grants? Default: yes.
+3) Who can fund grants: only town admins, or also humans with a building's manager role? Default: both.
+4) Grants: spending ceilings, or hard reservations carved out of the pool? Default: ceilings.
+A short "defaults ok" is enough, or override any of them. On skills: I'll take the design. Plan: a skill is a markdown doc agents can publish and share in the library, and buildings can pin one into their brief. Can you share your personal skill so I build around a real example?
+- **Mitchell** (2026-10-21T01:38:21.318Z): defaults ok
+- **Pix** (2026-10-21T01:38:31.484Z): Recorded: 1) Pix builds budgets step 1 with your defaults. 2) Sage switches the banner to open Overview. 3) Pix writes the skill system design. 4) Root finishes the live check, then Lena closes out. Anything else?

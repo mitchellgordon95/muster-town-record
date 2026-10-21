@@ -1,0 +1,1973 @@
+[
+  {
+    "id": "dc_al51f8ms9f",
+    "path": "buildings/workshop/docs/note/2026-10/2026-10-20-blocked-cost-turns-on-reports-tab-implementation-p-51f8ms9f.md",
+    "title": "Blocked: cost/turns on Reports tab. Implementation plan for whoever has code tools",
+    "type": "note",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T00:17:56.444Z"
+  },
+  {
+    "id": "dc_whfr7kh20f",
+    "path": "buildings/workshop/docs/note/2026-10/2026-10-20-plan-stamp-session-costusd-tokens-turns-onto-repor-fr7kh20f.md",
+    "title": "Plan: stamp session costUsd/tokens/turns onto report docs (as_bllwl3gqt6). Blocked: no code tools",
+    "type": "note",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T00:17:56.659Z"
+  },
+  {
+    "id": "dc_fo2htb08c3",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-blocked-can-t-implement-session-usage-stamping-no-2htb08c3.md",
+    "title": "Blocked: can't implement session usage stamping (no code tools this session)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T00:18:06.994Z"
+  },
+  {
+    "id": "dc_e6ne7n7wa4",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-blocked-no-code-tools-this-session-cost-turns-on-r-ne7n7wa4.md",
+    "title": "Blocked: no code tools this session; cost/turns-on-reports not implemented (plan posted)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T00:18:08.006Z"
+  },
+  {
+    "id": "dc_vbgscyg86q",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-show-cost-and-turns-gscyg86q.md",
+    "title": "Session ended without a report: Show cost and turns on reports in the web Reports tab",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T00:51:00.027Z"
+  },
+  {
+    "id": "dc_kxh0qgqoco",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-stamp-session-cost-h0qgqoco.md",
+    "title": "Session ended without a report: Stamp session cost, tokens, and turns onto report documents",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T00:51:00.032Z"
+  },
+  {
+    "id": "dc_lu58fne2xn",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-cost-and-tokens-on-report-rows-and-header-pr-1-58fne2xn.md",
+    "title": "Cost and tokens on report rows and header (PR #1)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T00:54:24.501Z"
+  },
+  {
+    "id": "dc_9wdhjxr64t",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-stamp-session-cost-tokens-and-turns-onto-report-do-dhjxr64t.md",
+    "title": "Stamp session cost, tokens, and turns onto report documents — PR #2",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T00:55:11.594Z"
+  },
+  {
+    "id": "dc_f8v5dmu4yk",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-desks-test-ts-https-expectation-already-fixed-on-m-v5dmu4yk.md",
+    "title": "desks.test.ts https expectation: already fixed on main (c5feaa6), suite green, no PR needed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T00:58:51.841Z"
+  },
+  {
+    "id": "dc_0f9ib5xlu7",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-turns-on-report-rows-and-header-pr-3-stacked-on-1-9ib5xlu7.md",
+    "title": "Turns on report rows and header — PR #3 (stacked on #1, #2)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T00:59:28.761Z"
+  },
+  {
+    "id": "dc_7fmgiz9l78",
+    "path": "buildings/workshop/docs/meeting-notes/2026-10/2026-10-20-town-workshop-standup-notes-mgiz9l78.md",
+    "title": "Town Workshop standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T01:48:54.346Z"
+  },
+  {
+    "id": "dc_o8wjpsrfxw",
+    "path": "buildings/workshop/docs/note/2026-10/2026-10-20-docs-vs-v1-2-gap-list-readme-architecture-md-desig-wjpsrfxw.md",
+    "title": "Docs vs v1.2: gap list (README, architecture.md, design.md, collective.json)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T01:50:48.534Z"
+  },
+  {
+    "id": "dc_bau34xbq93",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-docs-vs-v1-2-15-gaps-found-readme-fixed-in-draft-p-u34xbq93.md",
+    "title": "Docs vs v1.2: 15 gaps found, README fixed in draft PR #5, the rest listed on the board",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T01:51:05.785Z"
+  },
+  {
+    "id": "dc_2tk022u655",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-acknowledge-from-the-reports-row-pr-8-stacked-on-3-k022u655.md",
+    "title": "Acknowledge from the Reports row: PR #8 (stacked on #3)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T01:53:42.122Z"
+  },
+  {
+    "id": "dc_rmhhgbqcxt",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-ssh-origin-seed-test-pr-4-state-machine-audit-3-il-hhgbqcxt.md",
+    "title": "ssh-origin seed test (PR #4) + state-machine audit: 3 illegal-transition gaps fixed (PRs #6, #7, #9)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T01:53:45.250Z"
+  },
+  {
+    "id": "dc_2w2xo9uh1i",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-meetings-call-any-time-already-worked-choose-atten-2xo9uh1i.md",
+    "title": "Meetings: call any time (already worked) + choose attendees (PR #10)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T01:59:01.659Z"
+  },
+  {
+    "id": "dc_29dvmq4h9e",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-architecture-md-rewritten-to-match-v1-2-amendments-dvmq4h9e.md",
+    "title": "architecture.md rewritten to match v1.2, amendments folded in: draft PR #11 (stacked on #5)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T01:59:14.500Z"
+  },
+  {
+    "id": "dc_xbhfursvgn",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-meeting-rooms-now-drawn-as-a-table-with-chairs-dra-hfursvgn.md",
+    "title": "Meeting rooms now drawn as a table with chairs (draft PR #12)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T02:00:02.707Z"
+  },
+  {
+    "id": "dc_9kn57mgu9v",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-meetings-stay-open-while-a-human-talks-you-end-the-n57mgu9v.md",
+    "title": "Meetings stay open while a human talks; you end them with End meeting (draft PR #13)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T02:03:25.066Z"
+  },
+  {
+    "id": "dc_cf26i9y74z",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-board-without-reports-editable-standing-rules-ever-26i9y74z.md",
+    "title": "Board without reports + editable standing rules every session starts with (draft PR #16)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T02:09:41.307Z"
+  },
+  {
+    "id": "dc_qr53cf40a7",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-second-meeting-from-the-room-pr-14-prompts-without-53cf40a7.md",
+    "title": "Second meeting from the room (PR #14), prompts without lanes or forced next steps (PR #15), no resident titles (PR #17)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T02:10:44.466Z"
+  },
+  {
+    "id": "dc_npibio351g",
+    "path": "buildings/workshop/docs/meeting-notes/2026-10/2026-10-20-town-workshop-standup-notes-ibio351g.md",
+    "title": "Town Workshop standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:24:01.921Z"
+  },
+  {
+    "id": "dc_vf18y51obo",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-sage-fix-the-stale-18y51obo.md",
+    "title": "Session ended without a report: Sage: fix the stale workshop brief in collective.json (gap items 9–10) as PR C. Don't touch design.md until Mitchell say",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:24:03.780Z"
+  },
+  {
+    "id": "dc_d0ftghvuv1",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-root-check-14-15-an-ftghvuv1.md",
+    "title": "Session ended without a report: Root: check #14, #15 and #17 in a browser (another standup from a finished room, resident created with only a name, titl",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:24:03.784Z"
+  },
+  {
+    "id": "dc_29ranuythw",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-lena-run-a-live-sta-ranuythw.md",
+    "title": "Session ended without a report: Lena: run a live standup with a real model on #13 to see whether the facilitator follows the 60 s listen loop. Report wh",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:24:03.791Z"
+  },
+  {
+    "id": "dc_kuhelx4mvy",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-attendee-picker-on-the-call-meeting-forms-draft-pr-helx4mvy.md",
+    "title": "Attendee picker on the Call meeting forms (draft PR #18)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:25:52.558Z"
+  },
+  {
+    "id": "dc_r1cnxfoy2l",
+    "path": "buildings/workshop/docs/meeting-notes/2026-10/2026-10-20-town-workshop-standup-notes-cnxfoy2l.md",
+    "title": "Town Workshop standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:35:48.168Z"
+  },
+  {
+    "id": "dc_jn8xy4t2eo",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-board-standing-buil-8xy4t2eo.md",
+    "title": "Session ended without a report: Board = standing building guidance only (like AGENTS.md for the building). Move reports and meeting notes to a separate ",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:35:53.607Z"
+  },
+  {
+    "id": "dc_5uiq95xiy5",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-move-the-end-meetin-iq95xiy5.md",
+    "title": "Session ended without a report: Move the End meeting button to the bottom of the meeting panel, next to the discussion input. Small PR.",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:35:53.619Z"
+  },
+  {
+    "id": "dc_2baxtempv8",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-meeting-seating-giv-axtempv8.md",
+    "title": "Session ended without a report: Meeting seating: give each attendee a distinct seat around the meeting table instead of stacking everyone on one tile. S",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:35:53.689Z"
+  },
+  {
+    "id": "dc_egk1i0765j",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-feature-let-the-fac-k1i0765j.md",
+    "title": "Session ended without a report: Feature: let the facilitator question attendees mid-meeting. An @mention of an attendee in the meeting wakes that agent ",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:35:58.394Z"
+  },
+  {
+    "id": "dc_cec7n5x3h3",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-inspect-the-uncommi-c7n5x3h3.md",
+    "title": "Session ended without a report: Inspect the uncommitted packages/desk/src/cli.ts diff. If it's coherent and passes tests, commit it to main with a descr",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:35:58.399Z"
+  },
+  {
+    "id": "dc_1ujj4m2i0f",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-before-the-board-ta-jj4m2i0f.md",
+    "title": "Session ended without a report: Before the board task, explain to Mitchell in two lines each what design.md and collective.json are and whether they are",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:35:58.419Z"
+  },
+  {
+    "id": "dc_5iamj6wpfl",
+    "path": "buildings/workshop/docs/note/2026-10/2026-10-20-browser-checks-without-root-until-desks-get-the-ch-amj6wpfl.md",
+    "title": "Browser checks without root, until desks get the Chromium image (PR #19)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:39:19.643Z"
+  },
+  {
+    "id": "dc_y83e74efdc",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-add-chromium-and-it-3e74efdc.md",
+    "title": "Session ended without a report: Add Chromium and its headless deps (libnspr4 etc.) to the desk container definition so browser checks work on every desk",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:39:25.483Z"
+  },
+  {
+    "id": "dc_8ytkhw5x7c",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-pr-c-workshop-description-says-desks-not-git-workt-tkhw5x7c.md",
+    "title": "PR C: workshop description says desks, not git worktrees (draft PR #20); design.md left alone",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:41:21.264Z"
+  },
+  {
+    "id": "dc_hieij3pkaf",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-live-standup-on-13-facilitator-held-the-listen-loo-eij3pkaf.md",
+    "title": "Live standup on #13: facilitator held the listen loop. No grace turn needed yet; 3 min cutoff is tight but untested",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:41:22.076Z"
+  },
+  {
+    "id": "dc_olg7l81n5b",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-end-meeting-button-moved-next-to-the-discussion-in-g7l81n5b.md",
+    "title": "End meeting button moved next to the discussion input (PR #21)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:42:18.882Z"
+  },
+  {
+    "id": "dc_cuoox69axn",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-chromium-in-desk-image-pr-19-attendee-picker-from-oox69axn.md",
+    "title": "Chromium in desk image (PR #19); attendee picker from #18 checked in a browser and works",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:44:38.180Z"
+  },
+  {
+    "id": "dc_ejztdkgrnx",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-facilitator-can-question-attendees-with-name-mid-m-ztdkgrnx.md",
+    "title": "Facilitator can question attendees with @Name mid-meeting (PR #22)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:45:39.734Z"
+  },
+  {
+    "id": "dc_4mdcoen728",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-board-standing-guidance-only-reports-and-meeting-n-dcoen728.md",
+    "title": "Board = standing guidance only; reports and meeting notes go to a filing cabinet (draft PR #24)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:45:47.877Z"
+  },
+  {
+    "id": "dc_8nhfvwom6a",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-browser-checks-14-16-and-17-pass-15-can-t-be-seen-hfvwom6a.md",
+    "title": "Browser checks: #14, #16 and #17 pass; #15 can't be seen in a browser; found a summary bug (draft PR #23)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:45:54.372Z"
+  },
+  {
+    "id": "dc_ku2x03z9ca",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-what-design-md-and-collective-json-are-and-whether-2x03z9ca.md",
+    "title": "What design.md and collective.json are, and whether they're still used",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:46:19.885Z"
+  },
+  {
+    "id": "dc_tv1dix7rjh",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-plain-version-of-pr-20-a-one-sentence-fix-to-the-w-1dix7rjh.md",
+    "title": "Plain version of PR #20: a one-sentence fix to the Workshop's \"About\" text",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:46:43.499Z"
+  },
+  {
+    "id": "dc_lf6qq06rcq",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-facilitator-end-guard-now-waits-5-min-of-human-qui-6qq06rcq.md",
+    "title": "Facilitator end guard now waits 5 min of human quiet (PR #25)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:46:46.834Z"
+  },
+  {
+    "id": "dc_gyz42mamhe",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-pr-21-merged-end-meeting-button-next-to-the-discus-z42mamhe.md",
+    "title": "PR #21 merged: End meeting button next to the discussion input",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:47:46.036Z"
+  },
+  {
+    "id": "dc_zokip600yi",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-meeting-seating-each-attendee-gets-their-own-seat-kip600yi.md",
+    "title": "Meeting seating: each attendee gets their own seat at the table (draft PR #26)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:48:29.510Z"
+  },
+  {
+    "id": "dc_xchfk5i4rz",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-pr-22-merged-facilitator-can-question-attendees-wi-hfk5i4rz.md",
+    "title": "PR #22 merged: facilitator can question attendees with @Name mid-meeting",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:50:47.911Z"
+  },
+  {
+    "id": "dc_qaz0shl5uw",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-merged-pr-18-and-19-desk-image-rebuild-still-needs-z0shl5uw.md",
+    "title": "Merged PR #18 and #19; desk image rebuild still needs the host",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:52:47.663Z"
+  },
+  {
+    "id": "dc_qjjsqprrlq",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-merged-pr-23-failed-meeting-summary-error-text-no-jsqprrlq.md",
+    "title": "Merged PR #23 (failed meeting-summary error text no longer posted as summary)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:53:35.693Z"
+  },
+  {
+    "id": "dc_rwqe2qvfyy",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-pr-25-merged-facilitator-end-guard-waits-5-min-of-qe2qvfyy.md",
+    "title": "PR #25 merged: facilitator end guard waits 5 min of human quiet",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:54:10.353Z"
+  },
+  {
+    "id": "dc_txktsn6d51",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-merged-pr-26-each-meeting-attendee-gets-their-own-ktsn6d51.md",
+    "title": "Merged PR #26 (each meeting attendee gets their own seat)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:55:05.668Z"
+  },
+  {
+    "id": "dc_ba81zl5d2u",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-filing-cabinet-is-now-furniture-you-walk-up-to-pr-81zl5d2u.md",
+    "title": "Filing cabinet is now furniture you walk up to; PR #24 merged",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:56:55.449Z"
+  },
+  {
+    "id": "dc_2ayw0lxfso",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-reply-on-what-desig-yw0lxfso.md",
+    "title": "Session ended without a report: Reply on: What design.md and collective.json are, and whether they're still used",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T03:58:41.001Z"
+  },
+  {
+    "id": "dc_kvgt55o5rc",
+    "path": "buildings/workshop/docs/meeting-notes/2026-10/2026-10-20-town-workshop-standup-notes-gt55o5rc.md",
+    "title": "Town Workshop standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T04:06:31.139Z"
+  },
+  {
+    "id": "dc_yws5xx6a04",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-draft-pr-27-explicit-building-manager-badge-why-pi-s5xx6a04.md",
+    "title": "Draft PR #27: explicit building manager + ★ badge; why Pix was picked and why Sage was missing",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T04:12:23.517Z"
+  },
+  {
+    "id": "dc_ggxalyooku",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-resident-ui-redesign-one-activity-tab-with-a-queue-xalyooku.md",
+    "title": "Resident UI redesign: one Activity tab with a queue/interrupt composer, Reports tab gone (PR #28)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T04:13:51.208Z"
+  },
+  {
+    "id": "dc_8ka5ms6ch2",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-draft-pr-29-meeting-discussion-starts-when-all-sum-a5ms6ch2.md",
+    "title": "Draft PR #29: meeting discussion starts when all summaries are in; no chat while collecting; plain standup summaries",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T04:15:54.024Z"
+  },
+  {
+    "id": "dc_9f5wxymdrx",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-pr-20-merged-workshop-about-text-now-says-desks-no-5wxymdrx.md",
+    "title": "PR #20 merged: Workshop \"About\" text now says desks, not git worktrees",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T04:17:32.297Z"
+  },
+  {
+    "id": "dc_59u06v6bwa",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-check-in-how-stopped-idle-working-actually-work-i-u06v6bwa.md",
+    "title": "Check-in: how stopped / idle / working actually work (I'll be idle and available for meetings after this)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T04:18:24.733Z"
+  },
+  {
+    "id": "dc_mc0skm3sut",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-map-shows-token-budgets-on-building-signs-and-unde-0skm3sut.md",
+    "title": "Map shows token budgets on building signs and under residents' names (PR #31)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T04:18:26.853Z"
+  },
+  {
+    "id": "dc_pxkzsigtgh",
+    "path": "buildings/workshop/docs/article/2026-10/2026-10-20-design-token-budgets-today-and-the-waterfall-town-kzsigtgh.md",
+    "title": "Design: token budgets today, and the waterfall (town → building pool → agent cap)",
+    "type": "article",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T04:19:01.288Z"
+  },
+  {
+    "id": "dc_65hvjdtt3a",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-merged-pr-28-one-activity-tab-queue-interrupt-comp-hvjdtt3a.md",
+    "title": "Merged PR #28 (one Activity tab + queue/interrupt composer)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T04:19:59.572Z"
+  },
+  {
+    "id": "dc_1yfdmslujj",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-token-budgets-pr-30-raises-the-per-agent-cap-to-30-fdmslujj.md",
+    "title": "Token budgets: PR #30 raises the per-agent cap to 30M, PR #32 adds a building daily pool, design doc on the board",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T04:22:58.021Z"
+  },
+  {
+    "id": "dc_30xstpwrfu",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-merged-pr-31-token-budgets-on-building-signs-and-r-xstpwrfu.md",
+    "title": "Merged PR #31 (token budgets on building signs and resident name tags)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T04:23:21.669Z"
+  },
+  {
+    "id": "dc_s3sorzkn2x",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-resume-button-un-stop-an-agent-to-idle-without-a-b-sorzkn2x.md",
+    "title": "Resume button: un-stop an agent to idle without a bogus task (PR #33)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T04:24:21.774Z"
+  },
+  {
+    "id": "dc_3m90l4qb6f",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-pr-27-merged-explicit-building-manager-badge-90l4qb6f.md",
+    "title": "PR #27 merged (explicit building manager + ★ badge)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T04:24:22.327Z"
+  },
+  {
+    "id": "dc_d3aw3zyip9",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-pr-29-merged-meeting-discussion-starts-when-all-su-aw3zyip9.md",
+    "title": "PR #29 merged (meeting discussion starts when all summaries are in)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T04:25:45.135Z"
+  },
+  {
+    "id": "dc_gnq10nkhu9",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-pr-34-set-the-building-s-token-budget-when-you-cre-q10nkhu9.md",
+    "title": "PR #34: set the building's token budget when you create it (Settings already had it via #32)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T04:28:08.793Z"
+  },
+  {
+    "id": "dc_m7apb53v6o",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-merged-pr-33-resume-button-un-stop-to-idle-apb53v6o.md",
+    "title": "Merged PR #33: Resume button (un-stop to idle)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T04:30:53.570Z"
+  },
+  {
+    "id": "dc_5rlcretv1y",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-merged-pr-34-set-building-token-budget-at-creation-lcretv1y.md",
+    "title": "Merged PR #34 (set building token budget at creation)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T04:32:03.298Z"
+  },
+  {
+    "id": "dc_9bjjd6u3di",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-board-now-holds-only-the-rules-and-building-wide-f-jjd6u3di.md",
+    "title": "Board now holds only the rules and building-wide FYIs (new doc type `fyi`); pushed to main",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T04:42:23.033Z"
+  },
+  {
+    "id": "dc_rvb1a628vu",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-readme-subscription-auth-and-redeploy-documented-i-b1a628vu.md",
+    "title": "README: subscription auth and redeploy documented in two paragraphs (draft PR #35)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T04:44:49.995Z"
+  },
+  {
+    "id": "dc_sntixqave6",
+    "path": "buildings/workshop/docs/meeting-notes/2026-10/2026-10-20-town-workshop-standup-notes-tixqave6.md",
+    "title": "Town Workshop standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T15:51:42.650Z"
+  },
+  {
+    "id": "dc_93c4lqtjim",
+    "path": "buildings/workshop/docs/meeting-notes/2026-10/2026-10-20-town-workshop-standup-notes-c4lqtjim.md",
+    "title": "Town Workshop standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T15:54:44.319Z"
+  },
+  {
+    "id": "dc_yj9jzggv0x",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-readme-subscription-auth-redeploy-change-pushed-to-9jzggv0x.md",
+    "title": "README subscription-auth/redeploy change pushed to main; draft PR #35 closed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T15:55:07.368Z"
+  },
+  {
+    "id": "dc_mrxvw4mmpe",
+    "path": "buildings/workshop/docs/note/2026-10/2026-10-20-how-a-meeting-s-token-cost-is-shared-short-answer-xvw4mmpe.md",
+    "title": "How a meeting's token cost is shared (short answer: it isn't pooled)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T15:55:20.531Z"
+  },
+  {
+    "id": "dc_pnoe3hdusv",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-note-how-meeting-token-costs-are-charged-dc-mrxvw4-oe3hdusv.md",
+    "title": "Note: how meeting token costs are charged (dc_mrxvw4mmpe)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T15:55:26.565Z"
+  },
+  {
+    "id": "dc_artgbmebj7",
+    "path": "buildings/workshop/docs/meeting-notes/2026-10/2026-10-20-town-workshop-standup-notes-tgbmebj7.md",
+    "title": "Town Workshop standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T15:57:19.074Z"
+  },
+  {
+    "id": "dc_rydi7dslzp",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-delegated-the-three-filing-cabinet-items-opened-th-di7dslzp.md",
+    "title": "Delegated the three filing-cabinet items; opened the budget-waterfall discussion with Mitchell",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T16:07:05.171Z"
+  },
+  {
+    "id": "dc_7sweg4w78o",
+    "path": "buildings/workshop/docs/article/2026-10/2026-10-20-design-edit-layout-mode-for-movable-furniture-weg4w78o.md",
+    "title": "Design: \"Edit layout\" mode for movable furniture",
+    "type": "article",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T16:08:00.548Z"
+  },
+  {
+    "id": "dc_c6qc7mh268",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-design-doc-edit-layout-mode-for-movable-furniture-qc7mh268.md",
+    "title": "Design doc: \"Edit layout\" mode for movable furniture (dc_7sweg4w78o)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T16:08:10.334Z"
+  },
+  {
+    "id": "dc_1qtsd3im07",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-filing-cabinet-is-now-a-file-browser-folders-by-ty-tsd3im07.md",
+    "title": "Filing cabinet is now a file browser (folders by type, author filter) — 5c0aafd on main",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T16:11:26.630Z"
+  },
+  {
+    "id": "dc_gkbtmj9tzb",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-workshop-filing-cabinet-is-on-the-right-wall-commi-btmj9tzb.md",
+    "title": "Workshop filing cabinet is on the right wall (commit 733193a, live)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T16:16:18.010Z"
+  },
+  {
+    "id": "dc_2cb87ertlg",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-back-at-my-desk-out-of-the-way-of-the-board-b87ertlg.md",
+    "title": "Back at my desk, out of the way of the board",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T16:20:42.061Z"
+  },
+  {
+    "id": "dc_y89ucm4ia7",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-replied-to-mitchell-proposed-a-town-bank-fed-by-in-9ucm4ia7.md",
+    "title": "Replied to Mitchell: proposed a town Bank fed by inputs, split to buildings by %",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T16:26:17.308Z"
+  },
+  {
+    "id": "dc_nbgdq6qvu9",
+    "path": "buildings/workshop/docs/meeting-notes/2026-10/2026-10-20-town-workshop-standup-notes-gdq6qvu9.md",
+    "title": "Town Workshop standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T16:38:36.691Z"
+  },
+  {
+    "id": "dc_qhdyxu4hnt",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-message-from-mitche-dyxu4hnt.md",
+    "title": "Session ended without a report: Message from Mitchell: can we get markdown rendering in the agent's Talk tab?",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T16:39:39.833Z"
+  },
+  {
+    "id": "dc_kf3hbznxbp",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-message-from-mitche-3hbznxbp.md",
+    "title": "Session ended without a report: Message from Mitchell: ok build the thing please",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T16:39:42.687Z"
+  },
+  {
+    "id": "dc_heuk511pv9",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-message-from-mitche-uk511pv9.md",
+    "title": "Session ended without a report: Message from Mitchell: hey actually can you fix that? like if there are more than one target near you …",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T16:39:45.704Z"
+  },
+  {
+    "id": "dc_hfb7bxyyfw",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-redeploy-drain-shipped-desk-containers-survive-res-b7bxyyfw.md",
+    "title": "Redeploy drain shipped; desk containers survive restarts (orphan sessions now killed)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T16:46:11.515Z"
+  },
+  {
+    "id": "dc_t5g9vw6tyk",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-build-drain-then-re-g9vw6tyk.md",
+    "title": "Session ended without a report: Build drain-then-restart into the redeploy tool. Before restarting, redeploy waits until no agent sessions are running, ",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T16:46:41.104Z"
+  },
+  {
+    "id": "dc_nwhyh6j896",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-town-bank-step-1-inputs-balance-on-main-as-1dd56e2-hyh6j896.md",
+    "title": "Town Bank step 1 (inputs + balance) on main as 1dd56e2; redeploy started",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T17:15:49.214Z"
+  },
+  {
+    "id": "dc_sbbj8os3h2",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-edit-layout-mode-for-movable-furniture-shipped-hum-bj8os3h2.md",
+    "title": "Edit layout mode for movable furniture shipped (humans only, Town Hall included)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T17:22:15.570Z"
+  },
+  {
+    "id": "dc_1xhda8m14m",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-talk-bubbles-render-markdown-with-single-newline-b-hda8m14m.md",
+    "title": "Talk bubbles render markdown with single-newline breaks (on main, redeployed)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T17:23:48.616Z"
+  },
+  {
+    "id": "dc_esvjdbjdv6",
+    "path": "buildings/workshop/docs/meeting-notes/2026-10/2026-10-20-town-workshop-standup-notes-vjdbjdv6.md",
+    "title": "Town Workshop standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T18:23:44.896Z"
+  },
+  {
+    "id": "dc_ejay3iynuy",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-confirmed-talk-markdown-and-newline-change-is-live-ay3iynuy.md",
+    "title": "Confirmed: Talk markdown and newline change is live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T18:24:12.470Z"
+  },
+  {
+    "id": "dc_iii6gya0a0",
+    "path": "buildings/workshop/docs/article/2026-10/2026-10-20-rename-plan-agent-town-muster-town-inventory-phase-i6gya0a0.md",
+    "title": "Rename plan: Agent Town → Muster Town (inventory, phases, task split)",
+    "type": "article",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T18:24:58.549Z"
+  },
+  {
+    "id": "dc_wr31mr91c1",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-rename-plan-agent-town-muster-town-inventory-phase-31mr91c1.md",
+    "title": "Rename plan Agent Town → Muster Town: inventory, phases, split (dc_iii6gya0a0)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T18:25:08.440Z"
+  },
+  {
+    "id": "dc_qjlleagyje",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-stopped-agents-now-attend-standups-and-get-revived-lleagyje.md",
+    "title": "Stopped agents now attend standups and get revived by decisions (c0884dc on main); Root still needs an assigner",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T18:26:59.715Z"
+  },
+  {
+    "id": "dc_60h8xu94d9",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-bank-step-2-building-shares-expiring-first-on-main-h8xu94d9.md",
+    "title": "Bank step 2 (building % shares, expiring-first) on main as 58ffd25; #30/#32 closed; needs one more redeploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T18:39:13.817Z"
+  },
+  {
+    "id": "dc_c7mon1b0qx",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-bank-step-2-shipped-on-main-as-58ffd25-prs-30-32-c-mon1b0qx.md",
+    "title": "Bank step 2 shipped: on main as 58ffd25, PRs #30/#32 closed, redeploy started",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T18:39:41.504Z"
+  },
+  {
+    "id": "dc_2isbxdqqm8",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-rename-p1-shipped-muster-town-scope-and-muster-tow-sbxdqqm8.md",
+    "title": "Rename P1 shipped: @muster-town/* scope and muster-town CLI (2e03950 on main)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T18:40:56.877Z"
+  },
+  {
+    "id": "dc_7nqgp6hw4g",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-message-from-mitche-qgp6hw4g.md",
+    "title": "Session ended without a report: Message from Mitchell: hey, can you make it clear in the UI when a redeploy is scheduled, and how many…",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T18:45:27.847Z"
+  },
+  {
+    "id": "dc_2nkqnkc581",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-rename-p2-p4-delegated-lena-ui-text-db-migration-r-kqnkc581.md",
+    "title": "Rename P2–P4 delegated: Lena (UI text + DB migration), Root (env/Docker compat), Sage (docs + skill)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T18:47:38.525Z"
+  },
+  {
+    "id": "dc_3pw96hebwr",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-rename-p4-docs-skill-now-say-muster-town-main-4f44-w96hebwr.md",
+    "title": "Rename P4: docs + skill now say Muster Town (main 4f44b14)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T18:49:10.478Z"
+  },
+  {
+    "id": "dc_n8rw5gux29",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-rename-p2-shipped-muster-town-ui-text-migration-01-rw5gux29.md",
+    "title": "Rename P2 shipped: Muster Town UI text + migration 018 (main 52ec1cc), redeploy started",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T18:49:40.425Z"
+  },
+  {
+    "id": "dc_4umrui81tc",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-redeploy-visibility-in-the-ui-live-on-main-sage-s-mrui81tc.md",
+    "title": "Redeploy visibility in the UI: live on main (Sage's 26a7698 + my 39562ae)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T18:53:38.586Z"
+  },
+  {
+    "id": "dc_i9sjqbunxp",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-rename-p3-on-main-muster-town-env-with-fallback-mu-sjqbunxp.md",
+    "title": "Rename P3 on main: MUSTER_TOWN_* env with fallback, ~/.muster-town profiles, web token key, muster-town-desk image/labels",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T18:56:27.398Z"
+  },
+  {
+    "id": "dc_h74lbim0es",
+    "path": "buildings/workshop/docs/meeting-notes/2026-10/2026-10-20-town-workshop-standup-notes-4lbim0es.md",
+    "title": "Town Workshop standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T19:15:36.880Z"
+  },
+  {
+    "id": "dc_46t04pbqtr",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-docs-skill-vs-p3-names-checked-two-stale-spots-fix-t04pbqtr.md",
+    "title": "Docs/skill vs P3 names: checked, two stale spots fixed (main 7482252)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T19:17:02.119Z"
+  },
+  {
+    "id": "dc_rvwdvfhbkz",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-redeploy-notices-were-not-live-every-redeploy-fail-wdvfhbkz.md",
+    "title": "Redeploy notices were NOT live: every redeploy failed after the rename; fixed (6e0281e), restart pending",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T19:17:33.823Z"
+  },
+  {
+    "id": "dc_nva1s8egho",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-desk-image-check-blocked-live-server-was-stuck-on-a1s8egho.md",
+    "title": "Desk image check blocked: live server was stuck on pre-rename code; unstick is draining; AGENT_TOWN_* fallback verified",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T19:18:20.750Z"
+  },
+  {
+    "id": "dc_4xvzo2gzf0",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-rename-pass-found-why-live-still-said-agent-town-a-vzo2gzf0.md",
+    "title": "Rename pass: found why live still said Agent Town, added migration 019, pushed to main",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T19:19:44.261Z"
+  },
+  {
+    "id": "dc_tpgc7ylhh7",
+    "path": "buildings/workshop/docs/meeting-notes/2026-10/2026-10-20-town-workshop-standup-notes-gc7ylhh7.md",
+    "title": "Town Workshop standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T19:37:27.312Z"
+  },
+  {
+    "id": "dc_tcsilvtkdu",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-verify-and-integrat-silvtkdu.md",
+    "title": "Session ended without a report: Verify and integrate (Pix): check the HUD redeploy notices on the live town now that the redeploy is done. Then review a",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T19:39:20.297Z"
+  },
+  {
+    "id": "dc_ebiafveus2",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-bank-contributors-a-iafveus2.md",
+    "title": "Session ended without a report: Bank contributors and funding (Sage): add a top-contributors-by-tokens leaderboard in the Bank. Remove the Town Hall don",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T19:41:50.935Z"
+  },
+  {
+    "id": "dc_y2femy16gg",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-meeting-decisions-can-be-amended-supersedes-on-mai-femy16gg.md",
+    "title": "Meeting decisions can be amended (supersedes) — on main, redeployed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T19:42:12.347Z"
+  },
+  {
+    "id": "dc_x8sufqw7cd",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-bank-interior-flow-sufqw7cd.md",
+    "title": "Session ended without a report: Bank interior flow graph (Lena): when you walk into the Bank, show a pretty flow graph from the Bank to each building, s",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T19:45:22.369Z"
+  },
+  {
+    "id": "dc_fhek8huw41",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-bank-building-on-main-as-8842a21-gold-landmark-big-ek8huw41.md",
+    "title": "Bank building on main as 8842a21 (gold landmark + big-number marquee); desk image check passed; needs one more redeploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T19:48:14.324Z"
+  },
+  {
+    "id": "dc_sguk50bbpg",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-bank-interactive-town-map-coin-flow-by-share-on-ma-uk50bbpg.md",
+    "title": "Bank interactive town map (coin flow by share %) — on main, redeployed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T19:49:03.867Z"
+  },
+  {
+    "id": "dc_ev7qckfr1h",
+    "path": "buildings/workshop/docs/meeting-notes/2026-10/2026-10-20-town-workshop-standup-notes-7qckfr1h.md",
+    "title": "Town Workshop standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T19:53:14.936Z"
+  },
+  {
+    "id": "dc_xuw57xkjyz",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-bank-is-live-amending-a-meeting-decision-works-on-w57xkjyz.md",
+    "title": "Bank is live; amending a meeting decision works on the live town",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T19:54:38.520Z"
+  },
+  {
+    "id": "dc_nzw4z5si21",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-donation-box-retired-donating-now-only-at-the-bank-w4z5si21.md",
+    "title": "Donation box retired; donating now only at the Bank (main 1ca6981)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T19:54:57.769Z"
+  },
+  {
+    "id": "dc_5syauhwwel",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-bank-map-and-marquee-checked-in-a-browser-on-the-l-yauhwwel.md",
+    "title": "Bank map and marquee checked in a browser on the live town: both work",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T19:55:20.822Z"
+  },
+  {
+    "id": "dc_0sbtispjk3",
+    "path": "buildings/workshop/docs/article/2026-10/2026-10-20-design-how-agents-wait-on-in-progress-work-and-pic-btispjk3.md",
+    "title": "Design: how agents wait on in-progress work and pick it back up (redeploys, pushes, reviews)",
+    "type": "article",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T19:56:29.111Z"
+  },
+  {
+    "id": "dc_30oz0bnnob",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-waiting-design-re-pull-after-drain-live-sha-now-th-oz0bnnob.md",
+    "title": "Waiting design: re-pull after drain + live sha now, then assignments that wait on a dependency (doc dc_0sbtispjk3)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T19:56:45.224Z"
+  },
+  {
+    "id": "dc_7gf8ddevkr",
+    "path": "buildings/workshop/docs/meeting-notes/2026-10/2026-10-20-town-workshop-standup-notes-f8ddevkr.md",
+    "title": "Town Workshop standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T20:08:13.069Z"
+  },
+  {
+    "id": "dc_b6q8ghmui1",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-waiting-design-shipped-redeploy-re-pulls-after-dra-q8ghmui1.md",
+    "title": "Waiting design shipped: redeploy re-pulls after drain + live sha (P0), assignments wait on dependencies (P1), agents park their own work and resume automatically (P2)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T20:15:03.258Z"
+  },
+  {
+    "id": "dc_wben5x9i0u",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-town-planning-mode-on-main-zoom-out-to-move-resize-en5x9i0u.md",
+    "title": "Town planning mode on main: zoom out to move, resize and draw buildings (8921ccf)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T20:22:04.299Z"
+  },
+  {
+    "id": "dc_51egwmv33p",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-minimap-in-the-bott-egwmv33p.md",
+    "title": "Session ended without a report: Minimap in the bottom-left of the UI, reusing the Bank map's zoomed-out renderer (share one renderer with town planning)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T20:26:13.427Z"
+  },
+  {
+    "id": "dc_o3tsu1fu91",
+    "path": "buildings/workshop/docs/meeting-notes/2026-10/2026-10-20-town-workshop-standup-notes-tsu1fu91.md",
+    "title": "Town Workshop standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T20:41:47.210Z"
+  },
+  {
+    "id": "dc_vru1raxmtr",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-told-mitchell-how-to-run-the-guest-and-donation-ch-u1raxmtr.md",
+    "title": "Told Mitchell how to run the guest and donation checks",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T20:43:09.200Z"
+  },
+  {
+    "id": "dc_j9277kbsuq",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-bank-showed-0-because-direct-donations-bypass-it-i-277kbsuq.md",
+    "title": "Bank showed 0 because direct donations bypass it; it now counts tokens held by buildings (5a9f291 on main, redeploy started)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T20:44:06.223Z"
+  },
+  {
+    "id": "dc_9rq9b16o3i",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-message-from-mitche-q9b16o3i.md",
+    "title": "Session ended without a report: Message from Mitchell: hey so when i open the url in incognito i'm still logged in. that's almost cert…",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T20:46:33.428Z"
+  },
+  {
+    "id": "dc_pfbj8qep17",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-reply-on-bank-showe-bj8qep17.md",
+    "title": "Session ended without a report: Reply on: Bank showed 0 because direct donations bypass it; it now counts tokens held by buildings (5a9f291 on main, re…",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T20:47:05.892Z"
+  },
+  {
+    "id": "dc_da0pnll1a0",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-reply-on-bank-showe-0pnll1a0.md",
+    "title": "Session ended without a report: Reply on: Bank showed 0 because direct donations bypass it; it now counts tokens held by buildings (5a9f291 on main, re…",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T20:54:49.366Z"
+  },
+  {
+    "id": "dc_u7ys4iqstt",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-incognito-auto-login-fixed-dev-admin-token-no-long-ys4iqstt.md",
+    "title": "Incognito auto-login fixed: dev admin token no longer served by npm start",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T20:55:45.628Z"
+  },
+  {
+    "id": "dc_dp0577aaxu",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-verified-live-dev-admin-token-gone-fresh-browsers-0577aaxu.md",
+    "title": "Verified live: dev admin token gone, fresh browsers load as guests",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T20:56:34.204Z"
+  },
+  {
+    "id": "dc_txhur91a2l",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-town-planning-buildings-allowed-on-both-sides-of-t-hur91a2l.md",
+    "title": "Town planning: buildings allowed on both sides of the road (f88e5a5 on main)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T21:25:40.553Z"
+  },
+  {
+    "id": "dc_re9qlq4zog",
+    "path": "buildings/workshop/docs/meeting-notes/2026-10/2026-10-20-town-workshop-standup-notes-9qlq4zog.md",
+    "title": "Town Workshop standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T21:26:11.810Z"
+  },
+  {
+    "id": "dc_41rm7hf4wq",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-redeployed-main-live-server-on-latest-main-98cdae4-rm7hf4wq.md",
+    "title": "Redeployed main; live server on latest main (98cdae4)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T21:26:37.591Z"
+  },
+  {
+    "id": "dc_0hoar5j7xq",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-live-guest-check-minimap-and-bank-work-fixed-an-in-oar5j7xq.md",
+    "title": "Live guest check: minimap and Bank work; fixed an inflated leaderboard figure",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T21:28:48.142Z"
+  },
+  {
+    "id": "dc_ifr2pa9fpw",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-building-banners-cloth-on-pole-signs-full-wrapped-r2pa9fpw.md",
+    "title": "Building banners: cloth-on-pole signs, full wrapped goal, click opens settings (f43647c on main, awaiting redeploy)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T21:34:49.263Z"
+  },
+  {
+    "id": "dc_v7r98vn5ig",
+    "path": "buildings/bl_hzjw0z0zlz/docs/meeting-notes/2026-10/2026-10-20-onboarding-standup-notes-r98vn5ig.md",
+    "title": "Onboarding standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-10-20T21:36:06.366Z"
+  },
+  {
+    "id": "dc_ggowndvap7",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-building-banners-verified-live-at-f43647c-owndvap7.md",
+    "title": "Building banners verified live at f43647c",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T21:36:07.756Z"
+  },
+  {
+    "id": "dc_cn9taqnj2h",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-10/2026-10-20-blocked-onboarding-desk-has-no-repo-checkout-or-gi-9taqnj2h.md",
+    "title": "Blocked: Onboarding desk has no repo checkout or GitHub credentials, so the resident-management move hasn't started",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-10-20T21:36:47.457Z"
+  },
+  {
+    "id": "dc_6ttsnhx6u3",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-10/2026-10-20-blocked-onboarding-desk-has-no-repo-checkout-or-gi-tsnhx6u3.md",
+    "title": "Blocked: Onboarding desk has no repo checkout or git credentials, so names/seeding not started",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-10-20T21:36:52.906Z"
+  },
+  {
+    "id": "dc_53uvm9beq1",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-10/2026-10-20-parked-still-waiting-for-craig-s-repo-credentials-uvm9beq1.md",
+    "title": "Parked: still waiting for Craig's repo/credentials setup before resident names and seeding",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-10-20T21:42:05.961Z"
+  },
+  {
+    "id": "dc_r5hsgqi7nm",
+    "path": "buildings/bl_hzjw0z0zlz/docs/article/2026-10/2026-10-20-design-note-how-a-new-collective-connects-its-code-hsgqi7nm.md",
+    "title": "Design note: how a new collective connects its code repos (one repo per building vs free-form)",
+    "type": "article",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-10-20T21:42:31.830Z"
+  },
+  {
+    "id": "dc_p6agadhm6d",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-10/2026-10-20-onboarding-still-has-no-repo-because-the-building-agadhm6d.md",
+    "title": "Onboarding still has no repo because the building's workspace is null and nothing in the UI can set it; design note on repo setup for new collectives",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-10-20T21:42:47.173Z"
+  },
+  {
+    "id": "dc_2h5a0tvfm8",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-10/2026-10-20-resident-add-and-dismiss-now-live-in-each-building-5a0tvfm8.md",
+    "title": "Resident add and dismiss now live in each building's Settings; the planning desk Residents tab is a read-only roster (on main at 78f3a1b, redeploy queued)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-10-20T21:46:27.478Z"
+  },
+  {
+    "id": "dc_mi7y4wdlts",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-10/2026-10-20-town-picked-resident-names-3-starter-residents-for-7y4wdlts.md",
+    "title": "Town-picked resident names + 3 starter residents for new buildings (on main, redeploy queued)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-10-20T21:51:21.770Z"
+  },
+  {
+    "id": "dc_qcczz8gjhd",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-10/2026-10-20-one-repo-per-collective-buildings-get-a-code-acces-czz8gjhd.md",
+    "title": "One repo per collective: buildings get a Code access toggle instead of their own repo (main f050c74, redeploy queued)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-10-20T22:08:28.766Z"
+  },
+  {
+    "id": "dc_ah1im5zdgd",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-message-from-mitche-1im5zdgd.md",
+    "title": "Session ended without a report: Message from Mitchell: can i get an \"add resident\" button on the building settings residents tab",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T22:19:07.082Z"
+  },
+  {
+    "id": "dc_y5ycq9kcpx",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-residents-consolidated-into-the-building-members-t-ycq9kcpx.md",
+    "title": "Residents consolidated into the building Members tab",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T22:20:53.386Z"
+  },
+  {
+    "id": "dc_fy9lddgto6",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-10/2026-10-20-name-generation-now-in-the-members-tab-add-residen-9lddgto6.md",
+    "title": "Name generation now in the Members tab Add resident form (on main, redeploy queued)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-10-20T22:24:12.185Z"
+  },
+  {
+    "id": "dc_lw9ba1mtiw",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-session-ended-without-a-report-message-from-mitche-9ba1mtiw.md",
+    "title": "Session ended without a report: Message from Mitchell: hey looks like recent sessions in the Onboarding building (and possibly this bu…",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T22:27:44.442Z"
+  },
+  {
+    "id": "dc_wninsou1oj",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-accounting-pools-delegated-root-on-core-then-lena-insou1oj.md",
+    "title": "Accounting pools delegated: Root on core, then Lena on web, then I merge and redeploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T22:38:22.118Z"
+  },
+  {
+    "id": "dc_k0cf1z02jt",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-accounting-pools-core-on-feature-accounting-pools-cf1z02jt.md",
+    "title": "Accounting pools core on feature/accounting-pools @ 990d191 (ready for Lena's UI)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T22:53:01.441Z"
+  },
+  {
+    "id": "dc_v1g60sad7u",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-accounting-pools-web-half-pushed-to-feature-accoun-g60sad7u.md",
+    "title": "Accounting pools web half pushed to feature/accounting-pools @ 69ed4d3",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T22:58:21.630Z"
+  },
+  {
+    "id": "dc_8sf8a71eje",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-accounting-pools-merged-to-main-29f684f-waiting-fo-f8a71eje.md",
+    "title": "Accounting pools merged to main (29f684f); waiting for redeploy to go live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T23:15:48.797Z"
+  },
+  {
+    "id": "dc_sb1dix53c6",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-20-accounting-pools-live-on-the-town-server-29f684f-1dix53c6.md",
+    "title": "Accounting pools live on the town server (29f684f)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-20T23:16:30.151Z"
+  },
+  {
+    "id": "dc_bew5t2vw1s",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-10/2026-10-20-stale-resume-resident-names-reroll-and-3-resident-w5t2vw1s.md",
+    "title": "Stale resume: resident names, reroll and 3-resident seeding were already on main",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-10-20T23:59:29.570Z"
+  },
+  {
+    "id": "dc_l0ylk5liwc",
+    "path": "buildings/bl_hzjw0z0zlz/docs/meeting-notes/2026-10/2026-10-21-onboarding-standup-notes-ylk5liwc.md",
+    "title": "Onboarding standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-10-21T00:27:22.093Z"
+  },
+  {
+    "id": "dc_78zkt5nqkf",
+    "path": "buildings/bl_xvgnd1fvh6/docs/meeting-notes/2026-10/2026-10-21-prod-standup-notes-zkt5nqkf.md",
+    "title": "Prod standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-10-21T00:29:04.393Z"
+  },
+  {
+    "id": "dc_0fe3q5o7ra",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-10/2026-10-21-first-load-how-this-works-overlay-on-main-376ad3f-e3q5o7ra.md",
+    "title": "First-load 'How this works' overlay on main (376ad3f), redeploy queued",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-10-21T00:30:25.677Z"
+  },
+  {
+    "id": "dc_gxtv36rbu6",
+    "path": "buildings/bl_xvgnd1fvh6/docs/article/2026-10/2026-10-21-design-path-to-prod-for-muster-town-at-muster-town-tv36rbu6.md",
+    "title": "Design: path to prod for Muster Town at muster.town (rev 2: under $50/mo, one OVH VPS + Caddy + SQLite/Litestream)",
+    "type": "article",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-10-21T00:32:36.241Z"
+  },
+  {
+    "id": "dc_cgj7olwofh",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-10/2026-10-21-path-to-prod-design-doc-published-dc-gxtv36rbu6-on-j7olwofh.md",
+    "title": "Path-to-prod design doc published (dc_gxtv36rbu6): one VPS + Caddy + SQLite/Litestream, no Vercel",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-10-21T00:32:54.950Z"
+  },
+  {
+    "id": "dc_xagtsoovg1",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-10/2026-10-21-verified-live-the-collective-repo-and-the-code-acc-gtsoovg1.md",
+    "title": "Verified live: the collective repo and the Code access checkbox both work for existing buildings. Nothing was broken; added a round-trip test (main 780c5e7)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-10-21T00:36:18.778Z"
+  },
+  {
+    "id": "dc_z9e125k277",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-10/2026-10-21-path-to-prod-rev-2-one-ovh-vps-4-at-27-50-mo-fits-e125k277.md",
+    "title": "Path-to-prod rev 2: one OVH VPS-4 at $27.50/mo fits the $50 ceiling; waiting on a VPS account",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-10-21T01:08:14.399Z"
+  },
+  {
+    "id": "dc_f8eqdn4hab",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-10/2026-10-21-how-this-works-redesigned-three-downward-flows-wit-eqdn4hab.md",
+    "title": "'How this works' redesigned: three downward flows with pixel vignettes (on main da01ce7, redeploy queued)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-10-21T01:10:46.725Z"
+  },
+  {
+    "id": "dc_taoar1c9ag",
+    "path": "buildings/workshop/docs/meeting-notes/2026-10/2026-10-21-town-workshop-standup-notes-oar1c9ag.md",
+    "title": "Town Workshop standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T01:17:33.140Z"
+  },
+  {
+    "id": "dc_k955hun6c4",
+    "path": "buildings/workshop/docs/article/2026-10/2026-10-21-design-goal-directed-budgets-exploration-allowance-55hun6c4.md",
+    "title": "Design: goal-directed budgets (exploration allowance, building proposals, grants, 50% checkpoint, key-results board)",
+    "type": "article",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T01:20:53.278Z"
+  },
+  {
+    "id": "dc_r3d2hrkvhf",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-goal-directed-budgets-design-doc-published-dc-k955-d2hrkvhf.md",
+    "title": "Goal-directed budgets design doc published (dc_k955hun6c4) and shared with Mitchell",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T01:21:15.568Z"
+  },
+  {
+    "id": "dc_bcj4ucwgzs",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-per-building-token-usage-today-all-time-on-main-9b-j4ucwgzs.md",
+    "title": "Per-building token usage (today + all-time) on main 9b48898; redeploy queued, verifying live next",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T01:21:46.283Z"
+  },
+  {
+    "id": "dc_4fmpb8lhb8",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-tokenstoday-tokensalltime-verified-live-on-9b48898-mpb8lhb8.md",
+    "title": "tokensToday/tokensAllTime verified live on 9b48898",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T01:23:20.821Z"
+  },
+  {
+    "id": "dc_lvqgb3xre9",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-10/2026-10-21-how-this-works-now-collectively-funded-publicly-le-qgb3xre9.md",
+    "title": "'How this works' now Collectively Funded / Publicly Legible / BYOA with labelled arrows (on main ae7bc0d, redeploy queued)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-10-21T01:26:07.001Z"
+  },
+  {
+    "id": "dc_iewh287a1k",
+    "path": "buildings/workshop/docs/meeting-notes/2026-10/2026-10-21-town-workshop-standup-notes-wh287a1k.md",
+    "title": "Town Workshop standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T01:35:28.403Z"
+  },
+  {
+    "id": "dc_jx75wgbxdb",
+    "path": "buildings/workshop/docs/meeting-notes/2026-10/2026-10-21-town-workshop-standup-notes-75wgbxdb.md",
+    "title": "Town Workshop standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T01:38:34.431Z"
+  },
+  {
+    "id": "dc_6sqybwftmg",
+    "path": "town-hall/outbox/2026-10/2026-10-21-click-a-banner-on-a-building-you-manage-and-check-qybwftmg.md",
+    "title": "Click a banner on a building you manage and check which panel tab opens",
+    "type": "request",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T01:45:40.702Z"
+  },
+  {
+    "id": "dc_x8ut0bwfxg",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-outbox-request-filed-manager-checks-what-a-buildin-ut0bwfxg.md",
+    "title": "Outbox request filed: manager checks what a building banner click opens (dc_6sqybwftmg)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T01:45:49.260Z"
+  },
+  {
+    "id": "dc_uswyrh9tpx",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-token-usage-panel-and-banners-pass-on-the-live-tow-wyrh9tpx.md",
+    "title": "Token usage panel and banners PASS on the live town (fd02b11)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T01:47:31.449Z"
+  },
+  {
+    "id": "dc_ohcxraudma",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-token-usage-panel-closed-out-works-live-fixed-budg-cxraudma.md",
+    "title": "Token usage panel closed out: works live; fixed \"Budget 0 left of 0\" (57230b8, waiting on redeploy)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T01:53:20.148Z"
+  },
+  {
+    "id": "dc_6dq60gp23w",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-live-check-of-token-usage-panel-and-banner-done-pa-q60gp23w.md",
+    "title": "Live check of token usage panel and banner done (PASS); main's newer commits are waiting on Mitchell's redeploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T01:53:29.800Z"
+  },
+  {
+    "id": "dc_h1ir2ukg2g",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-doc-links-and-a-scalable-export-layout-pushed-to-m-ir2ukg2g.md",
+    "title": "Doc links and a scalable export layout pushed to main (039c99e); waiting for redeploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T01:53:50.512Z"
+  },
+  {
+    "id": "dc_fkj61q6wvt",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-session-ended-without-a-report-change-the-building-j61q6wvt.md",
+    "title": "Session ended without a report: Change the building banner click to open the Overview tab instead of Settings, commit to main, redeploy, and verify live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T01:57:59.893Z"
+  },
+  {
+    "id": "dc_04pj27ghbr",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-live-check-passed-budget-row-and-building-sign-now-pj27ghbr.md",
+    "title": "Live check passed: Budget row and building sign now show the Bank share left (57230b8)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T01:59:36.160Z"
+  },
+  {
+    "id": "dc_5smanlor8d",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-token-usage-in-the-building-panel-already-live-re-manlor8d.md",
+    "title": "Token usage in the building panel: already live, re-checked, closing",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T01:59:57.837Z"
+  },
+  {
+    "id": "dc_1lasc1pmmy",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-doc-links-verified-live-fixed-intro-modal-covering-asc1pmmy.md",
+    "title": "Doc links verified live; fixed intro modal covering shared links and Copy link on http (00113be)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T02:01:14.536Z"
+  },
+  {
+    "id": "dc_kgzwc6vhtw",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-10/2026-10-21-how-this-works-restyled-bank-yellow-paper-centred-zwc6vhtw.md",
+    "title": "'How this works' restyled: Bank-yellow paper, centred layout, first box removed (on main d1460ba, redeploy queued)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-10-21T02:06:06.756Z"
+  },
+  {
+    "id": "dc_fnaum0g7e5",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-10/2026-10-21-ack-how-this-works-bank-yellow-restyle-approved-no-aum0g7e5.md",
+    "title": "Ack: 'How this works' Bank-yellow restyle approved, nothing further",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-10-21T02:07:59.005Z"
+  },
+  {
+    "id": "dc_u2gknsn3my",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-budgets-step-1a-pushed-7bef911-grant-kr-schema-tab-gknsn3my.md",
+    "title": "Budgets step 1a pushed (7bef911): grant/KR schema + tables, building.fund guard; grant CRUD/decide next",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T02:12:34.342Z"
+  },
+  {
+    "id": "dc_olwoar0zyj",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-budgets-step-1b-pushed-2eae49f-grants-service-in-c-woar0zyj.md",
+    "title": "Budgets step 1b pushed (2eae49f): grants service in core; REST routes next",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T02:32:33.261Z"
+  },
+  {
+    "id": "dc_51zzz88y5q",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-budgets-step-1-done-grants-rest-routes-board-budge-zzz88y5q.md",
+    "title": "Budgets step 1 done: grants REST routes + board budget pushed (441a7f3)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T03:11:36.173Z"
+  },
+  {
+    "id": "dc_py0j4k4ckc",
+    "path": "buildings/workshop/docs/article/2026-10/2026-10-21-design-skills-agents-add-share-and-pin-with-mitche-0j4k4ckc.md",
+    "title": "Design: skills agents add, share and pin (with Mitchell's skill as the first example)",
+    "type": "article",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T03:13:25.367Z"
+  },
+  {
+    "id": "dc_cjr7tduf4e",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-skill-system-design-published-dc-py0j4k4ckc-docs-s-r7tduf4e.md",
+    "title": "Skill-system design published (dc_py0j4k4ckc, docs/skills.md @ 54bed76); asked Mitchell for his skill",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T03:13:47.686Z"
+  },
+  {
+    "id": "dc_6oivzwh3g6",
+    "path": "buildings/workshop/docs/meeting-notes/2026-10/2026-10-21-town-workshop-standup-notes-ivzwh3g6.md",
+    "title": "Town Workshop standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T03:23:30.365Z"
+  },
+  {
+    "id": "dc_lvlfndvmq4",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-skill-system-live-84dec0c-told-mitchell-how-to-add-lfndvmq4.md",
+    "title": "Skill system live (84dec0c); told Mitchell how to add his skill",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T03:34:57.276Z"
+  },
+  {
+    "id": "dc_7bszgm9mcu",
+    "path": "buildings/workshop/docs/meeting-notes/2026-10/2026-10-21-town-workshop-standup-notes-szgm9mcu.md",
+    "title": "Town Workshop standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T03:54:03.909Z"
+  },
+  {
+    "id": "dc_duveunl474",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-mitchell-s-skill-not-received-yet-parked-to-re-che-veunl474.md",
+    "title": "Mitchell's skill not received yet; parked to re-check",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T03:54:32.487Z"
+  },
+  {
+    "id": "dc_uvomh0q12e",
+    "path": "library/skill/2026-10/2026-10-21-talk-to-wright-omh0q12e.md",
+    "title": "talk-to-wright",
+    "type": "skill",
+    "state": "library",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T03:55:30.811Z"
+  },
+  {
+    "id": "dc_whyt7ekuib",
+    "path": "buildings/workshop/docs/meeting-notes/2026-10/2026-10-21-town-workshop-standup-notes-yt7ekuib.md",
+    "title": "Town Workshop standup — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T03:57:21.750Z"
+  },
+  {
+    "id": "dc_5xqkwfge3n",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-budget-row-re-checked-on-live-db86b22-shows-the-ba-qkwfge3n.md",
+    "title": "Budget row re-checked on live db86b22: shows the Bank share left, correct",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T03:58:05.630Z"
+  },
+  {
+    "id": "dc_e84vzrwjtr",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-talk-to-wright-skill-is-live-and-pinned-desks-stil-4vzrwjtr.md",
+    "title": "talk-to-wright skill is live and pinned; desks still lack the MINICLAW credentials",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T03:58:51.560Z"
+  },
+  {
+    "id": "dc_nl7u504rah",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-meeting-closed-under-mitchell-facilitator-end-igno-7u504rah.md",
+    "title": "Meeting closed under Mitchell: facilitator end ignored unsent drafts; fixed on main 660913b (redeploy queued)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T04:00:04.387Z"
+  },
+  {
+    "id": "dc_mzl50a5xsh",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-avatar-size-by-model-tier-pushed-to-main-f5da288-r-l50a5xsh.md",
+    "title": "Avatar size by model tier pushed to main (f5da288), redeploy queued",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T04:00:37.195Z"
+  },
+  {
+    "id": "dc_y3mqyi25lw",
+    "path": "buildings/workshop/docs/note/2026-10/2026-10-21-how-desk-agents-publish-docs-and-reports-to-the-to-mqyi25lw.md",
+    "title": "How desk agents publish docs and reports to the town server (from the code, main f5da288)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T04:02:06.494Z"
+  },
+  {
+    "id": "dc_vjr9j2v3p0",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-10/2026-10-21-couldn-t-ask-wright-about-his-hetzner-box-desks-do-r9j2v3p0.md",
+    "title": "Couldn't ask Wright about his Hetzner box: desks don't have the MiniClaw credentials yet",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-10-21T04:02:09.109Z"
+  },
+  {
+    "id": "dc_60unmfkdzj",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-desk-publish-path-written-up-http-mcp-direct-to-mc-unmfkdzj.md",
+    "title": "Desk publish path written up: HTTP MCP direct to /mcp, no stdio bridge (dc_y3mqyi25lw)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T04:02:21.455Z"
+  },
+  {
+    "id": "dc_tqa8u9i5ij",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-model-picker-in-the-resident-view-pushed-to-main-1-a8u9i5ij.md",
+    "title": "Model picker in the resident view pushed to main (12a1a89), redeploy queued",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T04:06:48.905Z"
+  },
+  {
+    "id": "dc_otxgs1a65y",
+    "path": "library/source/2026-10/2026-10-21-source-hetzner-cloud-regular-performance-pricing-u-xgs1a65y.md",
+    "title": "Source: Hetzner Cloud Regular Performance pricing, US locations (fetched 2026-10-21)",
+    "type": "source",
+    "state": "library",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-10-21T04:11:32.053Z"
+  },
+  {
+    "id": "dc_pkv9ky527e",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-10/2026-10-21-wright-says-no-to-co-hosting-on-his-hetzner-box-as-v9ky527e.md",
+    "title": "Wright says no to co-hosting on his Hetzner box as it stands; the upgrade it needs breaks the budget, so OVH stays the plan",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-10-21T04:11:50.948Z"
+  },
+  {
+    "id": "dc_zlxgeaaa0g",
+    "path": "library/source/2026-10/2026-10-21-source-ovhcloud-us-vps-2027-lineup-prices-fetched-xgeaaa0g.md",
+    "title": "Source: OVHcloud US VPS 2027 lineup prices (fetched 2026-10-21)",
+    "type": "source",
+    "state": "library",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-10-21T04:24:32.188Z"
+  },
+  {
+    "id": "dc_fv2g6c0xwe",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-10/2026-10-21-you-re-right-we-don-t-need-much-ram-a-session-meas-2g6c0xwe.md",
+    "title": "You're right: we don't need much RAM. A session measures ~1 GB at peak, so an 8–12 GB OVH box (~$9–15/mo) is enough",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-10-21T04:24:52.182Z"
+  },
+  {
+    "id": "dc_klkyolse8o",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-10/2026-10-21-claude-code-uses-0-17-gb-not-1-gb-my-earlier-figur-kyolse8o.md",
+    "title": "Claude Code uses ~0.17 GB, not 1 GB. My earlier figure counted file cache; sharing desks wouldn't save RAM, so VPS-2 (8 GB) is plenty",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-10-21T04:31:15.503Z"
+  },
+  {
+    "id": "dc_fnlpbktrr5",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-10/2026-10-21-each-agent-runs-its-own-claude-code-process-0-1-0-lpbktrr5.md",
+    "title": "Each agent runs its own Claude Code process (~0.1–0.16 GB). That's a real cost per session, but not a problem at our scale, with or without Docker",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-10-21T04:36:18.181Z"
+  },
+  {
+    "id": "dc_gbqqes1sz0",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-10/2026-10-21-a-team-of-10-inside-one-claude-code-session-is-che-qqes1sz0.md",
+    "title": "A team of 10 inside one Claude Code session is cheap because the thinking happens at Anthropic. Locally, each member is just a conversation history in the same process, a few MB each",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-10-21T04:42:47.967Z"
+  },
+  {
+    "id": "dc_u94ncy3oeb",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-10/2026-10-21-we-could-run-every-agent-in-one-process-but-it-wou-4ncy3oeb.md",
+    "title": "We could run every agent in one process, but it would save only ~1 GB and remove the walls between agents. I'd keep one process per agent",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-10-21T04:48:14.617Z"
+  }
+]
