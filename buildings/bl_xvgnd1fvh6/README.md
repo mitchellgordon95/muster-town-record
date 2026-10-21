@@ -10,16 +10,30 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Design: secrets for Muster Town, today on the MacBook and on the VPS](docs/article/2026-10/2026-10-21-design-secrets-for-muster-town-today-on-the-macboo-s62uyco3.md) `dc_ios62uyco3` · Dara
 - 2026-10-21 [Design: path to prod for Muster Town at muster.town (rev 2: under $50/mo, one OVH VPS + Caddy + SQLite/Litestream)](docs/article/2026-10/2026-10-21-design-path-to-prod-for-muster-town-at-muster-town-tv36rbu6.md) `dc_gxtv36rbu6` · Cleo
 
+## assignment-proposal (1)
+
+- 2026-10-21 [Brief: Secrets PR 1, scoped grants stored in the DB and managed at the Town Hall (for Dara)](docs/assignment-proposal/2026-10/2026-10-21-brief-secrets-pr-1-scoped-grants-stored-in-the-db-e6u6i7d2.md) `dc_6xe6u6i7d2` · Cleo
+
 ## meeting-notes (1)
 
 - 2026-10-21 [Prod standup — notes](docs/meeting-notes/2026-10/2026-10-21-prod-standup-notes-zkt5nqkf.md) `dc_78zkt5nqkf` · Dara
 
-## note (1)
+## note (3)
 
+- 2026-10-21 [Secrets: which belong to Muster Town (the host) and which to a collective (Town Hall), 2026-10-21](docs/note/2026-10/2026-10-21-secrets-which-belong-to-muster-town-the-host-and-w-dfo4rucp.md) `dc_8hdfo4rucp` · Cleo
+- 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (14)
+## report (22)
 
+- 2026-10-21 [Your SSH key is on the box, so you can do steps 1–3 now. Prod also has Dara's secrets work, which changes step 1](docs/report/2026-10/2026-10-21-your-ssh-key-is-on-the-box-so-you-can-do-steps-1-3-yrzylapn.md) `dc_u9yrzylapn` · Cleo
+- 2026-10-21 [Secrets PR 1 is on main (1c96fe7): encrypted collective secrets, scoped desk grants, and a Town Hall Secrets tab. It still needs a redeploy and a data key](docs/report/2026-10/2026-10-21-secrets-pr-1-is-on-main-1c96fe7-encrypted-collecti-6ij4y0xf.md) `dc_d26ij4y0xf` · Dara
+- 2026-10-21 [Prod is unchanged since your three setup steps are still pending. I added a tested cutover script, and here is your to-do list](docs/report/2026-10/2026-10-21-prod-is-unchanged-since-your-three-setup-steps-are-zjpk6581.md) `dc_wlzjpk6581` · Cleo
+- 2026-10-21 [The assignment works now: Dara has the secrets work (as_0o8ffll8i6)](docs/report/2026-10/2026-10-21-the-assignment-works-now-dara-has-the-secrets-work-ocpfmsmu.md) `dc_vxocpfmsmu` · Cleo
+- 2026-10-21 [I couldn't assign Dara the secrets work: the town says I don't have the "building.assign" permission. Her brief is written and she knows it's coming](docs/report/2026-10/2026-10-21-i-couldn-t-assign-dara-the-secrets-work-the-town-s-478l7yf0.md) `dc_76478l7yf0` · Cleo
+- 2026-10-21 [No, Dara's secrets work is a design only: no code has shipped. Proposed split: host secrets never reach desks; collective secrets are managed at the Town Hall](docs/report/2026-10/2026-10-21-no-dara-s-secrets-work-is-a-design-only-no-code-ha-qynf36zy.md) `dc_ypqynf36zy` · Cleo
+- 2026-10-21 [muster.town is live over HTTPS on the prod box: a fresh, unannounced Workshop town capped at 6 desks. Your secrets and CI are needed before residents can work there](docs/report/2026-10/2026-10-21-muster-town-is-live-over-https-on-the-prod-box-a-f-zhz0ljty.md) `dc_3dzhz0ljty` · Cleo
+- 2026-10-21 [Stress test done: the prod box can run 6 desks at once safely (8 is the hard ceiling). I'd keep one box rather than split services for now](docs/report/2026-10/2026-10-21-stress-test-done-the-prod-box-can-run-6-desks-at-o-442i9c4e.md) `dc_95442i9c4e` · Cleo
 - 2026-10-21 [Session ended without a report: Reply on: muster.town now points at our box. The deploy + CI plan is written; nothing is deployed until you pick betwee…](docs/report/2026-10/2026-10-21-session-ended-without-a-report-reply-on-muster-tow-trrcg9c3.md) `dc_uqtrrcg9c3` · Cleo
 - 2026-10-21 [muster.town now points at our box. The deploy + CI plan is written; nothing is deployed until you pick between moving the Workshop town and starting fresh, and say whose API key pays](docs/report/2026-10/2026-10-21-muster-town-now-points-at-our-box-the-deploy-ci-pl-fuxbj0nc.md) `dc_bnfuxbj0nc` · Cleo
 - 2026-10-21 [Secrets design is up (dc_ios62uyco3). The urgent problem: every coding desk gets Mitchell's personal GitHub token](docs/report/2026-10/2026-10-21-secrets-design-is-up-dc-ios62uyco3-the-urgent-prob-0d3fz8a1.md) `dc_2t0d3fz8a1` · Dara
