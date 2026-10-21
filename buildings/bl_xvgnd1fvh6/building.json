@@ -12,7 +12,7 @@
   "dailyTokensPerAgent": 10000000,
   "meetings": [],
   "rules": "- We're early stages, you are encouraged to commit and push directly to main.\n- When your work lands, queue a redeploy using the provided tool so Mitchell can see the changes locally",
-  "managerAgentId": null,
+  "managerAgentId": "ag_imxsagd9cj",
   "codeAccess": true,
   "poolId": "general",
   "explorationTokensPerDay": null,

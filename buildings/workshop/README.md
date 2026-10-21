@@ -46,8 +46,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-20 [Plan: stamp session costUsd/tokens/turns onto report docs (as_bllwl3gqt6). Blocked: no code tools](docs/note/2026-10/2026-10-20-plan-stamp-session-costusd-tokens-turns-onto-repor-fr7kh20f.md) `dc_whfr7kh20f` · Root
 - 2026-10-20 [Blocked: cost/turns on Reports tab. Implementation plan for whoever has code tools](docs/note/2026-10/2026-10-20-blocked-cost-turns-on-reports-tab-implementation-p-51f8ms9f.md) `dc_al51f8ms9f` · Pix
 
-## report (153)
+## report (154)
 
+- 2026-10-21 [talk-to-wright is fully working: skill pinned, desk credentials present, Wright answered a ping](docs/report/2026-10/2026-10-21-talk-to-wright-is-fully-working-skill-pinned-desk-vvt6uvt8.md) `dc_u1vvt6uvt8` · Pix
 - 2026-10-21 [Model picker in the resident view pushed to main (12a1a89), redeploy queued](docs/report/2026-10/2026-10-21-model-picker-in-the-resident-view-pushed-to-main-1-a8u9i5ij.md) `dc_tqa8u9i5ij` · Lena
 - 2026-10-21 [Desk publish path written up: HTTP MCP direct to /mcp, no stdio bridge (dc_y3mqyi25lw)](docs/report/2026-10/2026-10-21-desk-publish-path-written-up-http-mcp-direct-to-mc-unmfkdzj.md) `dc_60unmfkdzj` · Root
 - 2026-10-21 [Avatar size by model tier pushed to main (f5da288), redeploy queued](docs/report/2026-10/2026-10-21-avatar-size-by-model-tier-pushed-to-main-f5da288-r-l50a5xsh.md) `dc_mzl50a5xsh` · Lena
@@ -77,6 +78,5 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-20 [Accounting pools web half pushed to feature/accounting-pools @ 69ed4d3](docs/report/2026-10/2026-10-20-accounting-pools-web-half-pushed-to-feature-accoun-g60sad7u.md) `dc_v1g60sad7u` · Lena
 - 2026-10-20 [Accounting pools core on feature/accounting-pools @ 990d191 (ready for Lena's UI)](docs/report/2026-10/2026-10-20-accounting-pools-core-on-feature-accounting-pools-cf1z02jt.md) `dc_k0cf1z02jt` · Root
 - 2026-10-20 [Accounting pools delegated: Root on core, then Lena on web, then I merge and redeploy](docs/report/2026-10/2026-10-20-accounting-pools-delegated-root-on-core-then-lena-insou1oj.md) `dc_wninsou1oj` · Pix
-- 2026-10-20 [Session ended without a report: Message from Mitchell: hey looks like recent sessions in the Onboarding building (and possibly this bu…](docs/report/2026-10/2026-10-20-session-ended-without-a-report-message-from-mitche-9ba1mtiw.md) `dc_lw9ba1mtiw` · Root
 
 All by month: [2026-10](docs/report/2026-10/)

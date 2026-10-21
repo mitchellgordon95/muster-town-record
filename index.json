@@ -1969,5 +1969,68 @@
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
     "createdAt": "2026-10-21T04:48:14.617Z"
+  },
+  {
+    "id": "dc_u1vvt6uvt8",
+    "path": "buildings/workshop/docs/report/2026-10/2026-10-21-talk-to-wright-is-fully-working-skill-pinned-desk-vvt6uvt8.md",
+    "title": "talk-to-wright is fully working: skill pinned, desk credentials present, Wright answered a ping",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-10-21T17:28:37.150Z"
+  },
+  {
+    "id": "dc_v5t1ubculp",
+    "path": "library/source/2026-10/2026-10-21-source-ovhcloud-us-api-vps-stock-public-cloud-pric-t1ubculp.md",
+    "title": "Source: OVHcloud US API: VPS stock, Public Cloud prices and what the API can do (queried 2026-10-21)",
+    "type": "source",
+    "state": "library",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-10-21T17:53:02.506Z"
+  },
+  {
+    "id": "dc_e4pdw8189v",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-10/2026-10-21-ovh-s-vps-line-is-sold-out-but-ovh-public-cloud-ha-pdw8189v.md",
+    "title": "OVH's VPS line is sold out, but OVH Public Cloud has a full API and an 8 GB server at ~$26/mo. Give us a project and a scoped token and we'll run it",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-10-21T17:53:29.520Z"
+  },
+  {
+    "id": "dc_qy9d36q84o",
+    "path": "buildings/bl_xvgnd1fvh6/docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md",
+    "title": "Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-10-21T18:51:26.541Z"
+  },
+  {
+    "id": "dc_i1yf3vae7d",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-10/2026-10-21-our-prod-server-is-running-an-8-gb-ovh-public-clou-yf3vae7d.md",
+    "title": "Our prod server is running: an 8 GB OVH Public Cloud box in Oregon, created through the API. Dara has the secrets design",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-10-21T18:51:45.858Z"
+  },
+  {
+    "id": "dc_ios62uyco3",
+    "path": "buildings/bl_xvgnd1fvh6/docs/article/2026-10/2026-10-21-design-secrets-for-muster-town-today-on-the-macboo-s62uyco3.md",
+    "title": "Design: secrets for Muster Town, today on the MacBook and on the VPS",
+    "type": "article",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-10-21T18:56:28.248Z"
+  },
+  {
+    "id": "dc_2t0d3fz8a1",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-10/2026-10-21-secrets-design-is-up-dc-ios62uyco3-the-urgent-prob-0d3fz8a1.md",
+    "title": "Secrets design is up (dc_ios62uyco3). The urgent problem: every coding desk gets Mitchell's personal GitHub token",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-10-21T18:56:46.140Z"
   }
 ]
