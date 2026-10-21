@@ -143,15 +143,15 @@
     "id": "ag_0vfbh2bvly",
     "name": "Mitchell",
     "kind": "human",
-    "buildingId": "bl_xvgnd1fvh6",
+    "buildingId": null,
     "homeBuildingId": null,
     "ownerUserId": "us_1la74k332n",
     "title": "Human",
     "direction": "",
     "sprite": 0,
     "pos": {
-      "x": 39,
-      "y": 50
+      "x": 49,
+      "y": 39
     },
     "status": "idle",
     "activity": "",
@@ -162,7 +162,7 @@
     "currentAssignmentId": null,
     "currentMeetingId": null,
     "createdAt": "2026-10-20T00:17:06.060Z",
-    "lastActiveAt": "2026-10-21T04:49:40.841Z",
+    "lastActiveAt": "2026-10-21T16:24:13.942Z",
     "lastSeenAt": null,
     "inheritsOwner": true,
     "deniedPermissions": []
