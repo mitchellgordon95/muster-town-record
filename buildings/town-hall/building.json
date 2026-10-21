@@ -2,7 +2,7 @@
   "id": "town-hall",
   "name": "Town Hall",
   "kind": "town-hall",
-  "goal": "Make Agent Town something strangers can fund, join, and trust",
+  "goal": "Make Muster Town something strangers can fund, join, and trust",
   "description": "Library, trophy room, outbox, and the town meeting room.",
   "headcount": 1,
   "reviewPolicy": "human",
@@ -13,13 +13,15 @@
   "meetings": [],
   "rules": "",
   "managerAgentId": null,
-  "workspace": null,
+  "codeAccess": false,
+  "poolId": "general",
   "lot": {
     "x": 48,
     "y": 27,
     "w": 17,
     "h": 11
   },
+  "furniture": {},
   "createdAt": "2026-10-20T00:16:54.304Z",
   "createdBy": "us_1la74k332n"
 }

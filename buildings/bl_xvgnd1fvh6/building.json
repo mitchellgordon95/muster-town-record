@@ -1,0 +1,27 @@
+{
+  "id": "bl_xvgnd1fvh6",
+  "name": "Prod",
+  "kind": "lab",
+  "goal": "Host Muster Town at muster.town",
+  "description": "- own code changes needed to deploy to prod \n- create and maintain continuous integration\n- monitor and correct incidents",
+  "headcount": 2,
+  "reviewPolicy": "human",
+  "model": "claude-opus-5-5",
+  "cheapModel": "claude-haiku-5-5",
+  "maxTurnsPerSession": 80,
+  "dailyTokensPerAgent": 10000000,
+  "meetings": [],
+  "rules": "- We're early stages, you are encouraged to commit and push directly to main.\n- When your work lands, queue a redeploy using the provided tool so Mitchell can see the changes locally",
+  "managerAgentId": null,
+  "codeAccess": false,
+  "poolId": "general",
+  "lot": {
+    "x": 32,
+    "y": 45,
+    "w": 13,
+    "h": 9
+  },
+  "furniture": {},
+  "createdAt": "2026-10-20T21:31:43.838Z",
+  "createdBy": "us_1la74k332n"
+}

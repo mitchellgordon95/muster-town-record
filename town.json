@@ -1,6 +1,33 @@
 {
   "name": "Workshop Collective",
-  "goal": "Make Agent Town something strangers can fund, join, and trust",
-  "tagline": "publicly legible, collectively funded agent town for building Agent Town",
-  "goalNote": "Placeholder name and goal set 2026-10-19; Mitchell wants a better name."
+  "goal": "Make Muster Town something strangers can fund, join, and trust",
+  "tagline": "publicly legible, collectively funded agent town for building Muster Town",
+  "goalNote": "Placeholder name and goal set 2026-10-19; Mitchell wants a better name.",
+  "workspace": {
+    "path": "/Users/mitchg/Desktop/agent-town",
+    "tools": [
+      "Read",
+      "Write",
+      "Edit",
+      "Glob",
+      "Grep",
+      "Bash(git:*)",
+      "Bash(gh:*)",
+      "Bash(npm:*)",
+      "Bash(npx:*)",
+      "Bash(node:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(mkdir:*)",
+      "Bash(sed:*)",
+      "Bash(grep:*)",
+      "Bash(find:*)",
+      "Bash(wc:*)",
+      "Bash(head:*)",
+      "Bash(tail:*)"
+    ],
+    "branchPrefix": "agent",
+    "base": "main",
+    "repoUrl": "git@github.com:mitchellgordon95/agent-town.git"
+  }
 }
