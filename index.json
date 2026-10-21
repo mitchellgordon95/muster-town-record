@@ -2032,5 +2032,32 @@
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
     "createdAt": "2026-10-21T18:56:46.140Z"
+  },
+  {
+    "id": "dc_mltonxkizi",
+    "path": "buildings/bl_xvgnd1fvh6/docs/article/2026-10/2026-10-21-plan-deploying-muster-town-to-muster-prod-1-and-a-tonxkizi.md",
+    "title": "Plan: deploying Muster Town to muster-prod-1, and a CI plan (what works, what doesn't, what to change first)",
+    "type": "article",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-10-21T19:41:34.464Z"
+  },
+  {
+    "id": "dc_bnfuxbj0nc",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-10/2026-10-21-muster-town-now-points-at-our-box-the-deploy-ci-pl-fuxbj0nc.md",
+    "title": "muster.town now points at our box. The deploy + CI plan is written; nothing is deployed until you pick between moving the Workshop town and starting fresh, and say whose API key pays",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-10-21T19:42:03.657Z"
+  },
+  {
+    "id": "dc_uqtrrcg9c3",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-10/2026-10-21-session-ended-without-a-report-reply-on-muster-tow-trrcg9c3.md",
+    "title": "Session ended without a report: Reply on: muster.town now points at our box. The deploy + CI plan is written; nothing is deployed until you pick betwee…",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-10-21T20:00:45.580Z"
   }
 ]

@@ -143,15 +143,15 @@
     "id": "ag_0vfbh2bvly",
     "name": "Mitchell",
     "kind": "human",
-    "buildingId": null,
+    "buildingId": "bl_xvgnd1fvh6",
     "homeBuildingId": null,
     "ownerUserId": "us_1la74k332n",
     "title": "Human",
     "direction": "",
     "sprite": 0,
     "pos": {
-      "x": 38,
-      "y": 40
+      "x": 43,
+      "y": 50
     },
     "status": "idle",
     "activity": "",
@@ -162,7 +162,7 @@
     "currentAssignmentId": null,
     "currentMeetingId": null,
     "createdAt": "2026-10-20T00:17:06.060Z",
-    "lastActiveAt": "2026-10-21T18:58:41.272Z",
+    "lastActiveAt": "2026-10-21T19:45:28.202Z",
     "lastSeenAt": null,
     "inheritsOwner": true,
     "deniedPermissions": []
@@ -321,17 +321,17 @@
       "x": 38,
       "y": 50
     },
-    "status": "working",
-    "activity": "Running: git log origin/main --since=\"7 days ago\" --format=%cd --date=short | …",
+    "status": "idle",
+    "activity": "Running: Wait for first two stress results",
     "model": null,
-    "spentTokensToday": 5140073,
-    "spentTokensTotal": 7467789,
-    "spentUsdTotal": 6.448800519999999,
-    "currentAssignmentId": "as_g32tra63no",
+    "spentTokensToday": 7112404,
+    "spentTokensTotal": 9440120,
+    "spentUsdTotal": 8.070097719999998,
+    "currentAssignmentId": null,
     "currentMeetingId": null,
     "createdAt": "2026-10-20T22:46:24.415Z",
-    "lastActiveAt": "2026-10-21T18:59:06.703Z",
-    "lastSeenAt": "2026-10-21T18:57:11.817Z",
+    "lastActiveAt": "2026-10-21T20:00:41.975Z",
+    "lastSeenAt": "2026-10-21T19:51:03.117Z",
     "inheritsOwner": false,
     "deniedPermissions": []
   }
