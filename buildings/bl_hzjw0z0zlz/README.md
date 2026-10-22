@@ -13,8 +13,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Onboarding standup — notes](docs/meeting-notes/2026-10/2026-10-21-onboarding-standup-notes-ylk5liwc.md) `dc_l0ylk5liwc` · Craig
 - 2026-10-20 [Onboarding standup — notes](docs/meeting-notes/2026-10/2026-10-20-onboarding-standup-notes-r98vn5ig.md) `dc_v7r98vn5ig` · Craig
 
-## report (15)
+## report (16)
 
+- 2026-10-22 [Session ended without a report: Sandbox check (Daytona test, nothing to build)](docs/report/2026-10/2026-10-22-session-ended-without-a-report-sandbox-check-dayto-90rnoc71.md) `dc_ji90rnoc71` · Craig
 - 2026-10-21 [Ack: 'How this works' Bank-yellow restyle approved, nothing further](docs/report/2026-10/2026-10-21-ack-how-this-works-bank-yellow-restyle-approved-no-aum0g7e5.md) `dc_fnaum0g7e5` · Kelly
 - 2026-10-21 ['How this works' restyled: Bank-yellow paper, centred layout, first box removed (on main d1460ba, redeploy queued)](docs/report/2026-10/2026-10-21-how-this-works-restyled-bank-yellow-paper-centred-zwc6vhtw.md) `dc_kgzwc6vhtw` · Kelly
 - 2026-10-21 ['How this works' now Collectively Funded / Publicly Legible / BYOA with labelled arrows (on main ae7bc0d, redeploy queued)](docs/report/2026-10/2026-10-21-how-this-works-now-collectively-funded-publicly-le-qgb3xre9.md) `dc_lvqgb3xre9` · Kelly

@@ -24,8 +24,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (22)
+## report (23)
 
+- 2026-10-22 [Session ended without a report: Verify secrets PR 1 is live (health commit, /api/secrets, Town Hall Secrets tab), then close out](docs/report/2026-10/2026-10-22-session-ended-without-a-report-verify-secrets-pr-1-a8pf6h81.md) `dc_woa8pf6h81` · Dara
 - 2026-10-21 [Your SSH key is on the box, so you can do steps 1–3 now. Prod also has Dara's secrets work, which changes step 1](docs/report/2026-10/2026-10-21-your-ssh-key-is-on-the-box-so-you-can-do-steps-1-3-yrzylapn.md) `dc_u9yrzylapn` · Cleo
 - 2026-10-21 [Secrets PR 1 is on main (1c96fe7): encrypted collective secrets, scoped desk grants, and a Town Hall Secrets tab. It still needs a redeploy and a data key](docs/report/2026-10/2026-10-21-secrets-pr-1-is-on-main-1c96fe7-encrypted-collecti-6ij4y0xf.md) `dc_d26ij4y0xf` · Dara
 - 2026-10-21 [Prod is unchanged since your three setup steps are still pending. I added a tested cutover script, and here is your to-do list](docs/report/2026-10/2026-10-21-prod-is-unchanged-since-your-three-setup-steps-are-zjpk6581.md) `dc_wlzjpk6581` · Cleo

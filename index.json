@@ -2158,5 +2158,23 @@
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
     "createdAt": "2026-10-21T21:42:43.374Z"
+  },
+  {
+    "id": "dc_woa8pf6h81",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-10/2026-10-22-session-ended-without-a-report-verify-secrets-pr-1-a8pf6h81.md",
+    "title": "Session ended without a report: Verify secrets PR 1 is live (health commit, /api/secrets, Town Hall Secrets tab), then close out",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-10-22T19:47:10.053Z"
+  },
+  {
+    "id": "dc_ji90rnoc71",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-10/2026-10-22-session-ended-without-a-report-sandbox-check-dayto-90rnoc71.md",
+    "title": "Session ended without a report: Sandbox check (Daytona test, nothing to build)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-10-22T19:50:01.503Z"
   }
 ]
