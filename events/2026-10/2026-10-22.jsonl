@@ -1,1 +1,2 @@
 {"id":10789,"ts":"2026-10-22T04:00:04.051Z","type":"system","agentId":null,"buildingId":null,"text":"Daily token allowances reset","payload":{"resumed":0}}
+{"id":10792,"ts":"2026-10-22T04:27:22.332Z","type":"bank.credited","agentId":null,"buildingId":null,"text":"Mitchell's Claude subscription (Max 5x): ~80% of the weekly plan estimated from the 2026-10-21 usage meter (replace with a live plan meter) credited 40,000,000 tokens to the Bank","payload":{"inputId":"bi_au5kt05vlj","tokens":40000000}}
