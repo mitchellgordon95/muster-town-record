@@ -51,3 +51,8 @@
 {"id":10873,"ts":"2026-10-22T19:50:01.505Z","type":"session.ended","agentId":"ag_urlkwfp5q2","buildingId":"bl_hzjw0z0zlz","text":"Craig's work session ended (interrupted)","payload":{"sessionId":"se_pfvuugpwg9","status":"interrupted","tokens":0,"costUsd":0,"turns":0,"reportId":"dc_ji90rnoc71","error":"desk exited -1"}}
 {"id":10874,"ts":"2026-10-22T19:50:32.977Z","type":"agent.status","agentId":"ag_urlkwfp5q2","buildingId":"bl_hzjw0z0zlz","text":"Craig was resumed","payload":{"status":"idle","from":"stopped"}}
 {"id":10875,"ts":"2026-10-22T20:10:51.463Z","type":"system","agentId":null,"buildingId":null,"text":"Docker is not running: code desks can't start; workshop sessions are paused","payload":{"alert":"docker-down"}}
+{"id":10878,"ts":"2026-10-22T21:12:28.733Z","type":"system","agentId":null,"buildingId":null,"text":"Docker is back: code desks resume","payload":{"alert":"docker-up"}}
+{"id":10879,"ts":"2026-10-22T21:32:21.270Z","type":"system","agentId":null,"buildingId":null,"text":"Docker is not running: code desks can't start; workshop sessions are paused","payload":{"alert":"docker-down"}}
+{"id":10880,"ts":"2026-10-22T21:34:14.402Z","type":"system","agentId":null,"buildingId":null,"text":"Docker is back: code desks resume","payload":{"alert":"docker-up"}}
+{"id":10881,"ts":"2026-10-22T21:45:58.859Z","type":"system","agentId":null,"buildingId":null,"text":"Docker is not running: code desks can't start; workshop sessions are paused","payload":{"alert":"docker-down"}}
+{"id":10882,"ts":"2026-10-22T21:46:43.089Z","type":"system","agentId":null,"buildingId":null,"text":"Docker is back: code desks resume","payload":{"alert":"docker-up"}}
