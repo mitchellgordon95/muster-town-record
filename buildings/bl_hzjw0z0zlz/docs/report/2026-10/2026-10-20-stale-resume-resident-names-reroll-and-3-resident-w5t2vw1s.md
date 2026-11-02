@@ -15,7 +15,7 @@ decidedAt: "2026-10-21T00:21:58.839Z"
 sessionId: "se_ggpc0449ei"
 assignmentId: "as_8yyooipida"
 costUsd: 0.1856629
-tokens: 232063
+tokens: 7735
 turns: 10
 createdAt: "2026-10-20T23:59:29.570Z"
 updatedAt: "2026-10-21T00:21:58.839Z"

@@ -1,0 +1,21 @@
+---
+id: "dc_md45lqrqvk"
+type: "flag"
+state: "building"
+title: "nit: the bank headline that shows how many tokens available to the town. lets change the sub numbers (expires today, pe…"
+authorId: "us_1la74k332n"
+authorKind: "user"
+buildingId: "bl_vef3v0oux0"
+provenance: {"sourceIds":[],"urls":[]}
+tags: []
+decision: "redirect"
+decisionNote: "Bank headline sub-numbers: replace \"expires today / permanent / held by buildings\" with \"claimed\" and \"free\" (Mitchell's flag dc_md45lqrqvk, a nit; directed work, his ask).\n\nWhat Mitchell asked: the Bank headline that shows how many tokens are available to the town keeps its big total, but its sub-numbers change from (expires today, permanent, held by buildings) to two: **Claimed** = exploration reservations + open grant proposals' asks + funded grants' remaining (in-progress) tokens, and **Free** = what is left to be claimed.\n\nWhere it lives (main 8a3a510, all web code, no Bank accounting change):\n- The marquee on the town map: `drawBankSign` in packages/web/src/map/overlay.ts:320-327 (`parts` = EXPIRES TODAY / PERMANENT / HELD BY BUILDINGS), called from renderer.ts:652 with `s.bank`. This is the headline Mitchell means. Change its `bank` parameter type to carry `free` and show two parts: CLAIMED and FREE. Keep the big total (townTokens) and the title line.\n- The Bank town-map flow view's title card and legend, packages/web/src/map/flow.ts:205 and :224-230: same change (title card second line \"N claimed · M free · Esc to return\"; legend rows Balance, Claimed, Free; drop Expire today / Durable / Held by buildings). Update packages/web/test/flow.test.ts accordingly.\n- The Bank page Balance table, packages/web/src/panels/BankPanel.tsx:67-76: keep the Town total and \"In the Bank\" rows, replace the Expires today / Permanent / Held by buildings rows (and the \"of which\" sub-rows) with \"Claimed (exploration reservations + open proposals + funded grants' remaining)\" and \"Free (what exploration or a new grant may still claim)\". The existing \"Free tokens\" section below (BankFreeTokens in FreeTokens.tsx) already itemises the three claim terms; keep it, or fold it in if the table reads better. Keep the Terms block consistent (FinanceTerms: define \"claimed\" if it is new vocabulary there; the stranger-readable rule from gr_8kg0kw4b64 still holds: no word used before it is defined).\n\nThe numbers already exist: GET /api/bank `free` (schema FreeTokens: reservedTokens, openAsksTokens, fundedRemainingTokens, freeTokens; computed in packages/core/src/free-tokens.ts freeTokensAll for the root goal). Claimed = reservedTokens + openAsksTokens + fundedRemainingTokens; Free = free.freeTokens. `bank.free` can be null (Bank.freeTokens is optional, bank.ts:288, :753): render \"…\" then. Do not change the API or any core accounting; if you find the sum does not reconcile with townTokens (claimed + free need not equal the total, since free is floored at 0 and earmarks count separately), say so in the report rather than forcing it.\n\nDo: PR with green tests (vitest in packages/web; mock server packages/web/src/mock/server.ts needs `free` on its bank fixture if it lacks it), merge to main yourself (town rule dc_vzqoh7ppen), CI redeploys. Then verify live signed out: the marquee shows CLAIMED and FREE with the live numbers, and run `npm run check:finance`. Take one cropped picture of the marquee (≤300 px tall) for the rollup; install playwright-core per skill dc_hzqgqqeqho if the desk lacks it. Rewrite topic pages dc_nb3743g7f6 (Bank page) and dc_xeui247glt (pictures/layout checks). Report: commit sha that should be live, the live numbers (total, claimed, free), the picture id. Never end a turn to wait for CI; park with resumeWhen {deploy: sha} if the live check must wait."
+decidedBy: "ag_s1r27j0txp"
+decidedAt: "2026-10-31T20:16:49.374Z"
+flagPos: {"x":24,"y":9}
+pickedUpAt: "2026-10-31T20:15:46.816Z"
+pickedUpBy: "ag_s1r27j0txp"
+createdAt: "2026-10-31T20:15:32.017Z"
+updatedAt: "2026-10-31T20:16:49.374Z"
+---
+nit: the bank headline that shows how many tokens available to the town. lets change the sub numbers (expires today, permanent, held by buildings) to claimed (exploration claimed + grants proposed + accepted grants - in progress token counts) and free tokens (what's left to be claimed)

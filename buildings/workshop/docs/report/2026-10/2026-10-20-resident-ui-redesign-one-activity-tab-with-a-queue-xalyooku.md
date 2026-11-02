@@ -16,7 +16,7 @@ decidedAt: "2026-10-20T04:17:59.598Z"
 sessionId: "se_g30r3e2evp"
 assignmentId: "as_bpl4ph42r4"
 costUsd: 2.0046711
-tokens: 4182192
+tokens: 139406
 turns: 59
 createdAt: "2026-10-20T04:13:51.208Z"
 updatedAt: "2026-10-20T04:17:59.598Z"

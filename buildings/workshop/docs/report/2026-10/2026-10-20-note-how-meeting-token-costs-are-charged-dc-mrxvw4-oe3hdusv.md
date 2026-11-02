@@ -15,7 +15,7 @@ decidedAt: "2026-10-20T16:19:30.444Z"
 sessionId: "se_qaicnoshka"
 assignmentId: "as_cils7eppof"
 costUsd: 0.4592444
-tokens: 275759
+tokens: 9192
 turns: 10
 createdAt: "2026-10-20T15:55:26.565Z"
 updatedAt: "2026-10-20T16:19:30.444Z"

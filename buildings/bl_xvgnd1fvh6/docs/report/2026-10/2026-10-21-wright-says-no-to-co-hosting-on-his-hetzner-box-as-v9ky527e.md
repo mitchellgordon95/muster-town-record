@@ -16,7 +16,7 @@ decidedAt: "2026-10-21T04:23:12.621Z"
 sessionId: "se_03x03ig5wo"
 assignmentId: "as_itlidy4npe"
 costUsd: 0.2685774
-tokens: 387840
+tokens: 12928
 turns: 12
 createdAt: "2026-10-21T04:11:50.948Z"
 updatedAt: "2026-10-21T04:23:12.622Z"

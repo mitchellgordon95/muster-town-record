@@ -16,7 +16,7 @@ decidedAt: "2026-10-20T03:50:32.204Z"
 sessionId: "se_deqbktqlcx"
 assignmentId: "as_1rsxanvg7t"
 costUsd: 0.8223691000000001
-tokens: 1250773
+tokens: 41692
 turns: 26
 createdAt: "2026-10-20T03:45:39.734Z"
 updatedAt: "2026-10-20T03:50:32.204Z"

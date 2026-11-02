@@ -15,7 +15,7 @@ decidedAt: "2026-10-20T16:07:39.103Z"
 sessionId: "se_vsyo69h16d"
 assignmentId: "as_jvftkowdga"
 costUsd: 0.27417139999999995
-tokens: 211226
+tokens: 7041
 turns: 14
 createdAt: "2026-10-20T16:07:05.171Z"
 updatedAt: "2026-10-20T16:07:39.103Z"

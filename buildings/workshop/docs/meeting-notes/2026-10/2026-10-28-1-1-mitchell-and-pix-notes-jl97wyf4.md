@@ -1,0 +1,42 @@
+---
+id: "dc_xjjl97wyf4"
+type: "meeting-notes"
+state: "building"
+title: "1:1: Mitchell and Pix — notes"
+authorId: "ag_mh0qidzgw6"
+authorKind: "agent"
+buildingId: "workshop"
+provenance: {"sourceIds":[],"urls":[]}
+tags: []
+createdAt: "2026-10-28T19:16:09.915Z"
+updatedAt: "2026-10-28T19:16:09.915Z"
+---
+# 1:1: Mitchell and Pix
+
+Kind: one-on-one. Facilitator: Pix. Attendees: Pix.
+
+## Agenda
+
+(none)
+
+## Summaries
+
+(none)
+## Discussion
+
+- **Pix:** Hi Mitchell. Two queued jobs waiting on forks (rollup format in code, review-deck design) and Root's side-panel resize is pushed at 869f76d, redeploy queued. What do you need?
+- **Mitchell:** oh also, it seems like town redeploys are another big blocker (besides my decisions)
+
+is there any way we can ask desks to pause, save their state, and then do the redeploy and resume without loss of work? whatever we have to do seems like it will be worth it. 
+
+maybe we add a key result to the main workshop on identifying blockers and what takes up most of the time. the idea being you proactively monitor the town health and identify issues like this
+- **Pix:** Yes, both doable. On redeploys: today the restart drains, so it waits for every running session to end (or gives up), and agents can't poll for it either. The desks are separate containers, so they don't need to die; what breaks is their connection to the server for the ~30-60 s it restarts. Two layers, cheapest first: (1) make town tool calls on desks retry through a restart (server answers "restarting, retry in N s", the desk tool client waits and retries), so a redeploy never has to drain at all; (2) for the longer image rebuild, a real pause: the server tells each session to finish its current tool call, saves the transcript (the transcript store from 8fc0bfd already keeps it), restarts, then resumes the session from the saved transcript. I'd queue it as two jobs: a short measure-and-design one (how many minutes redeploys actually cost from the event log, and the exact mechanism), and the build right behind it so it starts by itself unless I stop it after reading the design. On the key result: yes. Text I'd write: "The Workshop keeps a live 'Town blockers' page: the top wait times (deploy drain, decisions waiting on you, held assignments) measured from the event log, refreshed at every rollup, each with one proposed fix." I'd put it under the Trust objective and own it myself: first edition this week. Ok to record those three as decisions?
+- **Mitchell:** ok
+- **Pix:** Recorded, three decisions. Step 1 (measure the drain cost from the event log and design the two layers) is on the building queue as as_us3zlu1idf, a fork of me runs it. Step 2 (build layer A: desks retry through the restart, redeploy stops draining, live check across two redeploys) is as_5gi7tmqp51 and starts by itself when step 1 lands, unless I cancel it after reading the design. The Town blockers key result goes under the Trust objective; I write it and the first edition of the page this week (as_ieewvmm7fj), and every rollup from 29 on links it. You'll see the key result listed in rollup 29 to keep or cut. Anything else?
+
+## Decisions
+
+1. Redeploys stop draining running sessions. Step 1 (as_us3zlu1idf, building queue, directed): measure from the event log what each redeploy in the last 7 days cost in drain time and parked assignments, and design the mechanism in two layers: A = desk tool calls retry through the server restart (no drain), B = real pause/save transcript/resume for image rebuilds. Design only, under two pages.
+2. Step 2 (as_5gi7tmqp51, building queue, directed, waits on step 1): build layer A from the design: server answers 'restarting, retry in N s', desk client retries with a bound, no double booking, redeploy restarts at once; unit test, docs, live check with sessions running across two redeploys; straight to main. Pix reads the step-1 doc first and cancels step 2 if the design says otherwise. Layer B is a later decision on the step-1 numbers.
+3. New Workshop key result under the Trust objective ob_s7jsvvoe5p, owned by Pix: "The Workshop keeps a live 'Town blockers' page: the top wait times (deploy drain, decisions waiting on Mitchell, held assignments) measured from the event log, refreshed at every rollup, each with one proposed fix." Pix writes the key result (set_key_result, source = these meeting notes) and the first edition of the page this week, from the event log, and links it from rollup 29 onward. → Pix
+

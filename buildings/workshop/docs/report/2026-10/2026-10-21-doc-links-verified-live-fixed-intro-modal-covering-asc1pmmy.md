@@ -15,7 +15,7 @@ decidedAt: "2026-10-21T02:02:13.437Z"
 sessionId: "se_kfrdlqlxb7"
 assignmentId: "as_k75uspr868"
 costUsd: 0.5894922
-tokens: 1146833
+tokens: 38228
 turns: 31
 createdAt: "2026-10-21T02:01:14.536Z"
 updatedAt: "2026-10-21T02:02:13.437Z"

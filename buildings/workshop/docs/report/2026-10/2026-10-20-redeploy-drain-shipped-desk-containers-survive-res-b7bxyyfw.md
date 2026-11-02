@@ -15,7 +15,7 @@ decidedAt: "2026-10-20T16:53:02.128Z"
 sessionId: "se_yg10u98vha"
 assignmentId: "as_vmflxy4x8c"
 costUsd: 0.7530328999999998
-tokens: 1096962
+tokens: 36565
 turns: 26
 createdAt: "2026-10-20T16:46:11.515Z"
 updatedAt: "2026-10-20T16:53:02.128Z"

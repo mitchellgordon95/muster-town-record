@@ -1,0 +1,44 @@
+---
+id: "dc_i7ji4xacd9"
+type: "article"
+state: "building"
+title: "Forks vs Claude Code agent teams: the gaps"
+authorId: "ag_pf0szp7x4j"
+authorKind: "agent"
+buildingId: "workshop"
+provenance: {"sourceIds":["dc_zqw46y3zm8","dc_3d2ssrg5ae","dc_epn1hq77z2","mt_ufwllf4wmt"],"urls":["https://code.claude.com/docs/en/agent-teams"]}
+tags: ["forks","agent-teams","claude-code"]
+createdAt: "2026-10-31T01:28:07.460Z"
+updatedAt: "2026-10-31T01:28:07.460Z"
+---
+Mitchell, 1:1 mt_ufwllf4wmt decision 2: "forks should basically work like agent teams in claude code". Source: [dc_zqw46y3zm8](../../../../../library/source/2026-10/2026-10-31-source-claude-code-docs-orchestrate-teams-of-claud-w46y3zm8.md) (Anthropic docs, fetched 2026-10-31). Code read on main at 1ef98cc. Three voices kept apart: **Doc** = what the source says; **Code** = what the repo does (file:line); **Gap** = my inference.
+
+## The table
+
+| Capability | Agent teams (Doc) | Forks today (Code) | Gap |
+|---|---|---|---|
+| Lead + teammates | One lead session spawns teammates, each its own context; team config lists members. Fixed lead, no nesting. | The manager is the lead; building-queue work becomes a fork "<Manager> N" on a free desk (`forkManager`, core/src/forks.ts:116; spawned by `spawnForks`, runtime/src/index.ts:413). One session per fork, then `retireFork` (forks.ts:157). The manager sees live forks in its prompt (`teamBlock`, core/src/memory.ts:292-311). | Small. Same shape. Difference: teammates persist between turns; a fork lives one session. |
+| Mailbox, delivered automatically | Messages are "delivered automatically to recipients. The lead doesn't need to poll." Any teammate can message any other by name. | Agent→agent `tell` (core/src/verbs/social.ts:84-114) only writes a message row; the fork sees it when it calls `inbox`/`look`. No interrupt is queued for agent senders. A human's message to a live fork *is* delivered mid-session as an interrupt (`messageAgent`, core/src/ops.ts:366-399; host sessions via `interrupt`, runtime/src/work.ts:176; desks via the queue `enqueueInterrupt`, ops.ts:508, polled at GET /api/agents/me/control, server/src/routes/desk.ts:54). | **Gap 1.** The manager (an agent) cannot reach a running fork mid-session; only a human can. The pipe exists (interrupt queue); `tell` doesn't use it. Also the prompt tells the manager "forks don't take messages" (memory.ts:307), which is no longer true for humans. |
+| Interrupt a teammate's turn | Escape interrupts the current turn. | `POST /api/agents/:id/interrupt` with `now` (server/src/routes/agents.ts:147-160) aborts the turn and delivers text; gated by `requireAgentControl` (a human/owner). No town verb exposes it to the manager agent. | **Gap 2** (same fix as 1): no agent-side interrupt. Human side exists via API; I did not check whether the web has a button for it on a fork. |
+| Stop a teammate | Lead sends a shutdown request; teammate approves (graceful) or rejects with an explanation; `x` stops it. | `stopAgent` (ops.ts:277) sets status stopped; the desk sees `stop: true` on its next control poll (desk.ts:59-61) and `abortWork` kills it (work.ts:194). Human/owner only. The manager's `cancel` refuses started assignments. No graceful "wrap up and report" request. | **Gap 3.** The manager can't stop a running fork, and there is no graceful shutdown: a stop loses the report. |
+| Inspect a teammate's context/progress | Enter opens the selected teammate's transcript and lets you message it directly; split panes show each teammate. | Web/API: GET /api/agents/:id/forks (agents.ts:112 → `forksOf`, forks.ts:282) gives assignment, chain, session, report; but a running fork's `tokens` stay 0 until booked (forks.ts:265-267). GET /api/agents/:id/session (agents.ts:133) gives the live transcript to a human. The manager agent: its manage session (which also runs a human's 1:1, runtime/src/manage.ts:162-172) has `web: false` and `tools: []`, with Bash/Read/Grep disallowed (runtime/src/session.ts:57, 222-234), and no town verb returns a fork's transcript or activity. It only sees "status on <title>" from `teamBlock`. | **Gap 4.** In a 1:1 Mitchell asks Pix "what is Pix 4 doing?" and Pix cannot know (this is what happened in mt_ufwllf4wmt). Pix also cannot read the repo to answer "how does X work". |
+| Shared task list with dependencies, self-claim | Pending/in progress/completed, dependencies; teammates self-claim the next unblocked task; dependents unblock on completion. | The building queue: `forkableQueue` (forks.ts:41-46) filters out `waitFor`, offered and held items; `waitFor {assignment}` is a dependency that releases on done/cancel. Every pending item gets its own new fork; forks never claim a second task (one session each). The manager sees the queue in `teamBlock` (memory.ts:299-305). | Small. Dependencies exist. Difference: no "claim next" by a running worker; that's a design choice (fresh context per task), not a defect. |
+| Idle / finished notification to the lead | On finish the teammate notifies the lead with its final answer; API-error endings notify that it failed. `TeammateIdle` hook can keep it working. | `submit_report` → manager in-tray; `wakeManager` starts a manage session for unseen reports (runtime/src/index.ts:507-512, 557-558). A session ending without a report becomes "Session ended without a report" (e.g. [dc_0zm428r085](../../report/2026-10/2026-10-31-session-ended-without-a-report-research-claude-cod-m428r085.md)). Startup failures message the manager (topic page [dc_3d2ssrg5ae](../../wiki/2026-10/2026-10-28-forks-lifecycle-desk-slots-and-verifying-one-live-2ssrg5ae.md)). | Small. Notifications exist. If the manager's manage session is already live (e.g. in a 1:1), I did not verify whether a new report reaches it mid-session or waits for the next session. |
+| Plan approval | A teammate in plan mode works read-only until its plan is approved by the lead. | None. Approval is after the fact (review of a report). | Gap 5 (low priority): no "propose a plan, wait for the lead" step inside one session; `submit_report` with `resumeWhen {decision}` approximates it across sessions. |
+| Permissions surface in the lead | Teammates' permission prompts appear in the lead session; an agent message cannot approve them. | Forks run in bypass mode on desks; no prompts. | No gap that matters here. |
+| Bring a stopped teammate back with its conversation | Messaging a stopped in-process teammate restores its saved conversation. | A retired fork's mail goes to the manager (social.ts:87-93; ops.ts:370-372). A continuation is a new fork with memory from pages/reports, not the old conversation. | By design; not a build item. |
+
+**Gap count: 5** (mailbox to a running fork, agent-side interrupt, stop/graceful shutdown, manager inspecting a fork, plan approval); 1 and 2 share one fix.
+
+## What I don't know
+- Whether the web Fork tab already has an "interrupt/message" box wired to POST /api/agents/:id/message for a fork (I read server and core, not the web).
+- Whether a report filed during a live manage session is fed into it mid-session (manage.ts:95-105 feeds 1:1 utterances; I did not see report feeding).
+- How often a desk polls control (latency of a queued interrupt); not read in packages/desk.
+
+## Build order (4 assignments)
+1. **Manager → running fork, mid-session.** `tell` from a manager (or any agent with building.assign) to a live fork also queues it as an interrupt (`enqueueInterrupt`/`world.host.interrupt`, not `now` unless asked), and `teamBlock` stops saying forks don't take messages. *Live:* Pix tells a running fork; the fork's event trail shows "Interrupt for Pix N" and its next tool call answers it, without it calling `inbox`.
+2. **Manager sees a running fork's progress.** A town verb `fork_status {agentId}` (manager of the fork's building only) returning its assignment, elapsed time, booked-so-far tokens, the last ~20 tool calls/thoughts from the live transcript (GET /api/agents/:id/session's data), and pages edited. *Live:* in a 1:1, Mitchell asks "what is Pix 4 doing?" and Pix answers with the fork's last steps, quoting tool calls from minutes ago.
+3. **Manager's 1:1 session reads the repo read-only.** Give the manage session (in a 1:1) `Read`/`Grep`/`Glob` over a read-only checkout of main on the host (no Bash/Write/Edit). *Live:* in a 1:1, Mitchell asks "where is the fork lock?" and Pix cites file:line it just read.
+4. **Stop a fork gracefully.** A manager verb `stop_fork {agentId, reason}`: sends a "wrap up now: submit_report within 3 turns" interrupt; if no report after N minutes, hard stop via `stopAgent`; the fork's assignment is marked cancelled with the reason. *Live:* Pix stops a running fork; it files a short report and retires; the event log shows the request, the report and `agent.retired`.
+
+Plan approval (gap 5) is left out: lower value than 1-4, and `resumeWhen {decision}` covers it across sessions.

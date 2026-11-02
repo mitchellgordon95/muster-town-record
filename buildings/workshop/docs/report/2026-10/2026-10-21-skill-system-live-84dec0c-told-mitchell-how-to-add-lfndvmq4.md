@@ -15,7 +15,7 @@ decidedAt: "2026-10-21T03:50:59.276Z"
 sessionId: "se_uckhpxrsim"
 assignmentId: "as_02pgrisb7e"
 costUsd: 0.2339999
-tokens: 155962
+tokens: 5199
 turns: 8
 createdAt: "2026-10-21T03:34:57.276Z"
 updatedAt: "2026-10-21T03:50:59.276Z"

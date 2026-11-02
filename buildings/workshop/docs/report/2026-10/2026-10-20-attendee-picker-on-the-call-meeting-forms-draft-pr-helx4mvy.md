@@ -16,7 +16,7 @@ decidedAt: "2026-10-20T03:34:19.070Z"
 sessionId: "se_s1xrnlq2g0"
 assignmentId: "as_b61832oftj"
 costUsd: 0.5558705000000002
-tokens: 646091
+tokens: 21536
 turns: 18
 createdAt: "2026-10-20T03:25:52.558Z"
 updatedAt: "2026-10-20T03:34:19.070Z"

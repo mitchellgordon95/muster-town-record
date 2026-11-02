@@ -1,0 +1,52 @@
+---
+id: "dc_mktnbkzjkl"
+type: "meeting-notes"
+state: "building"
+title: "1:1: Mitchell and Pix — notes"
+authorId: "ag_mh0qidzgw6"
+authorKind: "agent"
+buildingId: "workshop"
+provenance: {"sourceIds":[],"urls":[]}
+tags: []
+createdAt: "2026-10-31T01:05:08.536Z"
+updatedAt: "2026-10-31T01:05:08.536Z"
+---
+# 1:1: Mitchell and Pix
+
+Kind: one-on-one. Facilitator: Pix. Attendees: Pix. Attendees brought: a status update (did, next, need).
+
+## Agenda
+
+(none)
+
+## Summaries
+
+(none)
+## Discussion
+
+- **Mitchell:** I'd like to talk about your report "Workshop rollup 33: goal tree steps 1-5 live on e3da989 (map from the tree, Town Hall goal editor, in-tray goal proposa…" ([dc_e7mjlbazn6](../../report/2026-10/2026-10-30-workshop-rollup-33-goal-tree-steps-1-5-live-on-e3d-mjlbazn6.md)). (presented: [Workshop rollup 33: goal tree steps 1-5 live on e3da989 (map from the tree, Town Hall goal editor, in-tray goal proposals, Change this goal, Planner); Bank yes needed for the Planner and steps 7-8](../../report/2026-10/2026-10-30-workshop-rollup-33-goal-tree-steps-1-5-live-on-e3d-mjlbazn6.md))
+- **Pix:** Hi Mitchell. Rollup 33 covers steps 1-5 of the goal tree build from our 1:1: the tree in the DB, the map drawn from it, the Town Hall goal editor, goal proposals in the in-tray and deck, "Change this goal" and "Plan with an agent". Since then step 6 (postmortems on missed key results + read-only Queue tabs) is live too, on 18f96f4, and a polish to cap the Done column is running.
+
+The one thing I need from you is the Bank yes: (a) how the Planner gets paid (a one-line bank.ts change so the Town Hall draws from the General pool, or a Town Hall allocation), and (b) go-ahead for steps 7 and 8 (funding streams with draw order + small-donation warning; funder filter). Until (a), "Plan with an agent" posts a can't-start notice. What would you like to talk about?
+- **Mitchell:** shouldn't the town hall just be attached to the root goal like any other building?
+- **Pix:** Yes, it should. In the goal tree it already is: the Town Hall is attached to the root goal (the town goal), and the map draws it at the root plaza. The gap is only in the Bank: drawPool in bank.ts special-cases the Town Hall and gives it no pool, so the Planner (a Town Hall resident) has nothing to run on. Every other building draws from its allocation or the General pool.
+
+The fix is to drop that special case: the Town Hall draws like any building, and Planner sessions book to the Town Hall's objective the same way Workshop sessions book to mine. Small change, no migration. If that's your yes, I'll queue it now as directed work from this 1:1 and it ships today. Does that yes also cover steps 7 and 8 (funding streams with draw order and the small-donation warning; the funder filter), or do you want those separately?
+- **Mitchell:** right. and then i'm not really sure what the other two entail but i'm pretty sure we're aligned so go ahead
+- **Pix:** Done, three things queued on the Workshop queue, in order, all directed from this 1:1:
+
+1. Town Hall draws from the Bank like any building (drop the drawPool special case; Planner sessions book to the Town Hall). Ships today, then "Plan with an agent" works.
+2. Step 7, in plain words: a donor can point their money at a goal or subtree ("fund this"), the Bank spends it there first, and the Donate form warns when an amount is too small to run one session. Runs after 1.
+3. Step 8: a funder sees the tree, in-tray and Spend tabs filtered to what their own money bought. Runs after 2.
+
+Each report will open with a plain sentence on what a funder sees that they didn't before, and each lands in a rollup with a picture. Recorded as decisions 1 and 2. A redeploy is about to restart the server; if we get cut off I'll pick up the thread after.
+- **Mitchell:** oh btw, let's change the repots so that we get rid of the "reply" option. then you can do two things after reading a report: 1:1 with the author (we already have that) or archive
+- **Pix:** Got it, queued (decision 3, as_y0ygoewah9). On every report you read, in the in-tray, the review deck and the doc reader, Reply goes away and the only two buttons are "Talk to the author" and "Archive". Archive marks it acknowledged and drops it from the in-tray, so grants and checkpoints behave as before. Grant proposals keep Fund / Counter / Reject and goal proposals keep Accept / Cut; the managers' own review of their residents' reports is untouched. It runs alongside the Town Hall Bank fix, since it doesn't touch the Bank, and you'll see it in the next rollup with a picture. Anything else?
+- **Town:** Pix's reply is waiting on a redeploy (commit 18f96f4); the server is restarting and the meeting resumes after the restart.
+
+## Decisions
+
+1. The Town Hall draws from the Bank like any building: drop the drawPool special case in bank.ts so the Planner (Plan with an agent) can run; Planner sessions book to the Town Hall's objective. Mitchell's yes for this Bank change. Queued as as_xl8nklxh62.
+2. Go ahead on goal tree build steps 7 (funding streams with draw order + small-donation warning on Donate) and 8 (funder filter) as Bank code, per docs/goals.md. Mitchell's yes for both; reports must open with plain words on what a funder now sees. Queued as as_3xd2xv78h1 (after the Town Hall fix) and as_uciill1new (after step 7).
+3. Reports a human reads (Town Hall in-tray, review deck, doc reader) lose the Reply option. After reading a report the only actions are Talk to the author (1:1, exists) and Archive (acknowledged, leaves the in-tray). Grant and goal proposals keep their own buttons; the manager's agent-side review is untouched. Queued as as_y0ygoewah9.
+

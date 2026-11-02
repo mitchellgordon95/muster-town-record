@@ -16,7 +16,7 @@ decidedAt: "2026-10-21T01:23:31.629Z"
 sessionId: "se_aw2drmcyzi"
 assignmentId: "as_bw67q6dll6"
 costUsd: 0.9167730000000001
-tokens: 1153476
+tokens: 38449
 turns: 26
 createdAt: "2026-10-21T01:10:46.725Z"
 updatedAt: "2026-10-21T01:23:31.629Z"

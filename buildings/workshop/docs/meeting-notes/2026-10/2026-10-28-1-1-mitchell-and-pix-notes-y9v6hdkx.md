@@ -1,0 +1,57 @@
+---
+id: "dc_wgy9v6hdkx"
+type: "meeting-notes"
+state: "building"
+title: "1:1: Mitchell and Pix — notes"
+authorId: "ag_mh0qidzgw6"
+authorKind: "agent"
+buildingId: "workshop"
+provenance: {"sourceIds":[],"urls":[]}
+tags: []
+createdAt: "2026-10-28T19:06:43.856Z"
+updatedAt: "2026-10-28T19:06:43.856Z"
+---
+# 1:1: Mitchell and Pix
+
+Kind: one-on-one. Facilitator: Pix. Attendees: Pix.
+
+## Agenda
+
+(none)
+
+## Summaries
+
+(none)
+## Discussion
+
+- **Pix:** Hi Mitchell. Quick state: side panel resize is pushed (869f76d, redeploy queued), and the wiki harvest fork hit a snag (forks can't read residents' private wikis). What do you need?
+- **Mitchell:** 2 things
+
+one i notice the rollups don't all have the same format we decided on earlier. can you take a look?
+
+second i want a slideshow subsystem. working generally towards presentations to help review the in tray. i know Lena or someone has a meetings proposal. i've been looking for it in the grants but don't see it
+- **Pix:** On rollups: you're right, they drifted. The format from town hall decision 5 (each Shipped item = what it is, what you'd see, a cropped screenshot, your call; then Decided, a key-results table, ≤2 Needs) only ever ran as my rollups 16 and 17, and the 1:1 to mark it up never happened, so Kelly, Cleo, Nell and Mara still write the older plain Shipped/Decided/Needs lists. I'll queue a fork to audit the last rollup from each building against that format, write it up as a "rollup-format" skill, and tell the other managers to use it. Unless you want changes to the format itself first? Say so now and the skill will carry them.
+
+On the meetings proposal: it isn't a grant, which is why it's not there. It's Lena's article "Meeting kinds today" ([dc_tcoy1plt2r](../../article/2026-10/2026-10-27-meeting-kinds-today-oy1plt2r.md)): one "Call a meeting" form with presets, agenda, what attendees bring, decisions checkbox. It's been waiting on your answer since yesterday's 1:1. For the slideshow subsystem: tell me the shape in a sentence or two. Is it a presentation built from a report, grant or in-tray item (a doc that plays as slides in the side panel, with screenshots/attachments as slides), presented in meetings via attach? If yes I'll draft a grant proposal that folds the meeting-kinds work in with it, and you fund it from the in-tray.
+- **Mitchell:** so i think it will tie into Lena's system as like a meeting mode, which is either chat or like presentations with chat, where agents draft presentations? idk, i guess it depends on how long generating the slides takes. but my northstar is making review of decisions and blockers easy to understand and fun to do. maybe that's a KR, idk
+
+for rollups, what's the difference between changing the format and having a skill? i think i want this format to be the default for all collectives, yeah?
+- **Pix:** Skill vs. default: a skill is a how-to doc a manager has to load and choose to follow, so it's advice. The default is code: the rollup section list every manager's session prompt carries and what submit_report rollup:true accepts, plus how the Town Hall in-tray renders it. You want the second. So: one build job on the Workshop queue, directed from this 1:1: make the decision-5 format the rollup format for every collective (prompt text, the sections the server expects, in-tray rendering that shows each item's what-it-is / what-you'd-see / picture / your-call), and a one-line FYI to the other managers that their next rollup is in it. No skill needed then.
+
+Slideshow: I'd make it a KR under the Trust objective, roughly "A human reviews an in-tray item as a presentation: the agent drafts a deck (slides from its report: what it is, what you'd see, pictures, your call), it plays in the side panel and in a meeting as a 'presentation' mode with chat alongside, and at least one in-tray decision gets made from a deck." Check: Present button on an in-tray item, a deck playing, a decision event that names the deck. First step is a short design from a fork: deck as a doc type (markdown split by ---, attachments as slides), the in-tray Present button, the meeting mode in Lena's Call-a-meeting form, and a measured slide-generation time so we know whether agents draft decks live or ahead of the meeting. Then I propose a grant you fund from the in-tray. Shall I record both: the rollup build and the KR + design step?
+- **Mitchell:** yeah, we can experiment with different meeting formats. i'm thinking of like, how team leads and VPs operate at Google. like they have a lot of projects they're managing. how do they manage all of that context? what do the meetings look like? open to suggestions here. i know personally my team had a specific program of 4-week dig site sprints, looking for projects to fund. then 3 month prototypes, which are gated
+
+we already have grants, which are basically that. it's just that the main bottleneck for the whole collective, right now, is mostly me holding a meeting twice a day to go through the intray and unblock everyone. making that process less painful (especially the context switching) i think is what i want to focus on. again, open to suggestions
+- **Pix:** Recorded both as decisions and queued them (forks run them): as_kyqoc5s9s7 makes the decision-5 format the town default in code, with an FYI to the other managers; as_rj8d98dauk is the review-deck design.
+
+My suggestion on the meeting itself, folded into that design: stop reviewing items, review one deck. Before each in-tray session one "review deck" is assembled from everything pending across buildings: slide 1 is the state of the town (spend, KR stoplights), then one slide per decision in order of what's blocking most. Each slide is what it is, what you'd see, a picture, your call, with the decide buttons on the slide and a one-line history of that thread ("last time you said: top up, then check live") so you never rebuild context. The meeting is Lena's presentation mode with chat alongside, so you ask the manager about a slide right there. That's roughly how a staff review at Google works: a pre-read and a decisions-needed list, not a tour of every project. Once decks exist, I'd expect one live session a day plus async decisions from the deck; FYIs stop reaching you at all.
+
+Grants already are your gated prototypes, so I'd leave the sprint rhythm alone. The design report gives the KR text and a 3-4 step build plan; then I propose the grant and you fund it from the in-tray. Anything else?
+- **Mitchell:** sgtm. i'll go through the rest of the grants for now while we work on that.
+- **Pix:** Sounds good. Both jobs are on the queue; the rollup-format commit and the review-deck design land in your in-tray under rollup 29. End the 1:1 whenever you're ready.
+
+## Decisions
+
+1. Rollup format becomes the town default in code, not a skill: the decision-5 format (each Shipped item = what it is, what you'd see, a cropped picture, your call; then Decided, a key-results table, at most 2 Needs) goes into every manager's session prompt, the shape submit_report rollup:true expects, and the Town Hall in-tray rendering; one FYI tells the other managers. Build job on the Workshop queue (a fork of Pix), directed from this 1:1.
+2. Review deck: Mitchell's bottleneck is the twice-daily in-tray meeting and its context switching. Step 1 is a design from a fork of Pix: a deck doc type (markdown split by ---, attachments as slides), one town-wide review deck assembled from the pending in-tray items (one slide per decision: what it is, what you'd see, picture, your call, with the decision buttons and a one-line history of that thread on the slide), a 'presentation' meeting mode with chat alongside in Lena's Call-a-meeting form ([dc_tcoy1plt2r](../../article/2026-10/2026-10-27-meeting-kinds-today-oy1plt2r.md)), and a measured slide-generation time. Pix then writes a KR under the Trust objective from the design report and proposes a grant for it.
+

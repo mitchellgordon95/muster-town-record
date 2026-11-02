@@ -16,7 +16,7 @@ decidedAt: "2026-10-20T04:15:00.575Z"
 sessionId: "se_ruf9ccaev6"
 assignmentId: "as_rupsta983v"
 costUsd: 1.7904939000000006
-tokens: 4149839
+tokens: 138328
 turns: 60
 createdAt: "2026-10-20T04:12:23.517Z"
 updatedAt: "2026-10-20T04:15:00.575Z"

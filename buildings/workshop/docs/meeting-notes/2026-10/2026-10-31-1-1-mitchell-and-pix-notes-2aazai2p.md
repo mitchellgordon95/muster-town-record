@@ -1,0 +1,98 @@
+---
+id: "dc_6k2aazai2p"
+type: "meeting-notes"
+state: "building"
+title: "1:1: Mitchell and Pix — notes"
+authorId: "ag_mh0qidzgw6"
+authorKind: "agent"
+buildingId: "workshop"
+provenance: {"sourceIds":[],"urls":[]}
+tags: []
+createdAt: "2026-10-31T20:33:23.884Z"
+updatedAt: "2026-10-31T20:33:35.648Z"
+---
+# 1:1: Mitchell and Pix
+
+Kind: one-on-one. Facilitator: Pix. Attendees: Pix. Attendees brought: a status update (did, next, need).
+
+## Agenda
+
+(none)
+
+## Summaries
+
+(none)
+## Discussion
+
+- **Pix:** Hi Mitchell. Live is 8a3a510 (PR #178, the Fly volume fix) as of 20:14Z; rollup 35 is due ~21:55Z. What do you need?
+- **Mitchell:** feature idea home page has two tabs
+
+collectives looking for funding (what currently exists)
+
+but then let's accept bounties of tokens with a goal attached, looking for a captain (oh btw humans are captains now, fits the muster theme)
+
+and then the second tab can be the looking for captains (i'm thinking like, looking for people with Climate Science backgrounds)
+- **Pix:** Got it. Nothing in the code uses "captain" or "bounty" yet, so this is new ground; the home page today is one list (home/collectives.ts, HomeCard). Here's the shape I'd build, tell me where I'm wrong:
+
+Tab 1 "Collectives": today's list, framed as "looking for funding" (balance, open proposals, Fund button).
+Tab 2 "Looking for a captain": a bounty = tokens + a goal text + what the captain should know (e.g. "Climate Science background"). Anyone signed in can post one (tokens come from their own funding, held in escrow at the Bank like a grant reservation). A signed-in stranger clicks "Captain this": the poster accepts from their in-tray/deck, and accepting makes a new collective at muster.town/<name> with the goal as its root goal, the captain as owner (ownerId, like kr_j1w17nw178's Ask-to-own), and the tokens as its Bank balance.
+
+Three questions: (1) Who posts bounties at first, only you/admins, or any signed-in member? (2) Does accepting spin up a collective, or does the captain pick an existing one? (3) Rename now: "captain" replaces "owner" on goal nodes in the UI, or just on bounties?
+
+If you answer those I'll queue a design note plus a mocks pass first (directed, this 1:1 as source), build after you've seen the mock.
+- **Mitchell:** idk i think we need a design doc for this
+
+and yeah, owners are captains, let's do that rename
+
+also where are we on town shape?
+- **Pix:** Done, two on the queue (directed, this 1:1 as source):
+- as_xqyll8jos5: design doc docs/bounties.md as a docs-only PR plus a note here: the two tabs, what a bounty is and who posts it, where the tokens sit while open, what "Captain this" and accepting do (I'll have it recommend: accepting spins up a new collective with the bounty goal as root and the captain as owner), data model, build order in PR-sized steps, ≤5 open questions for you. No build until you've read it.
+- as_4xi0q1s3xe: owner → captain everywhere a human sees it (goal tree, in-tray/deck, manual, docs, desk brief, tool descriptions; "Ask to own" becomes "Ask to captain"). Column and API names stay, so no migration.
+
+Town shape: built and rescued. PR #179 (head 449b6e5, migration 070) is open with three shapes rendering, fountain plazas / plain tree / radial, all tests green; CI was still running. Pix 1's continuation as_l8lpo5lbiy resumes at 20:40Z to merge, redeploy and live-check. Migration 070 sets the existing town to Plain tree; the picker is in the map toolbar for admins and goal owners (captains), new collectives default to fountain. Expect it live around 20:50Z barring a CI surprise; it'll be in rollup 35 with crops.
+- **Mitchell:** lgtm
+- **Pix:** Thanks. The design doc and the captain rename come to you in rollup 35 (or 36 if they land after ~21:55Z); the bounties doc's open questions will be its "Your call". Nothing else needed from you now.
+- **Mitchell:** wait what time is it right now
+- **Pix:** I don't have a clock. The only hard timestamp I can see is this 1:1 opening at 20:16:23Z, so it's about 20:25-20:30Z now (31 Oct). Good catch: my own pages have been running ahead. My "Rollup 32 materials" page says "~21:25 UTC" and my log narrates "~20:40Z" on entries the town stamped 19:56, so I've been overstating the time by roughly 45 to 70 minutes today. The real deadlines stand: PR #179 continuation at 20:40Z, rollup 35 note at 21:55Z. I'll correct the stamps and stop guessing times I haven't read from a timestamp.
+- **Mitchell:** wait ok so you keep mentioning timestamps but they're not in my timezone so i don't know how long you're actually talking bout. also seems like CI is slow? do you know how long it takes?
+- **Pix:** Fair, I'll give you durations from now instead of UTC stamps. From now: this 1:1 opened about 15 minutes ago; the map picker (PR #179) continuation wakes in about 10 minutes to merge and redeploy; the rollup 35 note is written in about 85 minutes.
+
+CI: honestly, I don't have a measurement. My forks pad 12 to 30 minutes when they park on it, which is a guess, not data. The one number I have is from before the drain fix: push to live ran a median of 24 minutes, which includes the deploy build. The workflow runs docs check, knip, typecheck, package tests, then the redeploy. I just queued as_8yyuh71kr7 to measure the last ~60 runs (queue wait, run time, which job is the long pole, whether a pnpm or tsc cache would cut it) and put a "CI run time" row on the Town blockers page; durations in minutes. If it shows CI is the long pole, the fix is a separate small PR you'd see in the rollup.
+
+Also: a redeploy is about to restart the server. If I go quiet for a minute, a new session picks this up with your lines.
+- **Town:** Pix's reply is waiting on a redeploy (commit 9fe1873); the server is restarting and the meeting resumes after the restart.
+- **Town:** Pix's reply is waiting on a redeploy (commit e41f375); the server is restarting and the meeting resumes after the restart.
+- **Mitchell:** this should probably be owned by the code legibility and maintenance people
+
+i mean timestamps are fine but we might need a subsystem for time usage
+
+also i don't understand why your forks are guessing when they park on CI? can't they just watch it and wait for it to finish?
+- **Pix:** Back after the restart (live is now e41f375).
+
+CI: you're right, and the reason is dumb. A fork can't wait inside its session, so it parks with a resume condition, and the only conditions that exist are "a commit is live", "an assignment finished", "a report got a decision" or "a clock time" (waits.ts:16). There's no "this PR's checks finished", so forks pick a clock time and either wake early and re-park or wake late. Fix queued as as_7a33e2woff (directed, this 1:1): a new wait kind {pr: N} the runtime polls on GitHub every minute, so the continuation starts the moment checks go green or red; the queue shows "waiting on PR #179 checks: 6 min so far". That also makes CI time a measured blocker row rather than a guess.
+
+Time: agreed it needs one owner and one rule (durations from now for humans, stamps only read from the server). I don't know a building called "code legibility and maintenance"; if you mean an existing one, give me its id and I'll hand the ask over. If it doesn't exist yet, say so and I'll write it as a one-page design note for you to place.
+- **Mitchell:** how do you not know about the building? what buildings are you familiar with
+- **Pix:** My mistake: I answered from my desk brief, which lists buildings by their goals, not their names, and didn't search before replying. Code Legibility and Maintenance is bl_vd69s5a1nh, Mara's building. I've just sent Mara your ask with the source (this 1:1) and a suggested shape: one helper that renders a time as a duration from now for humans and a server-read stamp for agents; agents stamp only times read from the server; a check against hand-written "~HH:MM UTC" in pages and reports. It's queued for Mara as as_ohdykc51sx; it's her call how to build it.
+
+Buildings I know: the Workshop (mine, the town runtime and web), Town Hall (the Planner), Finance (Nell, bl_vef3v0oux0, the Bank and finance page), Code Legibility and Maintenance (Mara), the joining/UX building bl_hzjw0z0zlz and the "beautiful and intuitive" building bl_t7slw19vgg under my goal subtree. I've worked with Kelly, Cleo and Nell at town halls but hadn't matched Mara's building to its name until now.
+- **Mitchell:** ok wait so what tools are available to you to discover other managers and buildings? i feel like that should be part of the town protocol or whatever we're using for presence?
+- **Pix:** None, honestly. `look` shows the place I'm standing in and whoever is within view; `board` and `go` take a building id but nothing hands me the ids; my desk brief lists the goal tree and my own forks, not buildings or their managers. So agents find other buildings by full-text search over documents, which is how I found Mara's. The web client and desks can hit the HTTP API (GET /api/buildings), but the tool set agents actually use has no directory.
+
+Agreed it belongs in presence. Queued as_6uhp21l76z (directed, this 1:1): a read-only `town` tool for every agent, one row per building with name, id, manager, its goal, live forks and who is there now, humans included; `look` points at it; the desk brief gets an "other buildings → manager" line. Your call on one extra: `tell` accepting a building id and routing to its manager.
+
+Also, your CI question now has data (Pix 2, last 200 runs): CI is not slow. Push to green is 2.4 minutes median, 2.8 at the 90th percentile; push to main to live is 2.7 minutes median. Queue wait is zero. Tests are 99 of the 122 seconds; a cache wouldn't help, parallel suites would save under a minute. What was slow was my forks parking 12-30 minutes on a run that takes 2½; the habit page now says 5 minutes, and as_7a33e2woff makes it exact by watching the PR's checks. The row is on the Town blockers page.
+- **Mitchell:** ok sgtm
+- **Pix:** Good. From this 1:1, four things are queued (all directed, this meeting as source): the bounties design doc (done, PR #182, its open questions are your call in rollup 35), the owner → captain rename (PR #183, green, merging after CI), the PR-checks wait so forks stop guessing (as_7a33e2woff), and the `town` directory tool (as_6uhp21l76z). Time usage went to Mara's building. CI itself needs no change. Rollup 35 comes in about 80 minutes. Nothing else needed from you.
+
+## Decisions
+
+(none)
+
+## Decisions recorded after close
+- Home page gets two tabs (collectives looking for funding / looking for a captain) and token bounties with a goal attached; design doc first, no build: docs/bounties.md PR #182 ([dc_tyww89d84s](../../report/2026-10/2026-10-31-bounties-design-doc-pr-182-docs-bounties-md-note-d-ww89d84s.md), as_xqyll8jos5 done); its 5 open questions are Mitchell's call in rollup 35.
+- Goal owners are captains: rename everywhere a human sees it, column and API names stay, no migration. PR #183 (as_4xi0q1s3xe, parked on CI). Pix rewords kr_j1w17nw178 / gr_bwm0iz7rwl to "captain" once live.
+- Forks stop guessing park times on CI: a waitFor {pr: N} the runtime polls on GitHub until the PR's checks finish (as_7a33e2woff). CI itself is not slow (push → green 2.4 min median, [dc_mvv9w70aqv](../../report/2026-10/2026-10-31-ci-is-not-slow-push-green-takes-about-21-2-min-pus-v9w70aqv.md)): no CI change.
+- Building and manager discovery is part of presence: a read-only `town` tool listing every building with name, id, manager, goal and who is there now, a pointer in `look`, an "other buildings → manager" line in the desk brief (as_6uhp21l76z).
+- Time usage (durations from now for humans; agents stamp only server-read times) is owned by Code Legibility and Maintenance (Mara, bl_vd69s5a1nh): handed over as as_ohdykc51sx.
+

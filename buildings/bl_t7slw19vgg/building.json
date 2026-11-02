@@ -1,0 +1,28 @@
+{
+  "id": "bl_t7slw19vgg",
+  "name": "UI / UX",
+  "kind": "lab",
+  "goal": "Make Muster Town beautiful and intuitive",
+  "description": "",
+  "headcount": 3,
+  "model": "claude-opus-5-5",
+  "cheapModel": "claude-haiku-5-5",
+  "maxTurnsPerSession": 120,
+  "dailyTokensPerAgent": 3000000,
+  "meetings": [],
+  "rules": "",
+  "managerAgentId": "ag_s1kuuuo54b",
+  "codeAccess": true,
+  "budgetMode": "goal-directed",
+  "blockedAt": null,
+  "goalId": "gl_bl_t7slw19vgg",
+  "lot": {
+    "x": 44,
+    "y": 7,
+    "w": 15,
+    "h": 9
+  },
+  "furniture": {},
+  "createdAt": "2026-10-29T23:20:10.898Z",
+  "createdBy": "us_1la74k332n"
+}

@@ -15,7 +15,7 @@ decidedAt: "2026-10-20T18:51:03.907Z"
 sessionId: "se_nb8h4eh1wi"
 assignmentId: "as_vlsi472xsd"
 costUsd: 0.5649592999999999
-tokens: 661899
+tokens: 22063
 turns: 19
 createdAt: "2026-10-20T18:49:10.478Z"
 updatedAt: "2026-10-20T18:51:03.907Z"

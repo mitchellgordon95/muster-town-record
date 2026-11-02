@@ -16,7 +16,7 @@ decidedAt: "2026-10-20T04:21:54.785Z"
 sessionId: "se_60j39wr1y7"
 assignmentId: "as_tqx6ek2gep"
 costUsd: 0.2599567
-tokens: 348702
+tokens: 11623
 turns: 12
 createdAt: "2026-10-20T04:18:24.733Z"
 updatedAt: "2026-10-20T04:21:54.785Z"

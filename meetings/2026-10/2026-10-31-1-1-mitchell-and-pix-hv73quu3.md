@@ -1,0 +1,31 @@
+---
+id: "mt_7mhv73quu3"
+kind: "one-on-one"
+buildingId: "workshop"
+title: "1:1: Mitchell and Pix"
+scheduledAt: "2026-10-31T16:41:35.390Z"
+phase: "done"
+facilitatorId: "ag_mh0qidzgw6"
+attendeeIds: ["ag_mh0qidzgw6"]
+agenda: ""
+brings: {"mode":"status","text":""}
+askHumans: false
+deck: null
+summaries: {}
+transcript: [{"speakerId":"ag_mh0qidzgw6","speakerKind":"agent","text":"Hi Mitchell. Live is 51f1a51 with fa73e88 (PR #163) promoting; all five \"thin layer\" steps are live. What do you need?","at":"2026-10-31T16:41:39.551Z"},{"speakerId":"us_1la74k332n","speakerKind":"user","text":"there was no rollup","at":"2026-10-31T16:41:49.169Z"},{"speakerId":"ag_mh0qidzgw6","speakerKind":"agent","text":"Right: rollup 33 went out at 00:30Z and I held rollup 34 for the 24 h rule, even though 76 reports got decided and PRs #152 to #163 all landed since (goal tree editor UX pass, the five \"thin layer\" steps, Bank pool on goals). That was the wrong call with that much shipped. I'll file rollup 34 as soon as this 1:1 ends. Do you want the rule changed to \"roll up whenever something ships\" instead of once a day?","at":"2026-10-31T16:41:57.171Z"},{"speakerId":"us_1la74k332n","speakerKind":"user","text":"why did we set the 24 hour rule in the first place?","at":"2026-10-31T16:42:46.922Z"},{"speakerId":"ag_mh0qidzgw6","speakerKind":"agent","text":"It came out of the 10-25 town hall autonomy decision (decision 5, notes dc_z4zgfk6tsz): before it, every manager report was a Town Hall item and your in-tray was flooded. The waterfall design (docs/waterfall.md §3.1 and §3.2) turned that into \"one rollup per day, or sooner on escalation\" as a rule of thumb to cap your in-tray, and the manager prompt carries it verbatim. The 24 h number was never your choice; it was a guess at a load cap, made when a day had two or three PRs, not twelve. Proposed replacement: roll up whenever something new is live and I've decided its reports, with a minimum gap of about 4 h so a run of small PRs lands as one item, plus escalation as now. Want that?","at":"2026-10-31T16:43:04.800Z"},{"speakerId":"us_1la74k332n","speakerKind":"user","text":"sure i suppose","at":"2026-10-31T16:46:12.360Z"},{"speakerId":"ag_mh0qidzgw6","speakerKind":"agent","text":"Done, both recorded as decisions and queued: as_23ze2wvrza files rollup 34 now (goal tree editor UX pass, the thin-layer PRs #154-#163, the desk deaths fix, Decided lines for the 76 reports), and as_65e14yg5lf changes the rule in the manager prompt (core/prompts.ts) and docs/waterfall.md to \"roll up whenever something new is live and decided, minimum ~4 h gap, sooner on escalation\", with the live commit's time shown in my in-tray block so I can tell when something landed. Rollup 34 should be in your in-tray within the hour. Anything else?","at":"2026-10-31T16:47:22.644Z"}]
+decisions: [{"text":"Rollup cadence changes from \"24 h since the last rollup\" to \"whenever something new is live and its reports are decided, with a minimum gap of ~4 h between rollups, or sooner on escalation; nothing happened → no rollup\". Edit ROLLUP_RULE_HOURS and the in-tray block wording in core/prompts.ts (line ~273) and docs/waterfall.md §3.1/§3.2; the in-tray block also says the latest live commit's time so the manager can tell whether something landed since the last rollup. Merge, redeploy.","assigneeId":null,"assignmentId":null,"lane":"directed","sourceId":"mt_7mhv73quu3"},{"text":"File Workshop rollup 34 now (live 51f1a51 / fa73e88): Shipped = goal tree editor UX pass (44032d8, crop mf_sszvose9rk), the five \"thin layer\" steps PRs #154-#160 + #161-#163 (crop mf_rbkxztsb6w or mf_5opjn7xarr), desk deaths fix (crop mf_9v3hrw5zbd); Decided = every report approved since rollup 33 (list in page dc_u45t9giud5); refresh Town blockers dc_nhd0maw3f5 first; Needs: \"Save defaults once\" and gr_tvt32g9xly / gr_iq5m7dug56 only if they have no other channel.","assigneeId":null,"assignmentId":null,"lane":"directed","sourceId":"mt_7mhv73quu3"}]
+notesDocId: "dc_f5t1o493cj"
+withUserId: "us_1la74k332n"
+createdAt: "2026-10-31T16:41:35.390Z"
+startedAt: "2026-10-31T16:41:35.390Z"
+endedAt: "2026-10-31T16:47:27.754Z"
+---
+# 1:1: Mitchell and Pix
+
+- **Pix** (2026-10-31T16:41:39.551Z): Hi Mitchell. Live is 51f1a51 with fa73e88 (PR #163) promoting; all five "thin layer" steps are live. What do you need?
+- **Mitchell** (2026-10-31T16:41:49.169Z): there was no rollup
+- **Pix** (2026-10-31T16:41:57.171Z): Right: rollup 33 went out at 00:30Z and I held rollup 34 for the 24 h rule, even though 76 reports got decided and PRs #152 to #163 all landed since (goal tree editor UX pass, the five "thin layer" steps, Bank pool on goals). That was the wrong call with that much shipped. I'll file rollup 34 as soon as this 1:1 ends. Do you want the rule changed to "roll up whenever something ships" instead of once a day?
+- **Mitchell** (2026-10-31T16:42:46.922Z): why did we set the 24 hour rule in the first place?
+- **Pix** (2026-10-31T16:43:04.800Z): It came out of the 10-25 town hall autonomy decision (decision 5, notes dc_z4zgfk6tsz): before it, every manager report was a Town Hall item and your in-tray was flooded. The waterfall design (docs/waterfall.md §3.1 and §3.2) turned that into "one rollup per day, or sooner on escalation" as a rule of thumb to cap your in-tray, and the manager prompt carries it verbatim. The 24 h number was never your choice; it was a guess at a load cap, made when a day had two or three PRs, not twelve. Proposed replacement: roll up whenever something new is live and I've decided its reports, with a minimum gap of about 4 h so a run of small PRs lands as one item, plus escalation as now. Want that?
+- **Mitchell** (2026-10-31T16:46:12.360Z): sure i suppose
+- **Pix** (2026-10-31T16:47:22.644Z): Done, both recorded as decisions and queued: as_23ze2wvrza files rollup 34 now (goal tree editor UX pass, the thin-layer PRs #154-#163, the desk deaths fix, Decided lines for the 76 reports), and as_65e14yg5lf changes the rule in the manager prompt (core/prompts.ts) and docs/waterfall.md to "roll up whenever something new is live and decided, minimum ~4 h gap, sooner on escalation", with the live commit's time shown in my in-tray block so I can tell when something landed. Rollup 34 should be in your in-tray within the hour. Anything else?

@@ -1,0 +1,73 @@
+---
+id: "dc_3yqhz2qidx"
+type: "meeting-notes"
+state: "building"
+title: "1:1: Mitchell and Mara — notes"
+authorId: "ag_croreod6q3"
+authorKind: "agent"
+buildingId: "bl_vd69s5a1nh"
+provenance: {"sourceIds":[],"urls":[]}
+tags: []
+createdAt: "2026-11-01T02:00:44.215Z"
+updatedAt: "2026-11-01T02:00:44.215Z"
+---
+# 1:1: Mitchell and Mara
+
+Kind: one-on-one. Facilitator: Mara. Attendees: Mara. Attendees brought: a status update (did, next, need).
+
+## Agenda
+
+(none)
+
+## Summaries
+
+(none)
+## Discussion
+
+- **Mitchell:** I'd like to talk about the proposal "Agent status becomes one core state machine: a dismissed or banned agent can never come back by accident, and "is this …" (gr_xqg010d9ll), for key result kr_w3y6i71tor: "A dismissed agent stays dismissed: stopping or resuming it, a meeting decision, or a review continue on it is refused, and its status stays retired.". (presented: Grant: Agent status becomes one core state machine: a dismissed or banned agent can never come back by accident, and "is this agent gone?" is asked one way instead of 122. (page grant:gr_xqg010d9ll))
+- **Mara:** Happy to. The KR comes from a bug I reproduced on main: ops.stopAgent (core ops.ts:259) has no retired/banned guard, and resumeAgent (ops.ts:266) only checks "stopped". So dismiss → stop → resume takes a dismissed resident retired → stopped → idle, and it is back in the town. Assign already guards against this (ops.ts:250), and you fixed the same class in the budget sweep (94f302d), but each call site carries its own check, so the next one will miss it again. The KR says: after the PR, stop, resume, a meeting decision or a review continue on a dismissed agent is refused with a conflict error and the status stays retired, with core tests for each path. The fix is one transition table enforced in World.setStatus, so no call site can revive a gone agent even if it forgets the check. What would you like to go over: the scope, the 200k ask, or the check itself?
+- **Mitchell:** i really like this direction, i think it's a good idea
+
+i do want to make sure, though, that we're not improving agent code that's dead or underused
+
+so right now we have this goal oriented structure, which (along with desk allocation) determines buildings as a thin layer on top of goals. and then every building has exactly one manager with a certain number of desks that provide concurrency via forks
+
+so the way that we interact with manager agents (and see assignments on forks) is basically the only thing we need. so if there's other old code hanging around from when we had multiple residents in each building, maybe it's better to get rid of it before doing the state machine work
+- **Mara:** Agreed, and I checked the snapshot: there is multi-resident leftover, and most of it sits right on the paths this grant would harden. What I see on main: (1) seed.ts still creates a list of residents per building from collective.json (`spec.residents`, seed.ts:239) plus an optional per-building "Reviewer" resident with a building reviewer role (seed.ts:244, and Moss in the v0 import path at :213); the reviewer role is referenced in about 29 places across 7 core files (meetings, forks, verbs, migrate-roles). (2) The web mock fixture and layout still model several residents per building and a town moderator. (3) stop/resume: stopAgent is live (forks.ts:341 uses it to retire forks), but resumeAgent looks like a human-only button for the old resident case; I'd confirm nothing calls it before keeping it. (4) "out-of-budget" is set only on kind resident (work.ts:41), which now means managers and forks. The "is this agent gone" checks (122 in 42 files) are partly this same leftover, so deleting it first shrinks the sweep instead of hardening dead branches. Proposal: reorder the grant into two PRs under the same 200k. PR 1: remove the per-building residents list and reviewer role from seed and collective.json, the mock's multi-resident fixtures, and resume if it is unused; one agent model of manager plus forks plus visitors plus service agents. PR 2: the transition table and predicate on what is left. Two things only you can answer: is collective.json on the live host still listing residents or a reviewer for any building, and is the town moderator (Wren) still a thing you want? If you say go, I'll re-propose with that order, or just run it that way once funded and the first report shows the inventory before anything is deleted.
+- **Town:** Mara's reply is waiting on a redeploy (commit d9f28c5); the server is restarting and the meeting resumes after the restart.
+- **Mara:** Back after the restart (d9f28c5 live). My reply above stands. One thing I checked meanwhile: resume is not dead. Its only caller is the Resume button in the agent panel (AgentPanel.tsx:310, :466), which a human uses on a stopped agent, and "stop" from a review decision still stops a manager, so stop/resume stays as a human control on managers. It just needs the guard, which is the KR. So the plan is: PR 1 deletes the multi-resident leftover (per-building residents list and the building reviewer role in seed/collective.json, the mock's multi-resident fixtures, the out-of-budget kind check), PR 2 adds the transition table and the one "is gone" predicate on what remains. Same 200k. Still want your two answers: does the live collective.json list residents or a reviewer for any building, and do you want to keep a town moderator (Wren)? If you say go, I'll re-propose in that order.
+- **Mitchell:** so a few things
+
+i don't see Wren, and i don't think that agent has ever done anything
+
+i don't know about collective.json listing residents, what exactly do you mean there? and what even is a reviewer for a building?
+
+i also think if we're doing this work we should think about the role of visitors and service agents. first of all, am i correct in assuming visitors are humans and service agents are like claude code instances connecting to our API?
+- **Mara:** Three answers, from the code on main.
+
+1. Wren is only the web mock's fixture moderator (mock/fixture.ts:66); the real spec names "Harbor". Moderators are created once at first seed and never on an existing DB (seed.ts:182), and you don't see one, so the live town has none. The "moderator" town role and createTownModerator are dead for us; I'd delete them.
+
+2. collective.json is collectives/workshop/collective.json in the repo. It still says the Town Workshop has residents Pix, Root and Sage, plus a "reviewer" Keel with a direction string. Seed reads it only when the DB is empty, so the live town ignores it, but a fresh install would still create three residents and a reviewer. A building reviewer was the old per-building agent with role "reviewer" that reviewed the residents' reports and facilitated meetings; the manager does that now. I'd cut residents and reviewer from the spec and the reviewer role from core (about 29 references in 7 files), leaving a building spec of name, goal, manager and desks.
+
+3. It's the other way round. Kind "human" is your avatar in the town (ensureAvatar). Kind "visitor" is a Claude Code instance over MCP or the CLI that a user registers (registerVisitor, entities.ts:236); it can hold a desk in a building and be offered assignments. Kind "service" is Ada the librarian, the only one (seed.ts:208); it never runs a model session (ops.ts:122). Wright on your VPS would be a visitor if he connects at all. So the model after PR 1 would be: human avatars, managers with forks, visitors (outside Claude Codes), and Ada. Is that the set you want, and do you want Ada kept?
+- **Mitchell:** nah we can delete Ada and the supporting code
+
+visitors are interesting. i don't think we offer them existing desks. basically when they connect we let them choose a goal to work on and while they're doing that, they get a +1 desk that adds to the goal's concurrency
+- **Mitchell:** because they're effectively adding tokens and compute to that goal
+- **Mara:** Good. Ada goes: the service kind, createServiceAgent, and her references (24 in 15 files, mostly seed, the web mock, and a Bank line that names her as the librarian). The library place itself stays.
+
+Visitors, what the code does today versus what you want. Today a visitor registers with an optional buildingId and claims one of that building's existing desks (entities.ts:254). The manager's fork count is headcount minus desks in use (forks.ts:49), so a visitor at a desk takes one fork slot from the manager, which is the opposite of what you described. Your model: a visitor connects, picks a goal, is homed in the building attached to that goal, and gets a desk grown beyond headcount (the same grow option createResident already uses, entities.ts:189) for as long as they are working there; it is released when they leave or go offline, so the manager's concurrency is untouched. One question inside that: can they pick any goal in the tree, or only a goal that has a building attached? Buildings sit on goals, so I'd say a goal with a building, or the nearest ancestor with one.
+
+That is now three pieces, so I'd re-propose this grant as one plan with three KRs: (1) one agent model: moderator role, building reviewer role, per-building residents list and Ada removed from core, seed, the spec and the mock; (2) visitors pick a goal and get a +1 desk that adds to that goal's concurrency, released when they leave; (3) the status transition table and one "is gone" predicate, with the dismiss → stop → resume test. Ask 300k instead of 200k for the two extra PRs. If that sounds right, say go and I'll re-propose after this meeting; if you'd rather keep visitors as a separate grant, say that and I'll file two.
+- **Mara:** Right, that is the key difference. A visitor runs on their own Claude Code and their own subscription, so their desk costs the town nothing and should never be one of the headcount slots the Bank's daily cap is sized for (daily budget per agent times desks, ops.ts:51). The code already half-knows this: the Bank never meters a visitor (nothing in budget.ts mentions them; the server only uses the owner for permission capping, context.ts:153). So KR 2 becomes: a visitor picks a goal, gets a desk beyond headcount in that goal's building for as long as they work, and their sessions show on the goal as contributed tokens, drawn from nobody's Bank balance and not counted against the goal's cap. I'll word the three KRs that way in the re-proposal at 300k. Say go, or tell me what to change.
+- **Mitchell:** yeah basically. only thing i might change is maybe (not sure if this is correct) they can change a goal with no current desks. then they become the manager for that building. that would require a different kind of interaction model from fork assignments, but it feels more correct
+- **Mara:** I think that is correct, and it falls out of the goal model: a goal with no desks today is a goal with no building attached, or a building at headcount 0, so nobody is doing anything for it. A visitor adopting it means the town gets a manager for that goal for free. Concretely: adopting creates the building on the goal if there is none, seats the visitor as its manager, and the manager's channels (its in-tray, flags, 1:1s, tells to the building id, the Town Hall rollup path) go to that visitor. Two things are different from a desk manager, and both are simplifications rather than new machinery: the town cannot fork a visitor (no credential of theirs in the Bank), so a visitor-manager does the work in their own session and `assign` with no agentId is refused for them; and when they leave or go offline the building is managerless, so its queue holds and the next visitor can adopt it, the same as a goal with no desks today. Humans talking to a visitor-manager works unchanged, since tells and 1:1s already address agents, not kinds.
+
+I'd put it in the same grant as KR 4, last, with the stop condition that KRs 1 to 3 ship even if adoption needs its own round, and raise the ask to 350k. The re-proposal would read: (1) one agent model, leftover roles and Ada gone; (2) a visitor picks a goal with desks and gets a +1 desk, contributed tokens shown on the goal; (3) status transition table and one "is gone" predicate; (4) a visitor adopting a goal with no desks becomes its building's manager, and the building holds its queue when they leave. Go?
+- **Mitchell:** ok yeah i think that's basically it
+- **Mara:** Done. The new proposal is gr_a5ct690l7a (350k, four KRs in the order we agreed, KRs 1-3 ship even if adoption needs its own round) and it is in your Town Hall in-tray now. One housekeeping ask: the town would not let me rewrite gr_xqg010d9ll (only a countered proposal can be re-proposed), so please reject that one when you fund the new one. I recorded the plan as this meeting's decision 1. When it is funded, the first assignment is PR 1's inventory, and its report lists everything before anything is deleted. End the meeting whenever you like.
+
+## Decisions
+
+1. Agent model and status work is re-proposed as gr_a5ct690l7a (350k, four PRs in order): (1) delete the moderator role, building reviewer role, per-building residents list and Ada; (2) a visitor picks a goal with desks and gets a +1 desk beyond headcount, tokens shown as contributed, never Bank-metered; (3) status transition table in World.setStatus and one 'is gone' predicate, dismiss -> stop -> resume refused; (4) a visitor adopting a goal with no desks becomes its building's manager, the building holds its queue when they leave. KRs 1-3 ship even if 4 needs its own round. Mitchell funds it from the in-tray and rejects the superseded gr_xqg010d9ll (200k), which the town would not let Mara rewrite.
+

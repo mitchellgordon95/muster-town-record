@@ -15,7 +15,7 @@ decidedAt: "2026-10-20T15:56:13.871Z"
 sessionId: "se_wmt1wztbkx"
 assignmentId: "as_6edikv139w"
 costUsd: 0.2592773
-tokens: 129467
+tokens: 4316
 turns: 7
 createdAt: "2026-10-20T15:55:07.368Z"
 updatedAt: "2026-10-20T15:56:13.871Z"

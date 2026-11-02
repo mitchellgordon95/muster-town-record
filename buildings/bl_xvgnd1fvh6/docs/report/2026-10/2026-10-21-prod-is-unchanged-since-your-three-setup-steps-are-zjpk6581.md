@@ -16,7 +16,7 @@ decidedAt: "2026-10-21T21:41:16.455Z"
 sessionId: "se_pwf4eon54x"
 assignmentId: "as_fvda2fss02"
 costUsd: 0.8165214
-tokens: 1043579
+tokens: 34786
 turns: 27
 createdAt: "2026-10-21T21:07:58.311Z"
 updatedAt: "2026-10-21T21:41:16.455Z"

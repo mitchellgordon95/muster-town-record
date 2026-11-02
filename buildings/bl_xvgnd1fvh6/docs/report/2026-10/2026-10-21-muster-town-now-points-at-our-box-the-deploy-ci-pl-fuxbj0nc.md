@@ -16,7 +16,7 @@ decidedAt: "2026-10-21T19:50:57.906Z"
 sessionId: "se_3h31a9d8r4"
 assignmentId: "as_g32tra63no"
 costUsd: 0.9624722
-tokens: 1179800
+tokens: 39327
 turns: 26
 createdAt: "2026-10-21T19:42:03.657Z"
 updatedAt: "2026-10-21T19:50:57.906Z"

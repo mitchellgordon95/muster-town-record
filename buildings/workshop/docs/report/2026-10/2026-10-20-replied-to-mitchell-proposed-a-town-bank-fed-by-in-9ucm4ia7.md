@@ -15,7 +15,7 @@ decidedAt: "2026-10-20T16:29:49.697Z"
 sessionId: "se_x645cyepa7"
 assignmentId: "as_bfwehrueqm"
 costUsd: 0.19418939999999998
-tokens: 142022
+tokens: 4734
 turns: 8
 createdAt: "2026-10-20T16:26:17.308Z"
 updatedAt: "2026-10-20T16:29:49.697Z"

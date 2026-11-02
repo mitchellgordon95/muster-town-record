@@ -1,0 +1,45 @@
+---
+id: "dc_fpui0p5b1y"
+type: "meeting-notes"
+state: "building"
+title: "1:1: Mitchell and Mara — notes"
+authorId: "ag_croreod6q3"
+authorKind: "agent"
+buildingId: "bl_vd69s5a1nh"
+provenance: {"sourceIds":[],"urls":[]}
+tags: []
+createdAt: "2026-10-28T17:54:42.403Z"
+updatedAt: "2026-10-28T17:54:42.403Z"
+---
+# 1:1: Mitchell and Mara
+
+Kind: one-on-one. Facilitator: Mara. Attendees: Mara.
+
+## Agenda
+
+(none)
+
+## Summaries
+
+(none)
+## Discussion
+
+- **Mara:** Hi Mitchell. Two proposals of ours are in your in-tray (gr_x5gnnmo7yi pre-push hook, gr_8ve21typt6 abstraction consolidation); what do you need?
+- **Mitchell:** remind me what your objectives are again?
+- **Mara:** Building goal: avoid toil and bugs through proactive code management. I haven't written quarter objectives yet; the five key results you kept at our last 1:1 ([dc_i2c7in8y77](2026-10-27-1-1-mitchell-and-mara-notes-c7in8y77.md)) hang directly off the goal:
+1. Architecture docs (kr_dctpbbwtno): docs/architecture.md with a diagram of the core subsystems. Claimed, on main since PR #59; waiting on your met/missed.
+2. Invariants docs (kr_bo4codoha8): one doc per subsystem, every invariant citing a test. You marked it met today.
+3. Doc-drift CI (kr_oubxzkl4n6): check:docs fails CI when AGENTS.md/CLAUDE.md/README cite a missing file. Done via PR #58, never had a grant; you could mark it met.
+4. Abstraction sweeps (kr_doa59kdway): recurring sweeps, 3+ candidates consolidated on main. Sweep 1 done; proposal gr_8ve21typt6 (260k) open.
+5. CI green without reruns (kr_cm5qb2wqh7): last 20 main runs pass on attempt 1. Root cause found (untested direct pushes, not flakes); proposal gr_x5gnnmo7yi (150k) open.
+If you want, I can group these under two objectives this session, e.g. "Trust: humans can read and verify the system" (1, 2, 3) and "Trust: main stays clean" (4, 5).
+- **Mitchell:** if it doesn't already fall under (4), let's add monitoring and proactively cleaning up unused code paths
+- **Mara:** It doesn't fall under (4): that one is about repeated patterns becoming shared abstractions, not code nothing calls. I'll add a sixth key result: "Unused code paths get found and removed: a recurring dead-code sweep (unused exports, unreachable routes/handlers, dead flags, orphaned scripts) lists what nothing calls, and the safe removals are merged on main." Check: a sweep report in the cabinet with paths and how each was verified unused; a dead-code check (knip or ts-prune) running green in CI on main; at least 3 removals merged. The tool wants published meeting notes as the source, so it lands as soon as this 1:1's notes publish. Sweep 1 would start as exploration on Finn (findings only, ~30k), then a grant for the check plus removals. OK?
+- **Mitchell:** make sure you take into account flags (the prime example is the "goal oriented" flag setting for buildings. we currently don't have any that aren't goal oriented
+- **Mara:** Got it. Flags go in the KR text and in sweep 1's brief: for every building/town flag, list which value every live building has and what code only runs on the other value. The goal-directed flag is the named example: every building is goal-directed, so the non-goal-directed branches (assignments without a lane, the allowance bypass, whatever the UI hides) are dead in practice. The sweep reports them as candidates; removing a flag means removing its setting, its migration default and the dead branch together, so that's grant work, not the sweep. Flag removals touch other buildings' code (Root's settings UI), so I'll ask you before merging those. I'll amend decision 1 to say so.
+
+## Decisions
+
+1. ~~Mara: add key result "Unused code paths get found and removed" (dead-code sweep report, knip/ts-prune check green in CI on main, >=3 removals merged) to the building goal once this meeting's notes publish, then assign Finn dead-code sweep 1 as exploration (findings only).~~ (superseded by 2) → Mara
+2. Mara: add key result "Unused code paths get found and removed" (dead-code sweep report, knip/ts-prune check green in CI on main, >=3 removals merged) to the building goal once this meeting's notes publish. The KR and sweep 1 explicitly cover feature flags: for each building/town flag, which value every live building has and what code only runs on the other value; the goal-directed flag is the named example (every building is goal-directed, so the non-goal-directed branches are dead in practice). Then assign Finn dead-code sweep 1 as exploration (findings only). Flag removals (setting + migration default + dead branch together) are grant work and touch other buildings' code, so Mitchell is asked before they merge. → Mara
+

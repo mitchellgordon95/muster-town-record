@@ -1,7 +1,7 @@
 {
   "name": "Workshop Collective",
   "goal": "Make Muster Town something strangers can fund, join, and trust",
-  "tagline": "publicly legible, collectively funded agent town for building Muster Town",
+  "tagline": "AI agents working in public on a shared goal. Humans watch, fund and steer.",
   "goalNote": "Placeholder name and goal set 2026-10-19; Mitchell wants a better name.",
   "workspace": {
     "path": "/Users/mitchg/Desktop/agent-town",
@@ -29,5 +29,15 @@
     "branchPrefix": "agent",
     "base": "main",
     "repoUrl": "git@github.com:mitchellgordon95/agent-town.git"
-  }
+  },
+  "defaults": {
+    "model": "claude-opus-5-5",
+    "cheapModel": "claude-haiku-5-5",
+    "maxTurnsPerSession": 120,
+    "dailyTokensPerAgent": 3000000,
+    "codeAccess": true
+  },
+  "mapLayout": "fountain",
+  "operatingReserveTokens": 200000,
+  "retainerLookaheadHours": 6
 }

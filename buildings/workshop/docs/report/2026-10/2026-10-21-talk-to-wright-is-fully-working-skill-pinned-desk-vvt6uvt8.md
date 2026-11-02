@@ -15,7 +15,7 @@ decidedAt: "2026-10-21T17:50:05.168Z"
 sessionId: "se_dkg12z42h1"
 assignmentId: "as_x52wbd53al"
 costUsd: 1.0203099
-tokens: 255728
+tokens: 8524
 turns: 12
 createdAt: "2026-10-21T17:28:37.150Z"
 updatedAt: "2026-10-21T17:50:05.168Z"

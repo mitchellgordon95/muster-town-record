@@ -16,7 +16,7 @@ decidedAt: "2026-10-20T03:53:19.035Z"
 sessionId: "se_pnnu79chg2"
 assignmentId: "as_2lkdqkaiem"
 costUsd: 0.18411400000000003
-tokens: 258629
+tokens: 8621
 turns: 11
 createdAt: "2026-10-20T03:46:46.834Z"
 updatedAt: "2026-10-20T03:53:19.035Z"

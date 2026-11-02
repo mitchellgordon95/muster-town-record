@@ -15,7 +15,7 @@ decidedAt: "2026-10-21T01:59:15.638Z"
 sessionId: "se_i3agsoonap"
 assignmentId: "as_yav23a6s27"
 costUsd: 0.2457472
-tokens: 192055
+tokens: 6402
 turns: 8
 createdAt: "2026-10-21T01:45:49.260Z"
 updatedAt: "2026-10-21T01:59:15.638Z"

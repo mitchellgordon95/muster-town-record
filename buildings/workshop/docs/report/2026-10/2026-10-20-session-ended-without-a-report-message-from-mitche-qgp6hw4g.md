@@ -15,7 +15,7 @@ decidedAt: "2026-10-20T18:46:48.958Z"
 sessionId: "se_36pna12ziu"
 assignmentId: "as_5zoekpaxqm"
 costUsd: 1.7168924
-tokens: 3091457
+tokens: 103049
 turns: 43
 createdAt: "2026-10-20T18:45:27.847Z"
 updatedAt: "2026-10-20T18:46:48.958Z"

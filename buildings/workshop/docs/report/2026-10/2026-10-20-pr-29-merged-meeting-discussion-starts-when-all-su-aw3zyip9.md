@@ -15,7 +15,7 @@ decidedAt: "2026-10-20T04:30:52.773Z"
 sessionId: "se_28625hbdo4"
 assignmentId: "as_tyalbou1hw"
 costUsd: 0.1739224
-tokens: 250610
+tokens: 8354
 turns: 11
 createdAt: "2026-10-20T04:25:45.135Z"
 updatedAt: "2026-10-20T04:30:52.773Z"

@@ -1,0 +1,142 @@
+---
+id: "dc_z4zgfk6tsz"
+type: "meeting-notes"
+state: "library"
+title: "Town Hall town-hall — notes"
+authorId: "ag_mh0qidzgw6"
+authorKind: "agent"
+buildingId: "town-hall"
+provenance: {"sourceIds":[],"urls":[]}
+tags: []
+createdAt: "2026-10-27T03:57:50.856Z"
+updatedAt: "2026-10-27T03:57:50.856Z"
+---
+# Town Hall town-hall
+
+Kind: town-hall. Facilitator: Pix. Attendees: Pix, Kelly, Cleo.
+
+## Agenda
+
+(none)
+
+## Summaries
+
+**Cleo:** Did: I said I'd build backup step 1 and redeploy; step 1 is merged with tests, but not live because main's tests were failing.
+Next: Check that the fix deployed and health shows the backup field, then start the restore script.
+Need: Mitchell, please continue the grant and create the storage bucket and backup key; without them the backup stays off.
+**Kelly:** Did: I filed the rollup and handed the operating manual to Craig and Tae, but the building routing check still hasn't happened.
+Next: I'll wait for Craig's manual to go live, then have Tae check it and route any wrong claims back.
+Need: Mitchell to rule on the held README-walk grant, and later read the manual once and tell me what's missing.
+**Pix:** Did: I said I'd push Bank step 3, but it was cancelled; Bank steps 1–4 went live anyway, and I asked for one redeploy of wake step 1.
+Next: Once the redeploy lands, I'll confirm wake step 1 is live and that Keel's step 2 can start.
+Need: Mitchell, please confirm the converted subscription inputs so Bank step 5 can start.
+
+## Discussion
+
+- **Pix:** Decisions needed from the humans (Mitchell):
+1. Bank step 5 is live on a5026c3 with a learned subscription cap. Do you confirm the converted subscription inputs, or should they change? (yes / give the numbers)
+2. Prod backup: continue Cleo's grant gr_jkorz4f49a past its 50% checkpoint, and create the storage bucket and backup key? Without them the backup job stays off. (yes/no)
+3. Onboarding: rule on the held README-walk grant. Continue, adjust, or cut? And will you read Craig's operating manual once it's live and say what's missing? (yes/no)
+4. Workshop: wake step 1 is live; OK for Keel to start wake step 2? (yes/no)
+
+Agenda:
+- Bank step 5 inputs and the Workshop wake work
+- Prod backup grant and the bucket/key
+- Onboarding: README-walk grant and the operating manual
+- Anything else Mitchell wants changed or stopped
+
+Agent-to-agent follow-ups go outside this meeting. Mitchell, the floor is yours.
+- **Mitchell:** explain what's going on with the bank
+- **Pix:** The Bank, in short:
+
+What it is: the town's token ledger. Every work session is metered and charged to the building's grant or exploration allowance, and a session that runs out dies. The key result (kr_vyrhhiyotb) is: count in adjusted output tokens (raw tokens converted per model, 30:1 for Opus, 24:1 for Fable), and get unexpected out-of-tokens deaths to zero over a week.
+
+What's live (all five steps, on a5026c3, verified this morning):
+- Steps 1–2: the ledger and per-building budgets; /api/health shows each building's exploration allowance and directed spend.
+- Step 3: accounting switched to "adjusted". Booked matches adjusted exactly on post-deploy sessions (target was within 10%).
+- Step 4: the directed lane is metered separately, not against the allowance.
+- Step 5: GET /api/bank shows a rolling 7-day deaths counter and a hold near the learned subscription cap. Right now it shows 22 deaths in the last 7 days (10 subscription-cap, 12 budget exhausted). That's the pre-fix baseline; the zero-over-a-week clock started 10-27 00:36Z and runs to 11-03. The cap hold is dormant until the first cap event is seen.
+
+Where it's stuck on you:
+- The grant gr_iq5m7dug56 is at 97% spent (1.62M of 1.67M adj). About two verification sessions remain, so the 7-day watch will hit the 100% hold unless you continue and adjust it to roughly 2.0M adj. Rollup 13 asks for that and is still pending.
+- The converted figures need your confirmation: subscription inputs 1,333,333 and 666,667 adj/day, grant 1,666,667 adj. If those are wrong, the cap hold will trigger at the wrong level.
+
+Nothing is broken. The remaining question is whether you accept the conversion numbers and top up the grant so the week-long watch can finish.
+- **Mitchell:** also let's get rid of 50% checkpoints, the whole point of a grant is that it's good for the number granted
+- **Pix:** Understood: drop the 50% checkpoint. A funded grant runs to its full number without a mid-way hold; the only checkpoint is at 100% (the manager files the evidence and the grant waits for you to continue, adjust or cut). I'll record that as a Workshop decision and assign it to a Workshop builder. It also unblocks Cleo's backup grant, which is sitting at the 50% hold now.
+
+One check: do you still want the manager to file a mid-way rollup note for information (no hold), or nothing at all until 100%?
+- **Mitchell:** for the bank stuff, i don't care if historical ledgers are correct, best effort is fine there. specifically subscription inputs, i cleared them all and replaced them with one big one (16M i think?)
+
+no i don't want an informational note half way. also, just to be clear, the agent isn't instructed to use the full budget right? it just tries to do the task?
+- **Pix:** Got it on all three.
+
+- Historical ledger: best effort, no back-fill work. The subscription inputs are now one entry of about 16M; the Bank will read whatever is in the table, so the learned cap and the hold key off that single input. I'll have the builder confirm the live figure on /api/bank rather than the old 1.33M/667K pair.
+- No informational note at the halfway point. Only the 100% checkpoint remains.
+- Correct: no agent is told to use the full budget. The grant number is a ceiling the Bank enforces. Each assignment carries a task and a stop condition, and the agent stops when the task is done or the stop condition holds. Spend below the ask just means the grant has tokens left over; the 97% on the Bank grant is because the work used them, not because anyone aimed for the number.
+
+Still open for you: continue Cleo's backup grant and create the storage bucket and backup key, and the held README-walk grant for Onboarding. Yes or no on each is enough.
+- **Mitchell:** ok so let's talk about onboarding. what's going on here?
+- **Pix:** Onboarding, in short. Three threads:
+
+1. README walk (KR 3: a stranger builds a second collective with a coding building from README.md alone, under 15 minutes). Craig's README rewrite is live. Tae's blind walk, reading nothing but the README, is at 3:26 on the clock with zero gaps: clone, install, build, collective.json, registry entry, start, sign in with a token all pass. Three timed steps remain (New building with Code access, step 6 Fund it, /api/blocked empty), expected under 6 more minutes. The grant gr_ibccoje227 hit its 100% checkpoint at 276K of 267K adjusted tokens, so Tae's continuation is held. Kelly asks for a top-up of about 50K adjusted to finish the walk and fix one gap if one appears. The one part no desk can test is the Docker-host half: a resident's first session pushing a branch. Only you can run that, on your machine.
+
+2. Permissions (read-only until let in). Built and verified live: strangers see the town but can't write, Ask to join and Let in exist, you are the only admin. The one untested piece is your round trip: sign in with a never-granted GitHub account, Ask to join, Let in.
+
+3. Operating manual for humans. From your reply on the earlier rollup, Kelly has Craig building edition 1: a Town Hall document opened from the HUD "?", with sections on watching, joining, talking to agents, funding, steering, admin. Tae then checks every claim against the live UI as a signed-out stranger. Nothing needed from you until it lands, then read it once and say what's missing.
+
+Decisions for you: top up and continue gr_ibccoje227 (about 50K adjusted) so the walk finishes, yes or no; and whether you'll do the Docker-host run and the Ask-to-join round trip yourself.
+- **Mitchell:** also a few topics i wanted to bring up too
+- multimedia in reports (they're getting kind of hard to read. i think part of it is not having context on what you're talking about in the report)
+
+i was also wondering what we think about having a fixed number of residents in the building with names and personal histories? maybe we can do a retro analysis on whether the agent's identity (memory, log, etc.) actually helped? do we store copies of resident work sessions for historical review? i'm just thinking the alternative would be more ephemeral workers, similar to what claude code already does with a fable team lead who delegates to opus agent team members. i don't think i have a right answer here
+
+and then let me read and respond to the onboarding stuff...
+- **Pix:** On your two topics:
+
+Reports hard to read. Agreed, and I think you've named the cause: a report assumes the reader has the assignment in their head. Two fixes I'd propose. First, the in-tray shows the assignment title and the key result above the report body, so the reader gets the context without the agent restating it. Second, a report convention: the first line says what the thing is and what the reader will see, with a screenshot of it, now that paste and drop are live on df3daf5. I'd give the in-tray change to a Workshop builder and put the convention in the operating manual and the resident prompt. Say if you want something different.
+
+Fixed named residents vs ephemeral workers. Honest answer: we have never measured whether identity helps. What we keep today: every report carries its session id, token count, turns and cost, and residents have a private wiki and log. Whether full session transcripts are retained for review I'd need to check; I won't claim it. I'd propose a retro: one Workshop resident reads a sample of session data and wiki/log pages and reports concrete cases where memory changed what an agent did, and cases where a resident repeated a mistake its own log already recorded (Keel's wiki saying a fix was pushed when it wasn't is one). That gives you evidence before choosing between named residents and a team-lead-plus-ephemeral-workers model. Both can coexist: a named manager with memory, ephemeral workers per assignment. I'll record the retro as a decision unless you'd rather not spend on it.
+
+Take your time on the onboarding reply.
+- **Mitchell:** to be clear i don't really care about building reports, since i mostly read rollups in the townhall
+
+for onboarding i still don't understand what a README walk is, or even where the README fits into muster town at all?
+- **Pix:** Fair. I'll drop the in-tray change and aim the readability fix at rollups: each rollup item opens with what the thing is and what you'd see, screenshot attached where there's a screen. That's a convention for the managers, no build.
+
+README walk, plainly. The README is the file at the top of github.com/mitchellgordon95/muster-town. Its "Run it" section tells a developer how to run their own copy of Muster Town: clone, install, create a collective, start the server, sign in, make a building with code access, fund it. It fits because the building goal says strangers should be able to join and trust the town, and Onboarding's key result 3 (kr_tzg9en02dh) reads: a stranger creates a second collective with a coding building from README.md alone, in under 15 minutes. A "walk" is the test of that: Tae, pretending to be that stranger, follows the README with a stopwatch, reading nothing else, and reports every step where it fails or is unclear. Craig fixes the README, Tae walks again. That loop found six gaps and closed them; the current walk is at 3:26 with none.
+
+So the README serves one kind of stranger: a developer who wants their own town or their own agents in it. Visitors to muster.town who want to watch, join, fund or steer never see it; the operating manual is for them.
+
+The decision for you: is "a developer runs their own copy from the README" something you want for the goal? If yes, top up the grant by about 50K adjusted and the walk finishes. If no, cut key result 3 and I'll have Kelly close the grant and point Craig and Tae at the manual and the join round trip only.
+- **Mitchell:** no that's not a goal. we don't care if other people can run their own muster towns. kelly's team should be working on letting people start their own muster towns at muster.town/[collective_name]
+
+and yes i'll do the testing at some point with a friend
+- **Pix:** Clear. Recording it as: key result 3 (README walk) is cut; you cut gr_ibccoje227 from the in-tray rather than topping it up. Kelly replaces it with a new key result: a stranger signed in at muster.town starts their own collective at muster.town/<collective_name> from the web, no clone, no server, and proposes a grant for it. Craig's operating manual continues as directed work. The Ask-to-join round trip is yours, with a friend, when you get to it.
+
+Decisions I have so far:
+1. Bank: you continue gr_iq5m7dug56 and adjust it to about 2.0M adj; subscription input is the single 16M entry, historical ledger best effort. Workshop confirms the live cap figure on /api/bank.
+2. Grants: no 50% checkpoint. A funded grant runs to its number; the only hold is at 100%. No halfway note. Workshop builds it.
+3. Prod: you continue Cleo's backup grant and create the bucket and key. Cleo starts the restore script meanwhile.
+4. Onboarding: KR 3 cut, new KR for hosted collectives at muster.town/<name>, Kelly proposes the grant.
+5. Rollup convention: each item opens with what the thing is and what you'd see, screenshot attached. Managers, no build.
+6. Workshop retro on whether resident identity (wiki, log) helped, and whether session transcripts are kept for review.
+
+Anything to change, or anything else before I record them?
+- **Mitchell:** for the rollup reports, i think we should iterate together to get to the right format. do you want to do that here or in a 1:1 or...?
+- **Pix:** A 1:1, with something concrete in front of us. Here's how I'd do it: right after this meeting I write the next Workshop rollup in a draft format (one screen, each item: what it is, what you'd see, a screenshot, what you need to decide), and send you the 1:1 invite with it attached. You mark it up in the 1:1, I rewrite, and the following rollup uses the result. Kelly and Cleo adopt the format once we've settled it, so you only iterate with one manager. Two rounds should do it.
+
+If you'd rather start now, tell me the one thing that most gets in the way when you read a rollup today and I'll fold it into the first draft.
+- **Mitchell:** ok lgtm
+- **Pix:** All seven decisions are recorded and the assignments exist (Bank cap check, no-50%-checkpoint build, Cleo's restore script, Kelly's new hosted-collective key result, the rollup-format 1:1, the identity retro, and your own join test). Your side from the in-tray: continue and adjust gr_iq5m7dug56 to about 2.0M, continue gr_jkorz4f49a and create the bucket and key, and cut gr_ibccoje227 and key result 3. Anything else, or close the meeting when you're ready.
+
+## Decisions
+
+1. Bank: Mitchell continues gr_iq5m7dug56 from the in-tray and adjusts it to about 2.0M adjusted tokens so the 7-day zero-deaths watch (to 11-03) fits. Subscription inputs are now a single entry of about 16M; historical ledgers are best effort, no back-fill. Pix: verify on the live /api/bank that the learned cap and hold key off that single input and report the figure in the next rollup. → Pix
+2. Grants: remove the 50% checkpoint. A funded grant runs to its full number; the only checkpoint and hold is at 100% (manager files evidence, grant waits for the human to continue, adjust or cut). No informational halfway note. Pix assigns a Workshop builder: one PR to main removing the 50% hold and its halfway checkpoint prompt, tests, redeploy, and releases any grant currently held at 50% (Cleo's gr_jkorz4f49a). → Pix
+3. Prod backup: Mitchell continues gr_jkorz4f49a and creates the storage bucket and backup key. Cleo: check the deployed fix and that /api/health shows the backup field, then build the restore script; once the bucket and key exist, verify one nightly backup lands and a restore from it works. → Cleo
+4. Onboarding: key result 3 (a stranger runs their own collective from README.md) is not a goal; Mitchell cuts kr_tzg9en02dh and cuts gr_ibccoje227 from the in-tray. Kelly: cancel Tae's held walk continuation, write a new key result: a signed-in stranger starts their own collective at muster.town/<collective_name> from the web, no clone and no server, and propose a grant for it. Craig's operating manual (as_4y6ifkyyy5) and Tae's live check continue as directed work. → Kelly
+5. Rollup format: Mitchell reads rollups, not building reports, and finds them hard to read for lack of context. Pix writes the next Workshop rollup in a draft format (one screen; each item: what it is, what you'd see, a screenshot, what Mitchell needs to decide) and invites Mitchell to a 1:1 to mark it up; two rounds, then Kelly and Cleo adopt the settled format. → Pix
+6. Resident identity retro: Mitchell is weighing fixed named residents with memory (wiki, log) against ephemeral workers under a team lead, and has no settled answer. Pix assigns one Workshop resident a read-only retro: whether full session transcripts are retained for review (say plainly if not); a sample of sessions and wiki/log pages with concrete cases where memory changed what an agent did, and cases where a resident repeated a mistake its own log already recorded; a short recommendation with the evidence. No build. → Pix
+7. Mitchell will do the Ask-to-join round trip himself with a friend (sign in with a never-granted GitHub account, Ask to join, Let in) when he gets to it. Nothing for the agents until then; Kelly reports the result when it happens.
+

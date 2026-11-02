@@ -15,7 +15,7 @@ decidedAt: "2026-10-20T03:53:24.767Z"
 sessionId: "se_2ptq9hpdlx"
 assignmentId: "as_8leiihmrei"
 costUsd: 0.1215741
-tokens: 196369
+tokens: 6546
 turns: 11
 createdAt: "2026-10-20T03:47:46.036Z"
 updatedAt: "2026-10-20T03:53:24.767Z"

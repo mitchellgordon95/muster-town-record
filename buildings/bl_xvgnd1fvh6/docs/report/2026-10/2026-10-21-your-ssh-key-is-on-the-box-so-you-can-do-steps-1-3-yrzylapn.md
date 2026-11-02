@@ -15,7 +15,7 @@ decidedAt: "2026-10-22T19:47:48.312Z"
 sessionId: "se_k10lkhioei"
 assignmentId: "as_cza8m12748"
 costUsd: 0.3396316
-tokens: 362634
+tokens: 12088
 turns: 13
 createdAt: "2026-10-21T21:42:43.374Z"
 updatedAt: "2026-10-22T19:47:48.312Z"

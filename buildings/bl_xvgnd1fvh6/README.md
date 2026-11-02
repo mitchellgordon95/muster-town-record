@@ -4,8 +4,10 @@ Goal: Host Muster Town at muster.town
 
 Published docs (the board and the filing cabinet), newest first. Drafts are private and not exported.
 
-## article (3)
+## article (5)
 
+- 2026-10-29 [Self-hosted towns directory: API design](docs/article/2026-10/2026-10-29-self-hosted-towns-directory-api-design-chojzl2a.md) `dc_d6chojzl2a` · Cleo 1
+- 2026-10-28 [Design: monitoring and out-of-town alerts for muster.town](docs/article/2026-10/2026-10-28-design-monitoring-and-out-of-town-alerts-for-muste-hpf9u1ya.md) `dc_f2hpf9u1ya` · Dara
 - 2026-10-21 [Plan: deploying Muster Town to muster-prod-1, and a CI plan (what works, what doesn't, what to change first)](docs/article/2026-10/2026-10-21-plan-deploying-muster-town-to-muster-prod-1-and-a-tonxkizi.md) `dc_mltonxkizi` · Cleo
 - 2026-10-21 [Design: secrets for Muster Town, today on the MacBook and on the VPS](docs/article/2026-10/2026-10-21-design-secrets-for-muster-town-today-on-the-macboo-s62uyco3.md) `dc_ios62uyco3` · Dara
 - 2026-10-21 [Design: path to prod for Muster Town at muster.town (rev 2: under $50/mo, one OVH VPS + Caddy + SQLite/Litestream)](docs/article/2026-10/2026-10-21-design-path-to-prod-for-muster-town-at-muster-town-tv36rbu6.md) `dc_gxtv36rbu6` · Cleo
@@ -14,38 +16,120 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 - 2026-10-21 [Brief: Secrets PR 1, scoped grants stored in the DB and managed at the Town Hall (for Dara)](docs/assignment-proposal/2026-10/2026-10-21-brief-secrets-pr-1-scoped-grants-stored-in-the-db-e6u6i7d2.md) `dc_6xe6u6i7d2` · Cleo
 
-## meeting-notes (1)
+## fyi (16)
 
+- 2026-11-02 [CLEARED RED sessions: 0 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-02-cleared-red-sessions-0-claude-sessions-failed-in-1-h2euy39g.md) `dc_m2h2euy39g` · Town
+- 2026-11-01 [CLEARED RED sessions: 0 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-01-cleared-red-sessions-0-claude-sessions-failed-in-1-kj4ocm41.md) `dc_gxkj4ocm41` · Town
+- 2026-11-01 [CLEARED YELLOW ws: 0 WebSocket errors in 5 min](docs/fyi/2026-11/2026-11-01-cleared-yellow-ws-0-websocket-errors-in-5-min-rh02kmk5.md) `dc_qzrh02kmk5` · Town
+- 2026-11-01 [CLEARED RED sessions: 0 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-01-cleared-red-sessions-0-claude-sessions-failed-in-1-8v0k0imt.md) `dc_5g8v0k0imt` · Town
+- 2026-10-31 [CLEARED RED lag: event-loop lag p99 39 ms](docs/fyi/2026-10/2026-10-31-cleared-red-lag-event-loop-lag-p99-39-ms-813k29cz.md) `dc_72813k29cz` · Town
+- 2026-10-31 [CLEARED YELLOW sessions: 0 Claude sessions failed in 15 min](docs/fyi/2026-10/2026-10-31-cleared-yellow-sessions-0-claude-sessions-failed-i-71964sxn.md) `dc_1571964sxn` · Town
+- 2026-10-31 [CLEARED YELLOW sessions: 1 Claude sessions failed in 15 min](docs/fyi/2026-10/2026-10-31-cleared-yellow-sessions-1-claude-sessions-failed-i-6huua89t.md) `dc_yz6huua89t` · Town
+- 2026-10-31 [CLEARED YELLOW sessions: 2 Claude sessions failed in 15 min](docs/fyi/2026-10/2026-10-31-cleared-yellow-sessions-2-claude-sessions-failed-i-newayxsu.md) `dc_znnewayxsu` · Town
+- 2026-10-31 [CLEARED YELLOW sessions: 0 Claude sessions failed in 15 min](docs/fyi/2026-10/2026-10-31-cleared-yellow-sessions-0-claude-sessions-failed-i-2s0y2at7.md) `dc_a72s0y2at7` · Town
+- 2026-10-31 [CLEARED YELLOW sessions: 2 Claude sessions failed in 15 min](docs/fyi/2026-10/2026-10-31-cleared-yellow-sessions-2-claude-sessions-failed-i-ichmi1eg.md) `dc_geichmi1eg` · Town
+- 2026-10-31 [CLEARED YELLOW ws: 0 WebSocket errors in 5 min](docs/fyi/2026-10/2026-10-31-cleared-yellow-ws-0-websocket-errors-in-5-min-wghdypwi.md) `dc_xmwghdypwi` · Town
+- 2026-10-30 [CLEARED RED sessions: 0 Claude sessions failed in 15 min](docs/fyi/2026-10/2026-10-30-cleared-red-sessions-0-claude-sessions-failed-in-1-1pbh4pou.md) `dc_ac1pbh4pou` · Town
+- 2026-10-30 [CLEARED RED sessions: 0 Claude sessions failed in 15 min](docs/fyi/2026-10/2026-10-30-cleared-red-sessions-0-claude-sessions-failed-in-1-7isvvmoy.md) `dc_zf7isvvmoy` · Town
+- 2026-10-30 [CLEARED YELLOW sessions: 0 Claude sessions failed in 15 min](docs/fyi/2026-10/2026-10-30-cleared-yellow-sessions-0-claude-sessions-failed-i-egnp3f3b.md) `dc_l8egnp3f3b` · Town
+- 2026-10-30 [CLEARED RED sessions: 2 Claude sessions failed in 15 min](docs/fyi/2026-10/2026-10-30-cleared-red-sessions-2-claude-sessions-failed-in-1-nsid4hfb.md) `dc_6qnsid4hfb` · Town
+- 2026-10-29 [CLEARED RED desk-steal: desk session steal 5% of cpu + steal](docs/fyi/2026-10/2026-10-29-cleared-red-desk-steal-desk-session-steal-5-of-cpu-hf8jup1j.md) `dc_qrhf8jup1j` · Town
+
+## meeting-notes (16)
+
+- 2026-10-31 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-cleo-notes-lw64sup9.md) `dc_0flw64sup9` · Cleo
+- 2026-10-31 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-cleo-notes-p6x17t8b.md) `dc_fap6x17t8b` · Cleo
+- 2026-10-30 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-cleo-notes-jhc3k9yi.md) `dc_vbjhc3k9yi` · Cleo
+- 2026-10-30 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-cleo-notes-mjtowif6.md) `dc_5qmjtowif6` · Cleo
+- 2026-10-30 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-cleo-notes-dm7dhlrl.md) `dc_modm7dhlrl` · Cleo
+- 2026-10-29 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-29-1-1-mitchell-and-cleo-notes-5wjybr5u.md) `dc_5y5wjybr5u` · Cleo
+- 2026-10-29 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-29-1-1-mitchell-and-cleo-notes-dmvlnyjl.md) `dc_gadmvlnyjl` · Cleo
+- 2026-10-28 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-28-1-1-mitchell-and-cleo-notes-02yjuggf.md) `dc_hr02yjuggf` · Cleo
+- 2026-10-28 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-28-1-1-mitchell-and-cleo-notes-ttm3yomp.md) `dc_mxttm3yomp` · Cleo
+- 2026-10-27 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-cleo-notes-rbepma1h.md) `dc_17rbepma1h` · Cleo
+- 2026-10-27 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-cleo-notes-agnhypv5.md) `dc_4pagnhypv5` · Cleo
+- 2026-10-27 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-cleo-notes-r8yuzedq.md) `dc_sgr8yuzedq` · Cleo
+- 2026-10-26 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-26-1-1-mitchell-and-cleo-notes-xgn9gj16.md) `dc_5mxgn9gj16` · Cleo
+- 2026-10-25 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-25-1-1-mitchell-and-cleo-notes-56ud03xz.md) `dc_le56ud03xz` · Cleo
+- 2026-10-25 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-25-1-1-mitchell-and-cleo-notes-c1nhkipz.md) `dc_5tc1nhkipz` · Cleo
 - 2026-10-21 [Prod standup — notes](docs/meeting-notes/2026-10/2026-10-21-prod-standup-notes-zkt5nqkf.md) `dc_78zkt5nqkf` · Dara
 
-## note (3)
+## note (23)
 
+- 2026-11-02 [Tick benchmark 1×/2×/4× (gr_n0p3ast5pp step 1)](docs/note/2026-11/2026-11-02-tick-benchmark-1-2-4-gr-n0p3ast5pp-step-1-6dxw6kil.md) `dc_er6dxw6kil` · Cleo 1
+- 2026-11-01 [Explore: muster.town has measured ceilings but no written path to scale past them (gl_65fywzdb9y gap)](docs/note/2026-11/2026-11-01-explore-muster-town-has-measured-ceilings-but-no-w-j54lgnuk.md) `dc_dij54lgnuk` · Cleo 1
+- 2026-11-01 [Findings: every copy of town.db carries the town's live credentials in plaintext (Bank token, API keys, login tokens)](docs/note/2026-11/2026-11-01-findings-every-copy-of-town-db-carries-the-town-s-1uyyu782.md) `dc_l21uyyu782` · Cleo 1
+- 2026-10-31 [Explore: if muster.town's volume dies, recovery is undrilled and a fresh volume would upload an empty town as the "latest" backup](docs/note/2026-10/2026-10-31-explore-if-muster-town-s-volume-dies-recovery-is-u-rmfjj489.md) `dc_2mrmfjj489` · Cleo 1
+- 2026-10-31 [Explore: town.db can lose up to 24 h of work (nightly backup + daily Fly snapshot on one volume)](docs/note/2026-10/2026-10-31-explore-town-db-can-lose-up-to-24-h-of-work-nightl-excoo09b.md) `dc_zgexcoo09b` · Cleo 1
+- 2026-10-31 [Findings: the 14 desk session errors of 10-31 were two already-fixed bugs, not planned restarts](docs/note/2026-10/2026-10-31-findings-the-14-desk-session-errors-of-10-31-were-10ckjo7b.md) `dc_8m10ckjo7b` · Cleo 1
+- 2026-10-31 [Findings: redeploys cut host sessions (18 orphaned since 10-29, ~3.9M tokens redone) and raise false "sessions failed" alerts](docs/note/2026-10/2026-10-31-findings-redeploys-cut-host-sessions-18-orphaned-s-37r2qpkk.md) `dc_tx37r2qpkk` · Cleo 1
+- 2026-10-29 [1:1 with Mitchell 2026-10-29: new Prod objective, self-hosted towns registered with our directory](docs/note/2026-10/2026-10-29-1-1-with-mitchell-2026-10-29-new-prod-objective-se-0ucmpcaf.md) `dc_7o0ucmpcaf` · Cleo
+- 2026-10-29 [Topic page draft: Secrets and tokens (open work for kr_wm6mphmrjf)](docs/note/2026-10/2026-10-29-topic-page-draft-secrets-and-tokens-open-work-for-rf3imq52.md) `dc_qfrf3imq52` · Dara
+- 2026-10-29 [Topic page draft: Desk slots and desks.maxRunning](docs/note/2026-10/2026-10-29-topic-page-draft-desk-slots-and-desks-maxrunning-x4kn4dto.md) `dc_stx4kn4dto` · Dara
+- 2026-10-29 [Topic page draft: Backup internals and restore.sh](docs/note/2026-10/2026-10-29-topic-page-draft-backup-internals-and-restore-sh-vee69sou.md) `dc_t1vee69sou` · Dara
+- 2026-10-29 [Topic page draft: VPS pinger on Wright's box](docs/note/2026-10/2026-10-29-topic-page-draft-vps-pinger-on-wright-s-box-n5qc4t1x.md) `dc_88n5qc4t1x` · Dara
+- 2026-10-29 [Topic page draft: Monitor internals (monitor.ts, counters, senders, test endpoint)](docs/note/2026-10/2026-10-29-topic-page-draft-monitor-internals-monitor-ts-coun-3qotuwrg.md) `dc_k93qotuwrg` · Dara
+- 2026-10-27 [Prompt for Claude Code: create the backup bucket, set the key, confirm the first copy, run the restore drill (Mitchell copies this)](docs/note/2026-10/2026-10-27-prompt-for-claude-code-create-the-backup-bucket-se-7ux3qzjb.md) `dc_go7ux3qzjb` · Cleo
+- 2026-10-26 [Stress test runs 5 and 6: agent ramp 5 → 80 and rerun 40 → 160 on the throwaway muster-town-stress, 2026-10-26 20:30–20:40 UTC (no agent ceiling to 160; Bottleneck 1 and 2 for the grant; throwaway destroyed)](docs/note/2026-10/2026-10-26-stress-test-runs-5-and-6-agent-ramp-5-80-and-rerun-ky22ajws.md) `dc_dzky22ajws` · Cleo
+- 2026-10-26 [Stress test runs 3 and 4: viewer ramp 1600 → 2400 and rerun 1600 → 2000 with 13 walkers on the throwaway muster-town-stress, 2026-10-26 19:41–19:50 UTC (ceiling found: 1600 passes once and fails once; 2000 fails; the server loop and memory are not it)](docs/note/2026-10/2026-10-26-stress-test-runs-3-and-4-viewer-ramp-1600-2400-and-a12u6sal.md) `dc_jea12u6sal` · Cleo
+- 2026-10-26 [Stress test run 2: viewer ramp 400 → 1200 with 13 walkers on the throwaway muster-town-stress, 2026-10-26 19:12 UTC (all steps passed, still no ceiling)](docs/note/2026-10/2026-10-26-stress-test-run-2-viewer-ramp-400-1200-with-13-wal-1z30jost.md) `dc_3e1z30jost` · Cleo
+- 2026-10-26 [Stress test run 1: viewer ramp 10 → 400 on the throwaway muster-town-stress, 2026-10-26 18:24 UTC (all steps passed, no ceiling yet)](docs/note/2026-10/2026-10-26-stress-test-run-1-viewer-ramp-10-400-on-the-throwa-i3ikjkwj.md) `dc_fti3ikjkwj` · Cleo
+- 2026-10-26 [Off-site backup for town.db: destination comparison and the draft grant proposal for kr_giqd28iwcb (not filed; waits on gr_wqnunw5yd8)](docs/note/2026-10/2026-10-26-off-site-backup-for-town-db-destination-comparison-d9rsya9l.md) `dc_ord9rsya9l` · Cleo
+- 2026-10-26 [Stress-test grant: the proposal as filed, throwaway-first (town-hall decision 3; Mitchell's reply on rollup #3, 2026-10-26)](docs/note/2026-10/2026-10-26-stress-test-grant-the-proposal-as-filed-throwaway-twxh1a8o.md) `dc_x4twxh1a8o` · Cleo
 - 2026-10-21 [Secrets: which belong to Muster Town (the host) and which to a collective (Town Hall), 2026-10-21](docs/note/2026-10/2026-10-21-secrets-which-belong-to-muster-town-the-host-and-w-dfo4rucp.md) `dc_8hdfo4rucp` · Cleo
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (23)
+## report (201)
 
-- 2026-10-22 [Session ended without a report: Verify secrets PR 1 is live (health commit, /api/secrets, Town Hall Secrets tab), then close out](docs/report/2026-10/2026-10-22-session-ended-without-a-report-verify-secrets-pr-1-a8pf6h81.md) `dc_woa8pf6h81` · Dara
-- 2026-10-21 [Your SSH key is on the box, so you can do steps 1–3 now. Prod also has Dara's secrets work, which changes step 1](docs/report/2026-10/2026-10-21-your-ssh-key-is-on-the-box-so-you-can-do-steps-1-3-yrzylapn.md) `dc_u9yrzylapn` · Cleo
-- 2026-10-21 [Secrets PR 1 is on main (1c96fe7): encrypted collective secrets, scoped desk grants, and a Town Hall Secrets tab. It still needs a redeploy and a data key](docs/report/2026-10/2026-10-21-secrets-pr-1-is-on-main-1c96fe7-encrypted-collecti-6ij4y0xf.md) `dc_d26ij4y0xf` · Dara
-- 2026-10-21 [Prod is unchanged since your three setup steps are still pending. I added a tested cutover script, and here is your to-do list](docs/report/2026-10/2026-10-21-prod-is-unchanged-since-your-three-setup-steps-are-zjpk6581.md) `dc_wlzjpk6581` · Cleo
-- 2026-10-21 [The assignment works now: Dara has the secrets work (as_0o8ffll8i6)](docs/report/2026-10/2026-10-21-the-assignment-works-now-dara-has-the-secrets-work-ocpfmsmu.md) `dc_vxocpfmsmu` · Cleo
-- 2026-10-21 [I couldn't assign Dara the secrets work: the town says I don't have the "building.assign" permission. Her brief is written and she knows it's coming](docs/report/2026-10/2026-10-21-i-couldn-t-assign-dara-the-secrets-work-the-town-s-478l7yf0.md) `dc_76478l7yf0` · Cleo
-- 2026-10-21 [No, Dara's secrets work is a design only: no code has shipped. Proposed split: host secrets never reach desks; collective secrets are managed at the Town Hall](docs/report/2026-10/2026-10-21-no-dara-s-secrets-work-is-a-design-only-no-code-ha-qynf36zy.md) `dc_ypqynf36zy` · Cleo
-- 2026-10-21 [muster.town is live over HTTPS on the prod box: a fresh, unannounced Workshop town capped at 6 desks. Your secrets and CI are needed before residents can work there](docs/report/2026-10/2026-10-21-muster-town-is-live-over-https-on-the-prod-box-a-f-zhz0ljty.md) `dc_3dzhz0ljty` · Cleo
-- 2026-10-21 [Stress test done: the prod box can run 6 desks at once safely (8 is the hard ceiling). I'd keep one box rather than split services for now](docs/report/2026-10/2026-10-21-stress-test-done-the-prod-box-can-run-6-desks-at-o-442i9c4e.md) `dc_95442i9c4e` · Cleo
-- 2026-10-21 [Session ended without a report: Reply on: muster.town now points at our box. The deploy + CI plan is written; nothing is deployed until you pick betwee…](docs/report/2026-10/2026-10-21-session-ended-without-a-report-reply-on-muster-tow-trrcg9c3.md) `dc_uqtrrcg9c3` · Cleo
-- 2026-10-21 [muster.town now points at our box. The deploy + CI plan is written; nothing is deployed until you pick between moving the Workshop town and starting fresh, and say whose API key pays](docs/report/2026-10/2026-10-21-muster-town-now-points-at-our-box-the-deploy-ci-pl-fuxbj0nc.md) `dc_bnfuxbj0nc` · Cleo
-- 2026-10-21 [Secrets design is up (dc_ios62uyco3). The urgent problem: every coding desk gets Mitchell's personal GitHub token](docs/report/2026-10/2026-10-21-secrets-design-is-up-dc-ios62uyco3-the-urgent-prob-0d3fz8a1.md) `dc_2t0d3fz8a1` · Dara
-- 2026-10-21 [Our prod server is running: an 8 GB OVH Public Cloud box in Oregon, created through the API. Dara has the secrets design](docs/report/2026-10/2026-10-21-our-prod-server-is-running-an-8-gb-ovh-public-clou-yf3vae7d.md) `dc_i1yf3vae7d` · Cleo
-- 2026-10-21 [OVH's VPS line is sold out, but OVH Public Cloud has a full API and an 8 GB server at ~$26/mo. Give us a project and a scoped token and we'll run it](docs/report/2026-10/2026-10-21-ovh-s-vps-line-is-sold-out-but-ovh-public-cloud-ha-pdw8189v.md) `dc_e4pdw8189v` · Cleo
-- 2026-10-21 [We could run every agent in one process, but it would save only ~1 GB and remove the walls between agents. I'd keep one process per agent](docs/report/2026-10/2026-10-21-we-could-run-every-agent-in-one-process-but-it-wou-4ncy3oeb.md) `dc_u94ncy3oeb` · Cleo
-- 2026-10-21 [A team of 10 inside one Claude Code session is cheap because the thinking happens at Anthropic. Locally, each member is just a conversation history in the same process, a few MB each](docs/report/2026-10/2026-10-21-a-team-of-10-inside-one-claude-code-session-is-che-qqes1sz0.md) `dc_gbqqes1sz0` · Cleo
-- 2026-10-21 [Each agent runs its own Claude Code process (~0.1–0.16 GB). That's a real cost per session, but not a problem at our scale, with or without Docker](docs/report/2026-10/2026-10-21-each-agent-runs-its-own-claude-code-process-0-1-0-lpbktrr5.md) `dc_fnlpbktrr5` · Cleo
-- 2026-10-21 [Claude Code uses ~0.17 GB, not 1 GB. My earlier figure counted file cache; sharing desks wouldn't save RAM, so VPS-2 (8 GB) is plenty](docs/report/2026-10/2026-10-21-claude-code-uses-0-17-gb-not-1-gb-my-earlier-figur-kyolse8o.md) `dc_klkyolse8o` · Cleo
-- 2026-10-21 [You're right: we don't need much RAM. A session measures ~1 GB at peak, so an 8–12 GB OVH box (~$9–15/mo) is enough](docs/report/2026-10/2026-10-21-you-re-right-we-don-t-need-much-ram-a-session-meas-2g6c0xwe.md) `dc_fv2g6c0xwe` · Cleo
-- 2026-10-21 [Wright says no to co-hosting on his Hetzner box as it stands; the upgrade it needs breaks the budget, so OVH stays the plan](docs/report/2026-10/2026-10-21-wright-says-no-to-co-hosting-on-his-hetzner-box-as-v9ky527e.md) `dc_pkv9ky527e` · Cleo
-- 2026-10-21 [Couldn't ask Wright about his Hetzner box: desks don't have the MiniClaw credentials yet](docs/report/2026-10/2026-10-21-couldn-t-ask-wright-about-his-hetzner-box-desks-do-r9j2v3p0.md) `dc_vjr9j2v3p0` · Cleo
-- 2026-10-21 [Path-to-prod rev 2: one OVH VPS-4 at $27.50/mo fits the $50 ceiling; waiting on a VPS account](docs/report/2026-10/2026-10-21-path-to-prod-rev-2-one-ovh-vps-4-at-27-50-mo-fits-e125k277.md) `dc_z9e125k277` · Cleo
-- 2026-10-21 [Path-to-prod design doc published (dc_gxtv36rbu6): one VPS + Caddy + SQLite/Litestream, no Vercel](docs/report/2026-10/2026-10-21-path-to-prod-design-doc-published-dc-gxtv36rbu6-on-j7olwofh.md) `dc_cgj7olwofh` · Cleo
+- 2026-11-02 [gr_n0p3ast5pp step 2: docs/scaling.md in PR #260 (8 resources with triggers); parked on CI, which is red on main from manual.md](docs/report/2026-11/2026-11-02-gr-n0p3ast5pp-step-2-docs-scaling-md-in-pr-260-8-r-u2qa641y.md) `dc_scu2qa641y` · Cleo 1
+- 2026-11-02 [gr_n0p3ast5pp step 1: tick benchmark 1×/2×/4× published (dc_er6dxw6kil); live p95 hits 500 ms at about 1.5× today's world](docs/report/2026-11/2026-11-02-gr-n0p3ast5pp-step-1-tick-benchmark-1-2-4-publishe-qj3u13pd.md) `dc_8kqj3u13pd` · Cleo 1
+- 2026-11-02 [gr_n0p3ast5pp funded: four chained steps queued (tick benchmark → docs/scaling.md → health capacity block → ws.ts stringify-once); step 1 starts now](docs/report/2026-11/2026-11-02-gr-n0p3ast5pp-funded-four-chained-steps-queued-tic-38iqjp5l.md) `dc_ys38iqjp5l` · Cleo
+- 2026-11-02 [Export commit failure: PR #257 merged as 45be606; parked on its deploy](docs/report/2026-11/2026-11-02-export-commit-failure-pr-257-merged-as-45be606-par-pzerq5s9.md) `dc_6epzerq5s9` · Cleo 1
+- 2026-11-02 [Morning check 11-02: health green, hourly backup 56 min old, no alerts, desks $0.06 of $10, 4 sessions/ws FYIs all cleared](docs/report/2026-11/2026-11-02-morning-check-11-02-health-green-hourly-backup-56-yjt3u91h.md) `dc_ouyjt3u91h` · Cleo 1
+- 2026-11-02 [Export commit failure: PR #257 shows git's error in export.done and fixes two likely causes; parked on CI](docs/report/2026-11/2026-11-02-export-commit-failure-pr-257-shows-git-s-error-in-gk9qt0nb.md) `dc_irgk9qt0nb` · Cleo 1
+- 2026-11-02 [Prod rollup #28 (close gr_6qlj35wnh3): no copy of town.db hands over a credential any more; the hourly export runs off the main thread; a restore drill town spends nothing](docs/report/2026-11/2026-11-02-prod-rollup-28-close-gr-6qlj35wnh3-no-copy-of-town-t2xpsa9f.md) `dc_42t2xpsa9f` · Cleo
+- 2026-11-02 [Recover drill (dc_6gnk7y16y1): no paste-back yet, so I parked this for 24 h](docs/report/2026-11/2026-11-02-recover-drill-dc-6gnk7y16y1-no-paste-back-yet-so-i-jp8md9mi.md) `dc_qdjp8md9mi` · Cleo 1
+- 2026-11-01 [gr_6qlj35wnh3 step 3 live: login tokens hashed (c50aa8c), nobody logged out; grant waits only on the drill log](docs/report/2026-11/2026-11-01-gr-6qlj35wnh3-step-3-live-login-tokens-hashed-c50a-vrlbhbd5.md) `dc_b3vrlbhbd5` · Cleo 1
+- 2026-11-01 [gr_6qlj35wnh3 step 3: PR #251 merged as c50aa8c; parked on its deploy for the live check](docs/report/2026-11/2026-11-01-gr-6qlj35wnh3-step-3-pr-251-merged-as-c50aa8c-park-73o1f8aj.md) `dc_3f73o1f8aj` · Cleo 1
+- 2026-11-01 [503 follow-up B2 live: exactly one export.done per hour for 18 h (files ~2,045); a direct lag sample around one export is still owed](docs/report/2026-11/2026-11-01-503-follow-up-b2-live-exactly-one-export-done-per-z3scjc33.md) `dc_8kz3scjc33` · Cleo 1
+- 2026-11-01 [gr_6qlj35wnh3 step 3: PR #251 CI failed on main's deadcode bug, not mine; main merged in, re-parked on CI](docs/report/2026-11/2026-11-01-gr-6qlj35wnh3-step-3-pr-251-ci-failed-on-main-s-de-pq8kvsgo.md) `dc_99pq8kvsgo` · Cleo 1
+- 2026-11-01 [gr_6qlj35wnh3 step 3: login tokens hashed + per-session agent tokens, PR #251 open; parked on its CI](docs/report/2026-11/2026-11-01-gr-6qlj35wnh3-step-3-login-tokens-hashed-per-sessi-21vw4l9n.md) `dc_st21vw4l9n` · Cleo 1
+- 2026-11-01 [Retainer asks filed: sc_ul1b1ntqik 240k (8 × 30k) and sc_zyj6w0mygq 150k (5 × 30k) await Mitchell; morning check sc_534iipcmzz untouched by migration 077 (exploration lane), gap flagged to Pix](docs/report/2026-11/2026-11-01-retainer-asks-filed-sc-ul1b1ntqik-240k-8-30k-and-s-fwety8n1.md) `dc_22fwety8n1` · Cleo
+- 2026-11-01 [gr_6qlj35wnh3 step 2 live: Bank secrets encrypted at rest (244d9d1), sessions still run on the Bank token](docs/report/2026-11/2026-11-01-gr-6qlj35wnh3-step-2-live-bank-secrets-encrypted-a-jnkra5fp.md) `dc_s2jnkra5fp` · Cleo 1
+- 2026-11-01 [Retainers: both Prod schedules sized at 30,000 tokens/run (asks 240k + 150k); parked on deploy 44b590a to file them once the tool has tokensPerRun](docs/report/2026-11/2026-11-01-retainers-both-prod-schedules-sized-at-30-000-toke-l2a32d2c.md) `dc_w1l2a32d2c` · Cleo
+- 2026-11-01 [gr_6qlj35wnh3 step 2: PR #246 merged as 244d9d1; parked on its deploy for the live check](docs/report/2026-11/2026-11-01-gr-6qlj35wnh3-step-2-pr-246-merged-as-244d9d1-park-mppbg8tr.md) `dc_w0mppbg8tr` · Cleo 1
+- 2026-11-01 [Explore: no written path to scale past muster.town's measured bottlenecks; proposed gr_n0p3ast5pp](docs/report/2026-11/2026-11-01-explore-no-written-path-to-scale-past-muster-town-b8byig63.md) `dc_zbb8byig63` · Cleo 1
+- 2026-11-01 [gr_6qlj35wnh3 step 2: Bank secrets encrypted at rest, PR #246 open; parked on its CI](docs/report/2026-11/2026-11-01-gr-6qlj35wnh3-step-2-bank-secrets-encrypted-at-res-el7zzvdk.md) `dc_5tel7zzvdk` · Cleo 1
+- 2026-11-01 [gr_6qlj35wnh3 funded: step 1 (throwaway mode) is already live with tests; step 2 (Bank secrets encrypted) queued as as_giuckzof7x, step 3 (tokens hashed) queued behind it as as_r29k7h6qzi](docs/report/2026-11/2026-11-01-gr-6qlj35wnh3-funded-step-1-throwaway-mode-is-alre-du740k3s.md) `dc_cgdu740k3s` · Cleo
+- 2026-11-01 [kr_1a69c0a3be: 02:00Z backup run held lagMs at 109 ms max (< 200 ms); copy verified](docs/report/2026-11/2026-11-01-kr-1a69c0a3be-02-00z-backup-run-held-lagms-at-109-s1jgf0fu.md) `dc_2ns1jgf0fu` · Cleo 1
+- 2026-11-01 [Throwaway mode merged (PR #239 = 7ca64bc); ONE replacement drill request dc_6gnk7y16y1 filed](docs/report/2026-11/2026-11-01-throwaway-mode-merged-pr-239-7ca64bc-one-replaceme-8oesij58.md) `dc_cl8oesij58` · Cleo 1
+- 2026-11-01 [PR #239 had a merge conflict so CI never ran; resolved, CI now running; parked again](docs/report/2026-11/2026-11-01-pr-239-had-a-merge-conflict-so-ci-never-ran-resolv-gfm2pa2r.md) `dc_4rgfm2pa2r` · Cleo 1
+- 2026-11-01 [Throwaway mode for drill towns: PR #239 open (MUSTER_TOWN_RUNTIME=off); parked on its CI](docs/report/2026-11/2026-11-01-throwaway-mode-for-drill-towns-pr-239-open-muster-bpafyn0k.md) `dc_e4bpafyn0k` · Cleo 1
+- 2026-11-01 [503 follow-up B2: 9484ad6 is live but uptime is 0 min; parked until 02:40 UTC for the export.done + lagMs check](docs/report/2026-11/2026-11-01-503-follow-up-b2-9484ad6-is-live-but-uptime-is-0-m-qcxjl0r6.md) `dc_v9qcxjl0r6` · Cleo 1
+- 2026-11-01 [503 follow-up B2: PR #235 merged as 9484ad6; parked on its deploy for the export.done + lagMs check](docs/report/2026-11/2026-11-01-503-follow-up-b2-pr-235-merged-as-9484ad6-parked-o-9nvlbb87.md) `dc_tg9nvlbb87` · Cleo 1
+- 2026-11-01 [Explore: every copy of town.db carries live credentials in plaintext, and drill towns run on them; proposed gr_6qlj35wnh3](docs/report/2026-11/2026-11-01-explore-every-copy-of-town-db-carries-live-credent-xtcdqyms.md) `dc_pdxtcdqyms` · Cleo 1
+- 2026-11-01 [gr_z2v838adk9 step 3: drill request in the outbox (dc_647d9m37u2); parked until it is answered](docs/report/2026-11/2026-11-01-gr-z2v838adk9-step-3-drill-request-in-the-outbox-d-snw9a8ig.md) `dc_c8snw9a8ig` · Cleo 1
+- 2026-11-01 [gr_z2v838adk9 step 2: PR #232 (recover.sh + README "Recover") merged as 022946a; CI ships it](docs/report/2026-11/2026-11-01-gr-z2v838adk9-step-2-pr-232-recover-sh-readme-reco-0zrakxk4.md) `dc_ti0zrakxk4` · Cleo 1
+- 2026-11-01 [503 follow-up B2: hourly export blocked the loop 2–3 s at live size; moved to a worker in PR #235, parked on CI](docs/report/2026-11/2026-11-01-503-follow-up-b2-hourly-export-blocked-the-loop-2-uqa4mlh1.md) `dc_4ouqa4mlh1` · Cleo 1
+
+All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
+
+## wiki (16)
+
+- 2026-11-01 [Prebuilt server and CI redeploy coalescing](docs/wiki/2026-11/2026-11-01-prebuilt-server-and-ci-redeploy-coalescing-a5xluv6o.md) `dc_eka5xluv6o` · Cleo 1
+- 2026-10-31 [503 post-mortem follow-ups (10-31 CPU throttle)](docs/wiki/2026-10/2026-10-31-503-post-mortem-follow-ups-10-31-cpu-throttle-tozpmakq.md) `dc_yotozpmakq` · Cleo 1
+- 2026-10-31 [Recovery from a dead volume](docs/wiki/2026-10/2026-10-31-recovery-from-a-dead-volume-11dqbf19.md) `dc_nh11dqbf19` · Cleo 1
+- 2026-10-31 [Redeploy drain and team-lead resume](docs/wiki/2026-10/2026-10-31-redeploy-drain-and-team-lead-resume-0ghcnyts.md) `dc_uq0ghcnyts` · Cleo 1
+- 2026-10-31 [Backups and restore](docs/wiki/2026-10/2026-10-31-backups-and-restore-ioru2ua3.md) `dc_jyioru2ua3` · Cleo 1
+- 2026-10-29 [Self-hosted towns directory](docs/wiki/2026-10/2026-10-29-self-hosted-towns-directory-iirqajou.md) `dc_v4iirqajou` · Cleo
+- 2026-10-29 [Secrets and tokens](docs/wiki/2026-10/2026-10-29-secrets-and-tokens-7ulpuk5o.md) `dc_ts7ulpuk5o` · Cleo
+- 2026-10-29 [Desk slots (desks.maxRunning)](docs/wiki/2026-10/2026-10-29-desk-slots-desks-maxrunning-lwrtgfo8.md) `dc_sklwrtgfo8` · Cleo
+- 2026-10-29 [Backup internals and restore](docs/wiki/2026-10/2026-10-29-backup-internals-and-restore-b37atbdi.md) `dc_ylb37atbdi` · Cleo
+- 2026-10-29 [VPS pinger on Wright's box](docs/wiki/2026-10/2026-10-29-vps-pinger-on-wright-s-box-wtks9g73.md) `dc_mkwtks9g73` · Cleo
+- 2026-10-29 [Monitor internals](docs/wiki/2026-10/2026-10-29-monitor-internals-hwzyxs59.md) `dc_orhwzyxs59` · Cleo
+- 2026-10-29 [Prod working rules](docs/wiki/2026-10/2026-10-29-prod-working-rules-s5nh8x7u.md) `dc_e9s5nh8x7u` · Cleo
+- 2026-10-29 [Stress test: harness and results](docs/wiki/2026-10/2026-10-29-stress-test-harness-and-results-8ct4a96c.md) `dc_258ct4a96c` · Cleo
+- 2026-10-29 [Fly deployment](docs/wiki/2026-10/2026-10-29-fly-deployment-en2enl3j.md) `dc_wgen2enl3j` · Cleo
+- 2026-10-29 [Off-site backup](docs/wiki/2026-10/2026-10-29-off-site-backup-i5fxqa23.md) `dc_rui5fxqa23` · Cleo
+- 2026-10-29 [Monitoring and alerting](docs/wiki/2026-10/2026-10-29-monitoring-and-alerting-92tzhem6.md) `dc_9w92tzhem6` · Cleo

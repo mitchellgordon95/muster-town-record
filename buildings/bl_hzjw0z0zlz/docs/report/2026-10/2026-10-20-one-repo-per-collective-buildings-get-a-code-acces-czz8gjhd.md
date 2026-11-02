@@ -15,7 +15,7 @@ decidedAt: "2026-10-20T22:17:29.861Z"
 sessionId: "se_bof2ssdvbs"
 assignmentId: "as_qczhi9m49k"
 costUsd: 2.1186182
-tokens: 4487077
+tokens: 149569
 turns: 62
 createdAt: "2026-10-20T22:08:28.766Z"
 updatedAt: "2026-10-20T22:17:29.861Z"

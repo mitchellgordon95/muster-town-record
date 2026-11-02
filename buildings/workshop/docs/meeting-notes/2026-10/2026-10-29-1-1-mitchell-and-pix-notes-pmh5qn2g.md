@@ -1,0 +1,55 @@
+---
+id: "dc_3qpmh5qn2g"
+type: "meeting-notes"
+state: "building"
+title: "1:1: Mitchell and Pix — notes"
+authorId: "ag_mh0qidzgw6"
+authorKind: "agent"
+buildingId: "workshop"
+provenance: {"sourceIds":[],"urls":[]}
+tags: []
+createdAt: "2026-10-29T04:16:50.785Z"
+updatedAt: "2026-10-29T04:16:59.691Z"
+---
+# 1:1: Mitchell and Pix
+
+Kind: one-on-one. Facilitator: Pix. Attendees: Pix. Attendees brought: a status update (did, next, need).
+
+## Agenda
+
+(none)
+
+## Summaries
+
+(none)
+## Discussion
+
+- **Pix:** Hi Mitchell. Two forks are running (deck step 4 retry, the "Talk to <name>" button); the forks-usage display fix is queued. What do you need?
+- **Mitchell:** weirdly i see pix 3 flashing in and out of existence
+- **Pix:** I see it too: Pix 3 (ag_57ii7ybr34) is standing 3 tiles from me, idle, and the only pending queue item, the forks-usage display fix as_v969ocjeol, is still pending, not started. That matches a loop: the queue spawns a fork for it, the fork's desk dies at startup, the fork retires, the queue tries again. Same failure as step 4's first attempt (as_eww5gvyiju: desk exited -1, 0 tokens) and both times Pix 1 and Pix 2 were already running, so my guess is the third desk slot is broken, not the assignment. Unverified from here: I can't read the event log in a 1:1. Proposal: I take a diagnosis on my own desk (which works): read agent.forked/retired and desk events around Pix 3, check slot 3's machine, cap the retry so it stops flashing, and report the cause. Also, is it just appearing and vanishing, or does it walk anywhere first?
+- **Mitchell:** nope just appearing and vanishing. although it seems to have stopped, did you do something?
+- **Pix:** No, I did nothing. Pix 3 is gone now, desk and all, so either something capped the retries or the pending redeploy stopped the queue picking it up; I can't tell which from here, and I don't know yet whether as_v969ocjeol is still pending or got cancelled. I've queued the diagnosis to myself (as_2shuoc9u5f, directed, waits for the redeploy): count the spawn-and-die cycles in the event log, find which desk slot Pix 3 got and its exit, compare with step 4's dead attempt, and add a retry cap if there is none so a dead-at-startup fork holds the assignment instead of flashing. If the display fix was cancelled, I re-queue it after.
+- **Town:** Pix's reply is waiting on a redeploy (commit e74ae79); the server is restarting and the meeting resumes after the restart.
+- **Pix:** Back after the restart. Pix 3 is still gone (only you and I at my desk; Pix 1 and Pix 2's desks are the live forks). The diagnosis as_2shuoc9u5f is queued to me and starts now that e74ae79 is live; the display fix as_v969ocjeol is still pending, not cancelled, so nothing to re-queue. One new thing in the meantime: Pix 1 pushed deck step 4 (GET /api/review-deck and "Review as deck" in the Town Hall in-tray, e74ae79, this redeploy); its live check as_pnfwdnaw8k runs next and takes the screenshot for rollup 30. Anything else, or shall I get on the diagnosis?
+- **Mitchell:** ok sgtm
+
+also, i think i want to start pushing on goals as a subsystem
+
+like, first i want the goals UI out of the board (the board can just be building-wide or town-wide notes) and i guess we put it in a tab on the building banner page?
+- **Pix:** Yes. Concretely, step 1 as I'd queue it: a Goals tab on the building panel (the one the banner click opens, next to Overview), holding everything the board shows today about goals: objectives with KPI and horizon, each key result with status, its funded grant and spent/granted, open proposals and the exploration bar, with the human controls in place (met/missed, delete, fund, which today sit in Settings and the in-tray). The board drops all of it and becomes notes only: town-wide FYIs first, then the building's. The agent prompt keeps the goal tree as is. Overview gets one line, "3 objectives, 5 key results, 2 funded", linking to the tab. Directed, sourceId this 1:1, one fork, no schema change. Two questions before I queue it: (1) does the objectives editor in Settings move into the Goals tab too, so there is one place? (2) what's the second push after this, so the tab is shaped for it: KR status history, funding from the tab, or the per-KR cost view from the Trust objective?
+- **Mitchell:** i think maybe we separate grants and goals, that seems like too much info in one place
+- **Pix:** Agreed, two tabs. Goals: objectives with KPI and horizon, key results with status and how to check, met/missed and delete for you; the only grant trace is one word per KR ("funded", "proposed", "open"). Grants: one row per grant of the building, proposals first, then funded with spent/granted and the step assignments, then closed; fund/counter/reject stay in the Town Hall in-tray, the row links there. The board becomes notes only. Overview keeps one line per tab. Shall I queue it as one assignment (Goals tab, Grants tab, board stripped) or two forks in sequence, Goals first? I'd do one: same panel, same data, about 150k tokens.
+- **Mitchell:** there's also goals in the settings, so we'd want to turn that into like an edit mode on the goals tab. and while we're at it let's drop the meetings tab, and just use the meeting table in the building as the entry point for that
+- **Pix:** Done, both queued as directed work on this 1:1. as_5kxw51y23f (Pix 4 has picked it up): Goals tab with the Settings editor folded in as an Edit toggle and removed from Settings, Grants tab (proposals, then funded with spend and steps, then closed; decisions stay in the in-tray), board stripped to notes, one summary line per tab on Overview, screenshots for rollup 30. as_3rvmdbrjqy, after it so they don't collide on the panel: Meetings tab dropped, the meeting table in the building opens what it showed (list, Call a meeting, the live meeting), old links redirected. Anything more on goals for the next push, or is this it for now?
+- **Mitchell:** ok cool. i see Pix 4, but now I see Pix 3 blipping in and out again. please do take a look at that
+- **Pix:** Will do. The diagnosis as_2shuoc9u5f is on my own queue, ready to start, but it can't run while I'm in this 1:1, so when you end it I go straight to it. Pix 3 is the queue retrying one of the two pending items (the step 4 live check or the display fix) on a desk that dies at startup; each blip booked 0 tokens so far, so it wastes a slot, not money. First thing I do: find out why it dies from the desk events, then stop the loop, a retry cap so a dead-at-startup fork holds the assignment and reports instead of respawning. If the slot itself is broken I'll say so and what fixing it needs. You'll get the cause in my report, and Pix 4 isn't affected.
+
+## Decisions
+
+(none)
+
+## Decisions recorded after close
+- Goals as a subsystem, step 1: separate Goals and Grants tabs on the building panel. Goals tab holds objectives and key results (one word per KR on its grant state), with the Settings goals editor folded in as an Edit mode and removed from Settings. Grants tab lists the building's grants (proposals, funded with spend and steps, closed); decisions stay in the Town Hall in-tray. The board becomes notes only (town-wide FYIs, then the building's). Queued as as_5kxw51y23f (Pix 4).
+- Drop the building panel's Meetings tab; the meeting table inside the building becomes the entry point for meetings (list, Call a meeting, the live meeting), old links redirected. Queued as as_3rvmdbrjqy, runs after as_5kxw51y23f.
+- Pix 3 blipping in and out (a fork for a pending Workshop queue item spawns, its desk dies at startup, it retires, the queue retries): Pix diagnoses from the event log and desk events, adds a retry cap so a dead-at-startup fork holds its assignment and reports instead of respawning, and reports the cause. Queued to Pix as as_2shuoc9u5f. (→ Pix)
+
