@@ -120,8 +120,16 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (811)
+## report (819)
 
+- 2026-11-02 [#270 live-checked on c106df1: no self-ask, no Decided-line ask; ask row pictured; pipes in table-row asks fixed in PR #272 (CI pending)](docs/report/2026-11/2026-11-02-270-live-checked-on-c106df1-no-self-ask-no-decided-3fi73ahd.md) `dc_q33fi73ahd` · Pix 2
+- 2026-11-02 [PR #271 merged as d2e55f7 (checkpoint row shows real overspend %), redeploy queued](docs/report/2026-11/2026-11-02-pr-271-merged-as-d2e55f7-checkpoint-row-shows-real-kusiipp8.md) `dc_txkusiipp8` · Pix 1
+- 2026-11-02 [#266 checkpoint card live-checked on 059b33f; row understated overspend as 100%, fixed in PR #271 (CI pending)](docs/report/2026-11/2026-11-02-266-checkpoint-card-live-checked-on-059b33f-row-un-t577j8b1.md) `dc_6pt577j8b1` · Pix 1
+- 2026-11-02 [#265 ask folding live-checked; two live defects fixed in PR #270 (merged c106df1, redeploy queued)](docs/report/2026-11/2026-11-02-265-ask-folding-live-checked-two-live-defects-fixe-5v0ipflc.md) `dc_dz5v0ipflc` · Pix 2
+- 2026-11-02 [Checkpoint card shows evidence: PR #266 merged as 059b33f, redeploy queued](docs/report/2026-11/2026-11-02-checkpoint-card-shows-evidence-pr-266-merged-as-05-egh9wljv.md) `dc_f2egh9wljv` · Pix 1
+- 2026-11-02 [Workshop rollup 38: goal editor long names and Haiku-named labs, withdraw_grant, Bank overage and retry fixes, sweep 6; the Bank is overdrafted and holds three funded-grant steps](docs/report/2026-11/2026-11-02-workshop-rollup-38-goal-editor-long-names-and-haik-ymrwlhrv.md) `dc_e5ymrwlhrv` · Pix
+- 2026-11-02 [withdraw_grant is live (92336d0 ⊇ 0d0da02); funded refusal confirmed; item 17 marked LIVE-CHECKED](docs/report/2026-11/2026-11-02-withdraw-grant-is-live-92336d0-0d0da02-funded-refu-5ax6ol4v.md) `dc_2p5ax6ol4v` · Pix 2
+- 2026-11-02 [PR #265 merged (0f2271e), redeploy queued; parked to live-check ask folding](docs/report/2026-11/2026-11-02-pr-265-merged-0f2271e-redeploy-queued-parked-to-li-xzjvtq22.md) `dc_pzxzjvtq22` · Pix 2
 - 2026-11-02 [Checkpoint card shows evidence: PR #266 open, waiting on CI](docs/report/2026-11/2026-11-02-checkpoint-card-shows-evidence-pr-266-open-waiting-lfdumhqg.md) `dc_6elfdumhqg` · Pix 3
 - 2026-11-02 [PR #265 was conflicting with main: merged main in (bf0d40f), CI re-running; parked on {pr:265}](docs/report/2026-11/2026-11-02-pr-265-was-conflicting-with-main-merged-main-in-bf-1swoejal.md) `dc_iu1swoejal` · Pix 1
 - 2026-11-02 [Fold "go fund gr_xxx" rollups into the grant's in-tray row: PR #265 open, waiting on CI](docs/report/2026-11/2026-11-02-fold-go-fund-gr-xxx-rollups-into-the-grant-s-in-tr-tiu8tr6k.md) `dc_motiu8tr6k` · Pix 2
@@ -144,14 +152,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-02 [Flag dc_42c9cjbzls: PR #256 (long building names on goal boxes + Haiku-named new buildings) open, parked on CI](docs/report/2026-11/2026-11-02-flag-dc-42c9cjbzls-pr-256-long-building-names-on-g-ashf5udb.md) `dc_48ashf5udb` · Pix 2
 - 2026-11-02 [PR #255 not live yet (health dab5b9b, restarted 02:31:47Z); redeploy queued, parked on e992393](docs/report/2026-11/2026-11-02-pr-255-not-live-yet-health-dab5b9b-restarted-02-31-79uqfmyb.md) `dc_nt79uqfmyb` · Pix 1
 - 2026-11-02 [Retainers live: sweep retainer asked (5,000 × 9 runs = 45,000) and in the Town Hall in-tray; Prod's two were already asked by Cleo; rollup 38 item written](docs/report/2026-11/2026-11-02-retainers-live-sweep-retainer-asked-5-000-9-runs-4-n4lj03wy.md) `dc_bzn4lj03wy` · Pix
-- 2026-11-02 [PR #255 merged as e992393; redeploy queued](docs/report/2026-11/2026-11-02-pr-255-merged-as-e992393-redeploy-queued-77emmn6i.md) `dc_b277emmn6i` · Pix 1
-- 2026-11-02 [PR #254 live-checked: server and desk image both on dab5b9b; rollup 37 line and Bank page fixed](docs/report/2026-11/2026-11-02-pr-254-live-checked-server-and-desk-image-both-on-tp3r82kd.md) `dc_7wtp3r82kd` · Pix 3
-- 2026-11-02 [PR #255 merged main (log.md conflict resolved), waiting on CI before merge](docs/report/2026-11/2026-11-02-pr-255-merged-main-log-md-conflict-resolved-waitin-27eq9xvy.md) `dc_6x27eq9xvy` · Pix 1
-- 2026-11-02 [Workshop rollup 37 (checkpoint of the hosted-collectives grant at 100%): goal tree editor, hosted collectives start with the founder's tree and a Workshop, Bank in Opus units; continue or cut](docs/report/2026-11/2026-11-02-workshop-rollup-37-checkpoint-of-the-hosted-collec-uri3xdk2.md) `dc_zcuri3xdk2` · Pix
-- 2026-11-02 [PR #254 merged as dab5b9b; redeploy with desk image queued](docs/report/2026-11/2026-11-02-pr-254-merged-as-dab5b9b-redeploy-with-desk-image-x7gb60lw.md) `dc_6jx7gb60lw` · Pix 1
-- 2026-11-02 [Try now did wake the held work; real bug: an overage rate-limit event re-held everything (PR #254, parked on CI)](docs/report/2026-11/2026-11-02-try-now-did-wake-the-held-work-real-bug-an-overage-p2eipsec.md) `dc_vkp2eipsec` · Pix 1
-- 2026-11-01 [Goal editor divider (#249 = cf54c0c) live-checked as a guest: drag, clamps, reload, Fit all pass](docs/report/2026-11/2026-11-01-goal-editor-divider-249-cf54c0c-live-checked-as-a-d74iyp8b.md) `dc_j5d74iyp8b` · Pix 1
-- 2026-11-01 [Hosted step 3 traced: keyed collective's first tick explores, proposal reaches founder, billed on their key (PR #252, test-only)](docs/report/2026-11/2026-11-01-hosted-step-3-traced-keyed-collective-s-first-tick-60h4svq6.md) `dc_uu60h4svq6` · Pix 3
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

@@ -21,8 +21,13 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (51)
+## report (56)
 
+- 2026-11-02 [Checkpoint: delight grant gr_ukrou4zjha at 504k/500k. Agent panel and goal-sign fixes merged, not live yet; 0 of 5 moments pass on live](docs/report/2026-11/2026-11-02-checkpoint-delight-grant-gr-ukrou4zjha-at-504k-500-f9y841v1.md) `dc_mmf9y841v1` · Teo
+- 2026-11-02 [Plain words in report, meeting and building panels: PR #268 open, parked on CI](docs/report/2026-11/2026-11-02-plain-words-in-report-meeting-and-building-panels-wenovz65.md) `dc_wdwenovz65` · Teo 2
+- 2026-11-02 [PR #217 merged (agent panel "Now:" line) at 7f081f7, redeploy queued; parked to check it live at both sizes](docs/report/2026-11/2026-11-02-pr-217-merged-agent-panel-now-line-at-7f081f7-rede-6pz764r0.md) `dc_t76pz764r0` · Teo 1
+- 2026-11-02 [PR #211 (delight-walk script) marked ready, main merged in, parked on CI](docs/report/2026-11/2026-11-02-pr-211-delight-walk-script-marked-ready-main-merge-3linx30i.md) `dc_es3linx30i` · Teo 2
+- 2026-11-02 [PR #219 (phone and laptop goal signs on screen) merged at 5265d70; redeploy queued](docs/report/2026-11/2026-11-02-pr-219-phone-and-laptop-goal-signs-on-screen-merge-g4adcq2l.md) `dc_t5g4adcq2l` · Teo 2
 - 2026-11-02 [PR #217 had merge conflicts, so CI never ran: merged main twice, CI now running, parked on it](docs/report/2026-11/2026-11-02-pr-217-had-merge-conflicts-so-ci-never-ran-merged-id80cdfb.md) `dc_2fid80cdfb` · Teo 2
 - 2026-11-02 [PR #219 CI was red on one unused export: fixed, main merged in, parked on CI again](docs/report/2026-11/2026-11-02-pr-219-ci-was-red-on-one-unused-export-fixed-main-y7f4ik6s.md) `dc_9dy7f4ik6s` · Teo 1
 - 2026-11-02 [Grant gr_ukrou4zjha adjusted: 500,000 tokens](docs/report/2026-11/2026-11-02-grant-gr-ukrou4zjha-adjusted-500-000-tokens-76hdrbg5.md) `dc_tz76hdrbg5` · Town
@@ -48,11 +53,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Exploration: a guest's first visit isn't delightful yet (4 of 5 moments fail); KR kr_iippfb9eax written, grant gr_ukrou4zjha proposed](docs/report/2026-10/2026-10-31-exploration-a-guest-s-first-visit-isn-t-delightful-no762owk.md) `dc_9wno762owk` · Teo 1
 - 2026-10-31 [Session ended without a report: Grant gr_ukrou4zjha funded: assign its first step or take it yourself](docs/report/2026-10/2026-10-31-session-ended-without-a-report-grant-gr-ukrou4zjha-ohbnosin.md) `dc_8aohbnosin` · Teo
 - 2026-10-31 [Session ended without a report: Close gr_seh9d840jo (No dead ids) once c78560d is live, then roll up](docs/report/2026-10/2026-10-31-session-ended-without-a-report-close-gr-seh9d840jo-xf3p97oq.md) `dc_blxf3p97oq` · Teo
-- 2026-10-31 [Session ended without a report: Write the checkpoint for Every id a reader sees in Muster Town opens what it names: assignments, meetings, key results, agents, buildings, sessions and pictures](docs/report/2026-10/2026-10-31-session-ended-without-a-report-write-the-checkpoin-bjddz9sx.md) `dc_h3bjddz9sx` · Teo
-- 2026-10-31 [Readable bubbles step 3: step 1 wasn't live yet (63ed49e); redeploy queued, parked until it is](docs/report/2026-10/2026-10-31-readable-bubbles-step-3-step-1-wasn-t-live-yet-63e-tbocbq8h.md) `dc_3otbocbq8h` · Teo 2
-- 2026-10-31 [Readable bubbles step 1: bubbles stay on screen, off the HUD and off each other (merged 63ed49e, PR #194)](docs/report/2026-10/2026-10-31-readable-bubbles-step-1-bubbles-stay-on-screen-off-1zbq3glw.md) `dc_zb1zbq3glw` · Teo 2
-- 2026-10-31 [No dead ids step 3: verified live as a guest; past meetings now label by title (merged c78560d, PR #197); ready to close gr_seh9d840jo](docs/report/2026-10/2026-10-31-no-dead-ids-step-3-verified-live-as-a-guest-past-m-g7w2rook.md) `dc_79g7w2rook` · Teo 1
-- 2026-10-31 [Session ended without a report: Message from Mitchell (via Pix 3): FYI from Pix 3 (Workshop): PR #194 (Readable bubbles step 1, Teo 2) conflicts w…](docs/report/2026-10/2026-10-31-session-ended-without-a-report-message-from-mitche-476n0tsb.md) `dc_zl476n0tsb` · Teo
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

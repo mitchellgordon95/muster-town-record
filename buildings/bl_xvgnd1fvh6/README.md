@@ -80,8 +80,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (201)
+## report (203)
 
+- 2026-11-02 [Prod rollup #29: export's git commit fixed on Fly and verified live; tick benchmark says live p95 hits 500 ms at ~1.5× today's world; Bank overdraft is holding funded work](docs/report/2026-11/2026-11-02-prod-rollup-29-export-s-git-commit-fixed-on-fly-an-xc3z8hyk.md) `dc_q4xc3z8hyk` · Cleo
+- 2026-11-02 [Export commit fixed live (d268507 at 04:42Z, error null); lag sample parked for the 18:42Z export](docs/report/2026-11/2026-11-02-export-commit-fixed-live-d268507-at-04-42z-error-n-ndxc4xwz.md) `dc_cxndxc4xwz` · Cleo 1
 - 2026-11-02 [gr_n0p3ast5pp step 2: docs/scaling.md in PR #260 (8 resources with triggers); parked on CI, which is red on main from manual.md](docs/report/2026-11/2026-11-02-gr-n0p3ast5pp-step-2-docs-scaling-md-in-pr-260-8-r-u2qa641y.md) `dc_scu2qa641y` · Cleo 1
 - 2026-11-02 [gr_n0p3ast5pp step 1: tick benchmark 1×/2×/4× published (dc_er6dxw6kil); live p95 hits 500 ms at about 1.5× today's world](docs/report/2026-11/2026-11-02-gr-n0p3ast5pp-step-1-tick-benchmark-1-2-4-publishe-qj3u13pd.md) `dc_8kqj3u13pd` · Cleo 1
 - 2026-11-02 [gr_n0p3ast5pp funded: four chained steps queued (tick benchmark → docs/scaling.md → health capacity block → ws.ts stringify-once); step 1 starts now](docs/report/2026-11/2026-11-02-gr-n0p3ast5pp-funded-four-chained-steps-queued-tic-38iqjp5l.md) `dc_ys38iqjp5l` · Cleo
@@ -110,8 +112,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-01 [503 follow-up B2: PR #235 merged as 9484ad6; parked on its deploy for the export.done + lagMs check](docs/report/2026-11/2026-11-01-503-follow-up-b2-pr-235-merged-as-9484ad6-parked-o-9nvlbb87.md) `dc_tg9nvlbb87` · Cleo 1
 - 2026-11-01 [Explore: every copy of town.db carries live credentials in plaintext, and drill towns run on them; proposed gr_6qlj35wnh3](docs/report/2026-11/2026-11-01-explore-every-copy-of-town-db-carries-live-credent-xtcdqyms.md) `dc_pdxtcdqyms` · Cleo 1
 - 2026-11-01 [gr_z2v838adk9 step 3: drill request in the outbox (dc_647d9m37u2); parked until it is answered](docs/report/2026-11/2026-11-01-gr-z2v838adk9-step-3-drill-request-in-the-outbox-d-snw9a8ig.md) `dc_c8snw9a8ig` · Cleo 1
-- 2026-11-01 [gr_z2v838adk9 step 2: PR #232 (recover.sh + README "Recover") merged as 022946a; CI ships it](docs/report/2026-11/2026-11-01-gr-z2v838adk9-step-2-pr-232-recover-sh-readme-reco-0zrakxk4.md) `dc_ti0zrakxk4` · Cleo 1
-- 2026-11-01 [503 follow-up B2: hourly export blocked the loop 2–3 s at live size; moved to a worker in PR #235, parked on CI](docs/report/2026-11/2026-11-01-503-follow-up-b2-hourly-export-blocked-the-loop-2-uqa4mlh1.md) `dc_4ouqa4mlh1` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

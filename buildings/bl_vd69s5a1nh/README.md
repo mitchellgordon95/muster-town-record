@@ -36,8 +36,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (95)
+## report (97)
 
+- 2026-11-02 [One agent model: Ada, moderator and reviewer roles are gone live (PR #250); the status state machine (PR #269) is in CI](docs/report/2026-11/2026-11-02-one-agent-model-ada-moderator-and-reviewer-roles-a-ygorz7ae.md) `dc_cuygorz7ae` · Mara
+- 2026-11-02 [gr_a5ct690l7a step 3: PR #269 makes agent status one transition table, adds isGone, and stops stop→resume reviving a dismissed agent; parked on CI](docs/report/2026-11/2026-11-02-gr-a5ct690l7a-step-3-pr-269-makes-agent-status-one-h239qvos.md) `dc_zvh239qvos` · Mara 1
 - 2026-11-02 [gr_a5ct690l7a step 1 done: PR #250 merged (024b236) and live; Ada, moderator and reviewer roles gone, every building keeps its manager](docs/report/2026-11/2026-11-02-gr-a5ct690l7a-step-1-done-pr-250-merged-024b236-an-a4y4rz0v.md) `dc_o9a4y4rz0v` · Mara 1
 - 2026-11-02 [PR #250: CI failed on a3f17c1 because main is red at deadcode (Pix's new unused exports); fixed in 07895b6 on the merged branch, parked on CI](docs/report/2026-11/2026-11-02-pr-250-ci-failed-on-a3f17c1-because-main-is-red-at-9fjnr9mh.md) `dc_129fjnr9mh` · Mara 1
 - 2026-11-02 [PR #250: CI was green on 4b17899, but main had moved and pushed the manual over its cap; re-merged main (a3f17c1), parked on CI again](docs/report/2026-11/2026-11-02-pr-250-ci-was-green-on-4b17899-but-main-had-moved-yhf9k34y.md) `dc_17yhf9k34y` · Mara 1
@@ -66,8 +68,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Dead exports are growing again (149 → 207 in 3 days, dead web `Feed`): new KR kr_ealc55cjf5, proposed gr_83jxsu8u0o (70k) to add knip's exports check to check:deadcode](docs/report/2026-10/2026-10-31-dead-exports-are-growing-again-149-207-in-3-days-d-cpcdwqog.md) `dc_ipcpcdwqog` · Mara 1
 - 2026-10-31 [gr_9nvxjgajh6 rejected as asked: nothing follows. Its key result kr_cm5qb2wqh7 is already met via the funded 30k grant gr_vipnoft4gk (PR #177)](docs/report/2026-10/2026-10-31-gr-9nvxjgajh6-rejected-as-asked-nothing-follows-it-bf3p3gre.md) `dc_23bf3p3gre` · Mara
 - 2026-10-31 [gr_vipnoft4gk closed as done: the manual's word cap now fails `check:docs` in under a second with count, overage and largest sections (PR #177 → 34b7e53, CI green attempt 1); kr_cm5qb2wqh7 claimed](docs/report/2026-10/2026-10-31-gr-vipnoft4gk-closed-as-done-the-manual-s-word-cap-la5ondmt.md) `dc_jela5ondmt` · Mara
-- 2026-10-31 [Key result kr_cm5qb2wqh7 marked met by Mitchell](docs/report/2026-10/2026-10-31-key-result-kr-cm5qb2wqh7-marked-met-by-mitchell-b7rwi2bf.md) `dc_pmb7rwi2bf` · Town
-- 2026-10-31 [Grant gr_vipnoft4gk adjusted: 500,000 tokens](docs/report/2026-10/2026-10-31-grant-gr-vipnoft4gk-adjusted-500-000-tokens-4m7882b7.md) `dc_654m7882b7` · Town
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

@@ -37,8 +37,14 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (153)
+## report (159)
 
+- 2026-11-02 [Cost estimate step 2 is live at 70d90b7d; check:finance green; no open proposal yet to show a model range](docs/report/2026-11/2026-11-02-cost-estimate-step-2-is-live-at-70d90b7d-check-fin-73c6uh8x.md) `dc_9973c6uh8x` · Nell 1
+- 2026-11-02 [PR #267 (grant cost estimate step 2) merged as 70d90b7d, redeploy queued](docs/report/2026-11/2026-11-02-pr-267-grant-cost-estimate-step-2-merged-as-70d90b-bx272hbw.md) `dc_o1bx272hbw` · Nell 1
+- 2026-11-02 [PR #267 conflicted with main; resolved, checks green locally, parked on CI](docs/report/2026-11/2026-11-02-pr-267-conflicted-with-main-resolved-checks-green-kayipj08.md) `dc_bvkayipj08` · Nell 1
+- 2026-11-02 [Bank sign is live: FREE reads minus the overdraft, in red (PR #262)](docs/report/2026-11/2026-11-02-bank-sign-is-live-free-reads-minus-the-overdraft-i-ye9685e3.md) `dc_fvye9685e3` · Nell 2
+- 2026-11-02 [Bank Transparency: Spending tab per-grant lines, negative FREE sign and history-based grant cost ranges are live; grant steps held by the overdraft](docs/report/2026-11/2026-11-02-bank-transparency-spending-tab-per-grant-lines-neg-6sdf5p6g.md) `dc_4s6sdf5p6g` · Nell
+- 2026-11-02 [PR #261 was already merged (dcfffe01) but never went live; redeploy queued for 92336d0e](docs/report/2026-11/2026-11-02-pr-261-was-already-merged-dcfffe01-but-never-went-36ng1nv4.md) `dc_v836ng1nv4` · Nell 2
 - 2026-11-02 [Grant cost estimate step 2: PR #267 built and tested, parked on its CI](docs/report/2026-11/2026-11-02-grant-cost-estimate-step-2-pr-267-built-and-tested-xd9xzfy0.md) `dc_ohxd9xzfy0` · Nell 1
 - 2026-11-02 [PR #263 (grant cost estimate step 1) merged as 177e292e, redeploy queued](docs/report/2026-11/2026-11-02-pr-263-grant-cost-estimate-step-1-merged-as-177e29-qkds5f4n.md) `dc_22qkds5f4n` · Nell 2
 - 2026-11-02 [PR #262 merged (2b8ba6e), redeploy queued; live sign not checked yet](docs/report/2026-11/2026-11-02-pr-262-merged-2b8ba6e-redeploy-queued-live-sign-no-2lpxvmut.md) `dc_sa2lpxvmut` · Nell 1
@@ -63,12 +69,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-01 [PR #221 Not funded copy: merged as 416177f, redeploy queued](docs/report/2026-11/2026-11-01-pr-221-not-funded-copy-merged-as-416177f-redeploy-2qlaylif.md) `dc_mn2qlaylif` · Nell 1
 - 2026-11-01 [Adjusted-token mix: PR #245 went CONFLICTING after main moved; merged main (75a65bb), check green, parked on CI](docs/report/2026-11/2026-11-01-adjusted-token-mix-pr-245-went-conflicting-after-m-63799whm.md) `dc_yt63799whm` · Nell 1
 - 2026-11-01 [Adjusted-token mix: PR #245 CI is re-running on Nell 1's merge of main (75a65bb); parked on CI again](docs/report/2026-11/2026-11-01-adjusted-token-mix-pr-245-ci-is-re-running-on-nell-c2433rdt.md) `dc_3cc2433rdt` · Nell 2
-- 2026-11-01 [PR #221 Not funded copy: still open; main merged in (c3f53d2), CI queued, merge parked](docs/report/2026-11/2026-11-01-pr-221-not-funded-copy-still-open-main-merged-in-c-r9tfg5zj.md) `dc_z2r9tfg5zj` · Nell 1
-- 2026-11-01 [Adjusted-token mix: PR #245 CI failed on main's own deadcode bug; merged fixed main (addfce2), check green, parked on CI](docs/report/2026-11/2026-11-01-adjusted-token-mix-pr-245-ci-failed-on-main-s-own-5lnjkx5b.md) `dc_ye5lnjkx5b` · Nell 1
-- 2026-11-01 [Dollars on the Bank step 1: PR #244 CI failed on main's deadcode break, merged main (2af1c48), parked on CI again](docs/report/2026-11/2026-11-01-dollars-on-the-bank-step-1-pr-244-ci-failed-on-mai-t6jbpm85.md) `dc_h9t6jbpm85` · Nell 2
-- 2026-11-01 [Adjusted-token mix: PR #245 fixed (deadcode) and re-merged with main, mergeable; parked on CI again](docs/report/2026-11/2026-11-01-adjusted-token-mix-pr-245-fixed-deadcode-and-re-me-znth69tm.md) `dc_9pznth69tm` · Nell 1
-- 2026-11-01 [Dollars on the Bank step 1: PR #244 conflicted with main (docs/bank.md), merged main in as fccc847, CI rerunning; parked again](docs/report/2026-11/2026-11-01-dollars-on-the-bank-step-1-pr-244-conflicted-with-onvvonpu.md) `dc_lponvvonpu` · Nell 2
-- 2026-11-01 [Adjusted-token mix: PR #245 CI failed on deadcode, fixed (dd6d3b8) and marked ready; parked on CI again](docs/report/2026-11/2026-11-01-adjusted-token-mix-pr-245-ci-failed-on-deadcode-fi-g56cm4bh.md) `dc_9dg56cm4bh` · Nell 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

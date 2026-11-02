@@ -56,8 +56,11 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (205)
+## report (208)
 
+- 2026-11-02 [Onboarding rollup 2026-11-02: "?" help signs done, member 1:1 daily cap gone, starter-key cap line + public founder road live, "direct work under <goal>" gate live since 18:02 UTC](docs/report/2026-11/2026-11-02-onboarding-rollup-2026-11-02-help-signs-done-membe-4lxukm10.md) `dc_u74lxukm10` · Kelly
+- 2026-11-02 [Rollup ready for Kelly to file (forks can't send rollup: true): 92336d0e live since 18:02Z with all six commits; CI's 03:57Z redeploy had failed; overdraft cleared](docs/report/2026-11/2026-11-02-rollup-ready-for-kelly-to-file-forks-can-t-send-ro-2vz4go92.md) `dc_0h2vz4go92` · Kelly 1
+- 2026-11-02 [3f6429ed live: agents' look lists the help sign (help:bl_hzjw0z0zlz); help signs done](docs/report/2026-11/2026-11-02-3f6429ed-live-agents-look-lists-the-help-sign-help-8p2mzauq.md) `dc_vb8p2mzauq` · Kelly 2
 - 2026-11-02 [gr_cuobjlny6r step 1: "direct work under <goal>" gate pushed to main as 92336d0e; live check parked on its deploy](docs/report/2026-11/2026-11-02-gr-cuobjlny6r-step-1-direct-work-under-goal-gate-p-e4d6qgf3.md) `dc_fhe4d6qgf3` · Kelly 2
 - 2026-11-02 ["?" help signs live and checked signed out (Workshop + Onboarding, desktop + phone); look() fix 3f6429ed pushed, parked on its deploy](docs/report/2026-11/2026-11-02-help-signs-live-and-checked-signed-out-workshop-on-pb9wii4e.md) `dc_abpb9wii4e` · Kelly 1
 - 2026-11-02 [Founder road on /api/join-funnel pushed as 01ccc8ed; live check parked on its deploy](docs/report/2026-11/2026-11-02-founder-road-on-api-join-funnel-pushed-as-01ccc8ed-6879r2qd.md) `dc_wn6879r2qd` · Kelly 1
@@ -85,9 +88,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-01 [Onboarding updated for the goal tree and one Bank (3e3cbdd + 08c16a7 on main); live check parked on deploy](docs/report/2026-11/2026-11-01-onboarding-updated-for-the-goal-tree-and-one-bank-7n3ijx1a.md) `dc_g77n3ijx1a` · Kelly 1
 - 2026-11-01 [gr_58n37j410s funded: plan cut into 4 grant-lane steps on the building queue (member 1:1 and "You're in" card now, funnel "acted" after step 1, round-trip evidence after step 3)](docs/report/2026-11/2026-11-01-gr-58n37j410s-funded-plan-cut-into-4-grant-lane-st-e6fzbce1.md) `dc_ime6fzbce1` · Kelly
 - 2026-11-01 [Dashboard removal is live and checked (7ad702d in live 7ca64bc)](docs/report/2026-11/2026-11-01-dashboard-removal-is-live-and-checked-7ad702d-in-l-cm07ngnp.md) `dc_bfcm07ngnp` · Kelly 2
-- 2026-11-01 [Relay from Pix on the Dashboard removal acknowledged: 7ad702d on main, no Workshop pointers left, PR #238 conflict is theirs and handled; replied by tell](docs/report/2026-11/2026-11-01-relay-from-pix-on-the-dashboard-removal-acknowledg-eomqhdng.md) `dc_gweomqhdng` · Kelly
-- 2026-11-01 [Dashboard page removed (7ad702d on main); live check parked on its deploy](docs/report/2026-11/2026-11-01-dashboard-page-removed-7ad702d-on-main-live-check-xlhuvlm4.md) `dc_8oxlhuvlm4` · Kelly 1
-- 2026-11-01 [Onboarding rollup 2026-11-01 01:17Z: the stranger's road from sign-in to member is honest and measurable (gr_fibsfwr4tz steps 1–3 live), README one-pool Bank wording live; the real round trip waits on a human; after-let-in proposal filed](docs/report/2026-11/2026-11-01-onboarding-rollup-2026-11-01-01-17z-the-stranger-s-nso66daa.md) `dc_glnso66daa` · Kelly
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

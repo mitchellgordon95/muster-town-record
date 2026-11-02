@@ -18052,5 +18052,239 @@
     "state": "building",
     "buildingId": "bl_vef3v0oux0",
     "createdAt": "2026-11-02T04:02:50.858Z"
+  },
+  {
+    "id": "dc_cxndxc4xwz",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-02-export-commit-fixed-live-d268507-at-04-42z-error-n-ndxc4xwz.md",
+    "title": "Export commit fixed live (d268507 at 04:42Z, error null); lag sample parked for the 18:42Z export",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-02T18:00:46.327Z"
+  },
+  {
+    "id": "dc_v836ng1nv4",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-02-pr-261-was-already-merged-dcfffe01-but-never-went-36ng1nv4.md",
+    "title": "PR #261 was already merged (dcfffe01) but never went live; redeploy queued for 92336d0e",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-02T18:00:48.215Z"
+  },
+  {
+    "id": "dc_pzxzjvtq22",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-02-pr-265-merged-0f2271e-redeploy-queued-parked-to-li-xzjvtq22.md",
+    "title": "PR #265 merged (0f2271e), redeploy queued; parked to live-check ask folding",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-02T18:00:54.188Z"
+  },
+  {
+    "id": "dc_t5g4adcq2l",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-02-pr-219-phone-and-laptop-goal-signs-on-screen-merge-g4adcq2l.md",
+    "title": "PR #219 (phone and laptop goal signs on screen) merged at 5265d70; redeploy queued",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-02T18:01:54.976Z"
+  },
+  {
+    "id": "dc_vb8p2mzauq",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-02-3f6429ed-live-agents-look-lists-the-help-sign-help-8p2mzauq.md",
+    "title": "3f6429ed live: agents' look lists the help sign (help:bl_hzjw0z0zlz); help signs done",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-02T18:02:49.285Z"
+  },
+  {
+    "id": "dc_2p5ax6ol4v",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-02-withdraw-grant-is-live-92336d0-0d0da02-funded-refu-5ax6ol4v.md",
+    "title": "withdraw_grant is live (92336d0 ⊇ 0d0da02); funded refusal confirmed; item 17 marked LIVE-CHECKED",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-02T18:03:13.049Z"
+  },
+  {
+    "id": "dc_es3linx30i",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-02-pr-211-delight-walk-script-marked-ready-main-merge-3linx30i.md",
+    "title": "PR #211 (delight-walk script) marked ready, main merged in, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-02T18:03:19.167Z"
+  },
+  {
+    "id": "dc_q4xc3z8hyk",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-02-prod-rollup-29-export-s-git-commit-fixed-on-fly-an-xc3z8hyk.md",
+    "title": "Prod rollup #29: export's git commit fixed on Fly and verified live; tick benchmark says live p95 hits 500 ms at ~1.5× today's world; Bank overdraft is holding funded work",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-02T18:04:07.404Z"
+  },
+  {
+    "id": "dc_0h2vz4go92",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-02-rollup-ready-for-kelly-to-file-forks-can-t-send-ro-2vz4go92.md",
+    "title": "Rollup ready for Kelly to file (forks can't send rollup: true): 92336d0e live since 18:02Z with all six commits; CI's 03:57Z redeploy had failed; overdraft cleared",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-02T18:04:44.352Z"
+  },
+  {
+    "id": "dc_4s6sdf5p6g",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-02-bank-transparency-spending-tab-per-grant-lines-neg-6sdf5p6g.md",
+    "title": "Bank Transparency: Spending tab per-grant lines, negative FREE sign and history-based grant cost ranges are live; grant steps held by the overdraft",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-02T18:04:53.086Z"
+  },
+  {
+    "id": "dc_t76pz764r0",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-02-pr-217-merged-agent-panel-now-line-at-7f081f7-rede-6pz764r0.md",
+    "title": "PR #217 merged (agent panel \"Now:\" line) at 7f081f7, redeploy queued; parked to check it live at both sizes",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-02T18:05:36.258Z"
+  },
+  {
+    "id": "dc_e5ymrwlhrv",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-02-workshop-rollup-38-goal-editor-long-names-and-haik-ymrwlhrv.md",
+    "title": "Workshop rollup 38: goal editor long names and Haiku-named labs, withdraw_grant, Bank overage and retry fixes, sweep 6; the Bank is overdrafted and holds three funded-grant steps",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-02T18:05:58.154Z"
+  },
+  {
+    "id": "dc_u74lxukm10",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-02-onboarding-rollup-2026-11-02-help-signs-done-membe-4lxukm10.md",
+    "title": "Onboarding rollup 2026-11-02: \"?\" help signs done, member 1:1 daily cap gone, starter-key cap line + public founder road live, \"direct work under <goal>\" gate live since 18:02 UTC",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-02T18:06:15.607Z"
+  },
+  {
+    "id": "dc_fvye9685e3",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-02-bank-sign-is-live-free-reads-minus-the-overdraft-i-ye9685e3.md",
+    "title": "Bank sign is live: FREE reads minus the overdraft, in red (PR #262)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-02T18:07:08.409Z"
+  },
+  {
+    "id": "dc_wdwenovz65",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-02-plain-words-in-report-meeting-and-building-panels-wenovz65.md",
+    "title": "Plain words in report, meeting and building panels: PR #268 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-02T18:08:19.694Z"
+  },
+  {
+    "id": "dc_mmf9y841v1",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-02-checkpoint-delight-grant-gr-ukrou4zjha-at-504k-500-f9y841v1.md",
+    "title": "Checkpoint: delight grant gr_ukrou4zjha at 504k/500k. Agent panel and goal-sign fixes merged, not live yet; 0 of 5 moments pass on live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-02T18:10:41.037Z"
+  },
+  {
+    "id": "dc_bvkayipj08",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-02-pr-267-conflicted-with-main-resolved-checks-green-kayipj08.md",
+    "title": "PR #267 conflicted with main; resolved, checks green locally, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-02T18:11:29.537Z"
+  },
+  {
+    "id": "dc_o1bx272hbw",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-02-pr-267-grant-cost-estimate-step-2-merged-as-70d90b-bx272hbw.md",
+    "title": "PR #267 (grant cost estimate step 2) merged as 70d90b7d, redeploy queued",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-02T18:15:29.283Z"
+  },
+  {
+    "id": "dc_zvh239qvos",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-02-gr-a5ct690l7a-step-3-pr-269-makes-agent-status-one-h239qvos.md",
+    "title": "gr_a5ct690l7a step 3: PR #269 makes agent status one transition table, adds isGone, and stops stop→resume reviving a dismissed agent; parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-02T18:20:18.641Z"
+  },
+  {
+    "id": "dc_cuygorz7ae",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-02-one-agent-model-ada-moderator-and-reviewer-roles-a-ygorz7ae.md",
+    "title": "One agent model: Ada, moderator and reviewer roles are gone live (PR #250); the status state machine (PR #269) is in CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-02T18:21:50.682Z"
+  },
+  {
+    "id": "dc_9973c6uh8x",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-02-cost-estimate-step-2-is-live-at-70d90b7d-check-fin-73c6uh8x.md",
+    "title": "Cost estimate step 2 is live at 70d90b7d; check:finance green; no open proposal yet to show a model range",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-02T18:22:54.131Z"
+  },
+  {
+    "id": "dc_f2egh9wljv",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-02-checkpoint-card-shows-evidence-pr-266-merged-as-05-egh9wljv.md",
+    "title": "Checkpoint card shows evidence: PR #266 merged as 059b33f, redeploy queued",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-02T18:23:12.946Z"
+  },
+  {
+    "id": "dc_dz5v0ipflc",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-02-265-ask-folding-live-checked-two-live-defects-fixe-5v0ipflc.md",
+    "title": "#265 ask folding live-checked; two live defects fixed in PR #270 (merged c106df1, redeploy queued)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-02T18:26:19.192Z"
+  },
+  {
+    "id": "dc_6pt577j8b1",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-02-266-checkpoint-card-live-checked-on-059b33f-row-un-t577j8b1.md",
+    "title": "#266 checkpoint card live-checked on 059b33f; row understated overspend as 100%, fixed in PR #271 (CI pending)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-02T18:32:49.806Z"
+  },
+  {
+    "id": "dc_txkusiipp8",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-02-pr-271-merged-as-d2e55f7-checkpoint-row-shows-real-kusiipp8.md",
+    "title": "PR #271 merged as d2e55f7 (checkpoint row shows real overspend %), redeploy queued",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-02T18:37:14.388Z"
+  },
+  {
+    "id": "dc_q33fi73ahd",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-02-270-live-checked-on-c106df1-no-self-ask-no-decided-3fi73ahd.md",
+    "title": "#270 live-checked on c106df1: no self-ask, no Decided-line ask; ask row pictured; pipes in table-row asks fixed in PR #272 (CI pending)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-02T18:43:33.569Z"
   }
 ]
