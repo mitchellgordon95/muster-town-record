@@ -18286,5 +18286,23 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-02T18:43:33.569Z"
+  },
+  {
+    "id": "dc_g7q7s2vug8",
+    "path": "buildings/bl_vef3v0oux0/docs/note/2026-11/2026-11-02-brief-token-cost-is-legible-and-watched-cache-moni-q7s2vug8.md",
+    "title": "Brief: token cost is legible and watched (cache monitoring under Bank Transparency)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-02T20:36:13.678Z"
+  },
+  {
+    "id": "dc_bot1ogt5dl",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-02-overdraft-of-2026-11-02-cause-found-prompt-caching-t1ogt5dl.md",
+    "title": "Overdraft of 2026-11-02: cause found, prompt caching fixed, directed work gated, reserve kept for managers (85498fa)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-02T20:38:59.302Z"
   }
 ]

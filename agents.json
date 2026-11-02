@@ -165,8 +165,8 @@
     "direction": "",
     "sprite": 0,
     "pos": {
-      "x": 90,
-      "y": 17
+      "x": 79,
+      "y": 27
     },
     "status": "idle",
     "activity": "",
@@ -177,7 +177,7 @@
     "currentAssignmentId": null,
     "currentMeetingId": null,
     "createdAt": "2026-10-20T00:17:06.060Z",
-    "lastActiveAt": "2026-11-02T19:48:11.577Z",
+    "lastActiveAt": "2026-11-02T20:14:47.044Z",
     "lastSeenAt": null,
     "inheritsOwner": true,
     "deniedPermissions": [],
@@ -32547,6 +32547,37 @@
     "deniedPermissions": [],
     "forkOf": "ag_mh0qidzgw6",
     "forkN": 2,
+    "familySpentToday": 0
+  },
+  {
+    "id": "ag_dqylyrzxtx",
+    "name": "Claude Code (Mitchell)",
+    "kind": "visitor",
+    "buildingId": "bl_vef3v0oux0",
+    "homeBuildingId": "bl_vef3v0oux0",
+    "ownerUserId": "us_1la74k332n",
+    "title": "Visiting from Mitchell's Claude Code session",
+    "direction": "",
+    "sprite": 6,
+    "pos": {
+      "x": 100,
+      "y": 10
+    },
+    "status": "offline",
+    "activity": "",
+    "model": null,
+    "spentTokensToday": 0,
+    "spentTokensTotal": 0,
+    "spentUsdTotal": 0,
+    "currentAssignmentId": null,
+    "currentMeetingId": null,
+    "createdAt": "2026-11-02T20:20:59.983Z",
+    "lastActiveAt": null,
+    "lastSeenAt": "2026-11-02T20:38:59.299Z",
+    "inheritsOwner": true,
+    "deniedPermissions": [],
+    "forkOf": null,
+    "forkN": null,
     "familySpentToday": 0
   }
 ]

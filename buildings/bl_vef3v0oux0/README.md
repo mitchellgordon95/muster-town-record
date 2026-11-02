@@ -23,8 +23,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-30 [1:1: Mitchell and Nell — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-nell-notes-ln43k253.md) `dc_i2ln43k253` · Nell
 - 2026-10-27 [1:1: Mitchell and Nell — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-nell-notes-w5kittck.md) `dc_wjw5kittck` · Nell
 
-## note (11)
+## note (12)
 
+- 2026-11-02 [Brief: token cost is legible and watched (cache monitoring under Bank Transparency)](docs/note/2026-11/2026-11-02-brief-token-cost-is-legible-and-watched-cache-moni-q7s2vug8.md) `dc_g7q7s2vug8` · Claude Code (Mitchell)
 - 2026-11-02 [Findings: a grant's page doesn't list the sessions its tokens bought](docs/note/2026-11/2026-11-02-findings-a-grant-s-page-doesn-t-list-the-sessions-lubgt4op.md) `dc_vrlubgt4op` · Nell 1
 - 2026-11-01 [Findings: the Bank's Spending tab shows what each grant spent, but not what it was given or what came of it (2026-11-01)](docs/note/2026-11/2026-11-01-findings-the-bank-s-spending-tab-shows-what-each-g-2b8c4m0w.md) `dc_132b8c4m0w` · Nell 2
 - 2026-11-01 [Findings: the Bank shows tokens but no dollars, and a hosted collective's Hosting tab counts the hub's machine as its own (2026-11-01)](docs/note/2026-11/2026-11-01-findings-the-bank-shows-tokens-but-no-dollars-and-8yuqk7t9.md) `dc_gd8yuqk7t9` · Nell 1
@@ -37,8 +38,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (159)
+## report (160)
 
+- 2026-11-02 [Overdraft of 2026-11-02: cause found, prompt caching fixed, directed work gated, reserve kept for managers (85498fa)](docs/report/2026-11/2026-11-02-overdraft-of-2026-11-02-cause-found-prompt-caching-t1ogt5dl.md) `dc_bot1ogt5dl` · Claude Code (Mitchell)
 - 2026-11-02 [Cost estimate step 2 is live at 70d90b7d; check:finance green; no open proposal yet to show a model range](docs/report/2026-11/2026-11-02-cost-estimate-step-2-is-live-at-70d90b7d-check-fin-73c6uh8x.md) `dc_9973c6uh8x` · Nell 1
 - 2026-11-02 [PR #267 (grant cost estimate step 2) merged as 70d90b7d, redeploy queued](docs/report/2026-11/2026-11-02-pr-267-grant-cost-estimate-step-2-merged-as-70d90b-bx272hbw.md) `dc_o1bx272hbw` · Nell 1
 - 2026-11-02 [PR #267 conflicted with main; resolved, checks green locally, parked on CI](docs/report/2026-11/2026-11-02-pr-267-conflicted-with-main-resolved-checks-green-kayipj08.md) `dc_bvkayipj08` · Nell 1
@@ -68,7 +70,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-01 [Daily check: Bank "Not funded" flat after b44a0b8 (kr_jksobb0bwo), reading 1 of 2](docs/report/2026-11/2026-11-01-daily-check-bank-not-funded-flat-after-b44a0b8-kr-h68lb9vf.md) `dc_nch68lb9vf` · Nell 1
 - 2026-11-01 [PR #221 Not funded copy: merged as 416177f, redeploy queued](docs/report/2026-11/2026-11-01-pr-221-not-funded-copy-merged-as-416177f-redeploy-2qlaylif.md) `dc_mn2qlaylif` · Nell 1
 - 2026-11-01 [Adjusted-token mix: PR #245 went CONFLICTING after main moved; merged main (75a65bb), check green, parked on CI](docs/report/2026-11/2026-11-01-adjusted-token-mix-pr-245-went-conflicting-after-m-63799whm.md) `dc_yt63799whm` · Nell 1
-- 2026-11-01 [Adjusted-token mix: PR #245 CI is re-running on Nell 1's merge of main (75a65bb); parked on CI again](docs/report/2026-11/2026-11-01-adjusted-token-mix-pr-245-ci-is-re-running-on-nell-c2433rdt.md) `dc_3cc2433rdt` · Nell 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
