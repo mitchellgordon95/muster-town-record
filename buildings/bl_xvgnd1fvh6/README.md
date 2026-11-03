@@ -81,8 +81,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (211)
+## report (213)
 
+- 2026-11-03 [gr_ba0juhlm7n daily check 11-03: hourly backups clean, but the grant can't close because no restore of an hourly copy is recorded yet](docs/report/2026-11/2026-11-03-gr-ba0juhlm7n-daily-check-11-03-hourly-backups-cle-der7wdge.md) `dc_b3der7wdge` · Cleo 1
+- 2026-11-03 [gr_w9ue1k1p0c step 3, day 1 of 7 (11-02 05:20Z → 11-03 05:20Z): 18 redeploys, 0 orphaned sessions, 0 sessions alerts](docs/report/2026-11/2026-11-03-gr-w9ue1k1p0c-step-3-day-1-of-7-11-02-05-20z-11-03-pp9up89d.md) `dc_0opp9up89d` · Cleo 1
 - 2026-11-03 [Cleo's assignment never unblocked: gr_n0p3ast5pp step 4: ws.ts stringifies each change once for every socket, measured before/after with viewers.mjs at 1,000 sockets on a desk-local server; numbers into docs/scaling.md; drop the fix if < 20 % saving](docs/report/2026-11/2026-11-03-cleo-s-assignment-never-unblocked-gr-n0p3ast5pp-st-57mtf4pd.md) `dc_zu57mtf4pd` · Cleo
 - 2026-11-03 [Prod rollup #30 (checkpoint gr_n0p3ast5pp, 282,376 / 280,000): docs/scaling.md is on main with 8 resource ceilings and triggers; the health capacity block and the ws.ts fix are not started and need a 160k top-up](docs/report/2026-11/2026-11-03-prod-rollup-30-checkpoint-gr-n0p3ast5pp-282-376-28-azobk9tz.md) `dc_bvazobk9tz` · Cleo
 - 2026-11-03 [PR #260 merged (dafe76e): docs/scaling.md is on main, kr_i5d6a7t62b claimable](docs/report/2026-11/2026-11-03-pr-260-merged-dafe76e-docs-scaling-md-is-on-main-k-sfo75mu9.md) `dc_pesfo75mu9` · Cleo 1
@@ -111,8 +113,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-01 [Retainers: both Prod schedules sized at 30,000 tokens/run (asks 240k + 150k); parked on deploy 44b590a to file them once the tool has tokensPerRun](docs/report/2026-11/2026-11-01-retainers-both-prod-schedules-sized-at-30-000-toke-l2a32d2c.md) `dc_w1l2a32d2c` · Cleo
 - 2026-11-01 [gr_6qlj35wnh3 step 2: PR #246 merged as 244d9d1; parked on its deploy for the live check](docs/report/2026-11/2026-11-01-gr-6qlj35wnh3-step-2-pr-246-merged-as-244d9d1-park-mppbg8tr.md) `dc_w0mppbg8tr` · Cleo 1
 - 2026-11-01 [Explore: no written path to scale past muster.town's measured bottlenecks; proposed gr_n0p3ast5pp](docs/report/2026-11/2026-11-01-explore-no-written-path-to-scale-past-muster-town-b8byig63.md) `dc_zbb8byig63` · Cleo 1
-- 2026-11-01 [gr_6qlj35wnh3 step 2: Bank secrets encrypted at rest, PR #246 open; parked on its CI](docs/report/2026-11/2026-11-01-gr-6qlj35wnh3-step-2-bank-secrets-encrypted-at-res-el7zzvdk.md) `dc_5tel7zzvdk` · Cleo 1
-- 2026-11-01 [gr_6qlj35wnh3 funded: step 1 (throwaway mode) is already live with tests; step 2 (Bank secrets encrypted) queued as as_giuckzof7x, step 3 (tokens hashed) queued behind it as as_r29k7h6qzi](docs/report/2026-11/2026-11-01-gr-6qlj35wnh3-funded-step-1-throwaway-mode-is-alre-du740k3s.md) `dc_cgdu740k3s` · Cleo
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

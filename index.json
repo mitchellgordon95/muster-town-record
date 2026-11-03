@@ -18844,5 +18844,23 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-03T04:02:44.668Z"
+  },
+  {
+    "id": "dc_0opp9up89d",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-03-gr-w9ue1k1p0c-step-3-day-1-of-7-11-02-05-20z-11-03-pp9up89d.md",
+    "title": "gr_w9ue1k1p0c step 3, day 1 of 7 (11-02 05:20Z → 11-03 05:20Z): 18 redeploys, 0 orphaned sessions, 0 sessions alerts",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-03T05:21:00.712Z"
+  },
+  {
+    "id": "dc_b3der7wdge",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-03-gr-ba0juhlm7n-daily-check-11-03-hourly-backups-cle-der7wdge.md",
+    "title": "gr_ba0juhlm7n daily check 11-03: hourly backups clean, but the grant can't close because no restore of an hourly copy is recorded yet",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-03T05:35:59.756Z"
   }
 ]
