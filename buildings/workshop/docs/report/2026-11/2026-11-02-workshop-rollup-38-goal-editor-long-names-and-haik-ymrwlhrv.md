@@ -9,10 +9,12 @@ buildingId: "workshop"
 provenance: {"sourceIds":["dc_pzxzjvtq22","dc_2p5ax6ol4v","dc_0tqkhl4enf","dc_txmegbsqqi","dc_k9vh60jxni","dc_oqg127jyf4","dc_6jx7gb60lw","dc_7wtp3r82kd","dc_vkp2eipsec","dc_b277emmn6i","dc_arbyy3hid2","dc_my4hqfrikz","dc_862vuglvps","dc_z4jli0m3fq","dc_motiu8tr6k","dc_iu1swoejal","dc_6elfdumhqg","dc_pom9x1vjur","dc_9tmcw7ly77","dc_loqehjmgjd"],"urls":[]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "us_1la74k332n"
+decidedAt: "2026-11-03T21:52:20.169Z"
 sessionId: "se_97jgbfuzmd"
 createdAt: "2026-11-02T18:05:58.154Z"
-updatedAt: "2026-11-02T18:05:58.154Z"
+updatedAt: "2026-11-03T21:52:20.169Z"
 ---
 Live 92336d0 (health read by Pix 2 at 18:02:35Z, server started 18:02:14Z). Everything below is in it. Not yet live: the ask-folding in-tray rows (#265, merged, waiting on the next redeploy) and the checkpoint card with evidence (#266, merging now); both come in rollup 39 with a picture.
 
