@@ -10,29 +10,24 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "workshop"
 createdAt: "2026-10-28T21:20:57.019Z"
-updatedAt: "2026-11-02T18:23:03.645Z"
+updatedAt: "2026-11-03T03:28:00.908Z"
 ---
-State on 2026-11-02: PR #266 (checkpoint evidence) merged as 059b33f with a redeploy queued. It is NOT yet live-checked. withdraw_grant (PR #264 = 0d0da02) was live-checked on health 92336d0 (2026-11-02T18:02:35Z). Code: core/src/grants.ts, core/src/verbs/grants.ts, core/src/review-deck.ts, web panels/Places.tsx GrantRow, web panels/keyResults.ts. Spec: docs/how-work-gets-done.md §4 and §6, docs/invariants/grants.md.
+State on 2026-11-03: PR #275 (stop a funded grant, API) merged as 227906a, redeploy queued, NOT live-checked. PR #280 (stop in the web, step 2) open, CI pending, not merged. #266 (checkpoint evidence, 059b33f) and #264 (withdraw_grant, 0d0da02) are live-checked. Code: core/src/grants.ts, core/src/verbs/grants.ts, core/src/review-deck.ts, core/src/domain.ts (townHallIntray), web panels/Places.tsx GrantRow, web panels/keyResults.ts. Spec: docs/how-work-gets-done.md §4 and §6, docs/invariants/grants.md.
 - **Key results belong to grants** (PR #171, migration 069, live). A grant is filed against a goal and carries 1–5 dated key results (text, howToCheck, due). Only a human marks a key result met or missed. Agents go at most to `claimed`.
-- **Grant verbs** (manager): `propose_grant` (an optional `grantId` rewrites a countered proposal), `checkpoint_grant`, `close_grant` (done: key results go to claimed, unspent tokens return to the Bank) and `withdraw_grant`.
-- **Checkpoint rule (forks: follow this when you write a checkpoint)** (Mitchell 1:1 mt_7b4zc7yja3, PR #266, Pix 3 [dc_6elfdumhqg](../../report/2026-11/2026-11-02-checkpoint-card-shows-evidence-pr-266-open-waiting-lfdumhqg.md)):
-  - Call `checkpoint_grant` per key result, with `keyResultId`, its status and a `note` saying what actually shipped (a PR, a commit, what a human sees live) or what did not and why.
-  - Statuses map to verdicts: claimed = ✓ shipped, on-track or at-risk = ~ partly, not-started = ✗ not shipped.
-  - Once per hold, also give `whatTopUpBuys` (one line on what the next tokens deliver) and `topUpTokens` (a number). Give both or neither; the call is refused until they are given. A new hold clears them. Once a human has continued or topped the grant up, they are no longer asked for. Migration 085 adds grants.topUpTokens and grants.whatTopUpBuys.
-  - Then `submit_report` with rollup:true. Its Shipped titles show on the card.
-- **What the checkpoint card shows**: `GrantView.evidence` (core Grants.evidence) is drawn in this order:
-  - one line per key result, "✓ shipped / ✗ not shipped / ~ partly: <note>"
-  - spent vs granted
-  - "A top-up of N tokens buys: …" (old checkpoints read "A top-up: not stated")
-  - the checkpoint report's Shipped titles
-  - Continue / Adjust / Cut
+- **Grant verbs** (manager): `propose_grant` (an optional `grantId` rewrites a countered proposal), `checkpoint_grant`, `close_grant` (done: key results go to claimed, unspent tokens return to the Bank) and `withdraw_grant`. A manager can NOT stop a funded grant.
+- **Stop rule** (Mitchell 1:1 mt_a6wb51enia, grant gr_8i952perny; findings [dc_dhhy0zoi52](../../note/2026-11/2026-11-02-findings-what-closing-a-funded-grant-as-stopped-do-hy0zoi52.md), Pix 4 report [dc_z8mnleg08h](../../report/2026-11/2026-11-03-gr-8i952perny-step-1-grants-stop-in-draft-pr-275-c-mnleg08h.md)):
+  - Only a human stops a funded or checkpoint grant: `POST /api/grants/:id/stop {reason}` (core `Grants.stop`, #275 = 227906a) needs `building.fund` or captaincy of the grant's goal. Reason required (400 if blank). A proposed grant is 409: withdraw or reject it. A manager gets 403, and a manager's `close` with outcome stopped on a funded/checkpoint grant is 403; a funder's close-stopped goes through `stop`.
+  - Status `stopping` (TEXT column, no migration): not live; lanes.ts refuses new charges, free-tokens.ts drops its claim at once.
+  - Wind-down: running forks get `interruptFork` with the reason and the 5-min hard stop; queued grant work is cancelled with heldReason "Grant stopped: <reason>"; open key results archive as missed with note "Grant stopped: <reason>"; the manager gets a system message.
+  - Runtime tick `finishStopping` closes it as `stopped` once no session runs on it. `grant.closed` carries the human, reason, spent/granted/unspent, returnedTo (pool|input), fundedWith. Pool-funded: unspent becomes free tokens; member-funded: it stays on the member's input.
+  - Web (#280, Pix 3 as_vcaxi6enhb, not yet merged): GrantRow "Stop grant…" with a required reason on funded/checkpoint grants for whoever can fund (in-tray and grant panel); red pill "stopping"/"stopped", "<who> stopped it: <reason>", "spent X of Y; Z unspent returned to the Bank as free tokens" (or stays on the funder's input). Schema `grantStopOf` reads the stop from history. Core `stoppedGrants` → Town Hall in-tray `stopped` (stopping + closed as stopped in the last 3 days, withdrawals excluded), routed, NOT counted in the badge; web section "Stopped: for the record". Review deck: `stopped` slide (group 6, Your call: None, not in slide 1's decision count). Grants tab lists `stopping` with settled.
+  - Tests: core grant-stop.test.ts (5), server grants.test.ts. Still to do after #280 is live: stop a human-funded throwaway grant, compare Bank page free tokens with GET /api/bank before/after, picture of the stopped row (rollup item 21 on [dc_7lpbltjy1j](2026-10-31-rollup-37-materials-pbltjy1j.md)).
+- **Checkpoint rule (forks: follow this when you write a checkpoint)** (mt_7b4zc7yja3, PR #266): call `checkpoint_grant` per key result with `keyResultId`, its status and a `note` on what actually shipped or did not. claimed = ✓ shipped, on-track/at-risk = ~ partly, not-started = ✗ not shipped. Once per hold also give `whatTopUpBuys` and `topUpTokens` (both or neither; refused until given; a new hold clears them). Then `submit_report` with rollup:true.
+- **Checkpoint card** (`GrantView.evidence`): per-KR verdict lines, spent vs granted, the top-up line, the checkpoint report's Shipped titles, then Continue / Adjust / Cut; KRs and stop condition under a fold (in-tray GrantRow and deck slide).
+- **Rollup asks fold into rows** (PR #265, D1): an ask-only rollup is auto-acknowledged (tag `folded`) and shows on the grant's own row. Code: core rollup-asks.ts.
+- **Withdraw rule** (mt_a6wb51enia): `withdraw_grant` takes a grantId and a required note; draft/proposed/countered only. Closes as stopped (history action "withdraw", not "stop"), open KRs archive with the note.
+- **Checkpoint only at 100%** (mt_rjhwj2qggm): CHECKPOINTS = [1].
+- **Rollup Needs rule** (mt_uf1bwd3exq, live): rollup:true refuses Needs naming a grant waiting on a human, an open request or a pending Town Hall report.
+- **Ask to captain a goal** (PR #192, live): in-tray row + deck slide; end-to-end with a second human pending (gr_bwm0iz7rwl).
 
-  The key results and stop condition sit under a fold, in both the in-tray GrantRow and the deck slide. A proposal from the same building on the same goal shows the evidence of an earlier grant that stopped at its checkpoint (cut or spent). That match is a heuristic: there is no explicit link between the two grants. Tests: core lanes.test.ts and review-deck.test.ts, server grants.test.ts, web checkpointEvidence.test.tsx.
-- **Rollup asks fold into rows** (PR #265 = 0f2271e, mt_7b4zc7yja3 D1): a rollup that only asks to fund, continue or approve an item with its own in-tray row is auto-acknowledged (tag `folded`). The ask shows on that row as "<building> asks you to <verb> this: …". Code: core rollup-asks.ts.
-- **Withdraw rule** (mt_a6wb51enia): `withdraw_grant` takes a grantId and a required note. It works on draft, proposed or countered grants and is refused on funded ones. The grant closes as stopped and its open key results archive with the note. To change a plan: withdraw, then propose fresh.
-- **Checkpoint only at 100%** (mt_rjhwj2qggm): CHECKPOINTS = [1]. At that point a human can only continue, adjust or cut.
-- **Rollup Needs rule** (mt_uf1bwd3exq, live): rollup:true refuses a Needs section that names a grant waiting on a human, an open request or a pending Town Hall report.
-- **Ask to captain a goal** (PR #192, live): an in-tray row plus a deck slide. The end-to-end check with a second human is still pending (gr_bwm0iz7rwl).
-- **Still open**: a picture of a real checkpoint card once one is held after the deploy. Leftover: `GrantBoard.keyResults`/`blocked` are still on the board type.
-
-See also [dc_jcyf86dpdp](2026-10-28-web-client-panels-and-the-in-tray-yf86dpdp.md) (in-tray deck) and [dc_7lpbltjy1j](2026-10-31-rollup-37-materials-pbltjy1j.md) (rollup 38 item 19).
+See also [dc_jcyf86dpdp](2026-10-28-web-client-panels-and-the-in-tray-yf86dpdp.md) (in-tray deck) and [dc_7lpbltjy1j](2026-10-31-rollup-37-materials-pbltjy1j.md) (rollup items 19, 21).

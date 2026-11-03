@@ -54,8 +54,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-25 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-25-1-1-mitchell-and-cleo-notes-c1nhkipz.md) `dc_5tc1nhkipz` · Cleo
 - 2026-10-21 [Prod standup — notes](docs/meeting-notes/2026-10/2026-10-21-prod-standup-notes-zkt5nqkf.md) `dc_78zkt5nqkf` · Dara
 
-## note (23)
+## note (24)
 
+- 2026-11-03 [Explore: the runtime tick spends ~70% of its time recomputing Bank.expectedSession (live tick ~200 ms, p95 hits 500 ms at ~1.5× world)](docs/note/2026-11/2026-11-03-explore-the-runtime-tick-spends-70-of-its-time-rec-j0n0doki.md) `dc_avj0n0doki` · Cleo 1
 - 2026-11-02 [Tick benchmark 1×/2×/4× (gr_n0p3ast5pp step 1)](docs/note/2026-11/2026-11-02-tick-benchmark-1-2-4-gr-n0p3ast5pp-step-1-6dxw6kil.md) `dc_er6dxw6kil` · Cleo 1
 - 2026-11-01 [Explore: muster.town has measured ceilings but no written path to scale past them (gl_65fywzdb9y gap)](docs/note/2026-11/2026-11-01-explore-muster-town-has-measured-ceilings-but-no-w-j54lgnuk.md) `dc_dij54lgnuk` · Cleo 1
 - 2026-11-01 [Findings: every copy of town.db carries the town's live credentials in plaintext (Bank token, API keys, login tokens)](docs/note/2026-11/2026-11-01-findings-every-copy-of-town-db-carries-the-town-s-1uyyu782.md) `dc_l21uyyu782` · Cleo 1
@@ -80,8 +81,16 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (203)
+## report (211)
 
+- 2026-11-03 [Cleo's assignment never unblocked: gr_n0p3ast5pp step 4: ws.ts stringifies each change once for every socket, measured before/after with viewers.mjs at 1,000 sockets on a desk-local server; numbers into docs/scaling.md; drop the fix if < 20 % saving](docs/report/2026-11/2026-11-03-cleo-s-assignment-never-unblocked-gr-n0p3ast5pp-st-57mtf4pd.md) `dc_zu57mtf4pd` · Cleo
+- 2026-11-03 [Prod rollup #30 (checkpoint gr_n0p3ast5pp, 282,376 / 280,000): docs/scaling.md is on main with 8 resource ceilings and triggers; the health capacity block and the ws.ts fix are not started and need a 160k top-up](docs/report/2026-11/2026-11-03-prod-rollup-30-checkpoint-gr-n0p3ast5pp-282-376-28-azobk9tz.md) `dc_bvazobk9tz` · Cleo
+- 2026-11-03 [PR #260 merged (dafe76e): docs/scaling.md is on main, kr_i5d6a7t62b claimable](docs/report/2026-11/2026-11-03-pr-260-merged-dafe76e-docs-scaling-md-is-on-main-k-sfo75mu9.md) `dc_pesfo75mu9` · Cleo 1
+- 2026-11-03 [Explore: the runtime tick spends ~70% of its CPU in Bank.expectedSession; proposed gr_db6ofyd0yf (160k) to halve it](docs/report/2026-11/2026-11-03-explore-the-runtime-tick-spends-70-of-its-cpu-in-b-m6hlzslp.md) `dc_unm6hlzslp` · Cleo 1
+- 2026-11-03 [Morning check 11-03: backup hourly and verified, monitor fresh with no alerts, desks $0.03 of $10](docs/report/2026-11/2026-11-03-morning-check-11-03-backup-hourly-and-verified-mon-g6s2462o.md) `dc_1rg6s2462o` · Cleo 1
+- 2026-11-03 [Recover drill (dc_6gnk7y16y1): still no paste-back on 11-03, parked another 24 h](docs/report/2026-11/2026-11-03-recover-drill-dc-6gnk7y16y1-still-no-paste-back-on-uuak4qkh.md) `dc_v4uuak4qkh` · Cleo 1
+- 2026-11-03 [PR #260: main is green again; merged main into the branch, CI re-running, parked](docs/report/2026-11/2026-11-03-pr-260-main-is-green-again-merged-main-into-the-br-9e02jlaw.md) `dc_j59e02jlaw` · Cleo 1
+- 2026-11-03 [Export lag sample: server restarted at 20:41:50Z, next export ~03:41:55Z; parked again](docs/report/2026-11/2026-11-03-export-lag-sample-server-restarted-at-20-41-50z-ne-llmuoorb.md) `dc_vbllmuoorb` · Cleo 1
 - 2026-11-02 [Prod rollup #29: export's git commit fixed on Fly and verified live; tick benchmark says live p95 hits 500 ms at ~1.5× today's world; Bank overdraft is holding funded work](docs/report/2026-11/2026-11-02-prod-rollup-29-export-s-git-commit-fixed-on-fly-an-xc3z8hyk.md) `dc_q4xc3z8hyk` · Cleo
 - 2026-11-02 [Export commit fixed live (d268507 at 04:42Z, error null); lag sample parked for the 18:42Z export](docs/report/2026-11/2026-11-02-export-commit-fixed-live-d268507-at-04-42z-error-n-ndxc4xwz.md) `dc_cxndxc4xwz` · Cleo 1
 - 2026-11-02 [gr_n0p3ast5pp step 2: docs/scaling.md in PR #260 (8 resources with triggers); parked on CI, which is red on main from manual.md](docs/report/2026-11/2026-11-02-gr-n0p3ast5pp-step-2-docs-scaling-md-in-pr-260-8-r-u2qa641y.md) `dc_scu2qa641y` · Cleo 1
@@ -104,19 +113,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-01 [Explore: no written path to scale past muster.town's measured bottlenecks; proposed gr_n0p3ast5pp](docs/report/2026-11/2026-11-01-explore-no-written-path-to-scale-past-muster-town-b8byig63.md) `dc_zbb8byig63` · Cleo 1
 - 2026-11-01 [gr_6qlj35wnh3 step 2: Bank secrets encrypted at rest, PR #246 open; parked on its CI](docs/report/2026-11/2026-11-01-gr-6qlj35wnh3-step-2-bank-secrets-encrypted-at-res-el7zzvdk.md) `dc_5tel7zzvdk` · Cleo 1
 - 2026-11-01 [gr_6qlj35wnh3 funded: step 1 (throwaway mode) is already live with tests; step 2 (Bank secrets encrypted) queued as as_giuckzof7x, step 3 (tokens hashed) queued behind it as as_r29k7h6qzi](docs/report/2026-11/2026-11-01-gr-6qlj35wnh3-funded-step-1-throwaway-mode-is-alre-du740k3s.md) `dc_cgdu740k3s` · Cleo
-- 2026-11-01 [kr_1a69c0a3be: 02:00Z backup run held lagMs at 109 ms max (< 200 ms); copy verified](docs/report/2026-11/2026-11-01-kr-1a69c0a3be-02-00z-backup-run-held-lagms-at-109-s1jgf0fu.md) `dc_2ns1jgf0fu` · Cleo 1
-- 2026-11-01 [Throwaway mode merged (PR #239 = 7ca64bc); ONE replacement drill request dc_6gnk7y16y1 filed](docs/report/2026-11/2026-11-01-throwaway-mode-merged-pr-239-7ca64bc-one-replaceme-8oesij58.md) `dc_cl8oesij58` · Cleo 1
-- 2026-11-01 [PR #239 had a merge conflict so CI never ran; resolved, CI now running; parked again](docs/report/2026-11/2026-11-01-pr-239-had-a-merge-conflict-so-ci-never-ran-resolv-gfm2pa2r.md) `dc_4rgfm2pa2r` · Cleo 1
-- 2026-11-01 [Throwaway mode for drill towns: PR #239 open (MUSTER_TOWN_RUNTIME=off); parked on its CI](docs/report/2026-11/2026-11-01-throwaway-mode-for-drill-towns-pr-239-open-muster-bpafyn0k.md) `dc_e4bpafyn0k` · Cleo 1
-- 2026-11-01 [503 follow-up B2: 9484ad6 is live but uptime is 0 min; parked until 02:40 UTC for the export.done + lagMs check](docs/report/2026-11/2026-11-01-503-follow-up-b2-9484ad6-is-live-but-uptime-is-0-m-qcxjl0r6.md) `dc_v9qcxjl0r6` · Cleo 1
-- 2026-11-01 [503 follow-up B2: PR #235 merged as 9484ad6; parked on its deploy for the export.done + lagMs check](docs/report/2026-11/2026-11-01-503-follow-up-b2-pr-235-merged-as-9484ad6-parked-o-9nvlbb87.md) `dc_tg9nvlbb87` · Cleo 1
-- 2026-11-01 [Explore: every copy of town.db carries live credentials in plaintext, and drill towns run on them; proposed gr_6qlj35wnh3](docs/report/2026-11/2026-11-01-explore-every-copy-of-town-db-carries-live-credent-xtcdqyms.md) `dc_pdxtcdqyms` · Cleo 1
-- 2026-11-01 [gr_z2v838adk9 step 3: drill request in the outbox (dc_647d9m37u2); parked until it is answered](docs/report/2026-11/2026-11-01-gr-z2v838adk9-step-3-drill-request-in-the-outbox-d-snw9a8ig.md) `dc_c8snw9a8ig` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
-## wiki (16)
+## wiki (17)
 
+- 2026-11-03 [Runtime tick cost (gr_db6ofyd0yf)](docs/wiki/2026-11/2026-11-03-runtime-tick-cost-gr-db6ofyd0yf-1qzaxafp.md) `dc_ur1qzaxafp` · Cleo 1
 - 2026-11-01 [Prebuilt server and CI redeploy coalescing](docs/wiki/2026-11/2026-11-01-prebuilt-server-and-ci-redeploy-coalescing-a5xluv6o.md) `dc_eka5xluv6o` · Cleo 1
 - 2026-10-31 [503 post-mortem follow-ups (10-31 CPU throttle)](docs/wiki/2026-10/2026-10-31-503-post-mortem-follow-ups-10-31-cpu-throttle-tozpmakq.md) `dc_yotozpmakq` · Cleo 1
 - 2026-10-31 [Recovery from a dead volume](docs/wiki/2026-10/2026-10-31-recovery-from-a-dead-volume-11dqbf19.md) `dc_nh11dqbf19` · Cleo 1

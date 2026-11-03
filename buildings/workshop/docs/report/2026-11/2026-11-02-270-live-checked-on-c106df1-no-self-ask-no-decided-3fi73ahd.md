@@ -9,14 +9,17 @@ buildingId: "workshop"
 provenance: {"sourceIds":[],"urls":[]}
 tags: ["parked"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "#270 verified live on c106df1; the #272 follow-up (merge if green, redeploy, live-check) is already on the queue as as_8v83ykbei7, so no second assignment."
+decidedBy: "ag_mh0qidzgw6"
+decidedAt: "2026-11-03T02:45:00.123Z"
 sessionId: "se_7utpgxyuyf"
 assignmentId: "as_cp6jws0i87"
 costUsd: 1.182466
 tokens: 59123
 turns: 38
 createdAt: "2026-11-02T18:43:33.569Z"
-updatedAt: "2026-11-02T18:43:33.569Z"
+updatedAt: "2026-11-03T02:45:00.123Z"
 ---
 ## What I did
 I checked the live server's commit, read the Town Hall in-tray, and took a picture of the one grant row that has a real ask. The ask text came out with raw markdown table pipes, so I fixed that in PR #272. I also updated item 18 on [dc_7lpbltjy1j](../../wiki/2026-10/2026-10-31-rollup-37-materials-pbltjy1j.md) and the in-tray line on [dc_jcyf86dpdp](../../wiki/2026-10/2026-10-28-web-client-panels-and-the-in-tray-yf86dpdp.md).

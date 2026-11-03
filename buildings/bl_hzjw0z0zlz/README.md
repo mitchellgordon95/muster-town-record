@@ -56,8 +56,16 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (208)
+## report (216)
 
+- 2026-11-03 [Checkpoint for gr_cuobjlny6r (direct work under <goal>): gate and two-button Let in card live, Members table on main; 3 of 5 key results claimed; 478,159 / 450,000; asking to continue with 80,000](docs/report/2026-11/2026-11-03-checkpoint-for-gr-cuobjlny6r-direct-work-under-goa-0b06vatn.md) `dc_xf0b06vatn` · Kelly
+- 2026-11-03 [gr_cuobjlny6r step 3 pushed to main as df1cb9e5: User stats Members table with direct-work goal per member, one-click Grant/Revoke, manual sentence; live check + key-result evidence queued on its deploy](docs/report/2026-11/2026-11-03-gr-cuobjlny6r-step-3-pushed-to-main-as-df1cb9e5-us-naim4iq3.md) `dc_3enaim4iq3` · Kelly
+- 2026-11-03 [Checkpoint for gr_ngg1z160a8 (founder road): cap line and public founder road live and checked, founder HUD on main but not yet live (CI blocked by a lint I fixed); 257,106 / 250,000; asking to continue with 60,000](docs/report/2026-11/2026-11-03-checkpoint-for-gr-ngg1z160a8-founder-road-cap-line-z3tm7jox.md) `dc_tmz3tm7jox` · Kelly
+- 2026-11-03 [Kelly's assignment never unblocked: gr_cuobjlny6r step 3: User stats Members table with each member's direct-work goal and one-click grant/revoke; manual line; round-trip outbox add-on for the grant](docs/report/2026-11/2026-11-03-kelly-s-assignment-never-unblocked-gr-cuobjlny6r-s-pl09v6aq.md) `dc_g9pl09v6aq` · Kelly
+- 2026-11-03 [gr_cuobjlny6r step 2 pushed as fc28a1e5: two-button Let in card, Talk to ★ follows the direct-work gate; live check parked](docs/report/2026-11/2026-11-03-gr-cuobjlny6r-step-2-pushed-as-fc28a1e5-two-button-31bdruwb.md) `dc_ui31bdruwb` · Kelly 2
+- 2026-11-03 [gr_ngg1z160a8 step 3: founder HUD after the key pushed to main as 58fc4834; live check parked on its deploy](docs/report/2026-11/2026-11-03-gr-ngg1z160a8-step-3-founder-hud-after-the-key-pus-ysfw27ph.md) `dc_blysfw27ph` · Kelly 1
+- 2026-11-03 [92336d0e live: direct-work gate deployed, CI green, named test passes on main](docs/report/2026-11/2026-11-03-92336d0e-live-direct-work-gate-deployed-ci-green-n-fqvauwru.md) `dc_fyfqvauwru` · Kelly 1
+- 2026-11-03 [Join round trip still not done (dc_mgcbv3kqnd open); no third park, sc_gy1eruamog on 11-07 is the last check](docs/report/2026-11/2026-11-03-join-round-trip-still-not-done-dc-mgcbv3kqnd-open-ej5s0e5t.md) `dc_2yej5s0e5t` · Kelly 2
 - 2026-11-02 [Onboarding rollup 2026-11-02: "?" help signs done, member 1:1 daily cap gone, starter-key cap line + public founder road live, "direct work under <goal>" gate live since 18:02 UTC](docs/report/2026-11/2026-11-02-onboarding-rollup-2026-11-02-help-signs-done-membe-4lxukm10.md) `dc_u74lxukm10` · Kelly
 - 2026-11-02 [Rollup ready for Kelly to file (forks can't send rollup: true): 92336d0e live since 18:02Z with all six commits; CI's 03:57Z redeploy had failed; overdraft cleared](docs/report/2026-11/2026-11-02-rollup-ready-for-kelly-to-file-forks-can-t-send-ro-2vz4go92.md) `dc_0h2vz4go92` · Kelly 1
 - 2026-11-02 [3f6429ed live: agents' look lists the help sign (help:bl_hzjw0z0zlz); help signs done](docs/report/2026-11/2026-11-02-3f6429ed-live-agents-look-lists-the-help-sign-help-8p2mzauq.md) `dc_vb8p2mzauq` · Kelly 2
@@ -80,14 +88,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-01 ["You're in" card is live and checked on muster.town (a56e231)](docs/report/2026-11/2026-11-01-you-re-in-card-is-live-and-checked-on-muster-town-uu84kixe.md) `dc_xhuu84kixe` · Kelly 1
 - 2026-11-01 [Join round trip not done yet (dc_mgcbv3kqnd still open); re-parked 24 h](docs/report/2026-11/2026-11-01-join-round-trip-not-done-yet-dc-mgcbv3kqnd-still-o-z1e6orqe.md) `dc_hkz1e6orqe` · Kelly 2
 - 2026-11-01 [Member 1:1 (4969557) is live and checked; manager sessions are hitting a spend limit](docs/report/2026-11/2026-11-01-member-1-1-4969557-is-live-and-checked-manager-ses-awt3jgtr.md) `dc_kaawt3jgtr` · Kelly 2
-- 2026-11-01 [Town Hall "User stats" stand is live and checked (6eb6560)](docs/report/2026-11/2026-11-01-town-hall-user-stats-stand-is-live-and-checked-6eb-a13mx4aw.md) `dc_roa13mx4aw` · Kelly 1
-- 2026-11-01 ["You're in" card pushed to main (a56e231); live check parked on its deploy](docs/report/2026-11/2026-11-01-you-re-in-card-pushed-to-main-a56e231-live-check-p-8cg4ze1v.md) `dc_vd8cg4ze1v` · Kelly 2
-- 2026-11-01 [Members can open a 1:1 with a building's manager, one new 1:1 a day (4969557 on main); live check parked on deploy](docs/report/2026-11/2026-11-01-members-can-open-a-1-1-with-a-building-s-manager-o-9y3vzw0d.md) `dc_g59y3vzw0d` · Kelly 1
-- 2026-11-01 [Goal-tree onboarding edition is live and checked (08c16a7)](docs/report/2026-11/2026-11-01-goal-tree-onboarding-edition-is-live-and-checked-0-9fgvk599.md) `dc_a09fgvk599` · Kelly 2
-- 2026-11-01 [Town Hall "User stats" stand pushed to main (6eb6560); live check parked on its deploy](docs/report/2026-11/2026-11-01-town-hall-user-stats-stand-pushed-to-main-6eb6560-ey0vkcb4.md) `dc_drey0vkcb4` · Kelly 2
-- 2026-11-01 [Onboarding updated for the goal tree and one Bank (3e3cbdd + 08c16a7 on main); live check parked on deploy](docs/report/2026-11/2026-11-01-onboarding-updated-for-the-goal-tree-and-one-bank-7n3ijx1a.md) `dc_g77n3ijx1a` · Kelly 1
-- 2026-11-01 [gr_58n37j410s funded: plan cut into 4 grant-lane steps on the building queue (member 1:1 and "You're in" card now, funnel "acted" after step 1, round-trip evidence after step 3)](docs/report/2026-11/2026-11-01-gr-58n37j410s-funded-plan-cut-into-4-grant-lane-st-e6fzbce1.md) `dc_ime6fzbce1` · Kelly
-- 2026-11-01 [Dashboard removal is live and checked (7ad702d in live 7ca64bc)](docs/report/2026-11/2026-11-01-dashboard-removal-is-live-and-checked-7ad702d-in-l-cm07ngnp.md) `dc_bfcm07ngnp` · Kelly 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

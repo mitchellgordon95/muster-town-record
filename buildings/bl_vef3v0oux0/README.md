@@ -38,8 +38,15 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (160)
+## report (167)
 
+- 2026-11-03 [Bank Transparency: gr_4tf9hd64d5 closed as done, grant pages now list their sessions (live at eff2251)](docs/report/2026-11/2026-11-03-bank-transparency-gr-4tf9hd64d5-closed-as-done-gra-pcpw5lhj.md) `dc_50pcpw5lhj` · Nell
+- 2026-11-03 [Grant Sessions section verified live at eff2251a (both key results of gr_4tf9hd64d5); CSS fix PR #279](docs/report/2026-11/2026-11-03-grant-sessions-section-verified-live-at-eff2251a-b-8y0mjpkh.md) `dc_o58y0mjpkh` · Nell 1
+- 2026-11-03 [PR #276 merged as 376301cc, redeploy queued; parked to verify live](docs/report/2026-11/2026-11-03-pr-276-merged-as-376301cc-redeploy-queued-parked-t-8luv1rf2.md) `dc_bq8luv1rf2` · Nell 1
+- 2026-11-03 [Grant pages list their sessions: PR #276 open (step 1 of gr_4tf9hd64d5), parked on CI](docs/report/2026-11/2026-11-03-grant-pages-list-their-sessions-pr-276-open-step-1-ve18vgun.md) `dc_beve18vgun` · Nell 1
+- 2026-11-03 [Bank Transparency: gr_dt1l35tydx closed as done, Spending tab grant lines live at 85498fa (close report)](docs/report/2026-11/2026-11-03-bank-transparency-gr-dt1l35tydx-closed-as-done-spe-9q4jcui1.md) `dc_3t9q4jcui1` · Nell
+- 2026-11-03 [Spending tab grant lines verified live at 85498fa2: both key results of gr_dt1l35tydx check out; check:finance 32/32](docs/report/2026-11/2026-11-03-spending-tab-grant-lines-verified-live-at-85498fa2-pqb5h610.md) `dc_tapqb5h610` · Nell 1
+- 2026-11-03 [Bank Transparency: cost estimate step 2 live, overdraft cause fixed at 85498fa, grant proposed for the new cache-monitoring goal](docs/report/2026-11/2026-11-03-bank-transparency-cost-estimate-step-2-live-overdr-ybc4r5za.md) `dc_quybc4r5za` · Nell
 - 2026-11-02 [Overdraft of 2026-11-02: cause found, prompt caching fixed, directed work gated, reserve kept for managers (85498fa)](docs/report/2026-11/2026-11-02-overdraft-of-2026-11-02-cause-found-prompt-caching-t1ogt5dl.md) `dc_bot1ogt5dl` · Claude Code (Mitchell)
 - 2026-11-02 [Cost estimate step 2 is live at 70d90b7d; check:finance green; no open proposal yet to show a model range](docs/report/2026-11/2026-11-02-cost-estimate-step-2-is-live-at-70d90b7d-check-fin-73c6uh8x.md) `dc_9973c6uh8x` · Nell 1
 - 2026-11-02 [PR #267 (grant cost estimate step 2) merged as 70d90b7d, redeploy queued](docs/report/2026-11/2026-11-02-pr-267-grant-cost-estimate-step-2-merged-as-70d90b-bx272hbw.md) `dc_o1bx272hbw` · Nell 1
@@ -63,13 +70,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-01 [Dollars on the Bank step 3: parked until 26c2904 (PR #253) is live](docs/report/2026-11/2026-11-01-dollars-on-the-bank-step-3-parked-until-26c2904-pr-8bqhpcdn.md) `dc_v88bqhpcdn` · Nell 2
 - 2026-11-01 [Dollars on the Bank step 2: PR #253 merged as 26c2904, redeploy queued](docs/report/2026-11/2026-11-01-dollars-on-the-bank-step-2-pr-253-merged-as-26c290-wjyrvzz9.md) `dc_p9wjyrvzz9` · Nell 1
 - 2026-11-01 [Dollars on the Bank step 2: PR #253 merged main (5f2c641), ready, parked on CI](docs/report/2026-11/2026-11-01-dollars-on-the-bank-step-2-pr-253-merged-main-5f2c-dng18cbd.md) `dc_1fdng18cbd` · Nell 2
-- 2026-11-01 [Adjusted-token mix: PR #245 merged as bf9bb3c, redeploy queued; live check still to do](docs/report/2026-11/2026-11-01-adjusted-token-mix-pr-245-merged-as-bf9bb3c-redepl-240psqf9.md) `dc_ng240psqf9` · Nell 1
-- 2026-11-01 [Adjusted-token mix: PR #245 merged as bf9bb3c (mix + usd kept), redeploy queued](docs/report/2026-11/2026-11-01-adjusted-token-mix-pr-245-merged-as-bf9bb3c-mix-us-xlmf0sz6.md) `dc_6lxlmf0sz6` · Nell 2
-- 2026-11-01 [Dollars on the Bank step 2: hosted Hosting tab drops the hub's Town Machine (PR #253), parked on CI](docs/report/2026-11/2026-11-01-dollars-on-the-bank-step-2-hosted-hosting-tab-drop-jvze0ia2.md) `dc_1jjvze0ia2` · Nell 1
-- 2026-11-01 [Dollars on the Bank step 1: PR #244 merged as 7c7b92b, redeploy queued](docs/report/2026-11/2026-11-01-dollars-on-the-bank-step-1-pr-244-merged-as-7c7b92-w01r640h.md) `dc_zhw01r640h` · Nell 2
-- 2026-11-01 [Daily check: Bank "Not funded" flat after b44a0b8 (kr_jksobb0bwo), reading 1 of 2](docs/report/2026-11/2026-11-01-daily-check-bank-not-funded-flat-after-b44a0b8-kr-h68lb9vf.md) `dc_nch68lb9vf` · Nell 1
-- 2026-11-01 [PR #221 Not funded copy: merged as 416177f, redeploy queued](docs/report/2026-11/2026-11-01-pr-221-not-funded-copy-merged-as-416177f-redeploy-2qlaylif.md) `dc_mn2qlaylif` · Nell 1
-- 2026-11-01 [Adjusted-token mix: PR #245 went CONFLICTING after main moved; merged main (75a65bb), check green, parked on CI](docs/report/2026-11/2026-11-01-adjusted-token-mix-pr-245-went-conflicting-after-m-63799whm.md) `dc_yt63799whm` · Nell 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -77,8 +77,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
 - 2026-10-29 [screenshot-live-town](docs/skill/2026-10/2026-10-29-screenshot-live-town-qgqqeqho.md) `dc_hzqgqqeqho` · Nell
 
-## wiki (15)
+## wiki (16)
 
+- 2026-11-03 [Grant page sessions (gr_4tf9hd64d5)](docs/wiki/2026-11/2026-11-03-grant-page-sessions-gr-4tf9hd64d5-53bs4vc9.md) `dc_2f53bs4vc9` · Nell 1
 - 2026-11-02 [Grant cost estimate (history-based)](docs/wiki/2026-11/2026-11-02-grant-cost-estimate-history-based-mx2egcpy.md) `dc_gnmx2egcpy` · Nell 1
 - 2026-11-01 [Adjusted-token mix (what 1 adj. token is made of)](docs/wiki/2026-11/2026-11-01-adjusted-token-mix-what-1-adj-token-is-made-of-grv1arc3.md) `dc_ydgrv1arc3` · Nell 1
 - 2026-10-31 [Stale desks after an image redeploy (stale_desks)](docs/wiki/2026-10/2026-10-31-stale-desks-after-an-image-redeploy-stale-desks-nuz69xpm.md) `dc_92nuz69xpm` · Nell 1

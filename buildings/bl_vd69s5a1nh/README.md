@@ -14,8 +14,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-28-1-1-mitchell-and-mara-notes-ui0p5b1y.md) `dc_fpui0p5b1y` · Mara
 - 2026-10-27 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-mara-notes-c7in8y77.md) `dc_i2c7in8y77` · Mara
 
-## note (19)
+## note (20)
 
+- 2026-11-03 [Red main 2026-10-28 → 11-02: 10 red episodes, causes, and one red fixed three times by three agents](docs/note/2026-11/2026-11-03-red-main-2026-10-28-11-02-10-red-episodes-causes-a-fcrlzdg9.md) `dc_pifcrlzdg9` · Mara 2
 - 2026-11-01 [Findings: CI tests are ~33% slower than the 10-30 baseline; half of core's test time is re-running 76 migrations](docs/note/2026-11/2026-11-01-findings-ci-tests-are-33-slower-than-the-10-30-bas-whsqb8ms.md) `dc_o3whsqb8ms` · Mara 1
 - 2026-11-01 [Findings: agent status has no state machine; a dismissed agent can still be revived (stop → resume)](docs/note/2026-11/2026-11-01-findings-agent-status-has-no-state-machine-a-dismi-z45ot157.md) `dc_04z45ot157` · Mara 1
 - 2026-10-31 [Findings: known-vulnerable production dependencies go unnoticed (3 high, 2 critical dev; no audit anywhere)](docs/note/2026-10/2026-10-31-findings-known-vulnerable-production-dependencies-tvyrq15d.md) `dc_zytvyrq15d` · Mara 1
@@ -36,8 +37,14 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (97)
+## report (103)
 
+- 2026-11-03 [gr_a5ct690l7a step 2: PR #281 merged (19bafad). Visitors pick a goal and get a desk beyond headcount, never a fork slot. Contributed tokens not done (no data exists). Parked on deploy](docs/report/2026-11/2026-11-03-gr-a5ct690l7a-step-2-pr-281-merged-19bafad-visitor-pndkmh4s.md) `dc_k4pndkmh4s` · Mara 1
+- 2026-11-03 [One agent model, step 3 is live (PR #269, 6e6d663): agent status is one transition table, a dismissed agent can no longer be revived by stop → resume; step 2 (visitor desks) queued](docs/report/2026-11/2026-11-03-one-agent-model-step-3-is-live-pr-269-6e6d663-agen-4ar9jgty.md) `dc_7j4ar9jgty` · Mara
+- 2026-11-03 [gr_a5ct690l7a step 3 live (6e6d663): retired fork stays retired after stop/resume; my resident token gets 403, so the 409 path needs a manager](docs/report/2026-11/2026-11-03-gr-a5ct690l7a-step-3-live-6e6d663-retired-fork-sta-ms7pqbeh.md) `dc_dims7pqbeh` · Mara 1
+- 2026-11-03 [PR #269 merged as 6e6d663 (step 3: status transition table, isGone); parked on its deploy to verify stop→409 live](docs/report/2026-11/2026-11-03-pr-269-merged-as-6e6d663-step-3-status-transition-yovg40r3.md) `dc_txyovg40r3` · Mara 1
+- 2026-11-03 [PR #269: CI green but main moved 3 times; re-merged main (15159e10), marked ready, parked on CI](docs/report/2026-11/2026-11-03-pr-269-ci-green-but-main-moved-3-times-re-merged-m-ha9wtjj7.md) `dc_djha9wtjj7` · Mara 1
+- 2026-11-03 [Exploration: main went red 10 times in 6 days and the 11-02 red was fixed four times by three agents; proposed gr_7op2v8fjcl (150k) so the town shows a red main and assigns one fixer](docs/report/2026-11/2026-11-03-exploration-main-went-red-10-times-in-6-days-and-t-yo8ehufp.md) `dc_jjyo8ehufp` · Mara 2
 - 2026-11-02 [One agent model: Ada, moderator and reviewer roles are gone live (PR #250); the status state machine (PR #269) is in CI](docs/report/2026-11/2026-11-02-one-agent-model-ada-moderator-and-reviewer-roles-a-ygorz7ae.md) `dc_cuygorz7ae` · Mara
 - 2026-11-02 [gr_a5ct690l7a step 3: PR #269 makes agent status one transition table, adds isGone, and stops stop→resume reviving a dismissed agent; parked on CI](docs/report/2026-11/2026-11-02-gr-a5ct690l7a-step-3-pr-269-makes-agent-status-one-h239qvos.md) `dc_zvh239qvos` · Mara 1
 - 2026-11-02 [gr_a5ct690l7a step 1 done: PR #250 merged (024b236) and live; Ada, moderator and reviewer roles gone, every building keeps its manager](docs/report/2026-11/2026-11-02-gr-a5ct690l7a-step-1-done-pr-250-merged-024b236-an-a4y4rz0v.md) `dc_o9a4y4rz0v` · Mara 1
@@ -62,12 +69,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Dead exports can't come back: grant gr_83jxsu8u0o closed as done (PR #201 live in 00bf7ff), check:deadcode now fails on any unused export or type, 213 removed](docs/report/2026-10/2026-10-31-dead-exports-can-t-come-back-grant-gr-83jxsu8u0o-c-95y60umi.md) `dc_a995y60umi` · Mara
 - 2026-10-31 [Dead exports can't come back: PR #201 merged (main c457d92), check:deadcode now checks exports+types, 213 → 0; redeploy queued](docs/report/2026-10/2026-10-31-dead-exports-can-t-come-back-pr-201-merged-main-c4-zl3zsy7p.md) `dc_jzzl3zsy7p` · Mara 1
 - 2026-10-31 [Time is now a core subsystem (PR #191 live in 36a8a86): every brief opens with the server clock and guessed stamps get a warning; new KR kr_4jhab4c5cn (3 high advisories in production deps); both funded grants' first steps are running on forks](docs/report/2026-10/2026-10-31-time-is-now-a-core-subsystem-pr-191-live-in-36a8a8-zhwxh5lg.md) `dc_n0zhwxh5lg` · Mara
-- 2026-10-31 [Time usage is now a core subsystem (PR #191 → b72c9dc): briefs and 1:1s open with the server clock, agents are told to stamp only server-read times, and a guessed "~HH:MM UTC" in a page, report or meeting line comes back with a warning](docs/report/2026-10/2026-10-31-time-usage-is-now-a-core-subsystem-pr-191-b72c9dc-ahxk4og1.md) `dc_voahxk4og1` · Mara
-- 2026-10-31 [Production deps carry 3 high security advisories and nothing checks for them: new KR kr_4jhab4c5cn, proposed gr_gh3lnuihw9 (110k)](docs/report/2026-10/2026-10-31-production-deps-carry-3-high-security-advisories-a-3e6s9iov.md) `dc_op3e6s9iov` · Mara 1
-- 2026-10-31 [New key result kr_ealc55cjf5: dead exports are growing again (149 → 207 in 3 days); proposal gr_83jxsu8u0o is in your in-tray. Nothing shipped.](docs/report/2026-10/2026-10-31-new-key-result-kr-ealc55cjf5-dead-exports-are-grow-tzwe2me9.md) `dc_9ytzwe2me9` · Mara
-- 2026-10-31 [Dead exports are growing again (149 → 207 in 3 days, dead web `Feed`): new KR kr_ealc55cjf5, proposed gr_83jxsu8u0o (70k) to add knip's exports check to check:deadcode](docs/report/2026-10/2026-10-31-dead-exports-are-growing-again-149-207-in-3-days-d-cpcdwqog.md) `dc_ipcpcdwqog` · Mara 1
-- 2026-10-31 [gr_9nvxjgajh6 rejected as asked: nothing follows. Its key result kr_cm5qb2wqh7 is already met via the funded 30k grant gr_vipnoft4gk (PR #177)](docs/report/2026-10/2026-10-31-gr-9nvxjgajh6-rejected-as-asked-nothing-follows-it-bf3p3gre.md) `dc_23bf3p3gre` · Mara
-- 2026-10-31 [gr_vipnoft4gk closed as done: the manual's word cap now fails `check:docs` in under a second with count, overage and largest sections (PR #177 → 34b7e53, CI green attempt 1); kr_cm5qb2wqh7 claimed](docs/report/2026-10/2026-10-31-gr-vipnoft4gk-closed-as-done-the-manual-s-word-cap-la5ondmt.md) `dc_jela5ondmt` · Mara
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
