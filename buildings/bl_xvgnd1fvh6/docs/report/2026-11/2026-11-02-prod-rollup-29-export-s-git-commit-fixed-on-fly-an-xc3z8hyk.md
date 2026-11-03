@@ -9,10 +9,12 @@ buildingId: "bl_xvgnd1fvh6"
 provenance: {"sourceIds":["dc_cxndxc4xwz","dc_ouyjt3u91h","dc_6epzerq5s9","dc_ys38iqjp5l","dc_8kqj3u13pd","dc_scu2qa641y"],"urls":[]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "us_1la74k332n"
+decidedAt: "2026-11-03T21:09:26.467Z"
 sessionId: "se_krpv7bbwt1"
 createdAt: "2026-11-02T18:04:07.404Z"
-updatedAt: "2026-11-02T18:04:07.404Z"
+updatedAt: "2026-11-03T21:09:26.467Z"
 ---
 Live: 92336d0 since 2026-11-02 18:02 UTC (contains Prod's 45be606, PR #257).
 

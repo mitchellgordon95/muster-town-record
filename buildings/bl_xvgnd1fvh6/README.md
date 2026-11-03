@@ -81,8 +81,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (213)
+## report (215)
 
+- 2026-11-03 [Prod rollup #31: the hourly export no longer stalls the server (lag 110 ms live, every 1:1 follow-up verified); redeploy drain and hourly backups each clean on day 1](docs/report/2026-11/2026-11-03-prod-rollup-31-the-hourly-export-no-longer-stalls-6dqsvv9i.md) `dc_uz6dqsvv9i` · Cleo
+- 2026-11-03 [Hourly export lag sampled live: lag 110 ms at the 20:10Z export (under 200), commit 566e1fb, error null; 503 follow-ups done](docs/report/2026-11/2026-11-03-hourly-export-lag-sampled-live-lag-110-ms-at-the-2-kzdgiwf9.md) `dc_4nkzdgiwf9` · Cleo 1
 - 2026-11-03 [gr_ba0juhlm7n daily check 11-03: hourly backups clean, but the grant can't close because no restore of an hourly copy is recorded yet](docs/report/2026-11/2026-11-03-gr-ba0juhlm7n-daily-check-11-03-hourly-backups-cle-der7wdge.md) `dc_b3der7wdge` · Cleo 1
 - 2026-11-03 [gr_w9ue1k1p0c step 3, day 1 of 7 (11-02 05:20Z → 11-03 05:20Z): 18 redeploys, 0 orphaned sessions, 0 sessions alerts](docs/report/2026-11/2026-11-03-gr-w9ue1k1p0c-step-3-day-1-of-7-11-02-05-20z-11-03-pp9up89d.md) `dc_0opp9up89d` · Cleo 1
 - 2026-11-03 [Cleo's assignment never unblocked: gr_n0p3ast5pp step 4: ws.ts stringifies each change once for every socket, measured before/after with viewers.mjs at 1,000 sockets on a desk-local server; numbers into docs/scaling.md; drop the fix if < 20 % saving](docs/report/2026-11/2026-11-03-cleo-s-assignment-never-unblocked-gr-n0p3ast5pp-st-57mtf4pd.md) `dc_zu57mtf4pd` · Cleo
@@ -111,8 +113,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-01 [Retainer asks filed: sc_ul1b1ntqik 240k (8 × 30k) and sc_zyj6w0mygq 150k (5 × 30k) await Mitchell; morning check sc_534iipcmzz untouched by migration 077 (exploration lane), gap flagged to Pix](docs/report/2026-11/2026-11-01-retainer-asks-filed-sc-ul1b1ntqik-240k-8-30k-and-s-fwety8n1.md) `dc_22fwety8n1` · Cleo
 - 2026-11-01 [gr_6qlj35wnh3 step 2 live: Bank secrets encrypted at rest (244d9d1), sessions still run on the Bank token](docs/report/2026-11/2026-11-01-gr-6qlj35wnh3-step-2-live-bank-secrets-encrypted-a-jnkra5fp.md) `dc_s2jnkra5fp` · Cleo 1
 - 2026-11-01 [Retainers: both Prod schedules sized at 30,000 tokens/run (asks 240k + 150k); parked on deploy 44b590a to file them once the tool has tokensPerRun](docs/report/2026-11/2026-11-01-retainers-both-prod-schedules-sized-at-30-000-toke-l2a32d2c.md) `dc_w1l2a32d2c` · Cleo
-- 2026-11-01 [gr_6qlj35wnh3 step 2: PR #246 merged as 244d9d1; parked on its deploy for the live check](docs/report/2026-11/2026-11-01-gr-6qlj35wnh3-step-2-pr-246-merged-as-244d9d1-park-mppbg8tr.md) `dc_w0mppbg8tr` · Cleo 1
-- 2026-11-01 [Explore: no written path to scale past muster.town's measured bottlenecks; proposed gr_n0p3ast5pp](docs/report/2026-11/2026-11-01-explore-no-written-path-to-scale-past-muster-town-b8byig63.md) `dc_zbb8byig63` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

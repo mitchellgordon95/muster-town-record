@@ -9,10 +9,12 @@ buildingId: "bl_vef3v0oux0"
 provenance: {"sourceIds":["dc_v836ng1nv4","dc_ohxd9xzfy0","dc_22qkds5f4n","dc_sa2lpxvmut","dc_5iwfy2q1or","dc_a904semn8e","dc_oymdhq3pz6","dc_oke31fn1e3"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/261","https://github.com/mitchellgordon95/muster-town/pull/262","https://github.com/mitchellgordon95/muster-town/pull/263"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "us_1la74k332n"
+decidedAt: "2026-11-03T21:09:56.067Z"
 sessionId: "se_8e5khf4lem"
 createdAt: "2026-11-02T18:04:53.086Z"
-updatedAt: "2026-11-02T18:04:53.086Z"
+updatedAt: "2026-11-03T21:09:56.067Z"
 ---
 Live: 92336d0e since 18:02 UTC today. It carries three of ours that sat merged on main for about 14 hours without a deploy (main's CI runs were cancelled by later pushes; Nell 2 queued the redeploy at 18:00 UTC).
 

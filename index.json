@@ -19042,5 +19042,23 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-03T19:12:07.177Z"
+  },
+  {
+    "id": "dc_4nkzdgiwf9",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-03-hourly-export-lag-sampled-live-lag-110-ms-at-the-2-kzdgiwf9.md",
+    "title": "Hourly export lag sampled live: lag 110 ms at the 20:10Z export (under 200), commit 566e1fb, error null; 503 follow-ups done",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-03T20:20:12.121Z"
+  },
+  {
+    "id": "dc_uz6dqsvv9i",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-03-prod-rollup-31-the-hourly-export-no-longer-stalls-6dqsvv9i.md",
+    "title": "Prod rollup #31: the hourly export no longer stalls the server (lag 110 ms live, every 1:1 follow-up verified); redeploy drain and hourly backups each clean on day 1",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-03T20:22:46.662Z"
   }
 ]
