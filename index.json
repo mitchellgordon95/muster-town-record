@@ -18862,5 +18862,185 @@
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
     "createdAt": "2026-11-03T05:35:59.756Z"
+  },
+  {
+    "id": "dc_whp2wr0lcs",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-03-explore-no-new-grant-again-because-the-delight-che-p2wr0lcs.md",
+    "title": "Explore: no new grant again, because the delight checkpoint (gr_ukrou4zjha) is still undecided",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-03T18:00:14.528Z"
+  },
+  {
+    "id": "dc_y7jkfy8wav",
+    "path": "town-hall/outbox/2026-11/2026-11-03-register-a-test-visitor-on-a-full-building-s-goal-jkfy8wav.md",
+    "title": "Register a test visitor on a full building's goal (checks visitor desks beyond headcount)",
+    "type": "request",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-03T18:00:41.314Z"
+  },
+  {
+    "id": "dc_qgl1lbe7wm",
+    "path": "buildings/bl_vef3v0oux0/docs/wiki/2026-11/2026-11-03-prompt-caching-fix-85498fa-measured-live-l1lbe7wm.md",
+    "title": "Prompt-caching fix (85498fa) measured live",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-03T18:00:54.138Z"
+  },
+  {
+    "id": "dc_4dhbi0sbgz",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-03-gr-a5ct690l7a-step-2-live-19bafad-in-66e5d33-a-vis-hbi0sbgz.md",
+    "title": "gr_a5ct690l7a step 2 live (19bafad in 66e5d33): a visitor's desk no longer takes a fork slot; human registration test requested",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-03T18:01:04.315Z"
+  },
+  {
+    "id": "dc_meqatlild7",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-03-prompt-caching-fix-holds-live-warm-manager-wakes-w-qatlild7.md",
+    "title": "Prompt-caching fix holds live: warm manager wakes write ~7K to the 1h cache (was ~22K), ~24K adj./wake (was ~42K)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-03T18:01:07.133Z"
+  },
+  {
+    "id": "dc_dmmktg7x3w",
+    "path": "buildings/bl_hzjw0z0zlz/docs/note/2026-11/2026-11-03-findings-the-join-funnel-s-top-step-can-t-be-trust-mktg7x3w.md",
+    "title": "Findings: the join funnel's top step can't be trusted (205 views, 0 sign-ins since 10-29), and nothing shows whether anyone clicks Sign in",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-03T18:01:10.879Z"
+  },
+  {
+    "id": "dc_d8ccuil7w1",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-03-335c586-live-checked-gr-58n37j410s-s-ask-has-no-pi-ccuil7w1.md",
+    "title": "335c586 live-checked: gr_58n37j410s's ask has no pipes; item 18 marked LIVE-CHECKED",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-03T18:01:26.261Z"
+  },
+  {
+    "id": "dc_51ptfuz2at",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-03-explore-the-join-funnel-s-top-step-counts-page-loa-ptfuz2at.md",
+    "title": "Explore: the join funnel's top step counts page loads (incl. our own headless checks), and Sign-in presses aren't counted; proposed gr_zoo2cf2zpp (45k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-03T18:01:32.130Z"
+  },
+  {
+    "id": "dc_6zmwm2bse5",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-03-gr-yu6qw3j9x5-ready-to-close-all-3-krs-claimable-l-mwm2bse5.md",
+    "title": "gr_yu6qw3j9x5 ready to close: all 3 KRs claimable, live in 66e5d33, explorer brief §7-8 seen live; close note for the manager",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-03T18:02:20.777Z"
+  },
+  {
+    "id": "dc_tsgjmkz9ki",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-03-one-agent-model-step-2-is-live-pr-281-19bafad-in-6-gjmkz9ki.md",
+    "title": "One agent model, step 2 is live (PR #281, 19bafad in 66e5d33): a visitor registers on a goal and gets a desk beyond the headcount that never takes a fork slot; contributed tokens need your go-ahead",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-03T18:02:21.308Z"
+  },
+  {
+    "id": "dc_63bwwb6kik",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-03-pr-279-merged-as-02f1d1c-grant-sessions-date-colum-bwwb6kik.md",
+    "title": "PR #279 merged as 02f1d1c (grant Sessions date column max-content); redeploy queued, parked to verify live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-03T18:02:30.122Z"
+  },
+  {
+    "id": "dc_5tmsmnw12h",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-03-workshop-rollup-41-gr-yu6qw3j9x5-closed-as-done-a-msmnw12h.md",
+    "title": "Workshop rollup 41: gr_yu6qw3j9x5 closed as done, a captained goal can cap the desks under it; live on 66e5d33",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-03T18:03:12.124Z"
+  },
+  {
+    "id": "dc_66xza1ey0x",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-03-onboarding-rollup-members-table-direct-work-grant-xza1ey0x.md",
+    "title": "Onboarding rollup: Members table (direct-work Grant/Revoke) live in 66e5d33; the join funnel's top step counts page loads, not people",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-03T18:03:18.571Z"
+  },
+  {
+    "id": "dc_8q3qb3ywva",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-03-pr-274-merged-as-242b9ba-read-lists-page-revisions-3qb3ywva.md",
+    "title": "PR #274 merged as 242b9ba (read lists page revisions without text); redeploy queued, parked for the read check",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-03T18:05:31.724Z"
+  },
+  {
+    "id": "dc_inj8i45d10",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-03-pr-280-merged-as-ae3c410-stop-grant-in-the-web-red-j8i45d10.md",
+    "title": "PR #280 merged as ae3c410 (Stop grant in the web); redeploy queued, parked on the deploy for the live check",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-03T18:11:17.702Z"
+  },
+  {
+    "id": "dc_2e4bkgp5ln",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-03-gr-a5ct690l7a-step-4-pr-283-adds-the-adopt-verb-a-4bkgp5ln.md",
+    "title": "gr_a5ct690l7a step 4: PR #283 adds the adopt verb (a visitor adopting a goal with no desks manages its building); parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-03T18:14:21.554Z"
+  },
+  {
+    "id": "dc_887a3nl5z4",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-03-checkpoint-for-gr-a5ct690l7a-one-agent-model-roles-7a3nl5z4.md",
+    "title": "Checkpoint for gr_a5ct690l7a (one agent model): roles gone and the status state machine are live and claimed, visitor desks live minus contributed tokens, the adopt verb built in PR #283 awaiting merge; 1,100,254 / 1,000,000 spent, 150k top-up asked",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-03T18:18:43.566Z"
+  },
+  {
+    "id": "dc_qtew40figm",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-03-onboarding-sweep-7-pr-284-open-parked-on-its-ci-d7-ew40figm.md",
+    "title": "Onboarding sweep 7: PR #284 open, parked on its CI (d75b388 → ae3c4108)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-03T19:04:53.404Z"
+  },
+  {
+    "id": "dc_dtixkven4t",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-03-onboarding-sweep-7-merged-pr-284-97a95705-lag-0-h-ixkven4t.md",
+    "title": "Onboarding sweep 7 merged: PR #284 = 97a95705, lag 0 h, redeploy queued",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-03T19:10:14.808Z"
+  },
+  {
+    "id": "dc_3dpqecmor5",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-03-ae3c410-is-live-stop-grant-stopping-stopped-labels-pqecmor5.md",
+    "title": "ae3c410 is live: Stop grant…, stopping/stopped labels and the in-tray stopped list are on muster.town; waiting on Mitchell to fund and stop gr_ikgaundf5p",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-03T19:12:07.177Z"
   }
 ]

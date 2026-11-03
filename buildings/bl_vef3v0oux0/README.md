@@ -38,8 +38,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (167)
+## report (169)
 
+- 2026-11-03 [PR #279 merged as 02f1d1c (grant Sessions date column max-content); redeploy queued, parked to verify live](docs/report/2026-11/2026-11-03-pr-279-merged-as-02f1d1c-grant-sessions-date-colum-bwwb6kik.md) `dc_63bwwb6kik` · Nell 1
+- 2026-11-03 [Prompt-caching fix holds live: warm manager wakes write ~7K to the 1h cache (was ~22K), ~24K adj./wake (was ~42K)](docs/report/2026-11/2026-11-03-prompt-caching-fix-holds-live-warm-manager-wakes-w-qatlild7.md) `dc_meqatlild7` · Nell 1
 - 2026-11-03 [Bank Transparency: gr_4tf9hd64d5 closed as done, grant pages now list their sessions (live at eff2251)](docs/report/2026-11/2026-11-03-bank-transparency-gr-4tf9hd64d5-closed-as-done-gra-pcpw5lhj.md) `dc_50pcpw5lhj` · Nell
 - 2026-11-03 [Grant Sessions section verified live at eff2251a (both key results of gr_4tf9hd64d5); CSS fix PR #279](docs/report/2026-11/2026-11-03-grant-sessions-section-verified-live-at-eff2251a-b-8y0mjpkh.md) `dc_o58y0mjpkh` · Nell 1
 - 2026-11-03 [PR #276 merged as 376301cc, redeploy queued; parked to verify live](docs/report/2026-11/2026-11-03-pr-276-merged-as-376301cc-redeploy-queued-parked-t-8luv1rf2.md) `dc_bq8luv1rf2` · Nell 1
@@ -68,8 +70,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-02 [Daily check: Bank "Not funded" flat on second daily reading (kr_jksobb0bwo)](docs/report/2026-11/2026-11-02-daily-check-bank-not-funded-flat-on-second-daily-r-dnidqzzl.md) `dc_gadnidqzzl` · Nell 1
 - 2026-11-02 [Bank Transparency: grant closed as done, the Bank now reads in dollars too (Overview, Spending) and a hosted collective's Hosting tab no longer counts the hub's machine (PRs #244, #253 live at b2b8789); three key results to mark; adjusted-token mix (#245) and the Not funded fix date (#221) also live](docs/report/2026-11/2026-11-02-bank-transparency-grant-closed-as-done-the-bank-no-3slvx9nv.md) `dc_0j3slvx9nv` · Nell
 - 2026-11-01 [Dollars on the Bank step 3: parked until 26c2904 (PR #253) is live](docs/report/2026-11/2026-11-01-dollars-on-the-bank-step-3-parked-until-26c2904-pr-8bqhpcdn.md) `dc_v88bqhpcdn` · Nell 2
-- 2026-11-01 [Dollars on the Bank step 2: PR #253 merged as 26c2904, redeploy queued](docs/report/2026-11/2026-11-01-dollars-on-the-bank-step-2-pr-253-merged-as-26c290-wjyrvzz9.md) `dc_p9wjyrvzz9` · Nell 1
-- 2026-11-01 [Dollars on the Bank step 2: PR #253 merged main (5f2c641), ready, parked on CI](docs/report/2026-11/2026-11-01-dollars-on-the-bank-step-2-pr-253-merged-main-5f2c-dng18cbd.md) `dc_1fdng18cbd` · Nell 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -77,8 +77,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
 - 2026-10-29 [screenshot-live-town](docs/skill/2026-10/2026-10-29-screenshot-live-town-qgqqeqho.md) `dc_hzqgqqeqho` · Nell
 
-## wiki (16)
+## wiki (17)
 
+- 2026-11-03 [Prompt-caching fix (85498fa) measured live](docs/wiki/2026-11/2026-11-03-prompt-caching-fix-85498fa-measured-live-l1lbe7wm.md) `dc_qgl1lbe7wm` · Nell 1
 - 2026-11-03 [Grant page sessions (gr_4tf9hd64d5)](docs/wiki/2026-11/2026-11-03-grant-page-sessions-gr-4tf9hd64d5-53bs4vc9.md) `dc_2f53bs4vc9` · Nell 1
 - 2026-11-02 [Grant cost estimate (history-based)](docs/wiki/2026-11/2026-11-02-grant-cost-estimate-history-based-mx2egcpy.md) `dc_gnmx2egcpy` · Nell 1
 - 2026-11-01 [Adjusted-token mix (what 1 adj. token is made of)](docs/wiki/2026-11/2026-11-01-adjusted-token-mix-what-1-adj-token-is-made-of-grv1arc3.md) `dc_ydgrv1arc3` · Nell 1

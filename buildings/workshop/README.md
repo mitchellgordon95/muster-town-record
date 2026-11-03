@@ -120,8 +120,16 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (840)
+## report (848)
 
+- 2026-11-03 [ae3c410 is live: Stop grant…, stopping/stopped labels and the in-tray stopped list are on muster.town; waiting on Mitchell to fund and stop gr_ikgaundf5p](docs/report/2026-11/2026-11-03-ae3c410-is-live-stop-grant-stopping-stopped-labels-pqecmor5.md) `dc_3dpqecmor5` · Pix 2
+- 2026-11-03 [Onboarding sweep 7 merged: PR #284 = 97a95705, lag 0 h, redeploy queued](docs/report/2026-11/2026-11-03-onboarding-sweep-7-merged-pr-284-97a95705-lag-0-h-ixkven4t.md) `dc_dtixkven4t` · Pix 1
+- 2026-11-03 [Onboarding sweep 7: PR #284 open, parked on its CI (d75b388 → ae3c4108)](docs/report/2026-11/2026-11-03-onboarding-sweep-7-pr-284-open-parked-on-its-ci-d7-ew40figm.md) `dc_qtew40figm` · Pix 1
+- 2026-11-03 [PR #280 merged as ae3c410 (Stop grant in the web); redeploy queued, parked on the deploy for the live check](docs/report/2026-11/2026-11-03-pr-280-merged-as-ae3c410-stop-grant-in-the-web-red-j8i45d10.md) `dc_inj8i45d10` · Pix 1
+- 2026-11-03 [PR #274 merged as 242b9ba (read lists page revisions without text); redeploy queued, parked for the read check](docs/report/2026-11/2026-11-03-pr-274-merged-as-242b9ba-read-lists-page-revisions-3qb3ywva.md) `dc_8q3qb3ywva` · Pix 2
+- 2026-11-03 [Workshop rollup 41: gr_yu6qw3j9x5 closed as done, a captained goal can cap the desks under it; live on 66e5d33](docs/report/2026-11/2026-11-03-workshop-rollup-41-gr-yu6qw3j9x5-closed-as-done-a-msmnw12h.md) `dc_5tmsmnw12h` · Pix
+- 2026-11-03 [gr_yu6qw3j9x5 ready to close: all 3 KRs claimable, live in 66e5d33, explorer brief §7-8 seen live; close note for the manager](docs/report/2026-11/2026-11-03-gr-yu6qw3j9x5-ready-to-close-all-3-krs-claimable-l-mwm2bse5.md) `dc_6zmwm2bse5` · Pix 4
+- 2026-11-03 [335c586 live-checked: gr_58n37j410s's ask has no pipes; item 18 marked LIVE-CHECKED](docs/report/2026-11/2026-11-03-335c586-live-checked-gr-58n37j410s-s-ask-has-no-pi-ccuil7w1.md) `dc_d8ccuil7w1` · Pix 3
 - 2026-11-03 [gr_yu6qw3j9x5 follow-up: desk totals now hold a named resident joining a full lab (PR #282 merged as 66e5d33)](docs/report/2026-11/2026-11-03-gr-yu6qw3j9x5-follow-up-desk-totals-now-hold-a-nam-c2qj4prj.md) `dc_u0c2qj4prj` · Pix 3
 - 2026-11-03 [PR #280 conflicted with main: re-merged at 323b62f, check green, parked on CI](docs/report/2026-11/2026-11-03-pr-280-conflicted-with-main-re-merged-at-323b62f-c-rq268xfl.md) `dc_wdrq268xfl` · Pix 2
 - 2026-11-03 [PR #278 merged as e3300795 (desks per subtree); redeploy queued; KR verdicts for gr_yu6qw3j9x5](docs/report/2026-11/2026-11-03-pr-278-merged-as-e3300795-desks-per-subtree-redepl-jjb3i6ks.md) `dc_0wjjb3i6ks` · Pix 1
@@ -144,14 +152,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-03 [#271 live-checked on 85498fa: gr_5ltmbf3a2f's in-tray row reads 109%, same as the deck](docs/report/2026-11/2026-11-03-271-live-checked-on-85498fa-gr-5ltmbf3a2f-s-in-tra-7t3ngg2a.md) `dc_lq7t3ngg2a` · Pix 1
 - 2026-11-03 [PR #272 merged as 335c586 (pipe-free ask lines), redeploy queued; live check parked](docs/report/2026-11/2026-11-03-pr-272-merged-as-335c586-pipe-free-ask-lines-redep-gwa6993j.md) `dc_bhgwa6993j` · Pix 1
 - 2026-11-02 [#270 live-checked on c106df1: no self-ask, no Decided-line ask; ask row pictured; pipes in table-row asks fixed in PR #272 (CI pending)](docs/report/2026-11/2026-11-02-270-live-checked-on-c106df1-no-self-ask-no-decided-3fi73ahd.md) `dc_q33fi73ahd` · Pix 2
-- 2026-11-02 [PR #271 merged as d2e55f7 (checkpoint row shows real overspend %), redeploy queued](docs/report/2026-11/2026-11-02-pr-271-merged-as-d2e55f7-checkpoint-row-shows-real-kusiipp8.md) `dc_txkusiipp8` · Pix 1
-- 2026-11-02 [#266 checkpoint card live-checked on 059b33f; row understated overspend as 100%, fixed in PR #271 (CI pending)](docs/report/2026-11/2026-11-02-266-checkpoint-card-live-checked-on-059b33f-row-un-t577j8b1.md) `dc_6pt577j8b1` · Pix 1
-- 2026-11-02 [#265 ask folding live-checked; two live defects fixed in PR #270 (merged c106df1, redeploy queued)](docs/report/2026-11/2026-11-02-265-ask-folding-live-checked-two-live-defects-fixe-5v0ipflc.md) `dc_dz5v0ipflc` · Pix 2
-- 2026-11-02 [Checkpoint card shows evidence: PR #266 merged as 059b33f, redeploy queued](docs/report/2026-11/2026-11-02-checkpoint-card-shows-evidence-pr-266-merged-as-05-egh9wljv.md) `dc_f2egh9wljv` · Pix 1
-- 2026-11-02 [Workshop rollup 38: goal editor long names and Haiku-named labs, withdraw_grant, Bank overage and retry fixes, sweep 6; the Bank is overdrafted and holds three funded-grant steps](docs/report/2026-11/2026-11-02-workshop-rollup-38-goal-editor-long-names-and-haik-ymrwlhrv.md) `dc_e5ymrwlhrv` · Pix
-- 2026-11-02 [withdraw_grant is live (92336d0 ⊇ 0d0da02); funded refusal confirmed; item 17 marked LIVE-CHECKED](docs/report/2026-11/2026-11-02-withdraw-grant-is-live-92336d0-0d0da02-funded-refu-5ax6ol4v.md) `dc_2p5ax6ol4v` · Pix 2
-- 2026-11-02 [PR #265 merged (0f2271e), redeploy queued; parked to live-check ask folding](docs/report/2026-11/2026-11-02-pr-265-merged-0f2271e-redeploy-queued-parked-to-li-xzjvtq22.md) `dc_pzxzjvtq22` · Pix 2
-- 2026-11-02 [Checkpoint card shows evidence: PR #266 open, waiting on CI](docs/report/2026-11/2026-11-02-checkpoint-card-shows-evidence-pr-266-open-waiting-lfdumhqg.md) `dc_6elfdumhqg` · Pix 3
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

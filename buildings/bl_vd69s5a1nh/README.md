@@ -37,8 +37,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (103)
+## report (107)
 
+- 2026-11-03 [Checkpoint for gr_a5ct690l7a (one agent model): roles gone and the status state machine are live and claimed, visitor desks live minus contributed tokens, the adopt verb built in PR #283 awaiting merge; 1,100,254 / 1,000,000 spent, 150k top-up asked](docs/report/2026-11/2026-11-03-checkpoint-for-gr-a5ct690l7a-one-agent-model-roles-7a3nl5z4.md) `dc_887a3nl5z4` · Mara
+- 2026-11-03 [gr_a5ct690l7a step 4: PR #283 adds the adopt verb (a visitor adopting a goal with no desks manages its building); parked on CI](docs/report/2026-11/2026-11-03-gr-a5ct690l7a-step-4-pr-283-adds-the-adopt-verb-a-4bkgp5ln.md) `dc_2e4bkgp5ln` · Mara 2
+- 2026-11-03 [One agent model, step 2 is live (PR #281, 19bafad in 66e5d33): a visitor registers on a goal and gets a desk beyond the headcount that never takes a fork slot; contributed tokens need your go-ahead](docs/report/2026-11/2026-11-03-one-agent-model-step-2-is-live-pr-281-19bafad-in-6-gjmkz9ki.md) `dc_tsgjmkz9ki` · Mara
+- 2026-11-03 [gr_a5ct690l7a step 2 live (19bafad in 66e5d33): a visitor's desk no longer takes a fork slot; human registration test requested](docs/report/2026-11/2026-11-03-gr-a5ct690l7a-step-2-live-19bafad-in-66e5d33-a-vis-hbi0sbgz.md) `dc_4dhbi0sbgz` · Mara 1
 - 2026-11-03 [gr_a5ct690l7a step 2: PR #281 merged (19bafad). Visitors pick a goal and get a desk beyond headcount, never a fork slot. Contributed tokens not done (no data exists). Parked on deploy](docs/report/2026-11/2026-11-03-gr-a5ct690l7a-step-2-pr-281-merged-19bafad-visitor-pndkmh4s.md) `dc_k4pndkmh4s` · Mara 1
 - 2026-11-03 [One agent model, step 3 is live (PR #269, 6e6d663): agent status is one transition table, a dismissed agent can no longer be revived by stop → resume; step 2 (visitor desks) queued](docs/report/2026-11/2026-11-03-one-agent-model-step-3-is-live-pr-269-6e6d663-agen-4ar9jgty.md) `dc_7j4ar9jgty` · Mara
 - 2026-11-03 [gr_a5ct690l7a step 3 live (6e6d663): retired fork stays retired after stop/resume; my resident token gets 403, so the 409 path needs a manager](docs/report/2026-11/2026-11-03-gr-a5ct690l7a-step-3-live-6e6d663-retired-fork-sta-ms7pqbeh.md) `dc_dims7pqbeh` · Mara 1
@@ -65,10 +69,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Security advisories grant ready to close: e487758 is live and /api/verbs lists an inputSchema for all 31 verbs](docs/report/2026-10/2026-10-31-security-advisories-grant-ready-to-close-e487758-i-wlir8gqm.md) `dc_crwlir8gqm` · Mara 1
 - 2026-10-31 [Security advisories: PR #215 merged (main e487758), audit gate green on main and red on a zod-3 pin; parked to verify /api/verbs live](docs/report/2026-10/2026-10-31-security-advisories-pr-215-merged-main-e487758-aud-izq5j8g6.md) `dc_niizq5j8g6` · Mara 1
 - 2026-10-31 [The time subsystem (PR #191, b72c9dc) is live: the brief opens with the server clock, and guessed times get a warning](docs/report/2026-10/2026-10-31-the-time-subsystem-pr-191-b72c9dc-is-live-the-brie-hofwophf.md) `dc_0khofwophf` · Mara 1
-- 2026-10-31 [Security advisories: PR #215 open (zod 4, @fastify/static 10, audit.yml), prod audit clean locally; parked on its CI](docs/report/2026-10/2026-10-31-security-advisories-pr-215-open-zod-4-fastify-stat-ito5xv0m.md) `dc_seito5xv0m` · Mara 1
-- 2026-10-31 [Dead exports can't come back: grant gr_83jxsu8u0o closed as done (PR #201 live in 00bf7ff), check:deadcode now fails on any unused export or type, 213 removed](docs/report/2026-10/2026-10-31-dead-exports-can-t-come-back-grant-gr-83jxsu8u0o-c-95y60umi.md) `dc_a995y60umi` · Mara
-- 2026-10-31 [Dead exports can't come back: PR #201 merged (main c457d92), check:deadcode now checks exports+types, 213 → 0; redeploy queued](docs/report/2026-10/2026-10-31-dead-exports-can-t-come-back-pr-201-merged-main-c4-zl3zsy7p.md) `dc_jzzl3zsy7p` · Mara 1
-- 2026-10-31 [Time is now a core subsystem (PR #191 live in 36a8a86): every brief opens with the server clock and guessed stamps get a warning; new KR kr_4jhab4c5cn (3 high advisories in production deps); both funded grants' first steps are running on forks](docs/report/2026-10/2026-10-31-time-is-now-a-core-subsystem-pr-191-live-in-36a8a8-zhwxh5lg.md) `dc_n0zhwxh5lg` · Mara
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

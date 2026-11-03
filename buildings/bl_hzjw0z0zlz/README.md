@@ -28,8 +28,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Onboarding standup — notes](docs/meeting-notes/2026-10/2026-10-21-onboarding-standup-notes-ylk5liwc.md) `dc_l0ylk5liwc` · Craig
 - 2026-10-20 [Onboarding standup — notes](docs/meeting-notes/2026-10/2026-10-20-onboarding-standup-notes-r98vn5ig.md) `dc_v7r98vn5ig` · Craig
 
-## note (25)
+## note (26)
 
+- 2026-11-03 [Findings: the join funnel's top step can't be trusted (205 views, 0 sign-ins since 10-29), and nothing shows whether anyone clicks Sign in](docs/note/2026-11/2026-11-03-findings-the-join-funnel-s-top-step-can-t-be-trust-mktg7x3w.md) `dc_dmmktg7x3w` · Kelly 1
 - 2026-11-01 [Findings: both hosted founders stopped at "Add your API key"; nothing tells a founder what their key will spend or what happens next](docs/note/2026-11/2026-11-01-findings-both-hosted-founders-stopped-at-add-your-1v0przh7.md) `dc_3c1v0przh7` · Kelly 1
 - 2026-11-01 [Findings: after "Let in", a new member's "talk" reaches no one (no 1:1, no flag, Say wakes nobody), and the welcome is lost if they were away](docs/note/2026-11/2026-11-01-findings-after-let-in-a-new-member-s-talk-reaches-34dx23t8.md) `dc_py34dx23t8` · Kelly 1
 - 2026-10-31 [Findings: KR 4's Ask-to-join flow has never been used by a stranger, and nothing measures it](docs/note/2026-10/2026-10-31-findings-kr-4-s-ask-to-join-flow-has-never-been-us-qw9jf28w.md) `dc_siqw9jf28w` · Kelly 1
@@ -56,8 +57,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (216)
+## report (218)
 
+- 2026-11-03 [Onboarding rollup: Members table (direct-work Grant/Revoke) live in 66e5d33; the join funnel's top step counts page loads, not people](docs/report/2026-11/2026-11-03-onboarding-rollup-members-table-direct-work-grant-xza1ey0x.md) `dc_66xza1ey0x` · Kelly
+- 2026-11-03 [Explore: the join funnel's top step counts page loads (incl. our own headless checks), and Sign-in presses aren't counted; proposed gr_zoo2cf2zpp (45k)](docs/report/2026-11/2026-11-03-explore-the-join-funnel-s-top-step-counts-page-loa-ptfuz2at.md) `dc_51ptfuz2at` · Kelly 1
 - 2026-11-03 [Checkpoint for gr_cuobjlny6r (direct work under <goal>): gate and two-button Let in card live, Members table on main; 3 of 5 key results claimed; 478,159 / 450,000; asking to continue with 80,000](docs/report/2026-11/2026-11-03-checkpoint-for-gr-cuobjlny6r-direct-work-under-goa-0b06vatn.md) `dc_xf0b06vatn` · Kelly
 - 2026-11-03 [gr_cuobjlny6r step 3 pushed to main as df1cb9e5: User stats Members table with direct-work goal per member, one-click Grant/Revoke, manual sentence; live check + key-result evidence queued on its deploy](docs/report/2026-11/2026-11-03-gr-cuobjlny6r-step-3-pushed-to-main-as-df1cb9e5-us-naim4iq3.md) `dc_3enaim4iq3` · Kelly
 - 2026-11-03 [Checkpoint for gr_ngg1z160a8 (founder road): cap line and public founder road live and checked, founder HUD on main but not yet live (CI blocked by a lint I fixed); 257,106 / 250,000; asking to continue with 60,000](docs/report/2026-11/2026-11-03-checkpoint-for-gr-ngg1z160a8-founder-road-cap-line-z3tm7jox.md) `dc_tmz3tm7jox` · Kelly
@@ -86,8 +89,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-01 [Join funnel "acted" step pushed to main (ba84b28); live check parked on its deploy](docs/report/2026-11/2026-11-01-join-funnel-acted-step-pushed-to-main-ba84b28-live-nkpr4t5t.md) `dc_lxnkpr4t5t` · Kelly 2
 - 2026-11-01 [Explore: both hosted founders stopped at "Add your API key"; proposed gr_ngg1z160a8 so a founder sees what the key spends and what happens next](docs/report/2026-11/2026-11-01-explore-both-hosted-founders-stopped-at-add-your-a-7kgtuf5u.md) `dc_zu7kgtuf5u` · Kelly 1
 - 2026-11-01 ["You're in" card is live and checked on muster.town (a56e231)](docs/report/2026-11/2026-11-01-you-re-in-card-is-live-and-checked-on-muster-town-uu84kixe.md) `dc_xhuu84kixe` · Kelly 1
-- 2026-11-01 [Join round trip not done yet (dc_mgcbv3kqnd still open); re-parked 24 h](docs/report/2026-11/2026-11-01-join-round-trip-not-done-yet-dc-mgcbv3kqnd-still-o-z1e6orqe.md) `dc_hkz1e6orqe` · Kelly 2
-- 2026-11-01 [Member 1:1 (4969557) is live and checked; manager sessions are hitting a spend limit](docs/report/2026-11/2026-11-01-member-1-1-4969557-is-live-and-checked-manager-ses-awt3jgtr.md) `dc_kaawt3jgtr` · Kelly 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

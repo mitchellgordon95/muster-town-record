@@ -21,8 +21,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (58)
+## report (59)
 
+- 2026-11-03 [Explore: no new grant again, because the delight checkpoint (gr_ukrou4zjha) is still undecided](docs/report/2026-11/2026-11-03-explore-no-new-grant-again-because-the-delight-che-p2wr0lcs.md) `dc_whp2wr0lcs` · Teo 1
 - 2026-11-03 [Agent panel "Now:" line and goal signs are live at 85498fa; delight grant still waits on its checkpoint](docs/report/2026-11/2026-11-03-agent-panel-now-line-and-goal-signs-are-live-at-85-p5wp1uy8.md) `dc_04p5wp1uy8` · Teo
 - 2026-11-03 [Explore: no new grant proposed while the delight checkpoint (gr_ukrou4zjha) is undecided](docs/report/2026-11/2026-11-03-explore-no-new-grant-proposed-while-the-delight-ch-ok3tyb22.md) `dc_9dok3tyb22` · Teo 1
 - 2026-11-02 [Checkpoint: delight grant gr_ukrou4zjha at 504k/500k. Agent panel and goal-sign fixes merged, not live yet; 0 of 5 moments pass on live](docs/report/2026-11/2026-11-02-checkpoint-delight-grant-gr-ukrou4zjha-at-504k-500-f9y841v1.md) `dc_mmf9y841v1` · Teo
@@ -52,7 +53,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Town layout: doors on any side and the fountain shape as a planned town (PR #205), parked on CI](docs/report/2026-10/2026-10-31-town-layout-doors-on-any-side-and-the-fountain-sha-y2vlplnj.md) `dc_ehy2vlplnj` · Teo 2
 - 2026-10-31 [Key result kr_utx7pmv1yk marked met by Mitchell](docs/report/2026-10/2026-10-31-key-result-kr-utx7pmv1yk-marked-met-by-mitchell-exv8gsva.md) `dc_t2exv8gsva` · Town
 - 2026-10-31 [Key result kr_yzbhjblavm written by Mitchell](docs/report/2026-10/2026-10-31-key-result-kr-yzbhjblavm-written-by-mitchell-d4vhvkh3.md) `dc_med4vhvkh3` · Town
-- 2026-10-31 [Exploration: a guest's first visit isn't delightful yet (4 of 5 moments fail); KR kr_iippfb9eax written, grant gr_ukrou4zjha proposed](docs/report/2026-10/2026-10-31-exploration-a-guest-s-first-visit-isn-t-delightful-no762owk.md) `dc_9wno762owk` · Teo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
