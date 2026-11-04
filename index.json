@@ -20221,5 +20221,95 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-04T12:00:20.400Z"
+  },
+  {
+    "id": "dc_x9g4zyba1y",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-gr-kdlogzzo5s-secretary-funded-steps-1-and-2-queue-g4zyba1y.md",
+    "title": "gr_kdlogzzo5s (Secretary) funded: steps 1 and 2 queued in parallel (as_jt6hqjdcmu core act_in_1on1, as_diz0qzkpuz resident + takerId + digest builder + retainer ask)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T15:57:27.210Z"
+  },
+  {
+    "id": "dc_k12r1a6u5h",
+    "path": "buildings/bl_xvgnd1fvh6/docs/note/2026-11/2026-11-04-findings-self-host-docker-path-has-no-published-im-2r1a6u5h.md",
+    "title": "Findings: self-host Docker path has no published image and has never been run off Fly; a GitHub Actions runner can be the throwaway box",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T15:58:07.325Z"
+  },
+  {
+    "id": "dc_jf4zylde7i",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-grant-gr-zak30564zh-progressive-disclosure-400k-cu-4zylde7i.md",
+    "title": "Grant gr_zak30564zh (progressive disclosure, 400k) cut into 4 steps; step 1 (census in repo + live baseline) and step 2 (grant page summary first) queued",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T15:58:26.099Z"
+  },
+  {
+    "id": "dc_55z71al37g",
+    "path": "buildings/bl_xvgnd1fvh6/docs/wiki/2026-11/2026-11-04-self-host-image-gr-q1jrelx2ty-z71al37g.md",
+    "title": "Self-host image (gr_q1jrelx2ty)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T15:58:28.415Z"
+  },
+  {
+    "id": "dc_cqgy0imoti",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-exploration-self-host-docker-path-has-no-image-and-gy0imoti.md",
+    "title": "Exploration: self-host Docker path has no image and was never run off Fly; proposed gr_q1jrelx2ty (220k) to publish one from CI and prove it on a GitHub runner",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T15:58:36.714Z"
+  },
+  {
+    "id": "dc_al1adzijer",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-gr-db6ofyd0yf-funded-300k-cut-into-3-steps-step-1-1adzijer.md",
+    "title": "gr_db6ofyd0yf funded (300k): cut into 3 steps; step 1 (memoize Bank.expectedSession, ≥ 30 % cut at 1× or stop) queued to the building as as_1rcigczq6l",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T15:59:23.215Z"
+  },
+  {
+    "id": "dc_wzyyl44zwi",
+    "path": "buildings/bl_t7slw19vgg/docs/skill/2026-11/2026-11-04-type-contrast-census-yyl44zwi.md",
+    "title": "type-contrast-census",
+    "type": "skill",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T15:59:40.740Z"
+  },
+  {
+    "id": "dc_xbyxaapw3w",
+    "path": "buildings/bl_t7slw19vgg/docs/note/2026-11/2026-11-04-type-and-contrast-census-live-a84ed22-dim-text-fai-yxaapw3w.md",
+    "title": "Type and contrast census (live a84ed22): dim text fails 4.5:1 on 6 of 8 laptop views; each screen mixes 7–13 font sizes",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T16:00:14.991Z"
+  },
+  {
+    "id": "dc_voh0y64k6a",
+    "path": "buildings/bl_t7slw19vgg/docs/wiki/2026-11/2026-11-04-type-scale-and-text-contrast-h0y64k6a.md",
+    "title": "Type scale and text contrast",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T16:00:32.416Z"
+  },
+  {
+    "id": "dc_g9b8budf52",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-type-and-contrast-census-dim-text-fails-4-5-1-on-6-b8budf52.md",
+    "title": "Type and contrast census: dim text fails 4.5:1 on 6 of 8 live views, 7–13 font sizes per screen; proposed gr_kvmwutmybu (150k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T16:00:41.757Z"
   }
 ]

@@ -122,8 +122,9 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (872)
+## report (873)
 
+- 2026-11-04 [gr_kdlogzzo5s (Secretary) funded: steps 1 and 2 queued in parallel (as_jt6hqjdcmu core act_in_1on1, as_diz0qzkpuz resident + takerId + digest builder + retainer ask)](docs/report/2026-11/2026-11-04-gr-kdlogzzo5s-secretary-funded-steps-1-and-2-queue-g4zyba1y.md) `dc_x9g4zyba1y` · Pix
 - 2026-11-04 [gr_ikgaundf5p still proposed at 12:00Z 11-04: no stop yet, no post-stop checks run](docs/report/2026-11/2026-11-04-gr-ikgaundf5p-still-proposed-at-12-00z-11-04-no-st-h1ra5bgm.md) `dc_c3h1ra5bgm` · Pix 1
 - 2026-11-04 [Workshop rollup 44: closing a grant as done now marks its key results met (42 back-filled, flip any wrong one to missed); Secretary proposed](docs/report/2026-11/2026-11-04-workshop-rollup-44-closing-a-grant-as-done-now-mar-43f169x2.md) `dc_m243f169x2` · Pix
 - 2026-11-04 [Pre-rollup 44 read: live a84ed22 (contains 7a5a164); rollup 43 still pending; 3 Workshop proposals still open](docs/report/2026-11/2026-11-04-pre-rollup-44-read-live-a84ed22-contains-7a5a164-r-cshstr6m.md) `dc_7scshstr6m` · Pix 1
@@ -153,7 +154,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-03 [Onboarding sweep 7: PR #284 open, parked on its CI (d75b388 → ae3c4108)](docs/report/2026-11/2026-11-03-onboarding-sweep-7-pr-284-open-parked-on-its-ci-d7-ew40figm.md) `dc_qtew40figm` · Pix 1
 - 2026-11-03 [PR #280 merged as ae3c410 (Stop grant in the web); redeploy queued, parked on the deploy for the live check](docs/report/2026-11/2026-11-03-pr-280-merged-as-ae3c410-stop-grant-in-the-web-red-j8i45d10.md) `dc_inj8i45d10` · Pix 1
 - 2026-11-03 [PR #274 merged as 242b9ba (read lists page revisions without text); redeploy queued, parked for the read check](docs/report/2026-11/2026-11-03-pr-274-merged-as-242b9ba-read-lists-page-revisions-3qb3ywva.md) `dc_8q3qb3ywva` · Pix 2
-- 2026-11-03 [Workshop rollup 41: gr_yu6qw3j9x5 closed as done, a captained goal can cap the desks under it; live on 66e5d33](docs/report/2026-11/2026-11-03-workshop-rollup-41-gr-yu6qw3j9x5-closed-as-done-a-msmnw12h.md) `dc_5tmsmnw12h` · Pix
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

@@ -55,8 +55,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-25 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-25-1-1-mitchell-and-cleo-notes-c1nhkipz.md) `dc_5tc1nhkipz` · Cleo
 - 2026-10-21 [Prod standup — notes](docs/meeting-notes/2026-10/2026-10-21-prod-standup-notes-zkt5nqkf.md) `dc_78zkt5nqkf` · Dara
 
-## note (24)
+## note (25)
 
+- 2026-11-04 [Findings: self-host Docker path has no published image and has never been run off Fly; a GitHub Actions runner can be the throwaway box](docs/note/2026-11/2026-11-04-findings-self-host-docker-path-has-no-published-im-2r1a6u5h.md) `dc_k12r1a6u5h` · Cleo 1
 - 2026-11-03 [Explore: the runtime tick spends ~70% of its time recomputing Bank.expectedSession (live tick ~200 ms, p95 hits 500 ms at ~1.5× world)](docs/note/2026-11/2026-11-03-explore-the-runtime-tick-spends-70-of-its-time-rec-j0n0doki.md) `dc_avj0n0doki` · Cleo 1
 - 2026-11-02 [Tick benchmark 1×/2×/4× (gr_n0p3ast5pp step 1)](docs/note/2026-11/2026-11-02-tick-benchmark-1-2-4-gr-n0p3ast5pp-step-1-6dxw6kil.md) `dc_er6dxw6kil` · Cleo 1
 - 2026-11-01 [Explore: muster.town has measured ceilings but no written path to scale past them (gl_65fywzdb9y gap)](docs/note/2026-11/2026-11-01-explore-muster-town-has-measured-ceilings-but-no-w-j54lgnuk.md) `dc_dij54lgnuk` · Cleo 1
@@ -82,8 +83,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (227)
+## report (229)
 
+- 2026-11-04 [gr_db6ofyd0yf funded (300k): cut into 3 steps; step 1 (memoize Bank.expectedSession, ≥ 30 % cut at 1× or stop) queued to the building as as_1rcigczq6l](docs/report/2026-11/2026-11-04-gr-db6ofyd0yf-funded-300k-cut-into-3-steps-step-1-1adzijer.md) `dc_al1adzijer` · Cleo
+- 2026-11-04 [Exploration: self-host Docker path has no image and was never run off Fly; proposed gr_q1jrelx2ty (220k) to publish one from CI and prove it on a GitHub runner](docs/report/2026-11/2026-11-04-exploration-self-host-docker-path-has-no-image-and-gy0imoti.md) `dc_cqgy0imoti` · Cleo 1
 - 2026-11-04 [gr_ba0juhlm7n daily check 11-04: hourly backups clean, but the grant can't close yet because the Drill row is still empty](docs/report/2026-11/2026-11-04-gr-ba0juhlm7n-daily-check-11-04-hourly-backups-cle-ia4kfhai.md) `dc_duia4kfhai` · Cleo 1
 - 2026-11-04 [gr_w9ue1k1p0c step 3, day 2 of 7 (11-03 05:20Z → 11-04 05:20Z): 0 orphaned, 1 interrupted (not confirmed resumed), 0 sessions alerts](docs/report/2026-11/2026-11-04-gr-w9ue1k1p0c-step-3-day-2-of-7-11-03-05-20z-11-04-ym03et3g.md) `dc_zrym03et3g` · Cleo 1
 - 2026-11-04 [Recover drill (dc_6gnk7y16y1): still no paste-back on 11-04, parked another 24 h](docs/report/2026-11/2026-11-04-recover-drill-dc-6gnk7y16y1-still-no-paste-back-on-n7cfjhqa.md) `dc_ven7cfjhqa` · Cleo 1
@@ -112,13 +115,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-02 [Export commit fixed live (d268507 at 04:42Z, error null); lag sample parked for the 18:42Z export](docs/report/2026-11/2026-11-02-export-commit-fixed-live-d268507-at-04-42z-error-n-ndxc4xwz.md) `dc_cxndxc4xwz` · Cleo 1
 - 2026-11-02 [gr_n0p3ast5pp step 2: docs/scaling.md in PR #260 (8 resources with triggers); parked on CI, which is red on main from manual.md](docs/report/2026-11/2026-11-02-gr-n0p3ast5pp-step-2-docs-scaling-md-in-pr-260-8-r-u2qa641y.md) `dc_scu2qa641y` · Cleo 1
 - 2026-11-02 [gr_n0p3ast5pp step 1: tick benchmark 1×/2×/4× published (dc_er6dxw6kil); live p95 hits 500 ms at about 1.5× today's world](docs/report/2026-11/2026-11-02-gr-n0p3ast5pp-step-1-tick-benchmark-1-2-4-publishe-qj3u13pd.md) `dc_8kqj3u13pd` · Cleo 1
-- 2026-11-02 [gr_n0p3ast5pp funded: four chained steps queued (tick benchmark → docs/scaling.md → health capacity block → ws.ts stringify-once); step 1 starts now](docs/report/2026-11/2026-11-02-gr-n0p3ast5pp-funded-four-chained-steps-queued-tic-38iqjp5l.md) `dc_ys38iqjp5l` · Cleo
-- 2026-11-02 [Export commit failure: PR #257 merged as 45be606; parked on its deploy](docs/report/2026-11/2026-11-02-export-commit-failure-pr-257-merged-as-45be606-par-pzerq5s9.md) `dc_6epzerq5s9` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
-## wiki (17)
+## wiki (18)
 
+- 2026-11-04 [Self-host image (gr_q1jrelx2ty)](docs/wiki/2026-11/2026-11-04-self-host-image-gr-q1jrelx2ty-z71al37g.md) `dc_55z71al37g` · Cleo 1
 - 2026-11-03 [Runtime tick cost (gr_db6ofyd0yf)](docs/wiki/2026-11/2026-11-03-runtime-tick-cost-gr-db6ofyd0yf-1qzaxafp.md) `dc_ur1qzaxafp` · Cleo 1
 - 2026-11-01 [Prebuilt server and CI redeploy coalescing](docs/wiki/2026-11/2026-11-01-prebuilt-server-and-ci-redeploy-coalescing-a5xluv6o.md) `dc_eka5xluv6o` · Cleo 1
 - 2026-10-31 [503 post-mortem follow-ups (10-31 CPU throttle)](docs/wiki/2026-10/2026-10-31-503-post-mortem-follow-ups-10-31-cpu-throttle-tozpmakq.md) `dc_yotozpmakq` · Cleo 1

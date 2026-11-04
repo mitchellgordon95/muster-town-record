@@ -14,8 +14,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [1:1: Mitchell and Teo — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-teo-notes-tuy9g1zf.md) `dc_0ltuy9g1zf` · Teo
 - 2026-10-29 [1:1: Mitchell and Teo — notes](docs/meeting-notes/2026-10/2026-10-29-1-1-mitchell-and-teo-notes-nji0boyh.md) `dc_bqnji0boyh` · Teo
 
-## note (6)
+## note (7)
 
+- 2026-11-04 [Type and contrast census (live a84ed22): dim text fails 4.5:1 on 6 of 8 laptop views; each screen mixes 7–13 font sizes](docs/note/2026-11/2026-11-04-type-and-contrast-census-live-a84ed22-dim-text-fai-yxaapw3w.md) `dc_xbyxaapw3w` · Teo 1
 - 2026-11-04 [Findings: progressive-disclosure census of every panel, live 7e439b3 + mock (grant page 11 screens, goal tree 51 controls)](docs/note/2026-11/2026-11-04-findings-progressive-disclosure-census-of-every-pa-ejqhvl9e.md) `dc_j5ejqhvl9e` · Teo 1
 - 2026-11-01 [Findings: a stranger on a phone stares at a blank dark screen for ~2.8 s before Muster Town paints (load baseline, live 7ca64bc)](docs/note/2026-11/2026-11-01-findings-a-stranger-on-a-phone-stares-at-a-blank-d-0r76xh09.md) `dc_ua0r76xh09` · Teo 1
 - 2026-11-01 [Findings: can a stranger who uses a keyboard or a screen reader get into Muster Town? (accessibility baseline, live c1cdd23)](docs/note/2026-11/2026-11-01-findings-can-a-stranger-who-uses-a-keyboard-or-a-s-0iosk7ys.md) `dc_j30iosk7ys` · Teo 1
@@ -23,8 +24,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (95)
+## report (97)
 
+- 2026-11-04 [Type and contrast census: dim text fails 4.5:1 on 6 of 8 live views, 7–13 font sizes per screen; proposed gr_kvmwutmybu (150k)](docs/report/2026-11/2026-11-04-type-and-contrast-census-dim-text-fails-4-5-1-on-6-b8budf52.md) `dc_g9b8budf52` · Teo 1
+- 2026-11-04 [Grant gr_zak30564zh (progressive disclosure, 400k) cut into 4 steps; step 1 (census in repo + live baseline) and step 2 (grant page summary first) queued](docs/report/2026-11/2026-11-04-grant-gr-zak30564zh-progressive-disclosure-400k-cu-4zylde7i.md) `dc_jf4zylde7i` · Teo
 - 2026-11-04 [Progressive-disclosure census: a grant's page is 11 screens / 101 controls on live; proposed gr_zak30564zh (400k)](docs/report/2026-11/2026-11-04-progressive-disclosure-census-a-grant-s-page-is-11-szl4x0fx.md) `dc_tuszl4x0fx` · Teo 1
 - 2026-11-04 [Delight grant gr_ukrou4zjha closed as done: HUD cover 31% → 12–13% laptop, 31% → 7% phone; every first-visit moment passes at both sizes; 298k tokens back to the Bank](docs/report/2026-11/2026-11-04-delight-grant-gr-ukrou4zjha-closed-as-done-hud-cov-565x7thv.md) `dc_o0565x7thv` · Teo
 - 2026-11-04 [Live 7e439b3 before/after: laptop HUD 31%+ → 12–13%, phone 31% → 7% after Watch first; 0 signs cut](docs/report/2026-11/2026-11-04-live-7e439b3-before-after-laptop-hud-31-12-13-phon-kasnla0y.md) `dc_jekasnla0y` · Teo 1
@@ -53,19 +56,19 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-04 [Key result kr_b6ee064645 marked met by Mitchell](docs/report/2026-11/2026-11-04-key-result-kr-b6ee064645-marked-met-by-mitchell-67ocr9ty.md) `dc_yd67ocr9ty` · Town
 - 2026-11-04 [Explore: no new grant, delight checkpoint (gr_ukrou4zjha) still undecided](docs/report/2026-11/2026-11-04-explore-no-new-grant-delight-checkpoint-gr-ukrou4z-bbfhe823.md) `dc_fjbbfhe823` · Teo 1
 - 2026-11-03 [PR #288 (mock deck fix) merged as db2b9dd; mock only, no redeploy](docs/report/2026-11/2026-11-03-pr-288-mock-deck-fix-merged-as-db2b9dd-mock-only-n-hzwlacbg.md) `dc_73hzwlacbg` · Teo 1
-- 2026-11-03 [Key-result marks now keep you on the grant (your flag, live at 80da4cb); delight grant still waits on its checkpoint](docs/report/2026-11/2026-11-03-key-result-marks-now-keep-you-on-the-grant-your-fl-1j7oj9bs.md) `dc_p71j7oj9bs` · Teo
-- 2026-11-03 [PR #288 (mock deck fix): CI still running, parked on it](docs/report/2026-11/2026-11-03-pr-288-mock-deck-fix-ci-still-running-parked-on-it-h2sx0ihu.md) `dc_gbh2sx0ihu` · Teo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
-## skill (3)
+## skill (4)
 
+- 2026-11-04 [type-contrast-census](docs/skill/2026-11/2026-11-04-type-contrast-census-yyl44zwi.md) `dc_wzyyl44zwi` · Teo 1
 - 2026-11-04 [disclosure-census](docs/skill/2026-11/2026-11-04-disclosure-census-eezlk1o3.md) `dc_ezeezlk1o3` · Teo 1
 - 2026-10-31 [delight-walk](docs/skill/2026-10/2026-10-31-delight-walk-la62qft8.md) `dc_14la62qft8` · Teo 2
 - 2026-10-31 [map-bubble-sampler](docs/skill/2026-10/2026-10-31-map-bubble-sampler-h9yywhfl.md) `dc_6ph9yywhfl` · Teo 1
 
-## wiki (11)
+## wiki (12)
 
+- 2026-11-04 [Type scale and text contrast](docs/wiki/2026-11/2026-11-04-type-scale-and-text-contrast-h0y64k6a.md) `dc_voh0y64k6a` · Teo 1
 - 2026-11-04 [Progressive disclosure (gl_1ds3wl2n78)](docs/wiki/2026-11/2026-11-04-progressive-disclosure-gl-1ds3wl2n78-wk18hm5y.md) `dc_qswk18hm5y` · Teo 1
 - 2026-11-04 [Phone camera: two buildings after Watch first (kr_c3c7651d18)](docs/wiki/2026-11/2026-11-04-phone-camera-two-buildings-after-watch-first-kr-c3-ykbcny8n.md) `dc_svykbcny8n` · Teo 1
 - 2026-11-01 [Load speed (first paint on a phone)](docs/wiki/2026-11/2026-11-01-load-speed-first-paint-on-a-phone-t6ciyp5y.md) `dc_8it6ciyp5y` · Teo 1
