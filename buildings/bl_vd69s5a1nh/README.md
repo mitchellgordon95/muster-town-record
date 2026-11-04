@@ -37,8 +37,22 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (107)
+## report (121)
 
+- 2026-11-04 [gr_a5ct690l7a: the adopt verb is live (PR #283 in 111e0bf), all four steps shipped; say go or no-go on contributed visitor tokens](docs/report/2026-11/2026-11-04-gr-a5ct690l7a-the-adopt-verb-is-live-pr-283-in-111-v38137vo.md) `dc_hwv38137vo` · Mara
+- 2026-11-04 [gr_a5ct690l7a step 4: the adopt verb (PR #283, 96d5a45) is live; kr_8a7vskwse2 can be claimed](docs/report/2026-11/2026-11-04-gr-a5ct690l7a-step-4-the-adopt-verb-pr-283-96d5a45-4ad7g759.md) `dc_tt4ad7g759` · Mara 1
+- 2026-11-04 [gr_a5ct690l7a step 4: PR #283 merged (96d5a45); parked until it is live](docs/report/2026-11/2026-11-04-gr-a5ct690l7a-step-4-pr-283-merged-96d5a45-parked-15kwl09z.md) `dc_9h15kwl09z` · Mara 1
+- 2026-11-04 [gr_a5ct690l7a step 4: PR #283 conflicted with main; merged main in (a159b8f), pushed, parked on CI](docs/report/2026-11/2026-11-04-gr-a5ct690l7a-step-4-pr-283-conflicted-with-main-m-hmtsas7e.md) `dc_mahmtsas7e` · Mara 1
+- 2026-11-04 [Grant gr_a5ct690l7a adjusted: 1,500,000 tokens](docs/report/2026-11/2026-11-04-grant-gr-a5ct690l7a-adjusted-1-500-000-tokens-vfsx31wd.md) `dc_k0vfsx31wd` · Town
+- 2026-11-04 [Key result kr_5a90181c60 marked met by Mitchell](docs/report/2026-11/2026-11-04-key-result-kr-5a90181c60-marked-met-by-mitchell-0ktfqwz2.md) `dc_sb0ktfqwz2` · Town
+- 2026-11-04 [Key result kr_0800718a7a marked met by Mitchell](docs/report/2026-11/2026-11-04-key-result-kr-0800718a7a-marked-met-by-mitchell-riwcqjwh.md) `dc_fzriwcqjwh` · Town
+- 2026-11-04 [Key result kr_6805523069 marked met by Mitchell](docs/report/2026-11/2026-11-04-key-result-kr-6805523069-marked-met-by-mitchell-06vctiyf.md) `dc_cd06vctiyf` · Town
+- 2026-11-04 [Key result kr_46398efa33 marked met by Mitchell](docs/report/2026-11/2026-11-04-key-result-kr-46398efa33-marked-met-by-mitchell-c9bgy0z9.md) `dc_3zc9bgy0z9` · Town
+- 2026-11-04 [Key result kr_4jhab4c5cn marked met by Mitchell](docs/report/2026-11/2026-11-04-key-result-kr-4jhab4c5cn-marked-met-by-mitchell-3s0h3k7l.md) `dc_rg3s0h3k7l` · Town
+- 2026-11-03 [Key result kr_31c6f67b59 marked met by Mitchell](docs/report/2026-11/2026-11-03-key-result-kr-31c6f67b59-marked-met-by-mitchell-u4ah987n.md) `dc_eyu4ah987n` · Town
+- 2026-11-03 [Key result kr_7910fec063 marked met by Mitchell](docs/report/2026-11/2026-11-03-key-result-kr-7910fec063-marked-met-by-mitchell-432ms8sy.md) `dc_hv432ms8sy` · Town
+- 2026-11-03 [Key result kr_518c748b49 marked met by Mitchell](docs/report/2026-11/2026-11-03-key-result-kr-518c748b49-marked-met-by-mitchell-7om252rm.md) `dc_jr7om252rm` · Town
+- 2026-11-03 [Key result kr_ealc55cjf5 marked met by Mitchell](docs/report/2026-11/2026-11-03-key-result-kr-ealc55cjf5-marked-met-by-mitchell-vs09h3c7.md) `dc_i9vs09h3c7` · Town
 - 2026-11-03 [Checkpoint for gr_a5ct690l7a (one agent model): roles gone and the status state machine are live and claimed, visitor desks live minus contributed tokens, the adopt verb built in PR #283 awaiting merge; 1,100,254 / 1,000,000 spent, 150k top-up asked](docs/report/2026-11/2026-11-03-checkpoint-for-gr-a5ct690l7a-one-agent-model-roles-7a3nl5z4.md) `dc_887a3nl5z4` · Mara
 - 2026-11-03 [gr_a5ct690l7a step 4: PR #283 adds the adopt verb (a visitor adopting a goal with no desks manages its building); parked on CI](docs/report/2026-11/2026-11-03-gr-a5ct690l7a-step-4-pr-283-adds-the-adopt-verb-a-4bkgp5ln.md) `dc_2e4bkgp5ln` · Mara 2
 - 2026-11-03 [One agent model, step 2 is live (PR #281, 19bafad in 66e5d33): a visitor registers on a goal and gets a desk beyond the headcount that never takes a fork slot; contributed tokens need your go-ahead](docs/report/2026-11/2026-11-03-one-agent-model-step-2-is-live-pr-281-19bafad-in-6-gjmkz9ki.md) `dc_tsgjmkz9ki` · Mara
@@ -55,20 +69,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-02 [PR #250: CI failed on a3f17c1 because main is red at deadcode (Pix's new unused exports); fixed in 07895b6 on the merged branch, parked on CI](docs/report/2026-11/2026-11-02-pr-250-ci-failed-on-a3f17c1-because-main-is-red-at-9fjnr9mh.md) `dc_129fjnr9mh` · Mara 1
 - 2026-11-02 [PR #250: CI was green on 4b17899, but main had moved and pushed the manual over its cap; re-merged main (a3f17c1), parked on CI again](docs/report/2026-11/2026-11-02-pr-250-ci-was-green-on-4b17899-but-main-had-moved-yhf9k34y.md) `dc_17yhf9k34y` · Mara 1
 - 2026-11-02 [gr_a5ct690l7a step 1 finish: PR #250 merged with main (4b17899), conflicts resolved, local check green; parked on CI](docs/report/2026-11/2026-11-02-gr-a5ct690l7a-step-1-finish-pr-250-merged-with-mai-63i51a65.md) `dc_eu63i51a65` · Mara 2
-- 2026-11-02 [gr_wkimo647v2 rejected (no note): nothing follows now; PR #247 parked as a draft, the weekly check-timing watch is the only trigger to re-propose](docs/report/2026-11/2026-11-02-gr-wkimo647v2-rejected-no-note-nothing-follows-now-rkeiac5r.md) `dc_dbrkeiac5r` · Mara
-- 2026-11-02 [Session ended without a report: PR #250 CI finished: on green mark ready, merge, let promote redeploy, park on the merge sha to verify live](docs/report/2026-11/2026-11-02-session-ended-without-a-report-pr-250-ci-finished-5j6u4v5a.md) `dc_0q5j6u4v5a` · Mara 1
-- 2026-11-02 [Grant gr_a5ct690l7a adjusted: 1,000,000 tokens](docs/report/2026-11/2026-11-02-grant-gr-a5ct690l7a-adjusted-1-000-000-tokens-7maaho1k.md) `dc_wy7maaho1k` · Town
-- 2026-11-02 [Checkpoint for gr_a5ct690l7a (one agent model): tokens spent, step 1 written but unmerged (PR #250 conflicts with main), steps 2–4 not started](docs/report/2026-11/2026-11-02-checkpoint-for-gr-a5ct690l7a-one-agent-model-token-lqs4di6z.md) `dc_ovlqs4di6z` · Mara
-- 2026-11-01 [Session ended without a report: Write the checkpoint for One agent model (managers with forks, visitors, humans), with agent status as one core state machine and visitors adding capacity to go](docs/report/2026-11/2026-11-01-session-ended-without-a-report-write-the-checkpoin-rhdocpxe.md) `dc_0mrhdocpxe` · Mara
-- 2026-11-01 [gr_a5ct690l7a step 1: PR #250 deletes moderator, reviewer, residents list and Ada; parked on CI](docs/report/2026-11/2026-11-01-gr-a5ct690l7a-step-1-pr-250-deletes-moderator-revi-rn0d3713.md) `dc_7vrn0d3713` · Mara 2
-- 2026-11-01 [Exploration: tests slowed 33% because every test DB re-runs 76 migrations; draft PR #247 cuts ~19%, proposed gr_wkimo647v2 (80k)](docs/report/2026-11/2026-11-01-exploration-tests-slowed-33-because-every-test-db-cszutzkn.md) `dc_drcszutzkn` · Mara 1
-- 2026-11-01 [gr_a5ct690l7a funded: step 1 (delete moderator, reviewer, residents list and Ada; fresh seed = planner + managers) queued as as_7y9xdesm82; steps 2–4 follow one at a time](docs/report/2026-11/2026-11-01-gr-a5ct690l7a-funded-step-1-delete-moderator-revie-vas4elzt.md) `dc_9fvas4elzt` · Mara
-- 2026-11-01 [gr_xqg010d9ll rejected as requested: gr_a5ct690l7a (350k) supersedes it and is the one open proposal; nothing new filed](docs/report/2026-11/2026-11-01-gr-xqg010d9ll-rejected-as-requested-gr-a5ct690l7a-nw8w0gxi.md) `dc_3znw8w0gxi` · Mara
-- 2026-11-01 [Exploration: a dismissed agent can be revived by stop → resume; proposed gr_xqg010d9ll to make agent status one state machine](docs/report/2026-11/2026-11-01-exploration-a-dismissed-agent-can-be-revived-by-st-rf0n5cq6.md) `dc_egrf0n5cq6` · Mara 1
-- 2026-10-31 [Security advisories grant closed as done: PR #215 live (zod 4, @fastify/static 10, weekly audit gate), production deps clean of high/critical advisories](docs/report/2026-10/2026-10-31-security-advisories-grant-closed-as-done-pr-215-li-af4zvwul.md) `dc_ntaf4zvwul` · Mara
-- 2026-10-31 [Security advisories grant ready to close: e487758 is live and /api/verbs lists an inputSchema for all 31 verbs](docs/report/2026-10/2026-10-31-security-advisories-grant-ready-to-close-e487758-i-wlir8gqm.md) `dc_crwlir8gqm` · Mara 1
-- 2026-10-31 [Security advisories: PR #215 merged (main e487758), audit gate green on main and red on a zod-3 pin; parked to verify /api/verbs live](docs/report/2026-10/2026-10-31-security-advisories-pr-215-merged-main-e487758-aud-izq5j8g6.md) `dc_niizq5j8g6` · Mara 1
-- 2026-10-31 [The time subsystem (PR #191, b72c9dc) is live: the brief opens with the server clock, and guessed times get a warning](docs/report/2026-10/2026-10-31-the-time-subsystem-pr-191-b72c9dc-is-live-the-brie-hofwophf.md) `dc_0khofwophf` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

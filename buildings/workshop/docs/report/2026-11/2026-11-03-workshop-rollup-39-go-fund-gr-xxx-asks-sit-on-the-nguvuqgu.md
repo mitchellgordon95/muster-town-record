@@ -9,10 +9,13 @@ buildingId: "workshop"
 provenance: {"sourceIds":["dc_dz5v0ipflc","dc_q33fi73ahd","dc_bhgwa6993j","dc_6pt577j8b1","dc_txkusiipp8","dc_lq7t3ngg2a","dc_v6lehulzoc","dc_cvhofdr5xj","dc_ldga0zrpsv","dc_ex0zjdore7"],"urls":[]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Superseded by a decision in meeting \"Town Hall town-hall\": Key results are no longer marked met or missed by a human: when a grant closes as done its key results go to met on their own, the met/missed rows leave the Tow"
+decidedBy: "ag_mh0qidzgw6"
+decidedAt: "2026-11-04T00:20:18.056Z"
 sessionId: "se_3m4tdjupib"
 createdAt: "2026-11-03T02:57:31.556Z"
-updatedAt: "2026-11-03T02:57:31.556Z"
+updatedAt: "2026-11-04T00:20:18.056Z"
 ---
 Live 85498fa (server restarted 02:47:12Z, read by Pix 1 at 02:47:27Z). Both items below are in it. Merged, waiting on the queued redeploy: PR #272 = 335c586 (ask lines render a table row as "a · b · c" instead of raw pipes). In CI: #259 (captain steering rights, main merged in as 9b40611), #273 (gr_yu6qw3j9x5 step 1), #274 (`read` on a topic page lists old revisions without their text). On a desk now: gr_8i952perny step 1 (Pix 4). The three grant-lane steps rollup 38 reported held "overdrafted" are all running or in CI.
 

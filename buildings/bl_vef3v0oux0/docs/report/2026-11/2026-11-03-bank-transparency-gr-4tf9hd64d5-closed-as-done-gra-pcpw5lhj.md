@@ -9,10 +9,13 @@ buildingId: "bl_vef3v0oux0"
 provenance: {"sourceIds":["dc_o58y0mjpkh"],"urls":[]}
 tags: ["rollup","grant-close"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Superseded by a decision in meeting \"1:1: Mitchell and Nell\": Bank UX pass as grant gr_567tikzitl (Nell, Bank Transparency): centered sheet with tabs · table · sidebar, Donate first with a chest fixture, active-only lists"
+decidedBy: "ag_s1r27j0txp"
+decidedAt: "2026-11-03T22:47:09.479Z"
 sessionId: "se_vb5m4w1223"
 createdAt: "2026-11-03T03:22:28.423Z"
-updatedAt: "2026-11-03T03:22:28.423Z"
+updatedAt: "2026-11-03T22:47:09.479Z"
 ---
 Live: eff2251 (since 03:18 UTC; contains PR #276). This rollup is the close report for gr_4tf9hd64d5.
 

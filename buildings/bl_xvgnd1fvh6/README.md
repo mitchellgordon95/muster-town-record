@@ -16,8 +16,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 - 2026-10-21 [Brief: Secrets PR 1, scoped grants stored in the DB and managed at the Town Hall (for Dara)](docs/assignment-proposal/2026-10/2026-10-21-brief-secrets-pr-1-scoped-grants-stored-in-the-db-e6u6i7d2.md) `dc_6xe6u6i7d2` · Cleo
 
-## fyi (16)
+## fyi (17)
 
+- 2026-11-04 [CLEARED YELLOW ws: 0 WebSocket errors in 5 min](docs/fyi/2026-11/2026-11-04-cleared-yellow-ws-0-websocket-errors-in-5-min-7trks8sf.md) `dc_xg7trks8sf` · Town
 - 2026-11-02 [CLEARED RED sessions: 0 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-02-cleared-red-sessions-0-claude-sessions-failed-in-1-h2euy39g.md) `dc_m2h2euy39g` · Town
 - 2026-11-01 [CLEARED RED sessions: 0 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-01-cleared-red-sessions-0-claude-sessions-failed-in-1-kj4ocm41.md) `dc_gxkj4ocm41` · Town
 - 2026-11-01 [CLEARED YELLOW ws: 0 WebSocket errors in 5 min](docs/fyi/2026-11/2026-11-01-cleared-yellow-ws-0-websocket-errors-in-5-min-rh02kmk5.md) `dc_qzrh02kmk5` · Town
@@ -81,8 +82,18 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (215)
+## report (225)
 
+- 2026-11-04 [Recover drill (dc_6gnk7y16y1): still no paste-back on 11-04, parked another 24 h](docs/report/2026-11/2026-11-04-recover-drill-dc-6gnk7y16y1-still-no-paste-back-on-n7cfjhqa.md) `dc_ven7cfjhqa` · Cleo 1
+- 2026-11-04 [Prod rollup #33 (close gr_n0p3ast5pp, 796,943 / 1,200,000): the scale-path grant is done, live as 9a119d14: /api/health has a capacity block and the WebSocket fanout stringifies each change once](docs/report/2026-11/2026-11-04-prod-rollup-33-close-gr-n0p3ast5pp-796-943-1-200-0-601bgrso.md) `dc_nx601bgrso` · Cleo
+- 2026-11-04 [Grant gr_n0p3ast5pp adjusted: 1,200,000 tokens](docs/report/2026-11/2026-11-04-grant-gr-n0p3ast5pp-adjusted-1-200-000-tokens-ezm67puw.md) `dc_vmezm67puw` · Town
+- 2026-11-04 [gr_n0p3ast5pp step 4: ws.ts stringifies each change once per server; desk benchmark at 1,000 viewers shows −18 % per-change time and −23 % lag; PR #291 (e087aa62) parked on CI](docs/report/2026-11/2026-11-04-gr-n0p3ast5pp-step-4-ws-ts-stringifies-each-change-yo3dp8m2.md) `dc_hbyo3dp8m2` · Cleo
+- 2026-11-04 [gr_n0p3ast5pp step 3: health `capacity` block in PR #289, parked on its CI](docs/report/2026-11/2026-11-04-gr-n0p3ast5pp-step-3-health-capacity-block-in-pr-2-0j0km04l.md) `dc_zq0j0km04l` · Cleo 1
+- 2026-11-04 [Prod rollup #32: CI redeploy failures diagnosed and fixed (FETCH_HEAD race, 3 of 30 runs) with a redeploy-failed alert, live as 1826430; scale-path grant continued at 500k, steps 3 and 4 running](docs/report/2026-11/2026-11-04-prod-rollup-32-ci-redeploy-failures-diagnosed-and-prgcfqys.md) `dc_q5prgcfqys` · Cleo
+- 2026-11-04 [Grant gr_n0p3ast5pp adjusted: 500,000 tokens](docs/report/2026-11/2026-11-04-grant-gr-n0p3ast5pp-adjusted-500-000-tokens-jrt3o7mk.md) `dc_6ojrt3o7mk` · Town
+- 2026-11-03 [PR #285 live: /api/health commit = 1826430, monitor sampling, no alerts (redeploy-failed green)](docs/report/2026-11/2026-11-03-pr-285-live-api-health-commit-1826430-monitor-samp-jtbqs8xn.md) `dc_snjtbqs8xn` · Cleo 1
+- 2026-11-03 [PR #285 merged as 1826430 (FETCH_HEAD race fix + redeploy-failed alert); parked on its deploy to verify live](docs/report/2026-11/2026-11-03-pr-285-merged-as-1826430-fetch-head-race-fix-redep-501thwsh.md) `dc_dj501thwsh` · Cleo 1
+- 2026-11-03 [Failed CI redeploys diagnosed (FETCH_HEAD race, 3 of 30 runs; main undeployed since 19:25Z) and fixed; redeploy-failed alert added: PR #285, waiting on CI](docs/report/2026-11/2026-11-03-failed-ci-redeploys-diagnosed-fetch-head-race-3-of-jpotcro8.md) `dc_shjpotcro8` · Cleo 1
 - 2026-11-03 [Prod rollup #31: the hourly export no longer stalls the server (lag 110 ms live, every 1:1 follow-up verified); redeploy drain and hourly backups each clean on day 1](docs/report/2026-11/2026-11-03-prod-rollup-31-the-hourly-export-no-longer-stalls-6dqsvv9i.md) `dc_uz6dqsvv9i` · Cleo
 - 2026-11-03 [Hourly export lag sampled live: lag 110 ms at the 20:10Z export (under 200), commit 566e1fb, error null; 503 follow-ups done](docs/report/2026-11/2026-11-03-hourly-export-lag-sampled-live-lag-110-ms-at-the-2-kzdgiwf9.md) `dc_4nkzdgiwf9` · Cleo 1
 - 2026-11-03 [gr_ba0juhlm7n daily check 11-03: hourly backups clean, but the grant can't close because no restore of an hourly copy is recorded yet](docs/report/2026-11/2026-11-03-gr-ba0juhlm7n-daily-check-11-03-hourly-backups-cle-der7wdge.md) `dc_b3der7wdge` · Cleo 1
@@ -103,16 +114,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-02 [Export commit failure: PR #257 merged as 45be606; parked on its deploy](docs/report/2026-11/2026-11-02-export-commit-failure-pr-257-merged-as-45be606-par-pzerq5s9.md) `dc_6epzerq5s9` · Cleo 1
 - 2026-11-02 [Morning check 11-02: health green, hourly backup 56 min old, no alerts, desks $0.06 of $10, 4 sessions/ws FYIs all cleared](docs/report/2026-11/2026-11-02-morning-check-11-02-health-green-hourly-backup-56-yjt3u91h.md) `dc_ouyjt3u91h` · Cleo 1
 - 2026-11-02 [Export commit failure: PR #257 shows git's error in export.done and fixes two likely causes; parked on CI](docs/report/2026-11/2026-11-02-export-commit-failure-pr-257-shows-git-s-error-in-gk9qt0nb.md) `dc_irgk9qt0nb` · Cleo 1
-- 2026-11-02 [Prod rollup #28 (close gr_6qlj35wnh3): no copy of town.db hands over a credential any more; the hourly export runs off the main thread; a restore drill town spends nothing](docs/report/2026-11/2026-11-02-prod-rollup-28-close-gr-6qlj35wnh3-no-copy-of-town-t2xpsa9f.md) `dc_42t2xpsa9f` · Cleo
-- 2026-11-02 [Recover drill (dc_6gnk7y16y1): no paste-back yet, so I parked this for 24 h](docs/report/2026-11/2026-11-02-recover-drill-dc-6gnk7y16y1-no-paste-back-yet-so-i-jp8md9mi.md) `dc_qdjp8md9mi` · Cleo 1
-- 2026-11-01 [gr_6qlj35wnh3 step 3 live: login tokens hashed (c50aa8c), nobody logged out; grant waits only on the drill log](docs/report/2026-11/2026-11-01-gr-6qlj35wnh3-step-3-live-login-tokens-hashed-c50a-vrlbhbd5.md) `dc_b3vrlbhbd5` · Cleo 1
-- 2026-11-01 [gr_6qlj35wnh3 step 3: PR #251 merged as c50aa8c; parked on its deploy for the live check](docs/report/2026-11/2026-11-01-gr-6qlj35wnh3-step-3-pr-251-merged-as-c50aa8c-park-73o1f8aj.md) `dc_3f73o1f8aj` · Cleo 1
-- 2026-11-01 [503 follow-up B2 live: exactly one export.done per hour for 18 h (files ~2,045); a direct lag sample around one export is still owed](docs/report/2026-11/2026-11-01-503-follow-up-b2-live-exactly-one-export-done-per-z3scjc33.md) `dc_8kz3scjc33` · Cleo 1
-- 2026-11-01 [gr_6qlj35wnh3 step 3: PR #251 CI failed on main's deadcode bug, not mine; main merged in, re-parked on CI](docs/report/2026-11/2026-11-01-gr-6qlj35wnh3-step-3-pr-251-ci-failed-on-main-s-de-pq8kvsgo.md) `dc_99pq8kvsgo` · Cleo 1
-- 2026-11-01 [gr_6qlj35wnh3 step 3: login tokens hashed + per-session agent tokens, PR #251 open; parked on its CI](docs/report/2026-11/2026-11-01-gr-6qlj35wnh3-step-3-login-tokens-hashed-per-sessi-21vw4l9n.md) `dc_st21vw4l9n` · Cleo 1
-- 2026-11-01 [Retainer asks filed: sc_ul1b1ntqik 240k (8 × 30k) and sc_zyj6w0mygq 150k (5 × 30k) await Mitchell; morning check sc_534iipcmzz untouched by migration 077 (exploration lane), gap flagged to Pix](docs/report/2026-11/2026-11-01-retainer-asks-filed-sc-ul1b1ntqik-240k-8-30k-and-s-fwety8n1.md) `dc_22fwety8n1` · Cleo
-- 2026-11-01 [gr_6qlj35wnh3 step 2 live: Bank secrets encrypted at rest (244d9d1), sessions still run on the Bank token](docs/report/2026-11/2026-11-01-gr-6qlj35wnh3-step-2-live-bank-secrets-encrypted-a-jnkra5fp.md) `dc_s2jnkra5fp` · Cleo 1
-- 2026-11-01 [Retainers: both Prod schedules sized at 30,000 tokens/run (asks 240k + 150k); parked on deploy 44b590a to file them once the tool has tokensPerRun](docs/report/2026-11/2026-11-01-retainers-both-prod-schedules-sized-at-30-000-toke-l2a32d2c.md) `dc_w1l2a32d2c` · Cleo
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

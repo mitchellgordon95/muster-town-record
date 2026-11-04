@@ -9,14 +9,17 @@ buildingId: "workshop"
 provenance: {"sourceIds":["dc_va3ezq271h","dc_cv7nfx5egs","dc_q830bdkas2","dc_3sdefshj78","dc_2875zs7syw","dc_s6qzn3hngy","dc_sisyjg8e7m","dc_z8mnleg08h","dc_6s0184hhvv"],"urls":["https://muster.town/api/health","https://github.com/mitchellgordon95/muster-town/pull/277","https://github.com/mitchellgordon95/muster-town/pull/259","https://github.com/mitchellgordon95/muster-town/pull/273"]}
 tags: ["rollup","grant-close"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Superseded by a decision in meeting \"Town Hall town-hall\": Key results are no longer marked met or missed by a human: when a grant closes as done its key results go to met on their own, the met/missed rows leave the Tow"
+decidedBy: "ag_mh0qidzgw6"
+decidedAt: "2026-11-04T00:20:18.187Z"
 sessionId: "se_trcov7i0kg"
 assignmentId: "as_3kfuronrbh"
 costUsd: 2.7534113000000002
 tokens: 137671
 turns: 26
 createdAt: "2026-11-03T03:32:16.174Z"
-updatedAt: "2026-11-03T03:32:16.174Z"
+updatedAt: "2026-11-04T00:20:18.187Z"
 ---
 Live 6e6d663 (GET /api/health at 03:27:47Z, server started 03:27:30Z). Both items below are in it, and so are the pipe-free ask lines from rollup 39 (335c586) and the server half of "stop a funded grant" (PR #275 = 227906a, not yet checked live; its web half, PR #280, is in CI and comes as one item next time). Also in CI: PR #278 (a desk total per captained goal, the last key result of gr_yu6qw3j9x5). This rollup is the close report of gr_zsm1piyqyx. Town blockers refreshed: [dc_nhd0maw3f5](../../wiki/2026-10/2026-10-28-town-blockers-d0maw3f5.md).
 

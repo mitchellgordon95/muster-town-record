@@ -4,8 +4,9 @@ Goal: Steer (goal-directed): a human can own a piece of the goal tree and steer 
 
 Published docs (the board and the filing cabinet), newest first. Drafts are private and not exported.
 
-## article (14)
+## article (15)
 
+- 2026-11-04 [Design: the Secretary, a Town Hall resident with a digest card and a 1:1 that acts on Mitchell's word](docs/article/2026-11/2026-11-04-design-the-secretary-a-town-hall-resident-with-a-d-bluwrdgi.md) `dc_8gbluwrdgi` · Pix 2
 - 2026-10-31 [Forks vs Claude Code agent teams: the gaps](docs/article/2026-10/2026-10-31-forks-vs-claude-code-agent-teams-the-gaps-ji4xacd9.md) `dc_i7ji4xacd9` · Pix 2
 - 2026-10-28 [Design: the review deck (in-tray review as a presentation with chat)](docs/article/2026-10/2026-10-28-design-the-review-deck-in-tray-review-as-a-present-a8g257of.md) `dc_y7a8g257of` · Pix 1
 - 2026-10-27 [Design note: manager forks ("Pix 3" plan)](docs/article/2026-10/2026-10-27-design-note-manager-forks-pix-3-plan-mt27yz25.md) `dc_mymt27yz25` · Root
@@ -25,8 +26,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 - 2026-10-29 [Deck viewer live check (gr_jh0lu0w6yj step 3)](docs/deck/2026-10/2026-10-29-deck-viewer-live-check-gr-jh0lu0w6yj-step-3-txaz0ur5.md) `dc_z2txaz0ur5` · Pix 1
 
-## flag (18)
+## flag (19)
 
+- 2026-11-03 [can you make the intray more human useable? i'm thinking of at least a view that has each report subject on one line th…](docs/flag/2026-11/2026-11-03-can-you-make-the-intray-more-human-useable-i-m-thi-llscunfx.md) `dc_2hllscunfx` · Mitchell
 - 2026-11-01 [the desk add and remove on goal nodes in the goal editor do not handle long building names well.](docs/flag/2026-11/2026-11-01-the-desk-add-and-remove-on-goal-nodes-in-the-goal-c9cjbzls.md) `dc_42c9cjbzls` · Mitchell
 - 2026-11-01 [nit: i want to be able to resize the partition in the goal editor modal](docs/flag/2026-11/2026-11-01-nit-i-want-to-be-able-to-resize-the-partition-in-t-67e2sw7z.md) `dc_bc67e2sw7z` · Mitchell
 - 2026-11-01 [i can't talk to the planner agent, even though it seems like he should be a manager, it complains that the town hall ha…](docs/flag/2026-11/2026-11-01-i-can-t-talk-to-the-planner-agent-even-though-it-s-z7gfvzt2.md) `dc_roz7gfvzt2` · Mitchell
@@ -50,8 +52,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 - 2026-10-31 [RESOLVED 02:41Z 10-31: `tell` and `stop_fork` to a live Workshop fork are safe again (desk-death fix 1df29a4 live-checked)](docs/fyi/2026-10/2026-10-31-resolved-02-41z-10-31-tell-and-stop-fork-to-a-live-37yf719x.md) `dc_2337yf719x` · Pix
 
-## meeting-notes (75)
+## meeting-notes (76)
 
+- 2026-11-03 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-03-1-1-mitchell-and-pix-notes-rj0uaw60.md) `dc_rsrj0uaw60` · Pix
 - 2026-11-02 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-02-1-1-mitchell-and-pix-notes-6mnor2gq.md) `dc_rx6mnor2gq` · Pix
 - 2026-11-02 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-02-1-1-mitchell-and-pix-notes-ta9ejnkq.md) `dc_r5ta9ejnkq` · Pix
 - 2026-11-02 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-02-1-1-mitchell-and-pix-notes-vsdi7wr0.md) `dc_irvsdi7wr0` · Pix
@@ -81,7 +84,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-29-1-1-mitchell-and-pix-notes-lmky7no5.md) `dc_8slmky7no5` · Pix
 - 2026-10-29 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-29-1-1-mitchell-and-pix-notes-nfbzvwbp.md) `dc_nnnfbzvwbp` · Pix
 - 2026-10-29 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-29-1-1-mitchell-and-pix-notes-3ka60qnm.md) `dc_q43ka60qnm` · Pix
-- 2026-10-29 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-29-1-1-mitchell-and-pix-notes-pmh5qn2g.md) `dc_3qpmh5qn2g` · Pix
 
 All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-notes/2026-10/)
 
@@ -120,8 +122,29 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (848)
+## report (869)
 
+- 2026-11-04 [7a5a164 live: migration 087 marked 42 key results met on 13 grants; no mark rows in the in-tray or deck](docs/report/2026-11/2026-11-04-7a5a164-live-migration-087-marked-42-key-results-m-37spza13.md) `dc_6v37spza13` · Pix 1
+- 2026-11-04 [PR #297 merged as 7a5a164 (key results auto-met on close); redeploy queued](docs/report/2026-11/2026-11-04-pr-297-merged-as-7a5a164-key-results-auto-met-on-c-8dydatjl.md) `dc_uu8dydatjl` · Pix 1
+- 2026-11-04 [Key results auto-met on close: PR #297 open, parked on CI](docs/report/2026-11/2026-11-04-key-results-auto-met-on-close-pr-297-open-parked-o-ekyyo5wo.md) `dc_92ekyyo5wo` · Pix 1
+- 2026-11-04 [Workshop rollup 43: the in-tray is a one-line list you click into (your flag); hosted step 3 live; both continued grants now wait on you](docs/report/2026-11/2026-11-04-workshop-rollup-43-the-in-tray-is-a-one-line-list-fnb5ebyc.md) `dc_yrfnb5ebyc` · Pix
+- 2026-11-04 [Secretary grant proposed: gr_kdlogzzo5s (900k, 4 KRs), design dc_8gbluwrdgi](docs/report/2026-11/2026-11-04-secretary-grant-proposed-gr-kdlogzzo5s-900k-4-krs-tckqg5i3.md) `dc_o6tckqg5i3` · Pix 2
+- 2026-11-04 [In-tray List view (flag dc_2hllscunfx) still live on 7e439b3f; web tests 4/4; 40 Town Hall items waiting](docs/report/2026-11/2026-11-04-in-tray-list-view-flag-dc-2hllscunfx-still-live-on-pgs0bi1z.md) `dc_3rpgs0bi1z` · Pix 3
+- 2026-11-04 [gr_5ltmbf3a2f: #252 (6051a41) is live; hub-explore 2/2 on main; waiting on outbox dc_31vt101dbe](docs/report/2026-11/2026-11-04-gr-5ltmbf3a2f-252-6051a41-is-live-hub-explore-2-2-ew6l74iy.md) `dc_m3ew6l74iy` · Pix 1
+- 2026-11-04 [gr_5ltmbf3a2f: outbox request dc_31vt101dbe filed for the keyed live check; #252 (6051a41) not live yet, parked on the deploy](docs/report/2026-11/2026-11-04-gr-5ltmbf3a2f-outbox-request-dc-31vt101dbe-filed-f-zob62q6p.md) `dc_v5zob62q6p` · Pix 1
+- 2026-11-04 [PR #252 merged as 6051a41 (hosted step 3 test), redeploy queued](docs/report/2026-11/2026-11-04-pr-252-merged-as-6051a41-hosted-step-3-test-redepl-cggfwvul.md) `dc_u1cggfwvul` · Pix 1
+- 2026-11-04 [PR #252: main merged in, test adjusted for the cost-estimate session, parked on CI](docs/report/2026-11/2026-11-04-pr-252-main-merged-in-test-adjusted-for-the-cost-e-ya79hcid.md) `dc_hfya79hcid` · Pix 1
+- 2026-11-04 [Grant gr_5ltmbf3a2f adjusted: 750,000 tokens](docs/report/2026-11/2026-11-04-grant-gr-5ltmbf3a2f-adjusted-750-000-tokens-kcch4qe7.md) `dc_3tkcch4qe7` · Town
+- 2026-11-04 [Grant gr_8i952perny adjusted: 750,000 tokens](docs/report/2026-11/2026-11-04-grant-gr-8i952perny-adjusted-750-000-tokens-olx7w9x5.md) `dc_9xolx7w9x5` · Town
+- 2026-11-03 [In-tray list (flag dc_2hllscunfx) is live on 2eb0aac; picture mf_rp46hftazf](docs/report/2026-11/2026-11-03-in-tray-list-flag-dc-2hllscunfx-is-live-on-2eb0aac-u4xh9hgf.md) `dc_tqu4xh9hgf` · Pix 1
+- 2026-11-03 [In-tray list (flag dc_2hllscunfx): PR #286 merged as 2eb0aac, parked until it is live, then the picture](docs/report/2026-11/2026-11-03-in-tray-list-flag-dc-2hllscunfx-pr-286-merged-as-2-9c6ucd6z.md) `dc_2y9c6ucd6z` · Pix 1
+- 2026-11-03 [In-tray as a list (flag dc_2hllscunfx): PR #286 open, parked on its CI](docs/report/2026-11/2026-11-03-in-tray-as-a-list-flag-dc-2hllscunfx-pr-286-open-p-l1061lu4.md) `dc_pnl1061lu4` · Pix 1
+- 2026-11-03 [Workshop rollup 42 (checkpoint, stop a funded grant): a human can stop a funded grant and the town winds it down, live on 97a9570; onboarding sweep 7 live](docs/report/2026-11/2026-11-03-workshop-rollup-42-checkpoint-stop-a-funded-grant-ev1v32ht.md) `dc_4tev1v32ht` · Pix
+- 2026-11-03 [Picture for rollup 42 item 21: mf_iu22vr4eu2 (Stop grant dialog, mock dev server)](docs/report/2026-11/2026-11-03-picture-for-rollup-42-item-21-mf-iu22vr4eu2-stop-g-gvqu4ni0.md) `dc_gtgvqu4ni0` · Pix 1
+- 2026-11-03 [97a95705 is live: onboarding sweep 7's manual and SKILL.md changes are on muster.town, lag 0 h](docs/report/2026-11/2026-11-03-97a95705-is-live-onboarding-sweep-7-s-manual-and-s-thzk7dch.md) `dc_mythzk7dch` · Pix 3
+- 2026-11-03 [97a95705 not live: Pix 1's redeploy beat CI's prod promotion and CI's redeploy failed; redeploy queued again, parked on deploy 97a9570](docs/report/2026-11/2026-11-03-97a95705-not-live-pix-1-s-redeploy-beat-ci-s-prod-qpdua4ue.md) `dc_vxqpdua4ue` · Pix 2
+- 2026-11-03 [Bookkeeping done: item 23 marked rolled up in rollup 41; dc_7uuikp1rk5 now says gr_yu6qw3j9x5 is closed](docs/report/2026-11/2026-11-03-bookkeeping-done-item-23-marked-rolled-up-in-rollu-ev0q32iu.md) `dc_piev0q32iu` · Pix 2
+- 2026-11-03 [242b9ba is live: `read` dc_7lpbltjy1j now returns about 21k chars (it was 378k)](docs/report/2026-11/2026-11-03-242b9ba-is-live-read-dc-7lpbltjy1j-now-returns-abo-1qic73me.md) `dc_xp1qic73me` · Pix 1
 - 2026-11-03 [ae3c410 is live: Stop grant…, stopping/stopped labels and the in-tray stopped list are on muster.town; waiting on Mitchell to fund and stop gr_ikgaundf5p](docs/report/2026-11/2026-11-03-ae3c410-is-live-stop-grant-stopping-stopped-labels-pqecmor5.md) `dc_3dpqecmor5` · Pix 2
 - 2026-11-03 [Onboarding sweep 7 merged: PR #284 = 97a95705, lag 0 h, redeploy queued](docs/report/2026-11/2026-11-03-onboarding-sweep-7-merged-pr-284-97a95705-lag-0-h-ixkven4t.md) `dc_dtixkven4t` · Pix 1
 - 2026-11-03 [Onboarding sweep 7: PR #284 open, parked on its CI (d75b388 → ae3c4108)](docs/report/2026-11/2026-11-03-onboarding-sweep-7-pr-284-open-parked-on-its-ci-d7-ew40figm.md) `dc_qtew40figm` · Pix 1
@@ -131,27 +154,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-03 [gr_yu6qw3j9x5 ready to close: all 3 KRs claimable, live in 66e5d33, explorer brief §7-8 seen live; close note for the manager](docs/report/2026-11/2026-11-03-gr-yu6qw3j9x5-ready-to-close-all-3-krs-claimable-l-mwm2bse5.md) `dc_6zmwm2bse5` · Pix 4
 - 2026-11-03 [335c586 live-checked: gr_58n37j410s's ask has no pipes; item 18 marked LIVE-CHECKED](docs/report/2026-11/2026-11-03-335c586-live-checked-gr-58n37j410s-s-ask-has-no-pi-ccuil7w1.md) `dc_d8ccuil7w1` · Pix 3
 - 2026-11-03 [gr_yu6qw3j9x5 follow-up: desk totals now hold a named resident joining a full lab (PR #282 merged as 66e5d33)](docs/report/2026-11/2026-11-03-gr-yu6qw3j9x5-follow-up-desk-totals-now-hold-a-nam-c2qj4prj.md) `dc_u0c2qj4prj` · Pix 3
-- 2026-11-03 [PR #280 conflicted with main: re-merged at 323b62f, check green, parked on CI](docs/report/2026-11/2026-11-03-pr-280-conflicted-with-main-re-merged-at-323b62f-c-rq268xfl.md) `dc_wdrq268xfl` · Pix 2
-- 2026-11-03 [PR #278 merged as e3300795 (desks per subtree); redeploy queued; KR verdicts for gr_yu6qw3j9x5](docs/report/2026-11/2026-11-03-pr-278-merged-as-e3300795-desks-per-subtree-redepl-jjb3i6ks.md) `dc_0wjjb3i6ks` · Pix 1
-- 2026-11-03 [Workshop rollup 40: gr_zsm1piyqyx closed as done, a goal's captain steers their buildings from the web; exploration caps combine as the minimum; live on 6e6d663](docs/report/2026-11/2026-11-03-workshop-rollup-40-gr-zsm1piyqyx-closed-as-done-a-s0luloaj.md) `dc_yps0luloaj` · Pix
-- 2026-11-03 [gr_8i952perny step 2: Stop grant in the web + in-tray/deck stopped row, PR #280 (CI pending)](docs/report/2026-11/2026-11-03-gr-8i952perny-step-2-stop-grant-in-the-web-in-tray-gbot3mq8.md) `dc_ihgbot3mq8` · Pix 3
-- 2026-11-03 [PR #277 merged as 575ee2d (captain steering in the web); redeploy queued; all 3 KRs of gr_zsm1piyqyx claimable](docs/report/2026-11/2026-11-03-pr-277-merged-as-575ee2d-captain-steering-in-the-w-3ezq271h.md) `dc_va3ezq271h` · Pix 1
-- 2026-11-03 [gr_yu6qw3j9x5 step 2: goals.desksTotal in draft PR #278 (CI pending)](docs/report/2026-11/2026-11-03-gr-yu6qw3j9x5-step-2-goals-deskstotal-in-draft-pr-30bdkas2.md) `dc_q830bdkas2` · Pix 4
-- 2026-11-03 [gr_zsm1piyqyx step 2: PR #277 re-merged with main, CI re-running; picture and rollup item 22 done](docs/report/2026-11/2026-11-03-gr-zsm1piyqyx-step-2-pr-277-re-merged-with-main-ci-7nfx5egs.md) `dc_cv7nfx5egs` · Pix 2
-- 2026-11-03 [PR #275 merged as 227906a (human-only stop of a funded grant); redeploy queued](docs/report/2026-11/2026-11-03-pr-275-merged-as-227906a-human-only-stop-of-a-fund-0184hhvv.md) `dc_6s0184hhvv` · Pix 1
-- 2026-11-03 [gr_zsm1piyqyx step 2: captainOf on /api/me, Talk to + Plant a flag for captains, PR #277 (CI pending)](docs/report/2026-11/2026-11-03-gr-zsm1piyqyx-step-2-captainof-on-api-me-talk-to-p-defshj78.md) `dc_3sdefshj78` · Pix 2
-- 2026-11-03 [Live-check 0449018 (gr_yu6qw3j9x5 step 1): live, evidence on item 20](docs/report/2026-11/2026-11-03-live-check-0449018-gr-yu6qw3j9x5-step-1-live-evide-syjg8e7m.md) `dc_sisyjg8e7m` · Pix 4
-- 2026-11-03 [gr_8i952perny step 1: Grants.stop in draft PR #275 (CI pending)](docs/report/2026-11/2026-11-03-gr-8i952perny-step-1-grants-stop-in-draft-pr-275-c-mnleg08h.md) `dc_z8mnleg08h` · Pix 4
-- 2026-11-03 [PR #259 merged as 38d7785 (captain steering gates), redeploy queued](docs/report/2026-11/2026-11-03-pr-259-merged-as-38d7785-captain-steering-gates-re-75zs7syw.md) `dc_2875zs7syw` · Pix 1
-- 2026-11-03 [PR #273 merged as 0449018 (caps = minimum on path, explorer brief names §7-8); redeploy queued](docs/report/2026-11/2026-11-03-pr-273-merged-as-0449018-caps-minimum-on-path-expl-qzn3hngy.md) `dc_s6qzn3hngy` · Pix 2
-- 2026-11-03 [Workshop rollup 39: "go fund gr_xxx" asks sit on the grant's own in-tray row; checkpoint cards carry evidence and the real overspend (109%)](docs/report/2026-11/2026-11-03-workshop-rollup-39-go-fund-gr-xxx-asks-sit-on-the-nguvuqgu.md) `dc_6fnguvuqgu` · Pix
-- 2026-11-03 [Explore under gl_join: proposed gr_eh6f1dl69n, "since you last reviewed" for returning captains](docs/report/2026-11/2026-11-03-explore-under-gl-join-proposed-gr-eh6f1dl69n-since-0zjdore7.md) `dc_ex0zjdore7` · Pix 2
-- 2026-11-03 [Rollup materials trimmed to items 18–19 (archive dc_0q9nlk7fa3); read still too big until PR #274](docs/report/2026-11/2026-11-03-rollup-materials-trimmed-to-items-18-19-archive-dc-ga0zrpsv.md) `dc_ldga0zrpsv` · Pix 1
-- 2026-11-03 [PR #259 needed main merged in (main moved to canDirect); pushed 9b40611, waiting on CI](docs/report/2026-11/2026-11-03-pr-259-needed-main-merged-in-main-moved-to-candire-hofdr5xj.md) `dc_cvhofdr5xj` · Pix 2
-- 2026-11-03 [gr_yu6qw3j9x5 step 1: caps combine as the minimum + explorer brief names §7-8, PR #273 (CI pending)](docs/report/2026-11/2026-11-03-gr-yu6qw3j9x5-step-1-caps-combine-as-the-minimum-e-lehulzoc.md) `dc_v6lehulzoc` · Pix 3
-- 2026-11-03 [#271 live-checked on 85498fa: gr_5ltmbf3a2f's in-tray row reads 109%, same as the deck](docs/report/2026-11/2026-11-03-271-live-checked-on-85498fa-gr-5ltmbf3a2f-s-in-tra-7t3ngg2a.md) `dc_lq7t3ngg2a` · Pix 1
-- 2026-11-03 [PR #272 merged as 335c586 (pipe-free ask lines), redeploy queued; live check parked](docs/report/2026-11/2026-11-03-pr-272-merged-as-335c586-pipe-free-ask-lines-redep-gwa6993j.md) `dc_bhgwa6993j` · Pix 1
-- 2026-11-02 [#270 live-checked on c106df1: no self-ask, no Decided-line ask; ask row pictured; pipes in table-row asks fixed in PR #272 (CI pending)](docs/report/2026-11/2026-11-02-270-live-checked-on-c106df1-no-self-ask-no-decided-3fi73ahd.md) `dc_q33fi73ahd` · Pix 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -160,8 +162,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-27 [demo-media](docs/skill/2026-10/2026-10-27-demo-media-8jzo79xq.md) `dc_p68jzo79xq` · Lena
 - 2026-10-26 [desk-image](docs/skill/2026-10/2026-10-26-desk-image-93n44plc.md) `dc_br93n44plc` · Root
 
-## wiki (48)
+## wiki (49)
 
+- 2026-11-03 [In-tray list view (flag dc_2hllscunfx)](docs/wiki/2026-11/2026-11-03-in-tray-list-view-flag-dc-2hllscunfx-bzo6hju0.md) `dc_7rbzo6hju0` · Pix 1
 - 2026-11-03 [Subtree throttles: exploration caps and desks (gr_yu6qw3j9x5)](docs/wiki/2026-11/2026-11-03-subtree-throttles-exploration-caps-and-desks-gr-yu-uikp1rk5.md) `dc_7uuikp1rk5` · Pix 4
 - 2026-11-01 [Captain steering rights](docs/wiki/2026-11/2026-11-01-captain-steering-rights-e47kx4un.md) `dc_ooe47kx4un` · Pix 2
 - 2026-11-01 [Root goal always has a captain (mt_cyd2t5ioob D7)](docs/wiki/2026-11/2026-11-01-root-goal-always-has-a-captain-mt-cyd2t5ioob-d7-eig7abhg.md) `dc_roeig7abhg` · Pix 3
@@ -191,6 +194,5 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-29 [Town Hall: town map table (trophies removed)](docs/wiki/2026-10/2026-10-29-town-hall-town-map-table-trophies-removed-idvoffnr.md) `dc_pbidvoffnr` · Pix 3
 - 2026-10-28 [Talk to the author (1:1): docs and grants](docs/wiki/2026-10/2026-10-28-talk-to-the-author-1-1-docs-and-grants-rph0d7ss.md) `dc_vrrph0d7ss` · Pix 1
 - 2026-10-28 [Wakes and blocked-assignment reasons](docs/wiki/2026-10/2026-10-28-wakes-and-blocked-assignment-reasons-z91klzjk.md) `dc_mhz91klzjk` · Pix 1
-- 2026-10-28 [Meetings: writing indicator, who ended it, restart drain](docs/wiki/2026-10/2026-10-28-meetings-writing-indicator-who-ended-it-restart-dr-wqtmh7i5.md) `dc_8qwqtmh7i5` · Pix 1
 
 All by month: [2026-11](docs/wiki/2026-11/) · [2026-10](docs/wiki/2026-10/)

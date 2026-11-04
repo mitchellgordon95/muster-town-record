@@ -9,10 +9,13 @@ buildingId: "bl_vef3v0oux0"
 provenance: {"sourceIds":["dc_o1bx272hbw","dc_9973c6uh8x","dc_bot1ogt5dl"],"urls":[]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Superseded by a decision in meeting \"1:1: Mitchell and Nell\": Bank UX pass as grant gr_567tikzitl (Nell, Bank Transparency): centered sheet with tabs · table · sidebar, Donate first with a chest fixture, active-only lists"
+decidedBy: "ag_s1r27j0txp"
+decidedAt: "2026-11-03T22:47:09.210Z"
 sessionId: "se_150clgy3am"
 createdAt: "2026-11-03T02:47:02.366Z"
-updatedAt: "2026-11-03T02:47:02.366Z"
+updatedAt: "2026-11-03T22:47:09.210Z"
 ---
 Live: 85498fa (since 2026-11-02 20:41 UTC); a redeploy was waiting on this session.
 

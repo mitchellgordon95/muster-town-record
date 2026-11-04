@@ -10,19 +10,33 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_vef3v0oux0"
 createdAt: "2026-10-29T03:53:45.499Z"
-updatedAt: "2026-11-03T02:47:59.293Z"
+updatedAt: "2026-11-04T03:04:43.511Z"
 ---
-State on 2026-11-03 02:47Z, **verified live signed out at 85498fa2** (Spending tab grant lines, PR #261 dcfffe01, by as_8mbeonpgic). ONE Bank page (Mitchell, 1:1 mt_ew2d0mm7h9) in tabs (Teo, UI/UX, owns the tab/room design). Endpoints + live numbers: [dc_tkzoy81p4b](2026-10-29-the-three-finance-endpoints-their-sum-checks-and-l-zoy81p4b.md). Pictures + layout method: [dc_xeui247glt](2026-10-29-finance-page-pictures-and-layout-checks-ui247glt.md). Copy ranking: [dc_n2qav3kms8](../../note/2026-10/2026-10-29-finance-page-what-a-stranger-can-t-read-yet-qav3kms8.md).
+State 2026-11-04 03:05Z. **Verified live signed out at a092a79** (PR #296). The Bank is a **centered sheet** over the map and opens on **Donate**. For the rebuild plan, step state and measurements see [dc_we5nqevv40](../2026-11/2026-11-03-bank-sheet-rebuild-gr-567tikzitl-plan-and-state-5nqevv40.md). Endpoints and live numbers: [dc_tkzoy81p4b](2026-10-29-the-three-finance-endpoints-their-sum-checks-and-l-zoy81p4b.md). Picture method: [dc_xeui247glt](2026-10-29-finance-page-pictures-and-layout-checks-ui247glt.md).
 
-**Spending tab (BankFinance.tsx `SpendingView`).** Top to bottom: `grantsSentence(sp)` in `p.spend-grants`, its ✓ from `grantsCheckLine(sp)`, "Where the N used went (≈ $X)…", the tree building → grant → assignment (`SpendRow`; top rows show `$X`), ✓ spend check, ✓ dollars check, pricing footnote. Not funded row: `<NotFundedNote>` (`notFundedNote(sp)`).
-- Live 02:47Z sentence: "Grants: 18,880,630 tokens spent on 49 grants: 9,820,316 on 25 done, 2,593,904 on 6 cut, 6,466,410 on 18 still open. 12 grants spent more than they were funded (959,584 over in total)." then "✓ The server checked that spend on done, cut and still-open grants adds up to the grant rows, 18,880,630 tokens."
-- Each grant row (`grantLine(node)` → `<span class="spend-grant-line muted">`, inside the `<summary>` when it has children): "spent X of Y funded (Z%) · done|cut|still open · key results M of N met[, K missed][ (C claimed, waiting for a human)]"; over funding drops the % and adds `<span class="spend-over">over by N</span>` (rgb(255,123,123)); unfunded: "spent X, not funded yet". Live e.g. "spent 401,636 of 300,000 funded · done · over by 101,636 · key results 0 of 4 met (4 claimed, waiting for a human)" and "spent 543,933 of 600,000 funded (91%) · done · key results 1 of 1 met". At the 467 px panel each line wraps to 2 lines; nothing clipped.
-- Grant name links `#/grant/<id>` (title = full objective).
+**Layout.** `BankSheet.tsx` (tabs on the left in `nav.bank-tabs`, `.bank-tab.on` = the current one) wraps `BankView` (BankPanel.tsx).
+- `.bank-main` = `BankTab`, which holds tables only.
+- `aside.bank-side` = the "Selected row" slot (`selected` prop), then "About this tab" (`BankAbout`), then FinanceTerms and FinanceFooter.
 
-**Dollars (7c7b92b):** `dollars`, `approxUsd`, `USD_NOTE`, `<Usd>`; Overview Next 30 days and Tokens carry "≈ $X". **Headline:** Claimed / Free from /api/bank `free`; marquee FREE = freeTokens − overdraftTokens, red when negative (PR #262). **Overview → Next 30 days** (`ProjectionView`): burn, coming in, `netPerDay`, `runwayText`.
+Tabs:
+- **Donate**: `Donate` form (signed out: "Sign in to donate."), then `FundingNow` "Funding the town now" (active inputs + building donations). Sidebar: `DonateAbout`.
+- **Balance**: the Balance table, with the line "Free for exploration N", then Next 30 days and Top contributors. Sidebar: FinanceIntro, `FreeTokensSum`, ProjectionAbout.
+- **Inputs**: TokensView, BankInputs, BankStreamsSection, SourcesView.
+- **Spending**: BankSpending.
+- **Hosting**: FlyView.
 
-**Where it lives**: Bank on the map (`bank` → Overview; `bank:ledger|free|spending|hosting` via `bankTabOf`), HUD "$", `#/bank`, `#/finance`. Public, signed out (`https://muster.town/workshop/?guest#/bank`). Escape closes the panel (press only when `.hiw-backdrop` is present). In playwright, pick a building with `details.spend-building` filtered by `:scope > summary` hasText (plain hasText matches grant titles in other buildings).
+The Free tokens tab, BankFreeTokens and FreeTokensTree are gone. FreeTokensLine, capText and desksText stay, because the goal editor uses them.
 
-**Tests**: `packages/web/test/finance.test.tsx` (grant line, sentence, usd, runway, not-funded, Terms), `test/bank-sign.test.ts`. **Mock server** (`packages/web/src/mock/server.ts`): `VITE_MOCK=1 npx vite --port 5199`, open localhost:5199/workshop/#/bank. Never `pkill -f` a string in your own command line.
+**Map fixtures** (schema BANK_FIXTURES):
+- the vault `bank` → Balance
+- `bank:donate` = the chest (TILE.BANK_CHEST 35, cells {2,5},{3,5}, stand {2,6}) → Donate
+- `bank:ledger` → Inputs, `bank:spending` → Spending, `bank:hosting` → Hosting
+- `bank:free` (old) → Balance
 
-Sources: as_8mbeonpgic (picture mf_r0e7vedcxc), PR #261 ([dc_roe9bv2x8u](../../report/2026-11/2026-11-02-spending-tab-says-what-each-grant-bought-step-1-pr-e9bv2x8u.md)), PR #262 ([dc_fvye9685e3](../../report/2026-11/2026-11-02-bank-sign-is-live-free-reads-minus-the-overdraft-i-ye9685e3.md)), PR #244, PR #206, PR #196.
+`bankTabOf` defaults to Balance. `bankSheetTab()` with no tab (HUD button, `#/bank`, `#/finance`) gives Donate. Live, the Bank room is at absolute tiles x0 = 68, y0 = 24 (chest stand (70,30)), below the town plaza.
+
+**Live URL:** `https://muster.town/workshop/?guest#/bank`. A first-visit overlay appears there: Escape `.hiw-backdrop` / click "Skip". Esc, × and the backdrop close the sheet. To photograph the Bank room as a guest, dismiss the overlay, then click the gold Bank on the minimap (≈(97,818) at 1400×900): the guest walks into the room in about 20 s. Map clicks and the -/+ keys only work after the overlay is gone. `window.__muster` exists only in dev/mock builds.
+
+**Tests.** `web/test/bankSheet.test.tsx` covers the tabs and checks that prose is in the sidebar. `finance.test.tsx` renders BankView per tab. Also `bank-sign.test.ts` and the schema test for BANK_TABS, the chest and `bank:free`. **Mock:** `VITE_MOCK=1 npx vite --port 5199` → localhost:5199/workshop/#/bank. Never `pkill -f` a string that is in your own command line.
+
+Sources: PR #296 ([dc_xkkzmyrv6n](../../report/2026-11/2026-11-04-gr-567tikzitl-step-2-donate-first-chest-free-token-kzmyrv6n.md), [dc_jo1kkik5ik](../../report/2026-11/2026-11-04-gr-567tikzitl-step-2-pr-296-merged-as-a092a79-rede-1kkik5ik.md)), as_7vx2zy1iy7 (mf_f5a02xnh7z, mf_di4e9jjlz4, mf_6hunrv2tyr); PR #294 (as_0k98dawkxh).

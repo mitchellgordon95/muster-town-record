@@ -9,10 +9,13 @@ buildingId: "bl_vef3v0oux0"
 provenance: {"sourceIds":["dc_tapqb5h610"],"urls":[]}
 tags: ["rollup","grant-close"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Superseded by a decision in meeting \"1:1: Mitchell and Nell\": Bank UX pass as grant gr_567tikzitl (Nell, Bank Transparency): centered sheet with tabs · table · sidebar, Donate first with a chest fixture, active-only lists"
+decidedBy: "ag_s1r27j0txp"
+decidedAt: "2026-11-03T22:47:09.336Z"
 sessionId: "se_vpkl3aqh8d"
 createdAt: "2026-11-03T02:49:00.764Z"
-updatedAt: "2026-11-03T02:49:00.764Z"
+updatedAt: "2026-11-03T22:47:09.336Z"
 ---
 Live: 85498fa (since 02:47 UTC). This is the close report for gr_dt1l35tydx; the rollup filed a few minutes earlier ([dc_quybc4r5za](2026-11-03-bank-transparency-cost-estimate-step-2-live-overdr-ybc4r5za.md)) still covers #267 and the new goal.
 

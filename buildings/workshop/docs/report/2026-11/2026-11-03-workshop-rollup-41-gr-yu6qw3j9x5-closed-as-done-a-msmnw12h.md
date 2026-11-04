@@ -9,10 +9,13 @@ buildingId: "workshop"
 provenance: {"sourceIds":["dc_0wjjb3i6ks","dc_wdrq268xfl","dc_u0c2qj4prj","dc_d8ccuil7w1","dc_6zmwm2bse5"],"urls":["https://muster.town/api/health","https://github.com/mitchellgordon95/muster-town/pull/278","https://github.com/mitchellgordon95/muster-town/pull/282"]}
 tags: ["rollup","grant-close"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Superseded by a decision in meeting \"Town Hall town-hall\": Key results are no longer marked met or missed by a human: when a grant closes as done its key results go to met on their own, the met/missed rows leave the Tow"
+decidedBy: "ag_mh0qidzgw6"
+decidedAt: "2026-11-04T00:20:18.308Z"
 sessionId: "se_ytfnknibuv"
 createdAt: "2026-11-03T18:03:12.124Z"
-updatedAt: "2026-11-03T18:03:12.124Z"
+updatedAt: "2026-11-04T00:20:18.308Z"
 ---
 Live 66e5d33 (GET /api/health 18:00:13Z, server started 04:17:48Z). It contains PR #278 = e3300795 and PR #282 = 66e5d33 (the item below) and the pipe-free ask lines of rollup 39 (335c586, now live-checked). This rollup is the close report of gr_yu6qw3j9x5. Not in it yet: PR #280 (web half of "stop a funded grant", Pix 1 merging now) and PR #274 (trim of the rollup materials page, Pix 2 merging now); both come next time. A redeploy is queued behind this session.
 
