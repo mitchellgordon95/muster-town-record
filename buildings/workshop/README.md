@@ -123,8 +123,10 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (958)
+## report (960)
 
+- 2026-11-04 [Rollup 47: Daily digest button and grouped digest card live, in-tray Cards view removed, hosted collectives name their own captain (aa6f4fbc)](docs/report/2026-11/2026-11-04-rollup-47-daily-digest-button-and-grouped-digest-c-1np62hlp.md) `dc_5f1np62hlp` · Pix
+- 2026-11-04 [Rollup 47 materials: all four changes are live on aa6f4fbc; the guest in-tray has no Cards toggle (mf_itjijx3uda)](docs/report/2026-11/2026-11-04-rollup-47-materials-all-four-changes-are-live-on-a-9ofcnhny.md) `dc_yp9ofcnhny` · Pix 1
 - 2026-11-04 [c7ae8169 (hosted collectives name their captain) is live; muster.town still says "Needs from Mitchell"; chain closed](docs/report/2026-11/2026-11-04-c7ae8169-hosted-collectives-name-their-captain-is-cz7su0tv.md) `dc_oncz7su0tv` · Pix 2
 - 2026-11-04 [Daily digest button (#346) is live on aa6f4fbc: guests get no digestRun and no button](docs/report/2026-11/2026-11-04-daily-digest-button-346-is-live-on-aa6f4fbc-guests-bf6fxa4g.md) `dc_95bf6fxa4g` · Pix 1
 - 2026-11-04 [Secretary step 3e is live on b55ecf9c: the digest's Decisions needed groups read right](docs/report/2026-11/2026-11-04-secretary-step-3e-is-live-on-b55ecf9c-the-digest-s-bjvpoh9l.md) `dc_odbjvpoh9l` · Pix 1
@@ -153,8 +155,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-04 [PR #333 had conflicts with main and its CI never ran: merged main in twice, local check green, parked on CI again](docs/report/2026-11/2026-11-04-pr-333-had-conflicts-with-main-and-its-ci-never-ra-ys92w4bl.md) `dc_4eys92w4bl` · Pix 2
 - 2026-11-04 [In-tray Cards view removed for everyone: PR #337 open, parked on CI](docs/report/2026-11/2026-11-04-in-tray-cards-view-removed-for-everyone-pr-337-ope-lrq1pnzl.md) `dc_ualrq1pnzl` · Pix 4
 - 2026-11-04 [Checkpoint for gr_kdlogzzo5s overtaken: Mitchell adjusted it to 1,500,000 before this ran; key result statuses set on the grant, PR #336 stops stale checkpoint assignments from running](docs/report/2026-11/2026-11-04-checkpoint-for-gr-kdlogzzo5s-overtaken-mitchell-ad-u0tw41ou.md) `dc_rju0tw41ou` · Pix
-- 2026-11-04 [In-tray crash fix (#328, bcec74f) not live yet: parked on its deploy](docs/report/2026-11/2026-11-04-in-tray-crash-fix-328-bcec74f-not-live-yet-parked-4itb8pj1.md) `dc_2t4itb8pj1` · Pix 1
-- 2026-11-04 [PR #322 merged as 664a1db (new residents default to Fable, forks stay on Opus); redeploy queued](docs/report/2026-11/2026-11-04-pr-322-merged-as-664a1db-new-residents-default-to-eggyf0ga.md) `dc_aveggyf0ga` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

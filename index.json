@@ -22309,5 +22309,23 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-04T22:19:29.074Z"
+  },
+  {
+    "id": "dc_yp9ofcnhny",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-rollup-47-materials-all-four-changes-are-live-on-a-9ofcnhny.md",
+    "title": "Rollup 47 materials: all four changes are live on aa6f4fbc; the guest in-tray has no Cards toggle (mf_itjijx3uda)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T23:06:26.587Z"
+  },
+  {
+    "id": "dc_5f1np62hlp",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-rollup-47-daily-digest-button-and-grouped-digest-c-1np62hlp.md",
+    "title": "Rollup 47: Daily digest button and grouped digest card live, in-tray Cards view removed, hosted collectives name their own captain (aa6f4fbc)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T23:08:33.071Z"
   }
 ]
