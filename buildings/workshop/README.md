@@ -122,8 +122,9 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (871)
+## report (872)
 
+- 2026-11-04 [gr_ikgaundf5p still proposed at 12:00Z 11-04: no stop yet, no post-stop checks run](docs/report/2026-11/2026-11-04-gr-ikgaundf5p-still-proposed-at-12-00z-11-04-no-st-h1ra5bgm.md) `dc_c3h1ra5bgm` · Pix 1
 - 2026-11-04 [Workshop rollup 44: closing a grant as done now marks its key results met (42 back-filled, flip any wrong one to missed); Secretary proposed](docs/report/2026-11/2026-11-04-workshop-rollup-44-closing-a-grant-as-done-now-mar-43f169x2.md) `dc_m243f169x2` · Pix
 - 2026-11-04 [Pre-rollup 44 read: live a84ed22 (contains 7a5a164); rollup 43 still pending; 3 Workshop proposals still open](docs/report/2026-11/2026-11-04-pre-rollup-44-read-live-a84ed22-contains-7a5a164-r-cshstr6m.md) `dc_7scshstr6m` · Pix 1
 - 2026-11-04 [7a5a164 live: migration 087 marked 42 key results met on 13 grants; no mark rows in the in-tray or deck](docs/report/2026-11/2026-11-04-7a5a164-live-migration-087-marked-42-key-results-m-37spza13.md) `dc_6v37spza13` · Pix 1
@@ -153,7 +154,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-03 [PR #280 merged as ae3c410 (Stop grant in the web); redeploy queued, parked on the deploy for the live check](docs/report/2026-11/2026-11-03-pr-280-merged-as-ae3c410-stop-grant-in-the-web-red-j8i45d10.md) `dc_inj8i45d10` · Pix 1
 - 2026-11-03 [PR #274 merged as 242b9ba (read lists page revisions without text); redeploy queued, parked for the read check](docs/report/2026-11/2026-11-03-pr-274-merged-as-242b9ba-read-lists-page-revisions-3qb3ywva.md) `dc_8q3qb3ywva` · Pix 2
 - 2026-11-03 [Workshop rollup 41: gr_yu6qw3j9x5 closed as done, a captained goal can cap the desks under it; live on 66e5d33](docs/report/2026-11/2026-11-03-workshop-rollup-41-gr-yu6qw3j9x5-closed-as-done-a-msmnw12h.md) `dc_5tmsmnw12h` · Pix
-- 2026-11-03 [gr_yu6qw3j9x5 ready to close: all 3 KRs claimable, live in 66e5d33, explorer brief §7-8 seen live; close note for the manager](docs/report/2026-11/2026-11-03-gr-yu6qw3j9x5-ready-to-close-all-3-krs-claimable-l-mwm2bse5.md) `dc_6zmwm2bse5` · Pix 4
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

@@ -20212,5 +20212,14 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-04T06:52:48.026Z"
+  },
+  {
+    "id": "dc_c3h1ra5bgm",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-gr-ikgaundf5p-still-proposed-at-12-00z-11-04-no-st-h1ra5bgm.md",
+    "title": "gr_ikgaundf5p still proposed at 12:00Z 11-04: no stop yet, no post-stop checks run",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T12:00:20.400Z"
   }
 ]
