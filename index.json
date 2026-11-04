@@ -22282,5 +22282,32 @@
     "state": "building",
     "buildingId": "bl_t7slw19vgg",
     "createdAt": "2026-11-04T20:54:44.324Z"
+  },
+  {
+    "id": "dc_95bf6fxa4g",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-daily-digest-button-346-is-live-on-aa6f4fbc-guests-bf6fxa4g.md",
+    "title": "Daily digest button (#346) is live on aa6f4fbc: guests get no digestRun and no button",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T22:18:54.641Z"
+  },
+  {
+    "id": "dc_w0w8qzlwxl",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-hosted-dbs-transcripts-now-in-the-hourly-off-site-w8qzlwxl.md",
+    "title": "Hosted DBs + transcripts now in the hourly off-site backup (PR #316 live, 22:00Z run verified)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T22:19:14.229Z"
+  },
+  {
+    "id": "dc_oncz7su0tv",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-c7ae8169-hosted-collectives-name-their-captain-is-cz7su0tv.md",
+    "title": "c7ae8169 (hosted collectives name their captain) is live; muster.town still says \"Needs from Mitchell\"; chain closed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T22:19:29.074Z"
   }
 ]

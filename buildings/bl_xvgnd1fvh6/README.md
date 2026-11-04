@@ -85,8 +85,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (254)
+## report (255)
 
+- 2026-11-04 [Hosted DBs + transcripts now in the hourly off-site backup (PR #316 live, 22:00Z run verified)](docs/report/2026-11/2026-11-04-hosted-dbs-transcripts-now-in-the-hourly-off-site-w8qzlwxl.md) `dc_w0w8qzlwxl` · Cleo 1
 - 2026-11-04 [be5f320 is live; parked until the 20:00Z hourly run to check backup.copies/transcripts](docs/report/2026-11/2026-11-04-be5f320-is-live-parked-until-the-20-00z-hourly-run-maigx9gf.md) `dc_8zmaigx9gf` · Cleo 1
 - 2026-11-04 [Prod rollup #37 (checkpoint gr_q1jrelx2ty, 225,544 / 220,000): a public Docker image of the town is built and smoke-tested by CI on every green main; backup/restore in CI and the pull-and-run docs page are not started, 100k more finishes both](docs/report/2026-11/2026-11-04-prod-rollup-37-checkpoint-gr-q1jrelx2ty-225-544-22-9a8qxc9g.md) `dc_ut9a8qxc9g` · Cleo
 - 2026-11-04 [PR #316 merged (be5f320): hosted DBs + transcripts in the hourly backup; parked on deploy](docs/report/2026-11/2026-11-04-pr-316-merged-be5f320-hosted-dbs-transcripts-in-th-9igrtzp1.md) `dc_tz9igrtzp1` · Cleo 1
@@ -116,7 +117,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-04 [Exploration: self-host Docker path has no image and was never run off Fly; proposed gr_q1jrelx2ty (220k) to publish one from CI and prove it on a GitHub runner](docs/report/2026-11/2026-11-04-exploration-self-host-docker-path-has-no-image-and-gy0imoti.md) `dc_cqgy0imoti` · Cleo 1
 - 2026-11-04 [gr_ba0juhlm7n daily check 11-04: hourly backups clean, but the grant can't close yet because the Drill row is still empty](docs/report/2026-11/2026-11-04-gr-ba0juhlm7n-daily-check-11-04-hourly-backups-cle-ia4kfhai.md) `dc_duia4kfhai` · Cleo 1
 - 2026-11-04 [gr_w9ue1k1p0c step 3, day 2 of 7 (11-03 05:20Z → 11-04 05:20Z): 0 orphaned, 1 interrupted (not confirmed resumed), 0 sessions alerts](docs/report/2026-11/2026-11-04-gr-w9ue1k1p0c-step-3-day-2-of-7-11-03-05-20z-11-04-ym03et3g.md) `dc_zrym03et3g` · Cleo 1
-- 2026-11-04 [Recover drill (dc_6gnk7y16y1): still no paste-back on 11-04, parked another 24 h](docs/report/2026-11/2026-11-04-recover-drill-dc-6gnk7y16y1-still-no-paste-back-on-n7cfjhqa.md) `dc_ven7cfjhqa` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

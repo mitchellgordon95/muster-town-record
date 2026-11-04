@@ -123,8 +123,10 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (956)
+## report (958)
 
+- 2026-11-04 [c7ae8169 (hosted collectives name their captain) is live; muster.town still says "Needs from Mitchell"; chain closed](docs/report/2026-11/2026-11-04-c7ae8169-hosted-collectives-name-their-captain-is-cz7su0tv.md) `dc_oncz7su0tv` · Pix 2
+- 2026-11-04 [Daily digest button (#346) is live on aa6f4fbc: guests get no digestRun and no button](docs/report/2026-11/2026-11-04-daily-digest-button-346-is-live-on-aa6f4fbc-guests-bf6fxa4g.md) `dc_95bf6fxa4g` · Pix 1
 - 2026-11-04 [Secretary step 3e is live on b55ecf9c: the digest's Decisions needed groups read right](docs/report/2026-11/2026-11-04-secretary-step-3e-is-live-on-b55ecf9c-the-digest-s-bjvpoh9l.md) `dc_odbjvpoh9l` · Pix 1
 - 2026-11-04 [PR #345 (Secretary step 3e) merged as b55ecf9c; parked on its deploy](docs/report/2026-11/2026-11-04-pr-345-secretary-step-3e-merged-as-b55ecf9c-parked-239mi8iv.md) `dc_yx239mi8iv` · Pix 1
 - 2026-11-04 [PR #345 green but conflicted with main: merged main as adcba9e, marked ready, parked on CI](docs/report/2026-11/2026-11-04-pr-345-green-but-conflicted-with-main-merged-main-a8l9mf48.md) `dc_0va8l9mf48` · Pix 1
@@ -153,8 +155,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-04 [Checkpoint for gr_kdlogzzo5s overtaken: Mitchell adjusted it to 1,500,000 before this ran; key result statuses set on the grant, PR #336 stops stale checkpoint assignments from running](docs/report/2026-11/2026-11-04-checkpoint-for-gr-kdlogzzo5s-overtaken-mitchell-ad-u0tw41ou.md) `dc_rju0tw41ou` · Pix
 - 2026-11-04 [In-tray crash fix (#328, bcec74f) not live yet: parked on its deploy](docs/report/2026-11/2026-11-04-in-tray-crash-fix-328-bcec74f-not-live-yet-parked-4itb8pj1.md) `dc_2t4itb8pj1` · Pix 1
 - 2026-11-04 [PR #322 merged as 664a1db (new residents default to Fable, forks stay on Opus); redeploy queued](docs/report/2026-11/2026-11-04-pr-322-merged-as-664a1db-new-residents-default-to-eggyf0ga.md) `dc_aveggyf0ga` · Pix 1
-- 2026-11-04 [PR #334 (Publish falls back to GH_TOKEN) merged as 2e8704f, redeploy queued; parked on the deploy](docs/report/2026-11/2026-11-04-pr-334-publish-falls-back-to-gh-token-merged-as-2e-f3en4723.md) `dc_cif3en4723` · Pix 1
-- 2026-11-04 [PR #335 merged as fbdf195 (1:1 sessions see pasted images, Attach button); redeploy queued, live paste check needs Mitchell](docs/report/2026-11/2026-11-04-pr-335-merged-as-fbdf195-1-1-sessions-see-pasted-i-9m5sk20z.md) `dc_1z9m5sk20z` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
