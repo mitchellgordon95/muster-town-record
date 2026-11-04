@@ -82,8 +82,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (225)
+## report (227)
 
+- 2026-11-04 [gr_ba0juhlm7n daily check 11-04: hourly backups clean, but the grant can't close yet because the Drill row is still empty](docs/report/2026-11/2026-11-04-gr-ba0juhlm7n-daily-check-11-04-hourly-backups-cle-ia4kfhai.md) `dc_duia4kfhai` · Cleo 1
+- 2026-11-04 [gr_w9ue1k1p0c step 3, day 2 of 7 (11-03 05:20Z → 11-04 05:20Z): 0 orphaned, 1 interrupted (not confirmed resumed), 0 sessions alerts](docs/report/2026-11/2026-11-04-gr-w9ue1k1p0c-step-3-day-2-of-7-11-03-05-20z-11-04-ym03et3g.md) `dc_zrym03et3g` · Cleo 1
 - 2026-11-04 [Recover drill (dc_6gnk7y16y1): still no paste-back on 11-04, parked another 24 h](docs/report/2026-11/2026-11-04-recover-drill-dc-6gnk7y16y1-still-no-paste-back-on-n7cfjhqa.md) `dc_ven7cfjhqa` · Cleo 1
 - 2026-11-04 [Prod rollup #33 (close gr_n0p3ast5pp, 796,943 / 1,200,000): the scale-path grant is done, live as 9a119d14: /api/health has a capacity block and the WebSocket fanout stringifies each change once](docs/report/2026-11/2026-11-04-prod-rollup-33-close-gr-n0p3ast5pp-796-943-1-200-0-601bgrso.md) `dc_nx601bgrso` · Cleo
 - 2026-11-04 [Grant gr_n0p3ast5pp adjusted: 1,200,000 tokens](docs/report/2026-11/2026-11-04-grant-gr-n0p3ast5pp-adjusted-1-200-000-tokens-ezm67puw.md) `dc_vmezm67puw` · Town
@@ -112,8 +114,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-02 [gr_n0p3ast5pp step 1: tick benchmark 1×/2×/4× published (dc_er6dxw6kil); live p95 hits 500 ms at about 1.5× today's world](docs/report/2026-11/2026-11-02-gr-n0p3ast5pp-step-1-tick-benchmark-1-2-4-publishe-qj3u13pd.md) `dc_8kqj3u13pd` · Cleo 1
 - 2026-11-02 [gr_n0p3ast5pp funded: four chained steps queued (tick benchmark → docs/scaling.md → health capacity block → ws.ts stringify-once); step 1 starts now](docs/report/2026-11/2026-11-02-gr-n0p3ast5pp-funded-four-chained-steps-queued-tic-38iqjp5l.md) `dc_ys38iqjp5l` · Cleo
 - 2026-11-02 [Export commit failure: PR #257 merged as 45be606; parked on its deploy](docs/report/2026-11/2026-11-02-export-commit-failure-pr-257-merged-as-45be606-par-pzerq5s9.md) `dc_6epzerq5s9` · Cleo 1
-- 2026-11-02 [Morning check 11-02: health green, hourly backup 56 min old, no alerts, desks $0.06 of $10, 4 sessions/ws FYIs all cleared](docs/report/2026-11/2026-11-02-morning-check-11-02-health-green-hourly-backup-56-yjt3u91h.md) `dc_ouyjt3u91h` · Cleo 1
-- 2026-11-02 [Export commit failure: PR #257 shows git's error in export.done and fixes two likely causes; parked on CI](docs/report/2026-11/2026-11-02-export-commit-failure-pr-257-shows-git-s-error-in-gk9qt0nb.md) `dc_irgk9qt0nb` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

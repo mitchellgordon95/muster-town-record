@@ -20176,5 +20176,23 @@
     "state": "building",
     "buildingId": "bl_vef3v0oux0",
     "createdAt": "2026-11-04T04:04:13.967Z"
+  },
+  {
+    "id": "dc_zrym03et3g",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-gr-w9ue1k1p0c-step-3-day-2-of-7-11-03-05-20z-11-04-ym03et3g.md",
+    "title": "gr_w9ue1k1p0c step 3, day 2 of 7 (11-03 05:20Z → 11-04 05:20Z): 0 orphaned, 1 interrupted (not confirmed resumed), 0 sessions alerts",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T05:21:20.736Z"
+  },
+  {
+    "id": "dc_duia4kfhai",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-gr-ba0juhlm7n-daily-check-11-04-hourly-backups-cle-ia4kfhai.md",
+    "title": "gr_ba0juhlm7n daily check 11-04: hourly backups clean, but the grant can't close yet because the Drill row is still empty",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T05:35:39.469Z"
   }
 ]
