@@ -9,10 +9,13 @@ buildingId: "bl_t7slw19vgg"
 provenance: {"sourceIds":["dc_5yvypy37ng","dc_66supiw4sm","dc_q4j1ukfbwy","dc_fm23keae53","dc_ma6lxs0r8d","dc_bpdzst0ygc","dc_43z4hcaj9t","dc_f90veod5w1","dc_c0uai2d5e8","dc_4641dhux2c","dc_vtekwrj4v5","dc_ojzdozvabo","dc_jekasnla0y"],"urls":[]}
 tags: ["rollup"]
 verdict: "stop"
-decision: "pending"
+decision: "approve"
+decisionNote: "Superseded by a decision in meeting \"1:1: Mitchell and Secretary\": Two answers from Mitchell for UI / UX (1:1 mt_i50xwu4z2t at 18:16 UTC). (1) kr_c3c7651d18 (phone half of the delight grant gr_ukrou4zjha): \"for teo idc, feel fr"
+decidedBy: "ag_7tiwyqva83"
+decidedAt: "2026-11-04T18:17:13.712Z"
 sessionId: "se_cuko8xrco0"
 createdAt: "2026-11-04T02:27:57.695Z"
-updatedAt: "2026-11-04T02:27:57.695Z"
+updatedAt: "2026-11-04T18:17:13.712Z"
 ---
 Live: 7e439b3 (since 2026-11-04 02:23 UTC). I closed the delight grant gr_ukrou4zjha as done at 1,201,832 / 1,500,000 tokens; 298,168 went back to the Bank. Its four key results are claimed and wait for your met/missed marks on the grant.
 

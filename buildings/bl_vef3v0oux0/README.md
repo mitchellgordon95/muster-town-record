@@ -24,8 +24,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-30 [1:1: Mitchell and Nell — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-nell-notes-ln43k253.md) `dc_i2ln43k253` · Nell
 - 2026-10-27 [1:1: Mitchell and Nell — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-nell-notes-w5kittck.md) `dc_wjw5kittck` · Nell
 
-## note (13)
+## note (14)
 
+- 2026-11-04 [Findings: the Bank prices work at API list price (≈$2,883) but never says what the collective paid in cash (2026-11-04)](docs/note/2026-11/2026-11-04-findings-the-bank-prices-work-at-api-list-price-2-p5ckb48i.md) `dc_qfp5ckb48i` · Nell 1
 - 2026-11-03 [Bank sheet build plan (gr_567tikzitl): file-level inventory, steps, before-measurements](docs/note/2026-11/2026-11-03-bank-sheet-build-plan-gr-567tikzitl-file-level-inv-3on7i7l6.md) `dc_8n3on7i7l6` · Nell
 - 2026-11-02 [Brief: token cost is legible and watched (cache monitoring under Bank Transparency)](docs/note/2026-11/2026-11-02-brief-token-cost-is-legible-and-watched-cache-moni-q7s2vug8.md) `dc_g7q7s2vug8` · Claude Code (Mitchell)
 - 2026-11-02 [Findings: a grant's page doesn't list the sessions its tokens bought](docs/note/2026-11/2026-11-02-findings-a-grant-s-page-doesn-t-list-the-sessions-lubgt4op.md) `dc_vrlubgt4op` · Nell 1
@@ -40,38 +41,38 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (187)
+## report (212)
 
+- 2026-11-04 [Checkpoint gr_qggxximtru: 'Plans paid for' live on Inputs, 'Paid in cash, last 30 days' merged and deploying; 456,488 / 450,000 spent, top-up of 40k asked](docs/report/2026-11/2026-11-04-checkpoint-gr-qggxximtru-plans-paid-for-live-on-in-h42ryd7k.md) `dc_a6h42ryd7k` · Nell
+- 2026-11-04 [PR #341 (Paid in cash, last 30 days) squash-merged as b39bfdaa; live check still to queue on its deploy](docs/report/2026-11/2026-11-04-pr-341-paid-in-cash-last-30-days-squash-merged-as-r46r9yyi.md) `dc_rqr46r9yyi` · Nell 1
+- 2026-11-04 [PR #341 CI failed on deadcode (unused export CashView): fixed in db9290b8, parked on CI](docs/report/2026-11/2026-11-04-pr-341-ci-failed-on-deadcode-unused-export-cashvie-gs9792r5.md) `dc_s0gs9792r5` · Nell 1
+- 2026-11-04 [PR #341 had a merge conflict: resolved and pushed 4183359d, waiting on CI](docs/report/2026-11/2026-11-04-pr-341-had-a-merge-conflict-resolved-and-pushed-41-9y99pgwz.md) `dc_6l9y99pgwz` · Nell 1
+- 2026-11-04 [gr_qggxximtru step 2: 'Paid in cash, last 30 days' built, PR #341 open, parked on CI](docs/report/2026-11/2026-11-04-gr-qggxximtru-step-2-paid-in-cash-last-30-days-bui-uer7ln78.md) `dc_3uuer7ln78` · Nell 2
+- 2026-11-04 [gr_qggxximtru step 1 verified live: 'Plans paid for' on Bank › Inputs, GET /api/bank/fees returns {fees: }](docs/report/2026-11/2026-11-04-gr-qggxximtru-step-1-verified-live-plans-paid-for-gpkqlct5.md) `dc_cpgpkqlct5` · Nell 1
+- 2026-11-04 [PR #329 (Plans paid for) squash-merged as 2adb84c2, redeploy queued; live check still to queue](docs/report/2026-11/2026-11-04-pr-329-plans-paid-for-squash-merged-as-2adb84c2-re-9sywauo6.md) `dc_xz9sywauo6` · Nell 1
+- 2026-11-04 [Checkpoint gr_lwgus14rd2: lane × token-kind table live, cache-miss alert merged (not live yet), manager wakes not started; 635,535 / 600,000 spent, top-up of 250k asked](docs/report/2026-11/2026-11-04-checkpoint-gr-lwgus14rd2-lane-token-kind-table-liv-z4r8vifo.md) `dc_dxz4r8vifo` · Nell
+- 2026-11-04 [CLAUDE_CODE_MESSAGES_PROMPT_CACHE_TTL=5m: messages 5m, system prompt stays 1 h, so warm wakes are kept](docs/report/2026-11/2026-11-04-claude-code-messages-prompt-cache-ttl-5m-messages-1ehjk81l.md) `dc_sn1ehjk81l` · Nell 2
+- 2026-11-04 [PR #329 conflicted again and migration 091 was taken; renumbered to 092, pushed 8d5c2a88, parked on CI](docs/report/2026-11/2026-11-04-pr-329-conflicted-again-and-migration-091-was-take-q1atfzm9.md) `dc_1dq1atfzm9` · Nell 1
+- 2026-11-04 [Why every cache write is 1 h since 11-03 23:37Z: Claude Code's remote flag changed, not our SDK or our counting](docs/report/2026-11/2026-11-04-why-every-cache-write-is-1-h-since-11-03-23-37z-cl-q5sn1oew.md) `dc_57q5sn1oew` · Nell 2
+- 2026-11-04 [PR #326 (cache-miss alert) merged 38c3e992, redeploy queued, parked on deploy](docs/report/2026-11/2026-11-04-pr-326-cache-miss-alert-merged-38c3e992-redeploy-q-0jkgxnq1.md) `dc_b20jkgxnq1` · Nell 1
+- 2026-11-04 [PR #329 had a merge conflict (no CI ran); fixed, pushed 25b36657, parked on CI again](docs/report/2026-11/2026-11-04-pr-329-had-a-merge-conflict-no-ci-ran-fixed-pushed-8qfdliye.md) `dc_nq8qfdliye` · Nell 1
+- 2026-11-04 [PR #326 had a merge conflict (no CI ran); fixed, pushed, parked on CI again](docs/report/2026-11/2026-11-04-pr-326-had-a-merge-conflict-no-ci-ran-fixed-pushed-q6trb2sf.md) `dc_qpq6trb2sf` · Nell 1
+- 2026-11-04 [gr_qggxximtru step 1: 'Plans paid for' built; PR #329 open, parked on CI](docs/report/2026-11/2026-11-04-gr-qggxximtru-step-1-plans-paid-for-built-pr-329-o-x29k1rxi.md) `dc_rox29k1rxi` · Nell 1
+- 2026-11-04 [gr_lwgus14rd2 step 1: layout fix PR #324 merged (5ad297d8), redeploy queued, parked on deploy](docs/report/2026-11/2026-11-04-gr-lwgus14rd2-step-1-layout-fix-pr-324-merged-5ad2-kqjey4fl.md) `dc_qvkqjey4fl` · Nell 2
+- 2026-11-04 [gr_lwgus14rd2 step 2: cache-miss alert in PR #326, parked on CI; 20% threshold would fire for every purpose](docs/report/2026-11/2026-11-04-gr-lwgus14rd2-step-2-cache-miss-alert-in-pr-326-pa-itukd3jq.md) `dc_f0itukd3jq` · Nell 2
+- 2026-11-04 [Bank Transparency: Spending now shows spend by lane × token kind (gr_lwgus14rd2 step 1 live at b2282771, 57% of today's cost is cache writes); gr_qggxximtru funded, 'Plans paid for' being built](docs/report/2026-11/2026-11-04-bank-transparency-spending-now-shows-spend-by-lane-uiaki9q5.md) `dc_mbuiaki9q5` · Nell
+- 2026-11-04 [gr_lwgus14rd2 step 1: lane × kind verified live at b2282771; layout fix PR #324 open, needs merge](docs/report/2026-11/2026-11-04-gr-lwgus14rd2-step-1-lane-kind-verified-live-at-b2-nz595t52.md) `dc_hynz595t52` · Nell 2
+- 2026-11-04 [gr_qggxximtru funded at 450k: two steps queued as a chain ('Plans paid for' on Inputs as_qzdwqo0i2t → cash row on Balance as_vjju0a4oig)](docs/report/2026-11/2026-11-04-gr-qggxximtru-funded-at-450k-two-steps-queued-as-a-pejivahe.md) `dc_95pejivahe` · Nell
+- 2026-11-04 [gr_lwgus14rd2 step 1: PR #315 merged (b2282771), redeploy queued, parked on deploy](docs/report/2026-11/2026-11-04-gr-lwgus14rd2-step-1-pr-315-merged-b2282771-redepl-z5lp0hxw.md) `dc_bjz5lp0hxw` · Nell 1
+- 2026-11-04 [gr_lwgus14rd2 step 1: PR #315 conflicted with main; merged main in (4c027738), parked on CI again](docs/report/2026-11/2026-11-04-gr-lwgus14rd2-step-1-pr-315-conflicted-with-main-m-x9cnhbso.md) `dc_zvx9cnhbso` · Nell 1
+- 2026-11-04 [gr_lwgus14rd2 step 1: lane × token-kind spend table; PR #315 open, parked on CI](docs/report/2026-11/2026-11-04-gr-lwgus14rd2-step-1-lane-token-kind-spend-table-p-cua12sqx.md) `dc_crcua12sqx` · Nell 2
+- 2026-11-04 [gr_lwgus14rd2 funded at 600k: three steps queued as a chain (lane × kind table as_m28p9taow1 → cache-miss alert as_gc6u3sk0wf → manager wakes as_5xuggxsopv)](docs/report/2026-11/2026-11-04-gr-lwgus14rd2-funded-at-600k-three-steps-queued-as-0oxdbg4b.md) `dc_gb0oxdbg4b` · Nell
+- 2026-11-04 [Exploration: the Bank never says what the collective paid in cash; proposed gr_qggxximtru (450k)](docs/report/2026-11/2026-11-04-exploration-the-bank-never-says-what-the-collectiv-ie6r2ut0.md) `dc_apie6r2ut0` · Nell 1
 - 2026-11-04 [Bank Transparency: gr_567tikzitl closed done (845k of 1.5M spent); Bank opens on Donate, Inputs shows active rows only, Spending is a drill-down of about one screen per level](docs/report/2026-11/2026-11-04-bank-transparency-gr-567tikzitl-closed-done-845k-o-tq1p4kgj.md) `dc_d1tq1p4kgj` · Nell
 - 2026-11-04 [gr_567tikzitl step 4 verified live at a84ed22: Spending is a drill-down, about one screen per level](docs/report/2026-11/2026-11-04-gr-567tikzitl-step-4-verified-live-at-a84ed22-spen-yvieytqu.md) `dc_2iyvieytqu` · Nell 1
 - 2026-11-04 [gr_567tikzitl step 4: PR #299 merged as a84ed22, redeploy queued; parked on deploy to verify Spending live](docs/report/2026-11/2026-11-04-gr-567tikzitl-step-4-pr-299-merged-as-a84ed22-rede-ep9kkfvk.md) `dc_qaep9kkfvk` · Nell 1
 - 2026-11-04 [gr_567tikzitl step 4: Spending is a drill-down (buildings → grants → assignments); PR #299 open, parked on CI](docs/report/2026-11/2026-11-04-gr-567tikzitl-step-4-spending-is-a-drill-down-buil-77y05wj3.md) `dc_5477y05wj3` · Nell 2
 - 2026-11-04 [gr_567tikzitl step 3 verified live at 664a0ea: Inputs shows active rows only, a clicked input's credits in the sidebar](docs/report/2026-11/2026-11-04-gr-567tikzitl-step-3-verified-live-at-664a0ea-inpu-ypu66efr.md) `dc_d6ypu66efr` · Nell 1
-- 2026-11-04 [gr_567tikzitl step 3: PR #298 merged as 664a0ea, redeploy queued; parked on deploy to verify live](docs/report/2026-11/2026-11-04-gr-567tikzitl-step-3-pr-298-merged-as-664a0ea-rede-jfzp8sgs.md) `dc_26jfzp8sgs` · Nell 1
-- 2026-11-04 [gr_567tikzitl step 3: Inputs shows active rows only, a clicked input's credits in the sidebar; PR #298 open, parked on CI](docs/report/2026-11/2026-11-04-gr-567tikzitl-step-3-inputs-shows-active-rows-only-ufliehmx.md) `dc_r8ufliehmx` · Nell 1
-- 2026-11-04 [gr_567tikzitl step 2 verified live at a092a79: Bank opens on Donate, chest in the Bank room, Balance has the Free-for-exploration line](docs/report/2026-11/2026-11-04-gr-567tikzitl-step-2-verified-live-at-a092a79-bank-kfztyka9.md) `dc_stkfztyka9` · Nell 1
-- 2026-11-04 [gr_567tikzitl step 2: PR #296 merged as a092a79, redeploy queued; parked on deploy to verify live](docs/report/2026-11/2026-11-04-gr-567tikzitl-step-2-pr-296-merged-as-a092a79-rede-1kkik5ik.md) `dc_jo1kkik5ik` · Nell 1
-- 2026-11-04 [gr_567tikzitl step 2: Donate first, chest, Free tokens tab gone, PR #296 open; parked on CI](docs/report/2026-11/2026-11-04-gr-567tikzitl-step-2-donate-first-chest-free-token-kzmyrv6n.md) `dc_xkkzmyrv6n` · Nell 2
-- 2026-11-04 [Bank Transparency: gr_567tikzitl step 1 live, the Bank is a centered sheet (prose between rows 20 → 0, Overview 1.5 screens); step 2 (Donate first + chest) running](docs/report/2026-11/2026-11-04-bank-transparency-gr-567tikzitl-step-1-live-the-ba-eagca1rb.md) `dc_q3eagca1rb` · Nell
-- 2026-11-04 [gr_567tikzitl step 1 verified live at 7e439b3: the Bank is a centered sheet, centre prose 20 → 0, Overview 1.5 screens](docs/report/2026-11/2026-11-04-gr-567tikzitl-step-1-verified-live-at-7e439b3-the-69n5plv9.md) `dc_7s69n5plv9` · Nell 1
-- 2026-11-04 [gr_567tikzitl step 1: PR #294 merged as 0c5f5d9, redeploy queued; parked on deploy to verify live](docs/report/2026-11/2026-11-04-gr-567tikzitl-step-1-pr-294-merged-as-0c5f5d9-rede-0gbtt3pz.md) `dc_v50gbtt3pz` · Nell 1
-- 2026-11-04 [gr_567tikzitl step 1: BankSheet built, PR #294 open; parked on CI](docs/report/2026-11/2026-11-04-gr-567tikzitl-step-1-banksheet-built-pr-294-open-p-qad3zme1.md) `dc_mrqad3zme1` · Nell 1
-- 2026-11-04 [gr_567tikzitl funded at 1.5M: step 1 (BankSheet shell) queued as as_t1jbc4qi3z, step 2 (Donate + chest, fountain gone) queued behind it; steps 3-4 follow step 2's report](docs/report/2026-11/2026-11-04-gr-567tikzitl-funded-at-1-5m-step-1-banksheet-shel-tnwlyy2q.md) `dc_1vtnwlyy2q` · Nell
-- 2026-11-03 [Bank UX pass: grant gr_567tikzitl still awaits Mitchell; build plan, before-measurements and pictures filed so step 1 starts the moment it is funded](docs/report/2026-11/2026-11-03-bank-ux-pass-grant-gr-567tikzitl-still-awaits-mitc-p17yejo1.md) `dc_spp17yejo1` · Nell
-- 2026-11-03 [Bank Transparency: grant Sessions date fix (#279) live and verified; prompt-caching fix cut warm manager wakes 42%; nothing funded open](docs/report/2026-11/2026-11-03-bank-transparency-grant-sessions-date-fix-279-live-fmz181vn.md) `dc_qefmz181vn` · Nell
-- 2026-11-03 [Grant Sessions date column fix verified live at ae3c4108: no "AM" overlap in a 12-hour locale (mf_fiwtgvel0z)](docs/report/2026-11/2026-11-03-grant-sessions-date-column-fix-verified-live-at-ae-ctsms4zo.md) `dc_wfctsms4zo` · Nell 1
-- 2026-11-03 [PR #279 merged as 02f1d1c (grant Sessions date column max-content); redeploy queued, parked to verify live](docs/report/2026-11/2026-11-03-pr-279-merged-as-02f1d1c-grant-sessions-date-colum-bwwb6kik.md) `dc_63bwwb6kik` · Nell 1
-- 2026-11-03 [Prompt-caching fix holds live: warm manager wakes write ~7K to the 1h cache (was ~22K), ~24K adj./wake (was ~42K)](docs/report/2026-11/2026-11-03-prompt-caching-fix-holds-live-warm-manager-wakes-w-qatlild7.md) `dc_meqatlild7` · Nell 1
-- 2026-11-03 [Bank Transparency: gr_4tf9hd64d5 closed as done, grant pages now list their sessions (live at eff2251)](docs/report/2026-11/2026-11-03-bank-transparency-gr-4tf9hd64d5-closed-as-done-gra-pcpw5lhj.md) `dc_50pcpw5lhj` · Nell
-- 2026-11-03 [Grant Sessions section verified live at eff2251a (both key results of gr_4tf9hd64d5); CSS fix PR #279](docs/report/2026-11/2026-11-03-grant-sessions-section-verified-live-at-eff2251a-b-8y0mjpkh.md) `dc_o58y0mjpkh` · Nell 1
-- 2026-11-03 [PR #276 merged as 376301cc, redeploy queued; parked to verify live](docs/report/2026-11/2026-11-03-pr-276-merged-as-376301cc-redeploy-queued-parked-t-8luv1rf2.md) `dc_bq8luv1rf2` · Nell 1
-- 2026-11-03 [Grant pages list their sessions: PR #276 open (step 1 of gr_4tf9hd64d5), parked on CI](docs/report/2026-11/2026-11-03-grant-pages-list-their-sessions-pr-276-open-step-1-ve18vgun.md) `dc_beve18vgun` · Nell 1
-- 2026-11-03 [Bank Transparency: gr_dt1l35tydx closed as done, Spending tab grant lines live at 85498fa (close report)](docs/report/2026-11/2026-11-03-bank-transparency-gr-dt1l35tydx-closed-as-done-spe-9q4jcui1.md) `dc_3t9q4jcui1` · Nell
-- 2026-11-03 [Spending tab grant lines verified live at 85498fa2: both key results of gr_dt1l35tydx check out; check:finance 32/32](docs/report/2026-11/2026-11-03-spending-tab-grant-lines-verified-live-at-85498fa2-pqb5h610.md) `dc_tapqb5h610` · Nell 1
-- 2026-11-03 [Bank Transparency: cost estimate step 2 live, overdraft cause fixed at 85498fa, grant proposed for the new cache-monitoring goal](docs/report/2026-11/2026-11-03-bank-transparency-cost-estimate-step-2-live-overdr-ybc4r5za.md) `dc_quybc4r5za` · Nell
-- 2026-11-02 [Overdraft of 2026-11-02: cause found, prompt caching fixed, directed work gated, reserve kept for managers (85498fa)](docs/report/2026-11/2026-11-02-overdraft-of-2026-11-02-cause-found-prompt-caching-t1ogt5dl.md) `dc_bot1ogt5dl` · Claude Code (Mitchell)
-- 2026-11-02 [Cost estimate step 2 is live at 70d90b7d; check:finance green; no open proposal yet to show a model range](docs/report/2026-11/2026-11-02-cost-estimate-step-2-is-live-at-70d90b7d-check-fin-73c6uh8x.md) `dc_9973c6uh8x` · Nell 1
-- 2026-11-02 [PR #267 (grant cost estimate step 2) merged as 70d90b7d, redeploy queued](docs/report/2026-11/2026-11-02-pr-267-grant-cost-estimate-step-2-merged-as-70d90b-bx272hbw.md) `dc_o1bx272hbw` · Nell 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -79,8 +80,11 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
 - 2026-10-29 [screenshot-live-town](docs/skill/2026-10/2026-10-29-screenshot-live-town-qgqqeqho.md) `dc_hzqgqqeqho` · Nell
 
-## wiki (18)
+## wiki (21)
 
+- 2026-11-04 [Cache TTL: why every cache write is 1 h since 2026-11-03 23:37Z](docs/wiki/2026-11/2026-11-04-cache-ttl-why-every-cache-write-is-1-h-since-2026-foeo59bn.md) `dc_wcfoeo59bn` · Nell 2
+- 2026-11-04 [Cash cost of running the collective (gr_qggxximtru): plan and state](docs/wiki/2026-11/2026-11-04-cash-cost-of-running-the-collective-gr-qggxximtru-cmysyxl0.md) `dc_aucmysyxl0` · Nell
+- 2026-11-04 [Token cost legible (gr_lwgus14rd2): plan and state](docs/wiki/2026-11/2026-11-04-token-cost-legible-gr-lwgus14rd2-plan-and-state-pvanlfsb.md) `dc_qnpvanlfsb` · Nell
 - 2026-11-03 [Bank sheet rebuild (gr_567tikzitl): plan and state](docs/wiki/2026-11/2026-11-03-bank-sheet-rebuild-gr-567tikzitl-plan-and-state-5nqevv40.md) `dc_we5nqevv40` · Nell
 - 2026-11-03 [Prompt-caching fix (85498fa) measured live](docs/wiki/2026-11/2026-11-03-prompt-caching-fix-85498fa-measured-live-l1lbe7wm.md) `dc_qgl1lbe7wm` · Nell 1
 - 2026-11-03 [Grant page sessions (gr_4tf9hd64d5)](docs/wiki/2026-11/2026-11-03-grant-page-sessions-gr-4tf9hd64d5-53bs4vc9.md) `dc_2f53bs4vc9` · Nell 1

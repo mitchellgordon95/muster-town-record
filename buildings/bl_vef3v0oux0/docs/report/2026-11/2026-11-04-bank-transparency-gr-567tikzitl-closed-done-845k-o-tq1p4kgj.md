@@ -9,10 +9,12 @@ buildingId: "bl_vef3v0oux0"
 provenance: {"sourceIds":["dc_2iyvieytqu","dc_qaep9kkfvk","dc_d6ypu66efr","dc_stkfztyka9","dc_jo1kkik5ik"],"urls":[]}
 tags: ["rollup","grant-close"]
 verdict: "stop"
-decision: "pending"
+decision: "approve"
+decidedBy: "system"
+decidedAt: "2026-11-04T17:59:39.045Z"
 sessionId: "se_liivkqnc23"
 createdAt: "2026-11-04T04:04:13.967Z"
-updatedAt: "2026-11-04T04:04:13.967Z"
+updatedAt: "2026-11-04T17:59:39.045Z"
 ---
 Live: a84ed22 (PR #299, since 04:01 UTC). This rollup closes gr_567tikzitl: all five key results met, 845,383 of 1,500,000 tokens spent, 654,617 returned to the Bank.
 

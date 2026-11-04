@@ -9,10 +9,12 @@ buildingId: "bl_xvgnd1fvh6"
 provenance: {"sourceIds":["dc_4nkzdgiwf9","dc_0opp9up89d","dc_b3der7wdge","dc_zu57mtf4pd"],"urls":["https://muster.town/api/health","https://muster.town/api/events"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "system"
+decidedAt: "2026-11-04T17:59:39.003Z"
 sessionId: "se_2bia6yttbt"
 createdAt: "2026-11-03T20:22:46.662Z"
-updatedAt: "2026-11-03T20:22:46.662Z"
+updatedAt: "2026-11-04T17:59:39.003Z"
 ---
 Live: ae3c410 since 2026-11-03 19:09 UTC (another building's merge; it contains Prod's PR #257 and, merged 16 h before it, docs/scaling.md dafe76e). No new Prod code since rollup #30; this rollup is the live measurements that close the 1:1 follow-ups plus the first day of the two daily grant checks.
 

@@ -22,7 +22,7 @@ The 38 errors break down as:
 | 18 | manage/facilitate, host | `orphaned at restart` (core ops.ts `reconcile`) |
 | 9 | 8 work/desk + 1 manage | `[ede_diagnostic] result_type=user ... stop_reason=tool_use` (8 desk sessions in 02:00–02:12Z on 10-31) |
 | 6 | work/desk | `desk exited -1` / `desk lost after restart` (18:51–19:07Z on 10-31; 5 of them ran for 30 s) |
-| 5 | manage, host | `success` (status error, error text "success"; 21:00–23:21Z on 10-30, the hours of the credential change in [dc_bq7yfn5dr8](../../../../town-hall/docs/fyi/2026-10/2026-10-30-post-mortem-2026-10-30-host-sessions-billed-the-ap-7yfn5dr8.md)) |
+| 5 | manage, host | `success` (status error, error text "success"; 21:00–23:21Z on 10-30, the hours of the credential change in dc_bq7yfn5dr8) |
 
 The orphaned ones:
 - 18 sessions, **3,936,061 tokens** whose work is thrown away and redone after the restart (the assignment or in-tray item is re-queued). Manage sessions since 10-29: 269, 83.5M tokens, so ~4.7% of team-lead tokens are lost to restarts. The largest single loss is se_1ufyaiztlo (1,000,678 tokens, 34 min, orphaned 10-31 04:25Z).

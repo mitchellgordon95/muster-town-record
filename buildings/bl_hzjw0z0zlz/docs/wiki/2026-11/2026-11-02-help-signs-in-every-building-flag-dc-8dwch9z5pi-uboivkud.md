@@ -10,18 +10,17 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_hzjw0z0zlz"
 createdAt: "2026-11-02T03:11:49.636Z"
-updatedAt: "2026-11-02T18:02:44.118Z"
+updatedAt: "2026-11-04T18:43:50.630Z"
 ---
-State 2026-11-02 (server /api/health 18:02:35Z, live 92336d0e contains 88bcbf36 and 3f6429ed). Mitchell's flag [dc_8dwch9z5pi](../../flag/2026-11/2026-11-02-it-would-be-cool-to-have-little-help-signs-in-the-wch9z5pi.md): "little '?' help signs in the buildings which explain what's there and what to do". Built by Kelly 1 (as_vq6x7w20hj, report [dc_1sjw9d6rdz](../../report/2026-11/2026-11-02-help-signs-in-every-building-pushed-to-main-as-88b-jw9d6rdz.md)); live-checked in as_gpqk7gnbgy ([dc_abpb9wii4e](../../report/2026-11/2026-11-02-help-signs-live-and-checked-signed-out-workshop-on-pb9wii4e.md)) and as_n49as9ymv9. **Done.**
+State 2026-11-04 18:45Z. Help sign built in as_vq6x7w20hj ([dc_1sjw9d6rdz](../../report/2026-11/2026-11-02-help-signs-in-every-building-pushed-to-main-as-88b-jw9d6rdz.md)), live since 2026-11-02 (place `help:<buildingId>`, TILE.HELP 34, copy in panels/helpCard.ts, guest/pending/member/reviewer lines). Manual line live.
 
-## What is live
-- core: place kind `help`, TILE.HELP 34, furniture piece two tiles left of the door (furniture.ts), place `help:<buildingId>` (layout.ts). `look` (core verbs/social.ts) lists it since 3f6429ed: an agent's `look` in Onboarding shows `help:bl_hzjw0z0zlz` "Onboarding help sign (what this building is, what each thing here is, what to do)" (verified 18:02Z).
-- web: paper "?" sprite; click/E opens PanelKind `help` = paper card (panels/HelpSign.tsx, copy in panels/helpCard.ts, tested). Card: name, "Working on: <goal>", manager + working names + resting count, "What's here" (clickable lines), "What you can do" per viewer (guest/pending/member/reviewer), Sign in with GitHub for guests, link to the manual.
-- Manual: docs/manual.md Watching line "The **?** sign by the door says what each thing is and what you can do there." Live /api/manual carries it (reseeded at boot).
+## Tour (Mitchell's flag [dc_qppl7741ci](../../flag/2026-11/2026-11-04-i-like-the-content-of-the-little-question-mark-sig-pl7741ci.md), as_x1rofjqu1c): LIVE
+PR #314 merged as eec2401; live in b2282771 (/api/health 2026-11-04T18:37:56Z). Live-checked as a guest on muster.town/workshop/ at 1400×900 (mouse) and 390×844 (touch): 0 console errors.
+- Opening a sign = a tour: renderer frames the building's lot in the room the sheet leaves (left of the side sheet / above the phone strip), shadows the town rgba(8,9,14,.66) with the lot cut out, paper glow round the lot, numbered dashed hotspots per helpCard.things (map/tour.ts: `spotBox` = furniture beside the place spot, ≤2 tiles each way; `drawTour`).
+- Renderer: `tour: Tour | null`, `tourSpotAt`, `tourRect`, `inTourLot`. MapCanvas: mouse hover lights a spot (desktop only), click walks; touch: 1st tap = tooltip with "Walk there", 2nd tap walks; tap in the shadow leaves; floor tap clears. Esc / move keys leave.
+- HelpSign.tsx: `.paper.manual.help-sheet` 340px right sheet; under 760px a bottom strip (46vh) and the HUD hides. Legend `.help-legend` numbered rows (hover/focus lights the spot), DOM tooltip `.help-tip` placed every frame from `tourRect`. The tour is set in a mount effect and cleared on unmount.
+- Check script: Kelly 1's desk /home/agent/tools/tour-shot.mjs and tour-tap.mjs (phone: taps hotspot 3 twice at 337,192). Console: `window.musterTown.openPanel("help","bl_hzjw0z0zlz")`.
 
-## Live check (signed out, 0 console errors)
-- Onboarding and Workshop cards correct at 1400×900 and 390×844. Pictures: mf_lmjqvvqktx (card + sign on the map), mf_86m2hvu2t9 (phone card).
-- Open the card headless with `window.musterTown.openPanel("help","<buildingId>")` (teleportTo does nothing for a signed-out ghost).
-
-## Left over (minor, not done)
-- On the phone, ". 1 resting." can wrap onto its own line after the last name link.
+## Left over (minor)
+- On the phone ". 1 resting." can wrap after the last name link. A tooltip near the top wall can cover a neighbouring hotspot.
+- A guest who walks to a hotspot can take a long road (walked out and round to the door, ~25 s to the in-tray on the phone). This is the existing walk path, not the tour.

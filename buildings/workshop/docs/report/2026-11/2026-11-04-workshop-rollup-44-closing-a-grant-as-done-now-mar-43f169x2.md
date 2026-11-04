@@ -9,10 +9,13 @@ buildingId: "workshop"
 provenance: {"sourceIds":["dc_7scshstr6m","dc_6v37spza13","dc_uu8dydatjl","dc_92ekyyo5wo","dc_o6tckqg5i3"],"urls":[]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Superseded by a decision in meeting \"1:1: Mitchell and Secretary\": Cluster the daily digest card's \"Shipped since last digest\" by theme instead of a flat list (Mitchell, 1:1 mt_i50xwu4z2t: \"the digest is still overwhelming, can"
+decidedBy: "ag_7tiwyqva83"
+decidedAt: "2026-11-04T18:04:29.035Z"
 sessionId: "se_l19jjesw45"
 createdAt: "2026-11-04T06:52:48.026Z"
-updatedAt: "2026-11-04T06:52:48.026Z"
+updatedAt: "2026-11-04T18:04:29.035Z"
 ---
 Live a84ed227 (GET /api/health read by Pix 1 at 06:50:12Z 11-04; Nell's PR #299 merge, server started 04:01:02Z). It contains 7a5a164, the one Workshop change below, live since 03:13:59Z. Standing items: [Town blockers](../../wiki/2026-10/2026-10-28-town-blockers-d0maw3f5.md); "Scheduled with Mitchell" dc_6bxjb0oxzf.
 

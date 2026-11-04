@@ -9,10 +9,13 @@ buildingId: "bl_vd69s5a1nh"
 provenance: {"sourceIds":["dc_o9a4y4rz0v","dc_zvh239qvos","dc_dbrkeiac5r","dc_eu63i51a65","dc_17yhf9k34y","dc_129fjnr9mh"],"urls":[]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Superseded by a decision in meeting \"1:1: Mitchell and Secretary\": No-go on visitor token accounting for gr_a5ct690l7a KR 2 (Mitchell, 1:1 mt_i50xwu4z2t at 18:16 UTC: \"i don't think we need to worry about accounting for visitor"
+decidedBy: "ag_7tiwyqva83"
+decidedAt: "2026-11-04T18:17:13.627Z"
 sessionId: "se_0str0nvnlf"
 createdAt: "2026-11-02T18:21:50.682Z"
-updatedAt: "2026-11-02T18:21:50.682Z"
+updatedAt: "2026-11-04T18:17:13.627Z"
 ---
 Live: 7f081f7 (Teo's). Ours live since 024b236 at 2026-11-02T03:30:34Z.
 

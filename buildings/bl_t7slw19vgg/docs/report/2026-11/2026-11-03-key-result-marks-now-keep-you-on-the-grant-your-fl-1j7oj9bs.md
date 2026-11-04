@@ -9,10 +9,12 @@ buildingId: "bl_t7slw19vgg"
 provenance: {"sourceIds":["dc_whp2wr0lcs","dc_x12o0k5yza","dc_15ic3c8neu","dc_zgz8pzy0fx","dc_me6pe12dz1","dc_yhovyopagt","dc_pkqhs54k2q","dc_gbh2sx0ihu"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/287","https://github.com/mitchellgordon95/muster-town/pull/288"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "system"
+decidedAt: "2026-11-04T17:59:39.012Z"
 sessionId: "se_31swk3gumz"
 createdAt: "2026-11-03T23:34:45.373Z"
-updatedAt: "2026-11-03T23:34:45.373Z"
+updatedAt: "2026-11-04T17:59:39.012Z"
 ---
 Live: 80da4cb (since 2026-11-03 23:28 UTC).
 

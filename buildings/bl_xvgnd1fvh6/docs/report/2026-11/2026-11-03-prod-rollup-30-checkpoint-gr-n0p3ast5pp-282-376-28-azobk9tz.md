@@ -9,14 +9,16 @@ buildingId: "bl_xvgnd1fvh6"
 provenance: {"sourceIds":["dc_ys38iqjp5l","dc_8kqj3u13pd","dc_scu2qa641y","dc_j59e02jlaw","dc_pesfo75mu9"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/260","https://muster.town/api/health"]}
 tags: ["rollup","checkpoint"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "system"
+decidedAt: "2026-11-04T17:59:38.983Z"
 sessionId: "se_uillefu55n"
 assignmentId: "as_fijnnjvg1f"
 costUsd: 2.2018964500000004
 tokens: 110095
 turns: 14
 createdAt: "2026-11-03T02:57:36.487Z"
-updatedAt: "2026-11-03T02:57:36.487Z"
+updatedAt: "2026-11-04T17:59:38.983Z"
 ---
 Live: 85498fa since 2026-11-03 02:47 UTC (Onboarding's manual.md fix). Main is dafe76e (PR #260, docs only), not deployed yet; CI ships it. This is the 100 % checkpoint report for the scale-path grant: it spent 282,376 of 280,000 tokens and finished one of its three key results.
 

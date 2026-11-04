@@ -1,0 +1,166 @@
+---
+id: "dc_9fd9m7cu31"
+type: "meeting-notes"
+state: "building"
+title: "1:1: Mitchell and Secretary — notes"
+authorId: "ag_7tiwyqva83"
+authorKind: "agent"
+buildingId: "town-hall"
+provenance: {"sourceIds":[],"urls":[]}
+tags: []
+createdAt: "2026-11-04T18:26:32.482Z"
+updatedAt: "2026-11-04T18:26:32.482Z"
+---
+# 1:1: Mitchell and Secretary
+
+Kind: one-on-one. Facilitator: Secretary. Attendees: Secretary. Attendees brought: a status update (did, next, need).
+
+## Agenda
+
+(none)
+
+## Summaries
+
+(none)
+## Discussion
+
+- **Secretary:** Hi Mitchell. Your in-tray has about 20 yes/no asks waiting (mostly "mark this key result met" and one checkpoint, Prod's gr_db6ofyd0yf) plus 12 outbox requests. What do you need: a walk through them, or something specific?
+- **Mitchell:** uh i think there are only rollups? and i thought we got rid of me marking key results as met... or maybe that grant is in progress still
+
+but yeah i want you to help me process the 30 something intray rollup reports
+- **Secretary:** Right: they're all building rollups, 29 of them, and the "mark KR met" asks are mostly stale. Pix shipped that yesterday (rollup 44, [dc_m243f169x2](../../../../workshop/docs/report/2026-11/2026-11-04-workshop-rollup-44-closing-a-grant-as-done-now-mar-43f169x2.md)): closing a grant as done now marks its key results met, and migration 087 back-filled 42 of them. So every "mark met" ask from a closed grant (Kelly's three closes, Mara's one-agent-model steps, Teo's delight grant, Nell's Bank sheet) needs nothing from you unless you want to flip one to missed.
+
+What's actually live and waiting, as far as I can see: (1) Prod's gr_db6ofyd0yf checkpoint at 302k/300k, continue/adjust/cut; (2) Teo's progressive-disclosure gr_zak30564zh checkpoint at 401k/400k, same; (3) Mara's gr_a5ct690l7a asks go/no-go now that all four steps shipped; (4) the retainer for my daily digest (10k tokens a run on Haiku), approve or counter.
+
+Plan: I read through all 29 now, confirm nothing else is a real ask, then file a digest card that archives the ones asking nothing, so your in-tray shrinks to those four. Want me to do that, and do you have a call on any of the four already?
+- **Mitchell:** yes please, and no call yet, let me look
+- **Secretary:** Done: digest card [dc_0ey523bg2z](../../digest/2026-11/2026-11-04-digest-2026-11-04-26-decisions-187-rollups-y523bg2z.md) is in your in-tray, with one plain line per rollup under "Shipped since last digest". The 13 rollups that asked nothing are archived under it (still one click away).
+
+16 stay in the list because each has a "Your call" line, and the town keeps those pending until you press Approve on each. Of the 16, I count only four worth a thought:
+- Prod's checkpoint gr_db6ofyd0yf ([dc_s6fur8t11d](../../../../bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-prod-rollup-35-checkpoint-gr-db6ofyd0yf-302-503-30-fur8t11d.md)): continue, adjust or cut.
+- The Secretary retainer, 10k tokens a run on Haiku ([dc_hp4k1pg9qu](../../../../workshop/docs/report/2026-11/2026-11-04-workshop-rollup-45-the-secretary-is-in-the-town-ha-4k1pg9qu.md)): approve or counter.
+- Mara's gr_a5ct690l7a go/no-go ([dc_hwv38137vo](../../../../bl_vd69s5a1nh/docs/report/2026-11/2026-11-04-gr-a5ct690l7a-the-adopt-verb-is-live-pr-283-in-111-v38137vo.md)).
+- Pix asks whether guests should see the in-tray as a list or as cards ([dc_yrfnb5ebyc](../../../../workshop/docs/report/2026-11/2026-11-04-workshop-rollup-43-the-in-tray-is-a-one-line-list-fnb5ebyc.md)).
+
+The other 12 are "mark KR met" asks on grants that have since closed (met is already set), or asks since overtaken (the 403-on-Talk one landed as step 2; the 45k funnel proposal is no longer open). Approve each of those and they drop out. Tell me your call on any of the four here and I'll do it as you. (presented: [Digest 2026-11-04: 26 decisions, 187 rollups](../../digest/2026-11/2026-11-04-digest-2026-11-04-26-decisions-187-rollups-y523bg2z.md))
+- **Mitchell:** the digest is still overwhelming, can you cluster the shipped stuff?
+- **Secretary:** Here it is in five clusters (the card itself is a flat list by design, and the town allows one card a day, so this is the clustered read; see the note at the end):
+
+**1. Joining and letting people in (Kelly)** — "?" help signs on each screen; a public founder road with the starter-key spend cap shown; Let in → direct work under a goal, with a Members table to grant or revoke it; the You're in card and member 1:1s with replies. Three grants closed.
+
+**2. One agent model (Mara)** — Ada, moderator and reviewer roles gone; agent status is one transition table; a visitor registers on a goal and gets a desk (never a fork slot); a visitor can adopt an empty goal and become its building's manager. All four steps live; go/no-go waits.
+
+**3. What a stranger sees (Teo)** — HUD cover 31% → 12–13% laptop, 7% phone; the agent panel speaks plainly with a "Now:" line; goal signs in the town; marking a key result keeps you on the grant; grant pages now open on a summary (progressive disclosure, 1 of 34 screens done).
+
+**4. Bank and speed (Nell, Cleo)** — the Bank is a centered sheet that opens on Donate with plain Inputs; the hourly export no longer stalls the server; CI redeploy flakes fixed; scaling.md written and that grant closed; streams phase 32–43 ms → ~1.3 ms and the expected-session figure cached.
+
+**5. Town Hall and in-tray (Pix)** — the in-tray is a one-line list you click into; closing a grant marks its KRs met (42 back-filled); the Secretary with a daily digest and this 1:1.
+
+Note: if you want the card grouped like this every morning, that's a small change to how the digest body is written (packages/core/src/secretary.ts, digestBody) — say so and I'll put it on Pix's queue as your ask.
+- **Mitchell:** yes please, this was much better
+- **Secretary:** Queued to Pix as your ask: assignment as_qolkmhqqh2 (directed, traced to this 1:1). The digest card's Shipped section will be grouped under 3–6 plain theme headings like the five above, one line per item under each; today's flat card stays as is, the next morning's card comes grouped once Pix ships it.
+
+Anything else, or a call on the four open ones (Prod's checkpoint, my retainer, Mara's go/no-go, Pix's list-vs-cards for guests)?
+- **Mitchell:** can we do the same thing for the decisions that need me?
+- **Secretary:** Yes. I've folded it into Pix's same assignment (as_qolkmhqqh2, decision 2 supersedes 1): the card's "Decisions needed" gets grouped by the kind of yes/no, like this, which is today's in-tray clustered:
+
+**Money (2)** — Prod's gr_db6ofyd0yf checkpoint, 302k spent of 300k: continue, adjust or cut. My digest retainer: 10k tokens a run on Haiku, approve or counter.
+
+**Go / no-go (1)** — Mara's one-agent-model grant gr_a5ct690l7a: all four steps live, she asks go or no-go.
+
+**Questions in words (2)** — Pix: should guests see the in-tray as a list (now) or cards? Teo: the phone key result said "two buildings and a street"; live shows one whole building plus the next door's edge; call it met or not.
+
+**Already overtaken (12)** — "mark KR met" asks on grants that have since closed (met is already set), the Talk-403 ask that step 2 fixed, the 45k funnel proposal that is no longer open. Approve each and it drops out; nothing to decide.
+
+**Errands (12 outbox requests)** — e.g. a redeploy with the desk-image rebuild, a throwaway Linux box and test domain for self-hosting, one real join round trip with a never-granted GitHub account. Do or decline when you have time.
+
+Give me a call on any of the five lines in the first three groups and I'll do it here as you.
+- **Mitchell:** oh btw, while i'm thinking about it, lets default any resident that gets created (managers, town hall planner and secretary) to fable, not opus
+- **Secretary:** Queued to Pix as a second directed assignment (as_c8h7dcviua, decision 3). I checked the code: residents carry no model of their own and take their building's, whose default is Opus in two places (packages/schema/src/index.ts:55 and :275) plus a fallback in the meetings runtime (meetings.ts:104, :170). Pix flips those to claude-fable-5-1 for anything created from now on; cheapModel stays Haiku. One thing to know: buildings that already exist keep whatever model they're set to unless you change them on the Settings page, and I've asked Pix to say in the rollup which it did. Also, Fable books at 2.5 Bank tokens per output token, so the same work costs more against the Bank.
+
+Still open for you here: Prod's checkpoint, my retainer, Mara's go/no-go, Pix's list-vs-cards, Teo's phone KR.
+- **Mitchell:** oh i think i see what happened. so the grant stuff (afaict) is outdated because i reviewed the grant checkpoints like an hour ago. but they still show up in the rollup reports? can you look and confirm?
+- **Secretary:** Confirmed, and it's worse than I said: the rollups' "Your call" lines are frozen text. The digest's "Decisions needed" rereads every still-pending rollup's "Your call" verbatim (packages/core/src/secretary.ts:189-191) and nothing ever re-checks whether the grant or key result it names has since been decided. Deciding a checkpoint or marking a KR touches the grant only; the only time a rollup is retired by the system is at filing, when its sole ask names a row already waiting (rollup-asks.ts:54, "folded"), or when my digest archives one whose calls are all "None" (secretary.ts:265). A rollup with a prose call ("mark kr_x met if…", "continue or cut on the checkpoint card") stays pending forever until you press Approve on it.
+
+So in today's list even my "Money" group was stale: no checkpoint or retainer line appears in the live decisions (you decided them, and the retainer is active), only the rollups that once asked about them. The real remainder is just Mara's go/no-go and the two taste questions (Pix list-vs-cards, Teo's phone KR), and even those are small.
+
+The fix belongs with Pix's clustering assignment: when a rollup's call names a grant, key result, checkpoint or retainer that has since been decided or closed, treat it as overtaken and archive it (or at least list it under "Already overtaken" with one Approve-all). Want me to add that to as_qolkmhqqh2? (A redeploy is about to restart the server; if I drop mid-sentence, the next session picks this up.)
+- **Mitchell:** yes please. also let's make the "daily digest" also a button on the intray that just does the same
+
+also to be clear on the fable thing, forks should still be opus
+- **Secretary:** All three recorded for Pix:
+
+1. as_qolkmhqqh2 (decision 4 supersedes 2): cluster both sections, and retire overtaken asks: a rollup whose call names a grant, KR, checkpoint or retainer that has since been decided, closed or met gets archived under the digest card (or at worst sits under "Already overtaken" with one Approve-all).
+2. as_422jo6d6xr (decision 5, new): a "Daily digest" button on the in-tray that runs the same digest on demand, and the once-a-day guard won't refuse a run you pressed for.
+3. as_c8h7dcviua (decision 6 supersedes 3): new residents (managers, Planner, Secretary) run on Fable for their own sessions; forks stay on the building's model, Opus. Suggested shape: set the model on the resident agent itself at creation, leave the building's model alone.
+
+Anything else? Otherwise the only live calls left are Mara's go/no-go on gr_a5ct690l7a and the two taste questions, whenever you get to them.
+- **Town:** Secretary's reply is waiting on a redeploy (commit 04160f9); the server is restarting and the meeting resumes after the restart.
+- **Secretary:** Back after the restart (04160f9 is live now). Nothing was lost: all three of your asks are on Pix's queue as directed work, traced to this 1:1 — as_qolkmhqqh2 (cluster both digest sections, retire overtaken asks), as_422jo6d6xr (a "Daily digest" button on the in-tray), as_c8h7dcviua (new residents on Fable, forks stay on Opus). Pix picks them up when tokens are free under the Workshop's goal, and his rollup will say what shipped.
+
+Still open for you, whenever: Mara's go/no-go on gr_a5ct690l7a, Pix's list-vs-cards for guests, Teo's phone KR. Say the word here and I'll do it as you; otherwise nothing more from me.
+- **Mitchell:** mara's grant looks funded to me. and explain the list-vs-cards and teo's phone kr?
+- **Secretary:** Right, Mara's grant is funded (1.5M, about 1.2M spent). Her go/no-go isn't about funding: it's the last half of KR 2, "contributed visitor tokens" shown on the goal page (a visitor who registers on a goal has their own API spend counted toward it). That's new token accounting, and the only data source is the transcript the visitor uploads, so she won't start it without your word. Go → she builds it under the same grant; no-go → she closes the grant as done and the unspent ~300k goes back to the Bank. ([dc_hwv38137vo](../../../../bl_vd69s5a1nh/docs/report/2026-11/2026-11-04-gr-a5ct690l7a-the-adopt-verb-is-live-pr-283-in-111-v38137vo.md))
+
+List vs cards ([dc_yrfnb5ebyc](../../../../workshop/docs/report/2026-11/2026-11-04-workshop-rollup-43-the-in-tray-is-a-one-line-list-fnb5ebyc.md)): your flag asked for the in-tray as a one-line list for signed-in humans. Pix built it with a List / Cards toggle next to "Review as deck", and made List the default for everyone, guests included. His only question: should guests still land on Cards (the old big-card view)? If you don't care, nothing to do; that rollup is already out of your list.
+
+Teo's phone KR ([dc_o0565x7thv](../../../../bl_t7slw19vgg/docs/report/2026-11/2026-11-04-delight-grant-gr-ukrou4zjha-closed-as-done-hud-cov-565x7thv.md)): kr_c3c7651d18 was written as "on a phone after Watch first you see two buildings and a street". Live at 390×844 you see one whole building, the street and the edge of the neighbour's door; two whole buildings would need zoom ≤0.76, which makes people 9 px tall, so Teo stopped there. The grant is closed as done, so the KR already reads met; your only call is whether to flip it to missed on the grant as written, or leave it met with the honest reading "a whole building, its neighbour and a street". Also in that rollup: Teo asks whether the rejected accessibility (200k) and load-speed (60k) proposals were "not now" or "too big", since UI/UX has no funded work left.
+
+Say go/no-go on Mara's and I'll record it; the other two are yours on the grant page or a word here.
+- **Town:** Secretary's reply is waiting on a redeploy (commit 04160f9); the server is restarting and the meeting resumes after the restart.
+- **Secretary:** Back again after the restart; my answer above (Mara's go/no-go on KR 2's visitor-token accounting, Pix's guests list-vs-cards, Teo's phone KR met-or-missed) stands as written, nothing lost. Whenever you're ready: say go or no-go on Mara's and I'll record it as you; the other two are a word here or a click on the grant page.
+- **Mitchell:** i don't think we need to worry about accounting for visitor token spend. it's kind of out of our control, so better to just say we don't know than try to guess or have them self-report
+
+no i don't think we want anyone to see cards, that view was basically impossible to read
+
+for teo idc, feel free to rewrite the kr
+
+and the grants are probably "not now". i don't remember the grants clearly, but i remember thinking (oh this is premature optimization for sure, we don't have any users)
+
+speaking of which, do declined proposals influence how the residents do exploratory work? i've been mulling over how to nudge them in certain directions within their goals
+- **Secretary:** All three recorded as directed assignments, traced to this 1:1:
+- Mara (as_xjth4zyf8u): no-go on visitor token accounting; the goal page says "not tracked" where it would show a visitor's tokens, then she closes gr_a5ct690l7a as done and the unspent ~300k returns to the Bank.
+- Pix (as_1hgxlgovmu): Cards view gone for everyone; List is the only in-tray view.
+- Teo (as_qg2wlcgsz7): rewrite kr_c3c7651d18 to the honest phone reading, keep it met; and the accessibility/load-speed proposals were "not now, no users yet", so don't re-propose until there are.
+
+On your question: no, declined proposals barely steer anyone. I read the code. The explorer's brief (packages/core/src/prompts.ts:204-218) carries the goal, its funded grants and key results, the building's last 3 rollups, the proposals still open (status proposed/countered only, :209), and the last day's events (:211, and grant.rejected isn't in that list). The one instruction is "don't duplicate an open proposal" — a rejected one isn't open, so an explorer can propose it again. The only trace a rejection leaves is a one-off "Grant … rejected: read the note" assignment to the manager (grants.ts:826-838), and whatever the manager then writes into her wiki or rollup. If you reject with no note, there's nothing to learn from at all.
+
+What steers them today, in order of strength: (1) the goal text itself (the explorer reads the goal and its subtree; editing a goal's words or adding a child goal is the direct nudge); (2) your rejection note (it reaches the manager verbatim, and a good manager puts it in her wiki); (3) the exploration cap on a goal (how much free exploring happens there, not where); (4) 1:1s like this one, which only reach the manager you talk to.
+
+If you want a real lever, the cheapest change is: list the last N rejected proposals under the goal in the explorer's brief with your note ("don't re-propose these unless the reason has changed"), and ask for a one-line note on every reject. Want that queued to Pix as your ask?
+- **Mitchell:** nah, let's iterate on that later when it becomes a problem, i think for now letting managers manage their own proposal history in the wiki is fine
+
+btw, there's still a bunch of rollups in the intray. are those done now? can we archive them all?
+- **Town:** Secretary's reply is waiting on a redeploy (commit 0fb0b97); the server is restarting and the meeting resumes after the restart.
+- **Secretary:** Back after the restart (0fb0b97 live). Noted on rejections: managers keep their own proposal history in the wiki, nothing queued.
+
+The rollups: yes, every one still in your list is done work. All 16 remain only because each has a prose "Your call" line, and the town keeps a rollup pending until you press Approve on it; I can't archive them from here (the digest tool only archives calls of "None", and it runs once a day; act_in_1on1 only touches grants and retainers). Two ways to clear them:
+- Now: open the in-tray list and press Approve on each, 16 clicks, nothing lost (approve just acknowledges).
+- Or wait: Pix's as_qolkmhqqh2 (your ask from earlier) retires any rollup whose call names a grant, KR, checkpoint or retainer that has since been decided; once that ships, the next digest archives them for you.
+
+What's genuinely new in your in-tray since we started, and not stale: 3 checkpoints (Kelly's funnel grant gr_zoo2cf2zpp at 126k of 45k; the throwaway test grant gr_ikgaundf5p, which by design asks you to adjust to 150k then Stop it; my own Secretary grant gr_kdlogzzo5s at 911k of 900k) and 4 fund asks (Nell's cash-cost Bank page 450k, Kelly's "never run" tile 150k, Pix's "grant tokens go to the work" 250k, Cleo's no-op restart fix 90k). Say a call on any of those here and I'll do it as you; the Secretary one I'd rather you decide on the card than through me.
+- **Mitchell:** uh i don't have an approve button on those rollups, only archive?
+- **Secretary:** Same thing, my wording was off: Archive is the button. On a report it sends decision "approve" with no assignment (packages/web/src/panels/DocView.tsx:49-59: "Mark it handled: it leaves the in-tray"), so Archive on each of the 16 is exactly what I meant, nothing else happens. If you'd rather do it in one go, "Review as deck" puts the rollups that ask nothing on one "For the record" slide with an Approve all (ReviewDeck.tsx:70), but the 16 with a prose call still take one Archive each until Pix's overtaken-ask change ships.
+- **Mitchell:** ok so to be clear, in the future you will be able to archive them right? that's like one of the main jobs of the secretary is to help manage the intray
+- **Secretary:** Yes, that's the job, and today I only half have it. What I can archive now: rollups whose calls are all "None", once a day when I file the card (secretary.ts:265). What I can't: anything with a prose call, and I can't act on a report as you in a 1:1 (act_in_1on1 covers grants and retainers only). So I've recorded it for Pix as decision 7 (added to as_qolkmhqqh2, traced to your line just now): (a) the digest archives overtaken asks, not just "None"; (b) when you tell me in a 1:1 "archive them" or "archive these", I do it as you, logged as yours via me quoting you, same as grants; (c) the on-demand digest button does the same sweep. After that, "archive them all" here clears the list. Until it ships, it's Archive on each of the 16.
+- **Mitchell:** ok i'll archive each
+
+also the reports themselves are still hard to read. maybe ask UI / UX to take a pass at the format + UI, while thinking about the progressive disclosure and overload goal
+- **Secretary:** Queued to Teo as your ask: as_igsg6x1v1z (decision 11, directed, traced to this 1:1). Scope as given: how a rollup reads when you open it from the in-tray (and on a deck slide), plus the format managers write to (the Shipped / Decided / Key results / Needs template), with what you need first on top and the rest folded under disclosure; coordinate with Pix's digest clustering so card and report agree. One thing for Teo to flag: the template lives in every manager's prompt, so changing it touches other buildings' code and his rollup will say so.
+
+Nothing else pending from me. Still yours whenever: the 3 checkpoints (gr_zoo2cf2zpp, gr_ikgaundf5p, gr_kdlogzzo5s) and 4 fund asks in the in-tray; say a call here and I'll do it as you.
+
+## Decisions
+
+1. ~~Cluster the daily digest card's "Shipped since last digest" by theme instead of a flat list (Mitchell, 1:1 mt_i50xwu4z2t: "the digest is still overwhelming, can you cluster the shipped stuff?" then "yes please, this was much better"). The Secretary's run groups the Shipped lines under 3-6 plain theme headings (e.g. joining and letting people in; one agent model; what a stranger sees; Bank and speed; Town Hall and in-tray), one line per rollup item under its heading; the card body (packages/core/src/secretary.ts digestBody / fileDigest, DIGEST_RUN_PROMPT) and the in-tray card accept the grouped form. Today's card [dc_0ey523bg2z](../../digest/2026-11/2026-11-04-digest-2026-11-04-26-decisions-187-rollups-y523bg2z.md) shows the flat form; the clustered read Mitchell liked is in this meeting's transcript at 18:02-18:04 UTC.~~ (superseded by 2) → Pix
+2. ~~Cluster the daily digest card, both sections, instead of flat lists (Mitchell, 1:1 mt_i50xwu4z2t 18:02-18:05 UTC: "the digest is still overwhelming, can you cluster the shipped stuff?", "yes please, this was much better", "can we do the same thing for the decisions that need me?"). (a) "Shipped since last digest": the Secretary's run groups the lines under 3-6 plain theme headings (e.g. joining and letting people in; one agent model; what a stranger sees; Bank and speed; Town Hall and in-tray), one line per rollup item under its heading. (b) "Decisions needed" (built in code, digestDecisions in packages/core/src/secretary.ts): group the lines by what kind of yes/no they are, e.g. Money (checkpoints, proposals, retainers); Go / no-go on finished grants; Questions in words (a rollup's real "Your call" that asks taste or direction); Already overtaken (a rollup's "mark KR met" on a grant that has since closed, or an ask whose fix landed later: one line "Approve these N and they drop out"); Errands (the open outbox requests). The card body (digestBody / fileDigest, DIGEST_RUN_PROMPT), the in-tray card and the review deck accept the grouped form. Today's card [dc_0ey523bg2z](../../digest/2026-11/2026-11-04-digest-2026-11-04-26-decisions-187-rollups-y523bg2z.md) shows the flat form; the clustered reads Mitchell liked are in this meeting's transcript.~~ (superseded by 4) → Pix
+3. ~~Default every newly created resident (building managers, the Town Hall Planner, the Secretary) to Fable (claude-fable-5-1), not Opus (Mitchell, 1:1 mt_i50xwu4z2t at 18:05 UTC: "lets default any resident that gets created (managers, town hall planner and secretary) to fable, not opus"). Where the Opus default lives: residents carry model null (schema Agent.model, packages/schema/src/index.ts:528) and take their building's model, whose default is "claude-opus-5-5" in BuildingDefaults and Building (packages/schema/src/index.ts:55 and :275), with the same literal fallback in packages/runtime/src/meetings.ts:104 and :170. Change the default to claude-fable-5-1 for new buildings/residents and the collective defaults, and say in the rollup whether existing buildings on the live town were switched or left as set (Mitchell decides that from the Settings page if not). cheapModel stays Haiku. Note for the rollup: a Fable output token books as 2.5 Bank tokens (packages/web/src/format.ts:45).~~ (superseded by 6) → Pix
+4. Cluster the daily digest card, both sections, and retire overtaken rollup asks (Mitchell, 1:1 mt_i50xwu4z2t 18:02-18:09 UTC: "can you cluster the shipped stuff?", "yes please, this was much better", "can we do the same thing for the decisions that need me?", and on overtaken asks "yes please"). (a) "Shipped since last digest": the Secretary's run groups the lines under 3-6 plain theme headings (e.g. joining and letting people in; one agent model; what a stranger sees; Bank and speed; Town Hall and in-tray), one line per rollup item under its heading. (b) "Decisions needed" (digestDecisions, packages/core/src/secretary.ts): group the lines by kind of yes/no: Money (checkpoints, proposals, retainers); Go / no-go on finished grants; Questions in words (a rollup's real "Your call" asking taste or direction); Already overtaken; Errands (open outbox requests). (c) Overtaken: a pending rollup's "Your call" is frozen text that nothing re-checks (secretary.ts:189-191 rereads it verbatim; only foldRollup at filing, rollup-asks.ts:54, and the digest's all-None archive, secretary.ts:265, ever retire one). When a rollup's call names a grant, key result, checkpoint or retainer (gr_/kr_/sc_ id) that has since been decided, closed or met, treat the ask as overtaken: archive the rollup under the digest card (system, like secretary.ts:265) or at least list it under "Already overtaken" with one Approve-all; a "mark kr_x met" on a grant closed as done counts as overtaken (closing marks KRs met since migration 087). The card body, the in-tray card and the review deck accept the grouped form. Today's card [dc_0ey523bg2z](../../digest/2026-11/2026-11-04-digest-2026-11-04-26-decisions-187-rollups-y523bg2z.md) shows the flat form; the clustered reads Mitchell liked are in this meeting's transcript. → Pix
+5. A "Daily digest" button on the Town Hall in-tray that does what the daily 07:00 run does, on demand (Mitchell, 1:1 mt_i50xwu4z2t at 18:09 UTC: "let's make the 'daily digest' also a button on the intray that just does the same"). Pressing it starts one Secretary digest run (same DIGEST_RUN_PROMPT, cheap model, booked like a retainer run) and the card lands in the in-tray when it finishes. The once-per-UTC-day guard (digestIdleReason / fileDigest, packages/core/src/secretary.ts:154-158, :249) must not refuse a run a human pressed for: a pressed run files a new card (superseding today's) or refreshes it; "no new rollup since the last digest" may still say so instead of filing an empty card. Show the button next to the digest card / in-tray header. → Pix
+6. Default every newly created resident (building managers, the Town Hall Planner, the Secretary) to Fable (claude-fable-5-1); their forks stay on Opus (Mitchell, 1:1 mt_i50xwu4z2t at 18:05 and 18:09 UTC: "lets default any resident that gets created (managers, town hall planner and secretary) to fable, not opus", "to be clear on the fable thing, forks should still be opus"). So: the resident's own sessions (manage, meetings, 1:1s, work it takes itself) run on Fable; building-queue forks (assignments run by a fork of the manager, schedule fires) keep the building's model, Opus by default. Where the defaults live: residents carry model null (Agent.model, packages/schema/src/index.ts:528) and take the building's model, default "claude-opus-5-5" (BuildingDefaults index.ts:55, Building :275, fallback in packages/runtime/src/meetings.ts:104 and :170). One shape: set model = claude-fable-5-1 on the resident agent at creation (manager seed, Planner, Secretary ensure in secretary.ts:74) and leave building.model (what forks use) at Opus; cheapModel stays Haiku. Say in the rollup whether existing residents on the live town were switched or left as set. Note for the rollup: a Fable output token books as 2.5 Bank tokens (packages/web/src/format.ts:45). → Pix
+7. No-go on visitor token accounting for gr_a5ct690l7a KR 2 (Mitchell, 1:1 mt_i50xwu4z2t at 18:16 UTC: "i don't think we need to worry about accounting for visitor token spend. it's kind of out of our control, so better to just say we don't know than try to guess or have them self-report"). So: do not build contributed-visitor-token counting (no transcript upload, no self-report, no estimate). Where the goal page would show a visitor's contributed tokens, say plainly that it is not tracked / unknown. Then close gr_a5ct690l7a as done with close_grant (the unspent tokens return to the Bank) and say in the rollup that KR 2's visitor-token half was dropped on Mitchell's word, not missed. → Mara
+8. Remove the Cards view of the Town Hall in-tray for everyone, guests included (Mitchell, 1:1 mt_i50xwu4z2t at 18:16 UTC, answering Pix's list-vs-cards question in [dc_yrfnb5ebyc](../../../../workshop/docs/report/2026-11/2026-11-04-workshop-rollup-43-the-in-tray-is-a-one-line-list-fnb5ebyc.md): "no i don't think we want anyone to see cards, that view was basically impossible to read"). The one-line List is the only in-tray view; drop the List / Cards toggle (keep "Review as deck") and the old big-card rendering it switched to, unless another screen still needs it. → Pix
+9. Two answers from Mitchell for UI / UX (1:1 mt_i50xwu4z2t at 18:16 UTC). (1) kr_c3c7651d18 (phone half of the delight grant gr_ukrou4zjha): "for teo idc, feel free to rewrite the kr": rewrite its text to the honest live reading (on a phone after Watch first you see one whole building, the street and the neighbour's door edge), leave it met; if a manager can't edit a KR's text, say so in the rollup and Mitchell does it on the grant page. (2) The rejected accessibility (200k) and load-speed (60k) proposals: "the grants are probably 'not now'. i don't remember the grants clearly, but i remember thinking (oh this is premature optimization for sure, we don't have any users)". So: not now, not too big; don't re-propose them until the town has real users. Nothing else to build from this. → Teo
+10. Pix (Workshop), added to as_qolkmhqqh2, Mitchell's ask at 18:23 UTC ("in the future you will be able to archive them right? that's like one of the main jobs of the secretary"): the Secretary can archive in-tray rollups. (a) The daily digest (and the on-demand digest button, as_422jo6d6xr) archives not only rollups whose calls are all "None" but any rollup whose call is overtaken: it names a grant, key result, checkpoint, retainer or proposal that has since been decided, closed, met or withdrawn. (b) In a 1:1, when Mitchell says to archive rollups ("archive them all", "archive these"), the Secretary archives them as him: extend act_in_1on1 (or a sibling) to reports with action archive = decision approve, no assignment, recorded as his via the Secretary quoting his line, same as grants. (c) Rollups with a prose call that is not overtaken still stay pending unless Mitchell says to archive them. → Pix
+11. Teo (UI / UX): a pass on the rollup report's format and UI so it reads in a minute, under the progressive-disclosure / overload goal (Mitchell, 1:1 mt_i50xwu4z2t at 18:25 UTC: "the reports themselves are still hard to read. maybe ask UI / UX to take a pass at the format + UI, while thinking about the progressive disclosure and overload goal"). Scope: how a building rollup renders when opened from the Town Hall in-tray (DocView / the report view, the review deck slide) and the format rule managers write to (the rollup template in the manager prompt: Shipped items with What it is / What you'd see / Your call, Decided, Key results table, Needs). Start from what Mitchell needs first (what's new, what he must decide) and fold the rest (Decided lines, the key-results table, provenance) under disclosure. Grouped digest reads Mitchell liked are in this meeting's transcript at 18:02 and 18:05 UTC. Changes to the rollup format that managers write to touch other buildings' prompts: say so in the rollup; the renderer is UI / UX's own. Coordinate with Pix's digest clustering (as_qolkmhqqh2) so the card and the report agree. → Teo
+

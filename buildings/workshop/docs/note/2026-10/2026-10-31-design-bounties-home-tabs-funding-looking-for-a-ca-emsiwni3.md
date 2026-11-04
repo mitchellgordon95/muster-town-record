@@ -45,7 +45,7 @@ The homepage (server `home.ts` `renderHome`, web `home/main.tsx`) gets two tabs 
 - **Address** (optional): the slug, which defaults to one made from the goal.
 
 **Where the tokens sit: in the Bank of the bounty's own collective, created at posting time.** Posting runs the existing `Hub.create` path with three changes: no buildings, the poster as its admin, and the key as its one Bank input (`bank.addInput`, source `api-key`, `tokens` = the bounty's tokens in place of `STARTER_KEY_TOKENS`). Its hub row is linked to a `bounties` row in state `open`, and its runtime is not started. Reasons:
-- The post-mortem rule [dc_bq7yfn5dr8](../../../../town-hall/docs/fyi/2026-10/2026-10-30-post-mortem-2026-10-30-host-sessions-billed-the-ap-7yfn5dr8.md) says the Bank is the only place a credential lives. A key held in a hub-level `bounties` table would break that rule.
+- The post-mortem rule dc_bq7yfn5dr8 says the Bank is the only place a credential lives. A key held in a hub-level `bounties` table would break that rule.
 - Nothing can spend while the bounty is open: the collective has no buildings and no runtime. This is the escrow: a cap on the poster's own key, billed by Anthropic only when work runs.
 - Not `bank_reservations` (migration 067): a reservation claims free tokens under a goal *inside* a World for one exploration session; a bounty precedes any World.
 

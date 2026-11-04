@@ -11043,15 +11043,6 @@
     "createdAt": "2026-10-30T01:16:32.639Z"
   },
   {
-    "id": "dc_0tbo60bn6l",
-    "path": "buildings/town-hall/docs/fyi/2026-10/2026-10-30-prefer-shipping-immediately-to-hiding-new-features-bo60bn6l.md",
-    "title": "Prefer shipping immediately to hiding new features behind settings and flags",
-    "type": "fyi",
-    "state": "building",
-    "buildingId": "town-hall",
-    "createdAt": "2026-10-30T01:20:02.112Z"
-  },
-  {
     "id": "dc_kwcuoy4iww",
     "path": "buildings/workshop/docs/report/2026-10/2026-10-30-schedule-board-on-every-building-merged-5b89ea3-pr-cuoy4iww.md",
     "title": "Schedule board on every building merged (5b89ea3, PR #108); live check parked on deploy",
@@ -11941,15 +11932,6 @@
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
     "createdAt": "2026-10-30T23:22:17.488Z"
-  },
-  {
-    "id": "dc_bq7yfn5dr8",
-    "path": "buildings/town-hall/docs/fyi/2026-10/2026-10-30-post-mortem-2026-10-30-host-sessions-billed-the-ap-7yfn5dr8.md",
-    "title": "Post-mortem 2026-10-30: host sessions billed the API key; the Bank is now the only place a credential lives",
-    "type": "fyi",
-    "state": "building",
-    "buildingId": "town-hall",
-    "createdAt": "2026-10-30T23:27:59.573Z"
   },
   {
     "id": "dc_bahpfdn1qw",
@@ -20311,5 +20293,1994 @@
     "state": "building",
     "buildingId": "bl_t7slw19vgg",
     "createdAt": "2026-11-04T16:00:41.757Z"
+  },
+  {
+    "id": "dc_t20pm17xh1",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-04-the-secretary-gr-kdlogzzo5s-0pm17xh1.md",
+    "title": "The Secretary (gr_kdlogzzo5s)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T16:10:28.990Z"
+  },
+  {
+    "id": "dc_ujl2h36iyt",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-act-in-1on1-built-pr-300-2b7fa8b-open-parked-on-ci-l2h36iyt.md",
+    "title": "act_in_1on1 built: PR #300 (2b7fa8b) open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T16:10:41.149Z"
+  },
+  {
+    "id": "dc_4dqiwydii8",
+    "path": "buildings/bl_t7slw19vgg/docs/skill/2026-11/2026-11-04-disclosure-census-script-qiwydii8.md",
+    "title": "disclosure-census-script",
+    "type": "skill",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T16:15:16.589Z"
+  },
+  {
+    "id": "dc_3nsuylx6zd",
+    "path": "buildings/bl_t7slw19vgg/docs/note/2026-11/2026-11-04-disclosure-census-baseline-gr-zak30564zh-step-1-li-suylx6zd.md",
+    "title": "Disclosure census baseline (gr_zak30564zh step 1): live a84ed22 6 of 34 rows pass, mock 62 of 84; grant pages 9–12 screens",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T16:16:23.223Z"
+  },
+  {
+    "id": "dc_wrwdcn2thm",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-disclosure-census-in-repo-draft-pr-301-live-baseli-wdcn2thm.md",
+    "title": "Disclosure census in repo (draft PR #301) + live baseline: grant pages 9–12 screens, 6 of 34 live rows pass",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T16:17:58.413Z"
+  },
+  {
+    "id": "dc_g05085vk5z",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-gr-db6ofyd0yf-step-1-expectedsession-cached-exactl-5085vk5z.md",
+    "title": "gr_db6ofyd0yf step 1: expectedSession cached exactly, desk tick p50 −48 % (139–146 → 65–76 ms); PR #302 parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T16:18:46.241Z"
+  },
+  {
+    "id": "dc_ppuveym3fy",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-secretary-step-2-built-draft-pr-303-resident-taker-uveym3fy.md",
+    "title": "Secretary step 2 built: draft PR #303 (resident, takerId, digest builder, retainer asked at boot); parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T16:22:05.364Z"
+  },
+  {
+    "id": "dc_ows685koqz",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-gr-db6ofyd0yf-step-1-pr-302-merged-acf73450-on-gre-s685koqz.md",
+    "title": "gr_db6ofyd0yf step 1: PR #302 merged (acf73450) on green CI; parked for the live check",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T16:27:09.248Z"
+  },
+  {
+    "id": "dc_vr1911ymig",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-pr-301-ci-failed-on-an-unrelated-test-timeout-retr-1911ymig.md",
+    "title": "PR #301 CI failed on an unrelated test timeout; retriggered, parked on CI again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T16:28:22.780Z"
+  },
+  {
+    "id": "dc_7wh29ftwl4",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-pr-301-retriggered-ci-still-running-parked-on-ci-a-h29ftwl4.md",
+    "title": "PR #301 retriggered CI still running; parked on CI again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T16:28:43.227Z"
+  },
+  {
+    "id": "dc_o0nbi37sd9",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-300-had-a-merge-conflict-with-main-merged-as-af-nbi37sd9.md",
+    "title": "PR #300 had a merge conflict with main: merged as afb819a, re-parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T16:30:56.240Z"
+  },
+  {
+    "id": "dc_89p9nc3jxj",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-303-ci-failure-fixed-cli-digest-name-clash-main-p9nc3jxj.md",
+    "title": "PR #303: CI failure fixed (CLI `digest` name clash), main merged, re-parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T16:34:03.636Z"
+  },
+  {
+    "id": "dc_nelubafakx",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-gr-db6ofyd0yf-step-1-live-bank-figure-unchanged-12-lubafakx.md",
+    "title": "gr_db6ofyd0yf step 1 live: Bank figure unchanged (124,404), streams phase 32–43 → ~1.3 ms, live tick median 148 → 132 ms (target < 110 needs steps 2–3)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T16:35:25.052Z"
+  },
+  {
+    "id": "dc_0cnsnw1red",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-gr-zak30564zh-step-1-done-pr-301-disclosure-census-nsnw1red.md",
+    "title": "gr_zak30564zh step 1 done: PR #301 (disclosure census) merged as 2125258, redeploy queued",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T16:35:35.276Z"
+  },
+  {
+    "id": "dc_97uh3xa84m",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-prod-rollup-34-gr-db6ofyd0yf-step-1-live-bank-figu-uh3xa84m.md",
+    "title": "Prod rollup #34: gr_db6ofyd0yf step 1 live (Bank figure unchanged, streams phase 32–43 → ~1.3 ms, live tick 148 → 132 ms); steps 2–3 queued",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T16:36:18.659Z"
+  },
+  {
+    "id": "dc_vb6tzscv8c",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-300-act-in-1on1-merged-as-02c40bf-redeploy-queu-6tzscv8c.md",
+    "title": "PR #300 (act_in_1on1) merged as 02c40bf, redeploy queued",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T16:37:02.099Z"
+  },
+  {
+    "id": "dc_38lz7ppvuo",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-progressive-disclosure-grant-gr-zak30564zh-under-w-lz7ppvuo.md",
+    "title": "Progressive-disclosure grant gr_zak30564zh under way: census script on main, live baseline 6 of 34 guest panels pass; type/contrast census found dim text on 6 of 8 views (proposal open)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T16:37:57.242Z"
+  },
+  {
+    "id": "dc_2w9qey99zg",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-303-main-merged-again-after-300-both-verbs-kept-9qey99zg.md",
+    "title": "PR #303: main merged again after #300 (both verbs kept), re-parked on CI for 3c1ea9d",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T16:41:00.335Z"
+  },
+  {
+    "id": "dc_s6fur8t11d",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-prod-rollup-35-checkpoint-gr-db6ofyd0yf-302-503-30-fur8t11d.md",
+    "title": "Prod rollup #35 (checkpoint gr_db6ofyd0yf, 302,503 / 300,000): step 1 live cut the streams phase 32–43 → ~1.3 ms and the live tick 148 → ~115 ms; the Bank figure held; 200k more finishes steps 2–3 (median < 110 ms, scaling.md row)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T16:43:55.754Z"
+  },
+  {
+    "id": "dc_t4o5zajhwv",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-303-secretary-step-2-merged-as-9cd4c0e-redeploy-o5zajhwv.md",
+    "title": "PR #303 (Secretary step 2) merged as 9cd4c0e, redeploy queued",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T16:46:10.231Z"
+  },
+  {
+    "id": "dc_r7mmqy4r0p",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-9cd4c0e-not-live-yet-live-02c40bf-parked-on-deploy-mmqy4r0p.md",
+    "title": "9cd4c0e not live yet (live 02c40bf): parked on deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T16:47:22.904Z"
+  },
+  {
+    "id": "dc_62nnwi3s5b",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-session-ended-without-a-report-secretary-step-3-we-nnwi3s5b.md",
+    "title": "Session ended without a report: Secretary step 3: web: digest card first in the Town Hall in-tray, covered rollups under it, deck slide, \"via Secretary\" history lines (after #303 is on main)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T16:53:21.907Z"
+  },
+  {
+    "id": "dc_wvhk2t0lab",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-secretary-step-3-recovered-from-the-auto-stash-pr-hk2t0lab.md",
+    "title": "Secretary step 3 recovered from the auto-stash, PR #305 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T16:56:28.092Z"
+  },
+  {
+    "id": "dc_jrdkaycy6g",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-gr-zak30564zh-step-2-grant-page-opens-on-a-summary-dkaycy6g.md",
+    "title": "gr_zak30564zh step 2: grant page opens on a summary (draft PR #306), parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T16:58:17.092Z"
+  },
+  {
+    "id": "dc_m1psycl3cw",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-pr-306-merged-c2d7673-redeploy-queued-parked-on-de-psycl3cw.md",
+    "title": "PR #306 merged (c2d7673), redeploy queued; parked on deploy for the live census",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T17:01:45.471Z"
+  },
+  {
+    "id": "dc_18pn5ueur2",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-9cd4c0e-live-secretary-ag-7tiwyqva83-schedule-sc-8-pn5ueur2.md",
+    "title": "9cd4c0e live: Secretary ag_7tiwyqva83, schedule sc_8zoclbtrwp, retainer asked in the in-tray",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T17:02:15.048Z"
+  },
+  {
+    "id": "dc_04orzov96w",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-gr-db6ofyd0yf-step-2-missing-creditid-index-was-th-orzov96w.md",
+    "title": "gr_db6ofyd0yf step 2: missing creditId index was the cost; covering index (migration 089) cuts desk 2× tick p50 254 → 117 ms; PR #304 parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T17:03:04.542Z"
+  },
+  {
+    "id": "dc_d01vroxlmi",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-305-conflicted-with-main-after-306-merged-main-1vroxlmi.md",
+    "title": "PR #305 conflicted with main after #306: merged main (e96a5dc), re-parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T17:03:23.245Z"
+  },
+  {
+    "id": "dc_hp4k1pg9qu",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-workshop-rollup-45-the-secretary-is-in-the-town-ha-4k1pg9qu.md",
+    "title": "Workshop rollup 45: the Secretary is in the Town Hall (digest verb, act-on-your-word 1:1); his daily retainer is the one row waiting on you",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T17:04:51.574Z"
+  },
+  {
+    "id": "dc_1zlq030i4m",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-305-secretary-step-3-merged-as-90212da-redeploy-lq030i4m.md",
+    "title": "PR #305 (Secretary step 3) merged as 90212da, redeploy queued, parked on deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T17:08:02.045Z"
+  },
+  {
+    "id": "dc_yr52ax83nv",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-gr-zak30564zh-step-2-live-grant-page-opens-on-a-su-52ax83nv.md",
+    "title": "gr_zak30564zh step 2 live: grant page opens on a summary (kr_obykl8yydh bar met at both sizes)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T17:11:31.188Z"
+  },
+  {
+    "id": "dc_mk6wtf0yrn",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-checkpoint-progressive-disclosure-grant-at-401-202-6wtf0yrn.md",
+    "title": "Checkpoint: progressive-disclosure grant at 401,202 / 400,000. Grant pages open on a summary (1 of 3 key results claimed, live); goal tree PR in progress; census passes 4 of 28 live rows. 250k top-up asked for steps 3–4",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T17:14:48.352Z"
+  },
+  {
+    "id": "dc_mmj5chdj07",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-grant-gr-zak30564zh-adjusted-800-000-tokens-j5chdj07.md",
+    "title": "Grant gr_zak30564zh adjusted: 800,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T17:16:27.178Z"
+  },
+  {
+    "id": "dc_s2revb5v2r",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-gr-zak30564zh-step-3-goal-tree-settings-fold-draft-revb5v2r.md",
+    "title": "gr_zak30564zh step 3: goal tree settings fold (draft PR #307), parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T17:16:28.607Z"
+  },
+  {
+    "id": "dc_aqv2xtp5j3",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-grant-gr-db6ofyd0yf-adjusted-600-000-tokens-v2xtp5j3.md",
+    "title": "Grant gr_db6ofyd0yf adjusted: 600,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T17:16:39.990Z"
+  },
+  {
+    "id": "dc_y716wgmroe",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-gr-db6ofyd0yf-step-2-pr-304-merged-as-d5dd09b7-on-16wgmroe.md",
+    "title": "gr_db6ofyd0yf step 2: PR #304 merged as d5dd09b7 on green CI; parked for the live check",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T17:17:22.763Z"
+  },
+  {
+    "id": "dc_rovr57c3ga",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-pr-307-merged-edb3201-redeploy-queued-parked-on-de-vr57c3ga.md",
+    "title": "PR #307 merged (edb3201), redeploy queued; parked on deploy for the live goal-tree census",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T17:20:43.620Z"
+  },
+  {
+    "id": "dc_3zmyrznhud",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-90212da-live-in-tray-carries-digest-retainer-appro-myrznhud.md",
+    "title": "90212da live: in-tray carries `digest`; retainer approved, first digest at 07:00Z",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T17:23:27.382Z"
+  },
+  {
+    "id": "dc_qppl7741ci",
+    "path": "buildings/bl_hzjw0z0zlz/docs/flag/2026-11/2026-11-04-i-like-the-content-of-the-little-question-mark-sig-pl7741ci.md",
+    "title": "i like the content of the little question mark signs in each building. but let's make it even cooler. i'm thinking like…",
+    "type": "flag",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-04T17:41:16.021Z"
+  },
+  {
+    "id": "dc_3tzs2pk07t",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-gr-zak30564zh-step-3-live-goal-tree-opens-on-the-g-zs2pk07t.md",
+    "title": "gr_zak30564zh step 3 live: goal tree opens on the goal (kr_3jie8qwdt6 bar met at both sizes)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T17:41:17.401Z"
+  },
+  {
+    "id": "dc_f8m548rw5n",
+    "path": "buildings/workshop/docs/meeting-notes/2026-11/2026-11-04-1-1-mitchell-and-pix-notes-m548rw5n.md",
+    "title": "1:1: Mitchell and Pix — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T17:42:04.989Z"
+  },
+  {
+    "id": "dc_0m1p6kk54q",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-secretary-step-3b-talk-to-secretary-everywhere-tow-1p6kk54q.md",
+    "title": "Secretary step 3b: Talk to Secretary everywhere + Town Hall manager = root captain, PR #308 parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T17:47:58.712Z"
+  },
+  {
+    "id": "dc_wydvfzm3j5",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-gr-db6ofyd0yf-step-2-live-bank-figures-unchanged-b-dvfzm3j5.md",
+    "title": "gr_db6ofyd0yf step 2 live: Bank figures unchanged, but live tick doubled to ~236 ms; not the index or the code",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T17:49:48.116Z"
+  },
+  {
+    "id": "dc_qnpvanlfsb",
+    "path": "buildings/bl_vef3v0oux0/docs/wiki/2026-11/2026-11-04-token-cost-legible-gr-lwgus14rd2-plan-and-state-pvanlfsb.md",
+    "title": "Token cost legible (gr_lwgus14rd2): plan and state",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T17:57:51.673Z"
+  },
+  {
+    "id": "dc_fqg0c4r3q8",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-red-main-fixer-answered-mitchell-s-c-g0c4r3q8.md",
+    "title": "gr_7op2v8fjcl (red-main fixer): answered Mitchell's counter, re-proposed the same plan at his 500,000; goals.test.ts flake queued as exploration",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-04T17:58:07.146Z"
+  },
+  {
+    "id": "dc_0ub741sboo",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-04-publish-to-github-gr-30f8obzab8-b741sboo.md",
+    "title": "Publish to GitHub (gr_30f8obzab8)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T17:58:09.548Z"
+  },
+  {
+    "id": "dc_qfp5ckb48i",
+    "path": "buildings/bl_vef3v0oux0/docs/note/2026-11/2026-11-04-findings-the-bank-prices-work-at-api-list-price-2-p5ckb48i.md",
+    "title": "Findings: the Bank prices work at API list price (≈$2,883) but never says what the collective paid in cash (2026-11-04)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T17:58:11.908Z"
+  },
+  {
+    "id": "dc_jqrsoj7l1j",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-gr-q1jrelx2ty-step-1-ci-image-job-in-pr-310-parked-rsoj7l1j.md",
+    "title": "gr_q1jrelx2ty step 1: CI image job in PR #310, parked on its CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T17:58:26.174Z"
+  },
+  {
+    "id": "dc_apie6r2ut0",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-exploration-the-bank-never-says-what-the-collectiv-ie6r2ut0.md",
+    "title": "Exploration: the Bank never says what the collective paid in cash; proposed gr_qggxximtru (450k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T17:58:33.316Z"
+  },
+  {
+    "id": "dc_acoggjhacn",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-gr-q1jrelx2ty-funded-220k-cut-into-4-steps-one-per-oggjhacn.md",
+    "title": "gr_q1jrelx2ty funded (220k): cut into 4 steps, one per key result; step 1 (ci.yml image job: plain docker build, push ghcr :prod + :sha) queued to the building as as_lq4hamzk1m",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T17:58:33.327Z"
+  },
+  {
+    "id": "dc_gz7s8gnyj6",
+    "path": "buildings/bl_hzjw0z0zlz/docs/note/2026-11/2026-11-04-findings-2-of-the-3-collectives-on-the-homepage-ha-7s8gnyj6.md",
+    "title": "Findings: 2 of the 3 collectives on the homepage have never run, and a visitor there is told to \"click any agent to see what they're doing\"",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-04T17:58:45.645Z"
+  },
+  {
+    "id": "dc_vdks1cj1ot",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-counter-on-the-type-scale-contrast-grant-answered-ks1cj1ot.md",
+    "title": "Counter on the type-scale/contrast grant answered: re-proposed gr_kvmwutmybu at Mitchell's 600k with the plan widened to 5 key results (home page, palette tokens + CI check, signed-in views, manual Design section)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T17:58:48.827Z"
+  },
+  {
+    "id": "dc_br6av6drfy",
+    "path": "buildings/workshop/docs/note/2026-11/2026-11-04-findings-17-of-grant-tokens-go-to-two-bookkeeping-6av6drfy.md",
+    "title": "Findings: 17% of grant tokens go to two bookkeeping sessions run on Fable (kickoff + checkpoint writing)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T17:58:57.486Z"
+  },
+  {
+    "id": "dc_t236744daz",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-04-explore-2-of-the-3-homepage-collectives-have-never-36744daz.md",
+    "title": "Explore: 2 of the 3 homepage collectives have never run, but visitors are told to watch their agents; proposed gr_a6512x0je1 (150k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-04T17:59:11.522Z"
+  },
+  {
+    "id": "dc_goi17mocqe",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-exploration-17-of-grant-spend-goes-to-two-fable-bo-i17mocqe.md",
+    "title": "Exploration: 17% of grant spend goes to two Fable bookkeeping sessions; proposed gr_k69g04wwcg (250k) to cut it and show it",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T17:59:22.188Z"
+  },
+  {
+    "id": "dc_plq8o6xoo3",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-gr-30f8obzab8-publish-to-github-funded-step-1-api-q8o6xoo3.md",
+    "title": "gr_30f8obzab8 (Publish to GitHub) funded: step 1 (API + push step) queued as as_lo8ritvcl9, step 2 (Settings block) queued behind it",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T17:59:31.784Z"
+  },
+  {
+    "id": "dc_gb0oxdbg4b",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-gr-lwgus14rd2-funded-at-600k-three-steps-queued-as-0oxdbg4b.md",
+    "title": "gr_lwgus14rd2 funded at 600k: three steps queued as a chain (lane × kind table as_m28p9taow1 → cache-miss alert as_gc6u3sk0wf → manager wakes as_5xuggxsopv)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T17:59:38.321Z"
+  },
+  {
+    "id": "dc_0ey523bg2z",
+    "path": "buildings/town-hall/docs/digest/2026-11/2026-11-04-digest-2026-11-04-26-decisions-187-rollups-y523bg2z.md",
+    "title": "Digest 2026-11-04: 26 decisions, 187 rollups",
+    "type": "digest",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-04T17:59:38.859Z"
+  },
+  {
+    "id": "dc_abyhrunhjo",
+    "path": "buildings/bl_xvgnd1fvh6/docs/note/2026-11/2026-11-04-findings-one-in-three-muster-town-restarts-brings-yhrunhjo.md",
+    "title": "Findings: one in three muster.town restarts brings no new code, and it delays the real deploy by up to 15 min",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T18:01:23.561Z"
+  },
+  {
+    "id": "dc_8uptthmx6m",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-gr-ikgaundf5p-throwaway-stop-test-grant-funded-not-ptthmx6m.md",
+    "title": "gr_ikgaundf5p (throwaway stop-test grant) funded: nothing to assign, fallback close scheduled for 11-06; its 5,000 tokens are already spent by this kickoff",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:01:28.531Z"
+  },
+  {
+    "id": "dc_6xgqagy1z0",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-explore-17-of-53-muster-town-restarts-in-47-h-carr-gqagy1z0.md",
+    "title": "Explore: 17 of 53 muster.town restarts in 47 h carried no new code; proposed gr_lvzy0yxwgd (90k) to stop no-op redeploys",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T18:01:47.631Z"
+  },
+  {
+    "id": "dc_k80n4lc4p1",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-gr-q1jrelx2ty-step-1-pr-310-merged-as-04160f9-park-0n4lc4p1.md",
+    "title": "gr_q1jrelx2ty step 1: PR #310 merged as 04160f9; parked 20 min for the image job",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T18:02:48.963Z"
+  },
+  {
+    "id": "dc_4esvg5kq39",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-checkpoint-gr-ikgaundf5p-throwaway-stop-test-grant-svg5kq39.md",
+    "title": "Checkpoint gr_ikgaundf5p (throwaway stop-test grant): nothing to ship by design; press Stop grant… on this card to run gr_8i952perny's live check",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:03:36.249Z"
+  },
+  {
+    "id": "dc_uptfxjj0c0",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-04-goals-test-ts-migration-061-flake-tests-moved-to-i-tfxjj0c0.md",
+    "title": "goals.test.ts migration-061 flake: tests moved to in-memory SQLite, PR #311 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-04T18:04:12.001Z"
+  },
+  {
+    "id": "dc_ze3z14ushe",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-gr-eh6f1dl69n-since-you-last-reviewed-rejected-wit-3z14ushe.md",
+    "title": "gr_eh6f1dl69n (\"since you last reviewed\") rejected without a note: nothing re-proposed, the Secretary's digest covers the one captain today",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:04:51.962Z"
+  },
+  {
+    "id": "dc_jxl29bfrbp",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-relay-from-pix-2-1-1-decision-2-is-in-pr-308-ci-al-l29bfrbp.md",
+    "title": "Relay from Pix 2: 1:1 decision 2 is in PR #308, CI already green; the parked merge continuation handles it at 18:06Z",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:05:52.449Z"
+  },
+  {
+    "id": "dc_ogpz8cgzow",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-hosted-collectives-with-no-repo-what-muster-town-o-pz8cgzow.md",
+    "title": "Hosted collectives with no repo: what Muster-Town-only machinery still shows, and the smallest change that hides it",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:07:58.685Z"
+  },
+  {
+    "id": "dc_2p1ihh4s5a",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-308-conflicted-with-main-after-309-310-merged-m-1ihh4s5a.md",
+    "title": "PR #308 conflicted with main after #309/#310: merged main in (import line only), pushed f320fde, parked on CI again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:08:17.445Z"
+  },
+  {
+    "id": "dc_ws2l7kwaa6",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-04-goals-test-ts-migration-061-flake-fixed-pr-311-mer-2l7kwaa6.md",
+    "title": "goals.test.ts migration-061 flake fixed: PR #311 merged (8a9034c)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-04T18:10:35.360Z"
+  },
+  {
+    "id": "dc_kzrm3x8h5s",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-308-merged-as-0fb0b97-talk-to-secretary-everywh-rm3x8h5s.md",
+    "title": "PR #308 merged as 0fb0b97 (Talk to Secretary everywhere); redeploy queued, parked to verify live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:12:36.971Z"
+  },
+  {
+    "id": "dc_s5dnke33g7",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-publish-to-github-step-1-pr-313-per-world-repo-tok-dnke33g7.md",
+    "title": "Publish to GitHub step 1: PR #313 (per-World repo + token, export pushes, health.export), parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:13:56.550Z"
+  },
+  {
+    "id": "dc_tmvfyiako2",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-04-help-sign-tour-built-pr-314-lit-building-shadowed-vfyiako2.md",
+    "title": "Help sign tour built (PR #314): lit building, shadowed town, numbered hotspots; parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-04T18:16:30.917Z"
+  },
+  {
+    "id": "dc_72l4hnnqwp",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-publish-to-github-step-1-pr-313-merged-as-5baee1d-l4hnnqwp.md",
+    "title": "Publish to GitHub step 1: PR #313 merged as 5baee1d, redeploy queued",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:18:25.454Z"
+  },
+  {
+    "id": "dc_8jat4nzsdd",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-type-scale-contrast-grant-gr-kvmwutmybu-600k-cut-i-at4nzsdd.md",
+    "title": "Type-scale/contrast grant gr_kvmwutmybu (600k) cut into 4 steps; step 1 (no dim text, kr_w9t4cey0l2) queued on the grant lane behind the disclosure grant's step 4",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T18:18:28.118Z"
+  },
+  {
+    "id": "dc_crcua12sqx",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-gr-lwgus14rd2-step-1-lane-token-kind-spend-table-p-cua12sqx.md",
+    "title": "gr_lwgus14rd2 step 1: lane × token-kind spend table; PR #315 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T18:18:37.441Z"
+  },
+  {
+    "id": "dc_tnmw5azmbx",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-red-main-fixer-funded-at-500k-step-1-mw5azmbx.md",
+    "title": "gr_7op2v8fjcl (red-main fixer) funded at 500k: step 1 (main's CI state in /api/health) queued as as_2entebkm64; steps 2 and 3 follow from its report",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-04T18:19:24.784Z"
+  },
+  {
+    "id": "dc_zvx9cnhbso",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-gr-lwgus14rd2-step-1-pr-315-conflicted-with-main-m-x9cnhbso.md",
+    "title": "gr_lwgus14rd2 step 1: PR #315 conflicted with main; merged main in (4c027738), parked on CI again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T18:22:22.125Z"
+  },
+  {
+    "id": "dc_c8glsgycwp",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-mitchell-s-two-answers-applied-kr-c3c7651d18-rewor-glsgycwp.md",
+    "title": "Mitchell's two answers applied: kr_c3c7651d18 reworded to the honest phone reading (still met); accessibility and load-speed grants marked \"not now\" until the town has users",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T18:22:48.511Z"
+  },
+  {
+    "id": "dc_jzxwa0bm59",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-hosted-dbs-transcripts-in-the-hourly-backup-pr-316-xwa0bm59.md",
+    "title": "Hosted DBs + transcripts in the hourly backup: PR #316 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T18:23:32.854Z"
+  },
+  {
+    "id": "dc_otlpmgjxn1",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-digest-card-clustered-both-sections-and-overtaken-lpmgjxn1.md",
+    "title": "Digest card clustered (both sections) and overtaken rollup asks retired: draft PR #317 (1cb7542), parked on its CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:24:20.653Z"
+  },
+  {
+    "id": "dc_mosy9yc4ht",
+    "path": "buildings/bl_hzjw0z0zlz/docs/wiki/2026-11/2026-11-04-join-funnel-top-steps-measure-real-strangers-gr-zo-sy9yc4ht.md",
+    "title": "Join funnel: top steps measure real strangers (gr_zoo2cf2zpp)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-04T18:26:25.393Z"
+  },
+  {
+    "id": "dc_9fd9m7cu31",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-04-1-1-mitchell-and-secretary-notes-d9m7cu31.md",
+    "title": "1:1: Mitchell and Secretary — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-04T18:26:32.482Z"
+  },
+  {
+    "id": "dc_wawcjkger2",
+    "path": "town-hall/outbox/2026-11/2026-11-04-publish-to-github-live-check-an-empty-github-repo-wcjkger2.md",
+    "title": "Publish to GitHub live check: an empty GitHub repo and a fine-grained token (Contents read/write)",
+    "type": "request",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:26:41.039Z"
+  },
+  {
+    "id": "dc_1gpb1buwmr",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-04-grant-gr-zoo2cf2zpp-adjusted-300-000-tokens-pb1buwmr.md",
+    "title": "Grant gr_zoo2cf2zpp adjusted: 300,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-04T18:26:56.354Z"
+  },
+  {
+    "id": "dc_n9b805a710",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-04-gr-a5ct690l7a-no-visitor-token-counting-by-mitchel-b805a710.md",
+    "title": "gr_a5ct690l7a: no visitor token counting, by Mitchell's word; Spend by goal now says a visitor's tokens are not tracked (PR #318, parked on CI; grant closes once it is live)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-04T18:27:11.034Z"
+  },
+  {
+    "id": "dc_i39wsqtnj4",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-04-gr-zoo2cf2zpp-taken-whole-and-pushed-to-main-as-c5-9wsqtnj4.md",
+    "title": "gr_zoo2cf2zpp taken whole and pushed to main as c5e0005a: guestVisitors and homeViews once per browser per day, signInStarted at Sign in, headless checks skipped, User stats columns; live check parked on its deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-04T18:27:14.225Z"
+  },
+  {
+    "id": "dc_i86vvhgj8z",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-key-result-kr-una0o5bucs-marked-missed-by-mitchell-6vvhgj8z.md",
+    "title": "Key result kr_una0o5bucs marked missed by Mitchell",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:27:28.846Z"
+  },
+  {
+    "id": "dc_3l59pfrn2c",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-grant-gr-ikgaundf5p-closed-stopped-59pfrn2c.md",
+    "title": "Grant gr_ikgaundf5p closed (stopped)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:27:28.851Z"
+  },
+  {
+    "id": "dc_bjz5lp0hxw",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-gr-lwgus14rd2-step-1-pr-315-merged-b2282771-redepl-z5lp0hxw.md",
+    "title": "gr_lwgus14rd2 step 1: PR #315 merged (b2282771), redeploy queued, parked on deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T18:27:51.465Z"
+  },
+  {
+    "id": "dc_gzw9ibc73a",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-grant-gr-kdlogzzo5s-adjusted-1-500-000-tokens-w9ibc73a.md",
+    "title": "Grant gr_kdlogzzo5s adjusted: 1,500,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:27:57.995Z"
+  },
+  {
+    "id": "dc_hvf4ap8m1y",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-step-1-main-s-ci-state-in-api-health-f4ap8m1y.md",
+    "title": "gr_7op2v8fjcl step 1: main's CI state in /api/health — PR #319 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-04T18:30:08.558Z"
+  },
+  {
+    "id": "dc_aucmysyxl0",
+    "path": "buildings/bl_vef3v0oux0/docs/wiki/2026-11/2026-11-04-cash-cost-of-running-the-collective-gr-qggxximtru-cmysyxl0.md",
+    "title": "Cash cost of running the collective (gr_qggxximtru): plan and state",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T18:30:56.644Z"
+  },
+  {
+    "id": "dc_9z2rze4ioc",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-publish-to-github-step-2-pr-320-town-hall-settings-2rze4ioc.md",
+    "title": "Publish to GitHub step 2: PR #320 (Town Hall Settings block) open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:31:13.090Z"
+  },
+  {
+    "id": "dc_wvf61am904",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-04-pr-318-had-never-reached-ci-merge-conflict-with-ma-f61am904.md",
+    "title": "PR #318 had never reached CI (merge conflict with main on docs/log.md): main merged in as 22d1470, checks running; parked again to merge, redeploy, close gr_a5ct690l7a and roll up",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-04T18:31:48.344Z"
+  },
+  {
+    "id": "dc_95pejivahe",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-gr-qggxximtru-funded-at-450k-two-steps-queued-as-a-pejivahe.md",
+    "title": "gr_qggxximtru funded at 450k: two steps queued as a chain ('Plans paid for' on Inputs as_qzdwqo0i2t → cash row on Balance as_vjju0a4oig)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T18:32:28.126Z"
+  },
+  {
+    "id": "dc_fpzqxxvl0k",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-step-1-pr-319-merged-4542f32-redeplo-zqxxvl0k.md",
+    "title": "gr_7op2v8fjcl step 1: PR #319 merged (4542f32), redeploy queued; parked to verify /api/health .main live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-04T18:33:00.435Z"
+  },
+  {
+    "id": "dc_0zs8zpfwiu",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-0fb0b97-live-talk-to-secretary-on-panel-in-tray-he-s8zpfwiu.md",
+    "title": "0fb0b97 live: Talk to Secretary on panel, in-tray header and Town Hall Staff row verified; digest card never rendered (client dropped it), fix PR #321",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:34:04.088Z"
+  },
+  {
+    "id": "dc_dmvr9atxxs",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-publish-to-github-step-2-pr-320-merged-as-7fb234a-vr9atxxs.md",
+    "title": "Publish to GitHub step 2: PR #320 merged as 7fb234a, redeploy queued, parked to verify live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:35:58.699Z"
+  },
+  {
+    "id": "dc_8181n33sw6",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-new-residents-default-to-fable-forks-stay-on-opus-81n33sw6.md",
+    "title": "New residents default to Fable, forks stay on Opus: draft PR #322, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:36:30.084Z"
+  },
+  {
+    "id": "dc_2udlyqwgev",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-04-gr-a5ct690l7a-one-agent-model-closed-as-done-spend-dlyqwgev.md",
+    "title": "gr_a5ct690l7a (one agent model) closed as done: Spend by goal now says a visitor's tokens are not tracked (PR #318, 37eed61 redeploying); main's CI state is in /api/health (PR #319); migration-test flake fixed (PR #311)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-04T18:37:07.388Z"
+  },
+  {
+    "id": "dc_9zj193kvra",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-321-merged-as-0af4874-redeploy-queued-parked-to-j193kvra.md",
+    "title": "PR #321 merged as 0af4874, redeploy queued; parked to verify digest card live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:38:29.107Z"
+  },
+  {
+    "id": "dc_08gl0xovmr",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-live-stop-evidence-for-gr-8i952perny-read-the-in-t-gl0xovmr.md",
+    "title": "Live stop evidence for gr_8i952perny read; the in-tray \"Stopped\" section (and the digest card) never render live: fix in PR #323, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:39:37.752Z"
+  },
+  {
+    "id": "dc_tfkabgk7vn",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-publish-to-github-step-2-is-live-7fb234a-the-town-kabgk7vn.md",
+    "title": "Publish to GitHub step 2 is live (7fb234a): the Town Hall Settings block ships; Mitchell can now set a repo and token",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:41:32.835Z"
+  },
+  {
+    "id": "dc_o7mbgxpdvc",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-317-failed-ci-only-on-the-dead-code-check-unuse-mbgxpdvc.md",
+    "title": "PR #317 failed CI only on the dead-code check (unused export); fixed and merged main in, pushed b21f794, parked on its CI again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:41:43.026Z"
+  },
+  {
+    "id": "dc_hynz595t52",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-gr-lwgus14rd2-step-1-lane-kind-verified-live-at-b2-nz595t52.md",
+    "title": "gr_lwgus14rd2 step 1: lane × kind verified live at b2282771; layout fix PR #324 open, needs merge",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T18:42:24.066Z"
+  },
+  {
+    "id": "dc_nq9jobf76j",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-pr-316-ci-failed-on-deadcode-2-unused-re-exports-f-9jobf76j.md",
+    "title": "PR #316: CI failed on deadcode (2 unused re-exports); fixed and re-pushed, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T18:43:16.871Z"
+  },
+  {
+    "id": "dc_snzjnokp45",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-04-help-sign-tour-is-live-on-muster-town-eec2401-in-b-zjnokp45.md",
+    "title": "Help sign tour is live on muster.town (eec2401 in b228277), checked on desktop and phone as a guest",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-04T18:43:57.312Z"
+  },
+  {
+    "id": "dc_mbuiaki9q5",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-bank-transparency-spending-now-shows-spend-by-lane-uiaki9q5.md",
+    "title": "Bank Transparency: Spending now shows spend by lane × token kind (gr_lwgus14rd2 step 1 live at b2282771, 57% of today's cost is cache writes); gr_qggxximtru funded, 'Plans paid for' being built",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T18:44:23.768Z"
+  },
+  {
+    "id": "dc_hqozax72qw",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-grant-bookkeeping-re-cut-after-the-cache-fix-the-f-ozax72qw.md",
+    "title": "Grant bookkeeping re-cut after the cache fix: the fix missed these sessions, they now cost twice as much; re-proposed as gr_cwwtrabt2o (180k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:44:43.254Z"
+  },
+  {
+    "id": "dc_ukieylf211",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-gr-q1jrelx2ty-step-1-done-ci-pushes-a-public-ghcr-ieylf211.md",
+    "title": "gr_q1jrelx2ty step 1 done: CI pushes a public ghcr image (:prod + :sha) on green main, 83 s per build",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T18:45:21.120Z"
+  },
+  {
+    "id": "dc_l4e0gnqdov",
+    "path": "buildings/bl_hzjw0z0zlz/docs/wiki/2026-11/2026-11-04-never-run-collectives-say-so-gr-a6512x0je1-e0gnqdov.md",
+    "title": "Never-run collectives say so (gr_a6512x0je1)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-04T18:45:39.659Z"
+  },
+  {
+    "id": "dc_5k9rgvlmrb",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-322-ci-was-red-on-runtime-tests-fixed-7f6d74a-p-9rgvlmrb.md",
+    "title": "PR #322 CI was red on runtime tests; fixed (7f6d74a), parked on CI again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:46:17.397Z"
+  },
+  {
+    "id": "dc_8tc5vxy94m",
+    "path": "buildings/workshop/docs/meeting-notes/2026-11/2026-11-04-1-1-mitchell-and-pix-notes-c5vxy94m.md",
+    "title": "1:1: Mitchell and Pix — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:47:12.129Z"
+  },
+  {
+    "id": "dc_zeguj4r2po",
+    "path": "buildings/workshop/docs/flag/2026-11/2026-11-04-town-intray-is-currently-crashing-with-guj4r2po.md",
+    "title": "town intray is currently crashing with",
+    "type": "flag",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:47:53.065Z"
+  },
+  {
+    "id": "dc_wv8jp5o5jj",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-04-gr-a6512x0je1-taken-whole-and-pushed-to-main-as-48-8jp5o5jj.md",
+    "title": "gr_a6512x0je1 taken whole and pushed to main as 48d88720 (06575cee): never-run collectives carry started on /api/collectives and health, their tiles say \"Not started yet\" and sort last, guest card and first-minute card point to the Workshop; live check parked on its deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-04T18:48:00.488Z"
+  },
+  {
+    "id": "dc_8tz8ukoovm",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-session-ended-without-a-report-gr-zak30564zh-step-z8ukoovm.md",
+    "title": "Session ended without a report: gr_zak30564zh step 4: bring every non-document panel under the disclosure bar (kr_p6l1w6tade)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T18:48:28.659Z"
+  },
+  {
+    "id": "dc_zlj7dltlp4",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-04-exploration-2026-11-04-grant-bookkeeping-cost-gr-k-j7dltlp4.md",
+    "title": "Exploration 2026-11-04: grant bookkeeping cost (gr_k69g04wwcg proposed)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:48:35.981Z"
+  },
+  {
+    "id": "dc_wgbzbrkou6",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-proposal-cards-only-show-a-predecessor-s-evidence-bzbrkou6.md",
+    "title": "Proposal cards only show a predecessor's evidence when the proposal names it: PR #325 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:48:46.394Z"
+  },
+  {
+    "id": "dc_rrs07qgya4",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-pr-316-ci-failed-on-a-migration-number-clash-main-s07qgya4.md",
+    "title": "PR #316: CI failed on a migration-number clash (main took 090); renumbered to 091, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T18:49:19.260Z"
+  },
+  {
+    "id": "dc_h2dpn933pb",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-317-had-no-ci-run-on-b21f794-it-conflicted-with-dpn933pb.md",
+    "title": "PR #317 had no CI run on b21f794 (it conflicted with main); merged main again, pushed f1f644f, CI running, parked on it",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:53:39.654Z"
+  },
+  {
+    "id": "dc_f0itukd3jq",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-gr-lwgus14rd2-step-2-cache-miss-alert-in-pr-326-pa-itukd3jq.md",
+    "title": "gr_lwgus14rd2 step 2: cache-miss alert in PR #326, parked on CI; 20% threshold would fire for every purpose",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T18:53:54.166Z"
+  },
+  {
+    "id": "dc_qvkqjey4fl",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-gr-lwgus14rd2-step-1-layout-fix-pr-324-merged-5ad2-kqjey4fl.md",
+    "title": "gr_lwgus14rd2 step 1: layout fix PR #324 merged (5ad297d8), redeploy queued, parked on deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T18:54:33.564Z"
+  },
+  {
+    "id": "dc_6hza7i15p4",
+    "path": "buildings/bl_t7slw19vgg/docs/wiki/2026-11/2026-11-04-rollup-report-view-calls-first-za7i15p4.md",
+    "title": "Rollup report view (calls first)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T18:54:55.101Z"
+  },
+  {
+    "id": "dc_iclr0ytx57",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-town-hall-in-tray-crashes-live-since-0af4874-flag-lr0ytx57.md",
+    "title": "Town Hall in-tray crashes live since 0af4874 (flag dc_zeguj4r2po): fix PR #328, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:55:09.283Z"
+  },
+  {
+    "id": "dc_rox29k1rxi",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-gr-qggxximtru-step-1-plans-paid-for-built-pr-329-o-x29k1rxi.md",
+    "title": "gr_qggxximtru step 1: 'Plans paid for' built; PR #329 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T18:55:21.104Z"
+  },
+  {
+    "id": "dc_rqfcjcfa4d",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-rollups-read-calls-first-your-call-block-on-top-ca-fcjcfa4d.md",
+    "title": "Rollups read calls first: \"Your call\" block on top, cards next, Decided / Key results / provenance folded; Needs lines reach the deck slide (PR #327, parked on CI)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T18:55:29.070Z"
+  },
+  {
+    "id": "dc_88z3ntb7ia",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-step-2-a-red-main-gets-one-fixer-nam-z3ntb7ia.md",
+    "title": "gr_7op2v8fjcl step 2: a red main gets one fixer, named in every brief and look — PR #330 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-04T18:56:13.504Z"
+  },
+  {
+    "id": "dc_wi034dm7du",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-04-onboarding-checkpoint-rollup-never-run-collectives-034dm7du.md",
+    "title": "Onboarding checkpoint rollup: never-run collectives say so (gr_a6512x0je1) is on main but not yet live, 169,114 / 150,000 spent; a 40,000 top-up buys the live check and close. Also live in 0af4874: the help-sign tour and the join funnel's real-stranger counts",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-04T18:57:06.846Z"
+  },
+  {
+    "id": "dc_aviiq4qxpa",
+    "path": "buildings/bl_t7slw19vgg/docs/skill/2026-11/2026-11-04-type-contrast-census-10-iiq4qxpa.md",
+    "title": "type-contrast-census-10",
+    "type": "skill",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T18:58:00.679Z"
+  },
+  {
+    "id": "dc_qpq6trb2sf",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-pr-326-had-a-merge-conflict-no-ci-ran-fixed-pushed-q6trb2sf.md",
+    "title": "PR #326 had a merge conflict (no CI ran); fixed, pushed, parked on CI again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T18:58:09.578Z"
+  },
+  {
+    "id": "dc_bk5pkwcxmq",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-325-ci-failed-only-on-a-flaky-timing-test-merge-5pkwcxmq.md",
+    "title": "PR #325 CI failed only on a flaky timing test; merged main in, pushed 9959454, parked on CI again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:58:14.218Z"
+  },
+  {
+    "id": "dc_7f8oi4qhpx",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-step-1-live-api-health-main-follows-8oi4qhpx.md",
+    "title": "gr_7op2v8fjcl step 1 live: /api/health .main follows origin/main's head; parked 30 min to see it leave pending",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-04T18:58:22.393Z"
+  },
+  {
+    "id": "dc_xgloa9pjcz",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-1-pr-331-open-dim-text-fixed-on-loa9pjcz.md",
+    "title": "gr_kvmwutmybu step 1: PR #331 open (dim text fixed on dev build, 0 low-contrast lines on 10 views × 2 sizes); parked on its CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T18:58:24.865Z"
+  },
+  {
+    "id": "dc_e8wxdb54x4",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-04-pr-330-had-never-reached-ci-conflict-with-main-on-wxdb54x4.md",
+    "title": "PR #330 had never reached CI (conflict with main on docs/log.md): main merged in as c9ae1cf, checks running; parked to merge, redeploy, verify",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-04T18:58:26.326Z"
+  },
+  {
+    "id": "dc_58bp6zln1c",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-317-grouped-digest-card-green-and-merged-as-d15-bp6zln1c.md",
+    "title": "PR #317 (grouped digest card) green and merged as d156a72, redeploy queued; live check queued as as_4lst9z1vf8 on the deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T18:58:31.425Z"
+  },
+  {
+    "id": "dc_nlel1q2s9n",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-04-onboarding-close-rollup-gr-zoo2cf2zpp-join-funnel-el1q2s9n.md",
+    "title": "Onboarding close rollup: gr_zoo2cf2zpp (join funnel counts real strangers) closed as done, all three key results live-checked in ad27e6f4; 24,769 tokens back to the Bank",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-04T19:00:06.991Z"
+  },
+  {
+    "id": "dc_cv2v9r7lr4",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-1-pr-331-merged-0ea24b47-redepl-2v9r7lr4.md",
+    "title": "gr_kvmwutmybu step 1: PR #331 merged (0ea24b47), redeploy queued; parked on deploy for the live census",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T19:00:12.695Z"
+  },
+  {
+    "id": "dc_nq8qfdliye",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-pr-329-had-a-merge-conflict-no-ci-ran-fixed-pushed-8qfdliye.md",
+    "title": "PR #329 had a merge conflict (no CI ran); fixed, pushed 25b36657, parked on CI again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T19:00:17.914Z"
+  },
+  {
+    "id": "dc_6mdys8p1qx",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-322-ci-failed-again-on-one-server-test-fixed-d7-dys8p1qx.md",
+    "title": "PR #322 CI failed again on one server test; fixed (d766e1e), parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:00:32.627Z"
+  },
+  {
+    "id": "dc_b20jkgxnq1",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-pr-326-cache-miss-alert-merged-38c3e992-redeploy-q-0jkgxnq1.md",
+    "title": "PR #326 (cache-miss alert) merged 38c3e992, redeploy queued, parked on deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T19:01:12.284Z"
+  },
+  {
+    "id": "dc_tzvyxgqz09",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-publish-to-github-falls-back-to-the-collective-s-g-vyxgqz09.md",
+    "title": "Publish to GitHub falls back to the collective's GH_TOKEN, and the Settings block now explains how repo and token go together: PR #334 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:01:15.962Z"
+  },
+  {
+    "id": "dc_cz38wq3sq4",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-close-rollup-gr-8i952perny-stopping-a-funded-grant-38wq3sq4.md",
+    "title": "Close rollup gr_8i952perny: stopping a funded grant works live end to end; grant closed as done (910,193 / 750,000, all four key results met, nothing to return)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:02:06.272Z"
+  },
+  {
+    "id": "dc_b6c5iylz06",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-04-repo-mode-hiding-deploy-pr-machinery-from-collecti-c5iylz06.md",
+    "title": "Repo mode: hiding deploy/PR machinery from collectives with no repo",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:02:13.767Z"
+  },
+  {
+    "id": "dc_x3myqtyms8",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-repo-mode-none-own-muster-hides-deploy-pr-machiner-myqtyms8.md",
+    "title": "Repo mode (none/own/muster) hides deploy/PR machinery from repo-less collectives: PR #333, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:02:26.009Z"
+  },
+  {
+    "id": "dc_4idtza7bj3",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-1-1-sessions-see-pasted-screenshots-and-the-chat-b-dtza7bj3.md",
+    "title": "1:1 sessions see pasted screenshots and the chat bar has an Attach button: draft PR #335, waiting on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:02:41.177Z"
+  },
+  {
+    "id": "dc_yvmc59ftk5",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-325-green-and-merged-as-b6f66b7-redeploy-queued-mc59ftk5.md",
+    "title": "PR #325 green and merged as b6f66b7, redeploy queued; parked on the deploy to check gr_cwwtrabt2o's card",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:03:03.248Z"
+  },
+  {
+    "id": "dc_wcfoeo59bn",
+    "path": "buildings/bl_vef3v0oux0/docs/wiki/2026-11/2026-11-04-cache-ttl-why-every-cache-write-is-1-h-since-2026-foeo59bn.md",
+    "title": "Cache TTL: why every cache write is 1 h since 2026-11-03 23:37Z",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T19:03:44.456Z"
+  },
+  {
+    "id": "dc_57q5sn1oew",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-why-every-cache-write-is-1-h-since-11-03-23-37z-cl-q5sn1oew.md",
+    "title": "Why every cache write is 1 h since 11-03 23:37Z: Claude Code's remote flag changed, not our SDK or our counting",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T19:04:17.234Z"
+  },
+  {
+    "id": "dc_1dq1atfzm9",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-pr-329-conflicted-again-and-migration-091-was-take-q1atfzm9.md",
+    "title": "PR #329 conflicted again and migration 091 was taken; renumbered to 092, pushed 8d5c2a88, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T19:05:12.583Z"
+  },
+  {
+    "id": "dc_z5faw86cyu",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-328-town-hall-in-tray-crash-fix-merged-as-bcec7-faw86cyu.md",
+    "title": "PR #328 (Town Hall in-tray crash fix) merged as bcec74f, redeploy queued",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:06:55.394Z"
+  },
+  {
+    "id": "dc_sn1ehjk81l",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-claude-code-messages-prompt-cache-ttl-5m-messages-1ehjk81l.md",
+    "title": "CLAUDE_CODE_MESSAGES_PROMPT_CACHE_TTL=5m: messages 5m, system prompt stays 1 h, so warm wakes are kept",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T19:08:23.590Z"
+  },
+  {
+    "id": "dc_1z9m5sk20z",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-335-merged-as-fbdf195-1-1-sessions-see-pasted-i-9m5sk20z.md",
+    "title": "PR #335 merged as fbdf195 (1:1 sessions see pasted images, Attach button); redeploy queued, live paste check needs Mitchell",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:08:29.090Z"
+  },
+  {
+    "id": "dc_dxz4r8vifo",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-checkpoint-gr-lwgus14rd2-lane-token-kind-table-liv-z4r8vifo.md",
+    "title": "Checkpoint gr_lwgus14rd2: lane × token-kind table live, cache-miss alert merged (not live yet), manager wakes not started; 635,535 / 600,000 spent, top-up of 250k asked",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T19:08:30.635Z"
+  },
+  {
+    "id": "dc_xwh9p1jqvm",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-step-2-merged-pr-330-ed953de-redeplo-h9p1jqvm.md",
+    "title": "gr_7op2v8fjcl step 2 merged: PR #330 = ed953de, redeploy queued; parked to verify live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-04T19:09:39.712Z"
+  },
+  {
+    "id": "dc_cif3en4723",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-334-publish-falls-back-to-gh-token-merged-as-2e-f3en4723.md",
+    "title": "PR #334 (Publish falls back to GH_TOKEN) merged as 2e8704f, redeploy queued; parked on the deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:10:34.756Z"
+  },
+  {
+    "id": "dc_aveggyf0ga",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-322-merged-as-664a1db-new-residents-default-to-eggyf0ga.md",
+    "title": "PR #322 merged as 664a1db (new residents default to Fable, forks stay on Opus); redeploy queued",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:11:33.650Z"
+  },
+  {
+    "id": "dc_2t4itb8pj1",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-in-tray-crash-fix-328-bcec74f-not-live-yet-parked-4itb8pj1.md",
+    "title": "In-tray crash fix (#328, bcec74f) not live yet: parked on its deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:12:02.682Z"
+  },
+  {
+    "id": "dc_xz9sywauo6",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-pr-329-plans-paid-for-squash-merged-as-2adb84c2-re-9sywauo6.md",
+    "title": "PR #329 (Plans paid for) squash-merged as 2adb84c2, redeploy queued; live check still to queue",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T19:12:08.997Z"
+  },
+  {
+    "id": "dc_uzwcg5xw3u",
+    "path": "buildings/town-hall/docs/fyi/2026-11/2026-11-04-do-not-call-redeploy-after-a-merge-ci-deploys-gree-wcg5xw3u.md",
+    "title": "Do not call `redeploy` after a merge: CI deploys green main by itself; a redeploy with \"0 new changes\" only restarts the server (prod was stuck at ad27e6f 18:44–19:17Z by a merge storm; it is moving again)",
+    "type": "fyi",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-04T19:13:14.621Z"
+  },
+  {
+    "id": "dc_rju0tw41ou",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-checkpoint-for-gr-kdlogzzo5s-overtaken-mitchell-ad-u0tw41ou.md",
+    "title": "Checkpoint for gr_kdlogzzo5s overtaken: Mitchell adjusted it to 1,500,000 before this ran; key result statuses set on the grant, PR #336 stops stale checkpoint assignments from running",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:13:18.809Z"
+  },
+  {
+    "id": "dc_ualrq1pnzl",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-in-tray-cards-view-removed-for-everyone-pr-337-ope-lrq1pnzl.md",
+    "title": "In-tray Cards view removed for everyone: PR #337 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:13:39.643Z"
+  },
+  {
+    "id": "dc_4eys92w4bl",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-333-had-conflicts-with-main-and-its-ci-never-ra-ys92w4bl.md",
+    "title": "PR #333 had conflicts with main and its CI never ran: merged main in twice, local check green, parked on CI again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:15:46.927Z"
+  },
+  {
+    "id": "dc_htv2jz6o6r",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-onboarding-sweep-8-3-manual-fixes-in-pr-339-parked-v2jz6o6r.md",
+    "title": "Onboarding sweep 8: 3 manual fixes in PR #339, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:15:55.476Z"
+  },
+  {
+    "id": "dc_ezx0dndlg1",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-prod-rollup-36-checkpoint-gr-db6ofyd0yf-601-494-60-x0dndlg1.md",
+    "title": "Prod rollup #36 (checkpoint gr_db6ofyd0yf, 601,494 / 600,000): step 2 live (index, desk 2× tick −54 %, Bank figures unchanged), step 3 running; the live median is unmeasurable while a merge storm restarts the server every minute (prod stuck at ad27e6f, PR #338 fixes CI)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T19:17:01.752Z"
+  },
+  {
+    "id": "dc_b2qpl41m6v",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-pr-327-rollups-read-calls-first-merged-as-b4e24d86-qpl41m6v.md",
+    "title": "PR #327 (rollups read calls first) merged as b4e24d86, redeploy queued; live verification at both sizes and the rollup wait for the deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T19:18:06.542Z"
+  },
+  {
+    "id": "dc_w7t98pzpoe",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-publish-falls-back-to-gh-token-2e8704f-is-live-blo-t98pzpoe.md",
+    "title": "Publish falls back to GH_TOKEN: 2e8704f is live, block verified; waiting on Mitchell's empty repo URL",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:18:19.566Z"
+  },
+  {
+    "id": "dc_b5xw6iuged",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-step-2-is-live-ed953de-no-red-main-n-xw6iuged.md",
+    "title": "gr_7op2v8fjcl step 2 is live (ed953de): no red main now, so no fixer line; the red path waits for a real red main",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-04T19:18:44.292Z"
+  },
+  {
+    "id": "dc_cpgpkqlct5",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-gr-qggxximtru-step-1-verified-live-plans-paid-for-gpkqlct5.md",
+    "title": "gr_qggxximtru step 1 verified live: 'Plans paid for' on Bank › Inputs, GET /api/bank/fees returns {fees: []}",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T19:18:46.929Z"
+  },
+  {
+    "id": "dc_ti9hz5fu42",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-proposal-card-fix-is-live-gr-cwwtrabt2o-no-longer-9hz5fu42.md",
+    "title": "Proposal card fix is live: gr_cwwtrabt2o no longer shows gr_ikgaundf5p's checkpoint lines",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:19:00.144Z"
+  },
+  {
+    "id": "dc_6yjf5orfta",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-336-a-continue-adjust-cut-cancels-a-stale-write-jf5orfta.md",
+    "title": "PR #336 (a continue/adjust/cut cancels a stale \"Write the checkpoint\" assignment) green and merged as c46e07b; no redeploy, prod is advancing again (live 2adb84c); Secretary step 3e queued",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:19:00.977Z"
+  },
+  {
+    "id": "dc_43nu3k707j",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-1-met-on-live-0-dim-text-lines-nu3k707j.md",
+    "title": "gr_kvmwutmybu step 1 met on live: 0 dim-text lines on 10 guest views at both sizes (live 2adb84c2)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T19:19:35.201Z"
+  },
+  {
+    "id": "dc_hrptju2s61",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-in-tray-crash-fixed-live-bcec74f-list-cards-stoppe-ptju2s61.md",
+    "title": "In-tray crash fixed live (bcec74f): List, Cards, Stopped section and digest card all render",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:21:05.967Z"
+  },
+  {
+    "id": "dc_bhrjrf3di0",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-onboarding-sweep-8-merged-as-2efd2410-lag-0-h-day-rjrf3di0.md",
+    "title": "Onboarding sweep 8 merged as 2efd2410: lag 0 h, day 1 of 7",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:22:02.351Z"
+  },
+  {
+    "id": "dc_3uuer7ln78",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-gr-qggxximtru-step-2-paid-in-cash-last-30-days-bui-uer7ln78.md",
+    "title": "gr_qggxximtru step 2: 'Paid in cash, last 30 days' built, PR #341 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T19:22:57.409Z"
+  },
+  {
+    "id": "dc_l77dl3bwph",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-337-merged-with-main-after-328-landed-parked-on-7dl3bwph.md",
+    "title": "PR #337 merged with main after #328 landed; parked on CI again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:23:55.617Z"
+  },
+  {
+    "id": "dc_joceqyqblp",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-gr-db6ofyd0yf-step-3-live-tick-cost-is-the-lane-ga-ceqyqblp.md",
+    "title": "gr_db6ofyd0yf step 3: live tick cost is the lane gate's free-token walk per queued item; PR #340 memoizes it per pass (desk 4× p95 1,225 → 330 ms), parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T19:24:43.961Z"
+  },
+  {
+    "id": "dc_n0ebhhhrsk",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-checkpoint-progressive-disclosure-grant-at-856-185-ebhhhrsk.md",
+    "title": "Checkpoint: progressive-disclosure grant at 856,185 / 800,000. Grant page and goal tree claimed (live); census passes 28 of 30 live rows, one panel and the signed-in admin rows still over the bar; 200k top-up asked",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T19:25:17.029Z"
+  },
+  {
+    "id": "dc_4w5e5uvsw4",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-333-conflicted-with-main-again-after-green-ci-r-5e5uvsw4.md",
+    "title": "PR #333 conflicted with main again after green CI: resolved prompts.ts, pushed 9a72b115, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:25:21.063Z"
+  },
+  {
+    "id": "dc_syrgtz34p7",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-gr-q1jrelx2ty-step-2-path-b-compose-smoke-in-the-i-rgtz34p7.md",
+    "title": "gr_q1jrelx2ty step 2: path-B compose smoke in the image job, PR #342, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T19:26:42.370Z"
+  },
+  {
+    "id": "dc_9quo2utt6x",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-red-main-edge-cases-a-failed-deploy-uo2utt6x.md",
+    "title": "gr_7op2v8fjcl red-main edge cases: a failed deploy job or a cancelled run read red; fixed in PR #343, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-04T19:27:43.461Z"
+  },
+  {
+    "id": "dc_l5n1fhsffg",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-04-pr-343-had-never-reached-ci-conflict-on-docs-log-m-n1fhsffg.md",
+    "title": "PR #343 had never reached CI (conflict on docs/log.md): main merged in as d336479, checks running; parked to merge",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-04T19:29:15.274Z"
+  },
+  {
+    "id": "dc_xmqqnr4nrc",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-333-repo-mode-hides-deploy-pr-machinery-from-re-qqnr4nrc.md",
+    "title": "PR #333 (repo mode hides deploy/PR machinery from repo-less collectives) merged as 4815e19; live check still to do",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:29:47.667Z"
+  },
+  {
+    "id": "dc_6l9y99pgwz",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-pr-341-had-a-merge-conflict-resolved-and-pushed-41-9y99pgwz.md",
+    "title": "PR #341 had a merge conflict: resolved and pushed 4183359d, waiting on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T19:29:55.211Z"
+  },
+  {
+    "id": "dc_t0nglbr8ik",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-2-pr-344-puts-every-font-size-o-nglbr8ik.md",
+    "title": "gr_kvmwutmybu step 2: PR #344 puts every font size on a 6-step scale (≤6 sizes on all 20 census rows on the dev build); parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T19:30:23.529Z"
+  },
+  {
+    "id": "dc_pfe5k9ghbf",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-edge-case-fix-merged-pr-343-9f2d28f-e5k9ghbf.md",
+    "title": "gr_7op2v8fjcl edge-case fix merged: PR #343 = 9f2d28f; CI promotes it, no redeploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-04T19:34:00.500Z"
+  },
+  {
+    "id": "dc_gxtxualbsp",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-session-ended-without-a-report-a-daily-digest-butt-txualbsp.md",
+    "title": "Session ended without a report: A \"Daily digest\" button on the Town Hall in-tray that runs the Secretary's digest on demand (Mitchell, 1:1 mt_i50xwu4z2t 18:09Z)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:34:12.906Z"
+  },
+  {
+    "id": "dc_uekq0ag533",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-337-conflicted-with-main-again-manual-md-merged-kq0ag533.md",
+    "title": "PR #337 conflicted with main again (manual.md): merged main as 07a1717, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:34:13.944Z"
+  },
+  {
+    "id": "dc_e4bvnx3w3b",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-2-pr-344-merged-49172936-parked-bvnx3w3b.md",
+    "title": "gr_kvmwutmybu step 2: PR #344 merged (49172936); parked on its deploy for the live census",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T19:34:29.074Z"
+  },
+  {
+    "id": "dc_tbendzyq71",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-repo-mode-is-live-on-4815e19-muster-town-keeps-red-endzyq71.md",
+    "title": "Repo mode is live on 4815e19: muster.town keeps redeploy and its deploy/PR waits; hosted hollyville and trauma report \"none\"",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:36:25.822Z"
+  },
+  {
+    "id": "dc_ael667unc5",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-pr-316-migration-renumbered-091-093-after-merging-l667unc5.md",
+    "title": "PR #316: migration renumbered 091 → 093 after merging main, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T19:37:18.258Z"
+  },
+  {
+    "id": "dc_o187tlf0pp",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-rollups-now-open-on-what-you-must-decide-pr-327-li-87tlf0pp.md",
+    "title": "Rollups now open on what you must decide (PR #327 live, verified at laptop and phone); dim interface text gone on all 10 guest views (grant gr_kvmwutmybu step 1 met on live)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T19:37:29.067Z"
+  },
+  {
+    "id": "dc_s0gs9792r5",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-pr-341-ci-failed-on-deadcode-unused-export-cashvie-gs9792r5.md",
+    "title": "PR #341 CI failed on deadcode (unused export CashView): fixed in db9290b8, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T19:41:31.690Z"
+  },
+  {
+    "id": "dc_ycocv32ibe",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-337-in-tray-cards-view-removed-merged-as-17d00e-ocv32ibe.md",
+    "title": "PR #337 (in-tray Cards view removed) merged as 17d00eb; live check still to do",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:41:32.256Z"
+  },
+  {
+    "id": "dc_vm8ts14cgk",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-daily-digest-button-recovered-and-pushed-as-pr-346-8ts14cgk.md",
+    "title": "Daily digest button recovered and pushed as PR #346 (2803c098); parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:47:22.721Z"
+  },
+  {
+    "id": "dc_rqr46r9yyi",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-pr-341-paid-in-cash-last-30-days-squash-merged-as-r46r9yyi.md",
+    "title": "PR #341 (Paid in cash, last 30 days) squash-merged as b39bfdaa; live check still to queue on its deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T19:47:27.718Z"
+  },
+  {
+    "id": "dc_arw76kawkw",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-gr-q1jrelx2ty-step-2-done-path-b-compose-smoke-run-w76kawkw.md",
+    "title": "gr_q1jrelx2ty step 2 done: path-B compose smoke runs on main before every image push (PR #342)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T19:48:25.664Z"
+  },
+  {
+    "id": "dc_tz9igrtzp1",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-pr-316-merged-be5f320-hosted-dbs-transcripts-in-th-9igrtzp1.md",
+    "title": "PR #316 merged (be5f320): hosted DBs + transcripts in the hourly backup; parked on deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T19:49:04.888Z"
+  },
+  {
+    "id": "dc_hrmbvc4ohw",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-hosted-collectives-prompts-and-rollup-heading-name-mbvc4ohw.md",
+    "title": "Hosted collectives' prompts and rollup heading name their root captain (PR #347, parked on CI)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:49:40.761Z"
+  },
+  {
+    "id": "dc_jcs6svrnmt",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-346-conflicted-with-main-cards-view-removal-mer-s6svrnmt.md",
+    "title": "PR #346 conflicted with main (Cards view removal): merged main as 5206aba1, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:49:50.713Z"
+  },
+  {
+    "id": "dc_x7nfxaemoc",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-step-1-api-health-main-tracked-every-nfxaemoc.md",
+    "title": "gr_7op2v8fjcl step 1: /api/health .main tracked every main head for 70 min, but no head finished CI, so green/red is still unseen live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-04T19:49:56.084Z"
+  },
+  {
+    "id": "dc_a6h42ryd7k",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-04-checkpoint-gr-qggxximtru-plans-paid-for-live-on-in-h42ryd7k.md",
+    "title": "Checkpoint gr_qggxximtru: 'Plans paid for' live on Inputs, 'Paid in cash, last 30 days' merged and deploying; 456,488 / 450,000 spent, top-up of 40k asked",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-04T19:50:12.861Z"
+  },
+  {
+    "id": "dc_ut9a8qxc9g",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-prod-rollup-37-checkpoint-gr-q1jrelx2ty-225-544-22-9a8qxc9g.md",
+    "title": "Prod rollup #37 (checkpoint gr_q1jrelx2ty, 225,544 / 220,000): a public Docker image of the town is built and smoke-tested by CI on every green main; backup/restore in CI and the pull-and-run docs page are not started, 100k more finishes both",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T19:52:18.965Z"
+  },
+  {
+    "id": "dc_8zmaigx9gf",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-04-be5f320-is-live-parked-until-the-20-00z-hourly-run-maigx9gf.md",
+    "title": "be5f320 is live; parked until the 20:00Z hourly run to check backup.copies/transcripts",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T19:55:06.540Z"
+  },
+  {
+    "id": "dc_9c2dgw7kp6",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-347-hosted-collectives-name-their-captain-merge-2dgw7kp6.md",
+    "title": "PR #347 (hosted collectives name their captain) merged as c7ae8169; parked on the deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:55:26.359Z"
+  },
+  {
+    "id": "dc_hea8k2534l",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-346-daily-digest-button-merged-as-dd99c595-park-a8k2534l.md",
+    "title": "PR #346 (Daily digest button) merged as dd99c595; parked on the deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T19:55:28.250Z"
+  },
+  {
+    "id": "dc_e4wq470b7j",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-2-live-19-of-20-rows-6-font-siz-wq470b7j.md",
+    "title": "gr_kvmwutmybu step 2 live: 19 of 20 rows ≤6 font sizes, 0 dim text; home at laptop is 7, fixed in PR #348 (parked on CI)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T19:58:02.602Z"
+  },
+  {
+    "id": "dc_0qzzhxrv4t",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-no-cards-view-live-on-17d00eb-the-town-hall-in-tra-zzhxrv4t.md",
+    "title": "No Cards view live on 17d00eb: the Town Hall in-tray shows only the list, Review as deck, and the digest card (picture mf_xgyvhzpnic)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T20:00:05.817Z"
+  },
+  {
+    "id": "dc_qhyvyyxez6",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-secretary-step-3e-digest-reads-asks-through-rollup-yvyyxez6.md",
+    "title": "Secretary step 3e: digest reads asks through rollupAsks, Needs lines can be overtaken; PR #345 parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T20:01:30.785Z"
+  },
+  {
+    "id": "dc_vojce9w0ie",
+    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-04-cleared-yellow-backup-last-off-site-backup-0-1-h-a-jce9w0ie.md",
+    "title": "[CLEARED] YELLOW backup: last off-site backup 0.1 h ago",
+    "type": "fyi",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-04T20:02:43.656Z"
+  },
+  {
+    "id": "dc_wm7gjnvce2",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-2-pr-348-merged-980b771d-waitin-7gjnvce2.md",
+    "title": "gr_kvmwutmybu step 2: PR #348 merged (980b771d); waiting on its deploy for the home/hiw census",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T20:03:31.473Z"
+  },
+  {
+    "id": "dc_0va8l9mf48",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-345-green-but-conflicted-with-main-merged-main-a8l9mf48.md",
+    "title": "PR #345 green but conflicted with main: merged main as adcba9e, marked ready, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T20:04:15.553Z"
+  },
+  {
+    "id": "dc_yx239mi8iv",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pr-345-secretary-step-3e-merged-as-b55ecf9c-parked-239mi8iv.md",
+    "title": "PR #345 (Secretary step 3e) merged as b55ecf9c; parked on its deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T20:10:39.602Z"
+  },
+  {
+    "id": "dc_vm3korey5c",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-2-met-on-live-980b771d-all-20-c-3korey5c.md",
+    "title": "gr_kvmwutmybu step 2 met on live 980b771d: all 20 census rows ≤6 font sizes, 0 dim text; kr_68eg5yskoo claimable",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T20:12:16.465Z"
+  },
+  {
+    "id": "dc_7afi6t9ur1",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-3-pr-349-puts-every-web-css-col-fi6t9ur1.md",
+    "title": "gr_kvmwutmybu step 3: PR #349 puts every web CSS colour on 24 palette tokens and adds a CI colour/size check; parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T20:20:21.023Z"
+  },
+  {
+    "id": "dc_x9p8gsijyp",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-gr-kvmwutmybu-kr-68eg5yskoo-step-2-and-kr-w9t4cey0-p8gsijyp.md",
+    "title": "gr_kvmwutmybu: kr_68eg5yskoo (step 2) and kr_w9t4cey0l2 (step 1) claimed on the grant; kr_qge1yo1lmi's howToCheck now points at type.css and check:css in CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T20:23:24.377Z"
+  },
+  {
+    "id": "dc_rcg0tivztz",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-3-pr-349-merged-aa6f4fbc-waitin-g0tivztz.md",
+    "title": "gr_kvmwutmybu step 3: PR #349 merged (aa6f4fbc); waiting on its deploy for the live census",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T20:24:46.115Z"
+  },
+  {
+    "id": "dc_odbjvpoh9l",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-secretary-step-3e-is-live-on-b55ecf9c-the-digest-s-bjvpoh9l.md",
+    "title": "Secretary step 3e is live on b55ecf9c: the digest's Decisions needed groups read right",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T20:26:09.398Z"
+  },
+  {
+    "id": "dc_p8pcynutod",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-3-met-on-live-aa6f4fbc-20-20-ce-pcynutod.md",
+    "title": "gr_kvmwutmybu step 3 met on live aa6f4fbc: 20/20 census rows pass, check:css exit 0; kr_qge1yo1lmi ready to claim",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T20:44:09.444Z"
+  },
+  {
+    "id": "dc_m2q3c9tdim",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-gr-kvmwutmybu-kr-qge1yo1lmi-step-3-one-palette-cla-q3c9tdim.md",
+    "title": "gr_kvmwutmybu: kr_qge1yo1lmi (step 3, one palette) claimed on the grant; 3 of 5 key results now claimed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T20:46:23.499Z"
+  },
+  {
+    "id": "dc_lp6e5f27gx",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-checkpoint-one-design-grant-at-620-411-600-000-dim-6e5f27gx.md",
+    "title": "Checkpoint: one-design grant at 620,411 / 600,000. Dim text gone, one type scale and one palette with a CI check are live on all 10 guest views (3 of 5 key results claimed); signed-in census and manual Design section not shipped; 200k top-up asked",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T20:49:28.327Z"
+  },
+  {
+    "id": "dc_1tf1xefkbu",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-4-pr-350-signed-in-views-100-10-f1xefkbu.md",
+    "title": "gr_kvmwutmybu step 4: PR #350, signed-in views 100/100 pass on the mock + manual Design section; parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-04T20:54:44.324Z"
   }
 ]

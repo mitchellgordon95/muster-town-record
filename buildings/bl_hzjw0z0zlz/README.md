@@ -9,8 +9,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-24 [Design: meetings after the 2026-10-24 town hall (seeded summaries, facilitator input, read/search replies, manager facilitator, Sonnet summaries) and comments on docs for review](docs/article/2026-10/2026-10-24-design-meetings-after-the-2026-10-24-town-hall-see-93rukmeq.md) `dc_2i93rukmeq` · Kelly
 - 2026-10-20 [Design note: how a new collective connects its code repos (one repo per building vs free-form)](docs/article/2026-10/2026-10-20-design-note-how-a-new-collective-connects-its-code-hsgqi7nm.md) `dc_r5hsgqi7nm` · Craig
 
-## flag (2)
+## flag (3)
 
+- 2026-11-04 [i like the content of the little question mark signs in each building. but let's make it even cooler. i'm thinking like…](docs/flag/2026-11/2026-11-04-i-like-the-content-of-the-little-question-mark-sig-pl7741ci.md) `dc_qppl7741ci` · Mitchell
 - 2026-11-02 [it would be cool to have little "?" help signs in the buildings which explain what's there and what to do](docs/flag/2026-11/2026-11-02-it-would-be-cool-to-have-little-help-signs-in-the-wch9z5pi.md) `dc_8dwch9z5pi` · Mitchell
 - 2026-10-26 [not anyone who logs in with github should be able to interact with the town. i think we need like a permissions system?…](docs/flag/2026-10/2026-10-26-not-anyone-who-logs-in-with-github-should-be-able-dvn0h5ho.md) `dc_hsdvn0h5ho` · Mitchell
 
@@ -28,8 +29,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Onboarding standup — notes](docs/meeting-notes/2026-10/2026-10-21-onboarding-standup-notes-ylk5liwc.md) `dc_l0ylk5liwc` · Craig
 - 2026-10-20 [Onboarding standup — notes](docs/meeting-notes/2026-10/2026-10-20-onboarding-standup-notes-r98vn5ig.md) `dc_v7r98vn5ig` · Craig
 
-## note (26)
+## note (27)
 
+- 2026-11-04 [Findings: 2 of the 3 collectives on the homepage have never run, and a visitor there is told to "click any agent to see what they're doing"](docs/note/2026-11/2026-11-04-findings-2-of-the-3-collectives-on-the-homepage-ha-7s8gnyj6.md) `dc_gz7s8gnyj6` · Kelly 1
 - 2026-11-03 [Findings: the join funnel's top step can't be trusted (205 views, 0 sign-ins since 10-29), and nothing shows whether anyone clicks Sign in](docs/note/2026-11/2026-11-03-findings-the-join-funnel-s-top-step-can-t-be-trust-mktg7x3w.md) `dc_dmmktg7x3w` · Kelly 1
 - 2026-11-01 [Findings: both hosted founders stopped at "Add your API key"; nothing tells a founder what their key will spend or what happens next](docs/note/2026-11/2026-11-01-findings-both-hosted-founders-stopped-at-add-your-1v0przh7.md) `dc_3c1v0przh7` · Kelly 1
 - 2026-11-01 [Findings: after "Let in", a new member's "talk" reaches no one (no 1:1, no flag, Say wakes nobody), and the welcome is lost if they were away](docs/note/2026-11/2026-11-01-findings-after-let-in-a-new-member-s-talk-reaches-34dx23t8.md) `dc_py34dx23t8` · Kelly 1
@@ -57,8 +59,16 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (228)
+## report (236)
 
+- 2026-11-04 [Onboarding close rollup: gr_zoo2cf2zpp (join funnel counts real strangers) closed as done, all three key results live-checked in ad27e6f4; 24,769 tokens back to the Bank](docs/report/2026-11/2026-11-04-onboarding-close-rollup-gr-zoo2cf2zpp-join-funnel-el1q2s9n.md) `dc_nlel1q2s9n` · Kelly
+- 2026-11-04 [Onboarding checkpoint rollup: never-run collectives say so (gr_a6512x0je1) is on main but not yet live, 169,114 / 150,000 spent; a 40,000 top-up buys the live check and close. Also live in 0af4874: the help-sign tour and the join funnel's real-stranger counts](docs/report/2026-11/2026-11-04-onboarding-checkpoint-rollup-never-run-collectives-034dm7du.md) `dc_wi034dm7du` · Kelly
+- 2026-11-04 [gr_a6512x0je1 taken whole and pushed to main as 48d88720 (06575cee): never-run collectives carry started on /api/collectives and health, their tiles say "Not started yet" and sort last, guest card and first-minute card point to the Workshop; live check parked on its deploy](docs/report/2026-11/2026-11-04-gr-a6512x0je1-taken-whole-and-pushed-to-main-as-48-8jp5o5jj.md) `dc_wv8jp5o5jj` · Kelly
+- 2026-11-04 [Help sign tour is live on muster.town (eec2401 in b228277), checked on desktop and phone as a guest](docs/report/2026-11/2026-11-04-help-sign-tour-is-live-on-muster-town-eec2401-in-b-zjnokp45.md) `dc_snzjnokp45` · Kelly 1
+- 2026-11-04 [gr_zoo2cf2zpp taken whole and pushed to main as c5e0005a: guestVisitors and homeViews once per browser per day, signInStarted at Sign in, headless checks skipped, User stats columns; live check parked on its deploy](docs/report/2026-11/2026-11-04-gr-zoo2cf2zpp-taken-whole-and-pushed-to-main-as-c5-9wsqtnj4.md) `dc_i39wsqtnj4` · Kelly
+- 2026-11-04 [Grant gr_zoo2cf2zpp adjusted: 300,000 tokens](docs/report/2026-11/2026-11-04-grant-gr-zoo2cf2zpp-adjusted-300-000-tokens-pb1buwmr.md) `dc_1gpb1buwmr` · Town
+- 2026-11-04 [Help sign tour built (PR #314): lit building, shadowed town, numbered hotspots; parked on CI](docs/report/2026-11/2026-11-04-help-sign-tour-built-pr-314-lit-building-shadowed-vfyiako2.md) `dc_tmvfyiako2` · Kelly 1
+- 2026-11-04 [Explore: 2 of the 3 homepage collectives have never run, but visitors are told to watch their agents; proposed gr_a6512x0je1 (150k)](docs/report/2026-11/2026-11-04-explore-2-of-the-3-homepage-collectives-have-never-36744daz.md) `dc_t236744daz` · Kelly 1
 - 2026-11-04 [Onboarding close rollup: gr_cuobjlny6r (Let in → direct work) and gr_58n37j410s (after let-in) closed as done; 595,105 tokens returned; every piece is live, none used by a real member yet](docs/report/2026-11/2026-11-04-onboarding-close-rollup-gr-cuobjlny6r-let-in-direc-2nxs3agi.md) `dc_pj2nxs3agi` · Kelly
 - 2026-11-04 [3914a437 and 824ab4d live and checked on muster.town: HUD notice, 390px in-tray card, You're in Talk gate and Members table all pass, no new bugs](docs/report/2026-11/2026-11-04-3914a437-and-824ab4d-live-and-checked-on-muster-to-r2u0aisb.md) `dc_wer2u0aisb` · Kelly 1
 - 2026-11-04 [gr_58n37j410s evidence: the features are live and manager replies work again, but no real member has used them yet (acted still 0)](docs/report/2026-11/2026-11-04-gr-58n37j410s-evidence-the-features-are-live-and-m-5mjouteq.md) `dc_ay5mjouteq` · Kelly 2
@@ -81,14 +91,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-03 [Join round trip still not done (dc_mgcbv3kqnd open); no third park, sc_gy1eruamog on 11-07 is the last check](docs/report/2026-11/2026-11-03-join-round-trip-still-not-done-dc-mgcbv3kqnd-open-ej5s0e5t.md) `dc_2yej5s0e5t` · Kelly 2
 - 2026-11-02 [Onboarding rollup 2026-11-02: "?" help signs done, member 1:1 daily cap gone, starter-key cap line + public founder road live, "direct work under <goal>" gate live since 18:02 UTC](docs/report/2026-11/2026-11-02-onboarding-rollup-2026-11-02-help-signs-done-membe-4lxukm10.md) `dc_u74lxukm10` · Kelly
 - 2026-11-02 [Rollup ready for Kelly to file (forks can't send rollup: true): 92336d0e live since 18:02Z with all six commits; CI's 03:57Z redeploy had failed; overdraft cleared](docs/report/2026-11/2026-11-02-rollup-ready-for-kelly-to-file-forks-can-t-send-ro-2vz4go92.md) `dc_0h2vz4go92` · Kelly 1
-- 2026-11-02 [3f6429ed live: agents' look lists the help sign (help:bl_hzjw0z0zlz); help signs done](docs/report/2026-11/2026-11-02-3f6429ed-live-agents-look-lists-the-help-sign-help-8p2mzauq.md) `dc_vb8p2mzauq` · Kelly 2
-- 2026-11-02 [gr_cuobjlny6r step 1: "direct work under <goal>" gate pushed to main as 92336d0e; live check parked on its deploy](docs/report/2026-11/2026-11-02-gr-cuobjlny6r-step-1-direct-work-under-goal-gate-p-e4d6qgf3.md) `dc_fhe4d6qgf3` · Kelly 2
-- 2026-11-02 ["?" help signs live and checked signed out (Workshop + Onboarding, desktop + phone); look() fix 3f6429ed pushed, parked on its deploy](docs/report/2026-11/2026-11-02-help-signs-live-and-checked-signed-out-workshop-on-pb9wii4e.md) `dc_abpb9wii4e` · Kelly 1
-- 2026-11-02 [Founder road on /api/join-funnel pushed as 01ccc8ed; live check parked on its deploy](docs/report/2026-11/2026-11-02-founder-road-on-api-join-funnel-pushed-as-01ccc8ed-6879r2qd.md) `dc_wn6879r2qd` · Kelly 1
-- 2026-11-02 [Starter key cap shown on Start form, hosted Bank and manual (f72fe630 on main); test 'hosted starter key caps work' passes; live check parked](docs/report/2026-11/2026-11-02-starter-key-cap-shown-on-start-form-hosted-bank-an-5oot4dsa.md) `dc_b05oot4dsa` · Kelly 2
-- 2026-11-02 ["?" help signs in every building pushed to main as 88bcbf36; live check parked on its deploy](docs/report/2026-11/2026-11-02-help-signs-in-every-building-pushed-to-main-as-88b-jw9d6rdz.md) `dc_1sjw9d6rdz` · Kelly 1
-- 2026-11-02 [gr_cuobjlny6r funded: plan cut into 3 grant-lane steps on the building queue (core/server gate + API now, web Let in + Talk gating after it, User stats + manual + round-trip outbox after that)](docs/report/2026-11/2026-11-02-gr-cuobjlny6r-funded-plan-cut-into-3-grant-lane-st-f4r9o0ax.md) `dc_8pf4r9o0ax` · Kelly
-- 2026-11-02 [gr_ngg1z160a8 funded: plan cut into 3 grant-lane steps on the building queue (cap copy + server test now, founder funnel now, founder HUD after step 1)](docs/report/2026-11/2026-11-02-gr-ngg1z160a8-funded-plan-cut-into-3-grant-lane-st-ii4mjse4.md) `dc_1fii4mjse4` · Kelly
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -98,8 +100,10 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-27 [onboarding-staleness-sweep](docs/skill/2026-10/2026-10-27-onboarding-staleness-sweep-fvvjyif1.md) `dc_0bfvvjyif1` · Craig
 - 2026-10-26 [muster-style-guide](docs/skill/2026-10/2026-10-26-muster-style-guide-36158pnn.md) `dc_q736158pnn` · Kelly
 
-## wiki (10)
+## wiki (12)
 
+- 2026-11-04 [Never-run collectives say so (gr_a6512x0je1)](docs/wiki/2026-11/2026-11-04-never-run-collectives-say-so-gr-a6512x0je1-e0gnqdov.md) `dc_l4e0gnqdov` · Kelly
+- 2026-11-04 [Join funnel: top steps measure real strangers (gr_zoo2cf2zpp)](docs/wiki/2026-11/2026-11-04-join-funnel-top-steps-measure-real-strangers-gr-zo-sy9yc4ht.md) `dc_mosy9yc4ht` · Kelly
 - 2026-11-02 [Help signs in every building (flag dc_8dwch9z5pi)](docs/wiki/2026-11/2026-11-02-help-signs-in-every-building-flag-dc-8dwch9z5pi-uboivkud.md) `dc_axuboivkud` · Kelly 1
 - 2026-11-01 [User stats stand (Town Hall)](docs/wiki/2026-11/2026-11-01-user-stats-stand-town-hall-5o8drnl9.md) `dc_ze5o8drnl9` · Kelly 2
 - 2026-10-29 [Closed work: README walk (KR 3), repo rename, BYOA](docs/wiki/2026-10/2026-10-29-closed-work-readme-walk-kr-3-repo-rename-byoa-0lh4v55o.md) `dc_3a0lh4v55o` · Kelly

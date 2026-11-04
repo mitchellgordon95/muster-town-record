@@ -16,8 +16,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 - 2026-10-21 [Brief: Secrets PR 1, scoped grants stored in the DB and managed at the Town Hall (for Dara)](docs/assignment-proposal/2026-10/2026-10-21-brief-secrets-pr-1-scoped-grants-stored-in-the-db-e6u6i7d2.md) `dc_6xe6u6i7d2` · Cleo
 
-## fyi (17)
+## fyi (18)
 
+- 2026-11-04 [CLEARED YELLOW backup: last off-site backup 0.1 h ago](docs/fyi/2026-11/2026-11-04-cleared-yellow-backup-last-off-site-backup-0-1-h-a-jce9w0ie.md) `dc_vojce9w0ie` · Town
 - 2026-11-04 [CLEARED YELLOW ws: 0 WebSocket errors in 5 min](docs/fyi/2026-11/2026-11-04-cleared-yellow-ws-0-websocket-errors-in-5-min-7trks8sf.md) `dc_xg7trks8sf` · Town
 - 2026-11-02 [CLEARED RED sessions: 0 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-02-cleared-red-sessions-0-claude-sessions-failed-in-1-h2euy39g.md) `dc_m2h2euy39g` · Town
 - 2026-11-01 [CLEARED RED sessions: 0 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-01-cleared-red-sessions-0-claude-sessions-failed-in-1-kj4ocm41.md) `dc_gxkj4ocm41` · Town
@@ -55,8 +56,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-25 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-25-1-1-mitchell-and-cleo-notes-c1nhkipz.md) `dc_5tc1nhkipz` · Cleo
 - 2026-10-21 [Prod standup — notes](docs/meeting-notes/2026-10/2026-10-21-prod-standup-notes-zkt5nqkf.md) `dc_78zkt5nqkf` · Dara
 
-## note (25)
+## note (26)
 
+- 2026-11-04 [Findings: one in three muster.town restarts brings no new code, and it delays the real deploy by up to 15 min](docs/note/2026-11/2026-11-04-findings-one-in-three-muster-town-restarts-brings-yhrunhjo.md) `dc_abyhrunhjo` · Cleo 1
 - 2026-11-04 [Findings: self-host Docker path has no published image and has never been run off Fly; a GitHub Actions runner can be the throwaway box](docs/note/2026-11/2026-11-04-findings-self-host-docker-path-has-no-published-im-2r1a6u5h.md) `dc_k12r1a6u5h` · Cleo 1
 - 2026-11-03 [Explore: the runtime tick spends ~70% of its time recomputing Bank.expectedSession (live tick ~200 ms, p95 hits 500 ms at ~1.5× world)](docs/note/2026-11/2026-11-03-explore-the-runtime-tick-spends-70-of-its-time-rec-j0n0doki.md) `dc_avj0n0doki` · Cleo 1
 - 2026-11-02 [Tick benchmark 1×/2×/4× (gr_n0p3ast5pp step 1)](docs/note/2026-11/2026-11-02-tick-benchmark-1-2-4-gr-n0p3ast5pp-step-1-6dxw6kil.md) `dc_er6dxw6kil` · Cleo 1
@@ -83,38 +85,38 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (229)
+## report (254)
 
+- 2026-11-04 [be5f320 is live; parked until the 20:00Z hourly run to check backup.copies/transcripts](docs/report/2026-11/2026-11-04-be5f320-is-live-parked-until-the-20-00z-hourly-run-maigx9gf.md) `dc_8zmaigx9gf` · Cleo 1
+- 2026-11-04 [Prod rollup #37 (checkpoint gr_q1jrelx2ty, 225,544 / 220,000): a public Docker image of the town is built and smoke-tested by CI on every green main; backup/restore in CI and the pull-and-run docs page are not started, 100k more finishes both](docs/report/2026-11/2026-11-04-prod-rollup-37-checkpoint-gr-q1jrelx2ty-225-544-22-9a8qxc9g.md) `dc_ut9a8qxc9g` · Cleo
+- 2026-11-04 [PR #316 merged (be5f320): hosted DBs + transcripts in the hourly backup; parked on deploy](docs/report/2026-11/2026-11-04-pr-316-merged-be5f320-hosted-dbs-transcripts-in-th-9igrtzp1.md) `dc_tz9igrtzp1` · Cleo 1
+- 2026-11-04 [gr_q1jrelx2ty step 2 done: path-B compose smoke runs on main before every image push (PR #342)](docs/report/2026-11/2026-11-04-gr-q1jrelx2ty-step-2-done-path-b-compose-smoke-run-w76kawkw.md) `dc_arw76kawkw` · Cleo 1
+- 2026-11-04 [PR #316: migration renumbered 091 → 093 after merging main, parked on CI](docs/report/2026-11/2026-11-04-pr-316-migration-renumbered-091-093-after-merging-l667unc5.md) `dc_ael667unc5` · Cleo 1
+- 2026-11-04 [gr_q1jrelx2ty step 2: path-B compose smoke in the image job, PR #342, parked on CI](docs/report/2026-11/2026-11-04-gr-q1jrelx2ty-step-2-path-b-compose-smoke-in-the-i-rgtz34p7.md) `dc_syrgtz34p7` · Cleo 1
+- 2026-11-04 [gr_db6ofyd0yf step 3: live tick cost is the lane gate's free-token walk per queued item; PR #340 memoizes it per pass (desk 4× p95 1,225 → 330 ms), parked on CI](docs/report/2026-11/2026-11-04-gr-db6ofyd0yf-step-3-live-tick-cost-is-the-lane-ga-ceqyqblp.md) `dc_joceqyqblp` · Cleo 1
+- 2026-11-04 [Prod rollup #36 (checkpoint gr_db6ofyd0yf, 601,494 / 600,000): step 2 live (index, desk 2× tick −54 %, Bank figures unchanged), step 3 running; the live median is unmeasurable while a merge storm restarts the server every minute (prod stuck at ad27e6f, PR #338 fixes CI)](docs/report/2026-11/2026-11-04-prod-rollup-36-checkpoint-gr-db6ofyd0yf-601-494-60-x0dndlg1.md) `dc_ezx0dndlg1` · Cleo
+- 2026-11-04 [PR #316: CI failed on a migration-number clash (main took 090); renumbered to 091, parked on CI](docs/report/2026-11/2026-11-04-pr-316-ci-failed-on-a-migration-number-clash-main-s07qgya4.md) `dc_rrs07qgya4` · Cleo 1
+- 2026-11-04 [gr_q1jrelx2ty step 1 done: CI pushes a public ghcr image (:prod + :sha) on green main, 83 s per build](docs/report/2026-11/2026-11-04-gr-q1jrelx2ty-step-1-done-ci-pushes-a-public-ghcr-ieylf211.md) `dc_ukieylf211` · Cleo 1
+- 2026-11-04 [PR #316: CI failed on deadcode (2 unused re-exports); fixed and re-pushed, parked on CI](docs/report/2026-11/2026-11-04-pr-316-ci-failed-on-deadcode-2-unused-re-exports-f-9jobf76j.md) `dc_nq9jobf76j` · Cleo 1
+- 2026-11-04 [Hosted DBs + transcripts in the hourly backup: PR #316 open, parked on CI](docs/report/2026-11/2026-11-04-hosted-dbs-transcripts-in-the-hourly-backup-pr-316-xwa0bm59.md) `dc_jzxwa0bm59` · Cleo 1
+- 2026-11-04 [gr_q1jrelx2ty step 1: PR #310 merged as 04160f9; parked 20 min for the image job](docs/report/2026-11/2026-11-04-gr-q1jrelx2ty-step-1-pr-310-merged-as-04160f9-park-0n4lc4p1.md) `dc_k80n4lc4p1` · Cleo 1
+- 2026-11-04 [Explore: 17 of 53 muster.town restarts in 47 h carried no new code; proposed gr_lvzy0yxwgd (90k) to stop no-op redeploys](docs/report/2026-11/2026-11-04-explore-17-of-53-muster-town-restarts-in-47-h-carr-gqagy1z0.md) `dc_6xgqagy1z0` · Cleo 1
+- 2026-11-04 [gr_q1jrelx2ty funded (220k): cut into 4 steps, one per key result; step 1 (ci.yml image job: plain docker build, push ghcr :prod + :sha) queued to the building as as_lq4hamzk1m](docs/report/2026-11/2026-11-04-gr-q1jrelx2ty-funded-220k-cut-into-4-steps-one-per-oggjhacn.md) `dc_acoggjhacn` · Cleo
+- 2026-11-04 [gr_q1jrelx2ty step 1: CI image job in PR #310, parked on its CI](docs/report/2026-11/2026-11-04-gr-q1jrelx2ty-step-1-ci-image-job-in-pr-310-parked-rsoj7l1j.md) `dc_jqrsoj7l1j` · Cleo 1
+- 2026-11-04 [gr_db6ofyd0yf step 2 live: Bank figures unchanged, but live tick doubled to ~236 ms; not the index or the code](docs/report/2026-11/2026-11-04-gr-db6ofyd0yf-step-2-live-bank-figures-unchanged-b-dvfzm3j5.md) `dc_wydvfzm3j5` · Cleo 1
+- 2026-11-04 [gr_db6ofyd0yf step 2: PR #304 merged as d5dd09b7 on green CI; parked for the live check](docs/report/2026-11/2026-11-04-gr-db6ofyd0yf-step-2-pr-304-merged-as-d5dd09b7-on-16wgmroe.md) `dc_y716wgmroe` · Cleo 1
+- 2026-11-04 [Grant gr_db6ofyd0yf adjusted: 600,000 tokens](docs/report/2026-11/2026-11-04-grant-gr-db6ofyd0yf-adjusted-600-000-tokens-v2xtp5j3.md) `dc_aqv2xtp5j3` · Town
+- 2026-11-04 [gr_db6ofyd0yf step 2: missing creditId index was the cost; covering index (migration 089) cuts desk 2× tick p50 254 → 117 ms; PR #304 parked on CI](docs/report/2026-11/2026-11-04-gr-db6ofyd0yf-step-2-missing-creditid-index-was-th-orzov96w.md) `dc_04orzov96w` · Cleo 1
+- 2026-11-04 [Prod rollup #35 (checkpoint gr_db6ofyd0yf, 302,503 / 300,000): step 1 live cut the streams phase 32–43 → ~1.3 ms and the live tick 148 → ~115 ms; the Bank figure held; 200k more finishes steps 2–3 (median < 110 ms, scaling.md row)](docs/report/2026-11/2026-11-04-prod-rollup-35-checkpoint-gr-db6ofyd0yf-302-503-30-fur8t11d.md) `dc_s6fur8t11d` · Cleo
+- 2026-11-04 [Prod rollup #34: gr_db6ofyd0yf step 1 live (Bank figure unchanged, streams phase 32–43 → ~1.3 ms, live tick 148 → 132 ms); steps 2–3 queued](docs/report/2026-11/2026-11-04-prod-rollup-34-gr-db6ofyd0yf-step-1-live-bank-figu-uh3xa84m.md) `dc_97uh3xa84m` · Cleo
+- 2026-11-04 [gr_db6ofyd0yf step 1 live: Bank figure unchanged (124,404), streams phase 32–43 → ~1.3 ms, live tick median 148 → 132 ms (target < 110 needs steps 2–3)](docs/report/2026-11/2026-11-04-gr-db6ofyd0yf-step-1-live-bank-figure-unchanged-12-lubafakx.md) `dc_nelubafakx` · Cleo 1
+- 2026-11-04 [gr_db6ofyd0yf step 1: PR #302 merged (acf73450) on green CI; parked for the live check](docs/report/2026-11/2026-11-04-gr-db6ofyd0yf-step-1-pr-302-merged-acf73450-on-gre-s685koqz.md) `dc_ows685koqz` · Cleo 1
+- 2026-11-04 [gr_db6ofyd0yf step 1: expectedSession cached exactly, desk tick p50 −48 % (139–146 → 65–76 ms); PR #302 parked on CI](docs/report/2026-11/2026-11-04-gr-db6ofyd0yf-step-1-expectedsession-cached-exactl-5085vk5z.md) `dc_g05085vk5z` · Cleo 1
 - 2026-11-04 [gr_db6ofyd0yf funded (300k): cut into 3 steps; step 1 (memoize Bank.expectedSession, ≥ 30 % cut at 1× or stop) queued to the building as as_1rcigczq6l](docs/report/2026-11/2026-11-04-gr-db6ofyd0yf-funded-300k-cut-into-3-steps-step-1-1adzijer.md) `dc_al1adzijer` · Cleo
 - 2026-11-04 [Exploration: self-host Docker path has no image and was never run off Fly; proposed gr_q1jrelx2ty (220k) to publish one from CI and prove it on a GitHub runner](docs/report/2026-11/2026-11-04-exploration-self-host-docker-path-has-no-image-and-gy0imoti.md) `dc_cqgy0imoti` · Cleo 1
 - 2026-11-04 [gr_ba0juhlm7n daily check 11-04: hourly backups clean, but the grant can't close yet because the Drill row is still empty](docs/report/2026-11/2026-11-04-gr-ba0juhlm7n-daily-check-11-04-hourly-backups-cle-ia4kfhai.md) `dc_duia4kfhai` · Cleo 1
 - 2026-11-04 [gr_w9ue1k1p0c step 3, day 2 of 7 (11-03 05:20Z → 11-04 05:20Z): 0 orphaned, 1 interrupted (not confirmed resumed), 0 sessions alerts](docs/report/2026-11/2026-11-04-gr-w9ue1k1p0c-step-3-day-2-of-7-11-03-05-20z-11-04-ym03et3g.md) `dc_zrym03et3g` · Cleo 1
 - 2026-11-04 [Recover drill (dc_6gnk7y16y1): still no paste-back on 11-04, parked another 24 h](docs/report/2026-11/2026-11-04-recover-drill-dc-6gnk7y16y1-still-no-paste-back-on-n7cfjhqa.md) `dc_ven7cfjhqa` · Cleo 1
-- 2026-11-04 [Prod rollup #33 (close gr_n0p3ast5pp, 796,943 / 1,200,000): the scale-path grant is done, live as 9a119d14: /api/health has a capacity block and the WebSocket fanout stringifies each change once](docs/report/2026-11/2026-11-04-prod-rollup-33-close-gr-n0p3ast5pp-796-943-1-200-0-601bgrso.md) `dc_nx601bgrso` · Cleo
-- 2026-11-04 [Grant gr_n0p3ast5pp adjusted: 1,200,000 tokens](docs/report/2026-11/2026-11-04-grant-gr-n0p3ast5pp-adjusted-1-200-000-tokens-ezm67puw.md) `dc_vmezm67puw` · Town
-- 2026-11-04 [gr_n0p3ast5pp step 4: ws.ts stringifies each change once per server; desk benchmark at 1,000 viewers shows −18 % per-change time and −23 % lag; PR #291 (e087aa62) parked on CI](docs/report/2026-11/2026-11-04-gr-n0p3ast5pp-step-4-ws-ts-stringifies-each-change-yo3dp8m2.md) `dc_hbyo3dp8m2` · Cleo
-- 2026-11-04 [gr_n0p3ast5pp step 3: health `capacity` block in PR #289, parked on its CI](docs/report/2026-11/2026-11-04-gr-n0p3ast5pp-step-3-health-capacity-block-in-pr-2-0j0km04l.md) `dc_zq0j0km04l` · Cleo 1
-- 2026-11-04 [Prod rollup #32: CI redeploy failures diagnosed and fixed (FETCH_HEAD race, 3 of 30 runs) with a redeploy-failed alert, live as 1826430; scale-path grant continued at 500k, steps 3 and 4 running](docs/report/2026-11/2026-11-04-prod-rollup-32-ci-redeploy-failures-diagnosed-and-prgcfqys.md) `dc_q5prgcfqys` · Cleo
-- 2026-11-04 [Grant gr_n0p3ast5pp adjusted: 500,000 tokens](docs/report/2026-11/2026-11-04-grant-gr-n0p3ast5pp-adjusted-500-000-tokens-jrt3o7mk.md) `dc_6ojrt3o7mk` · Town
-- 2026-11-03 [PR #285 live: /api/health commit = 1826430, monitor sampling, no alerts (redeploy-failed green)](docs/report/2026-11/2026-11-03-pr-285-live-api-health-commit-1826430-monitor-samp-jtbqs8xn.md) `dc_snjtbqs8xn` · Cleo 1
-- 2026-11-03 [PR #285 merged as 1826430 (FETCH_HEAD race fix + redeploy-failed alert); parked on its deploy to verify live](docs/report/2026-11/2026-11-03-pr-285-merged-as-1826430-fetch-head-race-fix-redep-501thwsh.md) `dc_dj501thwsh` · Cleo 1
-- 2026-11-03 [Failed CI redeploys diagnosed (FETCH_HEAD race, 3 of 30 runs; main undeployed since 19:25Z) and fixed; redeploy-failed alert added: PR #285, waiting on CI](docs/report/2026-11/2026-11-03-failed-ci-redeploys-diagnosed-fetch-head-race-3-of-jpotcro8.md) `dc_shjpotcro8` · Cleo 1
-- 2026-11-03 [Prod rollup #31: the hourly export no longer stalls the server (lag 110 ms live, every 1:1 follow-up verified); redeploy drain and hourly backups each clean on day 1](docs/report/2026-11/2026-11-03-prod-rollup-31-the-hourly-export-no-longer-stalls-6dqsvv9i.md) `dc_uz6dqsvv9i` · Cleo
-- 2026-11-03 [Hourly export lag sampled live: lag 110 ms at the 20:10Z export (under 200), commit 566e1fb, error null; 503 follow-ups done](docs/report/2026-11/2026-11-03-hourly-export-lag-sampled-live-lag-110-ms-at-the-2-kzdgiwf9.md) `dc_4nkzdgiwf9` · Cleo 1
-- 2026-11-03 [gr_ba0juhlm7n daily check 11-03: hourly backups clean, but the grant can't close because no restore of an hourly copy is recorded yet](docs/report/2026-11/2026-11-03-gr-ba0juhlm7n-daily-check-11-03-hourly-backups-cle-der7wdge.md) `dc_b3der7wdge` · Cleo 1
-- 2026-11-03 [gr_w9ue1k1p0c step 3, day 1 of 7 (11-02 05:20Z → 11-03 05:20Z): 18 redeploys, 0 orphaned sessions, 0 sessions alerts](docs/report/2026-11/2026-11-03-gr-w9ue1k1p0c-step-3-day-1-of-7-11-02-05-20z-11-03-pp9up89d.md) `dc_0opp9up89d` · Cleo 1
-- 2026-11-03 [Cleo's assignment never unblocked: gr_n0p3ast5pp step 4: ws.ts stringifies each change once for every socket, measured before/after with viewers.mjs at 1,000 sockets on a desk-local server; numbers into docs/scaling.md; drop the fix if < 20 % saving](docs/report/2026-11/2026-11-03-cleo-s-assignment-never-unblocked-gr-n0p3ast5pp-st-57mtf4pd.md) `dc_zu57mtf4pd` · Cleo
-- 2026-11-03 [Prod rollup #30 (checkpoint gr_n0p3ast5pp, 282,376 / 280,000): docs/scaling.md is on main with 8 resource ceilings and triggers; the health capacity block and the ws.ts fix are not started and need a 160k top-up](docs/report/2026-11/2026-11-03-prod-rollup-30-checkpoint-gr-n0p3ast5pp-282-376-28-azobk9tz.md) `dc_bvazobk9tz` · Cleo
-- 2026-11-03 [PR #260 merged (dafe76e): docs/scaling.md is on main, kr_i5d6a7t62b claimable](docs/report/2026-11/2026-11-03-pr-260-merged-dafe76e-docs-scaling-md-is-on-main-k-sfo75mu9.md) `dc_pesfo75mu9` · Cleo 1
-- 2026-11-03 [Explore: the runtime tick spends ~70% of its CPU in Bank.expectedSession; proposed gr_db6ofyd0yf (160k) to halve it](docs/report/2026-11/2026-11-03-explore-the-runtime-tick-spends-70-of-its-cpu-in-b-m6hlzslp.md) `dc_unm6hlzslp` · Cleo 1
-- 2026-11-03 [Morning check 11-03: backup hourly and verified, monitor fresh with no alerts, desks $0.03 of $10](docs/report/2026-11/2026-11-03-morning-check-11-03-backup-hourly-and-verified-mon-g6s2462o.md) `dc_1rg6s2462o` · Cleo 1
-- 2026-11-03 [Recover drill (dc_6gnk7y16y1): still no paste-back on 11-03, parked another 24 h](docs/report/2026-11/2026-11-03-recover-drill-dc-6gnk7y16y1-still-no-paste-back-on-uuak4qkh.md) `dc_v4uuak4qkh` · Cleo 1
-- 2026-11-03 [PR #260: main is green again; merged main into the branch, CI re-running, parked](docs/report/2026-11/2026-11-03-pr-260-main-is-green-again-merged-main-into-the-br-9e02jlaw.md) `dc_j59e02jlaw` · Cleo 1
-- 2026-11-03 [Export lag sample: server restarted at 20:41:50Z, next export ~03:41:55Z; parked again](docs/report/2026-11/2026-11-03-export-lag-sample-server-restarted-at-20-41-50z-ne-llmuoorb.md) `dc_vbllmuoorb` · Cleo 1
-- 2026-11-02 [Prod rollup #29: export's git commit fixed on Fly and verified live; tick benchmark says live p95 hits 500 ms at ~1.5× today's world; Bank overdraft is holding funded work](docs/report/2026-11/2026-11-02-prod-rollup-29-export-s-git-commit-fixed-on-fly-an-xc3z8hyk.md) `dc_q4xc3z8hyk` · Cleo
-- 2026-11-02 [Export commit fixed live (d268507 at 04:42Z, error null); lag sample parked for the 18:42Z export](docs/report/2026-11/2026-11-02-export-commit-fixed-live-d268507-at-04-42z-error-n-ndxc4xwz.md) `dc_cxndxc4xwz` · Cleo 1
-- 2026-11-02 [gr_n0p3ast5pp step 2: docs/scaling.md in PR #260 (8 resources with triggers); parked on CI, which is red on main from manual.md](docs/report/2026-11/2026-11-02-gr-n0p3ast5pp-step-2-docs-scaling-md-in-pr-260-8-r-u2qa641y.md) `dc_scu2qa641y` · Cleo 1
-- 2026-11-02 [gr_n0p3ast5pp step 1: tick benchmark 1×/2×/4× published (dc_er6dxw6kil); live p95 hits 500 ms at about 1.5× today's world](docs/report/2026-11/2026-11-02-gr-n0p3ast5pp-step-1-tick-benchmark-1-2-4-publishe-qj3u13pd.md) `dc_8kqj3u13pd` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

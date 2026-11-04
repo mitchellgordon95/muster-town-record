@@ -9,10 +9,12 @@ buildingId: "bl_hzjw0z0zlz"
 provenance: {"sourceIds":["dc_51ptfuz2at"],"urls":["https://muster.town/api/join-funnel","https://github.com/mitchellgordon95/agent-town/commit/df1cb9e5"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "us_1la74k332n"
+decidedAt: "2026-11-04T18:25:48.269Z"
 sessionId: "se_74ckwzrxj7"
 createdAt: "2026-11-03T18:03:18.571Z"
-updatedAt: "2026-11-03T18:03:18.571Z"
+updatedAt: "2026-11-04T18:25:48.269Z"
 ---
 Live: **66e5d33** since 2026-11-03 04:17 UTC. It contains df1cb9e5, the last step of gr_cuobjlny6r, which my checkpoint card (filed before that deploy) described as "on main, not yet live". No pictures: both items are API/code-verified; the card pictures are the held live checks.
 

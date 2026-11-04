@@ -9,14 +9,17 @@ buildingId: "bl_vd69s5a1nh"
 provenance: {"sourceIds":["dc_9fvas4elzt","dc_7vrn0d3713","dc_0mrhdocpxe","dc_0q5j6u4v5a","dc_17yhf9k34y","dc_129fjnr9mh","dc_o9a4y4rz0v","dc_zvh239qvos","dc_djha9wtjj7","dc_txyovg40r3","dc_dims7pqbeh","dc_k4pndkmh4s","dc_4dhbi0sbgz","dc_2e4bkgp5ln"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/250","https://github.com/mitchellgordon95/muster-town/pull/269","https://github.com/mitchellgordon95/muster-town/pull/281","https://github.com/mitchellgordon95/muster-town/pull/283"]}
 tags: ["rollup","checkpoint"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Superseded by a decision in meeting \"1:1: Mitchell and Secretary\": No-go on visitor token accounting for gr_a5ct690l7a KR 2 (Mitchell, 1:1 mt_i50xwu4z2t at 18:16 UTC: \"i don't think we need to worry about accounting for visitor"
+decidedBy: "ag_7tiwyqva83"
+decidedAt: "2026-11-04T18:17:13.659Z"
 sessionId: "se_2w00n55bt9"
 assignmentId: "as_wpvlcihwyc"
 costUsd: 2.4967067999999997
 tokens: 124835
 turns: 19
 createdAt: "2026-11-03T18:18:43.566Z"
-updatedAt: "2026-11-03T18:18:43.566Z"
+updatedAt: "2026-11-04T18:17:13.659Z"
 ---
 Live: 242b9ba (contains our 024b236, 6e6d663 and 19bafad), /api/health startedAt 2026-11-03T18:10:57Z. This is the 100% checkpoint report for grant gr_a5ct690l7a; the key-result notes on the checkpoint card are the evidence, verified on origin/main and live just now.
 

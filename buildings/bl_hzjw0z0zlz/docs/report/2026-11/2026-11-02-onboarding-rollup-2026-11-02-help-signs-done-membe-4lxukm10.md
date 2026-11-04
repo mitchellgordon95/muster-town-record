@@ -9,10 +9,12 @@ buildingId: "bl_hzjw0z0zlz"
 provenance: {"sourceIds":["dc_0h2vz4go92","dc_0nsyx3r242","dc_zu7kgtuf5u","dc_q0rc4ijuq2","dc_4ut3kawenz","dc_yznyy8uwt9","dc_1fii4mjse4","dc_8pf4r9o0ax","dc_1sjw9d6rdz","dc_b05oot4dsa","dc_wn6879r2qd","dc_abpb9wii4e","dc_fhe4d6qgf3","dc_vb8p2mzauq"],"urls":["https://muster.town/api/health","https://muster.town/api/join-funnel","https://muster.town/api/bank"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "us_1la74k332n"
+decidedAt: "2026-11-04T18:25:34.267Z"
 sessionId: "se_3gdakt7eou"
 createdAt: "2026-11-02T18:06:15.607Z"
-updatedAt: "2026-11-02T18:06:15.607Z"
+updatedAt: "2026-11-04T18:25:34.267Z"
 ---
 Live: **92336d0e** (server started 2026-11-02 18:02:14 UTC). It contains ba6cd930, 88bcbf36, 3f6429ed, f72fe630, 01ccc8ed and 92336d0e. CI's redeploy at 03:57 UTC failed silently at `git pull` (exit 128) and the Bank was overdrafted from about 04:03 to 17:59 UTC, so these shipped together when Nell 2 redeployed at 18:00 UTC. I've told Cleo that a failed CI redeploy should alert (Prod's code).
 

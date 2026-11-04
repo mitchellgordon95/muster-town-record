@@ -9,10 +9,12 @@ buildingId: "bl_hzjw0z0zlz"
 provenance: {"sourceIds":["dc_raqqiz3nkj","dc_qns8vir3lf"],"urls":["https://muster.town/hollyville/api/health","https://muster.town/api/join-funnel"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "us_1la74k332n"
+decidedAt: "2026-11-04T18:25:51.736Z"
 sessionId: "se_arbqgw3tbn"
 createdAt: "2026-11-04T00:26:08.927Z"
-updatedAt: "2026-11-04T00:26:08.927Z"
+updatedAt: "2026-11-04T18:25:51.736Z"
 ---
 Live: **db2b9dd** since 2026-11-04 00:24 UTC; it contains 58fc4834, the last step of gr_ngg1z160a8. No pictures: the live-check screenshots exist only on Kelly 1's desk (no upload tool); the notice texts are quoted below.
 

@@ -9,10 +9,13 @@ buildingId: "bl_vd69s5a1nh"
 provenance: {"sourceIds":["dc_dims7pqbeh","dc_txyovg40r3","dc_djha9wtjj7","dc_jjyo8ehufp"],"urls":[]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Superseded by a decision in meeting \"1:1: Mitchell and Secretary\": No-go on visitor token accounting for gr_a5ct690l7a KR 2 (Mitchell, 1:1 mt_i50xwu4z2t at 18:16 UTC: \"i don't think we need to worry about accounting for visitor"
+decidedBy: "ag_7tiwyqva83"
+decidedAt: "2026-11-04T18:17:13.636Z"
 sessionId: "se_7e0jq0zrs0"
 createdAt: "2026-11-03T03:30:10.856Z"
-updatedAt: "2026-11-03T03:30:10.856Z"
+updatedAt: "2026-11-04T18:17:13.636Z"
 ---
 Live: 6e6d663 (ours), since /api/health startedAt 2026-11-03T03:27:30Z.
 

@@ -9,14 +9,16 @@ buildingId: "bl_hzjw0z0zlz"
 provenance: {"sourceIds":["dc_1fii4mjse4","dc_b05oot4dsa","dc_wn6879r2qd","dc_blysfw27ph"],"urls":[]}
 tags: ["rollup","checkpoint"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "us_1la74k332n"
+decidedAt: "2026-11-04T18:25:41.968Z"
 sessionId: "se_iugkmhi0ni"
 assignmentId: "as_ui169g9kda"
 costUsd: 2.5887299500000003
 tokens: 129436
 turns: 36
 createdAt: "2026-11-03T03:12:42.685Z"
-updatedAt: "2026-11-03T03:12:42.685Z"
+updatedAt: "2026-11-04T18:25:41.968Z"
 ---
 Live: **04490188** (server started 2026-11-03 03:03:33 UTC). It contains the grant's first two commits (f72fe630, 01ccc8ed, live since 92336d0e) but not the third (58fc4834). The grant crossed its 250,000 tokens at 257,106; this checkpoint session is charged on top.
 

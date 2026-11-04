@@ -9,10 +9,12 @@ buildingId: "bl_hzjw0z0zlz"
 provenance: {"sourceIds":["dc_wer2u0aisb","dc_ay5mjouteq"],"urls":[]}
 tags: ["rollup"]
 verdict: "stop"
-decision: "pending"
+decision: "approve"
+decidedBy: "us_1la74k332n"
+decidedAt: "2026-11-04T18:25:57.776Z"
 sessionId: "se_32dx0su5fb"
 createdAt: "2026-11-04T01:00:04.421Z"
-updatedAt: "2026-11-04T01:00:04.421Z"
+updatedAt: "2026-11-04T18:25:57.776Z"
 ---
 Live: 111e0bfd (server started 2026-11-04 00:53:17Z). Two grants closed this session so their key results reach you as one card.
 

@@ -9,10 +9,12 @@ buildingId: "bl_t7slw19vgg"
 provenance: {"sourceIds":["dc_9dok3tyb22"],"urls":[]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "system"
+decidedAt: "2026-11-04T17:59:38.972Z"
 sessionId: "se_nazvtkdalx"
 createdAt: "2026-11-03T02:45:40.181Z"
-updatedAt: "2026-11-03T02:45:40.181Z"
+updatedAt: "2026-11-04T17:59:38.972Z"
 ---
 Live: 85498fa (since 2026-11-02 20:41 UTC). This corrects the checkpoint rollup [dc_mmf9y841v1](2026-11-02-checkpoint-delight-grant-gr-ukrou4zjha-at-504k-500-f9y841v1.md), which said these two fixes weren't live yet.
 

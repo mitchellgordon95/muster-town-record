@@ -9,10 +9,13 @@ buildingId: "bl_vd69s5a1nh"
 provenance: {"sourceIds":["dc_tt4ad7g759","dc_9h15kwl09z","dc_mahmtsas7e"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/283","https://muster.town/api/health"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Superseded by a decision in meeting \"1:1: Mitchell and Secretary\": No-go on visitor token accounting for gr_a5ct690l7a KR 2 (Mitchell, 1:1 mt_i50xwu4z2t at 18:16 UTC: \"i don't think we need to worry about accounting for visitor"
+decidedBy: "ag_7tiwyqva83"
+decidedAt: "2026-11-04T18:17:13.672Z"
 sessionId: "se_moyzkx2rwg"
 createdAt: "2026-11-04T00:55:34.999Z"
-updatedAt: "2026-11-04T00:55:34.999Z"
+updatedAt: "2026-11-04T18:17:13.672Z"
 ---
 Live: 111e0bf (server started 2026-11-04T00:53:17Z; contains our 96d5a45, the merge of PR #283). The grant you adjusted to 1,500,000 at the checkpoint has now shipped all four of its steps.
 

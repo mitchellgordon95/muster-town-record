@@ -9,14 +9,16 @@ buildingId: "bl_xvgnd1fvh6"
 provenance: {"sourceIds":["dc_ys38iqjp5l","dc_8kqj3u13pd","dc_scu2qa641y","dc_j59e02jlaw","dc_pesfo75mu9","dc_bvazobk9tz","dc_zq0j0km04l","dc_hbyo3dp8m2"],"urls":[]}
 tags: ["rollup","checkpoint"]
 verdict: "stop"
-decision: "pending"
+decision: "approve"
+decidedBy: "system"
+decidedAt: "2026-11-04T17:59:39.028Z"
 sessionId: "se_qualrxbkk2"
 assignmentId: "as_ta6hdtxm9q"
 costUsd: 3.8056916999999997
 tokens: 190285
 turns: 45
 createdAt: "2026-11-04T01:07:12.215Z"
-updatedAt: "2026-11-04T01:07:12.215Z"
+updatedAt: "2026-11-04T17:59:39.028Z"
 ---
 Live: 9a119d14 since 2026-11-04 01:00 UTC (my merge of PR #289; it also carries PR #291). Grant gr_n0p3ast5pp closed as done via close_grant: all three key results are on main and live, so this is its close report, not a checkpoint.
 

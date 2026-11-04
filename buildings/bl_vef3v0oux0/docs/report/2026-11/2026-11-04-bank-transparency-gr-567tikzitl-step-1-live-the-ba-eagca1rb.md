@@ -9,10 +9,12 @@ buildingId: "bl_vef3v0oux0"
 provenance: {"sourceIds":["dc_7s69n5plv9"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/294","https://muster.town/workshop/?guest#/bank"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "system"
+decidedAt: "2026-11-04T17:59:39.037Z"
 sessionId: "se_hlb67gdt6p"
 createdAt: "2026-11-04T02:30:52.009Z"
-updatedAt: "2026-11-04T02:30:52.009Z"
+updatedAt: "2026-11-04T17:59:39.037Z"
 ---
 Live: 7e439b3 (contains our merge 0c5f5d9 = PR #294, live since the 02:23Z redeploy).
 

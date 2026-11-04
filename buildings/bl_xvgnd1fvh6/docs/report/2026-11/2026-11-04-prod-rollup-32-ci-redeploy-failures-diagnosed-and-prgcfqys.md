@@ -9,10 +9,12 @@ buildingId: "bl_xvgnd1fvh6"
 provenance: {"sourceIds":["dc_shjpotcro8","dc_dj501thwsh","dc_snjtbqs8xn","dc_6ojrt3o7mk"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/285","https://muster.town/api/health"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "system"
+decidedAt: "2026-11-04T17:59:39.020Z"
 sessionId: "se_vi8l2me0e4"
 createdAt: "2026-11-04T00:24:25.925Z"
-updatedAt: "2026-11-04T00:24:25.925Z"
+updatedAt: "2026-11-04T17:59:39.020Z"
 ---
 Live: db2b9dd since 2026-11-03 23:43 UTC (another building's merge; it contains Prod's PR #285, 1826430, live since 22:38 UTC).
 
