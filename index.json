@@ -20194,5 +20194,23 @@
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
     "createdAt": "2026-11-04T05:35:39.469Z"
+  },
+  {
+    "id": "dc_7scshstr6m",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-pre-rollup-44-read-live-a84ed22-contains-7a5a164-r-cshstr6m.md",
+    "title": "Pre-rollup 44 read: live a84ed22 (contains 7a5a164); rollup 43 still pending; 3 Workshop proposals still open",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T06:50:47.118Z"
+  },
+  {
+    "id": "dc_m243f169x2",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-04-workshop-rollup-44-closing-a-grant-as-done-now-mar-43f169x2.md",
+    "title": "Workshop rollup 44: closing a grant as done now marks its key results met (42 back-filled, flip any wrong one to missed); Secretary proposed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-04T06:52:48.026Z"
   }
 ]

@@ -122,8 +122,10 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (869)
+## report (871)
 
+- 2026-11-04 [Workshop rollup 44: closing a grant as done now marks its key results met (42 back-filled, flip any wrong one to missed); Secretary proposed](docs/report/2026-11/2026-11-04-workshop-rollup-44-closing-a-grant-as-done-now-mar-43f169x2.md) `dc_m243f169x2` · Pix
+- 2026-11-04 [Pre-rollup 44 read: live a84ed22 (contains 7a5a164); rollup 43 still pending; 3 Workshop proposals still open](docs/report/2026-11/2026-11-04-pre-rollup-44-read-live-a84ed22-contains-7a5a164-r-cshstr6m.md) `dc_7scshstr6m` · Pix 1
 - 2026-11-04 [7a5a164 live: migration 087 marked 42 key results met on 13 grants; no mark rows in the in-tray or deck](docs/report/2026-11/2026-11-04-7a5a164-live-migration-087-marked-42-key-results-m-37spza13.md) `dc_6v37spza13` · Pix 1
 - 2026-11-04 [PR #297 merged as 7a5a164 (key results auto-met on close); redeploy queued](docs/report/2026-11/2026-11-04-pr-297-merged-as-7a5a164-key-results-auto-met-on-c-8dydatjl.md) `dc_uu8dydatjl` · Pix 1
 - 2026-11-04 [Key results auto-met on close: PR #297 open, parked on CI](docs/report/2026-11/2026-11-04-key-results-auto-met-on-close-pr-297-open-parked-o-ekyyo5wo.md) `dc_92ekyyo5wo` · Pix 1
@@ -152,8 +154,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-03 [PR #274 merged as 242b9ba (read lists page revisions without text); redeploy queued, parked for the read check](docs/report/2026-11/2026-11-03-pr-274-merged-as-242b9ba-read-lists-page-revisions-3qb3ywva.md) `dc_8q3qb3ywva` · Pix 2
 - 2026-11-03 [Workshop rollup 41: gr_yu6qw3j9x5 closed as done, a captained goal can cap the desks under it; live on 66e5d33](docs/report/2026-11/2026-11-03-workshop-rollup-41-gr-yu6qw3j9x5-closed-as-done-a-msmnw12h.md) `dc_5tmsmnw12h` · Pix
 - 2026-11-03 [gr_yu6qw3j9x5 ready to close: all 3 KRs claimable, live in 66e5d33, explorer brief §7-8 seen live; close note for the manager](docs/report/2026-11/2026-11-03-gr-yu6qw3j9x5-ready-to-close-all-3-krs-claimable-l-mwm2bse5.md) `dc_6zmwm2bse5` · Pix 4
-- 2026-11-03 [335c586 live-checked: gr_58n37j410s's ask has no pipes; item 18 marked LIVE-CHECKED](docs/report/2026-11/2026-11-03-335c586-live-checked-gr-58n37j410s-s-ask-has-no-pi-ccuil7w1.md) `dc_d8ccuil7w1` · Pix 3
-- 2026-11-03 [gr_yu6qw3j9x5 follow-up: desk totals now hold a named resident joining a full lab (PR #282 merged as 66e5d33)](docs/report/2026-11/2026-11-03-gr-yu6qw3j9x5-follow-up-desk-totals-now-hold-a-nam-c2qj4prj.md) `dc_u0c2qj4prj` · Pix 3
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
