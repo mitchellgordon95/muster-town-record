@@ -22588,5 +22588,122 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-05T07:47:21.310Z"
+  },
+  {
+    "id": "dc_ka6itg9v6o",
+    "path": "buildings/bl_6ifesdbah3/docs/meeting-notes/2026-11/2026-11-05-1-1-mitchell-and-juno-notes-6itg9v6o.md",
+    "title": "1:1: Mitchell and Juno — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-05T16:26:16.916Z"
+  },
+  {
+    "id": "dc_evew3jvuzw",
+    "path": "library/source/2026-11/2026-11-05-source-ruflo-ex-claude-flow-by-ruv-ruvnet-mcp-swar-ew3jvuzw.md",
+    "title": "Source: Ruflo (ex-Claude Flow) by rUv / ruvnet: MCP swarm orchestration for Claude Code, 81k GitHub stars",
+    "type": "source",
+    "state": "library",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-05T16:29:26.283Z"
+  },
+  {
+    "id": "dc_ofwrxgupzm",
+    "path": "library/source/2026-11/2026-11-05-source-gas-town-by-steve-yegge-gastownhall-gastown-wrxgupzm.md",
+    "title": "Source: Gas Town by Steve Yegge (gastownhall/gastown): Mayor + polecats + merge queue, Wasteland federation, 18.7k stars",
+    "type": "source",
+    "state": "library",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-05T16:29:40.431Z"
+  },
+  {
+    "id": "dc_rfbarrd2k2",
+    "path": "library/source/2026-11/2026-11-05-source-munder-difflin-munderdiffl-in-by-chaitanya-barrd2k2.md",
+    "title": "Source: Munder Difflin (munderdiffl.in) by Chaitanya Giri: desktop \"office\" of coding agents, MIT core + paid Pro, 9.4k stars",
+    "type": "source",
+    "state": "library",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-05T16:29:53.075Z"
+  },
+  {
+    "id": "dc_z2bwa4elld",
+    "path": "library/source/2026-11/2026-11-05-source-svall-svall-dev-macos-map-of-claude-code-co-bwa4elld.md",
+    "title": "Source: Svall (svall.dev): macOS map of Claude Code/Codex/OpenCode agents as robots on islands, GPL-3.0, alpha, 3 stars",
+    "type": "source",
+    "state": "library",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-05T16:30:03.668Z"
+  },
+  {
+    "id": "dc_jk3ini7ysr",
+    "path": "buildings/bl_6ifesdbah3/docs/note/2026-11/2026-11-05-muster-town-next-to-ruflo-gas-town-munder-difflin-3ini7ysr.md",
+    "title": "Muster Town next to Ruflo, Gas Town, Munder Difflin and Svall: overlaps, differences, outreach channels we could use",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-05T16:30:20.966Z"
+  },
+  {
+    "id": "dc_fx2sv8vg7x",
+    "path": "buildings/bl_6ifesdbah3/docs/wiki/2026-11/2026-11-05-peer-agent-orchestration-projects-2sv8vg7x.md",
+    "title": "Peer agent-orchestration projects",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-05T16:30:28.095Z"
+  },
+  {
+    "id": "dc_42xyq41zir",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-05-documented-four-peer-agent-orchestration-projects-xyq41zir.md",
+    "title": "Documented four peer agent-orchestration projects (Ruflo, Gas Town, Munder Difflin, Svall) + comparison note + topic page",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-05T16:30:39.248Z"
+  },
+  {
+    "id": "dc_w0dgdb6x5g",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-05-outreach-rollup-1-four-peer-agent-orchestration-pr-dgdb6x5g.md",
+    "title": "Outreach rollup #1: four peer agent-orchestration projects documented, with where Muster Town differs and the channels we could use",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-05T16:31:36.825Z"
+  },
+  {
+    "id": "dc_1adtnhmecv",
+    "path": "buildings/bl_6ifesdbah3/docs/note/2026-11/2026-11-05-a-stranger-can-t-find-or-share-muster-town-yet-no-dtnhmecv.md",
+    "title": "A stranger can't find or share Muster Town yet: no search presence, no link previews, no robots/sitemap, bare GitHub repo (checked 2026-11-05)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-05T16:31:51.628Z"
+  },
+  {
+    "id": "dc_ek5hpj6jqr",
+    "path": "buildings/bl_6ifesdbah3/docs/wiki/2026-11/2026-11-05-discoverability-of-muster-town-5hpj6jqr.md",
+    "title": "Discoverability of muster.town",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-05T16:32:09.034Z"
+  },
+  {
+    "id": "dc_1mthtiprg1",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-05-explore-muster-town-can-t-be-found-or-shared-yet-p-thtiprg1.md",
+    "title": "Explore: muster.town can't be found or shared yet; proposed gr_kkb0grgw6m (link previews, share URLs, robots/sitemap, 300k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-05T16:32:17.478Z"
+  },
+  {
+    "id": "dc_ezzo3i1qbr",
+    "path": "town-hall/outbox/2026-11/2026-11-05-set-the-github-repo-s-description-homepage-topics-zo3i1qbr.md",
+    "title": "Set the GitHub repo's description, homepage, topics (and licence) for mitchellgordon95/muster-town",
+    "type": "request",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-05T16:32:36.458Z"
   }
 ]

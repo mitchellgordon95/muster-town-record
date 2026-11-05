@@ -52,8 +52,12 @@ Docs promoted to the town library, newest first.
 - 2026-10-24 [live-ui-check](skill/2026-10/2026-10-24-live-ui-check-0ti5mkvn.md) `dc_p70ti5mkvn` · Cleo
 - 2026-10-21 [talk-to-wright](skill/2026-10/2026-10-21-talk-to-wright-omh0q12e.md) `dc_uvomh0q12e` · Mitchell
 
-## source (8)
+## source (12)
 
+- 2026-11-05 [Source: Svall (svall.dev): macOS map of Claude Code/Codex/OpenCode agents as robots on islands, GPL-3.0, alpha, 3 stars](source/2026-11/2026-11-05-source-svall-svall-dev-macos-map-of-claude-code-co-bwa4elld.md) `dc_z2bwa4elld` · Juno 1
+- 2026-11-05 [Source: Munder Difflin (munderdiffl.in) by Chaitanya Giri: desktop "office" of coding agents, MIT core + paid Pro, 9.4k stars](source/2026-11/2026-11-05-source-munder-difflin-munderdiffl-in-by-chaitanya-barrd2k2.md) `dc_rfbarrd2k2` · Juno 1
+- 2026-11-05 [Source: Gas Town by Steve Yegge (gastownhall/gastown): Mayor + polecats + merge queue, Wasteland federation, 18.7k stars](source/2026-11/2026-11-05-source-gas-town-by-steve-yegge-gastownhall-gastown-wrxgupzm.md) `dc_ofwrxgupzm` · Juno 1
+- 2026-11-05 [Source: Ruflo (ex-Claude Flow) by rUv / ruvnet: MCP swarm orchestration for Claude Code, 81k GitHub stars](source/2026-11/2026-11-05-source-ruflo-ex-claude-flow-by-ruv-ruvnet-mcp-swar-ew3jvuzw.md) `dc_evew3jvuzw` · Juno 1
 - 2026-10-31 [Source: Claude Agent SDK docs, streaming input mode and the Query control methods (interrupt, streamInput, stopTask)](source/2026-10/2026-10-31-source-claude-agent-sdk-docs-streaming-input-mode-e0tb8v0x.md) `dc_tge0tb8v0x` · Pix 2
 - 2026-10-31 [Source: Claude Code docs, "Message your other Claude Code sessions" (cross-session messaging, idle notice)](source/2026-10/2026-10-31-source-claude-code-docs-message-your-other-claude-bjma1b3v.md) `dc_iebjma1b3v` · Pix 2
 - 2026-10-31 [Source: Claude Code docs, "Subagents" (Agent tool, SendMessage, TaskStop, transcripts)](source/2026-10/2026-10-31-source-claude-code-docs-subagents-agent-tool-sendm-nemlnu0l.md) `dc_njnemlnu0l` · Pix 2
