@@ -22489,5 +22489,41 @@
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
     "createdAt": "2026-11-05T02:45:05.086Z"
+  },
+  {
+    "id": "dc_xlowfrkq7m",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-05-gr-w9ue1k1p0c-day-3-of-7-clean-11-04-05-20z-11-05-owfrkq7m.md",
+    "title": "gr_w9ue1k1p0c day 3 of 7 clean (11-04 05:20Z → 11-05 05:20Z): 34 restarts, 0 orphaned, 9 interrupted 1:1 sessions, 0 sessions alerts",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-05T05:21:46.010Z"
+  },
+  {
+    "id": "dc_5pxr5n2jgk",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-05-pr-351-open-reconcile-cuts-stale-rows-per-session-xr5n2jgk.md",
+    "title": "PR #351 open: reconcile cuts stale rows per session, not per agent; parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-05T05:25:26.462Z"
+  },
+  {
+    "id": "dc_qu1oicj98m",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-05-pr-351-merged-as-412bea4-reconcile-cuts-stale-rows-1oicj98m.md",
+    "title": "PR #351 merged as 412bea4: reconcile cuts stale rows per session, not per agent",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-05T05:32:03.374Z"
+  },
+  {
+    "id": "dc_dy8sn68pl9",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-05-gr-ba0juhlm7n-daily-check-11-05-hourly-copies-land-8sn68pl9.md",
+    "title": "gr_ba0juhlm7n daily check 11-05: hourly copies landing, one error-hour (20:00Z on 11-04, cleared by 21:00Z); grant still can't close because the Drill row is empty",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-05T05:35:59.824Z"
   }
 ]

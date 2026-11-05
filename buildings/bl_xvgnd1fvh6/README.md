@@ -85,8 +85,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (260)
+## report (264)
 
+- 2026-11-05 [gr_ba0juhlm7n daily check 11-05: hourly copies landing, one error-hour (20:00Z on 11-04, cleared by 21:00Z); grant still can't close because the Drill row is empty](docs/report/2026-11/2026-11-05-gr-ba0juhlm7n-daily-check-11-05-hourly-copies-land-8sn68pl9.md) `dc_dy8sn68pl9` · Cleo 1
+- 2026-11-05 [PR #351 merged as 412bea4: reconcile cuts stale rows per session, not per agent](docs/report/2026-11/2026-11-05-pr-351-merged-as-412bea4-reconcile-cuts-stale-rows-1oicj98m.md) `dc_qu1oicj98m` · Cleo 1
+- 2026-11-05 [PR #351 open: reconcile cuts stale rows per session, not per agent; parked on CI](docs/report/2026-11/2026-11-05-pr-351-open-reconcile-cuts-stale-rows-per-session-xr5n2jgk.md) `dc_5pxr5n2jgk` · Cleo 1
+- 2026-11-05 [gr_w9ue1k1p0c day 3 of 7 clean (11-04 05:20Z → 11-05 05:20Z): 34 restarts, 0 orphaned, 9 interrupted 1:1 sessions, 0 sessions alerts](docs/report/2026-11/2026-11-05-gr-w9ue1k1p0c-day-3-of-7-clean-11-04-05-20z-11-05-owfrkq7m.md) `dc_xlowfrkq7m` · Cleo 1
 - 2026-11-05 [Prod rollup #39 (checkpoint gr_z2v838adk9, 505,122 / 500,000): a dead volume now restores itself from the newest good hourly copy and an empty town can't bury the backups, all live and tested; the timed 30-minute drill never ran because it needs flyctl on your machine](docs/report/2026-11/2026-11-05-prod-rollup-39-checkpoint-gr-z2v838adk9-505-122-50-wuaw2y9w.md) `dc_biwuaw2y9w` · Cleo
 - 2026-11-05 [Recover drill (dc_6gnk7y16y1): still no paste-back on 11-05; I can't park this again](docs/report/2026-11/2026-11-05-recover-drill-dc-6gnk7y16y1-still-no-paste-back-on-d48ns3v5.md) `dc_h9d48ns3v5` · Cleo 1
 - 2026-11-05 [PR #338 verified: origin/prod = de42d38; its main run finished green; no burst since to test queueing](docs/report/2026-11/2026-11-05-pr-338-verified-origin-prod-de42d38-its-main-run-f-0dem29fj.md) `dc_ai0dem29fj` · Cleo 1
@@ -113,10 +117,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-04 [gr_db6ofyd0yf step 2: PR #304 merged as d5dd09b7 on green CI; parked for the live check](docs/report/2026-11/2026-11-04-gr-db6ofyd0yf-step-2-pr-304-merged-as-d5dd09b7-on-16wgmroe.md) `dc_y716wgmroe` · Cleo 1
 - 2026-11-04 [Grant gr_db6ofyd0yf adjusted: 600,000 tokens](docs/report/2026-11/2026-11-04-grant-gr-db6ofyd0yf-adjusted-600-000-tokens-v2xtp5j3.md) `dc_aqv2xtp5j3` · Town
 - 2026-11-04 [gr_db6ofyd0yf step 2: missing creditId index was the cost; covering index (migration 089) cuts desk 2× tick p50 254 → 117 ms; PR #304 parked on CI](docs/report/2026-11/2026-11-04-gr-db6ofyd0yf-step-2-missing-creditid-index-was-th-orzov96w.md) `dc_04orzov96w` · Cleo 1
-- 2026-11-04 [Prod rollup #35 (checkpoint gr_db6ofyd0yf, 302,503 / 300,000): step 1 live cut the streams phase 32–43 → ~1.3 ms and the live tick 148 → ~115 ms; the Bank figure held; 200k more finishes steps 2–3 (median < 110 ms, scaling.md row)](docs/report/2026-11/2026-11-04-prod-rollup-35-checkpoint-gr-db6ofyd0yf-302-503-30-fur8t11d.md) `dc_s6fur8t11d` · Cleo
-- 2026-11-04 [Prod rollup #34: gr_db6ofyd0yf step 1 live (Bank figure unchanged, streams phase 32–43 → ~1.3 ms, live tick 148 → 132 ms); steps 2–3 queued](docs/report/2026-11/2026-11-04-prod-rollup-34-gr-db6ofyd0yf-step-1-live-bank-figu-uh3xa84m.md) `dc_97uh3xa84m` · Cleo
-- 2026-11-04 [gr_db6ofyd0yf step 1 live: Bank figure unchanged (124,404), streams phase 32–43 → ~1.3 ms, live tick median 148 → 132 ms (target < 110 needs steps 2–3)](docs/report/2026-11/2026-11-04-gr-db6ofyd0yf-step-1-live-bank-figure-unchanged-12-lubafakx.md) `dc_nelubafakx` · Cleo 1
-- 2026-11-04 [gr_db6ofyd0yf step 1: PR #302 merged (acf73450) on green CI; parked for the live check](docs/report/2026-11/2026-11-04-gr-db6ofyd0yf-step-1-pr-302-merged-acf73450-on-gre-s685koqz.md) `dc_ows685koqz` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
