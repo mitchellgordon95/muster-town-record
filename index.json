@@ -22480,5 +22480,14 @@
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
     "createdAt": "2026-11-05T02:40:25.860Z"
+  },
+  {
+    "id": "dc_biwuaw2y9w",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-05-prod-rollup-39-checkpoint-gr-z2v838adk9-505-122-50-wuaw2y9w.md",
+    "title": "Prod rollup #39 (checkpoint gr_z2v838adk9, 505,122 / 500,000): a dead volume now restores itself from the newest good hourly copy and an empty town can't bury the backups, all live and tested; the timed 30-minute drill never ran because it needs flyctl on your machine",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-05T02:45:05.086Z"
   }
 ]
