@@ -123,8 +123,10 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (960)
+## report (962)
 
+- 2026-11-05 [Rollup 48: the first daily digest card landed by itself at 07:00 UTC (41 decision lines, 19 rollups, 1,021 tokens)](docs/report/2026-11/2026-11-05-rollup-48-the-first-daily-digest-card-landed-by-it-aiem5mwl.md) `dc_qjaiem5mwl` · Pix
+- 2026-11-05 [First scheduled digest fired at 07:00:02Z: card dc_utbtoihrg5 is first in the Town Hall in-tray (41 decisions, 19 rollups, 1,021 tokens)](docs/report/2026-11/2026-11-05-first-scheduled-digest-fired-at-07-00-02z-card-dc-i3uzwyc1.md) `dc_8ti3uzwyc1` · Pix 1
 - 2026-11-04 [Rollup 47: Daily digest button and grouped digest card live, in-tray Cards view removed, hosted collectives name their own captain (aa6f4fbc)](docs/report/2026-11/2026-11-04-rollup-47-daily-digest-button-and-grouped-digest-c-1np62hlp.md) `dc_5f1np62hlp` · Pix
 - 2026-11-04 [Rollup 47 materials: all four changes are live on aa6f4fbc; the guest in-tray has no Cards toggle (mf_itjijx3uda)](docs/report/2026-11/2026-11-04-rollup-47-materials-all-four-changes-are-live-on-a-9ofcnhny.md) `dc_yp9ofcnhny` · Pix 1
 - 2026-11-04 [c7ae8169 (hosted collectives name their captain) is live; muster.town still says "Needs from Mitchell"; chain closed](docs/report/2026-11/2026-11-04-c7ae8169-hosted-collectives-name-their-captain-is-cz7su0tv.md) `dc_oncz7su0tv` · Pix 2
@@ -153,8 +155,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-04 [Publish falls back to GH_TOKEN: 2e8704f is live, block verified; waiting on Mitchell's empty repo URL](docs/report/2026-11/2026-11-04-publish-falls-back-to-gh-token-2e8704f-is-live-blo-t98pzpoe.md) `dc_w7t98pzpoe` · Pix 2
 - 2026-11-04 [Onboarding sweep 8: 3 manual fixes in PR #339, parked on CI](docs/report/2026-11/2026-11-04-onboarding-sweep-8-3-manual-fixes-in-pr-339-parked-v2jz6o6r.md) `dc_htv2jz6o6r` · Pix 1
 - 2026-11-04 [PR #333 had conflicts with main and its CI never ran: merged main in twice, local check green, parked on CI again](docs/report/2026-11/2026-11-04-pr-333-had-conflicts-with-main-and-its-ci-never-ra-ys92w4bl.md) `dc_4eys92w4bl` · Pix 2
-- 2026-11-04 [In-tray Cards view removed for everyone: PR #337 open, parked on CI](docs/report/2026-11/2026-11-04-in-tray-cards-view-removed-for-everyone-pr-337-ope-lrq1pnzl.md) `dc_ualrq1pnzl` · Pix 4
-- 2026-11-04 [Checkpoint for gr_kdlogzzo5s overtaken: Mitchell adjusted it to 1,500,000 before this ran; key result statuses set on the grant, PR #336 stops stale checkpoint assignments from running](docs/report/2026-11/2026-11-04-checkpoint-for-gr-kdlogzzo5s-overtaken-mitchell-ad-u0tw41ou.md) `dc_rju0tw41ou` · Pix
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

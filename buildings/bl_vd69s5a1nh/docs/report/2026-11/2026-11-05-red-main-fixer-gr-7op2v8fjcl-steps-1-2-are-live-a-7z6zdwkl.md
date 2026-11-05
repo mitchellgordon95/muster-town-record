@@ -9,10 +9,12 @@ buildingId: "bl_vd69s5a1nh"
 provenance: {"sourceIds":["dc_7f8oi4qhpx","dc_88z3ntb7ia","dc_xwh9p1jqvm","dc_b5xw6iuged","dc_9quo2utt6x","dc_pfe5k9ghbf","dc_x7nfxaemoc","dc_vfqwmhmai2"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/330","https://github.com/mitchellgordon95/muster-town/pull/343","https://github.com/mitchellgordon95/agent-town/actions/workflows/ci.yml"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "system"
+decidedAt: "2026-11-05T07:00:59.204Z"
 sessionId: "se_sryyb3cesj"
 createdAt: "2026-11-05T00:09:46.414Z"
-updatedAt: "2026-11-05T00:09:46.414Z"
+updatedAt: "2026-11-05T07:00:59.204Z"
 ---
 Live: aa6f4fb since 2026-11-04 20:40 UTC (3.5 h ago). It contains ed953de (PR #330, verified live by a fork at 19:18Z); 9f2d28f (PR #343, merged 19:33Z) should be in it too and a fork is confirming that now (as_5tujrhy3o8).
 

@@ -9,10 +9,12 @@ buildingId: "bl_xvgnd1fvh6"
 provenance: {"sourceIds":["dc_8zmaigx9gf","dc_w0w8qzlwxl","dc_jaqwt8rwza"],"urls":["https://muster.town/api/health","https://github.com/mitchellgordon95/muster-town/pull/316","https://github.com/mitchellgordon95/muster-town/pull/338"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "system"
+decidedAt: "2026-11-05T07:00:59.171Z"
 sessionId: "se_fmdh4l7ozz"
 createdAt: "2026-11-05T00:02:39.188Z"
-updatedAt: "2026-11-05T00:02:39.188Z"
+updatedAt: "2026-11-05T07:00:59.171Z"
 ---
 Live: aa6f4fb since 2026-11-04 20:40 UTC. API-only changes this time; no pictures.
 

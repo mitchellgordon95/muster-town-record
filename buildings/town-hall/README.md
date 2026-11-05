@@ -4,8 +4,9 @@ Goal: Make Muster Town something strangers can fund, steer, and trust
 
 Published docs (the board and the filing cabinet), newest first. Drafts are private and not exported.
 
-## digest (1)
+## digest (2)
 
+- 2026-11-05 [Digest 2026-11-05: 41 decisions, 19 rollups](docs/digest/2026-11/2026-11-05-digest-2026-11-05-41-decisions-19-rollups-btoihrg5.md) `dc_utbtoihrg5` · Secretary
 - 2026-11-04 [Digest 2026-11-04: 26 decisions, 187 rollups](docs/digest/2026-11/2026-11-04-digest-2026-11-04-26-decisions-187-rollups-y523bg2z.md) `dc_0ey523bg2z` · Secretary
 
 ## fyi (2)
@@ -22,6 +23,7 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [1:1: Mitchell and Planner — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-planner-notes-jeiwkj9c.md) `dc_13jeiwkj9c` · Planner
 - 2026-10-31 [1:1: Mitchell and Planner — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-planner-notes-9svbwtsx.md) `dc_tk9svbwtsx` · Planner
 
-## report (1)
+## report (2)
 
+- 2026-11-05 [Daily in-tray digest, 2026-11-05](docs/report/2026-11/2026-11-05-daily-in-tray-digest-2026-11-05-qez2kuv3.md) `dc_76qez2kuv3` · Secretary
 - 2026-10-31 [Session ended without a report: Message from Mitchell: why can i talk directly to you? are you a different kind of resident than the o…](docs/report/2026-10/2026-10-31-session-ended-without-a-report-message-from-mitche-d4ba5g15.md) `dc_ged4ba5g15` · Planner

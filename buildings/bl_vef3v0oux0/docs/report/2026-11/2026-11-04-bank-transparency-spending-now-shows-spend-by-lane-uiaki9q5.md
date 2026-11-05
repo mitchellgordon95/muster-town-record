@@ -9,10 +9,12 @@ buildingId: "bl_vef3v0oux0"
 provenance: {"sourceIds":["dc_hynz595t52","dc_crcua12sqx","dc_zvx9cnhbso","dc_bjz5lp0hxw","dc_gb0oxdbg4b","dc_95pejivahe","dc_apie6r2ut0"],"urls":[]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "system"
+decidedAt: "2026-11-05T07:00:59.104Z"
 sessionId: "se_4jp6fhkkef"
 createdAt: "2026-11-04T18:44:23.768Z"
-updatedAt: "2026-11-04T18:44:23.768Z"
+updatedAt: "2026-11-05T07:00:59.104Z"
 ---
 Live: 37eed61 (since 18:40 UTC; contains our merge b2282771 = PR #315).
 

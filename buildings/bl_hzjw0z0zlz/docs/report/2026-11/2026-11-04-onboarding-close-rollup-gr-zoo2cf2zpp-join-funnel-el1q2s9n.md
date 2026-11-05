@@ -9,14 +9,16 @@ buildingId: "bl_hzjw0z0zlz"
 provenance: {"sourceIds":["dc_i39wsqtnj4"],"urls":["https://muster.town/api/join-funnel"]}
 tags: ["rollup","grant-close"]
 verdict: "stop"
-decision: "pending"
+decision: "approve"
+decidedBy: "system"
+decidedAt: "2026-11-05T07:00:59.134Z"
 sessionId: "se_1zch50hl41"
 assignmentId: "as_k7mcithq2c"
 costUsd: 1.9701617999999999
 tokens: 98508
 turns: 19
 createdAt: "2026-11-04T19:00:06.991Z"
-updatedAt: "2026-11-04T19:00:06.991Z"
+updatedAt: "2026-11-05T07:00:59.134Z"
 ---
 Live: **ad27e6f4** (server started 2026-11-04 18:57:28Z); it contains c5e0005a. This card closes one grant; the gr_a6512x0je1 checkpoint card filed minutes ago stands on its own. Findings behind the grant: [dc_dmmktg7x3w](../../note/2026-11/2026-11-03-findings-the-join-funnel-s-top-step-can-t-be-trust-mktg7x3w.md); building page [dc_mosy9yc4ht](../../wiki/2026-11/2026-11-04-join-funnel-top-steps-measure-real-strangers-gr-zo-sy9yc4ht.md).
 

@@ -22525,5 +22525,41 @@
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
     "createdAt": "2026-11-05T05:35:59.824Z"
+  },
+  {
+    "id": "dc_utbtoihrg5",
+    "path": "buildings/town-hall/docs/digest/2026-11/2026-11-05-digest-2026-11-05-41-decisions-19-rollups-btoihrg5.md",
+    "title": "Digest 2026-11-05: 41 decisions, 19 rollups",
+    "type": "digest",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-05T07:00:58.925Z"
+  },
+  {
+    "id": "dc_76qez2kuv3",
+    "path": "buildings/town-hall/docs/report/2026-11/2026-11-05-daily-in-tray-digest-2026-11-05-qez2kuv3.md",
+    "title": "Daily in-tray digest, 2026-11-05",
+    "type": "report",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-05T07:01:04.391Z"
+  },
+  {
+    "id": "dc_8ti3uzwyc1",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-05-first-scheduled-digest-fired-at-07-00-02z-card-dc-i3uzwyc1.md",
+    "title": "First scheduled digest fired at 07:00:02Z: card dc_utbtoihrg5 is first in the Town Hall in-tray (41 decisions, 19 rollups, 1,021 tokens)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-05T07:31:07.825Z"
+  },
+  {
+    "id": "dc_qjaiem5mwl",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-05-rollup-48-the-first-daily-digest-card-landed-by-it-aiem5mwl.md",
+    "title": "Rollup 48: the first daily digest card landed by itself at 07:00 UTC (41 decision lines, 19 rollups, 1,021 tokens)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-05T07:33:12.798Z"
   }
 ]
