@@ -123,8 +123,11 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (962)
+## report (965)
 
+- 2026-11-05 [Digest dedupe is live on 1edf24dc: 15 Money + 6 Questions lines (was 18 + 22); no ask repeated](docs/report/2026-11/2026-11-05-digest-dedupe-is-live-on-1edf24dc-15-money-6-quest-xjviwcui.md) `dc_v5xjviwcui` · Pix 1
+- 2026-11-05 [Digest dedupe merged: PR #352 = 1edf24dc, live once CI promotes it](docs/report/2026-11/2026-11-05-digest-dedupe-merged-pr-352-1edf24dc-live-once-ci-6hkfzomt.md) `dc_436hkfzomt` · Pix 1
+- 2026-11-05 [Digest dedupe: PR #352 open (one line per in-tray row, no Questions repeats of Money asks); parked on CI](docs/report/2026-11/2026-11-05-digest-dedupe-pr-352-open-one-line-per-in-tray-row-zaoneizo.md) `dc_0kzaoneizo` · Pix 1
 - 2026-11-05 [Rollup 48: the first daily digest card landed by itself at 07:00 UTC (41 decision lines, 19 rollups, 1,021 tokens)](docs/report/2026-11/2026-11-05-rollup-48-the-first-daily-digest-card-landed-by-it-aiem5mwl.md) `dc_qjaiem5mwl` · Pix
 - 2026-11-05 [First scheduled digest fired at 07:00:02Z: card dc_utbtoihrg5 is first in the Town Hall in-tray (41 decisions, 19 rollups, 1,021 tokens)](docs/report/2026-11/2026-11-05-first-scheduled-digest-fired-at-07-00-02z-card-dc-i3uzwyc1.md) `dc_8ti3uzwyc1` · Pix 1
 - 2026-11-04 [Rollup 47: Daily digest button and grouped digest card live, in-tray Cards view removed, hosted collectives name their own captain (aa6f4fbc)](docs/report/2026-11/2026-11-04-rollup-47-daily-digest-button-and-grouped-digest-c-1np62hlp.md) `dc_5f1np62hlp` · Pix
@@ -152,9 +155,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-04 [In-tray crash fixed live (bcec74f): List, Cards, Stopped section and digest card all render](docs/report/2026-11/2026-11-04-in-tray-crash-fixed-live-bcec74f-list-cards-stoppe-ptju2s61.md) `dc_hrptju2s61` · Pix 1
 - 2026-11-04 [PR #336 (a continue/adjust/cut cancels a stale "Write the checkpoint" assignment) green and merged as c46e07b; no redeploy, prod is advancing again (live 2adb84c); Secretary step 3e queued](docs/report/2026-11/2026-11-04-pr-336-a-continue-adjust-cut-cancels-a-stale-write-jf5orfta.md) `dc_6yjf5orfta` · Pix
 - 2026-11-04 [Proposal card fix is live: gr_cwwtrabt2o no longer shows gr_ikgaundf5p's checkpoint lines](docs/report/2026-11/2026-11-04-proposal-card-fix-is-live-gr-cwwtrabt2o-no-longer-9hz5fu42.md) `dc_ti9hz5fu42` · Pix 2
-- 2026-11-04 [Publish falls back to GH_TOKEN: 2e8704f is live, block verified; waiting on Mitchell's empty repo URL](docs/report/2026-11/2026-11-04-publish-falls-back-to-gh-token-2e8704f-is-live-blo-t98pzpoe.md) `dc_w7t98pzpoe` · Pix 2
-- 2026-11-04 [Onboarding sweep 8: 3 manual fixes in PR #339, parked on CI](docs/report/2026-11/2026-11-04-onboarding-sweep-8-3-manual-fixes-in-pr-339-parked-v2jz6o6r.md) `dc_htv2jz6o6r` · Pix 1
-- 2026-11-04 [PR #333 had conflicts with main and its CI never ran: merged main in twice, local check green, parked on CI again](docs/report/2026-11/2026-11-04-pr-333-had-conflicts-with-main-and-its-ci-never-ra-ys92w4bl.md) `dc_4eys92w4bl` · Pix 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

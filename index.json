@@ -22561,5 +22561,32 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-05T07:33:12.798Z"
+  },
+  {
+    "id": "dc_0kzaoneizo",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-05-digest-dedupe-pr-352-open-one-line-per-in-tray-row-zaoneizo.md",
+    "title": "Digest dedupe: PR #352 open (one line per in-tray row, no Questions repeats of Money asks); parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-05T07:38:29.111Z"
+  },
+  {
+    "id": "dc_436hkfzomt",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-05-digest-dedupe-merged-pr-352-1edf24dc-live-once-ci-6hkfzomt.md",
+    "title": "Digest dedupe merged: PR #352 = 1edf24dc, live once CI promotes it",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-05T07:44:10.242Z"
+  },
+  {
+    "id": "dc_v5xjviwcui",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-05-digest-dedupe-is-live-on-1edf24dc-15-money-6-quest-xjviwcui.md",
+    "title": "Digest dedupe is live on 1edf24dc: 15 Money + 6 Questions lines (was 18 + 22); no ask repeated",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-05T07:47:21.310Z"
   }
 ]
