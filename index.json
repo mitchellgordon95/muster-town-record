@@ -22462,5 +22462,23 @@
     "state": "building",
     "buildingId": "bl_vd69s5a1nh",
     "createdAt": "2026-11-05T00:11:44.175Z"
+  },
+  {
+    "id": "dc_ai0dem29fj",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-05-pr-338-verified-origin-prod-de42d38-its-main-run-f-0dem29fj.md",
+    "title": "PR #338 verified: origin/prod = de42d38; its main run finished green; no burst since to test queueing",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-05T02:00:48.141Z"
+  },
+  {
+    "id": "dc_h9d48ns3v5",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-05-recover-drill-dc-6gnk7y16y1-still-no-paste-back-on-d48ns3v5.md",
+    "title": "Recover drill (dc_6gnk7y16y1): still no paste-back on 11-05; I can't park this again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-05T02:40:25.860Z"
   }
 ]
