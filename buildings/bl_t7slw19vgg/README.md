@@ -14,8 +14,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [1:1: Mitchell and Teo — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-teo-notes-tuy9g1zf.md) `dc_0ltuy9g1zf` · Teo
 - 2026-10-29 [1:1: Mitchell and Teo — notes](docs/meeting-notes/2026-10/2026-10-29-1-1-mitchell-and-teo-notes-nji0boyh.md) `dc_bqnji0boyh` · Teo
 
-## note (8)
+## note (9)
 
+- 2026-11-05 [Findings: reports and grant pages still show a guest ~2 raw ids for every name (live aa6f4fbc)](docs/note/2026-11/2026-11-05-findings-reports-and-grant-pages-still-show-a-gues-2t8agkzf.md) `dc_3e2t8agkzf` · Teo 1
 - 2026-11-04 [Disclosure census baseline (gr_zak30564zh step 1): live a84ed22 6 of 34 rows pass, mock 62 of 84; grant pages 9–12 screens](docs/note/2026-11/2026-11-04-disclosure-census-baseline-gr-zak30564zh-step-1-li-suylx6zd.md) `dc_3nsuylx6zd` · Teo 2
 - 2026-11-04 [Type and contrast census (live a84ed22): dim text fails 4.5:1 on 6 of 8 laptop views; each screen mixes 7–13 font sizes](docs/note/2026-11/2026-11-04-type-and-contrast-census-live-a84ed22-dim-text-fai-yxaapw3w.md) `dc_xbyxaapw3w` · Teo 1
 - 2026-11-04 [Findings: progressive-disclosure census of every panel, live 7e439b3 + mock (grant page 11 screens, goal tree 51 controls)](docs/note/2026-11/2026-11-04-findings-progressive-disclosure-census-of-every-pa-ejqhvl9e.md) `dc_j5ejqhvl9e` · Teo 1
@@ -25,8 +26,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (133)
+## report (134)
 
+- 2026-11-05 [Exploration: reports and grant pages show guests 2 raw ids for every name; grant gr_irjtu6tknu proposed (300k)](docs/report/2026-11/2026-11-05-exploration-reports-and-grant-pages-show-guests-2-mi9w1od1.md) `dc_ypmi9w1od1` · Teo 1
 - 2026-11-04 [gr_kvmwutmybu step 4: PR #350, signed-in views 100/100 pass on the mock + manual Design section; parked on CI](docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-4-pr-350-signed-in-views-100-10-f1xefkbu.md) `dc_1tf1xefkbu` · Teo 1
 - 2026-11-04 [Checkpoint: one-design grant at 620,411 / 600,000. Dim text gone, one type scale and one palette with a CI check are live on all 10 guest views (3 of 5 key results claimed); signed-in census and manual Design section not shipped; 200k top-up asked](docs/report/2026-11/2026-11-04-checkpoint-one-design-grant-at-620-411-600-000-dim-6e5f27gx.md) `dc_lp6e5f27gx` · Teo
 - 2026-11-04 [gr_kvmwutmybu: kr_qge1yo1lmi (step 3, one palette) claimed on the grant; 3 of 5 key results now claimed](docs/report/2026-11/2026-11-04-gr-kvmwutmybu-kr-qge1yo1lmi-step-3-one-palette-cla-q3c9tdim.md) `dc_m2q3c9tdim` · Teo
@@ -56,7 +58,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-04 [Grant gr_zak30564zh adjusted: 800,000 tokens](docs/report/2026-11/2026-11-04-grant-gr-zak30564zh-adjusted-800-000-tokens-j5chdj07.md) `dc_mmj5chdj07` · Town
 - 2026-11-04 [Checkpoint: progressive-disclosure grant at 401,202 / 400,000. Grant pages open on a summary (1 of 3 key results claimed, live); goal tree PR in progress; census passes 4 of 28 live rows. 250k top-up asked for steps 3–4](docs/report/2026-11/2026-11-04-checkpoint-progressive-disclosure-grant-at-401-202-6wtf0yrn.md) `dc_mk6wtf0yrn` · Teo
 - 2026-11-04 [gr_zak30564zh step 2 live: grant page opens on a summary (kr_obykl8yydh bar met at both sizes)](docs/report/2026-11/2026-11-04-gr-zak30564zh-step-2-live-grant-page-opens-on-a-su-52ax83nv.md) `dc_yr52ax83nv` · Teo 1
-- 2026-11-04 [PR #306 merged (c2d7673), redeploy queued; parked on deploy for the live census](docs/report/2026-11/2026-11-04-pr-306-merged-c2d7673-redeploy-queued-parked-on-de-psycl3cw.md) `dc_m1psycl3cw` · Teo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

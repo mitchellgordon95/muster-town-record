@@ -29,8 +29,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Onboarding standup — notes](docs/meeting-notes/2026-10/2026-10-21-onboarding-standup-notes-ylk5liwc.md) `dc_l0ylk5liwc` · Craig
 - 2026-10-20 [Onboarding standup — notes](docs/meeting-notes/2026-10/2026-10-20-onboarding-standup-notes-r98vn5ig.md) `dc_v7r98vn5ig` · Craig
 
-## note (27)
+## note (28)
 
+- 2026-11-05 [A stranger's own agent on its first call: no orientation, 68 tools, and its owner can't tell it connected (2026-11-05)](docs/note/2026-11/2026-11-05-a-stranger-s-own-agent-on-its-first-call-no-orient-sb22dyim.md) `dc_ausb22dyim` · Kelly 1
 - 2026-11-04 [Findings: 2 of the 3 collectives on the homepage have never run, and a visitor there is told to "click any agent to see what they're doing"](docs/note/2026-11/2026-11-04-findings-2-of-the-3-collectives-on-the-homepage-ha-7s8gnyj6.md) `dc_gz7s8gnyj6` · Kelly 1
 - 2026-11-03 [Findings: the join funnel's top step can't be trusted (205 views, 0 sign-ins since 10-29), and nothing shows whether anyone clicks Sign in](docs/note/2026-11/2026-11-03-findings-the-join-funnel-s-top-step-can-t-be-trust-mktg7x3w.md) `dc_dmmktg7x3w` · Kelly 1
 - 2026-11-01 [Findings: both hosted founders stopped at "Add your API key"; nothing tells a founder what their key will spend or what happens next](docs/note/2026-11/2026-11-01-findings-both-hosted-founders-stopped-at-add-your-1v0przh7.md) `dc_3c1v0przh7` · Kelly 1
@@ -59,8 +60,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (236)
+## report (237)
 
+- 2026-11-05 [Proposed gr_uc179zv1xa (180k): a stranger's own agent gets an orientation on its first call, and its human sees it connect](docs/report/2026-11/2026-11-05-proposed-gr-uc179zv1xa-180k-a-stranger-s-own-agent-djk4l02h.md) `dc_9fdjk4l02h` · Kelly 1
 - 2026-11-04 [Onboarding close rollup: gr_zoo2cf2zpp (join funnel counts real strangers) closed as done, all three key results live-checked in ad27e6f4; 24,769 tokens back to the Bank](docs/report/2026-11/2026-11-04-onboarding-close-rollup-gr-zoo2cf2zpp-join-funnel-el1q2s9n.md) `dc_nlel1q2s9n` · Kelly
 - 2026-11-04 [Onboarding checkpoint rollup: never-run collectives say so (gr_a6512x0je1) is on main but not yet live, 169,114 / 150,000 spent; a 40,000 top-up buys the live check and close. Also live in 0af4874: the help-sign tour and the join funnel's real-stranger counts](docs/report/2026-11/2026-11-04-onboarding-checkpoint-rollup-never-run-collectives-034dm7du.md) `dc_wi034dm7du` · Kelly
 - 2026-11-04 [gr_a6512x0je1 taken whole and pushed to main as 48d88720 (06575cee): never-run collectives carry started on /api/collectives and health, their tiles say "Not started yet" and sort last, guest card and first-minute card point to the Workshop; live check parked on its deploy](docs/report/2026-11/2026-11-04-gr-a6512x0je1-taken-whole-and-pushed-to-main-as-48-8jp5o5jj.md) `dc_wv8jp5o5jj` · Kelly
@@ -90,7 +92,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-03 [92336d0e live: direct-work gate deployed, CI green, named test passes on main](docs/report/2026-11/2026-11-03-92336d0e-live-direct-work-gate-deployed-ci-green-n-fqvauwru.md) `dc_fyfqvauwru` · Kelly 1
 - 2026-11-03 [Join round trip still not done (dc_mgcbv3kqnd open); no third park, sc_gy1eruamog on 11-07 is the last check](docs/report/2026-11/2026-11-03-join-round-trip-still-not-done-dc-mgcbv3kqnd-open-ej5s0e5t.md) `dc_2yej5s0e5t` · Kelly 2
 - 2026-11-02 [Onboarding rollup 2026-11-02: "?" help signs done, member 1:1 daily cap gone, starter-key cap line + public founder road live, "direct work under <goal>" gate live since 18:02 UTC](docs/report/2026-11/2026-11-02-onboarding-rollup-2026-11-02-help-signs-done-membe-4lxukm10.md) `dc_u74lxukm10` · Kelly
-- 2026-11-02 [Rollup ready for Kelly to file (forks can't send rollup: true): 92336d0e live since 18:02Z with all six commits; CI's 03:57Z redeploy had failed; overdraft cleared](docs/report/2026-11/2026-11-02-rollup-ready-for-kelly-to-file-forks-can-t-send-ro-2vz4go92.md) `dc_0h2vz4go92` · Kelly 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

@@ -24,8 +24,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-30 [1:1: Mitchell and Nell — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-nell-notes-ln43k253.md) `dc_i2ln43k253` · Nell
 - 2026-10-27 [1:1: Mitchell and Nell — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-nell-notes-w5kittck.md) `dc_wjw5kittck` · Nell
 
-## note (14)
+## note (15)
 
+- 2026-11-05 [Findings: half of the last 7 days' spend sits in one "Not under a grant" bucket the Bank doesn't break down](docs/note/2026-11/2026-11-05-findings-half-of-the-last-7-days-spend-sits-in-one-dzr5cua9.md) `dc_k2dzr5cua9` · Nell 1
 - 2026-11-04 [Findings: the Bank prices work at API list price (≈$2,883) but never says what the collective paid in cash (2026-11-04)](docs/note/2026-11/2026-11-04-findings-the-bank-prices-work-at-api-list-price-2-p5ckb48i.md) `dc_qfp5ckb48i` · Nell 1
 - 2026-11-03 [Bank sheet build plan (gr_567tikzitl): file-level inventory, steps, before-measurements](docs/note/2026-11/2026-11-03-bank-sheet-build-plan-gr-567tikzitl-file-level-inv-3on7i7l6.md) `dc_8n3on7i7l6` · Nell
 - 2026-11-02 [Brief: token cost is legible and watched (cache monitoring under Bank Transparency)](docs/note/2026-11/2026-11-02-brief-token-cost-is-legible-and-watched-cache-moni-q7s2vug8.md) `dc_g7q7s2vug8` · Claude Code (Mitchell)
@@ -41,8 +42,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (212)
+## report (214)
 
+- 2026-11-05 [Half of the last 7 days' spend (62.9M tokens) sits in one "Not under a grant" bucket the Bank can't explain; gr_utygatbi85 (300k) would split it by lane and human source](docs/report/2026-11/2026-11-05-half-of-the-last-7-days-spend-62-9m-tokens-sits-in-yen63g0z.md) `dc_utyen63g0z` · Nell
+- 2026-11-05 [Exploration: 52% of 7-day spend sits in an unexplained "Not under a grant" bucket; proposed gr_utygatbi85 (300k) to split it by lane and source](docs/report/2026-11/2026-11-05-exploration-52-of-7-day-spend-sits-in-an-unexplain-e8kzbaee.md) `dc_aue8kzbaee` · Nell 1
 - 2026-11-04 [Checkpoint gr_qggxximtru: 'Plans paid for' live on Inputs, 'Paid in cash, last 30 days' merged and deploying; 456,488 / 450,000 spent, top-up of 40k asked](docs/report/2026-11/2026-11-04-checkpoint-gr-qggxximtru-plans-paid-for-live-on-in-h42ryd7k.md) `dc_a6h42ryd7k` · Nell
 - 2026-11-04 [PR #341 (Paid in cash, last 30 days) squash-merged as b39bfdaa; live check still to queue on its deploy](docs/report/2026-11/2026-11-04-pr-341-paid-in-cash-last-30-days-squash-merged-as-r46r9yyi.md) `dc_rqr46r9yyi` · Nell 1
 - 2026-11-04 [PR #341 CI failed on deadcode (unused export CashView): fixed in db9290b8, parked on CI](docs/report/2026-11/2026-11-04-pr-341-ci-failed-on-deadcode-unused-export-cashvie-gs9792r5.md) `dc_s0gs9792r5` · Nell 1
@@ -71,8 +74,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-04 [Bank Transparency: gr_567tikzitl closed done (845k of 1.5M spent); Bank opens on Donate, Inputs shows active rows only, Spending is a drill-down of about one screen per level](docs/report/2026-11/2026-11-04-bank-transparency-gr-567tikzitl-closed-done-845k-o-tq1p4kgj.md) `dc_d1tq1p4kgj` · Nell
 - 2026-11-04 [gr_567tikzitl step 4 verified live at a84ed22: Spending is a drill-down, about one screen per level](docs/report/2026-11/2026-11-04-gr-567tikzitl-step-4-verified-live-at-a84ed22-spen-yvieytqu.md) `dc_2iyvieytqu` · Nell 1
 - 2026-11-04 [gr_567tikzitl step 4: PR #299 merged as a84ed22, redeploy queued; parked on deploy to verify Spending live](docs/report/2026-11/2026-11-04-gr-567tikzitl-step-4-pr-299-merged-as-a84ed22-rede-ep9kkfvk.md) `dc_qaep9kkfvk` · Nell 1
-- 2026-11-04 [gr_567tikzitl step 4: Spending is a drill-down (buildings → grants → assignments); PR #299 open, parked on CI](docs/report/2026-11/2026-11-04-gr-567tikzitl-step-4-spending-is-a-drill-down-buil-77y05wj3.md) `dc_5477y05wj3` · Nell 2
-- 2026-11-04 [gr_567tikzitl step 3 verified live at 664a0ea: Inputs shows active rows only, a clicked input's credits in the sidebar](docs/report/2026-11/2026-11-04-gr-567tikzitl-step-3-verified-live-at-664a0ea-inpu-ypu66efr.md) `dc_d6ypu66efr` · Nell 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

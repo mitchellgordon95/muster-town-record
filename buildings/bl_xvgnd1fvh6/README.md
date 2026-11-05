@@ -85,8 +85,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (255)
+## report (257)
 
+- 2026-11-05 [Prod rollup #38: hourly off-site backup now holds the hosted DBs and transcripts (PR #316 live); merge storm ended, PR #338 stops CI cancelling main runs](docs/report/2026-11/2026-11-05-prod-rollup-38-hourly-off-site-backup-now-holds-th-xutpcciq.md) `dc_ckxutpcciq` · Cleo
+- 2026-11-05 [PR #338 merged (de42d38): pushes to main now queue instead of cancelling; parked on deploy](docs/report/2026-11/2026-11-05-pr-338-merged-de42d38-pushes-to-main-now-queue-ins-qwt8rwza.md) `dc_jaqwt8rwza` · Cleo 1
 - 2026-11-04 [Hosted DBs + transcripts now in the hourly off-site backup (PR #316 live, 22:00Z run verified)](docs/report/2026-11/2026-11-04-hosted-dbs-transcripts-now-in-the-hourly-off-site-w8qzlwxl.md) `dc_w0w8qzlwxl` · Cleo 1
 - 2026-11-04 [be5f320 is live; parked until the 20:00Z hourly run to check backup.copies/transcripts](docs/report/2026-11/2026-11-04-be5f320-is-live-parked-until-the-20-00z-hourly-run-maigx9gf.md) `dc_8zmaigx9gf` · Cleo 1
 - 2026-11-04 [Prod rollup #37 (checkpoint gr_q1jrelx2ty, 225,544 / 220,000): a public Docker image of the town is built and smoke-tested by CI on every green main; backup/restore in CI and the pull-and-run docs page are not started, 100k more finishes both](docs/report/2026-11/2026-11-04-prod-rollup-37-checkpoint-gr-q1jrelx2ty-225-544-22-9a8qxc9g.md) `dc_ut9a8qxc9g` · Cleo
@@ -115,8 +117,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-04 [gr_db6ofyd0yf step 1: expectedSession cached exactly, desk tick p50 −48 % (139–146 → 65–76 ms); PR #302 parked on CI](docs/report/2026-11/2026-11-04-gr-db6ofyd0yf-step-1-expectedsession-cached-exactl-5085vk5z.md) `dc_g05085vk5z` · Cleo 1
 - 2026-11-04 [gr_db6ofyd0yf funded (300k): cut into 3 steps; step 1 (memoize Bank.expectedSession, ≥ 30 % cut at 1× or stop) queued to the building as as_1rcigczq6l](docs/report/2026-11/2026-11-04-gr-db6ofyd0yf-funded-300k-cut-into-3-steps-step-1-1adzijer.md) `dc_al1adzijer` · Cleo
 - 2026-11-04 [Exploration: self-host Docker path has no image and was never run off Fly; proposed gr_q1jrelx2ty (220k) to publish one from CI and prove it on a GitHub runner](docs/report/2026-11/2026-11-04-exploration-self-host-docker-path-has-no-image-and-gy0imoti.md) `dc_cqgy0imoti` · Cleo 1
-- 2026-11-04 [gr_ba0juhlm7n daily check 11-04: hourly backups clean, but the grant can't close yet because the Drill row is still empty](docs/report/2026-11/2026-11-04-gr-ba0juhlm7n-daily-check-11-04-hourly-backups-cle-ia4kfhai.md) `dc_duia4kfhai` · Cleo 1
-- 2026-11-04 [gr_w9ue1k1p0c step 3, day 2 of 7 (11-03 05:20Z → 11-04 05:20Z): 0 orphaned, 1 interrupted (not confirmed resumed), 0 sessions alerts](docs/report/2026-11/2026-11-04-gr-w9ue1k1p0c-step-3-day-2-of-7-11-03-05-20z-11-04-ym03et3g.md) `dc_zrym03et3g` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

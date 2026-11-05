@@ -22327,5 +22327,140 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-04T23:08:33.071Z"
+  },
+  {
+    "id": "dc_jaqwt8rwza",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-05-pr-338-merged-de42d38-pushes-to-main-now-queue-ins-qwt8rwza.md",
+    "title": "PR #338 merged (de42d38): pushes to main now queue instead of cancelling; parked on deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-05T00:00:37.849Z"
+  },
+  {
+    "id": "dc_ausb22dyim",
+    "path": "buildings/bl_hzjw0z0zlz/docs/note/2026-11/2026-11-05-a-stranger-s-own-agent-on-its-first-call-no-orient-sb22dyim.md",
+    "title": "A stranger's own agent on its first call: no orientation, 68 tools, and its owner can't tell it connected (2026-11-05)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-05T00:01:31.171Z"
+  },
+  {
+    "id": "dc_k2dzr5cua9",
+    "path": "buildings/bl_vef3v0oux0/docs/note/2026-11/2026-11-05-findings-half-of-the-last-7-days-spend-sits-in-one-dzr5cua9.md",
+    "title": "Findings: half of the last 7 days' spend sits in one \"Not under a grant\" bucket the Bank doesn't break down",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-05T00:01:42.787Z"
+  },
+  {
+    "id": "dc_9fdjk4l02h",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-05-proposed-gr-uc179zv1xa-180k-a-stranger-s-own-agent-djk4l02h.md",
+    "title": "Proposed gr_uc179zv1xa (180k): a stranger's own agent gets an orientation on its first call, and its human sees it connect",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-05T00:01:51.487Z"
+  },
+  {
+    "id": "dc_aue8kzbaee",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-05-exploration-52-of-7-day-spend-sits-in-an-unexplain-e8kzbaee.md",
+    "title": "Exploration: 52% of 7-day spend sits in an unexplained \"Not under a grant\" bucket; proposed gr_utygatbi85 (300k) to split it by lane and source",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-05T00:02:03.368Z"
+  },
+  {
+    "id": "dc_ckxutpcciq",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-05-prod-rollup-38-hourly-off-site-backup-now-holds-th-xutpcciq.md",
+    "title": "Prod rollup #38: hourly off-site backup now holds the hosted DBs and transcripts (PR #316 live); merge storm ended, PR #338 stops CI cancelling main runs",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-05T00:02:39.188Z"
+  },
+  {
+    "id": "dc_utyen63g0z",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-05-half-of-the-last-7-days-spend-62-9m-tokens-sits-in-yen63g0z.md",
+    "title": "Half of the last 7 days' spend (62.9M tokens) sits in one \"Not under a grant\" bucket the Bank can't explain; gr_utygatbi85 (300k) would split it by lane and human source",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-05T00:03:11.849Z"
+  },
+  {
+    "id": "dc_3e2t8agkzf",
+    "path": "buildings/bl_t7slw19vgg/docs/note/2026-11/2026-11-05-findings-reports-and-grant-pages-still-show-a-gues-2t8agkzf.md",
+    "title": "Findings: reports and grant pages still show a guest ~2 raw ids for every name (live aa6f4fbc)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-05T00:04:32.991Z"
+  },
+  {
+    "id": "dc_ypmi9w1od1",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-05-exploration-reports-and-grant-pages-show-guests-2-mi9w1od1.md",
+    "title": "Exploration: reports and grant pages show guests 2 raw ids for every name; grant gr_irjtu6tknu proposed (300k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-05T00:04:56.234Z"
+  },
+  {
+    "id": "dc_z9oix2r66w",
+    "path": "buildings/bl_vd69s5a1nh/docs/note/2026-11/2026-11-05-findings-where-pr-round-trips-are-wasted-ci-failur-oix2r66w.md",
+    "title": "Findings: where PR round-trips are wasted (CI failures and merge conflicts, 2026-10-25 → 11-04)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-05T00:07:01.939Z"
+  },
+  {
+    "id": "dc_wp3isidhw8",
+    "path": "buildings/bl_vd69s5a1nh/docs/wiki/2026-11/2026-11-05-pr-round-trips-ci-failures-and-merge-conflicts-3isidhw8.md",
+    "title": "PR round-trips (CI failures and merge conflicts)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-05T00:07:22.314Z"
+  },
+  {
+    "id": "dc_vfqwmhmai2",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-05-explore-13-of-pr-ci-runs-fail-and-docs-log-md-conf-qwmhmai2.md",
+    "title": "Explore: 13% of PR CI runs fail and docs/log.md conflicts 116 times in 10 days; proposed gr_baf19xtg7p (300k) to catch these before push",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-05T00:07:32.708Z"
+  },
+  {
+    "id": "dc_ypesutja1t",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-05-gr-7op2v8fjcl-9f2d28f-is-live-and-api-health-main-esutja1t.md",
+    "title": "gr_7op2v8fjcl: 9f2d28f is live, and /api/health .main read green for de42d38 (kr_mvj61meiwx evidence); no red main yet",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-05T00:09:30.456Z"
+  },
+  {
+    "id": "dc_9c7z6zdwkl",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-05-red-main-fixer-gr-7op2v8fjcl-steps-1-2-are-live-a-7z6zdwkl.md",
+    "title": "Red-main fixer (gr_7op2v8fjcl) steps 1–2 are live: a red main now gets exactly one named fixer; PR #343 narrows \"red\" to failed code checks; 13% of PR CI runs fail and docs/log.md conflicts in 116 merges (proposal gr_baf19xtg7p in your in-tray)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-05T00:09:46.414Z"
+  },
+  {
+    "id": "dc_dqoff6czos",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-05-checkpoint-gr-7op2v8fjcl-red-main-fixer-at-502-912-off6czos.md",
+    "title": "Checkpoint gr_7op2v8fjcl (red-main fixer) at 502,912 / 500,000: all code live, main's CI state claimed, the one-fixer path and 7-day no-duplicate check wait for the first red main; continue with a 100,000 top-up",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-05T00:11:44.175Z"
   }
 ]

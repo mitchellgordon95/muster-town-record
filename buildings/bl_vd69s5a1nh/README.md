@@ -14,8 +14,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-28-1-1-mitchell-and-mara-notes-ui0p5b1y.md) `dc_fpui0p5b1y` · Mara
 - 2026-10-27 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-mara-notes-c7in8y77.md) `dc_i2c7in8y77` · Mara
 
-## note (20)
+## note (21)
 
+- 2026-11-05 [Findings: where PR round-trips are wasted (CI failures and merge conflicts, 2026-10-25 → 11-04)](docs/note/2026-11/2026-11-05-findings-where-pr-round-trips-are-wasted-ci-failur-oix2r66w.md) `dc_z9oix2r66w` · Mara 1
 - 2026-11-03 [Red main 2026-10-28 → 11-02: 10 red episodes, causes, and one red fixed three times by three agents](docs/note/2026-11/2026-11-03-red-main-2026-10-28-11-02-10-red-episodes-causes-a-fcrlzdg9.md) `dc_pifcrlzdg9` · Mara 2
 - 2026-11-01 [Findings: CI tests are ~33% slower than the 10-30 baseline; half of core's test time is re-running 76 migrations](docs/note/2026-11/2026-11-01-findings-ci-tests-are-33-slower-than-the-10-30-bas-whsqb8ms.md) `dc_o3whsqb8ms` · Mara 1
 - 2026-11-01 [Findings: agent status has no state machine; a dismissed agent can still be revived (stop → resume)](docs/note/2026-11/2026-11-01-findings-agent-status-has-no-state-machine-a-dismi-z45ot157.md) `dc_04z45ot157` · Mara 1
@@ -37,8 +38,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (139)
+## report (143)
 
+- 2026-11-05 [Checkpoint gr_7op2v8fjcl (red-main fixer) at 502,912 / 500,000: all code live, main's CI state claimed, the one-fixer path and 7-day no-duplicate check wait for the first red main; continue with a 100,000 top-up](docs/report/2026-11/2026-11-05-checkpoint-gr-7op2v8fjcl-red-main-fixer-at-502-912-off6czos.md) `dc_dqoff6czos` · Mara
+- 2026-11-05 [Red-main fixer (gr_7op2v8fjcl) steps 1–2 are live: a red main now gets exactly one named fixer; PR #343 narrows "red" to failed code checks; 13% of PR CI runs fail and docs/log.md conflicts in 116 merges (proposal gr_baf19xtg7p in your in-tray)](docs/report/2026-11/2026-11-05-red-main-fixer-gr-7op2v8fjcl-steps-1-2-are-live-a-7z6zdwkl.md) `dc_9c7z6zdwkl` · Mara
+- 2026-11-05 [gr_7op2v8fjcl: 9f2d28f is live, and /api/health .main read green for de42d38 (kr_mvj61meiwx evidence); no red main yet](docs/report/2026-11/2026-11-05-gr-7op2v8fjcl-9f2d28f-is-live-and-api-health-main-esutja1t.md) `dc_ypesutja1t` · Mara 1
+- 2026-11-05 [Explore: 13% of PR CI runs fail and docs/log.md conflicts 116 times in 10 days; proposed gr_baf19xtg7p (300k) to catch these before push](docs/report/2026-11/2026-11-05-explore-13-of-pr-ci-runs-fail-and-docs-log-md-conf-qwmhmai2.md) `dc_vfqwmhmai2` · Mara 1
 - 2026-11-04 [gr_7op2v8fjcl step 1: /api/health .main tracked every main head for 70 min, but no head finished CI, so green/red is still unseen live](docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-step-1-api-health-main-tracked-every-nfxaemoc.md) `dc_x7nfxaemoc` · Mara 1
 - 2026-11-04 [gr_7op2v8fjcl edge-case fix merged: PR #343 = 9f2d28f; CI promotes it, no redeploy](docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-edge-case-fix-merged-pr-343-9f2d28f-e5k9ghbf.md) `dc_pfe5k9ghbf` · Mara 2
 - 2026-11-04 [PR #343 had never reached CI (conflict on docs/log.md): main merged in as d336479, checks running; parked to merge](docs/report/2026-11/2026-11-04-pr-343-had-never-reached-ci-conflict-on-docs-log-m-n1fhsffg.md) `dc_l5n1fhsffg` · Mara 1
@@ -65,15 +70,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-04 [Key result kr_5a90181c60 marked met by Mitchell](docs/report/2026-11/2026-11-04-key-result-kr-5a90181c60-marked-met-by-mitchell-0ktfqwz2.md) `dc_sb0ktfqwz2` · Town
 - 2026-11-04 [Key result kr_0800718a7a marked met by Mitchell](docs/report/2026-11/2026-11-04-key-result-kr-0800718a7a-marked-met-by-mitchell-riwcqjwh.md) `dc_fzriwcqjwh` · Town
 - 2026-11-04 [Key result kr_6805523069 marked met by Mitchell](docs/report/2026-11/2026-11-04-key-result-kr-6805523069-marked-met-by-mitchell-06vctiyf.md) `dc_cd06vctiyf` · Town
-- 2026-11-04 [Key result kr_46398efa33 marked met by Mitchell](docs/report/2026-11/2026-11-04-key-result-kr-46398efa33-marked-met-by-mitchell-c9bgy0z9.md) `dc_3zc9bgy0z9` · Town
-- 2026-11-04 [Key result kr_4jhab4c5cn marked met by Mitchell](docs/report/2026-11/2026-11-04-key-result-kr-4jhab4c5cn-marked-met-by-mitchell-3s0h3k7l.md) `dc_rg3s0h3k7l` · Town
-- 2026-11-03 [Key result kr_31c6f67b59 marked met by Mitchell](docs/report/2026-11/2026-11-03-key-result-kr-31c6f67b59-marked-met-by-mitchell-u4ah987n.md) `dc_eyu4ah987n` · Town
-- 2026-11-03 [Key result kr_7910fec063 marked met by Mitchell](docs/report/2026-11/2026-11-03-key-result-kr-7910fec063-marked-met-by-mitchell-432ms8sy.md) `dc_hv432ms8sy` · Town
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
-## wiki (11)
+## wiki (12)
 
+- 2026-11-05 [PR round-trips (CI failures and merge conflicts)](docs/wiki/2026-11/2026-11-05-pr-round-trips-ci-failures-and-merge-conflicts-3isidhw8.md) `dc_wp3isidhw8` · Mara 1
 - 2026-11-01 [Agent lifecycle (status state machine)](docs/wiki/2026-11/2026-11-01-agent-lifecycle-status-state-machine-vz2ppews.md) `dc_87vz2ppews` · Mara 1
 - 2026-10-31 [Dependency advisories](docs/wiki/2026-10/2026-10-31-dependency-advisories-0qzef90k.md) `dc_o70qzef90k` · Mara 1
 - 2026-10-31 [Time in words](docs/wiki/2026-10/2026-10-31-time-in-words-og22m4zq.md) `dc_l7og22m4zq` · Mara
