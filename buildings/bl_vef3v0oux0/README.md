@@ -42,8 +42,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (214)
+## report (215)
 
+- 2026-11-05 [Nell's assignment never unblocked: gr_lwgus14rd2 step 3: manager wakes per building per day beside their cost, in the Spending drill-down and /api/finance/spend (kr_avafh64h02)](docs/report/2026-11/2026-11-05-nell-s-assignment-never-unblocked-gr-lwgus14rd2-st-819xe2py.md) `dc_2t819xe2py` · Nell
 - 2026-11-05 [Half of the last 7 days' spend (62.9M tokens) sits in one "Not under a grant" bucket the Bank can't explain; gr_utygatbi85 (300k) would split it by lane and human source](docs/report/2026-11/2026-11-05-half-of-the-last-7-days-spend-62-9m-tokens-sits-in-yen63g0z.md) `dc_utyen63g0z` · Nell
 - 2026-11-05 [Exploration: 52% of 7-day spend sits in an unexplained "Not under a grant" bucket; proposed gr_utygatbi85 (300k) to split it by lane and source](docs/report/2026-11/2026-11-05-exploration-52-of-7-day-spend-sits-in-an-unexplain-e8kzbaee.md) `dc_aue8kzbaee` · Nell 1
 - 2026-11-04 [Checkpoint gr_qggxximtru: 'Plans paid for' live on Inputs, 'Paid in cash, last 30 days' merged and deploying; 456,488 / 450,000 spent, top-up of 40k asked](docs/report/2026-11/2026-11-04-checkpoint-gr-qggxximtru-plans-paid-for-live-on-in-h42ryd7k.md) `dc_a6h42ryd7k` · Nell
@@ -73,7 +74,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-04 [Exploration: the Bank never says what the collective paid in cash; proposed gr_qggxximtru (450k)](docs/report/2026-11/2026-11-04-exploration-the-bank-never-says-what-the-collectiv-ie6r2ut0.md) `dc_apie6r2ut0` · Nell 1
 - 2026-11-04 [Bank Transparency: gr_567tikzitl closed done (845k of 1.5M spent); Bank opens on Donate, Inputs shows active rows only, Spending is a drill-down of about one screen per level](docs/report/2026-11/2026-11-04-bank-transparency-gr-567tikzitl-closed-done-845k-o-tq1p4kgj.md) `dc_d1tq1p4kgj` · Nell
 - 2026-11-04 [gr_567tikzitl step 4 verified live at a84ed22: Spending is a drill-down, about one screen per level](docs/report/2026-11/2026-11-04-gr-567tikzitl-step-4-verified-live-at-a84ed22-spen-yvieytqu.md) `dc_2iyvieytqu` · Nell 1
-- 2026-11-04 [gr_567tikzitl step 4: PR #299 merged as a84ed22, redeploy queued; parked on deploy to verify Spending live](docs/report/2026-11/2026-11-04-gr-567tikzitl-step-4-pr-299-merged-as-a84ed22-rede-ep9kkfvk.md) `dc_qaep9kkfvk` · Nell 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

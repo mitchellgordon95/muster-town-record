@@ -479,21 +479,21 @@
       "y": 10
     },
     "status": "idle",
-    "activity": "Submitting report: Half of the last 7 days' spend (62.9M tokens) sits in one \"…",
+    "activity": "Writing a log line",
     "model": "claude-fable-5-1",
-    "spentTokensToday": 41310,
-    "spentTokensTotal": 6437162,
-    "spentUsdTotal": 224.10021514999988,
+    "spentTokensToday": 102016,
+    "spentTokensTotal": 6497868,
+    "spentUsdTotal": 225.31433319999988,
     "currentAssignmentId": null,
     "currentMeetingId": null,
     "createdAt": "2026-10-27T05:42:06.810Z",
-    "lastActiveAt": "2026-11-05T00:03:11.829Z",
-    "lastSeenAt": "2026-11-05T00:03:11.846Z",
+    "lastActiveAt": "2026-11-05T17:59:45.318Z",
+    "lastSeenAt": "2026-11-05T17:59:43.266Z",
     "inheritsOwner": false,
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 91348
+    "familySpentToday": 152054
   },
   {
     "id": "ag_t5p8jfp9fk",

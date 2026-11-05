@@ -22705,5 +22705,14 @@
     "state": "building",
     "buildingId": "bl_6ifesdbah3",
     "createdAt": "2026-11-05T16:32:36.458Z"
+  },
+  {
+    "id": "dc_2t819xe2py",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-05-nell-s-assignment-never-unblocked-gr-lwgus14rd2-st-819xe2py.md",
+    "title": "Nell's assignment never unblocked: gr_lwgus14rd2 step 3: manager wakes per building per day beside their cost, in the Spending drill-down and /api/finance/spend (kr_avafh64h02)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-05T17:58:52.048Z"
   }
 ]
