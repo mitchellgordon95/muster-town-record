@@ -9,10 +9,12 @@ buildingId: "bl_t7slw19vgg"
 provenance: {"sourceIds":["dc_k0lx8h2hwa","dc_mow5mjh10x","dc_0gcm0c3lhh"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/391","https://github.com/mitchellgordon95/muster-town/pull/388","https://github.com/mitchellgordon95/muster-town/pull/389"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "system"
+decidedAt: "2026-11-06T17:16:21.305Z"
 sessionId: "se_g00xwoficn"
 createdAt: "2026-11-06T05:31:23.066Z"
-updatedAt: "2026-11-06T05:31:23.066Z"
+updatedAt: "2026-11-06T17:16:21.305Z"
 ---
 Live: 24984fc6 (since 2026-11-06 05:21 UTC). Filed 30 min after the last rollup rather than 4 h because a grant closed. Checked on live as a guest at 1280×800 and 390×844.
 

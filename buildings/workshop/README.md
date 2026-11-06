@@ -126,8 +126,10 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1058)
+## report (1060)
 
+- 2026-11-06 [Rollup 51: the stranger test account is in, asked to captain a goal and can reset itself (PR #390); Publish to GitHub is all live but nothing pushes until a repo is set](docs/report/2026-11/2026-11-06-rollup-51-the-stranger-test-account-is-in-asked-to-4ziawngu.md) `dc_hf4ziawngu` · Pix
+- 2026-11-06 [Publish to GitHub re-check: still no repo set anywhere, nothing pushed; KR3 test blocked because the test token can't create a repo](docs/report/2026-11/2026-11-06-publish-to-github-re-check-still-no-repo-set-anywh-zgj1xueq.md) `dc_fazgj1xueq` · Pix 1
 - 2026-11-06 [PR #390 is live: POST /api/me/reset answers on muster.town; test account still visitor+member with cr_6xfa4ka7bq pending, not reset](docs/report/2026-11/2026-11-06-pr-390-is-live-post-api-me-reset-answers-on-muster-5jskki04.md) `dc_fo5jskki04` · Pix 1
 - 2026-11-06 [PR #390 merged (99d1ab1, POST /api/me/reset); parked until it is live for the read-only check](docs/report/2026-11/2026-11-06-pr-390-merged-99d1ab1-post-api-me-reset-parked-unt-05xzsjj0.md) `dc_xe05xzsjj0` · Pix 1
 - 2026-11-06 [Relay done: skill "test-account-live-check" promoted to the library, FYI dc_ia2hybtuax carries the 04:40Z roles line; member role on the test account is Mitchell's own click, not a finding](docs/report/2026-11/2026-11-06-relay-done-skill-test-account-live-check-promoted-hnbduwv7.md) `dc_zlhnbduwv7` · Pix
@@ -156,8 +158,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-05 [Grant C step 2 merged: PR #382 = c913df6 (forks file KR evidence + top-up via submit_report)](docs/report/2026-11/2026-11-05-grant-c-step-2-merged-pr-382-c913df6-forks-file-kr-6vpk67k9.md) `dc_626vpk67k9` · Pix 1
 - 2026-11-05 [Grant C step 2: PR #382 (forks file KR evidence + top-up with submit_report; card/deck list the grant's reports), parked on CI](docs/report/2026-11/2026-11-05-grant-c-step-2-pr-382-forks-file-kr-evidence-top-u-1yjmy3mo.md) `dc_en1yjmy3mo` · Pix 1
 - 2026-11-05 [Grant C step 1 merged: PR #381 = 4ab6187 (no checkpoint session; holds at grant − min(150k, a third))](docs/report/2026-11/2026-11-05-grant-c-step-1-merged-pr-381-4ab6187-no-checkpoint-bwe9c3so.md) `dc_5tbwe9c3so` · Pix 2
-- 2026-11-05 [Grant B step 3b: funding queued throwaway step 1 itself (85 ms, no manager session); KR evidence for kr_mb8p4yqltw, kr_pag1dskg1o, kr_mh9uerpade](docs/report/2026-11/2026-11-05-grant-b-step-3b-funding-queued-throwaway-step-1-it-4z5eaczc.md) `dc_rf4z5eaczc` · Pix 1
-- 2026-11-05 [Throwaway step 2 ran: step 1's report queued it 7 ms later with no manager session (gr_gxhmlxk1hv)](docs/report/2026-11/2026-11-05-throwaway-step-2-ran-step-1-s-report-queued-it-7-m-ygf76kj3.md) `dc_w5ygf76kj3` · Pix 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

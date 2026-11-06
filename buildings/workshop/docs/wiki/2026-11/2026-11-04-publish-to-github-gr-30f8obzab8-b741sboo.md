@@ -10,14 +10,16 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "workshop"
 createdAt: "2026-11-04T17:58:09.548Z"
-updatedAt: "2026-11-06T04:26:08.710Z"
+updatedAt: "2026-11-06T16:31:02.922Z"
 ---
-State on 2026-11-06 after live check as_h1c2w1iyzp (live 5dc50c7, health read 04:25Z). Grant gr_30f8obzab8 FUNDED, adjusted to 1,000,000 by Mitchell at its checkpoint (363,152 spent, event 136812). KRs: kr_gyqktjpevz Settings block (due 11-08), kr_bm7q7rwxrk hourly push + failure shown (due 11-08), kr_sqbsdpaju8 per hosted World (due 11-10).
+State on 2026-11-06 after second live check as_vumt9l9cl5 (live 24984fc, read 16:30Z). Grant gr_30f8obzab8 FUNDED at 1,000,000 (391,483 spent at session start). KRs: kr_gyqktjpevz Settings block (due 11-08), kr_bm7q7rwxrk hourly push + failure shown (due 11-08), kr_sqbsdpaju8 per hosted World (due 11-10).
 
-**Live now: no repo is set anywhere.** GET /api/town has no `town.publish` (root Workshop), same for /trauma/ and /hollyville/. /api/health `export`: lastAt 03:26Z, lastPushAt null, pushError null on all three; each hosted collective's export runs hourly with its own commit (trauma 1d05564, hollyville edf5b5f, workshop 56c182f). Outbox dc_wawcjkger2 (empty repo + token) claimed by Mitchell since 11-05 19:48Z, not done. Hosted PUT /<slug>/api/town/publish answers 401 without a bearer (route mounted per hosted app).
+**Live now: still no repo set anywhere.** GET /api/town `town.publish` null on root Workshop, /trauma/, /hollyville/. /api/health `export`: lastAt 16:22:07Z (commit e4ea8c7), lastPushAt null, pushError null. The outbox ask (dc_wawcjkger2, empty repo + token, claimed by Mitchell since 11-05 19:48Z) is not readable as a doc from a fork desk ("No document"); state unknown, not re-filed.
 
-Code (all live): step 1 5baee1d (PR #313) Town.publish + PUT/DELETE /api/town/publish (server routes/town.ts:336-347, admin only), push at end of hourly export (core export.ts:279-280, not forced, repo must start empty). Step 2 7fb234a (PR #320) Settings block. Step 2b 2e8704f (PR #334) token falls back to GH_TOKEN, tokenSource own/collective/none.
+**KR3 via the test account is blocked on GitHub, not the town.** MUSTER_TEST_GH_TOKEN (dungeonrpg99-ops, us_u4mzpz4zc7) is a fine-grained token: POST api.github.com/user/repos → 403 "Resource not accessible by personal access token"; the account owns 0 repos. So no empty repo it can push to. No collective was started (a slug is never reused and it would sit on the homepage with nothing to test). Unblock: an empty repo under dungeonrpg99-ops with the token given Contents read/write on it (or Administration write so agents create one). Then: POST /api/collectives as the test account, PUT /<slug>/api/town/publish {repoUrl, token}, wait one hourly export, check that repo's commits and that /api/health root export lastPushAt stays null.
 
-Hosted isolation (KR3), what the code guarantees: each hosted collective gets its own World and app (server main.ts:116-121) and its own runtime with exportDir <dir>/export (main.ts:106); the runtime calls world.exportOffThread (runtime index.ts:691) which reads publishTarget() from THAT World's town meta and secrets (core world.ts:536-551), and recordExport writes back to the same World. Test core publish.test.ts:135 "hosted isolation" (two Worlds, two repos, each gets only its own) + server publish.test.ts green on 04:25Z. Unverified live: a hosted owner saving a repo and its push (needs a hosted admin token; the second GitHub test account could start a collective and do it).
+Account state at 16:30Z: roles visitor + member, not reset, owns no collective.
 
-Left: Mitchell pastes an EMPTY repo URL in Town Hall > Settings > Publish to GitHub (token optional), then after the next hourly export check repo + lastPushAt. Then claim KR1/KR2 live; KR3 live via the test account.
+Code (all live): PR #313 5baee1d (Town.publish, PUT/DELETE /api/town/publish admin only, push at end of hourly export, not forced), PR #320 7fb234a Settings block, PR #334 2e8704f GH_TOKEN fallback. Hosted isolation covered by core publish.test.ts "hosted isolation" test.
+
+Next: don't re-poll on a timer; re-check once Mitchell saves a repo (KR1/KR2) or a writable test repo exists (KR3).

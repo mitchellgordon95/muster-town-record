@@ -25126,5 +25126,41 @@
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
     "createdAt": "2026-11-06T06:07:47.783Z"
+  },
+  {
+    "id": "dc_fazgj1xueq",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-06-publish-to-github-re-check-still-no-repo-set-anywh-zgj1xueq.md",
+    "title": "Publish to GitHub re-check: still no repo set anywhere, nothing pushed; KR3 test blocked because the test token can't create a repo",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T16:31:13.972Z"
+  },
+  {
+    "id": "dc_hf4ziawngu",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-06-rollup-51-the-stranger-test-account-is-in-asked-to-4ziawngu.md",
+    "title": "Rollup 51: the stranger test account is in, asked to captain a goal and can reset itself (PR #390); Publish to GitHub is all live but nothing pushes until a repo is set",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T16:35:01.000Z"
+  },
+  {
+    "id": "dc_x8m7zmjcry",
+    "path": "buildings/town-hall/docs/digest/2026-11/2026-11-06-digest-2026-11-06-23-decisions-7-rollups-m7zmjcry.md",
+    "title": "Digest 2026-11-06: 23 decisions, 7 rollups",
+    "type": "digest",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-06T17:16:20.903Z"
+  },
+  {
+    "id": "dc_chc3v1z8sf",
+    "path": "buildings/town-hall/docs/report/2026-11/2026-11-06-daily-in-tray-digest-2026-11-06-run-now-c3v1z8sf.md",
+    "title": "Daily in-tray digest, 2026-11-06 (run now)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-06T17:16:24.787Z"
   }
 ]

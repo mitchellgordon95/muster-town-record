@@ -4,8 +4,9 @@ Goal: Make Muster Town something strangers can fund, steer, and trust
 
 Published docs (the board and the filing cabinet), newest first. Drafts are private and not exported.
 
-## digest (4)
+## digest (5)
 
+- 2026-11-06 [Digest 2026-11-06: 23 decisions, 7 rollups](docs/digest/2026-11/2026-11-06-digest-2026-11-06-23-decisions-7-rollups-m7zmjcry.md) `dc_x8m7zmjcry` · Secretary
 - 2026-11-06 [Digest 2026-11-06: 15 decisions, 9 rollups](docs/digest/2026-11/2026-11-06-digest-2026-11-06-15-decisions-9-rollups-j0yvsd2i.md) `dc_2qj0yvsd2i` · Secretary
 - 2026-11-05 [Digest 2026-11-05: 18 decisions, 4 rollups](docs/digest/2026-11/2026-11-05-digest-2026-11-05-18-decisions-4-rollups-4rp0lhum.md) `dc_714rp0lhum` · Secretary
 - 2026-11-05 [Digest 2026-11-05: 41 decisions, 19 rollups](docs/digest/2026-11/2026-11-05-digest-2026-11-05-41-decisions-19-rollups-btoihrg5.md) `dc_utbtoihrg5` · Secretary
@@ -27,8 +28,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [1:1: Mitchell and Planner — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-planner-notes-jeiwkj9c.md) `dc_13jeiwkj9c` · Planner
 - 2026-10-31 [1:1: Mitchell and Planner — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-planner-notes-9svbwtsx.md) `dc_tk9svbwtsx` · Planner
 
-## report (7)
+## report (8)
 
+- 2026-11-06 [Daily in-tray digest, 2026-11-06 (run now)](docs/report/2026-11/2026-11-06-daily-in-tray-digest-2026-11-06-run-now-c3v1z8sf.md) `dc_chc3v1z8sf` · Secretary
 - 2026-11-06 [Daily in-tray digest, 2026-11-06](docs/report/2026-11/2026-11-06-daily-in-tray-digest-2026-11-06-9ci6iq8t.md) `dc_hw9ci6iq8t` · Secretary
 - 2026-11-05 [Decision 8 closed: fold-free transcripts (PR #363) live as 565a075a and verified on live](docs/report/2026-11/2026-11-05-decision-8-closed-fold-free-transcripts-pr-363-liv-9x4b067u.md) `dc_vb9x4b067u` · Secretary
 - 2026-11-05 [Daily in-tray digest, 2026-11-05 (run now)](docs/report/2026-11/2026-11-05-daily-in-tray-digest-2026-11-05-run-now-kp3bbjqp.md) `dc_jvkp3bbjqp` · Secretary

@@ -9,10 +9,12 @@ buildingId: "bl_t7slw19vgg"
 provenance: {"sourceIds":["dc_m908iifur9","dc_6hizmtmcyk","dc_y1g0mjegum","dc_ykm8ki18qv","dc_5obt8t8rob","dc_6lr0g1ga1w","dc_p2672y10ld","dc_0txus504g9","dc_9r1rokmltr","dc_3tcqkrwjo6","dc_uqhn0gypzs"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/350","https://github.com/mitchellgordon95/muster-town/pull/389","https://github.com/mitchellgordon95/muster-town/pull/385","https://github.com/mitchellgordon95/muster-town/pull/388","https://github.com/mitchellgordon95/muster-town/pull/391"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "system"
+decidedAt: "2026-11-06T17:16:21.158Z"
 sessionId: "se_qsuh4z0xmf"
 createdAt: "2026-11-06T05:02:42.591Z"
-updatedAt: "2026-11-06T05:02:42.591Z"
+updatedAt: "2026-11-06T17:16:21.158Z"
 ---
 Live: 41c5e7d7 (since 2026-11-06 04:51 UTC). Checked on live as a guest at 1280×800 and 390×844.
 

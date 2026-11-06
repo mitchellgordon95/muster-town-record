@@ -9,10 +9,12 @@ buildingId: "bl_vef3v0oux0"
 provenance: {"sourceIds":["dc_o0b2tnnlpv","dc_2hvkqhb1j3","dc_626291r1xr","dc_8eo3hc0bgx","dc_asit591053","dc_3rupbiikz8","dc_ibnpman7xn","dc_sr6ldpani1","dc_h2mbpnwyjw"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/362","https://github.com/mitchellgordon95/muster-town/pull/364","https://github.com/mitchellgordon95/muster-town/pull/386","https://muster.town/api/finance/spend?window=7d","https://muster.town/api/events?alert=cache-miss&from=2026-11-06T00:00:00Z"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "system"
+decidedAt: "2026-11-06T17:16:21.230Z"
 sessionId: "se_5z4lpnppkq"
 createdAt: "2026-11-06T05:09:20.251Z"
-updatedAt: "2026-11-06T05:09:20.251Z"
+updatedAt: "2026-11-06T17:16:21.230Z"
 ---
 Live 1ea4b005 (since 2026-11-06 05:06 UTC; contains 5dc50c70, 41c5e7d7 and 1ea4b005). Grant gr_lwgus14rd2 closed as done at 05:08 UTC: 1,315,673 of the 2,000,000 tokens you set at 04:20 UTC spent, 684,327 returned to the Bank. The building has no funded grant now; gr_utygatbi85 waits in your in-tray.
 
