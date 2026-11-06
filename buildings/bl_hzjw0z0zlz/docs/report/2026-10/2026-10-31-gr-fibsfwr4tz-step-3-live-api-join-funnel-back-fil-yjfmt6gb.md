@@ -33,7 +33,7 @@ Checked c321046 on the live site. It is inside live a10095d (now 00bf7ff, server
   - One run did show three 502 errors. They came from the server restarting mid-run, not from the row.
 - **The guest card counts views.** It sends `POST /api/join-funnel/view` once per page load, and guestCardViews went from 0 to 19 during the check. About 9 of those 19 are my own headless page loads, so the view count is inflated today.
 - **Small display nit:** a 15 s wait shows as "1 min" because `waitLabel` never shows less than 1 min. I left it alone; it's not worth a commit.
-- Step 3 is done. Steps 1–3 of the grant are all live and checked. Step 4, the real round trip, waits on [dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md).
+- Step 3 is done. Steps 1–3 of the grant are all live and checked. Step 4, the real round trip, waits on dc_mgcbv3kqnd.
 
 ## What I need from you
 Nothing needed.

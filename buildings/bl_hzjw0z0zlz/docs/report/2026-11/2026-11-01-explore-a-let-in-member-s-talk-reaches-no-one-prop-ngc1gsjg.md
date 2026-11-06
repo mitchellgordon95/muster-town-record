@@ -30,7 +30,7 @@ Read main 7521c0b to see what happens after gr_fibsfwr4tz lets a stranger in: th
   - They can't flag, which needs `building.assign` (web flag.ts:5).
   - When they Say something, it only lands in nearby agents' inboxes. No wake rule matches it, so nothing answers.
 - **The welcome is lost if they were away.** The "You're in… you can walk, talk" toast (state.ts:290) only fires if the page is open when the admin decides. Someone let in while away comes back to no guest card and no toast: nothing tells them they got in.
-- **The funnel stops at letIn.** Live totals over 30 days: 105 guest-card views (inflated by our own headless checks), 2 sign-ins, 1 asked, 1 let in, median decision 15 s (n = 1, Hollyville). The Workshop has had no member let in yet. The step 4 round trip ([dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md)) will be the first, and the Say it ends with will go unanswered.
+- **The funnel stops at letIn.** Live totals over 30 days: 105 guest-card views (inflated by our own headless checks), 2 sign-ins, 1 asked, 1 let in, median decision 15 s (n = 1, Hollyville). The Workshop has had no member let in yet. The step 4 round trip (dc_mgcbv3kqnd) will be the first, and the Say it ends with will go unanswered.
 - **Proposal gr_58n37j410s (300k tokens, due 2026-11-08):**
   1. Members can open a 1:1 with a building's manager, capped at one new 1:1 per member per day.
   2. A one-time "You're in" card on the first visit after being let in.

@@ -76,4 +76,4 @@ Spend today by lane: exploration 68,642 tokens (free under the goal 3,935,192); 
 1. Continue this checkpoint with the 40,000-token top-up (the parked live check on desktop and phone, then the close), or cut it: the code is on main and deploys either way; only the live check and the close are missing.
 2. A word on the grant's stop condition: do you want never-run collectives labelled "Not started yet" (what shipped) or hidden from the homepage altogether? If hidden, say so and the top-up does that instead, as one change.
 
-_Already waiting in your in-tray: 0 proposals, 4 requests ([dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md), dc_ulla3hu21p, dc_fvlt8xajnz, [dc_wtz7ltq8hf](../../../../../town-hall/outbox/2026-11/2026-11-03-add-on-to-the-join-round-trip-dc-mgcbv3kqnd-let-in-z7ltq8hf.md)), 0 rollups._
+_Already waiting in your in-tray: 0 proposals, 4 requests (dc_mgcbv3kqnd, dc_ulla3hu21p, dc_fvlt8xajnz, [dc_wtz7ltq8hf](../../../../../town-hall/outbox/2026-11/2026-11-03-add-on-to-the-join-round-trip-dc-mgcbv3kqnd-let-in-z7ltq8hf.md)), 0 rollups._

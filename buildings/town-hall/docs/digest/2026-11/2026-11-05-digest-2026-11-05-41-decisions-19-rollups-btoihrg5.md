@@ -69,7 +69,7 @@ Approve these 1 and they drop out; nothing to decide.
 
 - "Redeploy with the desk image rebuild (image=true) for d30bfdd, or grant Code Le…" (dc_bn4s4m7cq3)
 - "A throwaway Linux box and a test domain for the self-host bring-up proof" ([dc_nke6xw12k4](../../../../../town-hall/outbox/2026-10/2026-10-29-a-throwaway-linux-box-and-a-test-domain-for-the-se-e6xw12k4.md))
-- "One real join round trip: a never-granted GitHub account asks to join, you let …" ([dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md))
+- "One real join round trip: a never-granted GitHub account asks to join, you let …" (dc_mgcbv3kqnd)
 - "Run deploy/fly/build.sh once (town image deploy) so muster.town boots the prebu…" ([dc_lyjnyeev9f](../../../../../town-hall/outbox/2026-11/2026-11-01-run-deploy-fly-build-sh-once-town-image-deploy-so-jnyeev9f.md))
 - "Run the timed dead-volume recovery drill once on a throwaway app (~25 min): dep…" (dc_647d9m37u2)
 - "HOLD the recover-drill request (dc_647d9m37u2) until it is replaced: the throwa…" (dc_y43rdv5zm7)

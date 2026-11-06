@@ -26,7 +26,7 @@ Checked steps 0–2 of as_67ks5dtrf6 at 20:01Z (server clock): whether a real ro
 
 ## Findings
 - **No round trip has happened on the Workshop yet.** /api/join-funnel shows these Workshop counts for the last 30 days: signIns 1, asked 0, letIn 0, acted 0. The town-wide asked 1 / letIn 1 is Mitchell joining Hollyville. The last 300 events contain no "asked to join". So there's no kr_bf2df18aa1 evidence yet.
-- **Author-withdraw is not on main** (origin/main 565a075a has no withdraw route for requests). I withdrew nothing: [dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md) and [dc_wtz7ltq8hf](../../../../../town-hall/outbox/2026-11/2026-11-03-add-on-to-the-join-round-trip-dc-mgcbv3kqnd-let-in-z7ltq8hf.md) are still open.
+- **Author-withdraw is not on main** (origin/main 565a075a has no withdraw route for requests). I withdrew nothing: dc_mgcbv3kqnd and [dc_wtz7ltq8hf](../../../../../town-hall/outbox/2026-11/2026-11-03-add-on-to-the-join-round-trip-dc-mgcbv3kqnd-let-in-z7ltq8hf.md) are still open.
 - **`MUSTER_TEST_GH_TOKEN` is not on this desk.** The only Muster variables present are MUSTER_TOWN_TOKEN and MUSTER_TOWN_URL.
 - With my agent token, GET /api/access-requests returns 403. On resume I'll confirm the pending request through /api/events instead.
 - Funnel baseline at 20:01Z: Workshop signIns 1, asked 0.

@@ -28,7 +28,7 @@ I confirmed ba6cd930 is live. dc_ulla3hu21p was still open, so I filed the repla
 - /api/health at 2026-11-02T02:40:47Z shows commit `ba6cd93089fe…`, so the daily cap removal is live.
 - dc_ulla3hu21p was still `requestStatus: open` and unanswered, so it needed replacing.
 - The new request dc_fvlt8xajnz (observation, muster.town/workshop/) says in its first line that it supersedes dc_ulla3hu21p and that the second-1:1 step is gone because the cap was removed. It keeps the old steps 1 and 2: whether the "You're in" card shows and what its buttons say, then one 1:1 line and how long the reply takes, plus the account's handle. `write` won't take type "request", so I filed it with `request_human`.
-- dc_ulla3hu21p is still open in the outbox because a fork can't close another agent's request. The topic page [dc_ckzkpsahhv](../../wiki/2026-10/2026-10-29-permissions-ask-to-join-member-kr-4-zkpsahhv.md) (rewritten, about 2,400 chars) tells as_tunikdcd1g and sc_gy1eruamog to read [dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md) and dc_fvlt8xajnz and to ignore dc_ulla3hu21p.
+- dc_ulla3hu21p is still open in the outbox because a fork can't close another agent's request. The topic page [dc_ckzkpsahhv](../../wiki/2026-10/2026-10-29-permissions-ask-to-join-member-kr-4-zkpsahhv.md) (rewritten, about 2,400 chars) tells as_tunikdcd1g and sc_gy1eruamog to read dc_mgcbv3kqnd and dc_fvlt8xajnz and to ignore dc_ulla3hu21p.
 
 ## What I need from you
 Nothing needed. If you can, close or decline dc_ulla3hu21p in the outbox so Mitchell doesn't see both requests.

@@ -15,8 +15,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-02 [it would be cool to have little "?" help signs in the buildings which explain what's there and what to do](docs/flag/2026-11/2026-11-02-it-would-be-cool-to-have-little-help-signs-in-the-wch9z5pi.md) `dc_8dwch9z5pi` · Mitchell
 - 2026-10-26 [not anyone who logs in with github should be able to interact with the town. i think we need like a permissions system?…](docs/flag/2026-10/2026-10-26-not-anyone-who-logs-in-with-github-should-be-able-dvn0h5ho.md) `dc_hsdvn0h5ho` · Mitchell
 
-## meeting-notes (12)
+## meeting-notes (13)
 
+- 2026-11-06 [1:1: Mitchell and Kelly — notes](docs/meeting-notes/2026-11/2026-11-06-1-1-mitchell-and-kelly-notes-9dk8vruh.md) `dc_x59dk8vruh` · Kelly
 - 2026-11-05 [1:1: Mitchell and Kelly — notes](docs/meeting-notes/2026-11/2026-11-05-1-1-mitchell-and-kelly-notes-mdg0rot6.md) `dc_d9mdg0rot6` · Kelly
 - 2026-11-02 [1:1: Mitchell and Kelly — notes](docs/meeting-notes/2026-11/2026-11-02-1-1-mitchell-and-kelly-notes-bniuwlaw.md) `dc_3ybniuwlaw` · Kelly
 - 2026-11-01 [1:1: Mitchell and Kelly — notes](docs/meeting-notes/2026-11/2026-11-01-1-1-mitchell-and-kelly-notes-j81zkttf.md) `dc_ioj81zkttf` · Kelly
@@ -61,8 +62,22 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (247)
+## report (261)
 
+- 2026-11-06 ["No key yet" is gone for signed-out guests on /trauma/ (4e76b9f5 live, desk and phone)](docs/report/2026-11/2026-11-06-no-key-yet-is-gone-for-signed-out-guests-on-trauma-soxyegb7.md) `dc_eusoxyegb7` · Kelly 1
+- 2026-11-06 [You're-in card for plain members verified live as @dungeonrpg99-ops (a4f127a8; pictures mf_v06oqcpzgs, mf_fnqa98p709)](docs/report/2026-11/2026-11-06-you-re-in-card-for-plain-members-verified-live-as-o4mvmb1m.md) `dc_7co4mvmb1m` · Kelly 1
+- 2026-11-06 [Never-run collective: guests no longer see the admin-only "No key yet" notice (4e76b9f5 on main); parked to check it live](docs/report/2026-11/2026-11-06-never-run-collective-guests-no-longer-see-the-admi-4ghi78ex.md) `dc_o04ghi78ex` · Kelly 1
+- 2026-11-06 [Onboarding rollup: never-run collectives grant closed done (all three key results live, 359,723 tokens back to the Bank); the stranger's join round trip finished 30 s after your Let in](docs/report/2026-11/2026-11-06-onboarding-rollup-never-run-collectives-grant-clos-vji4ttsa.md) `dc_ltvji4ttsa` · Kelly
+- 2026-11-06 [Never-run collectives: all three key results pass live on 41c5e7d7; /trauma/ cards now say "hasn't started" (picture mf_rxqa3u2lhz)](docs/report/2026-11/2026-11-06-never-run-collectives-all-three-key-results-pass-l-s1299dho.md) `dc_q9s1299dho` · Kelly 1
+- 2026-11-06 [You're-in card copy for plain members pushed to main (a4f127a8); parked on its deploy to verify as the test account](docs/report/2026-11/2026-11-06-you-re-in-card-copy-for-plain-members-pushed-to-ma-wgybxn08.md) `dc_jpwgybxn08` · Kelly 1
+- 2026-11-06 [Join round trip done: @dungeonrpg99-ops asked at 04:31:58Z, Mitchell let it in 30 s later, it said hello (acted 0→1); its 1:1 is refused without "direct work under"](docs/report/2026-11/2026-11-06-join-round-trip-done-dungeonrpg99-ops-asked-at-04-na71956d.md) `dc_tbna71956d` · Kelly 1
+- 2026-11-06 [Onboarding rollup: the stranger account has asked to join (ar_ogi7no5l2v, your Let in is the next step); never-run collectives read "Not started yet" on the homepage; style guide carries your sidebar-vs-sheet rule](docs/report/2026-11/2026-11-06-onboarding-rollup-the-stranger-account-has-asked-t-e0xnxc2c.md) `dc_uje0xnxc2c` · Kelly
+- 2026-11-06 [Test account @dungeonrpg99-ops asked to join (ar_ogi7no5l2v, 04:31:58Z); parked on Mitchell's Let in](docs/report/2026-11/2026-11-06-test-account-dungeonrpg99-ops-asked-to-join-ar-ogi-pjkylbup.md) `dc_xopjkylbup` · Kelly 1
+- 2026-11-06 [Grant gr_fibsfwr4tz adjusted: 1,000,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-fibsfwr4tz-adjusted-1-000-000-tokens-hlx95eno.md) `dc_ndhlx95eno` · Town
+- 2026-11-06 [Never-run live check: API and homepage pass; Trauma cards reverted to "Watch first" (WS schema stripped health.started); fix 6f1f2005 on main, parked for re-check](docs/report/2026-11/2026-11-06-never-run-live-check-api-and-homepage-pass-trauma-eh6o3mo1.md) `dc_rueh6o3mo1` · Kelly 1
+- 2026-11-06 [Style-guide skill dc_q736158pnn now carries Mitchell's sidebar-vs-sheet rule as section 12 "Sidebars and sheets", every line cited to main 5dc50c70; Teo told (gr_4csjpgh346 kr_nokx342ovj)](docs/report/2026-11/2026-11-06-style-guide-skill-dc-q736158pnn-now-carries-mitche-bxzopol8.md) `dc_llbxzopol8` · Kelly
+- 2026-11-06 [Live check of 48d88720 handed to Kelly 1 (as_fjgpn4eyt2, already running it when this parked session resumed); I close gr_a6512x0je1 and roll up on its report](docs/report/2026-11/2026-11-06-live-check-of-48d88720-handed-to-kelly-1-as-fjgpn4-iltaea7o.md) `dc_sniltaea7o` · Kelly
+- 2026-11-06 [Grant gr_a6512x0je1 adjusted: 1,000,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-a6512x0je1-adjusted-1-000-000-tokens-qm0xiwxu.md) `dc_a0qm0xiwxu` · Town
 - 2026-11-05 [Mitchell's test-account rule recorded: Onboarding files no more "test this" outbox requests; the join round trip is queued to run with MUSTER_TEST_GH_TOKEN (as_67ks5dtrf6), Let in still needs Mitchell's one click](docs/report/2026-11/2026-11-05-mitchell-s-test-account-rule-recorded-onboarding-f-2u93rgio.md) `dc_go2u93rgio` · Kelly
 - 2026-11-05 [Join round trip with test account: parked, MUSTER_TEST_GH_TOKEN not on the desk yet; author-withdraw not on main](docs/report/2026-11/2026-11-05-join-round-trip-with-test-account-parked-muster-te-orp58pb7.md) `dc_1qorp58pb7` · Kelly 1
 - 2026-11-05 [Onboarding rollup: Goal-directed home card slide live in 62cf39f2 with your final words, checked on desktop and phone; style guide follows it; two proposals wait on the three doors](docs/report/2026-11/2026-11-05-onboarding-rollup-goal-directed-home-card-slide-li-w5tt5y05.md) `dc_6pw5tt5y05` · Kelly
@@ -79,20 +94,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-04 [gr_a6512x0je1 taken whole and pushed to main as 48d88720 (06575cee): never-run collectives carry started on /api/collectives and health, their tiles say "Not started yet" and sort last, guest card and first-minute card point to the Workshop; live check parked on its deploy](docs/report/2026-11/2026-11-04-gr-a6512x0je1-taken-whole-and-pushed-to-main-as-48-8jp5o5jj.md) `dc_wv8jp5o5jj` · Kelly
 - 2026-11-04 [Help sign tour is live on muster.town (eec2401 in b228277), checked on desktop and phone as a guest](docs/report/2026-11/2026-11-04-help-sign-tour-is-live-on-muster-town-eec2401-in-b-zjnokp45.md) `dc_snzjnokp45` · Kelly 1
 - 2026-11-04 [gr_zoo2cf2zpp taken whole and pushed to main as c5e0005a: guestVisitors and homeViews once per browser per day, signInStarted at Sign in, headless checks skipped, User stats columns; live check parked on its deploy](docs/report/2026-11/2026-11-04-gr-zoo2cf2zpp-taken-whole-and-pushed-to-main-as-c5-9wsqtnj4.md) `dc_i39wsqtnj4` · Kelly
-- 2026-11-04 [Grant gr_zoo2cf2zpp adjusted: 300,000 tokens](docs/report/2026-11/2026-11-04-grant-gr-zoo2cf2zpp-adjusted-300-000-tokens-pb1buwmr.md) `dc_1gpb1buwmr` · Town
-- 2026-11-04 [Help sign tour built (PR #314): lit building, shadowed town, numbered hotspots; parked on CI](docs/report/2026-11/2026-11-04-help-sign-tour-built-pr-314-lit-building-shadowed-vfyiako2.md) `dc_tmvfyiako2` · Kelly 1
-- 2026-11-04 [Explore: 2 of the 3 homepage collectives have never run, but visitors are told to watch their agents; proposed gr_a6512x0je1 (150k)](docs/report/2026-11/2026-11-04-explore-2-of-the-3-homepage-collectives-have-never-36744daz.md) `dc_t236744daz` · Kelly 1
-- 2026-11-04 [Onboarding close rollup: gr_cuobjlny6r (Let in → direct work) and gr_58n37j410s (after let-in) closed as done; 595,105 tokens returned; every piece is live, none used by a real member yet](docs/report/2026-11/2026-11-04-onboarding-close-rollup-gr-cuobjlny6r-let-in-direc-2nxs3agi.md) `dc_pj2nxs3agi` · Kelly
-- 2026-11-04 [3914a437 and 824ab4d live and checked on muster.town: HUD notice, 390px in-tray card, You're in Talk gate and Members table all pass, no new bugs](docs/report/2026-11/2026-11-04-3914a437-and-824ab4d-live-and-checked-on-muster-to-r2u0aisb.md) `dc_wer2u0aisb` · Kelly 1
-- 2026-11-04 [gr_58n37j410s evidence: the features are live and manager replies work again, but no real member has used them yet (acted still 0)](docs/report/2026-11/2026-11-04-gr-58n37j410s-evidence-the-features-are-live-and-m-5mjouteq.md) `dc_ay5mjouteq` · Kelly 2
-- 2026-11-04 [Grant gr_58n37j410s adjusted: 750,000 tokens](docs/report/2026-11/2026-11-04-grant-gr-58n37j410s-adjusted-750-000-tokens-zkv05dx1.md) `dc_vyzkv05dx1` · Town
-- 2026-11-04 [Live check of fc28a1e5: two-button Let in card and Talk gate work on muster.town; 3 layout/gate bugs found, fixed in 3914a437; re-check parked](docs/report/2026-11/2026-11-04-live-check-of-fc28a1e5-two-button-let-in-card-and-ld1t4myb.md) `dc_izld1t4myb` · Kelly 2
-- 2026-11-04 [gr_cuobjlny6r step 3 live and checked; Grant button clipped on every size, fixed on main as 824ab4d; evidence for all 5 key results](docs/report/2026-11/2026-11-04-gr-cuobjlny6r-step-3-live-and-checked-grant-button-l69w51pk.md) `dc_oml69w51pk` · Kelly 1
-- 2026-11-04 [Onboarding close rollup: gr_ngg1z160a8 (founder road) closed as done, all three key results live in db2b9dd; 62,692 tokens back to the Bank](docs/report/2026-11/2026-11-04-onboarding-close-rollup-gr-ngg1z160a8-founder-road-481sdm3e.md) `dc_8t481sdm3e` · Kelly
-- 2026-11-04 [Founder HUD after the key (kr_mw367chfbp) is live and checked on muster.town at both sizes; no keyed hosted collective exists yet to match events](docs/report/2026-11/2026-11-04-founder-hud-after-the-key-kr-mw367chfbp-is-live-an-qqiz3nkj.md) `dc_raqqiz3nkj` · Kelly 1
-- 2026-11-04 [Grant gr_cuobjlny6r adjusted: 1,500,000 tokens](docs/report/2026-11/2026-11-04-grant-gr-cuobjlny6r-adjusted-1-500-000-tokens-9vu5i8nt.md) `dc_8p9vu5i8nt` · Town
-- 2026-11-04 [Grant gr_ngg1z160a8 adjusted: 500,000 tokens](docs/report/2026-11/2026-11-04-grant-gr-ngg1z160a8-adjusted-500-000-tokens-s8vir3lf.md) `dc_qns8vir3lf` · Town
-- 2026-11-03 [Onboarding rollup: Members table (direct-work Grant/Revoke) live in 66e5d33; the join funnel's top step counts page loads, not people](docs/report/2026-11/2026-11-03-onboarding-rollup-members-table-direct-work-grant-xza1ey0x.md) `dc_66xza1ey0x` · Kelly
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

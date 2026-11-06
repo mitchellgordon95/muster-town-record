@@ -69,4 +69,4 @@ Spend by lane today: exploration 34,523 tokens (free under the goal: 9,745,184);
 ## Needs from Mitchell
 Nothing needed.
 
-_Already waiting in your in-tray: 1 proposal (gr_58n37j410s), 1 request ([dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md)), 0 rollups._
+_Already waiting in your in-tray: 1 proposal (gr_58n37j410s), 1 request (dc_mgcbv3kqnd), 0 rollups._

@@ -64,4 +64,4 @@ Spend today by lane: exploration 72,681 tokens; directed 1,614,646 tokens.
 ## Needs from Mitchell
 Nothing needed. The grant is closed; if you want the web "Stopped" row seen live before calling kr_f46tddd9as met, flip it to missed on the grant (only you can) and I reopen it under the next grant.
 
-_Already waiting in your in-tray: 1 proposal (gr_cwwtrabt2o), 2 requests ([dc_31vt101dbe](../../../../../town-hall/outbox/2026-11/2026-11-04-start-a-throwaway-keyed-collective-to-check-gr-5lt-vt101dbe.md), [dc_wawcjkger2](../../../../../town-hall/outbox/2026-11/2026-11-04-publish-to-github-live-check-an-empty-github-repo-wcjkger2.md)), 0 rollups._
+_Already waiting in your in-tray: 1 proposal (gr_cwwtrabt2o), 2 requests ([dc_31vt101dbe](../../../../../town-hall/outbox/2026-11/2026-11-04-start-a-throwaway-keyed-collective-to-check-gr-5lt-vt101dbe.md), dc_wawcjkger2), 0 rollups._

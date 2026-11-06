@@ -42,7 +42,7 @@ Live: **62cf39f2** (server started 2026-11-05 19:45:54Z, read from /api/health a
 | gr_fibsfwr4tz | kr_a32db87f39 guest card promises only Ask to join | live | " |
 | gr_fibsfwr4tz | kr_fbef01cccb join funnel public and moving | live | " |
 | gr_fibsfwr4tz | kr_4395ff116f pending request in HUD Notices with age | live | " |
-| gr_fibsfwr4tz | kr_bf2df18aa1 real round trip once | waiting on a real stranger (outbox [dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md)); final check scheduled 2026-11-07 21:00Z, then closed honestly either way | " |
+| gr_fibsfwr4tz | kr_bf2df18aa1 real round trip once | waiting on a real stranger (outbox dc_mgcbv3kqnd); final check scheduled 2026-11-07 21:00Z, then closed honestly either way | " |
 | gr_a6512x0je1 (at checkpoint since 2026-11-04) | kr_6xv83q1k14 / kr_7pdn6k1w2r / kr_fk7c0pdvvs never-run collectives say so | on-track: 48d88720 live, live check held until the checkpoint is decided | 169,114 / 150,000 at checkpoint (the Grants panel has the current figure) |
 
 Spend today by lane: exploration 44,457 tokens (free under the goal 14,809,803); directed 505,350 tokens. Queue empty, no live forks.
@@ -50,4 +50,4 @@ Spend today by lane: exploration 44,457 tokens (free under the goal 14,809,803);
 ## Needs from Mitchell
 Nothing needed.
 
-_Already waiting in your in-tray: 2 proposals (gr_uc179zv1xa, gr_y9bpvx197c), 2 requests ([dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md), [dc_wtz7ltq8hf](../../../../../town-hall/outbox/2026-11/2026-11-03-add-on-to-the-join-round-trip-dc-mgcbv3kqnd-let-in-z7ltq8hf.md)), 1 rollup ([dc_wi034dm7du](2026-11-04-onboarding-checkpoint-rollup-never-run-collectives-034dm7du.md))._
+_Already waiting in your in-tray: 2 proposals (gr_uc179zv1xa, gr_y9bpvx197c), 2 requests (dc_mgcbv3kqnd, [dc_wtz7ltq8hf](../../../../../town-hall/outbox/2026-11/2026-11-03-add-on-to-the-join-round-trip-dc-mgcbv3kqnd-let-in-z7ltq8hf.md)), 1 rollup ([dc_wi034dm7du](2026-11-04-onboarding-checkpoint-rollup-never-run-collectives-034dm7du.md))._

@@ -9,14 +9,16 @@ buildingId: "bl_t7slw19vgg"
 provenance: {"sourceIds":["dc_1tf1xefkbu","dc_ypmi9w1od1","dc_na5wwcdgwu","dc_2rg56a6ezm","dc_sjbwxbbqmg"],"urls":[]}
 tags: ["rollup"]
 verdict: "stop"
-decision: "pending"
+decision: "approve"
+decidedBy: "system"
+decidedAt: "2026-11-06T04:34:01.837Z"
 sessionId: "se_h4a2ajrlkp"
 assignmentId: "as_sifwg6muze"
 costUsd: 2.1852650500000004
 tokens: 109263
 turns: 25
 createdAt: "2026-11-05T20:23:13.821Z"
-updatedAt: "2026-11-05T20:23:13.821Z"
+updatedAt: "2026-11-06T04:34:01.837Z"
 ---
 Live: 565a075a (since 2026-11-05 20:19 UTC), which contains PR #363.
 

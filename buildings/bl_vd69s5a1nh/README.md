@@ -42,8 +42,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (149)
+## report (153)
 
+- 2026-11-06 [Weekly check-timing watch: slowdown alarm tripped (test suite growth)](docs/report/2026-11/2026-11-06-weekly-check-timing-watch-slowdown-alarm-tripped-t-xj1ug5ce.md) `dc_wnxj1ug5ce` · Mara 1
+- 2026-11-06 [Schedule ended: Weekly check-timing watch: compare the last ~12 main runs to the baseline; re-propose the history page only on a real slowdown](docs/report/2026-11/2026-11-06-schedule-ended-weekly-check-timing-watch-compare-t-4ppe5uaj.md) `dc_xj4ppe5uaj` · Mara
+- 2026-11-06 [Test-visitor check (kr_ie3i3swby4) ran with the test account and passed: a visitor on full Prod got a third desk, inUse stayed 2/2; dc_y7jkfy8wav stays claimed by Mitchell; parked re-run cancelled](docs/report/2026-11/2026-11-06-test-visitor-check-kr-ie3i3swby4-ran-with-the-test-4ax01ny0.md) `dc_ab4ax01ny0` · Mara
+- 2026-11-06 [Grant gr_7op2v8fjcl adjusted: 1,000,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-7op2v8fjcl-adjusted-1-000-000-tokens-x0pl939v.md) `dc_ldx0pl939v` · Town
 - 2026-11-05 [Withdraw is live but refused both: dc_y7jkfy8wav is claimed by Mitchell (stays open), dc_bn4s4m7cq3 no longer exists; test token still absent, parked](docs/report/2026-11/2026-11-05-withdraw-is-live-but-refused-both-dc-y7jkfy8wav-is-8w8ypfr5.md) `dc_tj8w8ypfr5` · Mara 1
 - 2026-11-05 [Work routing map filed for Mitchell's meeting (dc_4xww7x920l): 21 paths create work, 13 can land on a forking manager's own queue; Workshop PR #369 closes 3](docs/report/2026-11/2026-11-05-work-routing-map-filed-for-mitchell-s-meeting-dc-4-cxz43hbc.md) `dc_9gcxz43hbc` · Mara
 - 2026-11-05 [Work routing map filed (dc_4xww7x920l): 21 paths create work; 13 can land on a forking manager's own queue, and PR #369 closes 3](docs/report/2026-11/2026-11-05-work-routing-map-filed-dc-4xww7x920l-21-paths-crea-egd42q8w.md) `dc_ayegd42q8w` · Mara 1
@@ -70,10 +74,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-04 [gr_a5ct690l7a: no visitor token counting, by Mitchell's word; Spend by goal now says a visitor's tokens are not tracked (PR #318, parked on CI; grant closes once it is live)](docs/report/2026-11/2026-11-04-gr-a5ct690l7a-no-visitor-token-counting-by-mitchel-b805a710.md) `dc_n9b805a710` · Mara
 - 2026-11-04 [gr_7op2v8fjcl (red-main fixer) funded at 500k: step 1 (main's CI state in /api/health) queued as as_2entebkm64; steps 2 and 3 follow from its report](docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-red-main-fixer-funded-at-500k-step-1-mw5azmbx.md) `dc_tnmw5azmbx` · Mara
 - 2026-11-04 [goals.test.ts migration-061 flake fixed: PR #311 merged (8a9034c)](docs/report/2026-11/2026-11-04-goals-test-ts-migration-061-flake-fixed-pr-311-mer-2l7kwaa6.md) `dc_ws2l7kwaa6` · Mara 1
-- 2026-11-04 [goals.test.ts migration-061 flake: tests moved to in-memory SQLite, PR #311 open, parked on CI](docs/report/2026-11/2026-11-04-goals-test-ts-migration-061-flake-tests-moved-to-i-tfxjj0c0.md) `dc_uptfxjj0c0` · Mara 1
-- 2026-11-04 [gr_7op2v8fjcl (red-main fixer): answered Mitchell's counter, re-proposed the same plan at his 500,000; goals.test.ts flake queued as exploration](docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-red-main-fixer-answered-mitchell-s-c-g0c4r3q8.md) `dc_fqg0c4r3q8` · Mara
-- 2026-11-04 [gr_a5ct690l7a: the adopt verb is live (PR #283 in 111e0bf), all four steps shipped; say go or no-go on contributed visitor tokens](docs/report/2026-11/2026-11-04-gr-a5ct690l7a-the-adopt-verb-is-live-pr-283-in-111-v38137vo.md) `dc_hwv38137vo` · Mara
-- 2026-11-04 [gr_a5ct690l7a step 4: the adopt verb (PR #283, 96d5a45) is live; kr_8a7vskwse2 can be claimed](docs/report/2026-11/2026-11-04-gr-a5ct690l7a-step-4-the-adopt-verb-pr-283-96d5a45-4ad7g759.md) `dc_tt4ad7g759` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

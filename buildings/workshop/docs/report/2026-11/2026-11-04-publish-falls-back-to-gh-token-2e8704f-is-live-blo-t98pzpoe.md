@@ -32,7 +32,7 @@ updatedAt: "2026-11-04T19:19:28.753Z"
   - the github.com/settings/personal-access-tokens/new link from the hint
 - `GET /api/town` has no `publish` key yet. That is expected because no repo URL has been saved. So `tokenSource` can't be read live until one is.
 - I couldn't picture the block. It shows only to admins, and my desk has no admin browser session.
-- Outbox [dc_wawcjkger2](../../../../../town-hall/outbox/2026-11/2026-11-04-publish-to-github-live-check-an-empty-github-repo-wcjkger2.md) was written by Pix, so I can't edit it. It still asks Mitchell for a token as well, but now only the empty repo's URL is needed.
+- Outbox dc_wawcjkger2 was written by Pix, so I can't edit it. It still asks Mitchell for a token as well, but now only the empty repo's URL is needed.
 - Once a repo URL is saved, these checks remain:
   - `town.publish.tokenSource` reads "collective"
   - after the next hourly export, the repo has commits and `/api/health` `export.lastPushAt` is set

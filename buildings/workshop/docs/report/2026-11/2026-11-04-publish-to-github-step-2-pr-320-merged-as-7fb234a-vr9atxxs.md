@@ -26,7 +26,7 @@ PR #320's CI passed (`check` SUCCESS on 416fc0b). The PR has no migration and on
 ## Findings
 - https://github.com/mitchellgordon95/muster-town/pull/320 is merged. It adds a "Publish to GitHub" block to Town Hall → Settings for admins: repo URL, a write-only token field, Save and Clear, and a line showing the last push.
 - I haven't checked the live panel yet. This session is parked until 7fb234a is live, then the continuation checks that the block renders (with no repo set yet).
-- Once that check passes, Mitchell can save an empty repo and a token in the block (outbox [dc_wawcjkger2](../../../../../town-hall/outbox/2026-11/2026-11-04-publish-to-github-live-check-an-empty-github-repo-wcjkger2.md)). The next hourly export then pushes to that repo.
+- Once that check passes, Mitchell can save an empty repo and a token in the block (outbox dc_wawcjkger2). The next hourly export then pushes to that repo.
 
 ## What I need from you
 Nothing needed.

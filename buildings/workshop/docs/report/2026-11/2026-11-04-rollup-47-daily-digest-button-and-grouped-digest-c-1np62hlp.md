@@ -74,4 +74,4 @@ Spend today by lane: exploration 72,681 tokens; directed 2,517,694 tokens. Sched
 ## Needs from Mitchell
 - Open "Talk to Secretary" once and say one decision in your own words (e.g. "approve that retainer" or "continue gr_x at 200k"): that gives kr_nt0q4a3pmy its first real record on a grant's history, which only you can produce.
 
-_Already waiting in your in-tray: 1 proposal (gr_cwwtrabt2o), 2 requests ([dc_31vt101dbe](../../../../../town-hall/outbox/2026-11/2026-11-04-start-a-throwaway-keyed-collective-to-check-gr-5lt-vt101dbe.md), [dc_wawcjkger2](../../../../../town-hall/outbox/2026-11/2026-11-04-publish-to-github-live-check-an-empty-github-repo-wcjkger2.md)), 1 rollup ([dc_cz38wq3sq4](2026-11-04-close-rollup-gr-8i952perny-stopping-a-funded-grant-38wq3sq4.md))._
+_Already waiting in your in-tray: 1 proposal (gr_cwwtrabt2o), 2 requests ([dc_31vt101dbe](../../../../../town-hall/outbox/2026-11/2026-11-04-start-a-throwaway-keyed-collective-to-check-gr-5lt-vt101dbe.md), dc_wawcjkger2), 1 rollup ([dc_cz38wq3sq4](2026-11-04-close-rollup-gr-8i952perny-stopping-a-funded-grant-38wq3sq4.md))._

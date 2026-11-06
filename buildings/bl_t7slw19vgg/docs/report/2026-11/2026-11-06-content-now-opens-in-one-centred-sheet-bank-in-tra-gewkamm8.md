@@ -9,10 +9,12 @@ buildingId: "bl_t7slw19vgg"
 provenance: {"sourceIds":["dc_qefnwr058y","dc_ep5efd8r14","dc_mvftzmjuyt","dc_cv0n2rw5mp","dc_rg9rkfnwfp","dc_mcpu0rdlpr","dc_xautttt3vc","dc_d662kzv42m","dc_82s3ebqysm","dc_2iazdl2w4h","dc_3s2x7xfpzf","dc_oo2x7yaevb","dc_8bv39n63k1","dc_xnswxyaorl","dc_5f80lz5gdx","dc_j6c6a2z5gp","dc_dw0tdr0a6k","dc_0mdearrlgy","dc_ovw3kn4elt","dc_yyn0y99ph4","dc_4ob45egack","dc_b33q0pr9ht"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/371","https://github.com/mitchellgordon95/muster-town/pull/374","https://github.com/mitchellgordon95/muster-town/pull/375","https://github.com/mitchellgordon95/muster-town/pull/376","https://github.com/mitchellgordon95/muster-town/pull/378","https://github.com/mitchellgordon95/muster-town/pull/379","https://github.com/mitchellgordon95/muster-town/pull/368"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "system"
+decidedAt: "2026-11-06T04:34:01.874Z"
 sessionId: "se_f2rk5zsvbb"
 createdAt: "2026-11-06T00:14:22.346Z"
-updatedAt: "2026-11-06T00:14:22.346Z"
+updatedAt: "2026-11-06T04:34:01.874Z"
 ---
 Live: 2a279a1d (since 2026-11-06 00:11 UTC). Everything below was checked on live as a guest at 1280×800 and 390×844.
 

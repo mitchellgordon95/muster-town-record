@@ -68,4 +68,4 @@ Spend by lane today: exploration 0 tokens (free under the goal: 0), directed 0 t
 1. **Cut this grant.** All its code is live; nothing token-funded is left. The remaining checks are your own round trip, already tracked under the sign-in-to-member grant. Continuing would only pay for more waiting.
 2. **Check the Bank's subscription input: host sessions still stop with "You've hit your monthly spend limit. Switch to another model to continue."** Every manager's in-tray session ended in error from 2026-11-01 21:23Z to at least 2026-11-02 01:59Z. Until that's fixed no manager answers a member's 1:1 and no building rolls up.
 
-_Already waiting in your in-tray: 1 proposal (gr_ngg1z160a8), 2 requests ([dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md), dc_ulla3hu21p), 0 rollups._
+_Already waiting in your in-tray: 1 proposal (gr_ngg1z160a8), 2 requests (dc_mgcbv3kqnd, dc_ulla3hu21p), 0 rollups._

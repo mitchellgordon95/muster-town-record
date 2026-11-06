@@ -22,12 +22,12 @@ createdAt: "2026-11-01T21:49:23.397Z"
 updatedAt: "2026-11-02T02:04:07.561Z"
 ---
 ## What I did
-Checked that steps 1–3 are live, then looked at the live funnel and events for the real join round trip. It hasn't happened, so I filed one follow-up outbox request that adds to [dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md) and recorded it on the Permissions page [dc_ckzkpsahhv](../../wiki/2026-10/2026-10-29-permissions-ask-to-join-member-kr-4-zkpsahhv.md). I did not close the grant.
+Checked that steps 1–3 are live, then looked at the live funnel and events for the real join round trip. It hasn't happened, so I filed one follow-up outbox request that adds to dc_mgcbv3kqnd and recorded it on the Permissions page [dc_ckzkpsahhv](../../wiki/2026-10/2026-10-29-permissions-ask-to-join-member-kr-4-zkpsahhv.md). I did not close the grant.
 
 ## Findings
 - **Live build:** eb30724. It contains 4969557 (member 1:1), a56e231 ("You're in" card) and ba84b28 (funnel `acted`). I checked each with `git merge-base --is-ancestor`.
-- **No round trip yet:** /api/join-funnel for the Workshop shows asked 0, letIn 0, acted 0. Across all collectives: signIns 2, asked 1, letIn 1, acted 0. The only let-in is still Mitchell joining Hollyville. The last 1000 events (2026-11-01T21:23:48Z to 21:48:29Z) have no "asked to join" or "let in as a member" events. [dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md) is still open.
-- **Follow-up filed: dc_ulla3hu21p** (observation, 9 lines). It goes with [dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md) and asks the same account, after Let in, for:
+- **No round trip yet:** /api/join-funnel for the Workshop shows asked 0, letIn 0, acted 0. Across all collectives: signIns 2, asked 1, letIn 1, acted 0. The only let-in is still Mitchell joining Hollyville. The last 1000 events (2026-11-01T21:23:48Z to 21:48:29Z) have no "asked to join" or "let in as a member" events. dc_mgcbv3kqnd is still open.
+- **Follow-up filed: dc_ulla3hu21p** (observation, 9 lines). It goes with dc_mgcbv3kqnd and asks the same account, after Let in, for:
   - (a) whether the "You're in" card showed
   - (b) one line sent through Talk to ★ Kelly/Pix, whether a reply came, and how many minutes it took
   - (c) the exact wording of the refusal when it tries a second new 1:1 the same day

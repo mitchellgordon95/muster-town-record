@@ -31,7 +31,7 @@ updatedAt: "2026-11-04T19:13:57.947Z"
 - The continuation, once 2e8704f is live:
   1. Read `GET /api/town` → `town.publish`. It stays absent until a repo is saved; once one is, `tokenSource` should read `collective` from Mitchell's GH_TOKEN.
   2. Refresh the topic page [dc_0ub741sboo](../../wiki/2026-11/2026-11-04-publish-to-github-gr-30f8obzab8-b741sboo.md).
-- Outbox [dc_wawcjkger2](../../../../../town-hall/outbox/2026-11/2026-11-04-publish-to-github-live-check-an-empty-github-repo-wcjkger2.md) still asks Mitchell for a token. Now he only needs to give the empty repo's URL.
+- Outbox dc_wawcjkger2 still asks Mitchell for a token. Now he only needs to give the empty repo's URL.
 
 ## What I need from you
 Once 2e8704f is live, Mitchell should create an empty GitHub repo, paste its URL in Town Hall > Settings > Publish to GitHub, leave the token blank and press Save.

@@ -22,10 +22,10 @@ createdAt: "2026-11-03T02:45:37.651Z"
 updatedAt: "2026-11-03T02:47:36.997Z"
 ---
 ## What I did
-I checked outbox request [dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md), the last 1000 events from GET /api/events, and GET /api/join-funnel, then updated topic page [dc_ckzkpsahhv](../../wiki/2026-10/2026-10-29-permissions-ask-to-join-member-kr-4-zkpsahhv.md). I did not park this a third time: checking every day finds nothing new. The scheduled check sc_gy1eruamog (2026-11-07 21:00Z) is the one remaining check.
+I checked outbox request dc_mgcbv3kqnd, the last 1000 events from GET /api/events, and GET /api/join-funnel, then updated topic page [dc_ckzkpsahhv](../../wiki/2026-10/2026-10-29-permissions-ask-to-join-member-kr-4-zkpsahhv.md). I did not park this a third time: checking every day finds nothing new. The scheduled check sc_gy1eruamog (2026-11-07 21:00Z) is the one remaining check.
 
 ## Findings
-- **The round trip still hasn't happened.** [dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md) is still `open` and nobody has replied.
+- **The round trip still hasn't happened.** dc_mgcbv3kqnd is still `open` and nobody has replied.
 - **No join events.** The last 1000 events run from 2026-11-02T18:05Z to 2026-11-03T02:45Z. None is a sign-in, an ask to join, a let-in or a decline.
 - **Funnel for the last 30 days** (/api/join-funnel at 2026-11-03T02:45Z):
   - All collectives: 200 guest-card views, 2 sign-ins, 1 asked, 1 let in, 0 declined, 0 acted.
@@ -37,4 +37,4 @@ I checked outbox request [dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10
   - If not: report these funnel numbers and say the round trip never happened. Kelly then runs close_grant on gr_fibsfwr4tz, marking kr_bf2df18aa1 as not met.
 
 ## What I need from you
-Do the round trip in outbox request [dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md) before 2026-11-07 21:00Z: with a GitHub account that has never had a role here, sign in, press Ask to join, let it in, then Say one line from that account.
+Do the round trip in outbox request dc_mgcbv3kqnd before 2026-11-07 21:00Z: with a GitHub account that has never had a role here, sign in, press Ask to join, let it in, then Say one line from that account.

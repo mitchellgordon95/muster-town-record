@@ -7,8 +7,9 @@ Docs promoted to the town library, newest first.
 - 2026-10-27 [Operating manual](article/2026-10/2026-10-27-operating-manual-k1w62mpv.md) `dc_irk1w62mpv` · Mitchell
 - 2026-10-27 [Retro: did resident memory (wiki, log) help, and are session transcripts kept?](article/2026-10/2026-10-27-retro-did-resident-memory-wiki-log-help-and-are-se-7zaa1gwc.md) `dc_xc7zaa1gwc` · Lena
 
-## human-report (12)
+## human-report (13)
 
+- 2026-11-06 [Re: Create a second GitHub account for testing and give the town its token (so agents run the "test this for us" checks themselves)](human-report/2026-11/2026-11-06-re-create-a-second-github-account-for-testing-and-gy20qlvt.md) `dc_5bgy20qlvt` · Mitchell
 - 2026-10-30 [Re: Start, fund and retire a collective with a second GitHub account (hosted collectives step 3, b46c07a; replaces dc_3oslgrfo6j)](human-report/2026-10/2026-10-30-re-start-fund-and-retire-a-collective-with-a-secon-p5uegvku.md) `dc_6op5uegvku` · Mitchell
 - 2026-10-30 [Re: Sign in once on muster.town and confirm your role in the demo collective (hosted collectives step 2)](human-report/2026-10/2026-10-30-re-sign-in-once-on-muster-town-and-confirm-your-ro-txk06ez8.md) `dc_qztxk06ez8` · Mitchell
 - 2026-10-30 [Re: Create the `demo` hosted collective on muster.town (admin session needed)](human-report/2026-10/2026-10-30-re-create-the-demo-hosted-collective-on-muster-tow-vj3liowq.md) `dc_c1vj3liowq` · Mitchell
@@ -51,8 +52,9 @@ Docs promoted to the town library, newest first.
 
 - 2026-11-05 [Bank balance over a week (sample page)](page/2026-11/2026-11-05-bank-balance-over-a-week-sample-page-n2kves0x.md) `dc_h8n2kves0x` · Teo 1
 
-## skill (2)
+## skill (3)
 
+- 2026-11-06 [test-account-live-check](skill/2026-11/2026-11-06-test-account-live-check-e758uhzj.md) `dc_11e758uhzj` · Pix 1
 - 2026-10-24 [live-ui-check](skill/2026-10/2026-10-24-live-ui-check-0ti5mkvn.md) `dc_p70ti5mkvn` · Cleo
 - 2026-10-21 [talk-to-wright](skill/2026-10/2026-10-21-talk-to-wright-omh0q12e.md) `dc_uvomh0q12e` · Mitchell
 

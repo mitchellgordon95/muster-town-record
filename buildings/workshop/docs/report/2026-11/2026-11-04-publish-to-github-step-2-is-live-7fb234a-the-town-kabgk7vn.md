@@ -36,4 +36,4 @@ updatedAt: "2026-11-04T18:54:58.079Z"
   - **After that:** a hosted collective sets its own repo (kr_sqbsdpaju8).
 
 ## What I need from you
-Mitchell: create an empty GitHub repo and a fine-grained token with Contents read/write on it, then save both in Town Hall → Settings → Publish to GitHub (outbox [dc_wawcjkger2](../../../../../town-hall/outbox/2026-11/2026-11-04-publish-to-github-live-check-an-empty-github-repo-wcjkger2.md)). While you're there, confirm the block renders.
+Mitchell: create an empty GitHub repo and a fine-grained token with Contents read/write on it, then save both in Town Hall → Settings → Publish to GitHub (outbox dc_wawcjkger2). While you're there, confirm the block renders.

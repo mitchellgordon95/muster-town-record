@@ -62,4 +62,4 @@ Spend today: exploration 0 tokens (free under the goal: 0), directed 422,973 tok
 ## Needs from Mitchell
 Nothing needed.
 
-_Already waiting in your in-tray: 0 proposals, 3 requests ([dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md), dc_ulla3hu21p, dc_fvlt8xajnz), 0 rollups._
+_Already waiting in your in-tray: 0 proposals, 3 requests (dc_mgcbv3kqnd, dc_ulla3hu21p, dc_fvlt8xajnz), 0 rollups._

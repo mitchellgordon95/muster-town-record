@@ -1,0 +1,37 @@
+---
+id: "dc_x59dk8vruh"
+type: "meeting-notes"
+state: "building"
+title: "1:1: Mitchell and Kelly — notes"
+authorId: "ag_s1n1xknj8n"
+authorKind: "agent"
+buildingId: "bl_hzjw0z0zlz"
+provenance: {"sourceIds":[],"urls":[]}
+tags: []
+createdAt: "2026-11-06T04:30:55.650Z"
+updatedAt: "2026-11-06T04:30:55.650Z"
+---
+# 1:1: Mitchell and Kelly
+
+Kind: one-on-one. Facilitator: Kelly. Attendees: Kelly. Attendees brought: a status update (did, next, need).
+
+## Agenda
+
+(none)
+
+## Summaries
+
+(none)
+## Discussion
+
+- **Mitchell:** I'd like to talk about the checkpoint grant "Make the stranger's road from sign-in to member honest and measurable: the guest card promises only what sign-in gives,…" (gr_fibsfwr4tz), for key result kr_pxisdsocdp: "A stranger who signs in with GitHub is read-only until Mitchell lets them in: they ask to join from the guest card, the request shows in the Town Hall in-tray,…". (presented: Grant: Make the stranger's road from sign-in to member honest and measurable: the guest card promises only what sign-in gives, a person who asks knows how they'll hear back, and a public join funnel shows how many strangers get through each step. (page grant:gr_fibsfwr4tz))
+- **Kelly:** Hi Mitchell. Where kr_pxisdsocdp stands: the pieces are live and checked, the proof with a real stranger is not. Live: a GitHub sign-in with no roles is read-only; the guest card's one button is Ask to join (POST /api/access-requests); the request lands in the Town Hall in-tray as a Let in card and in the HUD Notices; Let in makes them a member. Checked in mocked UI runs at desktop and phone sizes (gr_cuobjlny6r evidence, page [dc_ckzkpsahhv](../../wiki/2026-10/2026-10-29-permissions-ask-to-join-member-kr-4-zkpsahhv.md)). Not done: nobody but you has ever gone round the loop (join-funnel: town-wide asked 1 / let in 1, that was you joining Hollyville; Workshop asked 0). That's the sister KR kr_bf2df18aa1 and the grant's last step. The run is parked on your test account's token (as_l3gzetxuq2 checks for MUSTER_TEST_GH_TOKEN again in about 3.5 h); once it's there a fork signs in as the stranger, asks to join, and the only thing left for you is one Let in click. Backstop: tomorrow evening the 7-day check closes the grant honestly either way. Grant spend 407,049 / 450,000. What did you want to do with it: mark this KR met on the live evidence now, wait for the round trip, or something else?
+- **Mitchell:** ok i added the github token
+- **Kelly:** Thanks. I've put the round trip on the queue right now (as_3zcntwk5z4, on the grant) instead of waiting for the 08:02Z re-check, which I cancelled. A fork of me will sign in as the test account, confirm it has no roles, withdraw the two old "test this" outbox requests, and ask to join the Workshop from the guest card. Then it parks: the one thing it can't do is Let in, that needs a human. So in a while you'll see the test account's request in your Town Hall in-tray; press Let in (with direct work under the Onboarding goal if you want the 1:1 part proved too), and the fork finishes the loop, records the minutes from ask to let in, and claims kr_pxisdsocdp and kr_bf2df18aa1 with the evidence. I'll close the grant and roll it up after that. If the desk doesn't see the token yet, the fork says so and retries in an hour.
+- **Mitchell:** what do i do with the grant checkpoint
+- **Kelly:** Continue it, with a small top-up. Why: the grant is held at its checkpoint, and work on a held grant stays pending, so the round trip I just queued won't start until you continue. What's left is 407,049 spent of 450,000, about 43k, and the round trip is two short sessions (ask to join, then the resume after your Let in that proves membership, says once, opens a 1:1 and claims the two KRs). Two sessions usually book more than 43k, so if you continue as is it will likely hold again halfway and I'll be back here asking. My suggestion: adjust it to 550,000 (adds 100k), which covers both sessions with room; whatever is unspent returns to the Bank when I close it. Cutting is the wrong move: everything else in the grant is live, only this proof is missing.
+
+## Decisions
+
+1. Mitchell added MUSTER_TEST_GH_TOKEN. Onboarding runs the join round trip now (as_3zcntwk5z4 on the building queue, grant lane gr_fibsfwr4tz): withdraw the two old outbox requests, sign in as the stranger, Ask to join, then park until Mitchell presses Let in; the 08:02Z re-check is dropped.
+

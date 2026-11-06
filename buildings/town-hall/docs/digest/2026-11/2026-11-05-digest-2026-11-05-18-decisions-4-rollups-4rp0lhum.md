@@ -43,7 +43,7 @@ updatedAt: "2026-11-05T20:02:52.345Z"
 - "Redeploy with the desk image rebuild (image=true) for d30bfdd, or grant Code Le…" (dc_bn4s4m7cq3)
 - "A throwaway Linux box and a test domain for the self-host bring-up proof" ([dc_nke6xw12k4](../../../../../town-hall/outbox/2026-10/2026-10-29-a-throwaway-linux-box-and-a-test-domain-for-the-se-e6xw12k4.md))
 - "Run the timed dead-volume recovery drill once on a throwaway app (~25 min), now…" ([dc_6gnk7y16y1](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-nk7y16y1.md))
-- "Add-on to the join round trip ([dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md)): Let in + direct work, then one 1…" ([dc_wtz7ltq8hf](../../../../../town-hall/outbox/2026-11/2026-11-03-add-on-to-the-join-round-trip-dc-mgcbv3kqnd-let-in-z7ltq8hf.md))
+- "Add-on to the join round trip (dc_mgcbv3kqnd): Let in + direct work, then one 1…" ([dc_wtz7ltq8hf](../../../../../town-hall/outbox/2026-11/2026-11-03-add-on-to-the-join-round-trip-dc-mgcbv3kqnd-let-in-z7ltq8hf.md))
 - "Start a throwaway keyed collective to check gr_5ltmbf3a2f's last key result" ([dc_31vt101dbe](../../../../../town-hall/outbox/2026-11/2026-11-04-start-a-throwaway-keyed-collective-to-check-gr-5lt-vt101dbe.md))
 - "Create a second GitHub account for testing and give the town its token (so agen…" ([dc_fnqcknr8id](../../../../../town-hall/outbox/2026-11/2026-11-05-create-a-second-github-account-for-testing-and-giv-qcknr8id.md))
 

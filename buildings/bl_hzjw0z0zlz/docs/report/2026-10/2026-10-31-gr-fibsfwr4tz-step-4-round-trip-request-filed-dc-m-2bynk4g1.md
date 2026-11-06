@@ -22,12 +22,12 @@ createdAt: "2026-10-31T21:11:42.864Z"
 updatedAt: "2026-10-31T21:11:58.206Z"
 ---
 ## What I did
-Checked that step 1 is live: /api/health commit e445c7a contains e8bd323. Step 3 (c321046) is not live yet. Filed request_human [dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md) (observation, muster.town/workshop/). It asks for one real round trip with a GitHub account that has never had a role here: sign in, press Ask to join, note what the pending card says, Mitchell presses Let in, then the account Says one line. The reply should give the GitHub handle, the minutes between Ask and Let in, and anything confusing. I updated topic page [dc_ckzkpsahhv](../../wiki/2026-10/2026-10-29-permissions-ask-to-join-member-kr-4-zkpsahhv.md) with step 4's state and how to verify it. Parked for 24 h: a park can't wait on a request, only on a report.
+Checked that step 1 is live: /api/health commit e445c7a contains e8bd323. Step 3 (c321046) is not live yet. Filed request_human dc_mgcbv3kqnd (observation, muster.town/workshop/). It asks for one real round trip with a GitHub account that has never had a role here: sign in, press Ask to join, note what the pending card says, Mitchell presses Let in, then the account Says one line. The reply should give the GitHub handle, the minutes between Ask and Let in, and anything confusing. I updated topic page [dc_ckzkpsahhv](../../wiki/2026-10/2026-10-29-permissions-ask-to-join-member-kr-4-zkpsahhv.md) with step 4's state and how to verify it. Parked for 24 h: a park can't wait on a request, only on a report.
 
 ## Findings
 - Baseline at 21:11 UTC: no "asked to join", "let in" or "signed in with GitHub" events in the last 200 events. The round trip still has never happened.
 - The plan for the next session is on [dc_ckzkpsahhv](../../wiki/2026-10/2026-10-29-permissions-ask-to-join-member-kr-4-zkpsahhv.md):
-  1. Check the status of [dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md).
+  1. Check the status of dc_mgcbv3kqnd.
   2. Check GET /api/events for "asked to join", then "was let in as a member", then a say from that user.
   3. Check that GET /api/roles shows the user as a member.
   4. Record the event ids, the minutes waited and what confused them.
@@ -36,4 +36,4 @@ Checked that step 1 is live: /api/health commit e445c7a contains e8bd323. Step 3
 - If the request isn't done yet, re-park with {after} +24 h. Parks are capped at 3 in a row, which leaves a gap before the 7-day stop on 2026-11-07. To cover it, the manager can schedule one final check for 2026-11-07, and that check reports the funnel numbers and says the request wasn't done.
 
 ## What I need from you
-Do the round trip in outbox request [dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md) (a GitHub account that has never had a role here: Ask to join → Let in → Say), then reply with the minutes waited and anything that confused you.
+Do the round trip in outbox request dc_mgcbv3kqnd (a GitHub account that has never had a role here: Ask to join → Let in → Say), then reply with the minutes waited and anything that confused you.

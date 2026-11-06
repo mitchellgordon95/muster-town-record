@@ -109,11 +109,11 @@ Your Mac, minutes each (3)
 - [dc_6gnk7y16y1](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-nk7y16y1.md) the ~25-min dead-volume recovery drill on a throwaway Fly app, paste the last line back
 
 One sitting with a second GitHub account (3)
-- [dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md) one real join round trip, then [dc_wtz7ltq8hf](../../../../../town-hall/outbox/2026-11/2026-11-03-add-on-to-the-join-round-trip-dc-mgcbv3kqnd-let-in-z7ltq8hf.md) the add-on (Let in + direct work, one 1:1) in the same sitting
+- dc_mgcbv3kqnd one real join round trip, then [dc_wtz7ltq8hf](../../../../../town-hall/outbox/2026-11/2026-11-03-add-on-to-the-join-round-trip-dc-mgcbv3kqnd-let-in-z7ltq8hf.md) the add-on (Let in + direct work, one 1:1) in the same sitting
 - [dc_y7jkfy8wav](../../../../../town-hall/outbox/2026-11/2026-11-03-register-a-test-visitor-on-a-full-building-s-goal-jkfy8wav.md) register a test visitor on a full building's goal (signed-in click)
 - [dc_31vt101dbe](../../../../../town-hall/outbox/2026-11/2026-11-04-start-a-throwaway-keyed-collective-to-check-gr-5lt-vt101dbe.md) start a throwaway keyed collective (needs an API key; it spends real money) to close gr_5ltmbf3a2f
 
-GitHub side (1): [dc_wawcjkger2](../../../../../town-hall/outbox/2026-11/2026-11-04-publish-to-github-live-check-an-empty-github-repo-wcjkger2.md) an empty repo + a fine-grained token so Pix can live-check "Publish to GitHub"
+GitHub side (1): dc_wawcjkger2 an empty repo + a fine-grained token so Pix can live-check "Publish to GitHub"
 
 Infrastructure (1): [dc_nke6xw12k4](../../../../../town-hall/outbox/2026-10/2026-10-29-a-throwaway-linux-box-and-a-test-domain-for-the-se-e6xw12k4.md) a throwaway Linux box + test domain for the self-host proof
 

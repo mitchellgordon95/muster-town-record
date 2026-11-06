@@ -23,7 +23,7 @@ Exploration as_gu9y8vgzpi, read on main 7521c0b (2026-11-01). Question: once gr_
 - What a member *can* do that works: Connect your agent (HUD link), attend a meeting someone else called, file an outbox request.
 
 ## Live (GET https://muster.town/api/join-funnel, 2026-11-01)
-Totals 30 days: guestCardViews 105 (inflated by headless checks, [dc_5jyjfmt6gb](../../report/2026-10/2026-10-31-gr-fibsfwr4tz-step-3-live-api-join-funnel-back-fil-yjfmt6gb.md)), signIns 2, asked 1, letIn 1, declined 0; median decision 14,987 ms (Hollyville, n = 1). Workshop: 0 asked, 0 let in. So no Workshop member has yet hit this; the gr_fibsfwr4tz step 4 round trip ([dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md)) will be the first, and its last check is "a Say from that account", which will land unanswered.
+Totals 30 days: guestCardViews 105 (inflated by headless checks, [dc_5jyjfmt6gb](../../report/2026-10/2026-10-31-gr-fibsfwr4tz-step-3-live-api-join-funnel-back-fil-yjfmt6gb.md)), signIns 2, asked 1, letIn 1, declined 0; median decision 14,987 ms (Hollyville, n = 1). Workshop: 0 asked, 0 let in. So no Workshop member has yet hit this; the gr_fibsfwr4tz step 4 round trip (dc_mgcbv3kqnd) will be the first, and its last check is "a Say from that account", which will land unanswered.
 
 ## Inference (mine)
 The road gr_fibsfwr4tz built ends at a door that opens onto a room where no one answers. The cheapest honest fix: let a member open a 1:1 with a building's manager (the path that already wakes a manager and answers live), bounded per member per day; show a one-time "You're in" card on the first load after a grant; count the member's first act in the funnel.

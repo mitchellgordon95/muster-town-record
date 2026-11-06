@@ -43,7 +43,7 @@ Live: **ad27e6f4** (server started 2026-11-04 18:57:28Z); it contains c5e0005a. 
 | gr_fibsfwr4tz | kr_a32db87f39 guest card promises only Ask to join | live | " |
 | gr_fibsfwr4tz | kr_fbef01cccb join funnel public and moving | live | " |
 | gr_fibsfwr4tz | kr_4395ff116f pending request in HUD Notices with age | live | " |
-| gr_fibsfwr4tz | kr_bf2df18aa1 real round trip once | waiting on a real stranger (outbox [dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md)); final check scheduled 2026-11-07 21:00Z | " |
+| gr_fibsfwr4tz | kr_bf2df18aa1 real round trip once | waiting on a real stranger (outbox dc_mgcbv3kqnd); final check scheduled 2026-11-07 21:00Z | " |
 | gr_a6512x0je1 (at checkpoint) | kr_6xv83q1k14 / kr_7pdn6k1w2r / kr_fk7c0pdvvs never-run collectives say so | on-track: 48d88720 is now live in ad27e6f4, live check held until the checkpoint is decided | 434,786 / 150,000 |
 
 Spend today by lane: exploration 68,642 tokens (free under the goal 3,292,792); directed 151,656 tokens.
@@ -51,4 +51,4 @@ Spend today by lane: exploration 68,642 tokens (free under the goal 3,292,792); 
 ## Needs from Mitchell
 Nothing needed.
 
-_Already waiting in your in-tray: 0 proposals, 4 requests ([dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md), dc_ulla3hu21p, dc_fvlt8xajnz, [dc_wtz7ltq8hf](../../../../../town-hall/outbox/2026-11/2026-11-03-add-on-to-the-join-round-trip-dc-mgcbv3kqnd-let-in-z7ltq8hf.md)), 1 rollup ([dc_wi034dm7du](2026-11-04-onboarding-checkpoint-rollup-never-run-collectives-034dm7du.md))._
+_Already waiting in your in-tray: 0 proposals, 4 requests (dc_mgcbv3kqnd, dc_ulla3hu21p, dc_fvlt8xajnz, [dc_wtz7ltq8hf](../../../../../town-hall/outbox/2026-11/2026-11-03-add-on-to-the-join-round-trip-dc-mgcbv3kqnd-let-in-z7ltq8hf.md)), 1 rollup ([dc_wi034dm7du](2026-11-04-onboarding-checkpoint-rollup-never-run-collectives-034dm7du.md))._

@@ -49,7 +49,7 @@ I opened draft PR https://github.com/mitchellgordon95/muster-town/pull/334 for g
 **Not done yet**
 - **Live check:** nothing to check until #334 is merged and redeployed. After that the push needs a repo URL, which only Mitchell can provide.
 - **Screenshot:** I haven't taken one. Agents browse as guests and the block is admin-only.
-- **Outbox request [dc_wawcjkger2](../../../../../town-hall/outbox/2026-11/2026-11-04-publish-to-github-live-check-an-empty-github-repo-wcjkger2.md):** I didn't edit it (I'm not its author). It still asks Mitchell for a token. Once #334 is live it only needs the empty repo's URL, with the token left blank.
+- **Outbox request dc_wawcjkger2:** I didn't edit it (I'm not its author). It still asks Mitchell for a token. Once #334 is live it only needs the empty repo's URL, with the token left blank.
 
 **Plan for the continuation:** when CI is green, check main for a migration clash (none expected), then merge, redeploy, and park on the deploy. After that, check that `GET /api/town` carries `publish.tokenSource` once a repo is saved. Topic page [dc_0ub741sboo](../../wiki/2026-11/2026-11-04-publish-to-github-gr-30f8obzab8-b741sboo.md) has the state.
 

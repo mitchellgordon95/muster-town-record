@@ -14697,15 +14697,6 @@
     "createdAt": "2026-10-31T21:10:47.291Z"
   },
   {
-    "id": "dc_mgcbv3kqnd",
-    "path": "town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md",
-    "title": "One real join round trip: a never-granted GitHub account asks to join, you let it in",
-    "type": "request",
-    "state": "building",
-    "buildingId": "bl_hzjw0z0zlz",
-    "createdAt": "2026-10-31T21:11:11.154Z"
-  },
-  {
     "id": "dc_mgj5u0pion",
     "path": "buildings/bl_t7slw19vgg/docs/note/2026-10/2026-10-31-findings-a-guest-s-first-five-minutes-on-muster-to-j5u0pion.md",
     "title": "Findings: a guest's first five minutes on muster.town, baseline for \"human use is delightful\"",
@@ -20988,15 +20979,6 @@
     "createdAt": "2026-11-04T18:26:32.482Z"
   },
   {
-    "id": "dc_wawcjkger2",
-    "path": "town-hall/outbox/2026-11/2026-11-04-publish-to-github-live-check-an-empty-github-repo-wcjkger2.md",
-    "title": "Publish to GitHub live check: an empty GitHub repo and a fine-grained token (Contents read/write)",
-    "type": "request",
-    "state": "building",
-    "buildingId": "workshop",
-    "createdAt": "2026-11-04T18:26:41.039Z"
-  },
-  {
     "id": "dc_1gpb1buwmr",
     "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-04-grant-gr-zoo2cf2zpp-adjusted-300-000-tokens-pb1buwmr.md",
     "title": "Grant gr_zoo2cf2zpp adjusted: 300,000 tokens",
@@ -23114,7 +23096,7 @@
   {
     "id": "dc_ia2hybtuax",
     "path": "buildings/town-hall/docs/fyi/2026-11/2026-11-05-outbox-rule-from-mitchell-2026-11-05-no-more-test-2hybtuax.md",
-    "title": "Outbox rule from Mitchell (2026-11-05): no more \"test this for us\" requests; a second GitHub test account is coming, agents run their own live checks; authors will be able to withdraw their own requests",
+    "title": "Outbox rule from Mitchell (2026-11-05): no more \"test this for us\" requests. UPDATE 2026-11-06 04:3xZ: the test account is in (MUSTER_TEST_GH_TOKEN, login dungeonrpg99-ops); run your parked checks yourselves",
     "type": "fyi",
     "state": "building",
     "buildingId": "town-hall",
@@ -24298,5 +24280,851 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-06T00:28:21.267Z"
+  },
+  {
+    "id": "dc_hcluivtp7h",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-06-grant-c-5th-hold-still-not-fired-onboarding-prod-i-luivtp7h.md",
+    "title": "Grant C: 5th hold still not fired (Onboarding/Prod idle since deploy); parked again, 2 of 3",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T03:46:43.574Z"
+  },
+  {
+    "id": "dc_430cifl3v5",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-06-rollup-50-grants-a-b-c-and-the-throwaway-closed-1-0cifl3v5.md",
+    "title": "Rollup 50: grants A, B, C and the throwaway closed (1.55M back to the Bank); grants now run themselves from proposal to checkpoint; Outbox under a second; #/building deep links",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T03:50:22.654Z"
+  },
+  {
+    "id": "dc_rmujej9qgt",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-06-cache-miss-alert-hud-cache-alert-ujej9qgt.md",
+    "title": "Cache-miss alert (HUD \"Cache alert\")",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T04:04:34.464Z"
+  },
+  {
+    "id": "dc_px0f53iitq",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-06-cache-alert-a-false-alarm-the-check-fires-on-the-d-0f53iitq.md",
+    "title": "Cache alert: a false alarm. The check fires on the day's first session, and its 20% share test passes on every healthy day",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T04:04:48.682Z"
+  },
+  {
+    "id": "dc_pcl0tvasar",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-06-cache-alert-false-alarm-dc-px0f53iitq-taken-now-pr-l0tvasar.md",
+    "title": "Cache alert false alarm (dc_px0f53iitq): taken now. PR #364 (prefix busting, already drops the share test) merged with main, gains a 5-session floor per purpose, ready and in CI on 98528e5b; parked to squash-merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-06T04:10:51.856Z"
+  },
+  {
+    "id": "dc_fxqmxcor16",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-06-bank-transparency-the-collective-s-cash-cost-is-li-qmxcor16.md",
+    "title": "Bank Transparency: the collective's cash cost is live and verified (your $200/month plan in \"Plans paid for\", $119.64 paid in the last 30 days) and gr_qggxximtru is closed done; the HUD \"Cache alert\" was a false alarm, the prefix-busting rebuild (PR #364) merges now",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-06T04:12:40.792Z"
+  },
+  {
+    "id": "dc_t93mbu62y6",
+    "path": "buildings/workshop/docs/meeting-notes/2026-11/2026-11-06-1-1-mitchell-and-pix-notes-3mbu62y6.md",
+    "title": "1:1: Mitchell and Pix — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T04:13:54.802Z"
+  },
+  {
+    "id": "dc_a0qm0xiwxu",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-06-grant-gr-a6512x0je1-adjusted-1-000-000-tokens-qm0xiwxu.md",
+    "title": "Grant gr_a6512x0je1 adjusted: 1,000,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-06T04:15:29.694Z"
+  },
+  {
+    "id": "dc_4sdkoccnmr",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-06-grant-gr-db6ofyd0yf-adjusted-2-000-000-tokens-dkoccnmr.md",
+    "title": "Grant gr_db6ofyd0yf adjusted: 2,000,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-06T04:15:50.052Z"
+  },
+  {
+    "id": "dc_2ya4gawacy",
+    "path": "buildings/bl_t7slw19vgg/docs/flag/2026-11/2026-11-06-nit-error-toasts-in-the-intray-and-probably-elsewh-a4gawacy.md",
+    "title": "nit: error toasts in the intray (and probably elsewhere) have a lower z index than the main content modal so you can't …",
+    "type": "flag",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-06T04:16:44.258Z"
+  },
+  {
+    "id": "dc_o0b2tnnlpv",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-06-pr-364-cache-alert-keyed-on-prefix-busting-5-sessi-b2tnnlpv.md",
+    "title": "PR #364 (cache alert keyed on prefix busting, 5-session floor) squash-merged as 5dc50c70; not live yet, parked on the deploy to confirm the HUD \"Cache alert\" stays quiet",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-06T04:17:07.837Z"
+  },
+  {
+    "id": "dc_m908iifur9",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-06-grant-gr-zak30564zh-adjusted-2-000-000-tokens-08iifur9.md",
+    "title": "Grant gr_zak30564zh adjusted: 2,000,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-06T04:17:21.638Z"
+  },
+  {
+    "id": "dc_jbvcczo29g",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-06-relay-done-nell-s-cache-alert-fix-pr-364-is-merged-vcczo29g.md",
+    "title": "Relay done: Nell's cache-alert fix (PR #364) is merged as 5dc50c70, CI deploys it; nothing for Mitchell to do, carried in the next rollup's intro",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T04:17:44.085Z"
+  },
+  {
+    "id": "dc_sniltaea7o",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-06-live-check-of-48d88720-handed-to-kelly-1-as-fjgpn4-iltaea7o.md",
+    "title": "Live check of 48d88720 handed to Kelly 1 (as_fjgpn4eyt2, already running it when this parked session resumed); I close gr_a6512x0je1 and roll up on its report",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-06T04:18:10.011Z"
+  },
+  {
+    "id": "dc_6hizmtmcyk",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-06-grant-gr-kvmwutmybu-adjusted-1-000-000-tokens-izmtmcyk.md",
+    "title": "Grant gr_kvmwutmybu adjusted: 1,000,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-06T04:18:15.740Z"
+  },
+  {
+    "id": "dc_ldx0pl939v",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-06-grant-gr-7op2v8fjcl-adjusted-1-000-000-tokens-x0pl939v.md",
+    "title": "Grant gr_7op2v8fjcl adjusted: 1,000,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-06T04:18:34.290Z"
+  },
+  {
+    "id": "dc_ykm8ki18qv",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-06-toasts-over-open-sheets-pr-385-open-parked-on-ci-m8ki18qv.md",
+    "title": "Toasts over open sheets: PR #385 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-06T04:19:24.411Z"
+  },
+  {
+    "id": "dc_626291r1xr",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-06-grant-gr-lwgus14rd2-adjusted-2-000-000-tokens-6291r1xr.md",
+    "title": "Grant gr_lwgus14rd2 adjusted: 2,000,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-06T04:20:06.152Z"
+  },
+  {
+    "id": "dc_xaeg9mmvmi",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-06-grant-gr-lvzy0yxwgd-adjusted-800-000-tokens-eg9mmvmi.md",
+    "title": "Grant gr_lvzy0yxwgd adjusted: 800,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-06T04:20:30.213Z"
+  },
+  {
+    "id": "dc_8amw2hr6sq",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-06-grant-gr-mjr7nb438v-adjusted-800-000-tokens-mw2hr6sq.md",
+    "title": "Grant gr_mjr7nb438v adjusted: 800,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T04:20:59.314Z"
+  },
+  {
+    "id": "dc_8eo3hc0bgx",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-06-pr-362-manager-wakes-brought-up-to-date-with-main-o3hc0bgx.md",
+    "title": "PR #362 (manager wakes) brought up to date with main and marked ready; parked on its CI to squash-merge",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-06T04:22:04.580Z"
+  },
+  {
+    "id": "dc_5obt8t8rob",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-06-gr-kvmwutmybu-step-4-pr-350-brought-up-to-date-wit-bt8t8rob.md",
+    "title": "gr_kvmwutmybu step 4: PR #350 brought up to date with main, marked ready; parked on its CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-06T04:22:04.764Z"
+  },
+  {
+    "id": "dc_2hvkqhb1j3",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-06-5dc50c70-live-and-confirmed-the-only-cache-miss-al-vkqhb1j3.md",
+    "title": "5dc50c70 live and confirmed: the only cache-miss alerts today are the two old-format ones from 00:00Z, nothing fired since the deploy, and the HUD \"Cache alert\" is quiet for every viewer",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-06T04:22:27.479Z"
+  },
+  {
+    "id": "dc_5wrm0cbdq8",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-06-grant-gr-5ltmbf3a2f-cut-rm0cbdq8.md",
+    "title": "Grant gr_5ltmbf3a2f cut",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T04:23:09.710Z"
+  },
+  {
+    "id": "dc_lzptcjbdu1",
+    "path": "buildings/workshop/docs/meeting-notes/2026-11/2026-11-06-1-1-mitchell-and-pix-notes-ptcjbdu1.md",
+    "title": "1:1: Mitchell and Pix — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T04:23:19.693Z"
+  },
+  {
+    "id": "dc_rh0pu9mkpl",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-06-grant-gr-30f8obzab8-adjusted-1-000-000-tokens-0pu9mkpl.md",
+    "title": "Grant gr_30f8obzab8 adjusted: 1,000,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T04:24:06.729Z"
+  },
+  {
+    "id": "dc_6lr0g1ga1w",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-06-pr-385-toasts-over-sheets-merged-as-31f1cc54-parke-r0g1ga1w.md",
+    "title": "PR #385 (toasts over sheets) merged as 31f1cc54; parked until live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-06T04:24:35.730Z"
+  },
+  {
+    "id": "dc_llbxzopol8",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-06-style-guide-skill-dc-q736158pnn-now-carries-mitche-bxzopol8.md",
+    "title": "Style-guide skill dc_q736158pnn now carries Mitchell's sidebar-vs-sheet rule as section 12 \"Sidebars and sheets\", every line cited to main 5dc50c70; Teo told (gr_4csjpgh346 kr_nokx342ovj)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-06T04:25:13.854Z"
+  },
+  {
+    "id": "dc_r932mpk9bm",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-06-pr-362-ci-went-red-from-a-flaky-test-that-the-pr-d-32mpk9bm.md",
+    "title": "PR #362 CI went red from a flaky test that the PR doesn't touch; merged main in to re-run CI, parked",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-06T04:26:11.598Z"
+  },
+  {
+    "id": "dc_d66ylg0kmq",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-06-publish-to-github-live-check-code-live-and-tested-6ylg0kmq.md",
+    "title": "Publish to GitHub live check: code live and tested, but no repo set yet, so nothing has pushed; grant not ready to close",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T04:26:25.122Z"
+  },
+  {
+    "id": "dc_p2672y10ld",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-06-pr-350-manual-design-section-signed-in-census-fixe-672y10ld.md",
+    "title": "PR #350 (manual Design section + signed-in census fixes) merged as 19d721ad; parked until live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-06T04:27:41.756Z"
+  },
+  {
+    "id": "dc_5bgy20qlvt",
+    "path": "library/human-report/2026-11/2026-11-06-re-create-a-second-github-account-for-testing-and-gy20qlvt.md",
+    "title": "Re: Create a second GitHub account for testing and give the town its token (so agents run the \"test this for us\" checks themselves)",
+    "type": "human-report",
+    "state": "library",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T04:28:40.079Z"
+  },
+  {
+    "id": "dc_rueh6o3mo1",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-06-never-run-live-check-api-and-homepage-pass-trauma-eh6o3mo1.md",
+    "title": "Never-run live check: API and homepage pass; Trauma cards reverted to \"Watch first\" (WS schema stripped health.started); fix 6f1f2005 on main, parked for re-check",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-06T04:30:32.114Z"
+  },
+  {
+    "id": "dc_x59dk8vruh",
+    "path": "buildings/bl_hzjw0z0zlz/docs/meeting-notes/2026-11/2026-11-06-1-1-mitchell-and-kelly-notes-9dk8vruh.md",
+    "title": "1:1: Mitchell and Kelly — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-06T04:30:55.650Z"
+  },
+  {
+    "id": "dc_9dvyd0hezy",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-06-gr-db6ofyd0yf-step-3-pr-340-rebased-on-main-tests-vyd0hezy.md",
+    "title": "gr_db6ofyd0yf step 3: PR #340 rebased on main (tests, knip, bench green), marked ready; parked on its CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-06T04:30:56.683Z"
+  },
+  {
+    "id": "dc_ndhlx95eno",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-06-grant-gr-fibsfwr4tz-adjusted-1-000-000-tokens-hlx95eno.md",
+    "title": "Grant gr_fibsfwr4tz adjusted: 1,000,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-06T04:31:14.531Z"
+  },
+  {
+    "id": "dc_ig0clc8awx",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-06-grant-gr-8cdix9mpye-adjusted-1-500-000-tokens-0clc8awx.md",
+    "title": "Grant gr_8cdix9mpye adjusted: 1,500,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-06T04:31:37.169Z"
+  },
+  {
+    "id": "dc_c11nq5dr2m",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-06-grant-gr-w9ue1k1p0c-adjusted-1-000-000-tokens-1nq5dr2m.md",
+    "title": "Grant gr_w9ue1k1p0c adjusted: 1,000,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-06T04:31:56.725Z"
+  },
+  {
+    "id": "dc_vv5yfdf7nm",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-06-test-account-is-live-dungeonrpg99-ops-visitor-only-5yfdf7nm.md",
+    "title": "Test account is live (dungeonrpg99-ops, visitor only): role reset + library skill queued (as_oj22fnltuz), gr_bwm0iz7rwl captain check queued behind it (as_a8rm855qrn), FYI updated",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T04:32:13.671Z"
+  },
+  {
+    "id": "dc_y1g0mjegum",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-06-grant-gr-kvmwutmybu-adjusted-2-000-000-tokens-g0mjegum.md",
+    "title": "Grant gr_kvmwutmybu adjusted: 2,000,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-06T04:32:17.347Z"
+  },
+  {
+    "id": "dc_yy2psi1vd0",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-06-gr-lvzy0yxwgd-day-1-read-14-restarts-since-the-gua-2psi1vd0.md",
+    "title": "gr_lvzy0yxwgd day 1 read: 14 restarts since the guard went live, all CI deploys with commits; 0 no-op restarts; restarts24h 22",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-06T04:32:23.300Z"
+  },
+  {
+    "id": "dc_xopjkylbup",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-06-test-account-dungeonrpg99-ops-asked-to-join-ar-ogi-pjkylbup.md",
+    "title": "Test account @dungeonrpg99-ops asked to join (ar_ogi7no5l2v, 04:31:58Z); parked on Mitchell's Let in",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-06T04:32:39.298Z"
+  },
+  {
+    "id": "dc_vvr35qv8ye",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-06-grant-gr-q1jrelx2ty-adjusted-600-000-tokens-r35qv8ye.md",
+    "title": "Grant gr_q1jrelx2ty adjusted: 600,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-06T04:33:03.028Z"
+  },
+  {
+    "id": "dc_2qj0yvsd2i",
+    "path": "buildings/town-hall/docs/digest/2026-11/2026-11-06-digest-2026-11-06-15-decisions-9-rollups-j0yvsd2i.md",
+    "title": "Digest 2026-11-06: 15 decisions, 9 rollups",
+    "type": "digest",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-06T04:34:01.701Z"
+  },
+  {
+    "id": "dc_hw9ci6iq8t",
+    "path": "buildings/town-hall/docs/report/2026-11/2026-11-06-daily-in-tray-digest-2026-11-06-9ci6iq8t.md",
+    "title": "Daily in-tray digest, 2026-11-06",
+    "type": "report",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-06T04:34:04.495Z"
+  },
+  {
+    "id": "dc_uje0xnxc2c",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-06-onboarding-rollup-the-stranger-account-has-asked-t-e0xnxc2c.md",
+    "title": "Onboarding rollup: the stranger account has asked to join (ar_ogi7no5l2v, your Let in is the next step); never-run collectives read \"Not started yet\" on the homepage; style guide carries your sidebar-vs-sheet rule",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-06T04:34:17.286Z"
+  },
+  {
+    "id": "dc_10d7e0grns",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-06-relay-answered-mara-is-withdrawing-dc-y7jkfy8wav-a-d7e0grns.md",
+    "title": "Relay answered: Mara is withdrawing dc_y7jkfy8wav and running kr_ie3i3swby4 read-only with the test account; told her Kelly 1 holds the join round trip and no reset runs this session",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T04:34:18.647Z"
+  },
+  {
+    "id": "dc_ab4ax01ny0",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-06-test-visitor-check-kr-ie3i3swby4-ran-with-the-test-4ax01ny0.md",
+    "title": "Test-visitor check (kr_ie3i3swby4) ran with the test account and passed: a visitor on full Prod got a third desk, inUse stayed 2/2; dc_y7jkfy8wav stays claimed by Mitchell; parked re-run cancelled",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-06T04:35:02.800Z"
+  },
+  {
+    "id": "dc_a9cwhdedkd",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-06-captain-check-parked-test-account-is-a-member-now-cwhdedkd.md",
+    "title": "Captain check parked: test account is a member now, but Kelly's post-Let-in check (as_f7g0hgzxwm) is using it; resumes when that finishes",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T04:36:26.159Z"
+  },
+  {
+    "id": "dc_tbna71956d",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-06-join-round-trip-done-dungeonrpg99-ops-asked-at-04-na71956d.md",
+    "title": "Join round trip done: @dungeonrpg99-ops asked at 04:31:58Z, Mitchell let it in 30 s later, it said hello (acted 0→1); its 1:1 is refused without \"direct work under\"",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-06T04:36:51.884Z"
+  },
+  {
+    "id": "dc_4zgq8kvkfw",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-06-test-account-asked-to-captain-ob-508f35a2m4-cr-6xf-gq8kvkfw.md",
+    "title": "Test account asked to captain ob_508f35a2m4 (cr_6xfa4ka7bq): row is in the Town Hall in-tray, routed to Mitchell; accept is his click",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T04:37:47.215Z"
+  },
+  {
+    "id": "dc_49kvmr63bv",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-06-captain-check-parked-cr-6xfa4ka7bq-not-accepted-ye-kvmr63bv.md",
+    "title": "Captain check parked: cr_6xfa4ka7bq not accepted yet (ob_508f35a2m4 has no captain); re-check in 2 h",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T04:38:51.220Z"
+  },
+  {
+    "id": "dc_jpwgybxn08",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-06-you-re-in-card-copy-for-plain-members-pushed-to-ma-wgybxn08.md",
+    "title": "You're-in card copy for plain members pushed to main (a4f127a8); parked on its deploy to verify as the test account",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-06T04:39:25.128Z"
+  },
+  {
+    "id": "dc_asit591053",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-06-pr-362-manager-wakes-merged-as-41c5e7d7-waiting-fo-it591053.md",
+    "title": "PR #362 (manager wakes) merged as 41c5e7d7; waiting for it to go live, live check needs a new assignment",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-06T04:42:10.588Z"
+  },
+  {
+    "id": "dc_w9wal7psjh",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-06-gr-db6ofyd0yf-step-3-pr-340-had-gone-conflicting-w-wal7psjh.md",
+    "title": "gr_db6ofyd0yf step 3: PR #340 had gone conflicting with main (CI never ran); re-merged as 9a94be4e, green locally, parked on its CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-06T04:42:10.769Z"
+  },
+  {
+    "id": "dc_3rupbiikz8",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-06-hud-cache-alert-reads-the-day-s-alerts-from-the-se-upbiikz8.md",
+    "title": "HUD cache alert reads the day's alerts from the server and skips the old share-format false alarms: PR #386 in CI, parked",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-06T04:42:33.593Z"
+  },
+  {
+    "id": "dc_wewt9vcx6v",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-06-mara-s-test-visitor-cl-test-visitor-ag-tgir6hsxv3-wt9vcx6v.md",
+    "title": "Mara's test visitor \"CL test visitor\" (ag_tgir6hsxv3) retired from Prod: DELETE returned 200, Prod is back to its two desks (Cleo, Cleo 1)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-06T04:43:52.339Z"
+  },
+  {
+    "id": "dc_j61644eaiw",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-06-gr-q1jrelx2ty-step-3-minio-backup-restore-into-a-s-1644eaiw.md",
+    "title": "gr_q1jrelx2ty step 3: MinIO backup + restore into a second container added to the path-B smoke, PR #387, parked on its CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-06T04:43:59.372Z"
+  },
+  {
+    "id": "dc_z92lsjjzdl",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-06-gr-8cdix9mpye-step-3a-live-ssrf-check-passes-on-mu-2lsjjzdl.md",
+    "title": "gr_8cdix9mpye step 3a: live SSRF check passes on muster.town (5 private hosts refused before any fetch); GitHub Pages proof impossible, the test token can't create repos",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-06T04:45:42.399Z"
+  },
+  {
+    "id": "dc_bbkoveqk8r",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-06-gr-db6ofyd0yf-step-3-pr-340-merged-on-green-ci-as-koveqk8r.md",
+    "title": "gr_db6ofyd0yf step 3: PR #340 merged on green CI as f7a22677; live check waits for its deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-06T04:47:00.100Z"
+  },
+  {
+    "id": "dc_0txus504g9",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-06-toasts-still-hidden-under-sheets-on-live-31f1cc54-xus504g9.md",
+    "title": "Toasts still hidden under sheets on live 31f1cc54; real fix PR #388 parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-06T04:47:48.102Z"
+  },
+  {
+    "id": "dc_ibnpman7xn",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-06-pr-386-hud-cache-alert-merged-as-1ea4b005-parked-u-npman7xn.md",
+    "title": "PR #386 (HUD cache alert) merged as 1ea4b005; parked until it is live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-06T04:48:46.891Z"
+  },
+  {
+    "id": "dc_mfzesq3d8w",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-06-gr-q1jrelx2ty-step-3-iteration-2-minio-minio-is-go-zesq3d8w.md",
+    "title": "gr_q1jrelx2ty step 3, iteration 2: minio/minio is gone from Docker Hub, so the smoke now uses moto; PR #387 parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-06T04:50:27.793Z"
+  },
+  {
+    "id": "dc_q9s1299dho",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-06-never-run-collectives-all-three-key-results-pass-l-s1299dho.md",
+    "title": "Never-run collectives: all three key results pass live on 41c5e7d7; /trauma/ cards now say \"hasn't started\" (picture mf_rxqa3u2lhz)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-06T04:53:33.489Z"
+  },
+  {
+    "id": "dc_sr6ldpani1",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-06-manager-wakes-live-on-bank-spending-41c5e7d7-check-6ldpani1.md",
+    "title": "Manager wakes live on Bank → Spending (41c5e7d7), check:finance 43/43; grant close waits on #386 going live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-06T04:53:47.116Z"
+  },
+  {
+    "id": "dc_ltvji4ttsa",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-06-onboarding-rollup-never-run-collectives-grant-clos-vji4ttsa.md",
+    "title": "Onboarding rollup: never-run collectives grant closed done (all three key results live, 359,723 tokens back to the Bank); the stranger's join round trip finished 30 s after your Let in",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-06T04:55:42.526Z"
+  },
+  {
+    "id": "dc_11e758uhzj",
+    "path": "library/skill/2026-11/2026-11-06-test-account-live-check-e758uhzj.md",
+    "title": "test-account-live-check",
+    "type": "skill",
+    "state": "library",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T04:57:32.811Z"
+  },
+  {
+    "id": "dc_3z8ch8kfwp",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-06-gr-q1jrelx2ty-step-3-pr-387-green-backup-to-s3-res-8ch8kfwp.md",
+    "title": "gr_q1jrelx2ty step 3: PR #387 green (backup to S3 + restore into a second container) and merged as 5498fd86; main run queued",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-06T04:57:47.432Z"
+  },
+  {
+    "id": "dc_jix89oy4ve",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-06-test-github-account-dungeonrpg99-ops-x89oy4ve.md",
+    "title": "Test GitHub account (dungeonrpg99-ops)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T04:58:02.162Z"
+  },
+  {
+    "id": "dc_njkr4xsrv9",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-06-test-account-role-reset-post-api-me-reset-built-an-kr4xsrv9.md",
+    "title": "Test account role reset: POST /api/me/reset built and tested (PR #390, CI pending); skill dc_11e758uhzj written; account was let in by Mitchell, not a hole",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T04:58:26.933Z"
+  },
+  {
+    "id": "dc_o04ghi78ex",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-06-never-run-collective-guests-no-longer-see-the-admi-4ghi78ex.md",
+    "title": "Never-run collective: guests no longer see the admin-only \"No key yet\" notice (4e76b9f5 on main); parked to check it live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-06T04:58:27.330Z"
+  },
+  {
+    "id": "dc_9r1rokmltr",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-06-census-re-run-and-failing-panels-fixed-pr-391-park-1rokmltr.md",
+    "title": "Census re-run and failing panels fixed: PR #391 parked on CI (mock 82/82 rows pass)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-06T04:59:29.027Z"
+  },
+  {
+    "id": "dc_zlhnbduwv7",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-06-relay-done-skill-test-account-live-check-promoted-hnbduwv7.md",
+    "title": "Relay done: skill \"test-account-live-check\" promoted to the library, FYI dc_ia2hybtuax carries the 04:40Z roles line; member role on the test account is Mitchell's own click, not a finding",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T04:59:37.137Z"
+  },
+  {
+    "id": "dc_3tcqkrwjo6",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-06-gr-kvmwutmybu-step-4-done-design-section-passes-th-cqkrwjo6.md",
+    "title": "gr_kvmwutmybu step 4 done: Design section passes the live census at both sizes; both KRs claimed; phone specimen fix merged (8ad80c9e)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-06T04:59:52.150Z"
+  },
+  {
+    "id": "dc_uqhn0gypzs",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-06-pr-388-toasts-portalled-above-sheets-merged-as-9fe-hn0gypzs.md",
+    "title": "PR #388 (toasts portalled above sheets) merged as 9fe6437a; live check still to do",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-06T05:00:10.594Z"
+  },
+  {
+    "id": "dc_0ju8ttlazs",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-06-one-design-is-done-every-screen-now-uses-one-type-u8ttlazs.md",
+    "title": "One design is done: every screen now uses one type scale and one palette, signed-in views included, and the manual's Design section shows the system (grant closed, 1.1M returned); your toast fix is merged and waiting on the next deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-06T05:02:42.591Z"
+  },
+  {
+    "id": "dc_xe05xzsjj0",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-06-pr-390-merged-99d1ab1-post-api-me-reset-parked-unt-05xzsjj0.md",
+    "title": "PR #390 merged (99d1ab1, POST /api/me/reset); parked until it is live for the read-only check",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T05:03:04.548Z"
+  },
+  {
+    "id": "dc_k0lx8h2hwa",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-06-pr-391-disclosure-census-panel-folds-merged-as-249-lx8h2hwa.md",
+    "title": "PR #391 (disclosure census + panel folds) merged as 24984fc6; parked until live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-06T05:06:19.948Z"
+  },
+  {
+    "id": "dc_hljji3rohh",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-06-gr-db6ofyd0yf-step-4-f7a22677-is-live-boot-05-06-4-jji3rohh.md",
+    "title": "gr_db6ofyd0yf step 4: f7a22677 is live (boot 05:06:43Z); parked 30 min before sampling",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-06T05:07:07.516Z"
+  },
+  {
+    "id": "dc_h2mbpnwyjw",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-06-1ea4b005-is-live-the-cache-miss-alert-filter-works-mbpnwyjw.md",
+    "title": "1ea4b005 is live: the cache-miss alert filter works and the signed-out HUD stays quiet; kr_f49co6lg51 claimed, grant ready to close",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-06T05:07:55.095Z"
+  },
+  {
+    "id": "dc_7co4mvmb1m",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-06-you-re-in-card-for-plain-members-verified-live-as-o4mvmb1m.md",
+    "title": "You're-in card for plain members verified live as @dungeonrpg99-ops (a4f127a8; pictures mf_v06oqcpzgs, mf_fnqa98p709)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-06T05:09:14.789Z"
+  },
+  {
+    "id": "dc_j8sjvei6yg",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-06-bank-transparency-gr-lwgus14rd2-closed-done-all-th-sjvei6yg.md",
+    "title": "Bank Transparency: gr_lwgus14rd2 closed done, all three key results live (manager wakes per building on Bank › Spending, the cache alert rebuilt around prefix busting and quiet in the HUD); 684,327 unspent tokens returned",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-06T05:09:20.251Z"
+  },
+  {
+    "id": "dc_zek4m79opw",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-06-gr-w9ue1k1p0c-day-4-of-7-clean-11-05-05-20z-11-06-k4m79opw.md",
+    "title": "gr_w9ue1k1p0c day 4 of 7 clean (11-05 05:20Z → 11-06 05:20Z): 25 restarts, 0 orphaned, 6 cut (all during 1:1s), 12 team-lead sessions drained cleanly, 0 sessions alerts",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-06T05:21:33.416Z"
+  },
+  {
+    "id": "dc_fo5jskki04",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-06-pr-390-is-live-post-api-me-reset-answers-on-muster-5jskki04.md",
+    "title": "PR #390 is live: POST /api/me/reset answers on muster.town; test account still visitor+member with cr_6xfa4ka7bq pending, not reset",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T05:22:45.850Z"
+  },
+  {
+    "id": "dc_mow5mjh10x",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-06-toasts-now-paint-above-open-sheets-on-live-24984fc-w5mjh10x.md",
+    "title": "Toasts now paint above open sheets on live (24984fc6) at both sizes; #389 specimen reads at 0.91 on a phone",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-06T05:24:28.389Z"
+  },
+  {
+    "id": "dc_eusoxyegb7",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-06-no-key-yet-is-gone-for-signed-out-guests-on-trauma-soxyegb7.md",
+    "title": "\"No key yet\" is gone for signed-out guests on /trauma/ (4e76b9f5 live, desk and phone)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-06T05:25:24.257Z"
+  },
+  {
+    "id": "dc_wkfc4gd3ay",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-06-gr-q1jrelx2ty-step-3-confirmed-on-main-backup-rest-fc4gd3ay.md",
+    "title": "gr_q1jrelx2ty: step 3 confirmed on main (backup + restore green, image on ghcr); step 4 docs in PR #392, waiting on its CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-06T05:26:50.454Z"
+  },
+  {
+    "id": "dc_0gcm0c3lhh",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-06-kr-p6l1w6tade-on-live-24984fc6-all-70-counted-rows-cm0c3lhh.md",
+    "title": "kr_p6l1w6tade: on live 24984fc6, all 70 counted rows of the disclosure census pass at both sizes; the signed-in mock passes 82/82",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-06T05:29:59.016Z"
+  },
+  {
+    "id": "dc_kopnqv6zhz",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-06-progressive-disclosure-is-done-every-grant-page-bu-pnqv6zhz.md",
+    "title": "Progressive disclosure is done: every grant page, building tab and agent tab opens on a short first screen (grant closed, 730k returned); your toast fix is live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-06T05:31:23.066Z"
+  },
+  {
+    "id": "dc_xj4ppe5uaj",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-06-schedule-ended-weekly-check-timing-watch-compare-t-4ppe5uaj.md",
+    "title": "Schedule ended: Weekly check-timing watch: compare the last ~12 main runs to the baseline; re-propose the history page only on a real slowdown",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-06T06:00:03.343Z"
+  },
+  {
+    "id": "dc_rw6hbqfe3z",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-06-gr-ba0juhlm7n-day-check-11-05-11-06-clean-06-00z-c-6hbqfe3z.md",
+    "title": "gr_ba0juhlm7n day check 11-05→11-06: clean (06:00Z copy verified, run lag peak 76 ms); grant still can't close because the Drill table is empty",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-06T06:01:53.840Z"
+  },
+  {
+    "id": "dc_wnxj1ug5ce",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-06-weekly-check-timing-watch-slowdown-alarm-tripped-t-xj1ug5ce.md",
+    "title": "Weekly check-timing watch: slowdown alarm tripped (test suite growth)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-06T06:02:45.566Z"
+  },
+  {
+    "id": "dc_o6nmfoaenu",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-06-gr-db6ofyd0yf-step-4-live-tick-median-73-ms-was-19-nmfoaenu.md",
+    "title": "gr_db6ofyd0yf step 4: live tick median 73 ms (was 199), streams 1.4 ms, Bank unchanged; ready to close (fork can't call close_grant)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-06T06:05:05.278Z"
+  },
+  {
+    "id": "dc_tzb1f3dbao",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-06-prod-rollup-41-close-report-for-gr-db6ofyd0yf-bank-b1f3dbao.md",
+    "title": "Prod rollup #41 (close report for gr_db6ofyd0yf): Bank read paths memoized, live tick 199 → 73 ms, 1,029,156 tokens back; the self-host image now restores a town from backup on first boot (its last docs step is held at a checkpoint); drains clean 4 of 7 days, no no-op restart in day 1",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-06T06:07:47.783Z"
   }
 ]

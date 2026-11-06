@@ -10,14 +10,10 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_vef3v0oux0"
 createdAt: "2026-11-03T18:00:54.138Z"
-updatedAt: "2026-11-03T18:00:54.138Z"
+updatedAt: "2026-11-06T05:07:32.501Z"
 ---
-State 2026-11-03 18:00Z (live 66e5d33). Measured by exploration as_ricjwkoaxc from GET /api/sessions?agentId=<manager>&limit=200 (purpose manage, Fable 5.1, ended). Forks get 403 on manager transcripts, so turn 1 is read from the session's cacheWrite1h (only the system prompt + first message carry the 1-hour TTL; turns write 5-minute).
+State 2026-11-06 05:07Z (live 1ea4b005). Two parts: the 11-03 fix measurement, and the watch that now guards it.
 
-**The fix holds.** Warm wakes (same manager woke < 60 min before):
-- Before (11-02 02:44–20:41Z, n=52): median 1h write 22,448 (17.7K–54.1K), adj 41,680/wake.
-- After (since 20:41Z, n=29): median 1h write 7,174 (5.6K–12.8K), adj 24,205/wake (−42%).
-- Per manager the 1h write is flat whatever the turn count: Nell ~5.7K, Mara ~6.2K, Cleo ~6.7K, Kelly ~7.2K, Pix ~12.7K = the size of each one's first message.
-- Cold wakes (> 60 min gap) still write 10–38K (whole prefix), as expected.
+**The watch (gr_lwgus14rd2 step 2, kr_f49co6lg51).** Core `cache-miss.ts` fires one system event `alert: cache-miss` per day per session purpose when the prefix is busted: share of turns 2+ that rewrite the prefix ≥ BUST_TURN_RATE 0.5 (MIN_TURNS 2), costing ≥ CACHE_MISS_SHARE 0.1 of the purpose's cost, and only once a purpose has ≥ MIN_SESSIONS 5 sessions with a signal (live since 5dc50c70). GET /api/events?alert=cache-miss&from=<iso> lists them (1ea4b005); the HUD reads the last 24 h at boot/reconnect (`cacheAlerts` in the web store) and shows "Cache alert" only for numeric `payload.busting` alerts. Verified 05:07Z: the filter returns just the two old share-format false alarms (135616, 135623, 00:00:30Z/00:00:40Z, 1 session each), and the signed-out HUD at 1400×900 shows no Cache alert. To test it: put the clock line back in managerSystemPrompt on a branch and run ≥5 wakes.
 
-Not measured: system-prompt byte diff (needs admin/manager transcript access). Pix's first message is twice the others; the biggest lever left is 5-minute writes on long wakes (31–42K on 24–28 turn wakes).
+**The 11-03 fix measurement** (as_ricjwkoaxc, GET /api/sessions, purpose manage, Fable 5.1). Warm wakes (< 60 min apart): 1h write median 22,448 → 7,174 tokens, adj 41,680 → 24,205 per wake (−42%; n=52 before, 29 after). Per manager the 1h write is flat = size of its first message (Nell ~5.7K, Pix ~12.7K). Cold wakes (> 60 min) still write 10–38K. Since 11-03 23:37Z every write is 1 h (Claude Code flag, see [dc_wcfoeo59bn](2026-11-04-cache-ttl-why-every-cache-write-is-1-h-since-2026-foeo59bn.md)).
