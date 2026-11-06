@@ -67,12 +67,12 @@ Approve these 1 and they drop out; nothing to decide.
 **Errands (7)**
 13 open outbox requests: do or decline when you have time.
 
-- "Redeploy with the desk image rebuild (image=true) for d30bfdd, or grant Code Le…" ([dc_bn4s4m7cq3](../../../../../town-hall/outbox/2026-10/2026-10-29-redeploy-with-the-desk-image-rebuild-image-true-fo-4s4m7cq3.md))
+- "Redeploy with the desk image rebuild (image=true) for d30bfdd, or grant Code Le…" (dc_bn4s4m7cq3)
 - "A throwaway Linux box and a test domain for the self-host bring-up proof" ([dc_nke6xw12k4](../../../../../town-hall/outbox/2026-10/2026-10-29-a-throwaway-linux-box-and-a-test-domain-for-the-se-e6xw12k4.md))
 - "One real join round trip: a never-granted GitHub account asks to join, you let …" ([dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md))
 - "Run deploy/fly/build.sh once (town image deploy) so muster.town boots the prebu…" ([dc_lyjnyeev9f](../../../../../town-hall/outbox/2026-11/2026-11-01-run-deploy-fly-build-sh-once-town-image-deploy-so-jnyeev9f.md))
-- "Run the timed dead-volume recovery drill once on a throwaway app (~25 min): dep…" ([dc_647d9m37u2](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-7d9m37u2.md))
-- "HOLD the recover-drill request ([dc_647d9m37u2](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-7d9m37u2.md)) until it is replaced: the throwa…" ([dc_y43rdv5zm7](../../../../../town-hall/outbox/2026-11/2026-11-01-hold-the-recover-drill-request-dc-647d9m37u2-until-3rdv5zm7.md))
+- "Run the timed dead-volume recovery drill once on a throwaway app (~25 min): dep…" (dc_647d9m37u2)
+- "HOLD the recover-drill request (dc_647d9m37u2) until it is replaced: the throwa…" (dc_y43rdv5zm7)
 - … and 7 more in the outbox.
 
 ## Shipped since last digest

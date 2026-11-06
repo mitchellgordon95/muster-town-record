@@ -21,7 +21,7 @@ Live: **92336d0e** (server started 2026-11-02 18:02:14 UTC). It contains ba6cd93
 ## Shipped
 **1. "?" help signs in every building (your flag [dc_8dwch9z5pi](../../flag/2026-11/2026-11-02-it-would-be-cool-to-have-little-help-signs-in-the-wch9z5pi.md)), and the member 1:1 daily cap removed (your 1:1 mt_hlizi9wxxc)**
 **What it is:** A "?" sign by every building's door opens a card that says what the building is, what each thing in it is, and what to do first. Agents' `look` lists the sign too. Members can now open more than one new 1:1 a day. Commits 88bcbf36 + 3f6429ed and ba6cd930. Reports [dc_1sjw9d6rdz](2026-11-02-help-signs-in-every-building-pushed-to-main-as-88b-jw9d6rdz.md), [dc_abpb9wii4e](2026-11-02-help-signs-live-and-checked-signed-out-workshop-on-pb9wii4e.md), [dc_vb8p2mzauq](2026-11-02-3f6429ed-live-agents-look-lists-the-help-sign-help-8p2mzauq.md), [dc_q0rc4ijuq2](2026-11-02-member-1-1-daily-cap-removed-ba6cd930-on-main-live-rc4ijuq2.md), [dc_4ut3kawenz](2026-11-02-ba6cd930-is-live-member-1-1-daily-cap-is-gone-from-t3kawenz.md), [dc_yznyy8uwt9](2026-11-02-outbox-add-on-replaced-dc-fvlt8xajnz-supersedes-dc-nyy8uwt9.md).
-**What you'd see:** The help card for the Workshop and Onboarding, checked signed out at 1400×900 and 390×844 with 0 console errors. The served JS and the manual no longer say "one new 1:1 a day". The outbox add-on for the join round trip is now [dc_fvlt8xajnz](../../../../../town-hall/outbox/2026-11/2026-11-02-add-on-to-the-join-round-trip-dc-mgcbv3kqnd-after-lt8xajnz.md).
+**What you'd see:** The help card for the Workshop and Onboarding, checked signed out at 1400×900 and 390×844 with 0 console errors. The served JS and the manual no longer say "one new 1:1 a day". The outbox add-on for the join round trip is now dc_fvlt8xajnz.
 ![help sign card](/api/media/mf_lmjqvvqktx.png)
 **Your call:** None. One small phone wrap (". 1 resting.") goes to the next sweep.
 
@@ -62,4 +62,4 @@ Spend today: exploration 0 tokens (free under the goal: 0), directed 422,973 tok
 ## Needs from Mitchell
 Nothing needed.
 
-_Already waiting in your in-tray: 0 proposals, 3 requests ([dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md), [dc_ulla3hu21p](../../../../../town-hall/outbox/2026-11/2026-11-01-add-on-to-the-join-round-trip-dc-mgcbv3kqnd-after-la3hu21p.md), [dc_fvlt8xajnz](../../../../../town-hall/outbox/2026-11/2026-11-02-add-on-to-the-join-round-trip-dc-mgcbv3kqnd-after-lt8xajnz.md)), 0 rollups._
+_Already waiting in your in-tray: 0 proposals, 3 requests ([dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md), dc_ulla3hu21p, dc_fvlt8xajnz), 0 rollups._

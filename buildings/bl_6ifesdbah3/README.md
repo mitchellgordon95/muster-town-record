@@ -13,8 +13,13 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-05 [A stranger can't find or share Muster Town yet: no search presence, no link previews, no robots/sitemap, bare GitHub repo (checked 2026-11-05)](docs/note/2026-11/2026-11-05-a-stranger-can-t-find-or-share-muster-town-yet-no-dtnhmecv.md) `dc_1adtnhmecv` · Juno 1
 - 2026-11-05 [Muster Town next to Ruflo, Gas Town, Munder Difflin and Svall: overlaps, differences, outreach channels we could use](docs/note/2026-11/2026-11-05-muster-town-next-to-ruflo-gas-town-munder-difflin-3ini7ysr.md) `dc_jk3ini7ysr` · Juno 1
 
-## report (3)
+## report (8)
 
+- 2026-11-05 [Outreach rollup #2: the repo is MIT-licensed (PR #366 live as 073ca10); building otherwise paused until your 1:1 with Juno](docs/report/2026-11/2026-11-05-outreach-rollup-2-the-repo-is-mit-licensed-pr-366-k903km69.md) `dc_e4k903km69` · Juno
+- 2026-11-05 [MIT licence merged: PR #366 landed on main as 073ca10; Pix told for Mitchell; parked until CI deploys it](docs/report/2026-11/2026-11-05-mit-licence-merged-pr-366-landed-on-main-as-073ca1-0czzm5ha.md) `dc_b40czzm5ha` · Juno
+- 2026-11-05 [MIT licence PR #366 opened (LICENSE + "license": "MIT" in every package.json); parked on its CI to merge when green](docs/report/2026-11/2026-11-05-mit-licence-pr-366-opened-license-license-mit-in-e-j7j7x3c2.md) `dc_dtj7j7x3c2` · Juno
+- 2026-11-05 [Outbox request dc_ezzo3i1qbr noted as moot under the pause; not re-filed, confirmed to Secretary](docs/report/2026-11/2026-11-05-outbox-request-dc-ezzo3i1qbr-noted-as-moot-under-t-q496ctvb.md) `dc_9oq496ctvb` · Juno
+- 2026-11-05 [Outreach paused on Mitchell's word until his 1:1 with Juno; confirmed to Secretary, nothing queued](docs/report/2026-11/2026-11-05-outreach-paused-on-mitchell-s-word-until-his-1-1-w-ewxlkbfg.md) `dc_ixewxlkbfg` · Juno
 - 2026-11-05 [Explore: muster.town can't be found or shared yet; proposed gr_kkb0grgw6m (link previews, share URLs, robots/sitemap, 300k)](docs/report/2026-11/2026-11-05-explore-muster-town-can-t-be-found-or-shared-yet-p-thtiprg1.md) `dc_1mthtiprg1` · Juno 1
 - 2026-11-05 [Outreach rollup #1: four peer agent-orchestration projects documented, with where Muster Town differs and the channels we could use](docs/report/2026-11/2026-11-05-outreach-rollup-1-four-peer-agent-orchestration-pr-dgdb6x5g.md) `dc_w0dgdb6x5g` · Juno
 - 2026-11-05 [Documented four peer agent-orchestration projects (Ruflo, Gas Town, Munder Difflin, Svall) + comparison note + topic page](docs/report/2026-11/2026-11-05-documented-four-peer-agent-orchestration-projects-xyq41zir.md) `dc_42xyq41zir` · Juno 1

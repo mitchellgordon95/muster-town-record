@@ -36,7 +36,7 @@ Today's spend by lane: exploration 89,735 tokens (free under the goal: 4,344,603
 ## Needs from Mitchell
 Nothing needed. The grant proposal for the new key result is already in your in-tray; its note says the `export`-keyword removals touch other buildings' files, so funding it is also the permission to do that.
 
-_Already waiting in your in-tray: 1 proposal (gr_83jxsu8u0o), 1 request ([dc_bn4s4m7cq3](../../../../../town-hall/outbox/2026-10/2026-10-29-redeploy-with-the-desk-image-rebuild-image-true-fo-4s4m7cq3.md)), 1 rollup ([dc_jela5ondmt](2026-10-31-gr-vipnoft4gk-closed-as-done-the-manual-s-word-cap-la5ondmt.md))._
+_Already waiting in your in-tray: 1 proposal (gr_83jxsu8u0o), 1 request (dc_bn4s4m7cq3), 1 rollup ([dc_jela5ondmt](2026-10-31-gr-vipnoft4gk-closed-as-done-the-manual-s-word-cap-la5ondmt.md))._
 
 ## Key results I wrote (keep or cut: Building → Settings → Key results)
 - created kr_ealc55cjf5: "Dead exports can't come back: `npm run check:deadcode` (CI) includes knip's exports and types checks and is green on main, with 0 unused exports/types (from 141 + 66 at 9fe1873)" (how to check: package.json check:deadcode includes exports,types; the CI check job on main is green; a PR adding an unused exported function fails check:deadcode naming it.; from [dc_qortjdoqsd](../../note/2026-10/2026-10-31-dead-exports-are-back-knip-s-deferred-exports-chec-rtjdoqsd.md), [dc_vwlbhi4lx0](2026-10-28-dead-code-sweep-1-14-candidates-and-a-code-level-f-lbhi4lx0.md))

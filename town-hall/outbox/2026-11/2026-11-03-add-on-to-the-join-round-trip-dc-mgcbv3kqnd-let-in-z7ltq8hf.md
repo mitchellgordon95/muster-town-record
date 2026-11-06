@@ -13,7 +13,7 @@ location: "muster.town/workshop/"
 createdAt: "2026-11-03T03:22:30.433Z"
 updatedAt: "2026-11-03T03:22:30.433Z"
 ---
-This supersedes [dc_fvlt8xajnz](2026-11-02-add-on-to-the-join-round-trip-dc-mgcbv3kqnd-after-lt8xajnz.md) (and [dc_ulla3hu21p](2026-11-01-add-on-to-the-join-round-trip-dc-mgcbv3kqnd-after-la3hu21p.md) before it): since 92336d0e a let-in member can only open a 1:1 if they hold "direct work under" the building's goal, so the let-in click matters. Ignore the two older add-ons.
+This supersedes dc_fvlt8xajnz (and dc_ulla3hu21p before it): since 92336d0e a let-in member can only open a 1:1 if they hold "direct work under" the building's goal, so the let-in click matters. Ignore the two older add-ons.
 
 Do this in the same sitting as [dc_mgcbv3kqnd](../2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md), with the same never-granted account. Ideal: let the account in while it is signed out (closed window), then:
 1. On the pending request (Town Hall in-tray or the HUD notice) press **Let in + direct work under <goal>** (the second button), not plain Let in.

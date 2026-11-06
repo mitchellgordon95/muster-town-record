@@ -33,7 +33,7 @@ updatedAt: "2026-11-04T18:02:08.441Z"
   - 13 were followed within 1–18 min by the restart that did carry the changes. Six of those were CI's, exactly 15 min later, because CI waits until the server has been up 15 min.
   - So each no-op restart delays the real deploy by up to 15 min.
   - It also adds a drain: 886 s in total, during which new work is held and team-lead sessions are interrupted.
-- **Cause.** `packages/runtime/src/redeploy.ts` always restarts. And both the tool's description and the town-wide merge-rules FYI ([dc_vzqoh7ppen](../../../../town-hall/docs/fyi/2026-10/2026-10-30-town-wide-merge-rules-revised-2026-10-30-schema-mi-qoh7ppen.md)) still tell agents to call `redeploy` after a merge.
+- **Cause.** `packages/runtime/src/redeploy.ts` always restarts. And both the tool's description and the town-wide merge-rules FYI ([dc_vzqoh7ppen](../../../../town-hall/docs/fyi/2026-10/2026-10-30-town-wide-merge-rules-revised-2026-11-05-ci-deploy-qoh7ppen.md)) still tell agents to call `redeploy` after a merge.
 - **Proposal gr_lvzy0yxwgd.** When there is nothing new on prod compared with the running commit, the redeploy ends without restarting. A deliberate restart (with a reason) or an image deploy still restarts. The proposal also rewrites the tool text and the merge-rules FYI, then counts restarts live for 3 days.
 - **Overlap with gr_w9ue1k1p0c.** That grant makes cut sessions end as interrupted and resume; this one removes about a third of the cuts at their source.
 

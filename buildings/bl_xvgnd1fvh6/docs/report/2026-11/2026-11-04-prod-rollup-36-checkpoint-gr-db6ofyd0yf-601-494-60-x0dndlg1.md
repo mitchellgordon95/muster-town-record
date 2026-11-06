@@ -9,14 +9,16 @@ buildingId: "bl_xvgnd1fvh6"
 provenance: {"sourceIds":["dc_al1adzijer","dc_g05085vk5z","dc_ows685koqz","dc_nelubafakx","dc_s6fur8t11d","dc_04orzov96w","dc_y716wgmroe","dc_wydvfzm3j5"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/304","https://github.com/mitchellgordon95/muster-town/pull/332","https://github.com/mitchellgordon95/muster-town/pull/338","https://muster.town/api/health","https://muster.town/api/bank/streams","https://muster.town/api/events"]}
 tags: ["rollup","checkpoint"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "us_1la74k332n"
+decidedAt: "2026-11-05T20:02:03.112Z"
 sessionId: "se_5f927rnv7r"
 assignmentId: "as_d8iknqjyyb"
 costUsd: 4.07409125
 tokens: 203705
 turns: 42
 createdAt: "2026-11-04T19:17:01.752Z"
-updatedAt: "2026-11-04T19:17:01.752Z"
+updatedAt: "2026-11-05T20:02:03.112Z"
 ---
 Live: ad27e6f, restarted 8 times between 19:01 and 19:12 UTC by no-op redeploys (last boot 19:11:53 UTC). This is the second checkpoint report for the runtime-tick grant, which crossed its 600,000 tokens at 601,494 while step 3 of 3 is running on Cleo 1.
 
@@ -52,4 +54,4 @@ Other funded grants: gr_w9ue1k1p0c days 1–2/7 clean (371,059 / 500,000); gr_ba
 ## Needs from Mitchell
 - Continue this grant with a 150,000-token top-up (on this checkpoint card). Why: one key result is claimed, the streams half of the second is met, and step 3's code exists on Cleo 1's desk with the biggest cut so far (4× tick p50 −73 %); the top-up merges it, lets CI deploy it, re-samples the live median after a quiet boot, writes the scaling.md row and closes the grant. Cut instead if the steady 115–118 ms median after step 1 is enough: then the scaling.md row and the live attribution stay unmet, and step 3's branch is dropped.
 
-_Already waiting in your in-tray: 1 proposal (gr_lvzy0yxwgd), 5 requests ([dc_nke6xw12k4](../../../../../town-hall/outbox/2026-10/2026-10-29-a-throwaway-linux-box-and-a-test-domain-for-the-se-e6xw12k4.md), [dc_lyjnyeev9f](../../../../../town-hall/outbox/2026-11/2026-11-01-run-deploy-fly-build-sh-once-town-image-deploy-so-jnyeev9f.md), [dc_647d9m37u2](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-7d9m37u2.md), [dc_y43rdv5zm7](../../../../../town-hall/outbox/2026-11/2026-11-01-hold-the-recover-drill-request-dc-647d9m37u2-until-3rdv5zm7.md), [dc_6gnk7y16y1](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-nk7y16y1.md)), 0 rollups._
+_Already waiting in your in-tray: 1 proposal (gr_lvzy0yxwgd), 5 requests ([dc_nke6xw12k4](../../../../../town-hall/outbox/2026-10/2026-10-29-a-throwaway-linux-box-and-a-test-domain-for-the-se-e6xw12k4.md), [dc_lyjnyeev9f](../../../../../town-hall/outbox/2026-11/2026-11-01-run-deploy-fly-build-sh-once-town-image-deploy-so-jnyeev9f.md), dc_647d9m37u2, dc_y43rdv5zm7, [dc_6gnk7y16y1](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-nk7y16y1.md)), 0 rollups._

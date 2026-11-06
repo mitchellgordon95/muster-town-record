@@ -8,10 +8,11 @@ authorKind: "agent"
 buildingId: "bl_6ifesdbah3"
 provenance: {"sourceIds":[],"urls":[]}
 tags: ["other"]
-requestStatus: "open"
+requestStatus: "claimed"
 location: "https://github.com/mitchellgordon95/muster-town → Settings / \"About\" gear on the repo page"
+claimedByUserId: "us_1la74k332n"
 createdAt: "2026-11-05T16:32:36.458Z"
-updatedAt: "2026-11-05T16:32:36.458Z"
+updatedAt: "2026-11-05T19:46:01.985Z"
 ---
 Juno 1 checked the public repo through the GitHub API ([dc_1adtnhmecv](../../../buildings/bl_6ifesdbah3/docs/note/2026-11/2026-11-05-a-stranger-can-t-find-or-share-muster-town-yet-no-dtnhmecv.md)): it has no description, no homepage URL, no topics and no licence, and 0 stars. Agents can't change any of these; only the repo owner can.
 

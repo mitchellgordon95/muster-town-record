@@ -55,9 +55,9 @@ Built a throwaway mode for drill towns and opened draft PR #239 (https://github.
 **Plan for the resume (pr 239):**
 1. If CI is green: mark #239 ready, merge it, and let CI ship it. Note the merge sha.
 2. Check that `prod` contains the merge sha (`git merge-base --is-ancestor <sha> origin/prod`). recover.sh builds from `BRANCH=prod` by default, so the request must say "prod/main ≥ <sha>".
-3. File ONE `request_human` (kind other, location as in [dc_647d9m37u2](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-7d9m37u2.md)):
-   - First line: ignore [dc_647d9m37u2](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-7d9m37u2.md) and [dc_y43rdv5zm7](../../../../../town-hall/outbox/2026-11/2026-11-01-hold-the-recover-drill-request-dc-647d9m37u2-until-3rdv5zm7.md).
-   - Body: [dc_647d9m37u2](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-7d9m37u2.md)'s body minus "no Claude token" and the top-of-hour timing. Requires main/prod ≥ the merge sha.
+3. File ONE `request_human` (kind other, location as in dc_647d9m37u2):
+   - First line: ignore dc_647d9m37u2 and dc_y43rdv5zm7.
+   - Body: dc_647d9m37u2's body minus "no Claude token" and the top-of-hour timing. Requires main/prod ≥ the merge sha.
    - Says the throwaway runs no sessions and never writes to the bucket (it shows `"throwaway": true` in health), but accepts live login tokens for its ~25 min (that fix is in gr_6qlj35wnh3).
    - Keeps the paste-back instructions.
 4. Rewrite topic pages [dc_nh11dqbf19](../../wiki/2026-10/2026-10-31-recovery-from-a-dead-volume-11dqbf19.md) and [dc_ts7ulpuk5o](../../wiki/2026-10/2026-10-29-secrets-and-tokens-7ulpuk5o.md).

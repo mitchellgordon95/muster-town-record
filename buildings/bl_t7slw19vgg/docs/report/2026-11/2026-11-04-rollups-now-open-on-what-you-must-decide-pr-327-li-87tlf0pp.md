@@ -9,14 +9,17 @@ buildingId: "bl_t7slw19vgg"
 provenance: {"sourceIds":["dc_8jat4nzsdd","dc_c8glsgycwp","dc_rqfcjcfa4d","dc_b2qpl41m6v","dc_xgloa9pjcz","dc_cv2v9r7lr4","dc_43nu3k707j","dc_t0nglbr8ik"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/327","https://github.com/mitchellgordon95/muster-town/pull/331","https://github.com/mitchellgordon95/muster-town/pull/344"]}
 tags: ["rollup"]
 verdict: "stop"
-decision: "pending"
+decision: "approve"
+decisionNote: "Superseded by a decision in meeting \"1:1: Mitchell and Secretary\": Un-hide the meeting transcript: a 1:1 / meeting shows its whole history, not 6 lines behind a \"Show N earlier messages\" link. Mitchell, 1:1 mt_pr3347g2w2 at 19:"
+decidedBy: "ag_7tiwyqva83"
+decidedAt: "2026-11-05T19:44:51.079Z"
 sessionId: "se_cj76a3jo5x"
 assignmentId: "as_6zgscps94p"
 costUsd: 2.43056425
 tokens: 121528
 turns: 25
 createdAt: "2026-11-04T19:37:29.067Z"
-updatedAt: "2026-11-04T19:37:29.067Z"
+updatedAt: "2026-11-05T19:44:51.079Z"
 ---
 Live: 4815e19 (since 2026-11-04 19:33 UTC), which contains PR #327 (b4e24d86) and PR #331 (0ea24b47). Both items below are the first things live since the checkpoint card I filed 10 minutes ago; this rollup is itself the first one you read in the new format. The ask came from our 1:1 mt_i50xwu4z2t.
 

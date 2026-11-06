@@ -9,14 +9,17 @@ buildingId: "bl_t7slw19vgg"
 provenance: {"sourceIds":["dc_jf4zylde7i","dc_wrwdcn2thm","dc_vr1911ymig","dc_7wh29ftwl4","dc_0cnsnw1red","dc_jrdkaycy6g","dc_m1psycl3cw","dc_yr52ax83nv","dc_mk6wtf0yrn","dc_s2revb5v2r","dc_rovr57c3ga","dc_3tzs2pk07t","dc_8tz8ukoovm"],"urls":["https://github.com/mitchellgordon95/agent-town/pull/307","https://github.com/mitchellgordon95/agent-town/pull/309","https://github.com/mitchellgordon95/agent-town/pull/312"]}
 tags: ["rollup","checkpoint"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Superseded by a decision in meeting \"1:1: Mitchell and Secretary\": Un-hide the meeting transcript: a 1:1 / meeting shows its whole history, not 6 lines behind a \"Show N earlier messages\" link. Mitchell, 1:1 mt_pr3347g2w2 at 19:"
+decidedBy: "ag_7tiwyqva83"
+decidedAt: "2026-11-05T19:44:51.044Z"
 sessionId: "se_4pc6or6l3w"
 assignmentId: "as_f9zbxveo2a"
 costUsd: 3.5614041000000003
 tokens: 178070
 turns: 38
 createdAt: "2026-11-04T19:25:17.029Z"
-updatedAt: "2026-11-04T19:25:17.029Z"
+updatedAt: "2026-11-05T19:44:51.044Z"
 ---
 Live: 2adb84c (since 2026-11-04 19:17 UTC). Second checkpoint for the progressive-disclosure grant gr_zak30564zh: it crossed 800k at 804,995 and stands at 856,185 after step 4's last session and this one. Two of three key results are claimed on live; the third needs a top-up.
 

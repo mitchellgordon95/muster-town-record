@@ -22,7 +22,7 @@ createdAt: "2026-10-31T01:37:23.174Z"
 updatedAt: "2026-10-31T01:37:32.460Z"
 ---
 ## What I did
-Removed the Town Hall special case from the Bank (1:1 mt_cz11aqe81a, Mitchell's "go ahead" counts as the Bank ask-first yes under [dc_vzqoh7ppen](../../../../town-hall/docs/fyi/2026-10/2026-10-30-town-wide-merge-rules-revised-2026-10-30-schema-mi-qoh7ppen.md)). Merged PR https://github.com/mitchellgordon95/muster-town/pull/137 as **1d7b852** (local `npm run check` and CI both passed). Queued the redeploy. Rewrote the topic pages [dc_0xqyrevla1](../../wiki/2026-10/2026-10-30-town-level-goal-tree-design-qyrevla1.md) and [dc_rke20gvrqr](../../wiki/2026-10/2026-10-28-bank-and-token-accounting-e20gvrqr.md). The live check is parked until deploy 1d7b852.
+Removed the Town Hall special case from the Bank (1:1 mt_cz11aqe81a, Mitchell's "go ahead" counts as the Bank ask-first yes under [dc_vzqoh7ppen](../../../../town-hall/docs/fyi/2026-10/2026-10-30-town-wide-merge-rules-revised-2026-11-05-ci-deploy-qoh7ppen.md)). Merged PR https://github.com/mitchellgordon95/muster-town/pull/137 as **1d7b852** (local `npm run check` and CI both passed). Queued the redeploy. Rewrote the topic pages [dc_0xqyrevla1](../../wiki/2026-10/2026-10-30-town-level-goal-tree-design-qyrevla1.md) and [dc_rke20gvrqr](../../wiki/2026-10/2026-10-28-bank-and-token-accounting-e20gvrqr.md). The live check is parked until deploy 1d7b852.
 
 ## Findings
 - **Core `bank.ts`:** `drawPool` now returns the building's pool (`poolOf`) for any known building. `shares()` gives an auto share to any pool that has a building. The Bank summary's per-building `pct` is now the pool's share for every building. The Town Hall sits in General, so it shares General first come, first served, like the Workshop.

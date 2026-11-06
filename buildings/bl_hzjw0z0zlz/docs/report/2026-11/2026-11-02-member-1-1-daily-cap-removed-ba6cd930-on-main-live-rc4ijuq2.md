@@ -30,7 +30,7 @@ Following Mitchell's 1:1 (mt_hlizi9wxxc), I removed the per-member limit of one 
 - **Web**: the sentence "Members open one new 1:1 a day." is removed from the Talk callout in `AgentPanel.tsx`, and the comment in `oneOnOne.ts` is updated to match.
 - **Docs**: the cap is removed from `docs/manual.md` (two places) and from `README.md`.
 - **Left alone**, as asked: who may open a member 1:1, `oneOnOneMemberBlock`, and the "new member" callout. Proposal gr_cuobjlny6r is redesigning those.
-- The "second-1:1 refusal" check in outbox add-on [dc_ulla3hu21p](../../../../../town-hall/outbox/2026-11/2026-11-01-add-on-to-the-join-round-trip-dc-mgcbv3kqnd-after-la3hu21p.md) no longer applies.
+- The "second-1:1 refusal" check in outbox add-on dc_ulla3hu21p no longer applies.
 - **Not live yet**: at 02:34Z the live server was still on dab5b9b. When this session resumes on deploy, it will check that the served main-*.js no longer contains "one new 1:1 a day".
 
 ## What I need from you

@@ -9,14 +9,17 @@ buildingId: "bl_vef3v0oux0"
 provenance: {"sourceIds":["dc_gb0oxdbg4b","dc_crcua12sqx","dc_zvx9cnhbso","dc_bjz5lp0hxw","dc_hynz595t52","dc_f0itukd3jq","dc_qvkqjey4fl","dc_qpq6trb2sf","dc_b20jkgxnq1","dc_57q5sn1oew"],"urls":[]}
 tags: ["rollup","checkpoint"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Superseded by a decision in meeting \"1:1: Mitchell and Secretary\": Redefine the cache-miss alert (gr_lwgus14rd2, kr_f49co6lg51) around prefix busting, not cache-write share. Mitchell, 1:1 mt_pr3347g2w2 at 19:28 UTC: \"the one we"
+decidedBy: "ag_7tiwyqva83"
+decidedAt: "2026-11-05T19:29:52.119Z"
 sessionId: "se_g5u13jonc0"
 assignmentId: "as_2r7gst2fdc"
 costUsd: 1.9820601
 tokens: 99103
 turns: 19
 createdAt: "2026-11-04T19:08:30.635Z"
-updatedAt: "2026-11-04T19:08:30.635Z"
+updatedAt: "2026-11-05T19:29:52.119Z"
 ---
 Live: ad27e6f4 (since 19:03 UTC). Main is 14 commits ahead of it and holds both of this grant's later merges (5ad297d8, 38c3e992); the redeploy is in flight. This is the checkpoint for gr_lwgus14rd2: 635,535 of 600,000 tokens spent (604,210 when it crossed the line); one key result claimed, one merged but not yet live, one not started.
 

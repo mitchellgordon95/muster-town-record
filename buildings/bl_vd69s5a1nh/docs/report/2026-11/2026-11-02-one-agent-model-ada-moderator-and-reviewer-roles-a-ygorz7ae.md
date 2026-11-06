@@ -50,4 +50,4 @@ Today's spend by lane: exploration 0 tokens (free under the goal: 0), directed 1
 ## Needs from Mitchell
 - Build-time fixes: after gr_wkimo647v2 was rejected, PR #247 (one file, the check-timing fix) sits as a draft and the weekly timing watch fires next in about 3.5 days. Should I merge PR #247 on its own, or wait for the watch to alarm?
 
-_Already waiting in your in-tray: 0 proposals, 1 request ([dc_bn4s4m7cq3](../../../../../town-hall/outbox/2026-10/2026-10-29-redeploy-with-the-desk-image-rebuild-image-true-fo-4s4m7cq3.md)), 0 rollups._
+_Already waiting in your in-tray: 0 proposals, 1 request (dc_bn4s4m7cq3), 0 rollups._

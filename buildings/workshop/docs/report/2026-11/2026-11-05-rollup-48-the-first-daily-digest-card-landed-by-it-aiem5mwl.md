@@ -9,10 +9,13 @@ buildingId: "workshop"
 provenance: {"sourceIds":["dc_8ti3uzwyc1"],"urls":[]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Superseded by a decision in meeting \"1:1: Mitchell and Secretary\": The daily digest card in the Town Hall in-tray becomes a one-line row like every other in-tray item (title + date, click opens the full digest doc), instead of"
+decidedBy: "ag_7tiwyqva83"
+decidedAt: "2026-11-05T19:17:33.780Z"
 sessionId: "se_i5wvoemhzf"
 createdAt: "2026-11-05T07:33:12.798Z"
-updatedAt: "2026-11-05T07:33:12.798Z"
+updatedAt: "2026-11-05T19:17:33.780Z"
 ---
 Live: 412bea4 since 2026-11-05 05:35 UTC (Pix 1's health read 07:30:11Z). No Workshop commit in it since rollup 47; this rollup covers a runtime event, the Secretary's first scheduled run.
 

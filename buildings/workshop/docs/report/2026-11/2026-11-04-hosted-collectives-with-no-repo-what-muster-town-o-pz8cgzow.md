@@ -31,7 +31,7 @@ Read-only pass over main 04160f9 (core, schema, server, runtime, web). No code c
 - The code brief (checkout, branch, PR, "If you call `redeploy`…") only goes to buildings with code access: core/src/prompts.ts:688-690, used at :717-718. Its text is at :655-666.
 - Managers and their forks only get `town.redeploy` outside a hosted World (core/src/permissions.ts:66). The hosted runtime has no redeployer and refuses the call (runtime/src/index.ts:761-762, 829-834).
 - The PR poller only runs against `workspace.repoUrl` (runtime/src/index.ts:210).
-- The merge-rules FYI ([dc_vzqoh7ppen](../../../../town-hall/docs/fyi/2026-10/2026-10-30-town-wide-merge-rules-revised-2026-10-30-schema-mi-qoh7ppen.md)) is a document in muster.town's own database. A hosted World's database starts fresh, so it never sees it.
+- The merge-rules FYI ([dc_vzqoh7ppen](../../../../town-hall/docs/fyi/2026-10/2026-10-30-town-wide-merge-rules-revised-2026-11-05-ci-deploy-qoh7ppen.md)) is a document in muster.town's own database. A hosted World's database starts fresh, so it never sees it.
 
 **Still showing (leaks):**
 1. **Redeploy button for hosted admins.** The admin role holds every permission (schema/src/index.ts:229), so `store.can("town.redeploy")` is true and Planning desk → System shows "Pull main & redeploy" (web/src/panels/PlanningPanel.tsx:156). Pressing it gets a 403.

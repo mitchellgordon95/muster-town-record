@@ -48,4 +48,4 @@ Today's spend by lane: exploration 65,339 tokens (free under the goal: 0), direc
 ## Needs from Mitchell
 Nothing needed.
 
-_Already waiting in your in-tray: 1 proposal (gr_7op2v8fjcl), 1 request ([dc_bn4s4m7cq3](../../../../../town-hall/outbox/2026-10/2026-10-29-redeploy-with-the-desk-image-rebuild-image-true-fo-4s4m7cq3.md)), 1 rollup ([dc_cuygorz7ae](2026-11-02-one-agent-model-ada-moderator-and-reviewer-roles-a-ygorz7ae.md))._
+_Already waiting in your in-tray: 1 proposal (gr_7op2v8fjcl), 1 request (dc_bn4s4m7cq3), 1 rollup ([dc_cuygorz7ae](2026-11-02-one-agent-model-ada-moderator-and-reviewer-roles-a-ygorz7ae.md))._

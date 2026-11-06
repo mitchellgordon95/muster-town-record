@@ -99,7 +99,7 @@ Routes (root app, `app.ts`, next to `POST /api/collectives`):
 
 ## 5. Build order
 
-Each step is one PR, with tests and docs, merged green and redeployed under [dc_vzqoh7ppen](../../../../town-hall/docs/fyi/2026-10/2026-10-30-town-wide-merge-rules-revised-2026-10-30-schema-mi-qoh7ppen.md).
+Each step is one PR, with tests and docs, merged green and redeployed under [dc_vzqoh7ppen](../../../../town-hall/docs/fyi/2026-10/2026-10-30-town-wide-merge-rules-revised-2026-11-05-ci-deploy-qoh7ppen.md).
 
 1. **Ask to own** (gr_bwm0iz7rwl, already proposed): the request, in-tray row, deck slide and accept setting `ownerId`. Bounties depend on it.
 2. **Home tabs**: the Funding tab with "N free tokens" and Donate on each tile, and an empty Captains tab ("No bounties yet"). No new tables.

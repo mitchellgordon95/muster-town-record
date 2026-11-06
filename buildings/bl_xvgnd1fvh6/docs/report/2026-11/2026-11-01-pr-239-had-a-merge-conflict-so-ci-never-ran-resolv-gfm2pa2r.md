@@ -26,12 +26,12 @@ I resumed on PR #239 (https://github.com/mitchellgordon95/muster-town/pull/239).
 
 ## Findings
 - No code conflicts: the only file that conflicted was docs/log.md. The PR has no migration.
-- Nothing is merged yet, so no replacement drill request has been filed. [dc_647d9m37u2](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-7d9m37u2.md) and the HOLD [dc_y43rdv5zm7](../../../../../town-hall/outbox/2026-11/2026-11-01-hold-the-recover-drill-request-dc-647d9m37u2-until-3rdv5zm7.md) stay as they are. as_v31d893zqr and as_6ruhd6l16h keep waiting; the request id they should check will come in the next report.
+- Nothing is merged yet, so no replacement drill request has been filed. dc_647d9m37u2 and the HOLD dc_y43rdv5zm7 stay as they are. as_v31d893zqr and as_6ruhd6l16h keep waiting; the request id they should check will come in the next report.
 - **Plan for the resume (pr 239):**
   1. If CI is green: mark #239 ready, merge it, and note the merge sha.
   2. Check that origin/prod contains that sha, since recover.sh builds from prod.
   3. File ONE request_human, as set out in [dc_e4bpafyn0k](2026-11-01-throwaway-mode-for-drill-towns-pr-239-open-muster-bpafyn0k.md)'s plan:
-     - first line: ignore [dc_647d9m37u2](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-7d9m37u2.md) and [dc_y43rdv5zm7](../../../../../town-hall/outbox/2026-11/2026-11-01-hold-the-recover-drill-request-dc-647d9m37u2-until-3rdv5zm7.md);
+     - first line: ignore dc_647d9m37u2 and dc_y43rdv5zm7;
      - requires main/prod ≥ the sha;
      - says the drill town runs no sessions and never writes to the bucket (health shows `throwaway: true`);
      - says it still accepts live login tokens, which gr_6qlj35wnh3 fixes;

@@ -22,7 +22,7 @@ createdAt: "2026-11-01T01:22:26.457Z"
 updatedAt: "2026-11-01T01:22:49.405Z"
 ---
 ## What I did
-I checked the inbox and outbox for a Fly token or a drill that had already been granted. There was none. So I filed ONE outbox request, [dc_647d9m37u2](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-7d9m37u2.md), asking Mitchell to run `deploy/recover.sh --yes recover-drill` on a throwaway app. I updated the topic page [dc_nh11dqbf19](../../wiki/2026-10/2026-10-31-recovery-from-a-dead-volume-11dqbf19.md) and parked for 24 h.
+I checked the inbox and outbox for a Fly token or a drill that had already been granted. There was none. So I filed ONE outbox request, dc_647d9m37u2, asking Mitchell to run `deploy/recover.sh --yes recover-drill` on a throwaway app. I updated the topic page [dc_nh11dqbf19](../../wiki/2026-10/2026-10-31-recovery-from-a-dead-volume-11dqbf19.md) and parked for 24 h.
 
 ## Findings
 - No desk has a Fly token, and no open request covered the drill. Desks never get a Fly token. The only other open Prod requests are [dc_lyjnyeev9f](../../../../../town-hall/outbox/2026-11/2026-11-01-run-deploy-fly-build-sh-once-town-image-deploy-so-jnyeev9f.md) (the town image deploy) and [dc_nke6xw12k4](../../../../../town-hall/outbox/2026-10/2026-10-29-a-throwaway-linux-box-and-a-test-domain-for-the-se-e6xw12k4.md) (the self-host box); they are unrelated.
@@ -31,4 +31,4 @@ I checked the inbox and outbox for a Fly token or a drill that had already been 
 - Plan when the row arrives: a docs-only PR that fills the Drill table in deploy/README.md "Recover", merged when green. Then `close_grant` gr_z2v838adk9 with the row, the elapsed time (must be ≤ 30 min), the matching counts and the guard test names, and a rollup. Stop condition: if there is no drill by 2026-11-07, stop and report "steps 1-2 shipped, drill not run".
 
 ## What I need from you
-Run outbox request [dc_647d9m37u2](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-7d9m37u2.md) (about 25 min, right after a top of the hour) and paste back its last line.
+Run outbox request dc_647d9m37u2 (about 25 min, right after a top of the hour) and paste back its last line.

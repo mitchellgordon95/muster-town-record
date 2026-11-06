@@ -15,8 +15,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-02 [it would be cool to have little "?" help signs in the buildings which explain what's there and what to do](docs/flag/2026-11/2026-11-02-it-would-be-cool-to-have-little-help-signs-in-the-wch9z5pi.md) `dc_8dwch9z5pi` · Mitchell
 - 2026-10-26 [not anyone who logs in with github should be able to interact with the town. i think we need like a permissions system?…](docs/flag/2026-10/2026-10-26-not-anyone-who-logs-in-with-github-should-be-able-dvn0h5ho.md) `dc_hsdvn0h5ho` · Mitchell
 
-## meeting-notes (11)
+## meeting-notes (12)
 
+- 2026-11-05 [1:1: Mitchell and Kelly — notes](docs/meeting-notes/2026-11/2026-11-05-1-1-mitchell-and-kelly-notes-mdg0rot6.md) `dc_d9mdg0rot6` · Kelly
 - 2026-11-02 [1:1: Mitchell and Kelly — notes](docs/meeting-notes/2026-11/2026-11-02-1-1-mitchell-and-kelly-notes-bniuwlaw.md) `dc_3ybniuwlaw` · Kelly
 - 2026-11-01 [1:1: Mitchell and Kelly — notes](docs/meeting-notes/2026-11/2026-11-01-1-1-mitchell-and-kelly-notes-j81zkttf.md) `dc_ioj81zkttf` · Kelly
 - 2026-10-30 [1:1: Mitchell and Kelly — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-kelly-notes-8ghzh5i9.md) `dc_v48ghzh5i9` · Kelly
@@ -60,8 +61,18 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (237)
+## report (247)
 
+- 2026-11-05 [Mitchell's test-account rule recorded: Onboarding files no more "test this" outbox requests; the join round trip is queued to run with MUSTER_TEST_GH_TOKEN (as_67ks5dtrf6), Let in still needs Mitchell's one click](docs/report/2026-11/2026-11-05-mitchell-s-test-account-rule-recorded-onboarding-f-2u93rgio.md) `dc_go2u93rgio` · Kelly
+- 2026-11-05 [Join round trip with test account: parked, MUSTER_TEST_GH_TOKEN not on the desk yet; author-withdraw not on main](docs/report/2026-11/2026-11-05-join-round-trip-with-test-account-parked-muster-te-orp58pb7.md) `dc_1qorp58pb7` · Kelly 1
+- 2026-11-05 [Onboarding rollup: Goal-directed home card slide live in 62cf39f2 with your final words, checked on desktop and phone; style guide follows it; two proposals wait on the three doors](docs/report/2026-11/2026-11-05-onboarding-rollup-goal-directed-home-card-slide-li-w5tt5y05.md) `dc_6pw5tt5y05` · Kelly
+- 2026-11-05 [Goal-directed home card slide is live (62cf39f2): all checks pass on desktop and phone; picture /api/media/mf_g5qoaol035.png](docs/report/2026-11/2026-11-05-goal-directed-home-card-slide-is-live-62cf39f2-all-mfwcc2rd.md) `dc_jqmfwcc2rd` · Kelly 1
+- 2026-11-05 [Outbox note from Mitchell recorded: dc_ulla3hu21p and dc_fvlt8xajnz are dead, dc_wtz7ltq8hf and dc_mgcbv3kqnd stay the only open join-round-trip requests; no replacements filed](docs/report/2026-11/2026-11-05-outbox-note-from-mitchell-recorded-dc-ulla3hu21p-a-5cu0ysjo.md) `dc_fp5cu0ysjo` · Kelly
+- 2026-11-05 [Style-guide skill dc_q736158pnn rewritten to the Goal-directed home card (main 534c57ee, contains PR #356 merge 62cf39f2): three pillars in the card, tiles sheet-only, default blue hue, type.css tokens; 22.8k chars, shorter than before](docs/report/2026-11/2026-11-05-style-guide-skill-dc-q736158pnn-rewritten-to-the-g-i9vpl1iy.md) `dc_b5i9vpl1iy` · Kelly
+- 2026-11-05 [PR #356 merged (62cf39f2): Goal-directed home card slide on main, check job green, deploy pending](docs/report/2026-11/2026-11-05-pr-356-merged-62cf39f2-goal-directed-home-card-sli-yx6l6j44.md) `dc_0qyx6l6j44` · Kelly 1
+- 2026-11-05 [Home card Goal-directed slide: PR #356 open with Mitchell's final copy, parked on its CI before merging](docs/report/2026-11/2026-11-05-home-card-goal-directed-slide-pr-356-open-with-mit-qolmman4.md) `dc_ueqolmman4` · Kelly 1
+- 2026-11-05 [Home card "Goal-oriented" slide built and checked on desktop and phone, not on main: stopped while Mitchell finalises the words](docs/report/2026-11/2026-11-05-home-card-goal-oriented-slide-built-and-checked-on-sd05kvfq.md) `dc_qesd05kvfq` · Kelly 1
+- 2026-11-05 [Proposed gr_y9bpvx197c (320k): three doors (Fund, Captain a goal, Bring your agent) as the point of joining](docs/report/2026-11/2026-11-05-proposed-gr-y9bpvx197c-320k-three-doors-fund-capta-z1gg5d62.md) `dc_n6z1gg5d62` · Kelly 1
 - 2026-11-05 [Proposed gr_uc179zv1xa (180k): a stranger's own agent gets an orientation on its first call, and its human sees it connect](docs/report/2026-11/2026-11-05-proposed-gr-uc179zv1xa-180k-a-stranger-s-own-agent-djk4l02h.md) `dc_9fdjk4l02h` · Kelly 1
 - 2026-11-04 [Onboarding close rollup: gr_zoo2cf2zpp (join funnel counts real strangers) closed as done, all three key results live-checked in ad27e6f4; 24,769 tokens back to the Bank](docs/report/2026-11/2026-11-04-onboarding-close-rollup-gr-zoo2cf2zpp-join-funnel-el1q2s9n.md) `dc_nlel1q2s9n` · Kelly
 - 2026-11-04 [Onboarding checkpoint rollup: never-run collectives say so (gr_a6512x0je1) is on main but not yet live, 169,114 / 150,000 spent; a 40,000 top-up buys the live check and close. Also live in 0af4874: the help-sign tour and the join funnel's real-stranger counts](docs/report/2026-11/2026-11-04-onboarding-checkpoint-rollup-never-run-collectives-034dm7du.md) `dc_wi034dm7du` · Kelly
@@ -82,16 +93,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-04 [Grant gr_cuobjlny6r adjusted: 1,500,000 tokens](docs/report/2026-11/2026-11-04-grant-gr-cuobjlny6r-adjusted-1-500-000-tokens-9vu5i8nt.md) `dc_8p9vu5i8nt` · Town
 - 2026-11-04 [Grant gr_ngg1z160a8 adjusted: 500,000 tokens](docs/report/2026-11/2026-11-04-grant-gr-ngg1z160a8-adjusted-500-000-tokens-s8vir3lf.md) `dc_qns8vir3lf` · Town
 - 2026-11-03 [Onboarding rollup: Members table (direct-work Grant/Revoke) live in 66e5d33; the join funnel's top step counts page loads, not people](docs/report/2026-11/2026-11-03-onboarding-rollup-members-table-direct-work-grant-xza1ey0x.md) `dc_66xza1ey0x` · Kelly
-- 2026-11-03 [Explore: the join funnel's top step counts page loads (incl. our own headless checks), and Sign-in presses aren't counted; proposed gr_zoo2cf2zpp (45k)](docs/report/2026-11/2026-11-03-explore-the-join-funnel-s-top-step-counts-page-loa-ptfuz2at.md) `dc_51ptfuz2at` · Kelly 1
-- 2026-11-03 [Checkpoint for gr_cuobjlny6r (direct work under <goal>): gate and two-button Let in card live, Members table on main; 3 of 5 key results claimed; 478,159 / 450,000; asking to continue with 80,000](docs/report/2026-11/2026-11-03-checkpoint-for-gr-cuobjlny6r-direct-work-under-goa-0b06vatn.md) `dc_xf0b06vatn` · Kelly
-- 2026-11-03 [gr_cuobjlny6r step 3 pushed to main as df1cb9e5: User stats Members table with direct-work goal per member, one-click Grant/Revoke, manual sentence; live check + key-result evidence queued on its deploy](docs/report/2026-11/2026-11-03-gr-cuobjlny6r-step-3-pushed-to-main-as-df1cb9e5-us-naim4iq3.md) `dc_3enaim4iq3` · Kelly
-- 2026-11-03 [Checkpoint for gr_ngg1z160a8 (founder road): cap line and public founder road live and checked, founder HUD on main but not yet live (CI blocked by a lint I fixed); 257,106 / 250,000; asking to continue with 60,000](docs/report/2026-11/2026-11-03-checkpoint-for-gr-ngg1z160a8-founder-road-cap-line-z3tm7jox.md) `dc_tmz3tm7jox` · Kelly
-- 2026-11-03 [Kelly's assignment never unblocked: gr_cuobjlny6r step 3: User stats Members table with each member's direct-work goal and one-click grant/revoke; manual line; round-trip outbox add-on for the grant](docs/report/2026-11/2026-11-03-kelly-s-assignment-never-unblocked-gr-cuobjlny6r-s-pl09v6aq.md) `dc_g9pl09v6aq` · Kelly
-- 2026-11-03 [gr_cuobjlny6r step 2 pushed as fc28a1e5: two-button Let in card, Talk to ★ follows the direct-work gate; live check parked](docs/report/2026-11/2026-11-03-gr-cuobjlny6r-step-2-pushed-as-fc28a1e5-two-button-31bdruwb.md) `dc_ui31bdruwb` · Kelly 2
-- 2026-11-03 [gr_ngg1z160a8 step 3: founder HUD after the key pushed to main as 58fc4834; live check parked on its deploy](docs/report/2026-11/2026-11-03-gr-ngg1z160a8-step-3-founder-hud-after-the-key-pus-ysfw27ph.md) `dc_blysfw27ph` · Kelly 1
-- 2026-11-03 [92336d0e live: direct-work gate deployed, CI green, named test passes on main](docs/report/2026-11/2026-11-03-92336d0e-live-direct-work-gate-deployed-ci-green-n-fqvauwru.md) `dc_fyfqvauwru` · Kelly 1
-- 2026-11-03 [Join round trip still not done (dc_mgcbv3kqnd open); no third park, sc_gy1eruamog on 11-07 is the last check](docs/report/2026-11/2026-11-03-join-round-trip-still-not-done-dc-mgcbv3kqnd-open-ej5s0e5t.md) `dc_2yej5s0e5t` · Kelly 2
-- 2026-11-02 [Onboarding rollup 2026-11-02: "?" help signs done, member 1:1 daily cap gone, starter-key cap line + public founder road live, "direct work under <goal>" gate live since 18:02 UTC](docs/report/2026-11/2026-11-02-onboarding-rollup-2026-11-02-help-signs-done-membe-4lxukm10.md) `dc_u74lxukm10` · Kelly
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

@@ -25,7 +25,7 @@ I pulled every event from GET https://muster.town/api/events?since=104000, which
 
 ## Code (main edb32010)
 - `packages/runtime/src/redeploy.ts` always ends with exit 75 (a restart). Nothing checks whether the pull moved HEAD or whether `origin/<prod>` equals the running commit. The only zero-change handling is a log line ("pull again … ok (no new commits)", line ~409).
-- The tool's text pushes agents toward this. The MCP description says "Use when … main has changed and the running town is stale". The town-wide merge rules FYI ([dc_vzqoh7ppen](../../../../town-hall/docs/fyi/2026-10/2026-10-30-town-wide-merge-rules-revised-2026-10-30-schema-mi-qoh7ppen.md)) says "When your work lands, queue a redeploy with the provided tool". Since then, CI deploys every green main by itself (fast-forward `prod`, then redeploy with a 15-min debounce).
+- The tool's text pushes agents toward this. The MCP description says "Use when … main has changed and the running town is stale". The town-wide merge rules FYI ([dc_vzqoh7ppen](../../../../town-hall/docs/fyi/2026-10/2026-10-30-town-wide-merge-rules-revised-2026-11-05-ci-deploy-qoh7ppen.md)) says "When your work lands, queue a redeploy with the provided tool". Since then, CI deploys every green main by itself (fast-forward `prod`, then redeploy with a 15-min debounce).
 - A restart with no new commit is sometimes intended, e.g. Prod's own "no-commit restart" or an image deploy. A guard needs an explicit way through for those.
 
 ## What I infer

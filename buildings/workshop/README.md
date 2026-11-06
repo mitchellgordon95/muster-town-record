@@ -26,8 +26,11 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 - 2026-10-29 [Deck viewer live check (gr_jh0lu0w6yj step 3)](docs/deck/2026-10/2026-10-29-deck-viewer-live-check-gr-jh0lu0w6yj-step-3-txaz0ur5.md) `dc_z2txaz0ur5` · Pix 1
 
-## flag (20)
+## flag (23)
 
+- 2026-11-05 [user stats panel in the workshop should show stats for community engagement in this specific collective (hosted), not m…](docs/flag/2026-11/2026-11-05-user-stats-panel-in-the-workshop-should-show-stats-u6bkaei4.md) `dc_r7u6bkaei4` · Mitchell
+- 2026-11-05 [can i get a bulletin board outside the town hall for humans? it would be in the main square in the default layout](docs/flag/2026-11/2026-11-05-can-i-get-a-bulletin-board-outside-the-town-hall-f-njv3shp8.md) `dc_52njv3shp8` · Mitchell
+- 2026-11-05 [i'd like to be able to rename my collective](docs/flag/2026-11/2026-11-05-i-d-like-to-be-able-to-rename-my-collective-1nz88pkt.md) `dc_hz1nz88pkt` · Mitchell
 - 2026-11-04 [town intray is currently crashing with](docs/flag/2026-11/2026-11-04-town-intray-is-currently-crashing-with-guj4r2po.md) `dc_zeguj4r2po` · Mitchell
 - 2026-11-03 [can you make the intray more human useable? i'm thinking of at least a view that has each report subject on one line th…](docs/flag/2026-11/2026-11-03-can-you-make-the-intray-more-human-useable-i-m-thi-llscunfx.md) `dc_2hllscunfx` · Mitchell
 - 2026-11-01 [the desk add and remove on goal nodes in the goal editor do not handle long building names well.](docs/flag/2026-11/2026-11-01-the-desk-add-and-remove-on-goal-nodes-in-the-goal-c9cjbzls.md) `dc_42c9cjbzls` · Mitchell
@@ -53,8 +56,15 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 - 2026-10-31 [RESOLVED 02:41Z 10-31: `tell` and `stop_fork` to a live Workshop fork are safe again (desk-death fix 1df29a4 live-checked)](docs/fyi/2026-10/2026-10-31-resolved-02-41z-10-31-tell-and-stop-fork-to-a-live-37yf719x.md) `dc_2337yf719x` · Pix
 
-## meeting-notes (78)
+## meeting-notes (85)
 
+- 2026-11-05 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-05-1-1-mitchell-and-pix-notes-lclh314d.md) `dc_k3lclh314d` · Pix
+- 2026-11-05 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-05-1-1-mitchell-and-pix-notes-2n5ng3or.md) `dc_ri2n5ng3or` · Pix
+- 2026-11-05 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-05-1-1-mitchell-and-pix-notes-06dic86q.md) `dc_3906dic86q` · Pix
+- 2026-11-05 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-05-1-1-mitchell-and-pix-notes-twnfenaw.md) `dc_kctwnfenaw` · Pix
+- 2026-11-05 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-05-1-1-mitchell-and-pix-notes-ndgfgftz.md) `dc_v9ndgfgftz` · Pix
+- 2026-11-05 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-05-1-1-mitchell-and-pix-notes-oo58zgas.md) `dc_h5oo58zgas` · Pix
+- 2026-11-05 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-05-1-1-mitchell-and-pix-notes-zkgbyfsc.md) `dc_qdzkgbyfsc` · Pix
 - 2026-11-04 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-04-1-1-mitchell-and-pix-notes-c5vxy94m.md) `dc_8tc5vxy94m` · Pix
 - 2026-11-04 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-04-1-1-mitchell-and-pix-notes-m548rw5n.md) `dc_f8m548rw5n` · Pix
 - 2026-11-03 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-03-1-1-mitchell-and-pix-notes-rj0uaw60.md) `dc_rsrj0uaw60` · Pix
@@ -78,18 +88,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-pix-notes-tnbkzjkl.md) `dc_mktnbkzjkl` · Pix
 - 2026-10-30 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-pix-notes-hpfdn1qw.md) `dc_bahpfdn1qw` · Pix
 - 2026-10-30 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-pix-notes-2z85s6pp.md) `dc_rp2z85s6pp` · Pix
-- 2026-10-30 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-pix-notes-php324k9.md) `dc_mvphp324k9` · Pix
-- 2026-10-30 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-pix-notes-g2ie752y.md) `dc_4og2ie752y` · Pix
-- 2026-10-30 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-pix-notes-hsyyvdlr.md) `dc_w4hsyyvdlr` · Pix
-- 2026-10-30 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-pix-notes-1662bsle.md) `dc_t61662bsle` · Pix
-- 2026-10-30 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-pix-notes-h702pfzi.md) `dc_wch702pfzi` · Pix
-- 2026-10-30 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-pix-notes-28enfj4g.md) `dc_tz28enfj4g` · Pix
-- 2026-10-29 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-29-1-1-mitchell-and-pix-notes-lmky7no5.md) `dc_8slmky7no5` · Pix
 
 All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-notes/2026-10/)
 
-## note (36)
+## note (37)
 
+- 2026-11-05 [Findings: a captain coming back has no "since you were last here" view of their goals](docs/note/2026-11/2026-11-05-findings-a-captain-coming-back-has-no-since-you-we-1oltr1ye.md) `dc_hd1oltr1ye` · Pix 1
 - 2026-11-04 [Findings: 17% of grant tokens go to two bookkeeping sessions run on Fable (kickoff + checkpoint writing)](docs/note/2026-11/2026-11-04-findings-17-of-grant-tokens-go-to-two-bookkeeping-6av6drfy.md) `dc_br6av6drfy` · Pix 1
 - 2026-11-03 [Findings: a returning captain has no "since you last reviewed" view (explore as_okxkncoucv)](docs/note/2026-11/2026-11-03-findings-a-returning-captain-has-no-since-you-last-7icr6obz.md) `dc_w97icr6obz` · Pix 2
 - 2026-11-03 [Rollup materials archive (rollups 1-38)](docs/note/2026-11/2026-11-03-rollup-materials-archive-rollups-1-38-9nlk7fa3.md) `dc_0q9nlk7fa3` · Pix 1
@@ -119,42 +123,41 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 - 2026-10-28 [Topic page draft: Live manual seeding](docs/note/2026-10/2026-10-28-topic-page-draft-live-manual-seeding-s2ecxubk.md) `dc_gxs2ecxubk` · Lena
 - 2026-10-27 [Wake step 5 live check: null-origin mention](docs/note/2026-10/2026-10-27-wake-step-5-live-check-null-origin-mention-959oapbr.md) `dc_6h959oapbr` · Lena
 - 2026-10-27 [Demo: media inline in a doc (5b9eec4 live check)](docs/note/2026-10/2026-10-27-demo-media-inline-in-a-doc-5b9eec4-live-check-9amas9sy.md) `dc_2d9amas9sy` · Lena
-- 2026-10-26 [Bank accuracy: what the Bank counts today, the real cost per raw token, and the grant plan (findings for the Bank grant)](docs/note/2026-10/2026-10-26-bank-accuracy-what-the-bank-counts-today-the-real-qmfdittg.md) `dc_2uqmfdittg` · Pix
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (965)
+## report (1041)
 
-- 2026-11-05 [Digest dedupe is live on 1edf24dc: 15 Money + 6 Questions lines (was 18 + 22); no ask repeated](docs/report/2026-11/2026-11-05-digest-dedupe-is-live-on-1edf24dc-15-money-6-quest-xjviwcui.md) `dc_v5xjviwcui` · Pix 1
-- 2026-11-05 [Digest dedupe merged: PR #352 = 1edf24dc, live once CI promotes it](docs/report/2026-11/2026-11-05-digest-dedupe-merged-pr-352-1edf24dc-live-once-ci-6hkfzomt.md) `dc_436hkfzomt` · Pix 1
-- 2026-11-05 [Digest dedupe: PR #352 open (one line per in-tray row, no Questions repeats of Money asks); parked on CI](docs/report/2026-11/2026-11-05-digest-dedupe-pr-352-open-one-line-per-in-tray-row-zaoneizo.md) `dc_0kzaoneizo` · Pix 1
-- 2026-11-05 [Rollup 48: the first daily digest card landed by itself at 07:00 UTC (41 decision lines, 19 rollups, 1,021 tokens)](docs/report/2026-11/2026-11-05-rollup-48-the-first-daily-digest-card-landed-by-it-aiem5mwl.md) `dc_qjaiem5mwl` · Pix
-- 2026-11-05 [First scheduled digest fired at 07:00:02Z: card dc_utbtoihrg5 is first in the Town Hall in-tray (41 decisions, 19 rollups, 1,021 tokens)](docs/report/2026-11/2026-11-05-first-scheduled-digest-fired-at-07-00-02z-card-dc-i3uzwyc1.md) `dc_8ti3uzwyc1` · Pix 1
-- 2026-11-04 [Rollup 47: Daily digest button and grouped digest card live, in-tray Cards view removed, hosted collectives name their own captain (aa6f4fbc)](docs/report/2026-11/2026-11-04-rollup-47-daily-digest-button-and-grouped-digest-c-1np62hlp.md) `dc_5f1np62hlp` · Pix
-- 2026-11-04 [Rollup 47 materials: all four changes are live on aa6f4fbc; the guest in-tray has no Cards toggle (mf_itjijx3uda)](docs/report/2026-11/2026-11-04-rollup-47-materials-all-four-changes-are-live-on-a-9ofcnhny.md) `dc_yp9ofcnhny` · Pix 1
-- 2026-11-04 [c7ae8169 (hosted collectives name their captain) is live; muster.town still says "Needs from Mitchell"; chain closed](docs/report/2026-11/2026-11-04-c7ae8169-hosted-collectives-name-their-captain-is-cz7su0tv.md) `dc_oncz7su0tv` · Pix 2
-- 2026-11-04 [Daily digest button (#346) is live on aa6f4fbc: guests get no digestRun and no button](docs/report/2026-11/2026-11-04-daily-digest-button-346-is-live-on-aa6f4fbc-guests-bf6fxa4g.md) `dc_95bf6fxa4g` · Pix 1
-- 2026-11-04 [Secretary step 3e is live on b55ecf9c: the digest's Decisions needed groups read right](docs/report/2026-11/2026-11-04-secretary-step-3e-is-live-on-b55ecf9c-the-digest-s-bjvpoh9l.md) `dc_odbjvpoh9l` · Pix 1
-- 2026-11-04 [PR #345 (Secretary step 3e) merged as b55ecf9c; parked on its deploy](docs/report/2026-11/2026-11-04-pr-345-secretary-step-3e-merged-as-b55ecf9c-parked-239mi8iv.md) `dc_yx239mi8iv` · Pix 1
-- 2026-11-04 [PR #345 green but conflicted with main: merged main as adcba9e, marked ready, parked on CI](docs/report/2026-11/2026-11-04-pr-345-green-but-conflicted-with-main-merged-main-a8l9mf48.md) `dc_0va8l9mf48` · Pix 1
-- 2026-11-04 [Secretary step 3e: digest reads asks through rollupAsks, Needs lines can be overtaken; PR #345 parked on CI](docs/report/2026-11/2026-11-04-secretary-step-3e-digest-reads-asks-through-rollup-yvyyxez6.md) `dc_qhyvyyxez6` · Pix 1
-- 2026-11-04 [No Cards view live on 17d00eb: the Town Hall in-tray shows only the list, Review as deck, and the digest card (picture mf_xgyvhzpnic)](docs/report/2026-11/2026-11-04-no-cards-view-live-on-17d00eb-the-town-hall-in-tra-zzhxrv4t.md) `dc_0qzzhxrv4t` · Pix 2
-- 2026-11-04 [PR #346 (Daily digest button) merged as dd99c595; parked on the deploy](docs/report/2026-11/2026-11-04-pr-346-daily-digest-button-merged-as-dd99c595-park-a8k2534l.md) `dc_hea8k2534l` · Pix 4
-- 2026-11-04 [PR #347 (hosted collectives name their captain) merged as c7ae8169; parked on the deploy](docs/report/2026-11/2026-11-04-pr-347-hosted-collectives-name-their-captain-merge-2dgw7kp6.md) `dc_9c2dgw7kp6` · Pix 3
-- 2026-11-04 [PR #346 conflicted with main (Cards view removal): merged main as 5206aba1, parked on CI](docs/report/2026-11/2026-11-04-pr-346-conflicted-with-main-cards-view-removal-mer-s6svrnmt.md) `dc_jcs6svrnmt` · Pix 3
-- 2026-11-04 [Hosted collectives' prompts and rollup heading name their root captain (PR #347, parked on CI)](docs/report/2026-11/2026-11-04-hosted-collectives-prompts-and-rollup-heading-name-mbvc4ohw.md) `dc_hrmbvc4ohw` · Pix 2
-- 2026-11-04 [Daily digest button recovered and pushed as PR #346 (2803c098); parked on CI](docs/report/2026-11/2026-11-04-daily-digest-button-recovered-and-pushed-as-pr-346-8ts14cgk.md) `dc_vm8ts14cgk` · Pix 3
-- 2026-11-04 [PR #337 (in-tray Cards view removed) merged as 17d00eb; live check still to do](docs/report/2026-11/2026-11-04-pr-337-in-tray-cards-view-removed-merged-as-17d00e-ocv32ibe.md) `dc_ycocv32ibe` · Pix 4
-- 2026-11-04 [Repo mode is live on 4815e19: muster.town keeps redeploy and its deploy/PR waits; hosted hollyville and trauma report "none"](docs/report/2026-11/2026-11-04-repo-mode-is-live-on-4815e19-muster-town-keeps-red-endzyq71.md) `dc_tbendzyq71` · Pix 2
-- 2026-11-04 [PR #337 conflicted with main again (manual.md): merged main as 07a1717, parked on CI](docs/report/2026-11/2026-11-04-pr-337-conflicted-with-main-again-manual-md-merged-kq0ag533.md) `dc_uekq0ag533` · Pix 4
-- 2026-11-04 [Session ended without a report: A "Daily digest" button on the Town Hall in-tray that runs the Secretary's digest on demand (Mitchell, 1:1 mt_i50xwu4z2t 18:09Z)](docs/report/2026-11/2026-11-04-session-ended-without-a-report-a-daily-digest-butt-txualbsp.md) `dc_gxtxualbsp` · Pix 3
-- 2026-11-04 [PR #333 (repo mode hides deploy/PR machinery from repo-less collectives) merged as 4815e19; live check still to do](docs/report/2026-11/2026-11-04-pr-333-repo-mode-hides-deploy-pr-machinery-from-re-qqnr4nrc.md) `dc_xmqqnr4nrc` · Pix 2
-- 2026-11-04 [PR #333 conflicted with main again after green CI: resolved prompts.ts, pushed 9a72b115, parked on CI](docs/report/2026-11/2026-11-04-pr-333-conflicted-with-main-again-after-green-ci-r-5e5uvsw4.md) `dc_4w5e5uvsw4` · Pix 2
-- 2026-11-04 [PR #337 merged with main after #328 landed; parked on CI again](docs/report/2026-11/2026-11-04-pr-337-merged-with-main-after-328-landed-parked-on-7dl3bwph.md) `dc_l77dl3bwph` · Pix 4
-- 2026-11-04 [Onboarding sweep 8 merged as 2efd2410: lag 0 h, day 1 of 7](docs/report/2026-11/2026-11-04-onboarding-sweep-8-merged-as-2efd2410-lag-0-h-day-rjrf3di0.md) `dc_bhrjrf3di0` · Pix 1
-- 2026-11-04 [In-tray crash fixed live (bcec74f): List, Cards, Stopped section and digest card all render](docs/report/2026-11/2026-11-04-in-tray-crash-fixed-live-bcec74f-list-cards-stoppe-ptju2s61.md) `dc_hrptju2s61` · Pix 1
-- 2026-11-04 [PR #336 (a continue/adjust/cut cancels a stale "Write the checkpoint" assignment) green and merged as c46e07b; no redeploy, prod is advancing again (live 2adb84c); Secretary step 3e queued](docs/report/2026-11/2026-11-04-pr-336-a-continue-adjust-cut-cancels-a-stale-write-jf5orfta.md) `dc_6yjf5orfta` · Pix
-- 2026-11-04 [Proposal card fix is live: gr_cwwtrabt2o no longer shows gr_ikgaundf5p's checkpoint lines](docs/report/2026-11/2026-11-04-proposal-card-fix-is-live-gr-cwwtrabt2o-no-longer-9hz5fu42.md) `dc_ti9hz5fu42` · Pix 2
+- 2026-11-06 [#/building/workshop and #/building/town-hall open live at acda269](docs/report/2026-11/2026-11-06-building-workshop-and-building-town-hall-open-live-xow8i1ev.md) `dc_14xow8i1ev` · Pix 1
+- 2026-11-06 [#/building/workshop route fix merged: PR #384 = acda269](docs/report/2026-11/2026-11-06-building-workshop-route-fix-merged-pr-384-acda269-gwo56hor.md) `dc_9qgwo56hor` · Pix 1
+- 2026-11-06 [#/building/workshop and #/building/town-hall route fix: PR #384, waiting on CI](docs/report/2026-11/2026-11-06-building-workshop-and-building-town-hall-route-fix-krou9o7t.md) `dc_zzkrou9o7t` · Pix 1
+- 2026-11-05 [Grant C: "holds at 1.35M" confirmed live on the grant row (ad1c8c8)](docs/report/2026-11/2026-11-05-grant-c-holds-at-1-35m-confirmed-live-on-the-grant-zh220dvz.md) `dc_2dzh220dvz` · Pix 1
+- 2026-11-05 [Grant C: PR #383 merged = ad1c8c8 (exact "holds at" figure on the grant row)](docs/report/2026-11/2026-11-05-grant-c-pr-383-merged-ad1c8c8-exact-holds-at-figur-yvtptp3m.md) `dc_00yvtptp3m` · Pix 1
+- 2026-11-05 [Grant C: exact hold point on the grant row (PR #383), parked on CI](docs/report/2026-11/2026-11-05-grant-c-exact-hold-point-on-the-grant-row-pr-383-p-eauq5x6c.md) `dc_upeauq5x6c` · Pix 2
+- 2026-11-05 [Grant C: evidence on all five KRs confirmed; 5th hold not yet fired (Onboarding/Prod grants wait on their building's next charge), parked 4 h](docs/report/2026-11/2026-11-05-grant-c-evidence-on-all-five-krs-confirmed-5th-hol-82dffr69.md) `dc_sk82dffr69` · Pix 1
+- 2026-11-05 [Grant C step 3: c913df6 live; 4 grants held at 23:41Z with no checkpoint session, all under their granted tokens; evidence filed for all five C KRs](docs/report/2026-11/2026-11-05-grant-c-step-3-c913df6-live-4-grants-held-at-23-41-jporvknr.md) `dc_2fjporvknr` · Pix 1
+- 2026-11-05 [Grant C step 2 merged: PR #382 = c913df6 (forks file KR evidence + top-up via submit_report)](docs/report/2026-11/2026-11-05-grant-c-step-2-merged-pr-382-c913df6-forks-file-kr-6vpk67k9.md) `dc_626vpk67k9` · Pix 1
+- 2026-11-05 [Grant C step 2: PR #382 (forks file KR evidence + top-up with submit_report; card/deck list the grant's reports), parked on CI](docs/report/2026-11/2026-11-05-grant-c-step-2-pr-382-forks-file-kr-evidence-top-u-1yjmy3mo.md) `dc_en1yjmy3mo` · Pix 1
+- 2026-11-05 [Grant C step 1 merged: PR #381 = 4ab6187 (no checkpoint session; holds at grant − min(150k, a third))](docs/report/2026-11/2026-11-05-grant-c-step-1-merged-pr-381-4ab6187-no-checkpoint-bwe9c3so.md) `dc_5tbwe9c3so` · Pix 2
+- 2026-11-05 [Grant B step 3b: funding queued throwaway step 1 itself (85 ms, no manager session); KR evidence for kr_mb8p4yqltw, kr_pag1dskg1o, kr_mh9uerpade](docs/report/2026-11/2026-11-05-grant-b-step-3b-funding-queued-throwaway-step-1-it-4z5eaczc.md) `dc_rf4z5eaczc` · Pix 1
+- 2026-11-05 [Throwaway step 2 ran: step 1's report queued it 7 ms later with no manager session (gr_gxhmlxk1hv)](docs/report/2026-11/2026-11-05-throwaway-step-2-ran-step-1-s-report-queued-it-7-m-ygf76kj3.md) `dc_w5ygf76kj3` · Pix 2
+- 2026-11-05 [Throwaway step 1 ran (gr_gxhmlxk1hv, as_wekrc5d5zx)](docs/report/2026-11/2026-11-05-throwaway-step-1-ran-gr-gxhmlxk1hv-as-wekrc5d5zx-c6iqth0d.md) `dc_ezc6iqth0d` · Pix 1
+- 2026-11-05 [Grant B step 3: back-fill verified live; throwaway grant gr_gxhmlxk1hv proposed, waiting on a human to fund it](docs/report/2026-11/2026-11-05-grant-b-step-3-back-fill-verified-live-throwaway-g-fhqtunm0.md) `dc_rjfhqtunm0` · Pix 3
+- 2026-11-05 [Grant C step 1: PR #381 CI failed on docs checks; fixed and pushed (239b8f1), parked on CI again](docs/report/2026-11/2026-11-05-grant-c-step-1-pr-381-ci-failed-on-docs-checks-fix-k4yb7afb.md) `dc_x4k4yb7afb` · Pix 1
+- 2026-11-05 [Grant B step 2 live: the gr_8bxoy2heif card and its deck slide show numbered steps (kr_snardl39qh evidence)](docs/report/2026-11/2026-11-05-grant-b-step-2-live-the-gr-8bxoy2heif-card-and-its-puoheg7r.md) `dc_aupuoheg7r` · Pix 2
+- 2026-11-05 [Grant C step 1: PR #381 conflicted with main; resolved and pushed (3fa6c6d), parked on CI again](docs/report/2026-11/2026-11-05-grant-c-step-1-pr-381-conflicted-with-main-resolve-mcrbkiar.md) `dc_zlmcrbkiar` · Pix 1
+- 2026-11-05 [Grant A live check, part 2: forks now read the fixed system prompt from the cache, but turn-1 writes stay at ~19k, so kr_ix5ewvu453 (under 8k) misses](docs/report/2026-11/2026-11-05-grant-a-live-check-part-2-forks-now-read-the-fixed-dag6fyun.md) `dc_0odag6fyun` · Pix 2
+- 2026-11-05 [Grant C step 1: PR #381 drops the checkpoint session and checkpoint_grant; grants now hold at grant − min(150k, a third). Parked on CI](docs/report/2026-11/2026-11-05-grant-c-step-1-pr-381-drops-the-checkpoint-session-r3jwfn91.md) `dc_0fr3jwfn91` · Pix 2
+- 2026-11-05 [Grant B step 2: PR #380 merged as 142e85c; parked on deploy for the live screenshot](docs/report/2026-11/2026-11-05-grant-b-step-2-pr-380-merged-as-142e85c-parked-on-jkwd11zv.md) `dc_z7jkwd11zv` · Pix 1
+- 2026-11-05 [Grant B step 2: PR #380 open (grant card + deck slide list the steps with their state); parked on CI](docs/report/2026-11/2026-11-05-grant-b-step-2-pr-380-open-grant-card-deck-slide-l-xwifpsus.md) `dc_j1xwifpsus` · Pix 1
+- 2026-11-05 [Grant B step 1 merged: PR #377 = 1bbaf18 on main (steps in proposals, funding queues step 1, migration 096)](docs/report/2026-11/2026-11-05-grant-b-step-1-merged-pr-377-1bbaf18-on-main-steps-8s7p6vrg.md) `dc_us8s7p6vrg` · Pix 1
+- 2026-11-05 [Grant B step 1: PR #377 open (steps in the proposal, funding queues step 1, kickoff deleted); parked on CI](docs/report/2026-11/2026-11-05-grant-b-step-1-pr-377-open-steps-in-the-proposal-f-wc1vxn4h.md) `dc_2vwc1vxn4h` · Pix 1
+- 2026-11-05 [Grant C gr_95svkzi4l6 (funded 1M) cut into 4 steps; step 1 (delete the checkpoint session and checkpoint_grant, reserve hold point, tests) queued to the building as as_xg977jopw3 behind grant B step 1](docs/report/2026-11/2026-11-05-grant-c-gr-95svkzi4l6-funded-1m-cut-into-4-steps-s-tkvks0by.md) `dc_tctkvks0by` · Pix
+- 2026-11-05 [Grant B gr_b5fyqibfx2 (funded 1M) cut into 4 steps; step 1 (core + migration + tests: steps on grants, funding queues step 1, kickoff session deleted, next step auto-queued) queued to the building as as_vw7fmyi8ew](docs/report/2026-11/2026-11-05-grant-b-gr-b5fyqibfx2-funded-1m-cut-into-4-steps-s-bvyxwt88.md) `dc_96bvyxwt88` · Pix
+- 2026-11-05 [Grant C proposed: gr_95svkzi4l6 (450k): no checkpoint session, card assembles from fork evidence, reserve moves the hold point](docs/report/2026-11/2026-11-05-grant-c-proposed-gr-95svkzi4l6-450k-no-checkpoint-ov1tdtvv.md) `dc_g1ov1tdtvv` · Pix 2
+- 2026-11-05 [Grant B proposed as gr_b5fyqibfx2 (350k): steps in the proposal, funding queues step 1, no kickoff session](docs/report/2026-11/2026-11-05-grant-b-proposed-as-gr-b5fyqibfx2-350k-steps-in-th-k88ngkv0.md) `dc_06k88ngkv0` · Pix 1
+- 2026-11-05 [Outbox refetch fix live on 42edae03: "Loading…" clears in ~0.75 s, 2 fetches per open (was 5 s+, ~10 in 15 s)](docs/report/2026-11/2026-11-05-outbox-refetch-fix-live-on-42edae03-loading-clears-oh77hsgp.md) `dc_tjoh77hsgp` · Pix 1
+- 2026-11-05 [Grant A live check, part 1: the first two forks after 136070d6 raced; the first message (~8.5k tokens) is now the floor for kr_ix5ewvu453](docs/report/2026-11/2026-11-05-grant-a-live-check-part-1-the-first-two-forks-afte-qmqlaq97.md) `dc_1yqmqlaq97` · Pix 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -163,8 +166,15 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-27 [demo-media](docs/skill/2026-10/2026-10-27-demo-media-8jzo79xq.md) `dc_p68jzo79xq` · Lena
 - 2026-10-26 [desk-image](docs/skill/2026-10/2026-10-26-desk-image-93n44plc.md) `dc_br93n44plc` · Root
 
-## wiki (53)
+## wiki (60)
 
+- 2026-11-05 [Grant C: self-assembling checkpoint card + reserve](docs/wiki/2026-11/2026-11-05-grant-c-self-assembling-checkpoint-card-reserve-gbjho18g.md) `dc_nqgbjho18g` · Pix 2
+- 2026-11-05 [Grant B: steps in the proposal, no kickoff session](docs/wiki/2026-11/2026-11-05-grant-b-steps-in-the-proposal-no-kickoff-session-9eo4lz5a.md) `dc_lq9eo4lz5a` · Pix 1
+- 2026-11-05 [Outbox: withdraw, decline and the three tabs](docs/wiki/2026-11/2026-11-05-outbox-withdraw-decline-and-the-three-tabs-hs6gd7h9.md) `dc_a6hs6gd7h9` · Pix 2
+- 2026-11-05 [Grant A: one stable fork prompt per building (gr_9kt5t7w51w)](docs/wiki/2026-11/2026-11-05-grant-a-one-stable-fork-prompt-per-building-gr-9kt-3nckwcta.md) `dc_p73nckwcta` · Pix 2
+- 2026-11-05 [Town health tab (grant D, gr_8bxoy2heif)](docs/wiki/2026-11/2026-11-05-town-health-tab-grant-d-gr-8bxoy2heif-a8uygy5k.md) `dc_2ca8uygy5k` · Pix 3
+- 2026-11-05 [User stats: community engagement per collective (flag dc_r7u6bkaei4)](docs/wiki/2026-11/2026-11-05-user-stats-community-engagement-per-collective-fla-42rbuhxl.md) `dc_k642rbuhxl` · Pix 1
+- 2026-11-05 [Bulletin board in the town square (flag dc_52njv3shp8)](docs/wiki/2026-11/2026-11-05-bulletin-board-in-the-town-square-flag-dc-52njv3sh-xokwfk75.md) `dc_8fxokwfk75` · Pix 3
 - 2026-11-04 [Repo mode: hiding deploy/PR machinery from collectives with no repo](docs/wiki/2026-11/2026-11-04-repo-mode-hiding-deploy-pr-machinery-from-collecti-c5iylz06.md) `dc_b6c5iylz06` · Pix 2
 - 2026-11-04 [Exploration 2026-11-04: grant bookkeeping cost (gr_k69g04wwcg proposed)](docs/wiki/2026-11/2026-11-04-exploration-2026-11-04-grant-bookkeeping-cost-gr-k-j7dltlp4.md) `dc_zlj7dltlp4` · Pix 4
 - 2026-11-04 [Publish to GitHub (gr_30f8obzab8)](docs/wiki/2026-11/2026-11-04-publish-to-github-gr-30f8obzab8-b741sboo.md) `dc_0ub741sboo` · Pix
@@ -188,12 +198,5 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-31 [Goal tree editor UX (flag dc_yn8gl1rmyt)](docs/wiki/2026-10/2026-10-31-goal-tree-editor-ux-flag-dc-yn8gl1rmyt-q0e5a587.md) `dc_hsq0e5a587` · Pix 1
 - 2026-10-31 [Desk sessions dying mid-call (interrupt-now)](docs/wiki/2026-10/2026-10-31-desk-sessions-dying-mid-call-interrupt-now-f959uvlq.md) `dc_jkf959uvlq` · Pix 3
 - 2026-10-31 [Agent teams: forks vs Claude Code agent teams](docs/wiki/2026-10/2026-10-31-agent-teams-forks-vs-claude-code-agent-teams-gxudus5c.md) `dc_qhgxudus5c` · Pix 4
-- 2026-10-30 [Bodies stuck "walking" after a restart](docs/wiki/2026-10/2026-10-30-bodies-stuck-walking-after-a-restart-22yokhgh.md) `dc_xc22yokhgh` · Pix 1
-- 2026-10-30 [Town-level goal tree (design)](docs/wiki/2026-10/2026-10-30-town-level-goal-tree-design-qyrevla1.md) `dc_0xqyrevla1` · Pix 2
-- 2026-10-30 [Board notes: edit and take off (flag dc_4itg2gxfqf)](docs/wiki/2026-10/2026-10-30-board-notes-edit-and-take-off-flag-dc-4itg2gxfqf-lu6zduyk.md) `dc_zxlu6zduyk` · Pix 1
-- 2026-10-29 [One named manager per building: what was cut, what stays](docs/wiki/2026-10/2026-10-29-one-named-manager-per-building-what-was-cut-what-s-q1jvqldy.md) `dc_wlq1jvqldy` · Pix 3
-- 2026-10-29 [Start a collective: create → land flow](docs/wiki/2026-10/2026-10-29-start-a-collective-create-land-flow-6vu3jicj.md) `dc_296vu3jicj` · Pix 1
-- 2026-10-29 [Join request: approval shows live to the requester](docs/wiki/2026-10/2026-10-29-join-request-approval-shows-live-to-the-requester-iz0ddokw.md) `dc_y0iz0ddokw` · Pix 2
-- 2026-10-29 [Town planning: free placement and derived roads](docs/wiki/2026-10/2026-10-29-town-planning-free-placement-and-derived-roads-y2l31lef.md) `dc_79y2l31lef` · Pix 1
 
 All by month: [2026-11](docs/wiki/2026-11/) · [2026-10](docs/wiki/2026-10/)

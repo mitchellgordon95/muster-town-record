@@ -13,7 +13,7 @@ location: "Your Mac (flyctl logged in), any checkout of muster-town with origin/
 createdAt: "2026-11-01T01:46:18.286Z"
 updatedAt: "2026-11-01T01:46:18.286Z"
 ---
-**Please ignore [dc_647d9m37u2](2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-7d9m37u2.md) and the HOLD [dc_y43rdv5zm7](2026-11-01-hold-the-recover-drill-request-dc-647d9m37u2-until-3rdv5zm7.md). This request replaces both.**
+**Please ignore dc_647d9m37u2 and the HOLD dc_y43rdv5zm7. This request replaces both.**
 
 **What:** run the one-command recovery on a throwaway Fly app once, then paste its last line back. It never touches muster-town: the script refuses muster-desks, and it only touches the live app when that app's health is down.
 
@@ -29,7 +29,7 @@ deploy/recover.sh --yes recover-drill    # any time; no top-of-the-hour timing n
 
 **Why:** this is the last key result of grant gr_z2v838adk9 (kr_7svvwv6lr5 and kr_ccca476c37: a dead volume is back with its state within 30 min). Steps 1-2 are live (first-boot restore + empty-town guard, c1cdd23; recover.sh, 022946a) but have never run on Fly. The same run also covers gr_ba0juhlm7n's owed "restore from an hourly copy" drill, so there is no second request.
 
-**What changed since [dc_647d9m37u2](2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-7d9m37u2.md) (PR #239, merged as 7ca64bc):** a copy of town.db carries the Bank's subscription token, so the old drill town would have run sessions on it and written to the live bucket. The drill app now boots with `MUSTER_TOWN_RUNTIME=off`. It runs no sessions, desks, schedules or export, and it never writes to the backup bucket: no hourly run, no catch-up, no pruning. It only does the first-boot restore. Its /api/health shows `"throwaway": true` and `backup.mode: "restore-only"`, and its boot log prints `[server] runtime off (throwaway)`. **Caveat:** for its ~25 min it still accepts live login tokens, because they are in the copy. Proposal gr_6qlj35wnh3 fixes that; this PR does not. The script destroys the app at the end anyway. If the script stops before that point, run `fly apps destroy recover-drill -y`.
+**What changed since dc_647d9m37u2 (PR #239, merged as 7ca64bc):** a copy of town.db carries the Bank's subscription token, so the old drill town would have run sessions on it and written to the live bucket. The drill app now boots with `MUSTER_TOWN_RUNTIME=off`. It runs no sessions, desks, schedules or export, and it never writes to the backup bucket: no hourly run, no catch-up, no pruning. It only does the first-boot restore. Its /api/health shows `"throwaway": true` and `backup.mode: "restore-only"`, and its boot log prints `[server] runtime off (throwaway)`. **Caveat:** for its ~25 min it still accepts live login tokens, because they are in the copy. Proposal gr_6qlj35wnh3 fixes that; this PR does not. The script destroys the app at the end anyway. If the script stops before that point, run `fly apps destroy recover-drill -y`.
 
 **How / what to expect:** you need flyctl logged in to the personal org, node ≥ 22.6, and git ssh or GH_TOKEN for the image build. It takes about 20-25 min and a few cents of Fly time, with no restart of muster.town. The script:
 1. creates the app recover-drill with only the five backup values, a fresh data key and runtime off;

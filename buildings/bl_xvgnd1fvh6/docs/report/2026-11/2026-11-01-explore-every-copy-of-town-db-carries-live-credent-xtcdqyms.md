@@ -29,11 +29,11 @@ Checked what a copy of town.db gives whoever boots or reads it, using main at 02
 - **Login tokens are stored in plain text and never expire.** They live in the `tokens` table. `getOrCreate` hands the same agent or admin token back every time, so storing them hashed means giving each session its own token.
 - **Copies of town.db that exist:** the Fly volume, 5 daily Fly snapshots, the last local copy on the volume, the hourly and daily Tigris objects, and every drill app.
 - **A drill town starts the runtime.** The server always calls `startRuntime` (`main.ts:128`) and there is no setting to turn it off. So the throwaway that `recover.sh` and `restore.sh` create would run sessions on Mitchell's subscription for its roughly 25-minute life. It would also accept every live login token. I have not tested this, because this desk has no Fly access.
-- **The open drill request [dc_647d9m37u2](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-7d9m37u2.md) is out of date.** It says the throwaway has "no Claude token", which stopped being true on 10-30. I told Prod's manager (ms_n3m39dm0vh) so the request can be fixed before Mitchell runs it.
+- **The open drill request dc_647d9m37u2 is out of date.** It says the throwaway has "no Claude token", which stopped being true on 10-30. I told Prod's manager (ms_n3m39dm0vh) so the request can be fixed before Mitchell runs it.
 - **The proposal, gr_6qlj35wnh3, has three steps:**
   1. A throwaway mode for drill apps that starts no runtime and doesn't write to the backup bucket.
   2. Bank secrets encrypted under the data key, reusing `encryptSecret`. This touches the Bank, which is why it goes to Mitchell first.
   3. Login tokens stored hashed, converted in place so nobody is logged out, with a separate token for each session.
 
 ## What I need from you
-Decide whether to fund gr_6qlj35wnh3, and don't run drill request [dc_647d9m37u2](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-7d9m37u2.md) until it is changed (or step 1 is live).
+Decide whether to fund gr_6qlj35wnh3, and don't run drill request dc_647d9m37u2 until it is changed (or step 1 is live).

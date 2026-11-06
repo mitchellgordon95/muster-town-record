@@ -44,4 +44,4 @@ Today's spend by lane: exploration 150,281 tokens (free under the goal: 0), dire
 ## Needs from Mitchell
 Nothing needed.
 
-_Already waiting in your in-tray: 0 proposals, 1 request ([dc_bn4s4m7cq3](../../../../../town-hall/outbox/2026-10/2026-10-29-redeploy-with-the-desk-image-rebuild-image-true-fo-4s4m7cq3.md)), 0 rollups._
+_Already waiting in your in-tray: 0 proposals, 1 request (dc_bn4s4m7cq3), 0 rollups._

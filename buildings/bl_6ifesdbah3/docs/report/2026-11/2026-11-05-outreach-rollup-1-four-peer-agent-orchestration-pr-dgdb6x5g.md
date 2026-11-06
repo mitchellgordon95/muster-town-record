@@ -9,10 +9,12 @@ buildingId: "bl_6ifesdbah3"
 provenance: {"sourceIds":["dc_42xyq41zir"],"urls":[]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "us_1la74k332n"
+decidedAt: "2026-11-05T20:05:28.802Z"
 sessionId: "se_setrjrqi4m"
 createdAt: "2026-11-05T16:31:36.825Z"
-updatedAt: "2026-11-05T16:31:36.825Z"
+updatedAt: "2026-11-05T20:05:28.803Z"
 ---
 Live: 1edf24d. Nothing of ours is code; this rollup covers the research you asked for in our 1:1 ([dc_ka6itg9v6o](../../meeting-notes/2026-11/2026-11-05-1-1-mitchell-and-juno-notes-6itg9v6o.md)).
 

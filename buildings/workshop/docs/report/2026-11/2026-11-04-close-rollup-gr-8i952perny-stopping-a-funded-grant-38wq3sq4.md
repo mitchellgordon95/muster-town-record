@@ -9,14 +9,17 @@ buildingId: "workshop"
 provenance: {"sourceIds":["dc_z8mnleg08h","dc_6s0184hhvv","dc_ihgbot3mq8","dc_wdrq268xfl","dc_inj8i45d10","dc_3dpqecmor5","dc_gtgvqu4ni0","dc_4tev1v32ht","dc_c3h1ra5bgm","dc_08gl0xovmr"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/275","https://github.com/mitchellgordon95/muster-town/pull/280","https://github.com/mitchellgordon95/muster-town/pull/328"]}
 tags: ["rollup","checkpoint"]
 verdict: "stop"
-decision: "pending"
+decision: "approve"
+decisionNote: "Superseded by a decision in meeting \"1:1: Mitchell and Secretary\": The daily digest card in the Town Hall in-tray becomes a one-line row like every other in-tray item (title + date, click opens the full digest doc), instead of"
+decidedBy: "ag_7tiwyqva83"
+decidedAt: "2026-11-05T19:17:33.672Z"
 sessionId: "se_sewtxh7306"
 assignmentId: "as_agrj9j102y"
 costUsd: 2.3579344000000004
 tokens: 117897
 turns: 18
 createdAt: "2026-11-04T19:02:06.272Z"
-updatedAt: "2026-11-04T19:02:06.272Z"
+updatedAt: "2026-11-05T19:17:33.672Z"
 ---
 Live ad27e6f (health read 18:59:22Z). This is the close report for gr_8i952perny: its second 100% checkpoint came up, but the work was done, so I closed it as done instead of holding it (every further session was being charged to it).
 

@@ -32,7 +32,7 @@ I then:
 **Deploy state at 01:46 UTC (server clock):** origin/prod is still at d9f28c5 and does not contain 7ca64bc yet. CI promotes prod after the main check. Because of that, the request asks Mitchell to run `git merge-base --is-ancestor 7ca64bc origin/prod` before starting the drill, since recover.sh builds from prod.
 
 **The request ([dc_6gnk7y16y1](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-nk7y16y1.md)):**
-- Its first line asks Mitchell to ignore [dc_647d9m37u2](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-7d9m37u2.md) and the HOLD [dc_y43rdv5zm7](../../../../../town-hall/outbox/2026-11/2026-11-01-hold-the-recover-drill-request-dc-647d9m37u2-until-3rdv5zm7.md).
+- Its first line asks Mitchell to ignore dc_647d9m37u2 and the HOLD dc_y43rdv5zm7.
 - It keeps the original body, minus the "no Claude token" claim and the top-of-the-hour timing.
 - It says the drill town runs no sessions and never writes to the bucket, and that its health shows `throwaway: true` and `backup.mode: "restore-only"`.
 - It says the drill town still accepts live login tokens for its ~25 min, and that gr_6qlj35wnh3 fixes this.
@@ -42,7 +42,7 @@ I then:
 - **as_v31d893zqr** (gr_ba0juhlm7n step 2, the README Drill row);
 - the parked drill continuation **as_6ruhd6l16h** (resumes 11-02 01:20Z).
 
-Both should check [dc_6gnk7y16y1](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-nk7y16y1.md) instead of [dc_647d9m37u2](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-7d9m37u2.md). Neither should file another request.
+Both should check [dc_6gnk7y16y1](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-nk7y16y1.md) instead of dc_647d9m37u2. Neither should file another request.
 
 **For proposal gr_6qlj35wnh3:** step 1 (throwaway mode) is covered by #239 / 7ca64bc, so Mitchell can count it when he decides the proposal.
 

@@ -9,14 +9,16 @@ buildingId: "bl_hzjw0z0zlz"
 provenance: {"sourceIds":["dc_t236744daz","dc_wv8jp5o5jj","dc_tmvfyiako2","dc_snzjnokp45","dc_i39wsqtnj4","dc_1gpb1buwmr"],"urls":[]}
 tags: ["rollup","checkpoint"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "us_1la74k332n"
+decidedAt: "2026-11-05T20:01:06.084Z"
 sessionId: "se_q673vjtktc"
 assignmentId: "as_r8wbdgcn10"
 costUsd: 2.1505517
 tokens: 107528
 turns: 20
 createdAt: "2026-11-04T18:57:06.846Z"
-updatedAt: "2026-11-04T18:57:06.846Z"
+updatedAt: "2026-11-05T20:01:06.084Z"
 ---
 Live: **0af4874** (server started 2026-11-04 18:47:03Z). It contains the tour (eec2401) and the join-funnel counts (c5e0005a), not the never-run work (48d88720): main's deploy of it was in flight when this was filed, and a newer push restarted main's CI, so it lands with that run. No pictures: the live-check screenshots need an upload tool I don't have.
 
@@ -74,4 +76,4 @@ Spend today by lane: exploration 68,642 tokens (free under the goal 3,935,192); 
 1. Continue this checkpoint with the 40,000-token top-up (the parked live check on desktop and phone, then the close), or cut it: the code is on main and deploys either way; only the live check and the close are missing.
 2. A word on the grant's stop condition: do you want never-run collectives labelled "Not started yet" (what shipped) or hidden from the homepage altogether? If hidden, say so and the top-up does that instead, as one change.
 
-_Already waiting in your in-tray: 0 proposals, 4 requests ([dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md), [dc_ulla3hu21p](../../../../../town-hall/outbox/2026-11/2026-11-01-add-on-to-the-join-round-trip-dc-mgcbv3kqnd-after-la3hu21p.md), [dc_fvlt8xajnz](../../../../../town-hall/outbox/2026-11/2026-11-02-add-on-to-the-join-round-trip-dc-mgcbv3kqnd-after-lt8xajnz.md), [dc_wtz7ltq8hf](../../../../../town-hall/outbox/2026-11/2026-11-03-add-on-to-the-join-round-trip-dc-mgcbv3kqnd-let-in-z7ltq8hf.md)), 0 rollups._
+_Already waiting in your in-tray: 0 proposals, 4 requests ([dc_mgcbv3kqnd](../../../../../town-hall/outbox/2026-10/2026-10-31-one-real-join-round-trip-a-never-granted-github-ac-cbv3kqnd.md), dc_ulla3hu21p, dc_fvlt8xajnz, [dc_wtz7ltq8hf](../../../../../town-hall/outbox/2026-11/2026-11-03-add-on-to-the-join-round-trip-dc-mgcbv3kqnd-let-in-z7ltq8hf.md)), 0 rollups._

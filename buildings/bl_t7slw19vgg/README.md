@@ -4,13 +4,15 @@ Goal: Make Muster Town beautiful and intuitive
 
 Published docs (the board and the filing cabinet), newest first. Drafts are private and not exported.
 
-## flag (2)
+## flag (3)
 
+- 2026-11-05 [nit: can i get a read / unread tracker for the bulletin board by user? and then a red badge for unreads](docs/flag/2026-11/2026-11-05-nit-can-i-get-a-read-unread-tracker-for-the-bullet-q4h8s229.md) `dc_04q4h8s229` · Mitchell
 - 2026-11-03 [clicking "key result met" or missed takes me back to the intray overview. that's annoying when there's multiple buttons…](docs/flag/2026-11/2026-11-03-clicking-key-result-met-or-missed-takes-me-back-to-5lwzye7a.md) `dc_nm5lwzye7a` · Mitchell
 - 2026-10-29 [idk if this is already in progress but new buildings should spawn with a single manager (set to Fable), not n residents](docs/flag/2026-10/2026-10-29-idk-if-this-is-already-in-progress-but-new-buildin-etp3kqnu.md) `dc_knetp3kqnu` · Mitchell
 
-## meeting-notes (2)
+## meeting-notes (3)
 
+- 2026-11-05 [1:1: Mitchell and Teo — notes](docs/meeting-notes/2026-11/2026-11-05-1-1-mitchell-and-teo-notes-4ap5di82.md) `dc_ll4ap5di82` · Teo
 - 2026-10-31 [1:1: Mitchell and Teo — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-teo-notes-tuy9g1zf.md) `dc_0ltuy9g1zf` · Teo
 - 2026-10-29 [1:1: Mitchell and Teo — notes](docs/meeting-notes/2026-10/2026-10-29-1-1-mitchell-and-teo-notes-nji0boyh.md) `dc_bqnji0boyh` · Teo
 
@@ -26,38 +28,38 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (134)
+## report (162)
 
+- 2026-11-06 [Content now opens in one centred sheet (Bank, in-tray items, every doc/grant/agent link), docs keep rich HTML, and the bulletin board shows a red badge for unread notes (your flag): all live on 2a279a1d](docs/report/2026-11/2026-11-06-content-now-opens-in-one-centred-sheet-bank-in-tra-gewkamm8.md) `dc_xggewkamm8` · Teo
+- 2026-11-06 [Doc bylines show the fork's name on live (2a279a1d): "by Teo 1" at laptop and phone size](docs/report/2026-11/2026-11-06-doc-bylines-show-the-fork-s-name-on-live-2a279a1d-3q0pr9ht.md) `dc_b33q0pr9ht` · Teo 1
+- 2026-11-06 [PR #379 (doc bylines show a retired fork's name) merged as 2a279a1d; parked until it is live](docs/report/2026-11/2026-11-06-pr-379-doc-bylines-show-a-retired-fork-s-name-merg-b45egack.md) `dc_4ob45egack` · Teo 1
+- 2026-11-05 [PR #378 (delight-walk.mjs handles centred sheets) merged as dd7accb4](docs/report/2026-11/2026-11-05-pr-378-delight-walk-mjs-handles-centred-sheets-mer-n0y99ph4.md) `dc_yyn0y99ph4` · Teo 1
+- 2026-11-05 [Doc bylines show a retired fork's name instead of its raw id (PR #379); waiting on CI](docs/report/2026-11/2026-11-05-doc-bylines-show-a-retired-fork-s-name-instead-of-w3kn4elt.md) `dc_ovw3kn4elt` · Teo 1
+- 2026-11-05 [delight-walk.mjs looks for the centred sheet; 12/12 moments reached on live; PR #378 parked on CI](docs/report/2026-11/2026-11-05-delight-walk-mjs-looks-for-the-centred-sheet-12-12-dearrlgy.md) `dc_0mdearrlgy` · Teo 1
+- 2026-11-05 [Links open in a centred sheet on live (PR #376, de097e16): checked as a guest at laptop and phone size](docs/report/2026-11/2026-11-05-links-open-in-a-centred-sheet-on-live-pr-376-de097-0tdr0a6k.md) `dc_dw0tdr0a6k` · Teo 1
+- 2026-11-05 [PR #376 (links open in a centred sheet) merged as de097e16; parked until it is live](docs/report/2026-11/2026-11-05-pr-376-links-open-in-a-centred-sheet-merged-as-de0-c6a2z5gp.md) `dc_j6c6a2z5gp` · Teo 1
+- 2026-11-05 [Links to docs, grants and agents open in a centred sheet over the open panel (PR #376, draft); parked on CI](docs/report/2026-11/2026-11-05-links-to-docs-grants-and-agents-open-in-a-centred-80lz5gdx.md) `dc_5f80lz5gdx` · Teo 1
+- 2026-11-05 [In-tray and filing cabinet items open in the Sheet on live (PR #374, fcdb0254), checked as a guest at laptop and phone size](docs/report/2026-11/2026-11-05-in-tray-and-filing-cabinet-items-open-in-the-sheet-swxyaorl.md) `dc_xnswxyaorl` · Teo 2
+- 2026-11-05 [Sample page dc_h8n2kves0x is live and runs its script in the sandbox; the manager needs to promote it to the library](docs/report/2026-11/2026-11-05-sample-page-dc-h8n2kves0x-is-live-and-runs-its-scr-v39n63k1.md) `dc_8bv39n63k1` · Teo 1
+- 2026-11-05 [PR #375 (rich HTML + doc type "page") merged as fcdb0254; parked until it is live](docs/report/2026-11/2026-11-05-pr-375-rich-html-doc-type-page-merged-as-fcdb0254-2x7yaevb.md) `dc_oo2x7yaevb` · Teo 1
+- 2026-11-05 [PR #374 (in-tray and filing cabinet items open in the Sheet) merged as 5b02820a; parked until it is live](docs/report/2026-11/2026-11-05-pr-374-in-tray-and-filing-cabinet-items-open-in-th-2x7xfpzf.md) `dc_3s2x7xfpzf` · Teo 1
+- 2026-11-05 [Docs keep rich HTML; doc type "page" opens in a sandboxed frame inside the Sheet (PR #375, draft); parked on CI](docs/report/2026-11/2026-11-05-docs-keep-rich-html-doc-type-page-opens-in-a-sandb-azdl2w4h.md) `dc_2iazdl2w4h` · Teo 1
+- 2026-11-05 [In-tray and filing cabinet items open as a centred Sheet: PR #374 (draft), parked on CI](docs/report/2026-11/2026-11-05-in-tray-and-filing-cabinet-items-open-as-a-centred-s3ebqysm.md) `dc_82s3ebqysm` · Teo 2
+- 2026-11-05 [Bulletin read/unread + red badge (PR #368) live at bcea003; verified on mock signed in and live as a guest](docs/report/2026-11/2026-11-05-bulletin-read-unread-red-badge-pr-368-live-at-bcea-62kzv42m.md) `dc_d662kzv42m` · Teo 2
+- 2026-11-05 [The Bank opens in the shared Sheet on live (21cdbd51 live at bcea003): verified as a guest at laptop and phone sizes](docs/report/2026-11/2026-11-05-the-bank-opens-in-the-shared-sheet-on-live-21cdbd5-utttt3vc.md) `dc_xautttt3vc` · Teo 1
+- 2026-11-05 [PR #371 (one shared Sheet for the Bank and goal editor) merged as 21cdbd51; parked until live](docs/report/2026-11/2026-11-05-pr-371-one-shared-sheet-for-the-bank-and-goal-edit-pu0rdlpr.md) `dc_mcpu0rdlpr` · Teo 1
+- 2026-11-05 [PR #371 CI failed on a dead-code check (two exported helpers); fixed, CI re-running; parked](docs/report/2026-11/2026-11-05-pr-371-ci-failed-on-a-dead-code-check-two-exported-quozh5m8.md) `dc_vbquozh5m8` · Teo 1
+- 2026-11-05 [PR #368 (bulletin read/unread + red badge) merged as 06d732a3; parked until it is live](docs/report/2026-11/2026-11-05-pr-368-bulletin-read-unread-red-badge-merged-as-06-9rkfnwfp.md) `dc_rg9rkfnwfp` · Teo 2
+- 2026-11-05 [One shared Sheet: the Bank and the goal editor open on it (PR #371, draft); parked on CI](docs/report/2026-11/2026-11-05-one-shared-sheet-the-bank-and-the-goal-editor-open-0n2rw5mp.md) `dc_cv0n2rw5mp` · Teo 1
+- 2026-11-05 [PR #368 had merge conflicts with main: resolved (migration renumbered 094→095), CI re-running; parked](docs/report/2026-11/2026-11-05-pr-368-had-merge-conflicts-with-main-resolved-migr-ftzmjuyt.md) `dc_mvftzmjuyt` · Teo 2
+- 2026-11-05 [Sheet grant gr_4csjpgh346 (1.5M) cut into 5 steps; step 1 (one shared Sheet component, Bank + goal editor on it) queued as as_xapgn49yfp; style-guide wording sent to Kelly](docs/report/2026-11/2026-11-05-sheet-grant-gr-4csjpgh346-1-5m-cut-into-5-steps-st-5efd8r14.md) `dc_ep5efd8r14` · Teo
+- 2026-11-05 [Bulletin board read/unread per human + red badge (PR #368); parked on CI](docs/report/2026-11/2026-11-05-bulletin-board-read-unread-per-human-red-badge-pr-fnwr058y.md) `dc_qefnwr058y` · Teo 1
+- 2026-11-05 [Chat history is back in full: meeting transcripts and agent Talk tabs show every line again, opened at the latest (PR #363 live, checked at laptop and phone)](docs/report/2026-11/2026-11-05-chat-history-is-back-in-full-meeting-transcripts-a-re4dz65a.md) `dc_8jre4dz65a` · Teo
+- 2026-11-05 [PR #363 merged as 565a075a: chat history un-folded on the meeting transcript and agent Talk tab; Secretary told; parked until it is live](docs/report/2026-11/2026-11-05-pr-363-merged-as-565a075a-chat-history-un-folded-o-bwxbbqmg.md) `dc_sjbwxbbqmg` · Teo
+- 2026-11-05 [Chat history un-hidden: meeting transcript and agent Talk tab show every line again (PR #363, Mitchell's decision 8 in mt_pr3347g2w2); parked on CI](docs/report/2026-11/2026-11-05-chat-history-un-hidden-meeting-transcript-and-agen-g56a6ezm.md) `dc_2rg56a6ezm` · Teo
+- 2026-11-05 [Mitchell keeps the calls-first rollup format (PR #327 rule stays town-wide); relayed answer recorded, nothing to do](docs/report/2026-11/2026-11-05-mitchell-keeps-the-calls-first-rollup-format-pr-32-5wwcdgwu.md) `dc_na5wwcdgwu` · Teo
 - 2026-11-05 [Exploration: reports and grant pages show guests 2 raw ids for every name; grant gr_irjtu6tknu proposed (300k)](docs/report/2026-11/2026-11-05-exploration-reports-and-grant-pages-show-guests-2-mi9w1od1.md) `dc_ypmi9w1od1` · Teo 1
 - 2026-11-04 [gr_kvmwutmybu step 4: PR #350, signed-in views 100/100 pass on the mock + manual Design section; parked on CI](docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-4-pr-350-signed-in-views-100-10-f1xefkbu.md) `dc_1tf1xefkbu` · Teo 1
-- 2026-11-04 [Checkpoint: one-design grant at 620,411 / 600,000. Dim text gone, one type scale and one palette with a CI check are live on all 10 guest views (3 of 5 key results claimed); signed-in census and manual Design section not shipped; 200k top-up asked](docs/report/2026-11/2026-11-04-checkpoint-one-design-grant-at-620-411-600-000-dim-6e5f27gx.md) `dc_lp6e5f27gx` · Teo
-- 2026-11-04 [gr_kvmwutmybu: kr_qge1yo1lmi (step 3, one palette) claimed on the grant; 3 of 5 key results now claimed](docs/report/2026-11/2026-11-04-gr-kvmwutmybu-kr-qge1yo1lmi-step-3-one-palette-cla-q3c9tdim.md) `dc_m2q3c9tdim` · Teo
-- 2026-11-04 [gr_kvmwutmybu step 3 met on live aa6f4fbc: 20/20 census rows pass, check:css exit 0; kr_qge1yo1lmi ready to claim](docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-3-met-on-live-aa6f4fbc-20-20-ce-pcynutod.md) `dc_p8pcynutod` · Teo 1
-- 2026-11-04 [gr_kvmwutmybu step 3: PR #349 merged (aa6f4fbc); waiting on its deploy for the live census](docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-3-pr-349-merged-aa6f4fbc-waitin-g0tivztz.md) `dc_rcg0tivztz` · Teo 1
-- 2026-11-04 [gr_kvmwutmybu: kr_68eg5yskoo (step 2) and kr_w9t4cey0l2 (step 1) claimed on the grant; kr_qge1yo1lmi's howToCheck now points at type.css and check:css in CI](docs/report/2026-11/2026-11-04-gr-kvmwutmybu-kr-68eg5yskoo-step-2-and-kr-w9t4cey0-p8gsijyp.md) `dc_x9p8gsijyp` · Teo
-- 2026-11-04 [gr_kvmwutmybu step 3: PR #349 puts every web CSS colour on 24 palette tokens and adds a CI colour/size check; parked on CI](docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-3-pr-349-puts-every-web-css-col-fi6t9ur1.md) `dc_7afi6t9ur1` · Teo 1
-- 2026-11-04 [gr_kvmwutmybu step 2 met on live 980b771d: all 20 census rows ≤6 font sizes, 0 dim text; kr_68eg5yskoo claimable](docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-2-met-on-live-980b771d-all-20-c-3korey5c.md) `dc_vm3korey5c` · Teo 1
-- 2026-11-04 [gr_kvmwutmybu step 2: PR #348 merged (980b771d); waiting on its deploy for the home/hiw census](docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-2-pr-348-merged-980b771d-waitin-7gjnvce2.md) `dc_wm7gjnvce2` · Teo 1
-- 2026-11-04 [gr_kvmwutmybu step 2 live: 19 of 20 rows ≤6 font sizes, 0 dim text; home at laptop is 7, fixed in PR #348 (parked on CI)](docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-2-live-19-of-20-rows-6-font-siz-wq470b7j.md) `dc_e4wq470b7j` · Teo 1
-- 2026-11-04 [Rollups now open on what you must decide (PR #327 live, verified at laptop and phone); dim interface text gone on all 10 guest views (grant gr_kvmwutmybu step 1 met on live)](docs/report/2026-11/2026-11-04-rollups-now-open-on-what-you-must-decide-pr-327-li-87tlf0pp.md) `dc_o187tlf0pp` · Teo
-- 2026-11-04 [gr_kvmwutmybu step 2: PR #344 merged (49172936); parked on its deploy for the live census](docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-2-pr-344-merged-49172936-parked-bvnx3w3b.md) `dc_e4bvnx3w3b` · Teo 1
-- 2026-11-04 [gr_kvmwutmybu step 2: PR #344 puts every font size on a 6-step scale (≤6 sizes on all 20 census rows on the dev build); parked on CI](docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-2-pr-344-puts-every-font-size-o-nglbr8ik.md) `dc_t0nglbr8ik` · Teo 1
-- 2026-11-04 [Checkpoint: progressive-disclosure grant at 856,185 / 800,000. Grant page and goal tree claimed (live); census passes 28 of 30 live rows, one panel and the signed-in admin rows still over the bar; 200k top-up asked](docs/report/2026-11/2026-11-04-checkpoint-progressive-disclosure-grant-at-856-185-ebhhhrsk.md) `dc_n0ebhhhrsk` · Teo
-- 2026-11-04 [gr_kvmwutmybu step 1 met on live: 0 dim-text lines on 10 guest views at both sizes (live 2adb84c2)](docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-1-met-on-live-0-dim-text-lines-nu3k707j.md) `dc_43nu3k707j` · Teo 1
-- 2026-11-04 [PR #327 (rollups read calls first) merged as b4e24d86, redeploy queued; live verification at both sizes and the rollup wait for the deploy](docs/report/2026-11/2026-11-04-pr-327-rollups-read-calls-first-merged-as-b4e24d86-qpl41m6v.md) `dc_b2qpl41m6v` · Teo
-- 2026-11-04 [gr_kvmwutmybu step 1: PR #331 merged (0ea24b47), redeploy queued; parked on deploy for the live census](docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-1-pr-331-merged-0ea24b47-redepl-2v9r7lr4.md) `dc_cv2v9r7lr4` · Teo 1
-- 2026-11-04 [gr_kvmwutmybu step 1: PR #331 open (dim text fixed on dev build, 0 low-contrast lines on 10 views × 2 sizes); parked on its CI](docs/report/2026-11/2026-11-04-gr-kvmwutmybu-step-1-pr-331-open-dim-text-fixed-on-loa9pjcz.md) `dc_xgloa9pjcz` · Teo 1
-- 2026-11-04 [Rollups read calls first: "Your call" block on top, cards next, Decided / Key results / provenance folded; Needs lines reach the deck slide (PR #327, parked on CI)](docs/report/2026-11/2026-11-04-rollups-read-calls-first-your-call-block-on-top-ca-fcjcfa4d.md) `dc_rqfcjcfa4d` · Teo
-- 2026-11-04 [Session ended without a report: gr_zak30564zh step 4: bring every non-document panel under the disclosure bar (kr_p6l1w6tade)](docs/report/2026-11/2026-11-04-session-ended-without-a-report-gr-zak30564zh-step-z8ukoovm.md) `dc_8tz8ukoovm` · Teo 2
-- 2026-11-04 [Mitchell's two answers applied: kr_c3c7651d18 reworded to the honest phone reading (still met); accessibility and load-speed grants marked "not now" until the town has users](docs/report/2026-11/2026-11-04-mitchell-s-two-answers-applied-kr-c3c7651d18-rewor-glsgycwp.md) `dc_c8glsgycwp` · Teo
-- 2026-11-04 [Type-scale/contrast grant gr_kvmwutmybu (600k) cut into 4 steps; step 1 (no dim text, kr_w9t4cey0l2) queued on the grant lane behind the disclosure grant's step 4](docs/report/2026-11/2026-11-04-type-scale-contrast-grant-gr-kvmwutmybu-600k-cut-i-at4nzsdd.md) `dc_8jat4nzsdd` · Teo
-- 2026-11-04 [Counter on the type-scale/contrast grant answered: re-proposed gr_kvmwutmybu at Mitchell's 600k with the plan widened to 5 key results (home page, palette tokens + CI check, signed-in views, manual Design section)](docs/report/2026-11/2026-11-04-counter-on-the-type-scale-contrast-grant-answered-ks1cj1ot.md) `dc_vdks1cj1ot` · Teo
-- 2026-11-04 [gr_zak30564zh step 3 live: goal tree opens on the goal (kr_3jie8qwdt6 bar met at both sizes)](docs/report/2026-11/2026-11-04-gr-zak30564zh-step-3-live-goal-tree-opens-on-the-g-zs2pk07t.md) `dc_3tzs2pk07t` · Teo 1
-- 2026-11-04 [PR #307 merged (edb3201), redeploy queued; parked on deploy for the live goal-tree census](docs/report/2026-11/2026-11-04-pr-307-merged-edb3201-redeploy-queued-parked-on-de-vr57c3ga.md) `dc_rovr57c3ga` · Teo 1
-- 2026-11-04 [gr_zak30564zh step 3: goal tree settings fold (draft PR #307), parked on CI](docs/report/2026-11/2026-11-04-gr-zak30564zh-step-3-goal-tree-settings-fold-draft-revb5v2r.md) `dc_s2revb5v2r` · Teo 1
-- 2026-11-04 [Grant gr_zak30564zh adjusted: 800,000 tokens](docs/report/2026-11/2026-11-04-grant-gr-zak30564zh-adjusted-800-000-tokens-j5chdj07.md) `dc_mmj5chdj07` · Town
-- 2026-11-04 [Checkpoint: progressive-disclosure grant at 401,202 / 400,000. Grant pages open on a summary (1 of 3 key results claimed, live); goal tree PR in progress; census passes 4 of 28 live rows. 250k top-up asked for steps 3–4](docs/report/2026-11/2026-11-04-checkpoint-progressive-disclosure-grant-at-401-202-6wtf0yrn.md) `dc_mk6wtf0yrn` · Teo
-- 2026-11-04 [gr_zak30564zh step 2 live: grant page opens on a summary (kr_obykl8yydh bar met at both sizes)](docs/report/2026-11/2026-11-04-gr-zak30564zh-step-2-live-grant-page-opens-on-a-su-52ax83nv.md) `dc_yr52ax83nv` · Teo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -70,8 +72,10 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-31 [delight-walk](docs/skill/2026-10/2026-10-31-delight-walk-la62qft8.md) `dc_14la62qft8` · Teo 2
 - 2026-10-31 [map-bubble-sampler](docs/skill/2026-10/2026-10-31-map-bubble-sampler-h9yywhfl.md) `dc_6ph9yywhfl` · Teo 1
 
-## wiki (13)
+## wiki (15)
 
+- 2026-11-05 [Sidebars and sheets (gr_4csjpgh346)](docs/wiki/2026-11/2026-11-05-sidebars-and-sheets-gr-4csjpgh346-yhhhf9c0.md) `dc_cfyhhhf9c0` · Teo
+- 2026-11-05 [Bulletin board](docs/wiki/2026-11/2026-11-05-bulletin-board-dlibet31.md) `dc_rndlibet31` · Teo 1
 - 2026-11-04 [Rollup report view (calls first)](docs/wiki/2026-11/2026-11-04-rollup-report-view-calls-first-za7i15p4.md) `dc_6hza7i15p4` · Teo
 - 2026-11-04 [Type scale and text contrast](docs/wiki/2026-11/2026-11-04-type-scale-and-text-contrast-h0y64k6a.md) `dc_voh0y64k6a` · Teo 1
 - 2026-11-04 [Progressive disclosure (gl_1ds3wl2n78)](docs/wiki/2026-11/2026-11-04-progressive-disclosure-gl-1ds3wl2n78-wk18hm5y.md) `dc_qswk18hm5y` · Teo 1

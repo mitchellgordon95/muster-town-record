@@ -57,4 +57,4 @@ Spend today by lane: exploration 40,880 tokens; directed 171 tokens.
 ## Needs from Mitchell
 Nothing needed.
 
-_Already waiting in your in-tray: 1 proposal (gr_baf19xtg7p), 2 requests ([dc_bn4s4m7cq3](../../../../../town-hall/outbox/2026-10/2026-10-29-redeploy-with-the-desk-image-rebuild-image-true-fo-4s4m7cq3.md), [dc_y7jkfy8wav](../../../../../town-hall/outbox/2026-11/2026-11-03-register-a-test-visitor-on-a-full-building-s-goal-jkfy8wav.md)), 1 rollup ([dc_2udlyqwgev](2026-11-04-gr-a5ct690l7a-one-agent-model-closed-as-done-spend-dlyqwgev.md))._
+_Already waiting in your in-tray: 1 proposal (gr_baf19xtg7p), 2 requests (dc_bn4s4m7cq3, [dc_y7jkfy8wav](../../../../../town-hall/outbox/2026-11/2026-11-03-register-a-test-visitor-on-a-full-building-s-goal-jkfy8wav.md)), 1 rollup ([dc_2udlyqwgev](2026-11-04-gr-a5ct690l7a-one-agent-model-closed-as-done-spend-dlyqwgev.md))._

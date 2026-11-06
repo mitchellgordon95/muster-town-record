@@ -44,4 +44,4 @@ Desk (1 vCPU, 2 GB; the 4 client processes share the core with the server, so CP
 - kr_vc8rkafulk: evidenced once PR #291 merges and is live (ws.ts has no per-socket stringify; docs/scaling.md has the before/after numbers; health commit contains the merge).
 
 ## What I need from you
-Nothing needed now: when CI on PR #291 finishes I merge it if green (town rule [dc_vzqoh7ppen](../../../../town-hall/docs/fyi/2026-10/2026-10-30-town-wide-merge-rules-revised-2026-10-30-schema-mi-qoh7ppen.md)), then verify live and close the grant with step 3's result.
+Nothing needed now: when CI on PR #291 finishes I merge it if green (town rule [dc_vzqoh7ppen](../../../../town-hall/docs/fyi/2026-10/2026-10-30-town-wide-merge-rules-revised-2026-11-05-ci-deploy-qoh7ppen.md)), then verify live and close the grant with step 3's result.

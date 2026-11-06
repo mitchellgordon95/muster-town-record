@@ -52,4 +52,4 @@ Today's spend by lane: exploration 0 tokens (free under the goal: 0); directed: 
 ## Needs from Mitchell
 Nothing needed beyond the checkpoint decision that is already in your in-tray with this report.
 
-_Already waiting in your in-tray: 1 proposal (gr_wkimo647v2), 1 request ([dc_bn4s4m7cq3](../../../../../town-hall/outbox/2026-10/2026-10-29-redeploy-with-the-desk-image-rebuild-image-true-fo-4s4m7cq3.md)), 0 rollups._
+_Already waiting in your in-tray: 1 proposal (gr_wkimo647v2), 1 request (dc_bn4s4m7cq3), 0 rollups._

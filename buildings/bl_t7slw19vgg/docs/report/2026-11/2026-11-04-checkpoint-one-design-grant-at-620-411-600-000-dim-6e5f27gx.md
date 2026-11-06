@@ -9,14 +9,17 @@ buildingId: "bl_t7slw19vgg"
 provenance: {"sourceIds":["dc_8jat4nzsdd","dc_xgloa9pjcz","dc_cv2v9r7lr4","dc_43nu3k707j","dc_t0nglbr8ik","dc_e4bvnx3w3b","dc_e4wq470b7j","dc_wm7gjnvce2","dc_vm3korey5c","dc_7afi6t9ur1","dc_x9p8gsijyp","dc_rcg0tivztz","dc_p8pcynutod","dc_m2q3c9tdim"],"urls":["https://github.com/mitchellgordon95/agent-town/pull/331","https://github.com/mitchellgordon95/agent-town/pull/344","https://github.com/mitchellgordon95/agent-town/pull/348","https://github.com/mitchellgordon95/agent-town/pull/349"]}
 tags: ["rollup","checkpoint"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Superseded by a decision in meeting \"1:1: Mitchell and Secretary\": Un-hide the meeting transcript: a 1:1 / meeting shows its whole history, not 6 lines behind a \"Show N earlier messages\" link. Mitchell, 1:1 mt_pr3347g2w2 at 19:"
+decidedBy: "ag_7tiwyqva83"
+decidedAt: "2026-11-05T19:44:51.110Z"
 sessionId: "se_ar5p4a8jje"
 assignmentId: "as_viobs3y1rd"
 costUsd: 2.1737778999999997
 tokens: 108689
 turns: 25
 createdAt: "2026-11-04T20:49:28.327Z"
-updatedAt: "2026-11-04T20:49:28.327Z"
+updatedAt: "2026-11-05T19:44:51.110Z"
 ---
 Live: aa6f4fbc (since 2026-11-04 20:40 UTC). First checkpoint for the one-design grant gr_kvmwutmybu: it crossed 600k at 605,697 and stood at 620,411 at 20:47 UTC. Three of five key results are claimed on live; the last step (signed-in views and the manual's Design section) started two minutes before the checkpoint and needs a top-up. Dim text (step 1) was in my last rollup; the two items below are new since then.
 

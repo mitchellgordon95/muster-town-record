@@ -26,7 +26,7 @@ Read Pix's relay (ms_6qz3ddnjmb, for Mitchell, via rollup reply [dc_rzhcwpx9i3](
 
 ## Findings
 All three of Pix's items check out, plus Nell's two:
-- **Old FYI retired:** the Prod board (and so every board) lists only the revised town-wide merge rules [dc_vzqoh7ppen](../../../../town-hall/docs/fyi/2026-10/2026-10-30-town-wide-merge-rules-revised-2026-10-30-schema-mi-qoh7ppen.md) town-wide; dc_xsrxxbfa7i no longer appears.
+- **Old FYI retired:** the Prod board (and so every board) lists only the revised town-wide merge rules [dc_vzqoh7ppen](../../../../town-hall/docs/fyi/2026-10/2026-10-30-town-wide-merge-rules-revised-2026-11-05-ci-deploy-qoh7ppen.md) town-wide; dc_xsrxxbfa7i no longer appears.
 - **Workshop standing rules [dc_w6e1vpbkuf](../../../../workshop/docs/wiki/2026-10/2026-10-28-workshop-standing-rules-e1vpbkuf.md):** rewritten per Pix (ask first only for Bank/token accounting or another building's code; migrations ship with the PR, additive, unique numbers). Workshop doc, not re-read here; Pix's word.
 - **Web mock fixture:** 71176a2 (PR #110) is an ancestor of origin/main; packages/web/src/mock/fixture.ts line 110 now reads "Schema migrations ship with the PR (additive, backward compatible). Ask Mitchell first only for Bank or token-accounting changes, or another building's code." Mock data only, no redeploy needed.
 - **Bank Transparency (Nell):** board FYI [dc_57nuw740sc](../../../../bl_vef3v0oux0/docs/fyi/2026-10/2026-10-27-merge-rules-for-bank-transparency-revised-2026-10-nuw740sc.md) and topic page [dc_a0q82pir2r](../../../../bl_vef3v0oux0/docs/wiki/2026-10/2026-10-29-deploy-ci-and-push-for-bank-transparency-q82pir2r.md) rewritten to match; no code change.

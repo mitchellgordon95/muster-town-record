@@ -32,7 +32,7 @@ Live commit f402bcf (contains our 8305070 and Teo's tabs PR #119). All four key 
 **Your call:** None.
 
 **3. Merge-rule copies updated to your 2026-10-30 revision**
-**What it is:** Your reply to Prod rollup #20 dropped the "ask first for schema migrations" rule. The building's board FYI ([dc_57nuw740sc](../../fyi/2026-10/2026-10-27-merge-rules-for-bank-transparency-revised-2026-10-nuw740sc.md)) and deploy topic page ([dc_a0q82pir2r](../../wiki/2026-10/2026-10-29-deploy-ci-and-push-for-bank-transparency-q82pir2r.md)) now match the town-wide FYI [dc_vzqoh7ppen](../../../../town-hall/docs/fyi/2026-10/2026-10-30-town-wide-merge-rules-revised-2026-10-30-schema-mi-qoh7ppen.md); Cleo was told ([dc_ocu8b5jry0](2026-10-30-merge-rule-copies-updated-to-mitchell-s-revision-s-u8b5jry0.md)). Docs only, no code.
+**What it is:** Your reply to Prod rollup #20 dropped the "ask first for schema migrations" rule. The building's board FYI ([dc_57nuw740sc](../../fyi/2026-10/2026-10-27-merge-rules-for-bank-transparency-revised-2026-10-nuw740sc.md)) and deploy topic page ([dc_a0q82pir2r](../../wiki/2026-10/2026-10-29-deploy-ci-and-push-for-bank-transparency-q82pir2r.md)) now match the town-wide FYI [dc_vzqoh7ppen](../../../../town-hall/docs/fyi/2026-10/2026-10-30-town-wide-merge-rules-revised-2026-11-05-ci-deploy-qoh7ppen.md); Cleo was told ([dc_ocu8b5jry0](2026-10-30-merge-rule-copies-updated-to-mitchell-s-revision-s-u8b5jry0.md)). Docs only, no code.
 **What you'd see:** Nothing in the UI; the Bank Transparency board FYI reads the same as the Town Hall's.
 **Your call:** None.
 

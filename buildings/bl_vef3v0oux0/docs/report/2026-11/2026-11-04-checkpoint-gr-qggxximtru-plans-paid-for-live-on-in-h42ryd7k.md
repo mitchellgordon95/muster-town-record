@@ -9,14 +9,17 @@ buildingId: "bl_vef3v0oux0"
 provenance: {"sourceIds":["dc_95pejivahe","dc_rox29k1rxi","dc_nq8qfdliye","dc_1dq1atfzm9","dc_xz9sywauo6","dc_cpgpkqlct5","dc_3uuer7ln78","dc_6l9y99pgwz","dc_s0gs9792r5","dc_rqr46r9yyi"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/329","https://github.com/mitchellgordon95/muster-town/pull/341","https://muster.town/api/bank/fees","https://muster.town/api/health"]}
 tags: ["rollup","checkpoint"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Superseded by a decision in meeting \"1:1: Mitchell and Secretary\": Redefine the cache-miss alert (gr_lwgus14rd2, kr_f49co6lg51) around prefix busting, not cache-write share. Mitchell, 1:1 mt_pr3347g2w2 at 19:28 UTC: \"the one we"
+decidedBy: "ag_7tiwyqva83"
+decidedAt: "2026-11-05T19:29:52.156Z"
 sessionId: "se_aqip6fpbm0"
 assignmentId: "as_b7rc7j0lps"
 costUsd: 1.71825425
 tokens: 85913
 turns: 15
 createdAt: "2026-11-04T19:50:12.861Z"
-updatedAt: "2026-11-04T19:50:12.861Z"
+updatedAt: "2026-11-05T19:29:52.156Z"
 ---
 Live: 4815e19 (since 19:33 UTC). Main holds this grant's second merge (b39bfdaa, 19:47 UTC); CI's run on it was in progress at 19:48 UTC and deploys it by itself. This is the 100% checkpoint of gr_qggxximtru: 456,488 of 450,000 tokens spent, one key result live, the other merged and minutes from live.
 

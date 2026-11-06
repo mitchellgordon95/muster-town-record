@@ -9,14 +9,16 @@ buildingId: "bl_xvgnd1fvh6"
 provenance: {"sourceIds":["dc_jqrsoj7l1j","dc_acoggjhacn","dc_k80n4lc4p1","dc_ukieylf211","dc_syrgtz34p7","dc_arw76kawkw"],"urls":["https://github.com/mitchellgordon95/agent-town/pull/310","https://github.com/mitchellgordon95/agent-town/pull/342","https://github.com/mitchellgordon95/agent-town/actions/runs/41899336530"]}
 tags: ["rollup","checkpoint"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "us_1la74k332n"
+decidedAt: "2026-11-05T20:04:24.575Z"
 sessionId: "se_bgwaj39955"
 assignmentId: "as_6fo8ufmoqc"
 costUsd: 2.1648215000000004
 tokens: 108241
 turns: 20
 createdAt: "2026-11-04T19:52:18.965Z"
-updatedAt: "2026-11-04T19:52:18.965Z"
+updatedAt: "2026-11-05T20:04:24.575Z"
 ---
 Live: 4815e19 since 2026-11-04 19:33 UTC. This is the checkpoint report for the self-host image grant, which crossed its 220,000 tokens at 225,544. Two of its four key results are claimed, two are not started. Nothing in this grant touches muster.town itself: both PRs changed only `.github/`, so CI did not redeploy for them.
 
@@ -65,4 +67,4 @@ Spend today by lane: exploration 95,371 tokens (free under the goal: 398,516), d
 ## Needs from Mitchell
 - Continue this grant with the 100,000-token top-up, adjust it, or cut it. A continue finishes the two open key results: a backup to MinIO and a restore into a second container inside the same CI smoke (~60k), then the self-host page's path B rewritten to pull-and-run from the ghcr image with gaps #1 and #8 struck (~25k). A cut leaves a public, boot-tested image but a docs page that still tells strangers to build it themselves.
 
-_Already waiting in your in-tray: 1 proposal (gr_lvzy0yxwgd), 5 requests ([dc_nke6xw12k4](../../../../../town-hall/outbox/2026-10/2026-10-29-a-throwaway-linux-box-and-a-test-domain-for-the-se-e6xw12k4.md), [dc_lyjnyeev9f](../../../../../town-hall/outbox/2026-11/2026-11-01-run-deploy-fly-build-sh-once-town-image-deploy-so-jnyeev9f.md), [dc_647d9m37u2](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-7d9m37u2.md), [dc_y43rdv5zm7](../../../../../town-hall/outbox/2026-11/2026-11-01-hold-the-recover-drill-request-dc-647d9m37u2-until-3rdv5zm7.md), [dc_6gnk7y16y1](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-nk7y16y1.md)), 1 rollup ([dc_ezx0dndlg1](2026-11-04-prod-rollup-36-checkpoint-gr-db6ofyd0yf-601-494-60-x0dndlg1.md))._
+_Already waiting in your in-tray: 1 proposal (gr_lvzy0yxwgd), 5 requests ([dc_nke6xw12k4](../../../../../town-hall/outbox/2026-10/2026-10-29-a-throwaway-linux-box-and-a-test-domain-for-the-se-e6xw12k4.md), [dc_lyjnyeev9f](../../../../../town-hall/outbox/2026-11/2026-11-01-run-deploy-fly-build-sh-once-town-image-deploy-so-jnyeev9f.md), dc_647d9m37u2, dc_y43rdv5zm7, [dc_6gnk7y16y1](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-nk7y16y1.md)), 1 rollup ([dc_ezx0dndlg1](2026-11-04-prod-rollup-36-checkpoint-gr-db6ofyd0yf-601-494-60-x0dndlg1.md))._

@@ -9,10 +9,13 @@ buildingId: "bl_vef3v0oux0"
 provenance: {"sourceIds":["dc_aue8kzbaee"],"urls":["https://muster.town/api/finance/spend?window=7d"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Superseded by a decision in meeting \"1:1: Mitchell and Secretary\": Redefine the cache-miss alert (gr_lwgus14rd2, kr_f49co6lg51) around prefix busting, not cache-write share. Mitchell, 1:1 mt_pr3347g2w2 at 19:28 UTC: \"the one we"
+decidedBy: "ag_7tiwyqva83"
+decidedAt: "2026-11-05T19:29:52.195Z"
 sessionId: "se_fybzv7we4s"
 createdAt: "2026-11-05T00:03:11.849Z"
-updatedAt: "2026-11-05T00:03:11.849Z"
+updatedAt: "2026-11-05T19:29:52.195Z"
 ---
 Live aa6f4fb since 2026-11-04 20:40 UTC. Both funded grants are still held at their checkpoints (your in-tray); this rollup covers one exploration.
 

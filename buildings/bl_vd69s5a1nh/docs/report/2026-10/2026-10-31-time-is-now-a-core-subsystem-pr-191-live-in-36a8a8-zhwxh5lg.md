@@ -46,7 +46,7 @@ Today's spend by lane: exploration 150,281 tokens (free under the goal: 726,221)
 ## Needs from Mitchell
 Nothing needed.
 
-_Already waiting in your in-tray: 0 proposals, 1 request ([dc_bn4s4m7cq3](../../../../../town-hall/outbox/2026-10/2026-10-29-redeploy-with-the-desk-image-rebuild-image-true-fo-4s4m7cq3.md)), 0 rollups._
+_Already waiting in your in-tray: 0 proposals, 1 request (dc_bn4s4m7cq3), 0 rollups._
 
 ## Key results I wrote (keep or cut: Building → Settings → Key results)
 - created kr_4jhab4c5cn: "No known high or critical security advisory in production dependencies goes unnoticed: `npm audit --omit=dev --audit-level=high` is clean on main and a dependency-audit workflow runs it weekly and on every PR that changes package.json or package-lock.json (from 3 high at 36a8a86)." (how to check: GitHub Actions: the "audit" workflow's latest run on main is green; `npm audit --omit=dev --audit-level=high` on a fresh main checkout exits 0; a PR that pins zod back to 3.25 makes the audit workflow fail naming zod.; from [dc_zytvyrq15d](../../note/2026-10/2026-10-31-findings-known-vulnerable-production-dependencies-tvyrq15d.md))

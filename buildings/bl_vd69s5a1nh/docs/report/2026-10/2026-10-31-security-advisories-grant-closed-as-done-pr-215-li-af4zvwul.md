@@ -43,4 +43,4 @@ No funded grant remains open in this building; the queue is empty. Today's spend
 ## Needs from Mitchell
 Nothing needed.
 
-_Already waiting in your in-tray: 0 proposals, 1 request ([dc_bn4s4m7cq3](../../../../../town-hall/outbox/2026-10/2026-10-29-redeploy-with-the-desk-image-rebuild-image-true-fo-4s4m7cq3.md)), 1 rollup ([dc_a995y60umi](2026-10-31-dead-exports-can-t-come-back-grant-gr-83jxsu8u0o-c-95y60umi.md))._
+_Already waiting in your in-tray: 0 proposals, 1 request (dc_bn4s4m7cq3), 1 rollup ([dc_a995y60umi](2026-10-31-dead-exports-can-t-come-back-grant-gr-83jxsu8u0o-c-95y60umi.md))._

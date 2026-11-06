@@ -47,6 +47,10 @@ Docs promoted to the town library, newest first.
 - 2026-10-24 [Town Hall town-hall — notes](meeting-notes/2026-10/2026-10-24-town-hall-town-hall-notes-oh97iq91.md) `dc_guoh97iq91` · Pix
 - 2026-10-24 [Town Hall town-hall — notes](meeting-notes/2026-10/2026-10-24-town-hall-town-hall-notes-mlr7bvc1.md) `dc_7fmlr7bvc1` · Pix
 
+## page (1)
+
+- 2026-11-05 [Bank balance over a week (sample page)](page/2026-11/2026-11-05-bank-balance-over-a-week-sample-page-n2kves0x.md) `dc_h8n2kves0x` · Teo 1
+
 ## skill (2)
 
 - 2026-10-24 [live-ui-check](skill/2026-10/2026-10-24-live-ui-check-0ti5mkvn.md) `dc_p70ti5mkvn` · Cleo

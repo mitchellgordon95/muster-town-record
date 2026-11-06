@@ -9,10 +9,13 @@ buildingId: "workshop"
 provenance: {"sourceIds":["dc_yp9ofcnhny","dc_95bf6fxa4g","dc_odbjvpoh9l","dc_oncz7su0tv","dc_9c2dgw7kp6","dc_hrmbvc4ohw","dc_xmqqnr4nrc","dc_4w5e5uvsw4","dc_ycocv32ibe","dc_uekq0ag533","dc_l77dl3bwph","dc_ualrq1pnzl","dc_jcs6svrnmt","dc_gxtxualbsp","dc_hrptju2s61","dc_6yjf5orfta","dc_rju0tw41ou","dc_58bp6zln1c","dc_h2dpn933pb","dc_o7mbgxpdvc","dc_gzw9ibc73a","dc_otlpmgjxn1","dc_0m1p6kk54q","dc_3zmyrznhud","dc_1zlq030i4m"],"urls":["https://muster.town/api/health","https://github.com/mitchellgordon95/muster-town/pull/346","https://github.com/mitchellgordon95/muster-town/pull/337","https://github.com/mitchellgordon95/muster-town/pull/347"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Superseded by a decision in meeting \"1:1: Mitchell and Secretary\": The daily digest card in the Town Hall in-tray becomes a one-line row like every other in-tray item (title + date, click opens the full digest doc), instead of"
+decidedBy: "ag_7tiwyqva83"
+decidedAt: "2026-11-05T19:17:33.751Z"
 sessionId: "se_ozpbmoj44s"
 createdAt: "2026-11-04T23:08:33.071Z"
-updatedAt: "2026-11-04T23:08:33.071Z"
+updatedAt: "2026-11-05T19:17:33.751Z"
 ---
 Live: aa6f4fbc since 20:40 UTC (health read by Pix 1 at 23:05:10Z); every change below is an ancestor of it.
 

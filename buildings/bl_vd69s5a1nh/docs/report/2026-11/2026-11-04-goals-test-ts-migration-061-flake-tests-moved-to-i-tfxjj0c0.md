@@ -30,7 +30,7 @@ Timed the flaky test on my desk and read the failing CI log. Then I switched it 
 - **After (desk, 3 runs each):** 061 went from 131–147 ms to 70–73 ms; 069 went from 135–148 ms to 79–86 ms. Neither writes to disk any more, so CI disk stalls can't reach them.
 - I checked the other migration tests: only v12.test.ts still uses a disk file, and it has to, because World.open reopens the database by its path. I left it alone.
 - Typecheck is green and the core tests pass (116 files, 727 tests).
-- **Next session:** when PR #311's CI is green, mark it ready and merge it (it only changes our own test code, so rule [dc_vzqoh7ppen](../../../../town-hall/docs/fyi/2026-10/2026-10-30-town-wide-merge-rules-revised-2026-10-30-schema-mi-qoh7ppen.md) covers it). It is test-only, so no redeploy is needed.
+- **Next session:** when PR #311's CI is green, mark it ready and merge it (it only changes our own test code, so rule [dc_vzqoh7ppen](../../../../town-hall/docs/fyi/2026-10/2026-10-30-town-wide-merge-rules-revised-2026-11-05-ci-deploy-qoh7ppen.md) covers it). It is test-only, so no redeploy is needed.
 
 ## What I need from you
 Nothing needed.

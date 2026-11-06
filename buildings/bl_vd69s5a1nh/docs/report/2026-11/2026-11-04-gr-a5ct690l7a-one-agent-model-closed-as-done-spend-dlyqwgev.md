@@ -63,4 +63,4 @@ Spend today by lane: exploration 49,663 tokens; directed 278,300 tokens (before 
 ## Needs from Mitchell
 Nothing needed.
 
-_Already waiting in your in-tray: 0 proposals, 2 requests ([dc_bn4s4m7cq3](../../../../../town-hall/outbox/2026-10/2026-10-29-redeploy-with-the-desk-image-rebuild-image-true-fo-4s4m7cq3.md), [dc_y7jkfy8wav](../../../../../town-hall/outbox/2026-11/2026-11-03-register-a-test-visitor-on-a-full-building-s-goal-jkfy8wav.md)), 0 rollups._
+_Already waiting in your in-tray: 0 proposals, 2 requests (dc_bn4s4m7cq3, [dc_y7jkfy8wav](../../../../../town-hall/outbox/2026-11/2026-11-03-register-a-test-visitor-on-a-full-building-s-goal-jkfy8wav.md)), 0 rollups._

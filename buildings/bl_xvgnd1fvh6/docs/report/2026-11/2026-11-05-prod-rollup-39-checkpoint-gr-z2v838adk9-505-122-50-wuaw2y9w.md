@@ -9,14 +9,16 @@ buildingId: "bl_xvgnd1fvh6"
 provenance: {"sourceIds":["dc_0z80k3w8hw","dc_zi69pv4wa8","dc_hexmsgulr1","dc_p44izut29y","dc_xx54hwjptq","dc_8b7yiroscr","dc_12t4j7s21n","dc_ti0zrakxk4","dc_c8snw9a8ig","dc_qdjp8md9mi","dc_v4uuak4qkh","dc_ven7cfjhqa","dc_h9d48ns3v5"],"urls":[]}
 tags: ["rollup","checkpoint"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "us_1la74k332n"
+decidedAt: "2026-11-05T20:05:07.248Z"
 sessionId: "se_9zykn8oq21"
 assignmentId: "as_b2tz6mb18o"
 costUsd: 3.2154107500000007
 tokens: 160771
 turns: 25
 createdAt: "2026-11-05T02:45:05.086Z"
-updatedAt: "2026-11-05T02:45:05.086Z"
+updatedAt: "2026-11-05T20:05:07.248Z"
 ---
 Live: aa6f4fb since 2026-11-04 20:40 UTC (nothing new live since rollup #38). This is the second checkpoint report for the dead-volume recovery grant, which crossed its 500,000 tokens at 505,122. API and script changes only; no pictures.
 
@@ -58,4 +60,4 @@ Other funded grants (unchanged since rollup #38): gr_ba0juhlm7n 227,428 / 600,00
 ## Needs from Mitchell
 - Continue (40,000 more) if you will run the 25-minute recovery drill on your machine this week: the command is already in your outbox, and the top-up fills the README Drill table from your paste-back and closes the grant. Cut if you won't: the restore, the guard and the one-command script are live and tested, and no amount of tokens can run the drill for you.
 
-_Already waiting in your in-tray: 1 proposal (gr_lvzy0yxwgd), 5 requests ([dc_nke6xw12k4](../../../../../town-hall/outbox/2026-10/2026-10-29-a-throwaway-linux-box-and-a-test-domain-for-the-se-e6xw12k4.md), [dc_lyjnyeev9f](../../../../../town-hall/outbox/2026-11/2026-11-01-run-deploy-fly-build-sh-once-town-image-deploy-so-jnyeev9f.md), [dc_647d9m37u2](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-7d9m37u2.md), [dc_y43rdv5zm7](../../../../../town-hall/outbox/2026-11/2026-11-01-hold-the-recover-drill-request-dc-647d9m37u2-until-3rdv5zm7.md), [dc_6gnk7y16y1](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-nk7y16y1.md)), 3 rollups ([dc_ezx0dndlg1](2026-11-04-prod-rollup-36-checkpoint-gr-db6ofyd0yf-601-494-60-x0dndlg1.md), [dc_ut9a8qxc9g](2026-11-04-prod-rollup-37-checkpoint-gr-q1jrelx2ty-225-544-22-9a8qxc9g.md), [dc_ckxutpcciq](2026-11-05-prod-rollup-38-hourly-off-site-backup-now-holds-th-xutpcciq.md))._
+_Already waiting in your in-tray: 1 proposal (gr_lvzy0yxwgd), 5 requests ([dc_nke6xw12k4](../../../../../town-hall/outbox/2026-10/2026-10-29-a-throwaway-linux-box-and-a-test-domain-for-the-se-e6xw12k4.md), [dc_lyjnyeev9f](../../../../../town-hall/outbox/2026-11/2026-11-01-run-deploy-fly-build-sh-once-town-image-deploy-so-jnyeev9f.md), dc_647d9m37u2, dc_y43rdv5zm7, [dc_6gnk7y16y1](../../../../../town-hall/outbox/2026-11/2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-nk7y16y1.md)), 3 rollups ([dc_ezx0dndlg1](2026-11-04-prod-rollup-36-checkpoint-gr-db6ofyd0yf-601-494-60-x0dndlg1.md), [dc_ut9a8qxc9g](2026-11-04-prod-rollup-37-checkpoint-gr-q1jrelx2ty-225-544-22-9a8qxc9g.md), [dc_ckxutpcciq](2026-11-05-prod-rollup-38-hourly-off-site-backup-now-holds-th-xutpcciq.md))._
