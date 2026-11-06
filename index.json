@@ -25162,5 +25162,23 @@
     "state": "building",
     "buildingId": "town-hall",
     "createdAt": "2026-11-06T17:16:24.787Z"
+  },
+  {
+    "id": "dc_f6sk0z0znp",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-06-onboarding-staleness-sweep-10-manual-fixed-pr-393-sk0z0znp.md",
+    "title": "Onboarding staleness sweep 10: manual fixed, PR #393 waiting on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T19:03:18.637Z"
+  },
+  {
+    "id": "dc_ymwuryrav1",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-06-onboarding-sweep-10-merged-ffc0663e-lag-0-h-now-bu-wuryrav1.md",
+    "title": "Onboarding sweep 10 merged (ffc0663e); lag 0 h now, but it peaked at 24.06 h, so the day streak broke",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-06T19:11:21.912Z"
   }
 ]
