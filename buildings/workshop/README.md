@@ -126,8 +126,10 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1062)
+## report (1064)
 
+- 2026-11-07 [Rollup 52: onboarding sweep 10 live (manual fixed), the under-24 h streak broke at 24.06 h so sweeps go to every 12 h; test-account reset re-queued behind your captain accept](docs/report/2026-11/2026-11-07-rollup-52-onboarding-sweep-10-live-manual-fixed-th-pqu4tfip.md) `dc_y3pqu4tfip` · Pix
+- 2026-11-07 [Pix's assignment never unblocked: First live reset of the test account (POST /api/me/reset) once the captain/steer check (as_krntgm6v02) has finished, never while it is still parked](docs/report/2026-11/2026-11-07-pix-s-assignment-never-unblocked-first-live-reset-fzdaj7qx.md) `dc_2mfzdaj7qx` · Pix
 - 2026-11-06 [Onboarding sweep 10 merged (ffc0663e); lag 0 h now, but it peaked at 24.06 h, so the day streak broke](docs/report/2026-11/2026-11-06-onboarding-sweep-10-merged-ffc0663e-lag-0-h-now-bu-wuryrav1.md) `dc_ymwuryrav1` · Pix 1
 - 2026-11-06 [Onboarding staleness sweep 10: manual fixed, PR #393 waiting on CI](docs/report/2026-11/2026-11-06-onboarding-staleness-sweep-10-manual-fixed-pr-393-sk0z0znp.md) `dc_f6sk0z0znp` · Pix 1
 - 2026-11-06 [Rollup 51: the stranger test account is in, asked to captain a goal and can reset itself (PR #390); Publish to GitHub is all live but nothing pushes until a repo is set](docs/report/2026-11/2026-11-06-rollup-51-the-stranger-test-account-is-in-asked-to-4ziawngu.md) `dc_hf4ziawngu` · Pix
@@ -156,8 +158,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-05 [Grant C: PR #383 merged = ad1c8c8 (exact "holds at" figure on the grant row)](docs/report/2026-11/2026-11-05-grant-c-pr-383-merged-ad1c8c8-exact-holds-at-figur-yvtptp3m.md) `dc_00yvtptp3m` · Pix 1
 - 2026-11-05 [Grant C: exact hold point on the grant row (PR #383), parked on CI](docs/report/2026-11/2026-11-05-grant-c-exact-hold-point-on-the-grant-row-pr-383-p-eauq5x6c.md) `dc_upeauq5x6c` · Pix 2
 - 2026-11-05 [Grant C: evidence on all five KRs confirmed; 5th hold not yet fired (Onboarding/Prod grants wait on their building's next charge), parked 4 h](docs/report/2026-11/2026-11-05-grant-c-evidence-on-all-five-krs-confirmed-5th-hol-82dffr69.md) `dc_sk82dffr69` · Pix 1
-- 2026-11-05 [Grant C step 3: c913df6 live; 4 grants held at 23:41Z with no checkpoint session, all under their granted tokens; evidence filed for all five C KRs](docs/report/2026-11/2026-11-05-grant-c-step-3-c913df6-live-4-grants-held-at-23-41-jporvknr.md) `dc_2fjporvknr` · Pix 1
-- 2026-11-05 [Grant C step 2 merged: PR #382 = c913df6 (forks file KR evidence + top-up via submit_report)](docs/report/2026-11/2026-11-05-grant-c-step-2-merged-pr-382-c913df6-forks-file-kr-6vpk67k9.md) `dc_626vpk67k9` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

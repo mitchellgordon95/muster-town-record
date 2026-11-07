@@ -25189,5 +25189,32 @@
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
     "createdAt": "2026-11-07T04:30:52.423Z"
+  },
+  {
+    "id": "dc_cfh4vjinyv",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-07-gr-w9ue1k1p0c-day-5-of-7-clean-11-06-05-20z-11-07-h4vjinyv.md",
+    "title": "gr_w9ue1k1p0c day 5 of 7 clean (11-06 05:20Z → 11-07 05:20Z): 2 restarts, 0 orphaned, 0 cut, 0 sessions alerts (a quiet day)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-07T05:20:47.923Z"
+  },
+  {
+    "id": "dc_2mfzdaj7qx",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-07-pix-s-assignment-never-unblocked-first-live-reset-fzdaj7qx.md",
+    "title": "Pix's assignment never unblocked: First live reset of the test account (POST /api/me/reset) once the captain/steer check (as_krntgm6v02) has finished, never while it is still parked",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-07T05:23:49.390Z"
+  },
+  {
+    "id": "dc_y3pqu4tfip",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-07-rollup-52-onboarding-sweep-10-live-manual-fixed-th-pqu4tfip.md",
+    "title": "Rollup 52: onboarding sweep 10 live (manual fixed), the under-24 h streak broke at 24.06 h so sweeps go to every 12 h; test-account reset re-queued behind your captain accept",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-07T05:25:39.983Z"
   }
 ]
