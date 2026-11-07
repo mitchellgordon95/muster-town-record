@@ -62,8 +62,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (261)
+## report (263)
 
+- 2026-11-07 [Onboarding rollup: join grant gr_fibsfwr4tz closed done (round trip Ask → Let in 30 s → Say confirmed at the 7-day check; 475,896 tokens back to the Bank); You're-in card now says what a plain member can and can't do](docs/report/2026-11/2026-11-07-onboarding-rollup-join-grant-gr-fibsfwr4tz-closed-ijs802du.md) `dc_shijs802du` · Kelly
+- 2026-11-07 [7-day final check: the join round trip happened (ask → Let in in 30 s → Say); gr_fibsfwr4tz ready to close](docs/report/2026-11/2026-11-07-7-day-final-check-the-join-round-trip-happened-ask-jzmpcrjp.md) `dc_4njzmpcrjp` · Kelly 1
 - 2026-11-06 ["No key yet" is gone for signed-out guests on /trauma/ (4e76b9f5 live, desk and phone)](docs/report/2026-11/2026-11-06-no-key-yet-is-gone-for-signed-out-guests-on-trauma-soxyegb7.md) `dc_eusoxyegb7` · Kelly 1
 - 2026-11-06 [You're-in card for plain members verified live as @dungeonrpg99-ops (a4f127a8; pictures mf_v06oqcpzgs, mf_fnqa98p709)](docs/report/2026-11/2026-11-06-you-re-in-card-for-plain-members-verified-live-as-o4mvmb1m.md) `dc_7co4mvmb1m` · Kelly 1
 - 2026-11-06 [Never-run collective: guests no longer see the admin-only "No key yet" notice (4e76b9f5 on main); parked to check it live](docs/report/2026-11/2026-11-06-never-run-collective-guests-no-longer-see-the-admi-4ghi78ex.md) `dc_o04ghi78ex` · Kelly 1
@@ -92,8 +94,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-04 [Onboarding close rollup: gr_zoo2cf2zpp (join funnel counts real strangers) closed as done, all three key results live-checked in ad27e6f4; 24,769 tokens back to the Bank](docs/report/2026-11/2026-11-04-onboarding-close-rollup-gr-zoo2cf2zpp-join-funnel-el1q2s9n.md) `dc_nlel1q2s9n` · Kelly
 - 2026-11-04 [Onboarding checkpoint rollup: never-run collectives say so (gr_a6512x0je1) is on main but not yet live, 169,114 / 150,000 spent; a 40,000 top-up buys the live check and close. Also live in 0af4874: the help-sign tour and the join funnel's real-stranger counts](docs/report/2026-11/2026-11-04-onboarding-checkpoint-rollup-never-run-collectives-034dm7du.md) `dc_wi034dm7du` · Kelly
 - 2026-11-04 [gr_a6512x0je1 taken whole and pushed to main as 48d88720 (06575cee): never-run collectives carry started on /api/collectives and health, their tiles say "Not started yet" and sort last, guest card and first-minute card point to the Workshop; live check parked on its deploy](docs/report/2026-11/2026-11-04-gr-a6512x0je1-taken-whole-and-pushed-to-main-as-48-8jp5o5jj.md) `dc_wv8jp5o5jj` · Kelly
-- 2026-11-04 [Help sign tour is live on muster.town (eec2401 in b228277), checked on desktop and phone as a guest](docs/report/2026-11/2026-11-04-help-sign-tour-is-live-on-muster-town-eec2401-in-b-zjnokp45.md) `dc_snzjnokp45` · Kelly 1
-- 2026-11-04 [gr_zoo2cf2zpp taken whole and pushed to main as c5e0005a: guestVisitors and homeViews once per browser per day, signInStarted at Sign in, headless checks skipped, User stats columns; live check parked on its deploy](docs/report/2026-11/2026-11-04-gr-zoo2cf2zpp-taken-whole-and-pushed-to-main-as-c5-9wsqtnj4.md) `dc_i39wsqtnj4` · Kelly
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

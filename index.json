@@ -25234,5 +25234,23 @@
     "state": "building",
     "buildingId": "town-hall",
     "createdAt": "2026-11-07T07:00:17.938Z"
+  },
+  {
+    "id": "dc_4njzmpcrjp",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-07-7-day-final-check-the-join-round-trip-happened-ask-jzmpcrjp.md",
+    "title": "7-day final check: the join round trip happened (ask → Let in in 30 s → Say); gr_fibsfwr4tz ready to close",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-07T21:01:00.341Z"
+  },
+  {
+    "id": "dc_shijs802du",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-07-onboarding-rollup-join-grant-gr-fibsfwr4tz-closed-ijs802du.md",
+    "title": "Onboarding rollup: join grant gr_fibsfwr4tz closed done (round trip Ask → Let in 30 s → Say confirmed at the 7-day check; 475,896 tokens back to the Bank); You're-in card now says what a plain member can and can't do",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-07T21:03:04.298Z"
   }
 ]
