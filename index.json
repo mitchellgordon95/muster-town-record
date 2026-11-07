@@ -25216,5 +25216,23 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-07T05:25:39.983Z"
+  },
+  {
+    "id": "dc_g78o9hjgvh",
+    "path": "buildings/town-hall/docs/digest/2026-11/2026-11-07-digest-2026-11-07-24-decisions-1-rollup-8o9hjgvh.md",
+    "title": "Digest 2026-11-07: 24 decisions, 1 rollup",
+    "type": "digest",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-07T07:00:15.550Z"
+  },
+  {
+    "id": "dc_fzt4k7mf09",
+    "path": "buildings/town-hall/docs/report/2026-11/2026-11-07-daily-in-tray-digest-2026-11-07-t4k7mf09.md",
+    "title": "Daily in-tray digest, 2026-11-07",
+    "type": "report",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-07T07:00:17.938Z"
   }
 ]

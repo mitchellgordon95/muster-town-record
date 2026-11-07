@@ -37276,21 +37276,21 @@
       "y": 12
     },
     "status": "idle",
-    "activity": "Submitting report: Daily in-tray digest, 2026-11-06 (run now)",
+    "activity": "Submitting report: Daily in-tray digest, 2026-11-07",
     "model": "claude-fable-5-1",
-    "spentTokensToday": 0,
-    "spentTokensTotal": 684459,
-    "spentUsdTotal": 9.055635910000001,
+    "spentTokensToday": 717,
+    "spentTokensTotal": 685176,
+    "spentUsdTotal": 9.069980970000001,
     "currentAssignmentId": null,
     "currentMeetingId": null,
     "createdAt": "2026-11-04T17:01:17.053Z",
-    "lastActiveAt": "2026-11-06T17:16:24.913Z",
-    "lastSeenAt": "2026-11-06T17:16:20.901Z",
+    "lastActiveAt": "2026-11-07T07:00:18.018Z",
+    "lastSeenAt": "2026-11-07T07:00:11.297Z",
     "inheritsOwner": false,
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 0
+    "familySpentToday": 717
   },
   {
     "id": "ag_ejguq8medm",
