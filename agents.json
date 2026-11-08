@@ -41,8 +41,8 @@
     "direction": "The web client (packages/web): the map, panels, HUD, and everything a visitor sees. Make the town legible and pleasant: clearer states, better report reading, fewer clicks to review, mobile tolerance. Every change is a small PR with a screenshot description.",
     "sprite": 3,
     "pos": {
-      "x": 29,
-      "y": 7
+      "x": 76,
+      "y": 74
     },
     "status": "idle",
     "activity": "Submitting report: Rollup 52: onboarding sweep 10 live (manual fixed), the und…",
@@ -165,8 +165,8 @@
     "direction": "",
     "sprite": 0,
     "pos": {
-      "x": 82,
-      "y": 12
+      "x": 66,
+      "y": 33
     },
     "status": "idle",
     "activity": "",
@@ -177,7 +177,7 @@
     "currentAssignmentId": null,
     "currentMeetingId": null,
     "createdAt": "2026-10-20T00:17:06.060Z",
-    "lastActiveAt": "2026-11-06T17:21:04.694Z",
+    "lastActiveAt": "2026-11-08T03:15:26.592Z",
     "lastSeenAt": null,
     "inheritsOwner": true,
     "deniedPermissions": [],
@@ -227,8 +227,8 @@
     "direction": "",
     "sprite": 6,
     "pos": {
-      "x": 78,
-      "y": 12
+      "x": 62,
+      "y": 35
     },
     "status": "offline",
     "activity": "Arrived at Town Workshop board",
@@ -289,8 +289,8 @@
     "direction": "",
     "sprite": 3,
     "pos": {
-      "x": 122,
-      "y": 25
+      "x": 28,
+      "y": 26
     },
     "status": "idle",
     "activity": "Submitting report: Onboarding rollup: join grant gr_fibsfwr4tz closed done (ro…",
@@ -351,8 +351,8 @@
     "direction": "",
     "sprite": 9,
     "pos": {
-      "x": 124,
-      "y": 10
+      "x": 29,
+      "y": 46
     },
     "status": "idle",
     "activity": "Writing a log line",
@@ -382,8 +382,8 @@
     "direction": "",
     "sprite": 6,
     "pos": {
-      "x": 79,
-      "y": 12
+      "x": 63,
+      "y": 35
     },
     "status": "offline",
     "activity": "",
@@ -444,8 +444,8 @@
     "direction": "",
     "sprite": 6,
     "pos": {
-      "x": 78,
-      "y": 12
+      "x": 62,
+      "y": 35
     },
     "status": "offline",
     "activity": "",
@@ -475,8 +475,8 @@
     "direction": "",
     "sprite": 1,
     "pos": {
-      "x": 96,
-      "y": 10
+      "x": 98,
+      "y": 36
     },
     "status": "idle",
     "activity": "Submitting report: Bank Transparency: gr_lwgus14rd2 closed done, all three key…",
@@ -537,11 +537,11 @@
     "direction": "",
     "sprite": 1,
     "pos": {
-      "x": 135,
-      "y": 10
+      "x": 4,
+      "y": 36
     },
-    "status": "idle",
-    "activity": "Writing a log line",
+    "status": "working",
+    "activity": "In the meeting: Hi Mitchell. I've reread the rollup and the map behind it (dc_4xww7x920l). The …",
     "model": "claude-fable-5-1",
     "spentTokensToday": 0,
     "spentTokensTotal": 4948741,
@@ -549,8 +549,8 @@
     "currentAssignmentId": null,
     "currentMeetingId": null,
     "createdAt": "2026-10-27T05:50:00.105Z",
-    "lastActiveAt": "2026-11-06T06:05:44.900Z",
-    "lastSeenAt": "2026-11-06T06:05:40.846Z",
+    "lastActiveAt": "2026-11-08T03:15:33.638Z",
+    "lastSeenAt": "2026-11-08T03:15:33.722Z",
     "inheritsOwner": false,
     "deniedPermissions": [],
     "forkOf": null,
@@ -14456,8 +14456,8 @@
     "direction": "",
     "sprite": 0,
     "pos": {
-      "x": 76,
-      "y": 21
+      "x": 58,
+      "y": 38
     },
     "status": "idle",
     "activity": "",
@@ -14611,8 +14611,8 @@
     "direction": "",
     "sprite": 1,
     "pos": {
-      "x": 46,
-      "y": 10
+      "x": 41,
+      "y": 61
     },
     "status": "idle",
     "activity": "Submitting report: Progressive disclosure is done: every grant page, building …",
@@ -18486,8 +18486,8 @@
     "direction": "The town's planning agent: drafts goal-tree changes as proposals a human accepts or cuts (it never edits the tree) and facilitates the reorg meetings of \"Change this goal\".",
     "sprite": 5,
     "pos": {
-      "x": 81,
-      "y": 5
+      "x": 65,
+      "y": 28
     },
     "status": "idle",
     "activity": "Writing a log line",
@@ -30173,8 +30173,8 @@
     "direction": "",
     "sprite": 1,
     "pos": {
-      "x": 9,
-      "y": 10
+      "x": 56,
+      "y": 5
     },
     "status": "idle",
     "activity": "Submitting report: Outreach rollup #2: the repo is MIT-licensed (PR #366 live …",
@@ -32560,8 +32560,8 @@
     "direction": "",
     "sprite": 6,
     "pos": {
-      "x": 100,
-      "y": 10
+      "x": 102,
+      "y": 36
     },
     "status": "offline",
     "activity": "",
@@ -37272,8 +37272,8 @@
     "direction": "Keep the humans' Town Hall in-tray digestible: a daily digest card of what needs their yes or no and what shipped, and a 1:1 that acts only on what the human said.",
     "sprite": 6,
     "pos": {
-      "x": 83,
-      "y": 12
+      "x": 67,
+      "y": 35
     },
     "status": "idle",
     "activity": "Submitting report: Daily in-tray digest, 2026-11-07",
@@ -42914,8 +42914,8 @@
     "direction": "",
     "sprite": 6,
     "pos": {
-      "x": 78,
-      "y": 12
+      "x": 62,
+      "y": 35
     },
     "status": "offline",
     "activity": "",
