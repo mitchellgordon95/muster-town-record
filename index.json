@@ -25549,5 +25549,32 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-08T05:24:41.488Z"
+  },
+  {
+    "id": "dc_n1ul5lf31l",
+    "path": "buildings/town-hall/docs/digest/2026-11/2026-11-08-digest-2026-11-08-24-decisions-3-rollups-ul5lf31l.md",
+    "title": "Digest 2026-11-08: 24 decisions, 3 rollups",
+    "type": "digest",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-08T07:00:19.489Z"
+  },
+  {
+    "id": "dc_agmpluf1a4",
+    "path": "buildings/town-hall/docs/report/2026-11/2026-11-08-daily-in-tray-digest-2026-11-08-mpluf1a4.md",
+    "title": "Daily in-tray digest, 2026-11-08",
+    "type": "report",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-08T07:00:22.316Z"
+  },
+  {
+    "id": "dc_ffmczdp76j",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-08-gr-7op2v8fjcl-midpoint-no-red-main-since-ed953de-w-mczdp76j.md",
+    "title": "gr_7op2v8fjcl midpoint: no red main since ed953de went live; the one failed run was a promote push error, correctly not red, zero fix assignments",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T07:02:13.203Z"
   }
 ]

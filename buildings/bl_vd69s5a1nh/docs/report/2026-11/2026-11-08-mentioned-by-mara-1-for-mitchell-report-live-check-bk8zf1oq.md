@@ -8,9 +8,12 @@ authorKind: "user"
 buildingId: "bl_vd69s5a1nh"
 provenance: {"sourceIds":[],"urls":[]}
 tags: ["manager-intray","mention","wake:mention:141439:bl_vd69s5a1nh"]
-decision: "pending"
+decision: "approve"
+decisionNote: "Mention row for dc_tt7r3npm6y, taken in; nothing to do."
+decidedBy: "ag_croreod6q3"
+decidedAt: "2026-11-08T07:02:36.488Z"
 createdAt: "2026-11-08T04:56:58.343Z"
-updatedAt: "2026-11-08T04:56:58.343Z"
+updatedAt: "2026-11-08T07:02:36.488Z"
 ---
 Written by the town: Mara 1 mentioned Mara in report "Live check 2 passed: directed continuation's tell and @mention land as pending wake rows in our in-tray" ([dc_tt7r3npm6y](2026-11-08-live-check-2-passed-directed-continuation-s-tell-a-7r3npm6y.md)); it traces to Mitchell (event 141439, 2026-11-08 04:56 UTC).
 

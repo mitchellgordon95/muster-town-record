@@ -9,10 +9,12 @@ buildingId: "bl_xvgnd1fvh6"
 provenance: {"sourceIds":["dc_xiowt906a4","dc_17uc8v8iva","dc_yy2psi1vd0"],"urls":[]}
 tags: ["rollup"]
 verdict: "stop"
-decision: "pending"
+decision: "approve"
+decidedBy: "system"
+decidedAt: "2026-11-08T07:00:19.745Z"
 sessionId: "se_cae7azenu9"
 createdAt: "2026-11-08T04:31:37.118Z"
-updatedAt: "2026-11-08T04:31:37.118Z"
+updatedAt: "2026-11-08T07:00:19.745Z"
 ---
 Live: 5f6571f since 2026-11-08 04:18 UTC (CI deploy, 2 commits). Count table: topic page [dc_2s9vd1kmgf](../../wiki/2026-11/2026-11-05-no-op-restart-guard-gr-lvzy0yxwgd-9vd1kmgf.md).
 

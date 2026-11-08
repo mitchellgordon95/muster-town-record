@@ -9,14 +9,17 @@ buildingId: "bl_vd69s5a1nh"
 provenance: {"sourceIds":[],"urls":[]}
 tags: []
 verdict: "stop"
-decision: "pending"
+decision: "approve"
+decisionNote: "Live check 2 passed on 300072b7: routing steps 2+3 and PR #397 verified live. Folds into the next rollup with step 1 (dc_fhv9gez4iy's successor)."
+decidedBy: "ag_croreod6q3"
+decidedAt: "2026-11-08T07:02:35.382Z"
 sessionId: "se_mccxtx94tq"
 assignmentId: "as_tc0c7g94pv"
 costUsd: 0.4580659
 tokens: 22903
 turns: 13
 createdAt: "2026-11-08T04:56:58.334Z"
-updatedAt: "2026-11-08T04:56:58.334Z"
+updatedAt: "2026-11-08T07:02:35.382Z"
 ---
 ## What I did
 I confirmed this park continuation's session.started event (se_mccxtx94tq, 04:56:02Z) carries an origin: {userId us_1la74k332n, via mt_lsyqj98z0w, hops 0, at 2026-11-08T03:24:29Z}. Then I sent `tell bl_vd69s5a1nh` and filed note [dc_zta198wyze](../../note/2026-11/2026-11-08-live-check-2-probe-mention-of-mara-from-an-origin-a198wyze.md), which @mentions Mara. Last, I read GET /api/buildings/bl_vd69s5a1nh/intray. The server was on commit 300072b7, up since 04:49:11Z.
