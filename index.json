@@ -25576,5 +25576,23 @@
     "state": "building",
     "buildingId": "bl_vd69s5a1nh",
     "createdAt": "2026-11-08T07:02:13.203Z"
+  },
+  {
+    "id": "dc_u5p7xy0t9v",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-08-routing-4-hour-soak-no-misfires-0-manager-work-ses-p7xy0t9v.md",
+    "title": "Routing 4-hour soak: no misfires. 0 manager work sessions, 14 building-queue rows (13 run, 1 held correctly), 3 wake rows (0 pending, 0 dropped), 0 errors",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T08:02:09.622Z"
+  },
+  {
+    "id": "dc_hpgpwetlrm",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-08-work-routing-is-done-and-soaked-steps-2-3-and-the-gpwetlrm.md",
+    "title": "Work routing is done and soaked: steps 2+3 and the origin follow-up are live (300072b7), a 4-hour town-wide soak found no misfire; red-main fixer midpoint: no red main in 3 days, nothing fired",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T08:04:27.458Z"
   }
 ]
