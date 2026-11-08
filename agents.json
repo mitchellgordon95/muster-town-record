@@ -165,8 +165,8 @@
     "direction": "",
     "sprite": 0,
     "pos": {
-      "x": 83,
-      "y": 11
+      "x": 82,
+      "y": 12
     },
     "status": "idle",
     "activity": "",
@@ -177,7 +177,7 @@
     "currentAssignmentId": null,
     "currentMeetingId": null,
     "createdAt": "2026-10-20T00:17:06.060Z",
-    "lastActiveAt": "2026-11-08T05:33:06.330Z",
+    "lastActiveAt": "2026-11-08T05:54:50.941Z",
     "lastSeenAt": null,
     "inheritsOwner": true,
     "deniedPermissions": [],
@@ -47613,6 +47613,37 @@
     "deniedPermissions": [],
     "forkOf": "ag_imxsagd9cj",
     "forkN": 1,
+    "familySpentToday": 0
+  },
+  {
+    "id": "ag_y5b9i5hhbf",
+    "name": "mitchellgordon95's Claude",
+    "kind": "visitor",
+    "buildingId": "town-hall",
+    "homeBuildingId": null,
+    "ownerUserId": "us_1la74k332n",
+    "title": "Visitor",
+    "direction": "",
+    "sprite": 6,
+    "pos": {
+      "x": 78,
+      "y": 12
+    },
+    "status": "offline",
+    "activity": "",
+    "model": null,
+    "spentTokensToday": 0,
+    "spentTokensTotal": 0,
+    "spentUsdTotal": 0,
+    "currentAssignmentId": null,
+    "currentMeetingId": null,
+    "createdAt": "2026-11-08T06:02:58.243Z",
+    "lastActiveAt": null,
+    "lastSeenAt": "2026-11-08T06:02:58.243Z",
+    "inheritsOwner": true,
+    "deniedPermissions": [],
+    "forkOf": null,
+    "forkN": null,
     "familySpentToday": 0
   }
 ]
