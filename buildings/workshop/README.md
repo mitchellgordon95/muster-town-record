@@ -56,8 +56,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 - 2026-10-31 [RESOLVED 02:41Z 10-31: `tell` and `stop_fork` to a live Workshop fork are safe again (desk-death fix 1df29a4 live-checked)](docs/fyi/2026-10/2026-10-31-resolved-02-41z-10-31-tell-and-stop-fork-to-a-live-37yf719x.md) `dc_2337yf719x` · Pix
 
-## meeting-notes (87)
+## meeting-notes (88)
 
+- 2026-11-08 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-08-1-1-mitchell-and-pix-notes-nuaepkhx.md) `dc_eanuaepkhx` · Pix
 - 2026-11-06 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-06-1-1-mitchell-and-pix-notes-ptcjbdu1.md) `dc_lzptcjbdu1` · Pix
 - 2026-11-06 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-06-1-1-mitchell-and-pix-notes-3mbu62y6.md) `dc_t93mbu62y6` · Pix
 - 2026-11-05 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-05-1-1-mitchell-and-pix-notes-lclh314d.md) `dc_k3lclh314d` · Pix
@@ -87,7 +88,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-pix-notes-t1o493cj.md) `dc_f5t1o493cj` · Pix
 - 2026-10-31 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-pix-notes-1gdl0x0r.md) `dc_z81gdl0x0r` · Pix
 - 2026-10-31 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-pix-notes-ojaq9mcz.md) `dc_r1ojaq9mcz` · Pix
-- 2026-10-31 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-pix-notes-tnbkzjkl.md) `dc_mktnbkzjkl` · Pix
 
 All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-notes/2026-10/)
 
@@ -126,8 +126,11 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1064)
+## report (1067)
 
+- 2026-11-08 [Pix's assignment never unblocked: First live reset of the test account (POST /api/me/reset) once the captain/steer check (as_krntgm6v02) has finished, ne…](docs/report/2026-11/2026-11-08-pix-s-assignment-never-unblocked-first-live-reset-vw1ecklh.md) `dc_vjvw1ecklh` · Pix
+- 2026-11-08 [Relay done: work-routing PR #394 merged as 3320f44f, the Workshop's routing-PR hold is lifted (standing rules rewritten), step 2 stays with Code Legibility; nothing of ours to rebase](docs/report/2026-11/2026-11-08-relay-done-work-routing-pr-394-merged-as-3320f44f-azkazg4x.md) `dc_a4azkazg4x` · Pix
+- 2026-11-08 [Relay done: Workshop holds all work-routing PRs after #369 until Code Legibility's PR 1 is merged; hold written into the forks' standing rules, nothing routing in flight](docs/report/2026-11/2026-11-08-relay-done-workshop-holds-all-work-routing-prs-aft-z5jrs6rv.md) `dc_b0z5jrs6rv` · Pix
 - 2026-11-07 [Rollup 52: onboarding sweep 10 live (manual fixed), the under-24 h streak broke at 24.06 h so sweeps go to every 12 h; test-account reset re-queued behind your captain accept](docs/report/2026-11/2026-11-07-rollup-52-onboarding-sweep-10-live-manual-fixed-th-pqu4tfip.md) `dc_y3pqu4tfip` · Pix
 - 2026-11-07 [Pix's assignment never unblocked: First live reset of the test account (POST /api/me/reset) once the captain/steer check (as_krntgm6v02) has finished, never while it is still parked](docs/report/2026-11/2026-11-07-pix-s-assignment-never-unblocked-first-live-reset-fzdaj7qx.md) `dc_2mfzdaj7qx` · Pix
 - 2026-11-06 [Onboarding sweep 10 merged (ffc0663e); lag 0 h now, but it peaked at 24.06 h, so the day streak broke](docs/report/2026-11/2026-11-06-onboarding-sweep-10-merged-ffc0663e-lag-0-h-now-bu-wuryrav1.md) `dc_ymwuryrav1` · Pix 1
@@ -155,9 +158,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-06 [#/building/workshop route fix merged: PR #384 = acda269](docs/report/2026-11/2026-11-06-building-workshop-route-fix-merged-pr-384-acda269-gwo56hor.md) `dc_9qgwo56hor` · Pix 1
 - 2026-11-06 [#/building/workshop and #/building/town-hall route fix: PR #384, waiting on CI](docs/report/2026-11/2026-11-06-building-workshop-and-building-town-hall-route-fix-krou9o7t.md) `dc_zzkrou9o7t` · Pix 1
 - 2026-11-05 [Grant C: "holds at 1.35M" confirmed live on the grant row (ad1c8c8)](docs/report/2026-11/2026-11-05-grant-c-holds-at-1-35m-confirmed-live-on-the-grant-zh220dvz.md) `dc_2dzh220dvz` · Pix 1
-- 2026-11-05 [Grant C: PR #383 merged = ad1c8c8 (exact "holds at" figure on the grant row)](docs/report/2026-11/2026-11-05-grant-c-pr-383-merged-ad1c8c8-exact-holds-at-figur-yvtptp3m.md) `dc_00yvtptp3m` · Pix 1
-- 2026-11-05 [Grant C: exact hold point on the grant row (PR #383), parked on CI](docs/report/2026-11/2026-11-05-grant-c-exact-hold-point-on-the-grant-row-pr-383-p-eauq5x6c.md) `dc_upeauq5x6c` · Pix 2
-- 2026-11-05 [Grant C: evidence on all five KRs confirmed; 5th hold not yet fired (Onboarding/Prod grants wait on their building's next charge), parked 4 h](docs/report/2026-11/2026-11-05-grant-c-evidence-on-all-five-krs-confirmed-5th-hol-82dffr69.md) `dc_sk82dffr69` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

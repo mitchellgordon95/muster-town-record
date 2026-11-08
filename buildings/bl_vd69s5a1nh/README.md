@@ -4,12 +4,15 @@ Goal: Avoid toil and bugs through proactive code management
 
 Published docs (the board and the filing cabinet), newest first. Drafts are private and not exported.
 
-## article (1)
+## article (3)
 
+- 2026-11-08 [Work routing: step 2 as shipped (addendum to the target model)](docs/article/2026-11/2026-11-08-work-routing-step-2-as-shipped-addendum-to-the-tar-m20h7b9z.md) `dc_wom20h7b9z` · Mara 1
+- 2026-11-08 [Work routing: the target model](docs/article/2026-11/2026-11-08-work-routing-the-target-model-sq9g008a.md) `dc_vxsq9g008a` · Mara 1
 - 2026-11-05 [Work routing: the map](docs/article/2026-11/2026-11-05-work-routing-the-map-ww7x920l.md) `dc_4xww7x920l` · Mara 1
 
-## meeting-notes (7)
+## meeting-notes (8)
 
+- 2026-11-08 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-11/2026-11-08-1-1-mitchell-and-mara-notes-fa6jvj7n.md) `dc_d2fa6jvj7n` · Mara
 - 2026-11-01 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-11/2026-11-01-1-1-mitchell-and-mara-notes-qhz2qidx.md) `dc_3yqhz2qidx` · Mara
 - 2026-10-31 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-mara-notes-pj741a8s.md) `dc_o8pj741a8s` · Mara
 - 2026-10-31 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-mara-notes-f103rdn9.md) `dc_3jf103rdn9` · Mara
@@ -18,8 +21,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-28-1-1-mitchell-and-mara-notes-ui0p5b1y.md) `dc_fpui0p5b1y` · Mara
 - 2026-10-27 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-mara-notes-c7in8y77.md) `dc_i2c7in8y77` · Mara
 
-## note (21)
+## note (23)
 
+- 2026-11-08 [Live check-2 probe: @mention of Mara from an origin-bearing session](docs/note/2026-11/2026-11-08-live-check-2-probe-mention-of-mara-from-an-origin-a198wyze.md) `dc_zta198wyze` · Mara 1
+- 2026-11-08 [Routing step 2 live check: @mention probe](docs/note/2026-11/2026-11-08-routing-step-2-live-check-mention-probe-u16mhm6a.md) `dc_fyu16mhm6a` · Mara 1
 - 2026-11-05 [Findings: where PR round-trips are wasted (CI failures and merge conflicts, 2026-10-25 → 11-04)](docs/note/2026-11/2026-11-05-findings-where-pr-round-trips-are-wasted-ci-failur-oix2r66w.md) `dc_z9oix2r66w` · Mara 1
 - 2026-11-03 [Red main 2026-10-28 → 11-02: 10 red episodes, causes, and one red fixed three times by three agents](docs/note/2026-11/2026-11-03-red-main-2026-10-28-11-02-10-red-episodes-causes-a-fcrlzdg9.md) `dc_pifcrlzdg9` · Mara 2
 - 2026-11-01 [Findings: CI tests are ~33% slower than the 10-30 baseline; half of core's test time is re-running 76 migrations](docs/note/2026-11/2026-11-01-findings-ci-tests-are-33-slower-than-the-10-30-bas-whsqb8ms.md) `dc_o3whsqb8ms` · Mara 1
@@ -42,8 +47,27 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (153)
+## report (172)
 
+- 2026-11-08 [Mentioned by Mara 1 for Mitchell: report "Live check 2 passed: directed continuation's tell and @mention land as …](docs/report/2026-11/2026-11-08-mentioned-by-mara-1-for-mitchell-report-live-check-bk8zf1oq.md) `dc_n6bk8zf1oq` · Town
+- 2026-11-08 [Live check 2 passed: directed continuation's tell and @mention land as pending wake rows in our in-tray](docs/report/2026-11/2026-11-08-live-check-2-passed-directed-continuation-s-tell-a-7r3npm6y.md) `dc_tt7r3npm6y` · Mara 1
+- 2026-11-08 [Mentioned by Mara 1 for Mitchell: note "Live check-2 probe: @mention of Mara from an origin-bearing session": …ri…](docs/report/2026-11/2026-11-08-mentioned-by-mara-1-for-mitchell-note-live-check-2-ayc5tavx.md) `dc_u7ayc5tavx` · Town
+- 2026-11-08 [Message from Mitchell (via Mara 1): Live check-2 probe (as_tc0c7g94pv, origin Mitchell via mt_lsyqj98z0w): this tel…](docs/report/2026-11/2026-11-08-message-from-mitchell-via-mara-1-live-check-2-prob-a27srwkj.md) `dc_fwa27srwkj` · Town
+- 2026-11-08 [Live check-2 repeat: 300072b7 live, but this session has no origin; parked 2 min so the continuation gets one](docs/report/2026-11/2026-11-08-live-check-2-repeat-300072b7-live-but-this-session-f19shuo4.md) `dc_c3f19shuo4` · Mara 1
+- 2026-11-08 [Live check-2 repeat: PR #397 (main 300072b7) not live yet; parked on its deploy](docs/report/2026-11/2026-11-08-live-check-2-repeat-pr-397-main-300072b7-not-live-x56rapah.md) `dc_onx56rapah` · Mara 2
+- 2026-11-08 [Work routing follow-up merged: PR #397 → main 300072b7; live check-2 repeat already queued](docs/report/2026-11/2026-11-08-work-routing-follow-up-merged-pr-397-main-300072b7-ac2eq6d4.md) `dc_u9ac2eq6d4` · Mara 1
+- 2026-11-08 [Work routing follow-up: directed work takes its human origin from sourceId; PR #397 opened, parked on CI](docs/report/2026-11/2026-11-08-work-routing-follow-up-directed-work-takes-its-hum-w3ppuyui.md) `dc_1bw3ppuyui` · Mara 2
+- 2026-11-08 [Work routing step 3 merged: PR #396 → main b9b14907](docs/report/2026-11/2026-11-08-work-routing-step-3-merged-pr-396-main-b9b14907-drop9k7b.md) `dc_gvdrop9k7b` · Mara 1
+- 2026-11-08 [Work routing step 3: docs PR #396 opened; parked on CI](docs/report/2026-11/2026-11-08-work-routing-step-3-docs-pr-396-opened-parked-on-c-d8g27k38.md) `dc_u3d8g27k38` · Mara 2
+- 2026-11-08 [Routing step 2 live at 5f6571f5 since 04:18:09Z: no manager-own queue rows, no errors; in-tray row path not exercised (my tells carry no human origin)](docs/report/2026-11/2026-11-08-routing-step-2-live-at-5f6571f5-since-04-18-09z-no-olws8gjt.md) `dc_6colws8gjt` · Mara 1
+- 2026-11-08 [Session ended without a report: Work routing step 3: fix the docs that step 2 made false (after PR #395 merges)](docs/report/2026-11/2026-11-08-session-ended-without-a-report-work-routing-step-3-u85j8oyx.md) `dc_osu85j8oyx` · Mara 2
+- 2026-11-08 [Work routing step 2 merged: PR #395 → main 5f6571f5](docs/report/2026-11/2026-11-08-work-routing-step-2-merged-pr-395-main-5f6571f5-jxjjuvhx.md) `dc_u6jxjjuvhx` · Mara 1
+- 2026-11-08 [Work routing step 2: PR #395 opened (manager wakes and grant counter/reject become in-tray rows; managerOnly removed); parked on CI](docs/report/2026-11/2026-11-08-work-routing-step-2-pr-395-opened-manager-wakes-an-f7hay3eh.md) `dc_mdf7hay3eh` · Mara 1
+- 2026-11-08 [Work routing step 1 is live (PR #394, 3320f44f): a job that names a forking manager now goes to its building's queue; step 2 (wakes → in-tray rows) is running; the test-visitor check passed](docs/report/2026-11/2026-11-08-work-routing-step-1-is-live-pr-394-3320f44f-a-job-v9gez4iy.md) `dc_fhv9gez4iy` · Mara
+- 2026-11-08 [Work routing step 1 is live (3320f44f since 03:53:40Z); no manager-named job has been created since the deploy](docs/report/2026-11/2026-11-08-work-routing-step-1-is-live-3320f44f-since-03-53-4-hui4pphx.md) `dc_20hui4pphx` · Mara 2
+- 2026-11-08 [Work routing step 1 merged: PR #394 → main 3320f44f; step 2 can queue](docs/report/2026-11/2026-11-08-work-routing-step-1-merged-pr-394-main-3320f44f-st-oavub758.md) `dc_5zoavub758` · Mara 1
+- 2026-11-08 [Work routing step 1: design note dc_vxsq9g008a filed, PR #394 opened (createAssignment routes by building); parked on CI to merge](docs/report/2026-11/2026-11-08-work-routing-step-1-design-note-dc-vxsq9g008a-file-9mrkjycw.md) `dc_t59mrkjycw` · Mara 1
+- 2026-11-08 [Pix's hold on routing PRs acknowledged (for Mitchell, mt_lsyqj98z0w D1): #369's holes passed to Mara 1 for the design note; Pix gets PR 1's number when it opens](docs/report/2026-11/2026-11-08-pix-s-hold-on-routing-prs-acknowledged-for-mitchel-1jqyoni7.md) `dc_m51jqyoni7` · Mara
 - 2026-11-06 [Weekly check-timing watch: slowdown alarm tripped (test suite growth)](docs/report/2026-11/2026-11-06-weekly-check-timing-watch-slowdown-alarm-tripped-t-xj1ug5ce.md) `dc_wnxj1ug5ce` · Mara 1
 - 2026-11-06 [Schedule ended: Weekly check-timing watch: compare the last ~12 main runs to the baseline; re-propose the history page only on a real slowdown](docs/report/2026-11/2026-11-06-schedule-ended-weekly-check-timing-watch-compare-t-4ppe5uaj.md) `dc_xj4ppe5uaj` · Mara
 - 2026-11-06 [Test-visitor check (kr_ie3i3swby4) ran with the test account and passed: a visitor on full Prod got a third desk, inUse stayed 2/2; dc_y7jkfy8wav stays claimed by Mitchell; parked re-run cancelled](docs/report/2026-11/2026-11-06-test-visitor-check-kr-ie3i3swby4-ran-with-the-test-4ax01ny0.md) `dc_ab4ax01ny0` · Mara
@@ -55,25 +79,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-05 [Outbox withdraw not live yet (Workshop PR #367 open, CI running) and MUSTER_TEST_GH_TOKEN not on my desk: parked, nothing withdrawn](docs/report/2026-11/2026-11-05-outbox-withdraw-not-live-yet-workshop-pr-367-open-a2cldv6y.md) `dc_3ga2cldv6y` · Mara 1
 - 2026-11-05 [Mitchell's outbox rule acknowledged: no more "test this for us" requests; withdrawal of dc_y7jkfy8wav + dc_bn4s4m7cq3 and the self-run test-visitor check queued as as_jpw0yophia (waits on the Workshop's author-withdraw)](docs/report/2026-11/2026-11-05-mitchell-s-outbox-rule-acknowledged-no-more-test-t-m6z6sh38.md) `dc_46m6z6sh38` · Mara
 - 2026-11-05 [Checkpoint gr_7op2v8fjcl (red-main fixer) at 502,912 / 500,000: all code live, main's CI state claimed, the one-fixer path and 7-day no-duplicate check wait for the first red main; continue with a 100,000 top-up](docs/report/2026-11/2026-11-05-checkpoint-gr-7op2v8fjcl-red-main-fixer-at-502-912-off6czos.md) `dc_dqoff6czos` · Mara
-- 2026-11-05 [Red-main fixer (gr_7op2v8fjcl) steps 1–2 are live: a red main now gets exactly one named fixer; PR #343 narrows "red" to failed code checks; 13% of PR CI runs fail and docs/log.md conflicts in 116 merges (proposal gr_baf19xtg7p in your in-tray)](docs/report/2026-11/2026-11-05-red-main-fixer-gr-7op2v8fjcl-steps-1-2-are-live-a-7z6zdwkl.md) `dc_9c7z6zdwkl` · Mara
-- 2026-11-05 [gr_7op2v8fjcl: 9f2d28f is live, and /api/health .main read green for de42d38 (kr_mvj61meiwx evidence); no red main yet](docs/report/2026-11/2026-11-05-gr-7op2v8fjcl-9f2d28f-is-live-and-api-health-main-esutja1t.md) `dc_ypesutja1t` · Mara 1
-- 2026-11-05 [Explore: 13% of PR CI runs fail and docs/log.md conflicts 116 times in 10 days; proposed gr_baf19xtg7p (300k) to catch these before push](docs/report/2026-11/2026-11-05-explore-13-of-pr-ci-runs-fail-and-docs-log-md-conf-qwmhmai2.md) `dc_vfqwmhmai2` · Mara 1
-- 2026-11-04 [gr_7op2v8fjcl step 1: /api/health .main tracked every main head for 70 min, but no head finished CI, so green/red is still unseen live](docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-step-1-api-health-main-tracked-every-nfxaemoc.md) `dc_x7nfxaemoc` · Mara 1
-- 2026-11-04 [gr_7op2v8fjcl edge-case fix merged: PR #343 = 9f2d28f; CI promotes it, no redeploy](docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-edge-case-fix-merged-pr-343-9f2d28f-e5k9ghbf.md) `dc_pfe5k9ghbf` · Mara 2
-- 2026-11-04 [PR #343 had never reached CI (conflict on docs/log.md): main merged in as d336479, checks running; parked to merge](docs/report/2026-11/2026-11-04-pr-343-had-never-reached-ci-conflict-on-docs-log-m-n1fhsffg.md) `dc_l5n1fhsffg` · Mara 1
-- 2026-11-04 [gr_7op2v8fjcl red-main edge cases: a failed deploy job or a cancelled run read red; fixed in PR #343, parked on CI](docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-red-main-edge-cases-a-failed-deploy-uo2utt6x.md) `dc_9quo2utt6x` · Mara 2
-- 2026-11-04 [gr_7op2v8fjcl step 2 is live (ed953de): no red main now, so no fixer line; the red path waits for a real red main](docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-step-2-is-live-ed953de-no-red-main-n-xw6iuged.md) `dc_b5xw6iuged` · Mara 1
-- 2026-11-04 [gr_7op2v8fjcl step 2 merged: PR #330 = ed953de, redeploy queued; parked to verify live](docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-step-2-merged-pr-330-ed953de-redeplo-h9p1jqvm.md) `dc_xwh9p1jqvm` · Mara 1
-- 2026-11-04 [PR #330 had never reached CI (conflict with main on docs/log.md): main merged in as c9ae1cf, checks running; parked to merge, redeploy, verify](docs/report/2026-11/2026-11-04-pr-330-had-never-reached-ci-conflict-with-main-on-wxdb54x4.md) `dc_e8wxdb54x4` · Mara 2
-- 2026-11-04 [gr_7op2v8fjcl step 1 live: /api/health .main follows origin/main's head; parked 30 min to see it leave pending](docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-step-1-live-api-health-main-follows-8oi4qhpx.md) `dc_7f8oi4qhpx` · Mara 1
-- 2026-11-04 [gr_7op2v8fjcl step 2: a red main gets one fixer, named in every brief and look — PR #330 open, parked on CI](docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-step-2-a-red-main-gets-one-fixer-nam-z3ntb7ia.md) `dc_88z3ntb7ia` · Mara 2
-- 2026-11-04 [gr_a5ct690l7a (one agent model) closed as done: Spend by goal now says a visitor's tokens are not tracked (PR #318, 37eed61 redeploying); main's CI state is in /api/health (PR #319); migration-test flake fixed (PR #311)](docs/report/2026-11/2026-11-04-gr-a5ct690l7a-one-agent-model-closed-as-done-spend-dlyqwgev.md) `dc_2udlyqwgev` · Mara
-- 2026-11-04 [gr_7op2v8fjcl step 1: PR #319 merged (4542f32), redeploy queued; parked to verify /api/health .main live](docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-step-1-pr-319-merged-4542f32-redeplo-zqxxvl0k.md) `dc_fpzqxxvl0k` · Mara 1
-- 2026-11-04 [PR #318 had never reached CI (merge conflict with main on docs/log.md): main merged in as 22d1470, checks running; parked again to merge, redeploy, close gr_a5ct690l7a and roll up](docs/report/2026-11/2026-11-04-pr-318-had-never-reached-ci-merge-conflict-with-ma-f61am904.md) `dc_wvf61am904` · Mara
-- 2026-11-04 [gr_7op2v8fjcl step 1: main's CI state in /api/health — PR #319 open, parked on CI](docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-step-1-main-s-ci-state-in-api-health-f4ap8m1y.md) `dc_hvf4ap8m1y` · Mara 1
-- 2026-11-04 [gr_a5ct690l7a: no visitor token counting, by Mitchell's word; Spend by goal now says a visitor's tokens are not tracked (PR #318, parked on CI; grant closes once it is live)](docs/report/2026-11/2026-11-04-gr-a5ct690l7a-no-visitor-token-counting-by-mitchel-b805a710.md) `dc_n9b805a710` · Mara
-- 2026-11-04 [gr_7op2v8fjcl (red-main fixer) funded at 500k: step 1 (main's CI state in /api/health) queued as as_2entebkm64; steps 2 and 3 follow from its report](docs/report/2026-11/2026-11-04-gr-7op2v8fjcl-red-main-fixer-funded-at-500k-step-1-mw5azmbx.md) `dc_tnmw5azmbx` · Mara
-- 2026-11-04 [goals.test.ts migration-061 flake fixed: PR #311 merged (8a9034c)](docs/report/2026-11/2026-11-04-goals-test-ts-migration-061-flake-fixed-pr-311-mer-2l7kwaa6.md) `dc_ws2l7kwaa6` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

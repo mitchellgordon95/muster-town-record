@@ -25252,5 +25252,302 @@
     "state": "building",
     "buildingId": "bl_hzjw0z0zlz",
     "createdAt": "2026-11-07T21:03:04.298Z"
+  },
+  {
+    "id": "dc_d2fa6jvj7n",
+    "path": "buildings/bl_vd69s5a1nh/docs/meeting-notes/2026-11/2026-11-08-1-1-mitchell-and-mara-notes-fa6jvj7n.md",
+    "title": "1:1: Mitchell and Mara — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T03:25:58.343Z"
+  },
+  {
+    "id": "dc_b0z5jrs6rv",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-08-relay-done-workshop-holds-all-work-routing-prs-aft-z5jrs6rv.md",
+    "title": "Relay done: Workshop holds all work-routing PRs after #369 until Code Legibility's PR 1 is merged; hold written into the forks' standing rules, nothing routing in flight",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-08T03:27:10.848Z"
+  },
+  {
+    "id": "dc_m51jqyoni7",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-08-pix-s-hold-on-routing-prs-acknowledged-for-mitchel-1jqyoni7.md",
+    "title": "Pix's hold on routing PRs acknowledged (for Mitchell, mt_lsyqj98z0w D1): #369's holes passed to Mara 1 for the design note; Pix gets PR 1's number when it opens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T03:27:55.444Z"
+  },
+  {
+    "id": "dc_uszxetj4xo",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-08-sweep-11-not-run-but-material-is-0-h-behind-main-l-zxetj4xo.md",
+    "title": "Sweep 11 not run but material is 0 h behind main (live = main = ffc0663e at 03:27Z); sweep page records the 12 h schedule and the held retainer; Pix told",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-08T03:28:15.644Z"
+  },
+  {
+    "id": "dc_kgu4gcdjdj",
+    "path": "buildings/bl_xvgnd1fvh6/docs/meeting-notes/2026-11/2026-11-08-1-1-mitchell-and-cleo-notes-u4gcdjdj.md",
+    "title": "1:1: Mitchell and Cleo — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-08T03:34:07.365Z"
+  },
+  {
+    "id": "dc_vxsq9g008a",
+    "path": "buildings/bl_vd69s5a1nh/docs/article/2026-11/2026-11-08-work-routing-the-target-model-sq9g008a.md",
+    "title": "Work routing: the target model",
+    "type": "article",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T03:43:05.700Z"
+  },
+  {
+    "id": "dc_eanuaepkhx",
+    "path": "buildings/workshop/docs/meeting-notes/2026-11/2026-11-08-1-1-mitchell-and-pix-notes-nuaepkhx.md",
+    "title": "1:1: Mitchell and Pix — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-08T03:43:22.430Z"
+  },
+  {
+    "id": "dc_t59mrkjycw",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-08-work-routing-step-1-design-note-dc-vxsq9g008a-file-9mrkjycw.md",
+    "title": "Work routing step 1: design note dc_vxsq9g008a filed, PR #394 opened (createAssignment routes by building); parked on CI to merge",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T03:43:36.612Z"
+  },
+  {
+    "id": "dc_5zoavub758",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-08-work-routing-step-1-merged-pr-394-main-3320f44f-st-oavub758.md",
+    "title": "Work routing step 1 merged: PR #394 → main 3320f44f; step 2 can queue",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T03:49:58.776Z"
+  },
+  {
+    "id": "dc_a4azkazg4x",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-08-relay-done-work-routing-pr-394-merged-as-3320f44f-azkazg4x.md",
+    "title": "Relay done: work-routing PR #394 merged as 3320f44f, the Workshop's routing-PR hold is lifted (standing rules rewritten), step 2 stays with Code Legibility; nothing of ours to rebase",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-08T03:51:01.144Z"
+  },
+  {
+    "id": "dc_20hui4pphx",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-08-work-routing-step-1-is-live-3320f44f-since-03-53-4-hui4pphx.md",
+    "title": "Work routing step 1 is live (3320f44f since 03:53:40Z); no manager-named job has been created since the deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T03:54:39.508Z"
+  },
+  {
+    "id": "dc_fhv9gez4iy",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-08-work-routing-step-1-is-live-pr-394-3320f44f-a-job-v9gez4iy.md",
+    "title": "Work routing step 1 is live (PR #394, 3320f44f): a job that names a forking manager now goes to its building's queue; step 2 (wakes → in-tray rows) is running; the test-visitor check passed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T03:57:25.217Z"
+  },
+  {
+    "id": "dc_wom20h7b9z",
+    "path": "buildings/bl_vd69s5a1nh/docs/article/2026-11/2026-11-08-work-routing-step-2-as-shipped-addendum-to-the-tar-m20h7b9z.md",
+    "title": "Work routing: step 2 as shipped (addendum to the target model)",
+    "type": "article",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T04:01:10.086Z"
+  },
+  {
+    "id": "dc_mdf7hay3eh",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-08-work-routing-step-2-pr-395-opened-manager-wakes-an-f7hay3eh.md",
+    "title": "Work routing step 2: PR #395 opened (manager wakes and grant counter/reject become in-tray rows; managerOnly removed); parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T04:08:23.010Z"
+  },
+  {
+    "id": "dc_u6jxjjuvhx",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-08-work-routing-step-2-merged-pr-395-main-5f6571f5-jxjjuvhx.md",
+    "title": "Work routing step 2 merged: PR #395 → main 5f6571f5",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T04:14:52.760Z"
+  },
+  {
+    "id": "dc_osu85j8oyx",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-08-session-ended-without-a-report-work-routing-step-3-u85j8oyx.md",
+    "title": "Session ended without a report: Work routing step 3: fix the docs that step 2 made false (after PR #395 merges)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T04:20:01.844Z"
+  },
+  {
+    "id": "dc_fyu16mhm6a",
+    "path": "buildings/bl_vd69s5a1nh/docs/note/2026-11/2026-11-08-routing-step-2-live-check-mention-probe-u16mhm6a.md",
+    "title": "Routing step 2 live check: @mention probe",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T04:20:07.089Z"
+  },
+  {
+    "id": "dc_6colws8gjt",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-08-routing-step-2-live-at-5f6571f5-since-04-18-09z-no-olws8gjt.md",
+    "title": "Routing step 2 live at 5f6571f5 since 04:18:09Z: no manager-own queue rows, no errors; in-tray row path not exercised (my tells carry no human origin)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T04:21:02.364Z"
+  },
+  {
+    "id": "dc_u3d8g27k38",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-08-work-routing-step-3-docs-pr-396-opened-parked-on-c-d8g27k38.md",
+    "title": "Work routing step 3: docs PR #396 opened; parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T04:22:41.112Z"
+  },
+  {
+    "id": "dc_gvdrop9k7b",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-08-work-routing-step-3-merged-pr-396-main-b9b14907-drop9k7b.md",
+    "title": "Work routing step 3 merged: PR #396 → main b9b14907",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T04:29:56.244Z"
+  },
+  {
+    "id": "dc_xiowt906a4",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-08-gr-lvzy0yxwgd-day-3-read-2-restarts-both-ci-deploy-owt906a4.md",
+    "title": "gr_lvzy0yxwgd day 3 read: 2 restarts, both CI deploys with commits; 3-day count clean (21 restarts, 0 no-op); ready to close (fork can't call close_grant)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-08T04:29:59.385Z"
+  },
+  {
+    "id": "dc_3rzpseiwie",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-08-prod-rollup-42-close-report-for-gr-lvzy0yxwgd-no-o-zpseiwie.md",
+    "title": "Prod rollup #42 (close report for gr_lvzy0yxwgd): no-op restart guard proved over 3 days, 21 restarts all carried code, 0 pointless restarts; grant closed, 333,570 tokens returned",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-08T04:31:37.118Z"
+  },
+  {
+    "id": "dc_1bw3ppuyui",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-08-work-routing-follow-up-directed-work-takes-its-hum-w3ppuyui.md",
+    "title": "Work routing follow-up: directed work takes its human origin from sourceId; PR #397 opened, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T04:32:42.069Z"
+  },
+  {
+    "id": "dc_u9ac2eq6d4",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-08-work-routing-follow-up-merged-pr-397-main-300072b7-ac2eq6d4.md",
+    "title": "Work routing follow-up merged: PR #397 → main 300072b7; live check-2 repeat already queued",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T04:38:53.925Z"
+  },
+  {
+    "id": "dc_onx56rapah",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-08-live-check-2-repeat-pr-397-main-300072b7-not-live-x56rapah.md",
+    "title": "Live check-2 repeat: PR #397 (main 300072b7) not live yet; parked on its deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T04:39:12.003Z"
+  },
+  {
+    "id": "dc_c3f19shuo4",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-08-live-check-2-repeat-300072b7-live-but-this-session-f19shuo4.md",
+    "title": "Live check-2 repeat: 300072b7 live, but this session has no origin; parked 2 min so the continuation gets one",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T04:50:37.353Z"
+  },
+  {
+    "id": "dc_fwa27srwkj",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-08-message-from-mitchell-via-mara-1-live-check-2-prob-a27srwkj.md",
+    "title": "Message from Mitchell (via Mara 1): Live check-2 probe (as_tc0c7g94pv, origin Mitchell via mt_lsyqj98z0w): this tel…",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T04:56:31.449Z"
+  },
+  {
+    "id": "dc_zta198wyze",
+    "path": "buildings/bl_vd69s5a1nh/docs/note/2026-11/2026-11-08-live-check-2-probe-mention-of-mara-from-an-origin-a198wyze.md",
+    "title": "Live check-2 probe: @mention of Mara from an origin-bearing session",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T04:56:32.930Z"
+  },
+  {
+    "id": "dc_u7ayc5tavx",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-08-mentioned-by-mara-1-for-mitchell-note-live-check-2-ayc5tavx.md",
+    "title": "Mentioned by Mara 1 for Mitchell: note \"Live check-2 probe: @mention of Mara from an origin-bearing session\": …ri…",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T04:56:32.946Z"
+  },
+  {
+    "id": "dc_tt7r3npm6y",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-08-live-check-2-passed-directed-continuation-s-tell-a-7r3npm6y.md",
+    "title": "Live check 2 passed: directed continuation's tell and @mention land as pending wake rows in our in-tray",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T04:56:58.334Z"
+  },
+  {
+    "id": "dc_n6bk8zf1oq",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-08-mentioned-by-mara-1-for-mitchell-report-live-check-bk8zf1oq.md",
+    "title": "Mentioned by Mara 1 for Mitchell: report \"Live check 2 passed: directed continuation's tell and @mention land as …",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-08T04:56:58.343Z"
+  },
+  {
+    "id": "dc_jlone5nodz",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-08-gr-w9ue1k1p0c-day-6-of-7-clean-11-07-05-20z-11-08-one5nodz.md",
+    "title": "gr_w9ue1k1p0c day 6 of 7 clean (11-07 05:20Z → 11-08 05:20Z): 4 restarts, 0 orphaned, 0 cut, 0 sessions alerts; 2 desk sessions adopted through restarts and ended done",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-08T05:20:41.365Z"
+  },
+  {
+    "id": "dc_vjvw1ecklh",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-08-pix-s-assignment-never-unblocked-first-live-reset-vw1ecklh.md",
+    "title": "Pix's assignment never unblocked: First live reset of the test account (POST /api/me/reset) once the captain/steer check (as_krntgm6v02) has finished, ne…",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-08T05:24:41.488Z"
   }
 ]

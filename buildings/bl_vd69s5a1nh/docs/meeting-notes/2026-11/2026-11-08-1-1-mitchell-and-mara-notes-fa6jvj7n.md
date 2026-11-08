@@ -1,0 +1,51 @@
+---
+id: "dc_d2fa6jvj7n"
+type: "meeting-notes"
+state: "building"
+title: "1:1: Mitchell and Mara — notes"
+authorId: "ag_croreod6q3"
+authorKind: "agent"
+buildingId: "bl_vd69s5a1nh"
+provenance: {"sourceIds":[],"urls":[]}
+tags: []
+createdAt: "2026-11-08T03:25:58.343Z"
+updatedAt: "2026-11-08T03:25:58.343Z"
+---
+# 1:1: Mitchell and Mara
+
+Kind: one-on-one. Facilitator: Mara. Attendees: Mara. Attendees brought: a status update (did, next, need).
+
+## Agenda
+
+(none)
+
+## Summaries
+
+(none)
+## Discussion
+
+- **Mitchell:** I'd like to talk about your report "Work routing map filed for Mitchell's meeting ([dc_4xww7x920l](../../article/2026-11/2026-11-05-work-routing-the-map-ww7x920l.md)): 21 paths create work, 13 can land on a forking manager's…" ([dc_9gcxz43hbc](../../report/2026-11/2026-11-05-work-routing-map-filed-for-mitchell-s-meeting-dc-4-cxz43hbc.md)). (presented: [Work routing map filed for Mitchell's meeting (dc_4xww7x920l): 21 paths create work, 13 can land on a forking manager's own queue; Workshop PR #369 closes 3](../../report/2026-11/2026-11-05-work-routing-map-filed-for-mitchell-s-meeting-dc-4-cxz43hbc.md))
+- **Mara:** Hi Mitchell. I've reread the rollup and the map behind it ([dc_4xww7x920l](../../article/2026-11/2026-11-05-work-routing-the-map-ww7x920l.md)). The short version: 21 code paths create work; 13 of them can drop a job on a forking manager's own queue, which means the manager runs it and the building's in-tray waits (runtime/src/manage.ts:167). Since then the Workshop's PR #369 has landed on main (decisionQueue is in domain.ts:337, used at domain.ts:214 and meetings.ts:565), so 3 of those 13 are closed: meeting decisions naming the manager, the auto-approve of the manager's reports, and review continue/redirect on a manager's own report. 10 remain: tell relays to a building id, @mentions, outbox answers, amended-decision wakes, a human's assign/REST work naming the manager, schedule takerId, retry, flags naming the manager, and a manager parking its own work. The one decision I'd like from you today is §4 question 1: fix those 10 one PR at a time (Workshop-style, like #369), or make createAssignment default to the building queue whenever the named agent is a forking manager, with an explicit manager-only flag for the two jobs that must stay (checkpoint, grant funded/countered/rejected)? My recommendation is the one rule: it's one change in domain.ts:59-62 plus a flag on grants.ts:785 and :817, and the docs fixes (architecture.md diagram, invariants 7–8, how-work-gets-done §6) can then describe one rule instead of 21 cases. Which way do you want it, and whose PR: ours or the Workshop's?
+- **Mitchell:** remind me what prompted this investigation again
+- **Mara:** It started in your 1:1 with Pix 3 days ago (mt_peubjyoo0k). Pix had found that decisions from the Secretary's Town Hall 1:1 that named him as assignee landed on his own queue, not the Workshop's building queue: a meeting decision calls createAssignment without a queue (meetings.ts), and the default is queue "agent" (domain.ts:59). So Pix ran that work himself and the Workshop's in-tray waited while he did. You said you'd bring the whole "work routing" subsystem to a Code Legibility meeting and wanted it mapped first; Pix relayed that to me (ms_bxqbqirdur), the Workshop went ahead with its narrow fix (PR #369, now on main), and we filed the map ([dc_4xww7x920l](../../article/2026-11/2026-11-05-work-routing-the-map-ww7x920l.md)) so the meeting could start from one document. While the map was being written we saw the same thing live: my one-line tell to Pix became an assignment "Message from Mitchell (via Mara 1)" on Pix's own queue (as_1id0gxxxyc), which is hole A4, one of the 10 still open.
+- **Mitchell:** ok i see, so 3 of the 10 are already fixed, and we could fix the other 10, or we could just change the semantics of the existing createAssignment interface to route assignments to the building queue instead of named manager agents?
+- **Mara:** Nearly: it was 13 holes, #369 closed 3, so 10 are left. And yes, the second option is exactly what I'd do. Today createAssignment does `queue = a.queue ?? "agent"` and only swaps a fork for its manager (domain.ts:59-62); #369 added decisionQueue (domain.ts:337-343), which asks "is this agent a forking manager?" but each caller has to remember to call it. The change is to fold that check into createAssignment itself: if the named agent is the forkable manager of its building, default to queue "building". Then all 10 close at once, with no per-caller fix. Three things would need an explicit opt-out, a `queue: "agent"` (or a `managerOnly` flag) at the call site: the checkpoint assignment (grants.ts:785), grant funded/countered/rejected (grants.ts:817-861), and a manager parking its own work (verbs/docs.ts:355), since those are the manager's own jobs by design. One rule to settle with it: a flag the manager assigns to itself currently lands on its own queue and a test asserts that (flags.test.ts:52); under the new default it would become a fork's job unless we opt it out too, which I'd say is right. The docs then say one sentence: "work for a forking manager goes to its building queue unless marked manager-only." It's a core/domain.ts change plus two grants.ts call sites and one test, about one session. Do you want us to do it, or the Workshop since they own #369?
+- **Mitchell:** ok so that's one possible fix, and it's not bad
+
+what if we took a step back and looked at how work is getting routed as a whole? is there an architectural change that could simplify a lot of this logic? both for code purposes and human understanding
+- **Mara:** Yes, I think there is one. The root of the mess is that work is addressed to an *agent*, and the agent's identity then decides where it runs: `createAssignment` takes an agentId plus a queue field, and 21 callers each pick both, so every caller is a place to get it wrong. The step back: address work to a *building*, never to an agent. Two nouns, and only two:
+
+1. **A job** goes on a building's queue. Who runs it is a property of the building, not of the job: forks where forks are on, the manager itself where they are off (Town Hall, visitor-managed), a named visitor as an offer. That is already how schedules fall back today (schedules.ts:208-214); it would just become the only rule. The "agent" queue stops being a thing a caller can choose, so holes A4–A13 can't exist.
+
+2. **An in-tray row** goes to the building's manager and is handled in the team-lead session, never as a work session. That mechanism exists too: a human's continue/adjust/cut/close on a grant already wakes the manager this way (`managerIntrayRow`, wakes.ts:24-37). A tell, @mention or outbox answer aimed at a manager becomes an in-tray row, not a "Message from Mitchell" assignment; the checkpoint and grant funded/countered/rejected become in-tray rows as well, since they are decisions, not work. The manager then does exactly one thing, decide and roll up, and the prompt rule (C1) becomes structural.
+
+For a human the whole model is one sentence: *each building has an in-tray (the manager decides) and a queue (its workers do)*. Today they have to hold agent queues, building queues, offers, relays, wakes and parked continuations in their head.
+
+What it touches: createAssignment's signature (buildingId in, agentId out except for offers), the runtime loop that starts managers as ordinary residents (runtime/src/index.ts:602-620), wakes.ts, meetings.ts, grants.ts, ops.ts, schedules.ts, and the docs/invariants. Bigger than the one-line default, so I wouldn't decide it here. I'd propose one read-only design session from us: write the target model, list every call site with what it becomes (job or in-tray row), and name what we'd lose (e.g. the manager taking a small blocking job itself). Then you pick between the quick default-queue fix and the restructure with the costs in front of you. Shall I queue that?
+- **Mitchell:** no i think we just do the restructure, there's basically no risk at this stage of the project
+- **Mara:** Done. Recorded as decision 1 and queued on our building queue as as_ukj2njrh9c (directed, from this 1:1; a fork of me runs it when the next desk is free). Step 1 files the design note "Work routing: the target model" (every one of the 21 call sites → job or in-tray row, and what we lose) and ships PR 1: createAssignment routes a forking manager's work to the building queue, tests updated, merged when green. Step 2 moves the manager-addressed wakes and the checkpoint/grant-decision jobs to in-tray rows and stops the runtime starting forking managers' own queues; step 3 is the docs (architecture.md, wakes.md, invariants 7–8, how-work-gets-done §6). Each step's report queues the next; you'll see it in my rollups as it lands. One thing I'll do myself as the step opens: tell Pix to hold further routing PRs so the Workshop and we don't collide. Anything else you want in the target model before it runs, say it now and I'll add it to the assignment.
+
+## Decisions
+
+1. Restructure work routing as a whole (Mitchell, 03:24 UTC): work is addressed to a building, never to a forking manager as a worker. Two nouns: a job on the building queue (run by forks, or by the manager only where forks are off, or offered to a visitor) and an in-tray row for the manager (tells/mentions/request answers to a manager, the checkpoint, grant funded/countered/rejected). Code Legibility does it in three steps; step 1 is as_ukj2njrh9c (design note + PR 1: createAssignment routes forking managers' work to the building queue; tests updated). Steps 2 (wakes and grant/checkpoint jobs → in-tray rows; runtime stops starting forking managers' agent queues) and 3 (docs: architecture.md, wakes.md, invariants 7–8, how-work-gets-done §6) queue from each step's report. The Workshop holds further routing PRs.
+

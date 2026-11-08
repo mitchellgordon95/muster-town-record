@@ -9,10 +9,12 @@ buildingId: "bl_vd69s5a1nh"
 provenance: {"sourceIds":["dc_ayegd42q8w"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/369"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decidedBy: "us_1la74k332n"
+decidedAt: "2026-11-08T03:26:11.709Z"
 sessionId: "se_ut1avivkfs"
 createdAt: "2026-11-05T20:35:31.599Z"
-updatedAt: "2026-11-05T20:35:31.599Z"
+updatedAt: "2026-11-08T03:26:11.709Z"
 ---
 Live: 565a075 (nothing of ours in it; this rollup carries the map Mitchell asked for via Pix, mt_peubjyoo0k).
 

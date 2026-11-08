@@ -37,8 +37,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-30 [CLEARED RED sessions: 2 Claude sessions failed in 15 min](docs/fyi/2026-10/2026-10-30-cleared-red-sessions-2-claude-sessions-failed-in-1-nsid4hfb.md) `dc_6qnsid4hfb` · Town
 - 2026-10-29 [CLEARED RED desk-steal: desk session steal 5% of cpu + steal](docs/fyi/2026-10/2026-10-29-cleared-red-desk-steal-desk-session-steal-5-of-cpu-hf8jup1j.md) `dc_qrhf8jup1j` · Town
 
-## meeting-notes (16)
+## meeting-notes (17)
 
+- 2026-11-08 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-11/2026-11-08-1-1-mitchell-and-cleo-notes-u4gcdjdj.md) `dc_kgu4gcdjdj` · Cleo
 - 2026-10-31 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-cleo-notes-lw64sup9.md) `dc_0flw64sup9` · Cleo
 - 2026-10-31 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-cleo-notes-p6x17t8b.md) `dc_fap6x17t8b` · Cleo
 - 2026-10-30 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-cleo-notes-jhc3k9yi.md) `dc_vbjhc3k9yi` · Cleo
@@ -86,8 +87,11 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (295)
+## report (298)
 
+- 2026-11-08 [gr_w9ue1k1p0c day 6 of 7 clean (11-07 05:20Z → 11-08 05:20Z): 4 restarts, 0 orphaned, 0 cut, 0 sessions alerts; 2 desk sessions adopted through restarts and ended done](docs/report/2026-11/2026-11-08-gr-w9ue1k1p0c-day-6-of-7-clean-11-07-05-20z-11-08-one5nodz.md) `dc_jlone5nodz` · Cleo 1
+- 2026-11-08 [Prod rollup #42 (close report for gr_lvzy0yxwgd): no-op restart guard proved over 3 days, 21 restarts all carried code, 0 pointless restarts; grant closed, 333,570 tokens returned](docs/report/2026-11/2026-11-08-prod-rollup-42-close-report-for-gr-lvzy0yxwgd-no-o-zpseiwie.md) `dc_3rzpseiwie` · Cleo
+- 2026-11-08 [gr_lvzy0yxwgd day 3 read: 2 restarts, both CI deploys with commits; 3-day count clean (21 restarts, 0 no-op); ready to close (fork can't call close_grant)](docs/report/2026-11/2026-11-08-gr-lvzy0yxwgd-day-3-read-2-restarts-both-ci-deploy-owt906a4.md) `dc_xiowt906a4` · Cleo 1
 - 2026-11-07 [gr_w9ue1k1p0c day 5 of 7 clean (11-06 05:20Z → 11-07 05:20Z): 2 restarts, 0 orphaned, 0 cut, 0 sessions alerts (a quiet day)](docs/report/2026-11/2026-11-07-gr-w9ue1k1p0c-day-5-of-7-clean-11-06-05-20z-11-07-h4vjinyv.md) `dc_cfh4vjinyv` · Cleo 1
 - 2026-11-07 [gr_lvzy0yxwgd day 2 read: 5 restarts, all CI deploys with commits; 0 no-op restarts; restarts24h 5](docs/report/2026-11/2026-11-07-gr-lvzy0yxwgd-day-2-read-5-restarts-all-ci-deploys-uc8v8iva.md) `dc_17uc8v8iva` · Cleo 1
 - 2026-11-06 [Prod rollup #41 (close report for gr_db6ofyd0yf): Bank read paths memoized, live tick 199 → 73 ms, 1,029,156 tokens back; the self-host image now restores a town from backup on first boot (its last docs step is held at a checkpoint); drains clean 4 of 7 days, no no-op restart in day 1](docs/report/2026-11/2026-11-06-prod-rollup-41-close-report-for-gr-db6ofyd0yf-bank-b1f3dbao.md) `dc_tzb1f3dbao` · Cleo
@@ -115,9 +119,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-05 [gr_lvzy0yxwgd step 1 live: f318ec8 deployed by CI (no agent redeploy); no no-op request yet to show the guard firing](docs/report/2026-11/2026-11-05-gr-lvzy0yxwgd-step-1-live-f318ec8-deployed-by-ci-n-4dgn20bs.md) `dc_mu4dgn20bs` · Cleo 1
 - 2026-11-05 [gr_lvzy0yxwgd step 1: PR #365 merged as f318ec8 (CI green, no redeploy); parked until it is live](docs/report/2026-11/2026-11-05-gr-lvzy0yxwgd-step-1-pr-365-merged-as-f318ec8-ci-g-kzxp0pb5.md) `dc_7kkzxp0pb5` · Cleo 1
 - 2026-11-05 [gr_lvzy0yxwgd step 1: no-op restart guard + restart reason + tool text in PR #365; parked on its CI](docs/report/2026-11/2026-11-05-gr-lvzy0yxwgd-step-1-no-op-restart-guard-restart-r-3zyvrrzo.md) `dc_3g3zyvrrzo` · Cleo 1
-- 2026-11-05 [gr_lvzy0yxwgd cut into 3 steps: step 1 (no-op restart guard + restart reason + tool text, PR with tests) queued as as_oe482l2y7v; merge-rules FYI already revised; 3-day live count follows the merge](docs/report/2026-11/2026-11-05-gr-lvzy0yxwgd-cut-into-3-steps-step-1-no-op-restar-vj0ib9yy.md) `dc_b5vj0ib9yy` · Cleo
-- 2026-11-05 [Explore: muster.town has no public uptime record; proposed gr_rcj8nkbkbt (outside-probe uptime API + page, 260k)](docs/report/2026-11/2026-11-05-explore-muster-town-has-no-public-uptime-record-pr-tvfynjkj.md) `dc_rstvfynjkj` · Cleo 1
-- 2026-11-05 [Outbox rule noted; a Fly org token in the Town Hall secrets would let a Prod fork run the recovery drill itself (goes as the next rollup's Needs line); dc_6gnk7y16y1 is withdrawn once author-withdraw lands](docs/report/2026-11/2026-11-05-outbox-rule-noted-a-fly-org-token-in-the-town-hall-iaxit5pr.md) `dc_xbiaxit5pr` · Cleo
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

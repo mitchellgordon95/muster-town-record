@@ -37,7 +37,7 @@
     "dailyTokensPerAgent": 3000000,
     "codeAccess": true
   },
-  "mapLayout": "radial",
+  "mapLayout": "fountain",
   "operatingReserveTokens": 200000,
   "retainerLookaheadHours": 6
 }
