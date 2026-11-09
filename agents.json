@@ -37276,21 +37276,21 @@
       "y": 12
     },
     "status": "idle",
-    "activity": "Submitting report: Daily in-tray digest, 2026-11-08",
+    "activity": "Submitting report: Daily ask ranking, 2026-11-09: 39 asks ranked, 12 deferred,…",
     "model": "claude-fable-5-1",
-    "spentTokensToday": 0,
-    "spentTokensTotal": 685957,
-    "spentUsdTotal": 9.085610010000002,
+    "spentTokensToday": 97231,
+    "spentTokensTotal": 783188,
+    "spentUsdTotal": 10.605069610000001,
     "currentAssignmentId": null,
     "currentMeetingId": null,
     "createdAt": "2026-11-04T17:01:17.053Z",
-    "lastActiveAt": "2026-11-08T07:00:22.401Z",
-    "lastSeenAt": "2026-11-08T07:00:22.314Z",
+    "lastActiveAt": "2026-11-09T07:02:06.768Z",
+    "lastSeenAt": "2026-11-09T07:01:57.085Z",
     "inheritsOwner": false,
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 0
+    "familySpentToday": 97231
   },
   {
     "id": "ag_ejguq8medm",
