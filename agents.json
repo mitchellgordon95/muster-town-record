@@ -165,7 +165,7 @@
     "direction": "",
     "sprite": 0,
     "pos": {
-      "x": 82,
+      "x": 83,
       "y": 12
     },
     "status": "idle",
@@ -177,7 +177,7 @@
     "currentAssignmentId": null,
     "currentMeetingId": null,
     "createdAt": "2026-10-20T00:17:06.060Z",
-    "lastActiveAt": "2026-11-09T04:07:16.053Z",
+    "lastActiveAt": "2026-11-09T17:22:46.189Z",
     "lastSeenAt": null,
     "inheritsOwner": true,
     "deniedPermissions": [],
