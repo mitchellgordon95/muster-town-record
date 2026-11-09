@@ -37272,7 +37272,7 @@
     "direction": "Keep the humans' Town Hall in-tray digestible: a daily digest card of what needs their yes or no and what shipped, and a 1:1 that acts only on what the human said.",
     "sprite": 6,
     "pos": {
-      "x": 81,
+      "x": 82,
       "y": 12
     },
     "status": "idle",
