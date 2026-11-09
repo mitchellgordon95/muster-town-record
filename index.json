@@ -25657,5 +25657,77 @@
     "state": "building",
     "buildingId": "town-hall",
     "createdAt": "2026-11-09T07:02:06.362Z"
+  },
+  {
+    "id": "dc_f1s4di6xfq",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-09-grant-gr-z2v838adk9-cut-s4di6xfq.md",
+    "title": "Grant gr_z2v838adk9 cut",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-09T22:31:33.726Z"
+  },
+  {
+    "id": "dc_tjq136tvjw",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-09-grant-gr-q1jrelx2ty-adjusted-800-000-tokens-q136tvjw.md",
+    "title": "Grant gr_q1jrelx2ty adjusted: 800,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-09T22:32:50.428Z"
+  },
+  {
+    "id": "dc_316drno42y",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-09-gr-q1jrelx2ty-step-4-done-pr-392-merged-b9a248b0-s-6drno42y.md",
+    "title": "gr_q1jrelx2ty step 4 done: PR #392 merged (b9a248b0), self-host path B pulls the ghcr image; all 4 KRs claimed, ready to close (fork can't call close_grant)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-09T22:34:00.805Z"
+  },
+  {
+    "id": "dc_bpkmunmsjc",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-09-prod-rollup-44-close-report-for-gr-q1jrelx2ty-513-kmunmsjc.md",
+    "title": "Prod rollup #44 (close report for gr_q1jrelx2ty, 513,006 / 800,000): a stranger can run their own Muster Town from the published image; CI proves the image boots and restores a backup on every green main",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-09T22:35:23.504Z"
+  },
+  {
+    "id": "dc_87k7ponzy1",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-09-1-1-mitchell-and-secretary-notes-k7ponzy1.md",
+    "title": "1:1: Mitchell and Secretary — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-09T22:37:41.294Z"
+  },
+  {
+    "id": "dc_rdx7am7r9q",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-09-grant-titles-and-how-asks-name-a-grant-x7am7r9q.md",
+    "title": "Grant titles and how asks name a grant",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-09T22:48:25.351Z"
+  },
+  {
+    "id": "dc_0158so71yk",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-09-grant-names-in-asks-pr-403-written-titles-quoted-n-58so71yk.md",
+    "title": "Grant names in asks: PR #403 written titles + quoted names, waiting on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-09T22:48:34.964Z"
+  },
+  {
+    "id": "dc_nlsprylsgw",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-09-pr-403-ci-failed-on-knip-unused-export-fixed-and-p-sprylsgw.md",
+    "title": "PR #403 CI failed on knip (unused export); fixed and pushed e3cc9693, waiting on CI again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-09T22:50:16.339Z"
   }
 ]

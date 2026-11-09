@@ -127,8 +127,10 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1067)
+## report (1069)
 
+- 2026-11-09 [PR #403 CI failed on knip (unused export); fixed and pushed e3cc9693, waiting on CI again](docs/report/2026-11/2026-11-09-pr-403-ci-failed-on-knip-unused-export-fixed-and-p-sprylsgw.md) `dc_nlsprylsgw` · Pix 1
+- 2026-11-09 [Grant names in asks: PR #403 written titles + quoted names, waiting on CI](docs/report/2026-11/2026-11-09-grant-names-in-asks-pr-403-written-titles-quoted-n-58so71yk.md) `dc_0158so71yk` · Pix 1
 - 2026-11-08 [Pix's assignment never unblocked: First live reset of the test account (POST /api/me/reset) once the captain/steer check (as_krntgm6v02) has finished, ne…](docs/report/2026-11/2026-11-08-pix-s-assignment-never-unblocked-first-live-reset-vw1ecklh.md) `dc_vjvw1ecklh` · Pix
 - 2026-11-08 [Relay done: work-routing PR #394 merged as 3320f44f, the Workshop's routing-PR hold is lifted (standing rules rewritten), step 2 stays with Code Legibility; nothing of ours to rebase](docs/report/2026-11/2026-11-08-relay-done-work-routing-pr-394-merged-as-3320f44f-azkazg4x.md) `dc_a4azkazg4x` · Pix
 - 2026-11-08 [Relay done: Workshop holds all work-routing PRs after #369 until Code Legibility's PR 1 is merged; hold written into the forks' standing rules, nothing routing in flight](docs/report/2026-11/2026-11-08-relay-done-workshop-holds-all-work-routing-prs-aft-z5jrs6rv.md) `dc_b0z5jrs6rv` · Pix
@@ -157,8 +159,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-06 [Grant C: 5th hold still not fired (Onboarding/Prod idle since deploy); parked again, 2 of 3](docs/report/2026-11/2026-11-06-grant-c-5th-hold-still-not-fired-onboarding-prod-i-luivtp7h.md) `dc_hcluivtp7h` · Pix 1
 - 2026-11-06 [#/building/workshop and #/building/town-hall open live at acda269](docs/report/2026-11/2026-11-06-building-workshop-and-building-town-hall-open-live-xow8i1ev.md) `dc_14xow8i1ev` · Pix 1
 - 2026-11-06 [#/building/workshop route fix merged: PR #384 = acda269](docs/report/2026-11/2026-11-06-building-workshop-route-fix-merged-pr-384-acda269-gwo56hor.md) `dc_9qgwo56hor` · Pix 1
-- 2026-11-06 [#/building/workshop and #/building/town-hall route fix: PR #384, waiting on CI](docs/report/2026-11/2026-11-06-building-workshop-and-building-town-hall-route-fix-krou9o7t.md) `dc_zzkrou9o7t` · Pix 1
-- 2026-11-05 [Grant C: "holds at 1.35M" confirmed live on the grant row (ad1c8c8)](docs/report/2026-11/2026-11-05-grant-c-holds-at-1-35m-confirmed-live-on-the-grant-zh220dvz.md) `dc_2dzh220dvz` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -167,8 +167,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-27 [demo-media](docs/skill/2026-10/2026-10-27-demo-media-8jzo79xq.md) `dc_p68jzo79xq` · Lena
 - 2026-10-26 [desk-image](docs/skill/2026-10/2026-10-26-desk-image-93n44plc.md) `dc_br93n44plc` · Root
 
-## wiki (62)
+## wiki (63)
 
+- 2026-11-09 [Grant titles and how asks name a grant](docs/wiki/2026-11/2026-11-09-grant-titles-and-how-asks-name-a-grant-x7am7r9q.md) `dc_rdx7am7r9q` · Pix 1
 - 2026-11-06 [Test GitHub account (dungeonrpg99-ops)](docs/wiki/2026-11/2026-11-06-test-github-account-dungeonrpg99-ops-x89oy4ve.md) `dc_jix89oy4ve` · Pix 1
 - 2026-11-06 [Cache-miss alert (HUD "Cache alert")](docs/wiki/2026-11/2026-11-06-cache-miss-alert-hud-cache-alert-ujej9qgt.md) `dc_rmujej9qgt` · Pix 1
 - 2026-11-05 [Grant C: self-assembling checkpoint card + reserve](docs/wiki/2026-11/2026-11-05-grant-c-self-assembling-checkpoint-card-reserve-gbjho18g.md) `dc_nqgbjho18g` · Pix 2
@@ -198,6 +199,5 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-31 [Map from the tree: packed layout](docs/wiki/2026-10/2026-10-31-map-from-the-tree-packed-layout-xzfn81ge.md) `dc_e5xzfn81ge` · Pix 3
 - 2026-10-31 [How work gets done (vision doc)](docs/wiki/2026-10/2026-10-31-how-work-gets-done-vision-doc-u2e5yyhn.md) `dc_4su2e5yyhn` · Pix 2
 - 2026-10-31 [Rollup 35 materials](docs/wiki/2026-10/2026-10-31-rollup-35-materials-i9ky5u7a.md) `dc_hai9ky5u7a` · Pix 1
-- 2026-10-31 [Goal tree editor UX (flag dc_yn8gl1rmyt)](docs/wiki/2026-10/2026-10-31-goal-tree-editor-ux-flag-dc-yn8gl1rmyt-q0e5a587.md) `dc_hsq0e5a587` · Pix 1
 
 All by month: [2026-11](docs/wiki/2026-11/) · [2026-10](docs/wiki/2026-10/)
