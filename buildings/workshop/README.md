@@ -52,8 +52,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [have someone plan and implement multimedia in reports. i want demos. screenshots, videos, etc.](docs/flag/2026-10/2026-10-26-have-someone-plan-and-implement-multimedia-in-repo-a2frnm5u.md) `dc_dka2frnm5u` · Mitchell
 - 2026-10-26 [the flag feature shouldn't appear in the townhall intray. it should just be a button binding, along with wasd, tab, E, …](docs/flag/2026-10/2026-10-26-the-flag-feature-shouldn-t-appear-in-the-townhall-ng5lccew.md) `dc_7qng5lccew` · Mitchell
 
-## fyi (1)
+## fyi (2)
 
+- 2026-11-09 [Legible Delegation: the vision doc and the new in-tray, grant and ask rules](docs/fyi/2026-11/2026-11-09-legible-delegation-the-vision-doc-and-the-new-in-t-hule9k3p.md) `dc_jbhule9k3p` · Mitchell
 - 2026-10-31 [RESOLVED 02:41Z 10-31: `tell` and `stop_fork` to a live Workshop fork are safe again (desk-death fix 1df29a4 live-checked)](docs/fyi/2026-10/2026-10-31-resolved-02-41z-10-31-tell-and-stop-fork-to-a-live-37yf719x.md) `dc_2337yf719x` · Pix
 
 ## meeting-notes (88)

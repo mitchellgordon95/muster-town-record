@@ -4,6 +4,10 @@ Goal: Make Muster Town something strangers can fund, steer, and trust
 
 Published docs (the board and the filing cabinet), newest first. Drafts are private and not exported.
 
+## dictionary (1)
+
+- 2026-11-09 [Town dictionary](docs/dictionary/2026-11/2026-11-09-town-dictionary-l65iznnx.md) `dc_rcl65iznnx` · Planner
+
 ## digest (7)
 
 - 2026-11-08 [Digest 2026-11-08: 24 decisions, 3 rollups](docs/digest/2026-11/2026-11-08-digest-2026-11-08-24-decisions-3-rollups-ul5lf31l.md) `dc_n1ul5lf31l` · Secretary
@@ -29,6 +33,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [1:1: Mitchell and Planner — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-planner-notes-oywsu7fz.md) `dc_7koywsu7fz` · Planner
 - 2026-10-31 [1:1: Mitchell and Planner — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-planner-notes-jeiwkj9c.md) `dc_13jeiwkj9c` · Planner
 - 2026-10-31 [1:1: Mitchell and Planner — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-planner-notes-9svbwtsx.md) `dc_tk9svbwtsx` · Planner
+
+## policy (1)
+
+- 2026-11-09 [Policy ledger](docs/policy/2026-11/2026-11-09-policy-ledger-4k0gz4xt.md) `dc_hx4k0gz4xt` · Secretary
 
 ## report (10)
 

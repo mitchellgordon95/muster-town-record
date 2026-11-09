@@ -25594,5 +25594,59 @@
     "state": "building",
     "buildingId": "bl_vd69s5a1nh",
     "createdAt": "2026-11-08T08:04:27.458Z"
+  },
+  {
+    "id": "dc_hx4k0gz4xt",
+    "path": "buildings/town-hall/docs/policy/2026-11/2026-11-09-policy-ledger-4k0gz4xt.md",
+    "title": "Policy ledger",
+    "type": "policy",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-09T04:05:24.776Z"
+  },
+  {
+    "id": "dc_rcl65iznnx",
+    "path": "buildings/town-hall/docs/dictionary/2026-11/2026-11-09-town-dictionary-l65iznnx.md",
+    "title": "Town dictionary",
+    "type": "dictionary",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-09T04:05:24.777Z"
+  },
+  {
+    "id": "dc_jbhule9k3p",
+    "path": "buildings/workshop/docs/fyi/2026-11/2026-11-09-legible-delegation-the-vision-doc-and-the-new-in-t-hule9k3p.md",
+    "title": "Legible Delegation: the vision doc and the new in-tray, grant and ask rules",
+    "type": "fyi",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-09T04:08:48.239Z"
+  },
+  {
+    "id": "dc_ryej4ve1wr",
+    "path": "buildings/bl_t7slw19vgg/docs/fyi/2026-11/2026-11-09-legible-delegation-the-vision-doc-and-the-new-in-t-ej4ve1wr.md",
+    "title": "Legible Delegation: the vision doc and the new in-tray, grant and ask rules",
+    "type": "fyi",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-09T04:08:48.585Z"
+  },
+  {
+    "id": "dc_qtom5nn9sb",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-09-gr-w9ue1k1p0c-day-7-of-7-clean-11-08-05-20z-11-09-om5nn9sb.md",
+    "title": "gr_w9ue1k1p0c day 7 of 7 clean (11-08 05:20Z → 11-09 05:20Z): 2 restarts, 0 orphaned, 0 cut, 0 sessions alerts; ready to close",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-09T05:20:37.266Z"
+  },
+  {
+    "id": "dc_cges6f5hvy",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-09-prod-rollup-43-close-report-for-gr-w9ue1k1p0c-rede-es6f5hvy.md",
+    "title": "Prod rollup #43 (close report for gr_w9ue1k1p0c): redeploys no longer throw away sessions or page anyone, proved over 7 days and 87 restarts; grant closed, 590,789 tokens returned",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-09T05:23:15.895Z"
   }
 ]

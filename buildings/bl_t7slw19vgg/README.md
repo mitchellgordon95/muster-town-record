@@ -11,6 +11,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-03 [clicking "key result met" or missed takes me back to the intray overview. that's annoying when there's multiple buttons…](docs/flag/2026-11/2026-11-03-clicking-key-result-met-or-missed-takes-me-back-to-5lwzye7a.md) `dc_nm5lwzye7a` · Mitchell
 - 2026-10-29 [idk if this is already in progress but new buildings should spawn with a single manager (set to Fable), not n residents](docs/flag/2026-10/2026-10-29-idk-if-this-is-already-in-progress-but-new-buildin-etp3kqnu.md) `dc_knetp3kqnu` · Mitchell
 
+## fyi (1)
+
+- 2026-11-09 [Legible Delegation: the vision doc and the new in-tray, grant and ask rules](docs/fyi/2026-11/2026-11-09-legible-delegation-the-vision-doc-and-the-new-in-t-ej4ve1wr.md) `dc_ryej4ve1wr` · Mitchell
+
 ## meeting-notes (3)
 
 - 2026-11-05 [1:1: Mitchell and Teo — notes](docs/meeting-notes/2026-11/2026-11-05-1-1-mitchell-and-teo-notes-4ap5di82.md) `dc_ll4ap5di82` · Teo
