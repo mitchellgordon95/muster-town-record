@@ -25873,5 +25873,50 @@
     "state": "building",
     "buildingId": "town-hall",
     "createdAt": "2026-11-10T07:02:23.135Z"
+  },
+  {
+    "id": "dc_iwpdkuduif",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-grant-gr-bwm0iz7rwl-adjusted-900-000-tokens-pdkuduif.md",
+    "title": "Grant gr_bwm0iz7rwl adjusted: 900,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T17:19:30.514Z"
+  },
+  {
+    "id": "dc_jklevfwy28",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-test-account-steered-its-goal-gr-uc179zv1xa-routed-levfwy28.md",
+    "title": "Test account steered its goal (gr_uc179zv1xa routed to it, canDecide true); first live reset ran at 17:20:15Z, account is visitor-only again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T17:20:56.054Z"
+  },
+  {
+    "id": "dc_4rb4ipqjz6",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-rollup-55-from-first-visit-to-owning-a-goal-closed-b4ipqjz6.md",
+    "title": "Rollup 55: \"From first visit to owning a goal\" closed as done: the test account captained a goal, steered it live, and reset itself; 388,193 tokens back to the Bank",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T17:22:22.866Z"
+  },
+  {
+    "id": "dc_3dolcilaj7",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-message-from-mitchell-via-secretary-from-mitchell-olcilaj7.md",
+    "title": "Message from Mitchell (via Secretary): From Mitchell in our 1:1 (mt_ewxnhs90cq, 17:22 UTC), re your Needs line in roll…",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T17:23:22.873Z"
+  },
+  {
+    "id": "dc_mevmsiir9t",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-kr3-set-up-test-account-made-its-own-repo-started-vmsiir9t.md",
+    "title": "KR3 set up: test account made its own repo, started /publish-check/, set Publish to GitHub; parked for the first hourly push",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T17:25:38.325Z"
   }
 ]

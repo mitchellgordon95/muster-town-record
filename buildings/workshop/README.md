@@ -127,8 +127,13 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1084)
+## report (1089)
 
+- 2026-11-10 [KR3 set up: test account made its own repo, started /publish-check/, set Publish to GitHub; parked for the first hourly push](docs/report/2026-11/2026-11-10-kr3-set-up-test-account-made-its-own-repo-started-vmsiir9t.md) `dc_mevmsiir9t` · Pix 1
+- 2026-11-10 [Message from Mitchell (via Secretary): From Mitchell in our 1:1 (mt_ewxnhs90cq, 17:22 UTC), re your Needs line in roll…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-secretary-from-mitchell-olcilaj7.md) `dc_3dolcilaj7` · Town
+- 2026-11-10 [Rollup 55: "From first visit to owning a goal" closed as done: the test account captained a goal, steered it live, and reset itself; 388,193 tokens back to the Bank](docs/report/2026-11/2026-11-10-rollup-55-from-first-visit-to-owning-a-goal-closed-b4ipqjz6.md) `dc_4rb4ipqjz6` · Pix
+- 2026-11-10 [Test account steered its goal (gr_uc179zv1xa routed to it, canDecide true); first live reset ran at 17:20:15Z, account is visitor-only again](docs/report/2026-11/2026-11-10-test-account-steered-its-goal-gr-uc179zv1xa-routed-levfwy28.md) `dc_jklevfwy28` · Pix 1
+- 2026-11-10 [Grant gr_bwm0iz7rwl adjusted: 900,000 tokens](docs/report/2026-11/2026-11-10-grant-gr-bwm0iz7rwl-adjusted-900-000-tokens-pdkuduif.md) `dc_iwpdkuduif` · Town
 - 2026-11-10 [Rollup 54: the clipped click rows in your in-tray now read whole and the 8 duplicate asks are gone (PRs #404–#407 live); 31 live asks](docs/report/2026-11/2026-11-10-rollup-54-the-clipped-click-rows-in-your-in-tray-n-usazfmdh.md) `dc_3kusazfmdh` · Pix
 - 2026-11-10 [Live check before rollup 54: counts stable, ranks on the 4 reopened asks still stale until the Secretary's daily 07:00Z run](docs/report/2026-11/2026-11-10-live-check-before-rollup-54-counts-stable-ranks-on-jv6yh1wi.md) `dc_uujv6yh1wi` · Pix 1
 - 2026-11-10 [PR #407 live (e0ce7801): 4 kept asks reopened, ak_r7qwu3wy7f behind ak_hkqcpr3drs, 26 open / 5 deferred](docs/report/2026-11/2026-11-10-pr-407-live-e0ce7801-4-kept-asks-reopened-ak-r7qwu-o5jpqzc6.md) `dc_8qo5jpqzc6` · Pix 1
@@ -154,11 +159,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-06 [Onboarding sweep 10 merged (ffc0663e); lag 0 h now, but it peaked at 24.06 h, so the day streak broke](docs/report/2026-11/2026-11-06-onboarding-sweep-10-merged-ffc0663e-lag-0-h-now-bu-wuryrav1.md) `dc_ymwuryrav1` · Pix 1
 - 2026-11-06 [Onboarding staleness sweep 10: manual fixed, PR #393 waiting on CI](docs/report/2026-11/2026-11-06-onboarding-staleness-sweep-10-manual-fixed-pr-393-sk0z0znp.md) `dc_f6sk0z0znp` · Pix 1
 - 2026-11-06 [Rollup 51: the stranger test account is in, asked to captain a goal and can reset itself (PR #390); Publish to GitHub is all live but nothing pushes until a repo is set](docs/report/2026-11/2026-11-06-rollup-51-the-stranger-test-account-is-in-asked-to-4ziawngu.md) `dc_hf4ziawngu` · Pix
-- 2026-11-06 [Publish to GitHub re-check: still no repo set anywhere, nothing pushed; KR3 test blocked because the test token can't create a repo](docs/report/2026-11/2026-11-06-publish-to-github-re-check-still-no-repo-set-anywh-zgj1xueq.md) `dc_fazgj1xueq` · Pix 1
-- 2026-11-06 [PR #390 is live: POST /api/me/reset answers on muster.town; test account still visitor+member with cr_6xfa4ka7bq pending, not reset](docs/report/2026-11/2026-11-06-pr-390-is-live-post-api-me-reset-answers-on-muster-5jskki04.md) `dc_fo5jskki04` · Pix 1
-- 2026-11-06 [PR #390 merged (99d1ab1, POST /api/me/reset); parked until it is live for the read-only check](docs/report/2026-11/2026-11-06-pr-390-merged-99d1ab1-post-api-me-reset-parked-unt-05xzsjj0.md) `dc_xe05xzsjj0` · Pix 1
-- 2026-11-06 [Relay done: skill "test-account-live-check" promoted to the library, FYI dc_ia2hybtuax carries the 04:40Z roles line; member role on the test account is Mitchell's own click, not a finding](docs/report/2026-11/2026-11-06-relay-done-skill-test-account-live-check-promoted-hnbduwv7.md) `dc_zlhnbduwv7` · Pix
-- 2026-11-06 [Test account role reset: POST /api/me/reset built and tested (PR #390, CI pending); skill dc_11e758uhzj written; account was let in by Mitchell, not a hole](docs/report/2026-11/2026-11-06-test-account-role-reset-post-api-me-reset-built-an-kr4xsrv9.md) `dc_njkr4xsrv9` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
