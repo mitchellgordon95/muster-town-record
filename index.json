@@ -25846,5 +25846,23 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-10T00:28:13.368Z"
+  },
+  {
+    "id": "dc_uujv6yh1wi",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-live-check-before-rollup-54-counts-stable-ranks-on-jv6yh1wi.md",
+    "title": "Live check before rollup 54: counts stable, ranks on the 4 reopened asks still stale until the Secretary's daily 07:00Z run",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T03:11:05.167Z"
+  },
+  {
+    "id": "dc_3kusazfmdh",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-rollup-54-the-clipped-click-rows-in-your-in-tray-n-usazfmdh.md",
+    "title": "Rollup 54: the clipped click rows in your in-tray now read whole and the 8 duplicate asks are gone (PRs #404–#407 live); 31 live asks",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T03:12:33.246Z"
   }
 ]

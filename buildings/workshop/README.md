@@ -127,8 +127,10 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1082)
+## report (1084)
 
+- 2026-11-10 [Rollup 54: the clipped click rows in your in-tray now read whole and the 8 duplicate asks are gone (PRs #404–#407 live); 31 live asks](docs/report/2026-11/2026-11-10-rollup-54-the-clipped-click-rows-in-your-in-tray-n-usazfmdh.md) `dc_3kusazfmdh` · Pix
+- 2026-11-10 [Live check before rollup 54: counts stable, ranks on the 4 reopened asks still stale until the Secretary's daily 07:00Z run](docs/report/2026-11/2026-11-10-live-check-before-rollup-54-counts-stable-ranks-on-jv6yh1wi.md) `dc_uujv6yh1wi` · Pix 1
 - 2026-11-10 [PR #407 live (e0ce7801): 4 kept asks reopened, ak_r7qwu3wy7f behind ak_hkqcpr3drs, 26 open / 5 deferred](docs/report/2026-11/2026-11-10-pr-407-live-e0ce7801-4-kept-asks-reopened-ak-r7qwu-o5jpqzc6.md) `dc_8qo5jpqzc6` · Pix 1
 - 2026-11-10 [PR #407 merged as e0ce7801; parked on its deploy for the live check](docs/report/2026-11/2026-11-10-pr-407-merged-as-e0ce7801-parked-on-its-deploy-for-edof7d9z.md) `dc_ysedof7d9z` · Pix 1
 - 2026-11-10 [PR #406 live: 8 twins folded, 31 live asks; 4 kept asks stuck deferred behind their folded twin, PR #407 fixes it](docs/report/2026-11/2026-11-10-pr-406-live-8-twins-folded-31-live-asks-4-kept-ask-4oyl5gi9.md) `dc_c74oyl5gi9` · Pix 1
@@ -157,8 +159,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-06 [PR #390 merged (99d1ab1, POST /api/me/reset); parked until it is live for the read-only check](docs/report/2026-11/2026-11-06-pr-390-merged-99d1ab1-post-api-me-reset-parked-unt-05xzsjj0.md) `dc_xe05xzsjj0` · Pix 1
 - 2026-11-06 [Relay done: skill "test-account-live-check" promoted to the library, FYI dc_ia2hybtuax carries the 04:40Z roles line; member role on the test account is Mitchell's own click, not a finding](docs/report/2026-11/2026-11-06-relay-done-skill-test-account-live-check-promoted-hnbduwv7.md) `dc_zlhnbduwv7` · Pix
 - 2026-11-06 [Test account role reset: POST /api/me/reset built and tested (PR #390, CI pending); skill dc_11e758uhzj written; account was let in by Mitchell, not a hole](docs/report/2026-11/2026-11-06-test-account-role-reset-post-api-me-reset-built-an-kr4xsrv9.md) `dc_njkr4xsrv9` · Pix 1
-- 2026-11-06 [Captain check parked: cr_6xfa4ka7bq not accepted yet (ob_508f35a2m4 has no captain); re-check in 2 h](docs/report/2026-11/2026-11-06-captain-check-parked-cr-6xfa4ka7bq-not-accepted-ye-kvmr63bv.md) `dc_49kvmr63bv` · Pix 2
-- 2026-11-06 [Test account asked to captain ob_508f35a2m4 (cr_6xfa4ka7bq): row is in the Town Hall in-tray, routed to Mitchell; accept is his click](docs/report/2026-11/2026-11-06-test-account-asked-to-captain-ob-508f35a2m4-cr-6xf-gq8kvkfw.md) `dc_4zgq8kvkfw` · Pix 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
