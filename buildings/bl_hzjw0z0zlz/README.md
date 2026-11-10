@@ -62,8 +62,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (271)
+## report (275)
 
+- 2026-11-10 [Test account reset: cr_tk2579kttu withdrawn, ask ak_o2d8ip3gjw retired](docs/report/2026-11/2026-11-10-test-account-reset-cr-tk2579kttu-withdrawn-ask-ak-fu9rc20o.md) `dc_wofu9rc20o` · Kelly 1
+- 2026-11-10 [Onboarding rollup: three doors are live and the "how to contribute" grant is closed done at 300,631 of 320,000](docs/report/2026-11/2026-11-10-onboarding-rollup-three-doors-are-live-and-the-how-06hj9xn0.md) `dc_3806hj9xn0` · Kelly
+- 2026-11-10 [Three doors live on muster.town: all four key results of gr_y9bpvx197c pass and can be claimed](docs/report/2026-11/2026-11-10-three-doors-live-on-muster-town-all-four-key-resul-tef0aa6v.md) `dc_p0tef0aa6v` · Kelly 1
+- 2026-11-10 [PR #419 merged (d30c6f8f) after renumbering its migration to 109; parked on deploy for live checks](docs/report/2026-11/2026-11-10-pr-419-merged-d30c6f8f-after-renumbering-its-migra-3jkz1cgi.md) `dc_y63jkz1cgi` · Kelly 1
 - 2026-11-10 [PR #419 CI failed on unused exports; fixed (73f5aee5), parked on CI again](docs/report/2026-11/2026-11-10-pr-419-ci-failed-on-unused-exports-fixed-73f5aee5-kgojs4le.md) `dc_88kgojs4le` · Kelly 2
 - 2026-11-10 [Onboarding rollup: the Claude Code grant hit its ceiling with its PR built but unmerged; adjust it to 240,000 or cut; the three-doors PR is fixing CI](docs/report/2026-11/2026-11-10-onboarding-rollup-the-claude-code-grant-hit-its-ce-ogig364o.md) `dc_8fogig364o` · Kelly
 - 2026-11-10 [Session ended without a report: PR #416 CI done: merge if green (re-merge main if conflicting), then park on its deploy and live-check the three key results](docs/report/2026-11/2026-11-10-session-ended-without-a-report-pr-416-ci-done-merg-6766bftj.md) `dc_hd6766bftj` · Kelly 1
@@ -90,10 +94,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-06 [Grant gr_a6512x0je1 adjusted: 1,000,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-a6512x0je1-adjusted-1-000-000-tokens-qm0xiwxu.md) `dc_a0qm0xiwxu` · Town
 - 2026-11-05 [Mitchell's test-account rule recorded: Onboarding files no more "test this" outbox requests; the join round trip is queued to run with MUSTER_TEST_GH_TOKEN (as_67ks5dtrf6), Let in still needs Mitchell's one click](docs/report/2026-11/2026-11-05-mitchell-s-test-account-rule-recorded-onboarding-f-2u93rgio.md) `dc_go2u93rgio` · Kelly
 - 2026-11-05 [Join round trip with test account: parked, MUSTER_TEST_GH_TOKEN not on the desk yet; author-withdraw not on main](docs/report/2026-11/2026-11-05-join-round-trip-with-test-account-parked-muster-te-orp58pb7.md) `dc_1qorp58pb7` · Kelly 1
-- 2026-11-05 [Onboarding rollup: Goal-directed home card slide live in 62cf39f2 with your final words, checked on desktop and phone; style guide follows it; two proposals wait on the three doors](docs/report/2026-11/2026-11-05-onboarding-rollup-goal-directed-home-card-slide-li-w5tt5y05.md) `dc_6pw5tt5y05` · Kelly
-- 2026-11-05 [Goal-directed home card slide is live (62cf39f2): all checks pass on desktop and phone; picture /api/media/mf_g5qoaol035.png](docs/report/2026-11/2026-11-05-goal-directed-home-card-slide-is-live-62cf39f2-all-mfwcc2rd.md) `dc_jqmfwcc2rd` · Kelly 1
-- 2026-11-05 [Outbox note from Mitchell recorded: dc_ulla3hu21p and dc_fvlt8xajnz are dead, dc_wtz7ltq8hf and dc_mgcbv3kqnd stay the only open join-round-trip requests; no replacements filed](docs/report/2026-11/2026-11-05-outbox-note-from-mitchell-recorded-dc-ulla3hu21p-a-5cu0ysjo.md) `dc_fp5cu0ysjo` · Kelly
-- 2026-11-05 [Style-guide skill dc_q736158pnn rewritten to the Goal-directed home card (main 534c57ee, contains PR #356 merge 62cf39f2): three pillars in the card, tiles sheet-only, default blue hue, type.css tokens; 22.8k chars, shorter than before](docs/report/2026-11/2026-11-05-style-guide-skill-dc-q736158pnn-rewritten-to-the-g-i9vpl1iy.md) `dc_b5i9vpl1iy` · Kelly
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

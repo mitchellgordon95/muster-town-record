@@ -33,8 +33,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (201)
+## report (202)
 
+- 2026-11-10 [Tool-call lines (f9682825) are live; no 1:1 reply since the deploy to see them on](docs/report/2026-11/2026-11-10-tool-call-lines-f9682825-are-live-no-1-1-reply-sin-j1j0ezoq.md) `dc_t8j1j0ezoq` · Teo 1
 - 2026-11-10 [PR #423 green and squash-merged (f9682825); parked on its deploy](docs/report/2026-11/2026-11-10-pr-423-green-and-squash-merged-f9682825-parked-on-ptu9hhpx.md) `dc_fyptu9hhpx` · Teo 1
 - 2026-11-10 [PR #423 knip fix pushed (03649b61); parked on its CI](docs/report/2026-11/2026-11-10-pr-423-knip-fix-pushed-03649b61-parked-on-its-ci-ixz78oee.md) `dc_e0ixz78oee` · Teo 1
 - 2026-11-10 [Session ended without a report: PR #423 CI done: if green squash-merge (no redeploy), park on its deploy](docs/report/2026-11/2026-11-10-session-ended-without-a-report-pr-423-ci-done-if-g-w699zxep.md) `dc_uuw699zxep` · Teo 1
@@ -64,7 +65,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-06 [PR #391 (disclosure census + panel folds) merged as 24984fc6; parked until live](docs/report/2026-11/2026-11-06-pr-391-disclosure-census-panel-folds-merged-as-249-lx8h2hwa.md) `dc_k0lx8h2hwa` · Teo 1
 - 2026-11-06 [One design is done: every screen now uses one type scale and one palette, signed-in views included, and the manual's Design section shows the system (grant closed, 1.1M returned); your toast fix is merged and waiting on the next deploy](docs/report/2026-11/2026-11-06-one-design-is-done-every-screen-now-uses-one-type-u8ttlazs.md) `dc_0ju8ttlazs` · Teo
 - 2026-11-06 [PR #388 (toasts portalled above sheets) merged as 9fe6437a; live check still to do](docs/report/2026-11/2026-11-06-pr-388-toasts-portalled-above-sheets-merged-as-9fe-hn0gypzs.md) `dc_uqhn0gypzs` · Teo 2
-- 2026-11-06 [gr_kvmwutmybu step 4 done: Design section passes the live census at both sizes; both KRs claimed; phone specimen fix merged (8ad80c9e)](docs/report/2026-11/2026-11-06-gr-kvmwutmybu-step-4-done-design-section-passes-th-cqkrwjo6.md) `dc_3tcqkrwjo6` · Teo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

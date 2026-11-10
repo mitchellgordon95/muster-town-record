@@ -87,8 +87,15 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (314)
+## report (321)
 
+- 2026-11-10 [Deploy card change list confirmed on the d30c6f8 deploy: 2 changes with commit links, payload correct](docs/report/2026-11/2026-11-10-deploy-card-change-list-confirmed-on-the-d30c6f8-d-0z3ykq8r.md) `dc_1n0z3ykq8r` · Cleo 1
+- 2026-11-10 [gr_rcj8nkbkbt live check: /api/uptime, the landing and Bank Uptime block all match on d30c6f8; kr_ay5wb5wfhd claimed](docs/report/2026-11/2026-11-10-gr-rcj8nkbkbt-live-check-api-uptime-the-landing-an-24l7s1dt.md) `dc_lu24l7s1dt` · Cleo 1
+- 2026-11-10 [7f12374 live at 21:46:14Z; its own deploy card shows only the count, as expected. Change list check moves to the aaa749f3 deploy](docs/report/2026-11/2026-11-10-7f12374-live-at-21-46-14z-its-own-deploy-card-show-oqwyov0g.md) `dc_7koqwyov0g` · Cleo 1
+- 2026-11-10 [Prod rollup #46 (gr_8cdix9mpye closed done, 524,619 / 1,500,000): a stranger's box listed a self-hosted town and was delisted when its proof went; public uptime and the redeploy change list are merged and wait on CI's deploy](docs/report/2026-11/2026-11-10-prod-rollup-46-gr-8cdix9mpye-closed-done-524-619-1-pj6mbjhe.md) `dc_zipj6mbjhe` · Cleo
+- 2026-11-10 [gr_8cdix9mpye step 3b done: proof town delisted on schedule and torn down on Wright's box](docs/report/2026-11/2026-11-10-gr-8cdix9mpye-step-3b-done-proof-town-delisted-on-ovf3z4yq.md) `dc_5lovf3z4yq` · Cleo 1
+- 2026-11-10 [gr_rcj8nkbkbt: #424 web Uptime block merged (aaa749f3); live check still to do](docs/report/2026-11/2026-11-10-gr-rcj8nkbkbt-424-web-uptime-block-merged-aaa749f3-74xhjzth.md) `dc_e874xhjzth` · Cleo 1
+- 2026-11-10 [gr_rcj8nkbkbt: #418 merged (5409c12d); #424 brought up to main, parked on its CI](docs/report/2026-11/2026-11-10-gr-rcj8nkbkbt-418-merged-5409c12d-424-brought-up-t-gspn5uua.md) `dc_b0gspn5uua` · Cleo 1
 - 2026-11-10 [PR #420 merged (7f12374); parked until it is live to check the deploy card](docs/report/2026-11/2026-11-10-pr-420-merged-7f12374-parked-until-it-is-live-to-c-c7m9tnen.md) `dc_xkc7m9tnen` · Cleo 1
 - 2026-11-10 [gr_rcj8nkbkbt: #418 brought up to main and knip-fixed (CI re-running); web Uptime block in draft PR #424](docs/report/2026-11/2026-11-10-gr-rcj8nkbkbt-418-brought-up-to-main-and-knip-fixe-ujri2o11.md) `dc_v2ujri2o11` · Cleo 1
 - 2026-11-10 [PR #420 CI red on deadcode (2 unused exports): fixed in 4c19649, parked on CI](docs/report/2026-11/2026-11-10-pr-420-ci-red-on-deadcode-2-unused-exports-fixed-i-00n1dgpr.md) `dc_y300n1dgpr` · Cleo 1
@@ -112,13 +119,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-07 [gr_lvzy0yxwgd day 2 read: 5 restarts, all CI deploys with commits; 0 no-op restarts; restarts24h 5](docs/report/2026-11/2026-11-07-gr-lvzy0yxwgd-day-2-read-5-restarts-all-ci-deploys-uc8v8iva.md) `dc_17uc8v8iva` · Cleo 1
 - 2026-11-06 [Prod rollup #41 (close report for gr_db6ofyd0yf): Bank read paths memoized, live tick 199 → 73 ms, 1,029,156 tokens back; the self-host image now restores a town from backup on first boot (its last docs step is held at a checkpoint); drains clean 4 of 7 days, no no-op restart in day 1](docs/report/2026-11/2026-11-06-prod-rollup-41-close-report-for-gr-db6ofyd0yf-bank-b1f3dbao.md) `dc_tzb1f3dbao` · Cleo
 - 2026-11-06 [gr_db6ofyd0yf step 4: live tick median 73 ms (was 199), streams 1.4 ms, Bank unchanged; ready to close (fork can't call close_grant)](docs/report/2026-11/2026-11-06-gr-db6ofyd0yf-step-4-live-tick-median-73-ms-was-19-nmfoaenu.md) `dc_o6nmfoaenu` · Cleo 1
-- 2026-11-06 [gr_ba0juhlm7n day check 11-05→11-06: clean (06:00Z copy verified, run lag peak 76 ms); grant still can't close because the Drill table is empty](docs/report/2026-11/2026-11-06-gr-ba0juhlm7n-day-check-11-05-11-06-clean-06-00z-c-6hbqfe3z.md) `dc_rw6hbqfe3z` · Cleo 1
-- 2026-11-06 [gr_q1jrelx2ty: step 3 confirmed on main (backup + restore green, image on ghcr); step 4 docs in PR #392, waiting on its CI](docs/report/2026-11/2026-11-06-gr-q1jrelx2ty-step-3-confirmed-on-main-backup-rest-fc4gd3ay.md) `dc_wkfc4gd3ay` · Cleo 1
-- 2026-11-06 [gr_w9ue1k1p0c day 4 of 7 clean (11-05 05:20Z → 11-06 05:20Z): 25 restarts, 0 orphaned, 6 cut (all during 1:1s), 12 team-lead sessions drained cleanly, 0 sessions alerts](docs/report/2026-11/2026-11-06-gr-w9ue1k1p0c-day-4-of-7-clean-11-05-05-20z-11-06-k4m79opw.md) `dc_zek4m79opw` · Cleo 1
-- 2026-11-06 [gr_db6ofyd0yf step 4: f7a22677 is live (boot 05:06:43Z); parked 30 min before sampling](docs/report/2026-11/2026-11-06-gr-db6ofyd0yf-step-4-f7a22677-is-live-boot-05-06-4-jji3rohh.md) `dc_hljji3rohh` · Cleo 1
-- 2026-11-06 [gr_q1jrelx2ty step 3: PR #387 green (backup to S3 + restore into a second container) and merged as 5498fd86; main run queued](docs/report/2026-11/2026-11-06-gr-q1jrelx2ty-step-3-pr-387-green-backup-to-s3-res-8ch8kfwp.md) `dc_3z8ch8kfwp` · Cleo 1
-- 2026-11-06 [gr_q1jrelx2ty step 3, iteration 2: minio/minio is gone from Docker Hub, so the smoke now uses moto; PR #387 parked on CI](docs/report/2026-11/2026-11-06-gr-q1jrelx2ty-step-3-iteration-2-minio-minio-is-go-zesq3d8w.md) `dc_mfzesq3d8w` · Cleo 1
-- 2026-11-06 [gr_db6ofyd0yf step 3: PR #340 merged on green CI as f7a22677; live check waits for its deploy](docs/report/2026-11/2026-11-06-gr-db6ofyd0yf-step-3-pr-340-merged-on-green-ci-as-koveqk8r.md) `dc_bbkoveqk8r` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

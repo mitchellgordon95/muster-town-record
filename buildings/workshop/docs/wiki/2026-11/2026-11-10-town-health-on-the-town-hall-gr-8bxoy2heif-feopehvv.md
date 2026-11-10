@@ -10,11 +10,12 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "workshop"
 createdAt: "2026-11-10T21:03:50.452Z"
-updatedAt: "2026-11-10T21:27:07.490Z"
+updatedAt: "2026-11-10T21:47:55.948Z"
 ---
-State on 2026-11-10 after 21:26 UTC (as_a1fn7rd0gs, Pix 1). **PR #421 squash-merged to main as a8d57c35** (CI check + image green on head e30bc5f3). Live at merge time was still 628dd93; parked on {deploy: a8d57c35}.
-- Code: core `packages/core/src/health.ts` (`healthOf` pure, `townHealth(world)`, `grantHolds`, `healthLine`); GET `${prefix}/api/health-stats` in server app.ts beside /api/engagement (public, counts only); web StatsPanel.tsx tabs "Engagement" / "Town health" (`HealthView`, `healthRed`), api.ts `healthStats()`, mock in web/src/mock/server.ts; CSS `.stats-total.bad`.
-- Definitions: paperwork = kickoff + checkpoint assignments + purpose manage/review, ÷ (grant-lane ∪ those); red > 15%. Hit = cacheRead ÷ (read + cw5m + cw1h); red < 70%. Median cache write per session. Overrun = grant sessions started in [grant.checkpoint, next grant.funded|grant.closed). Per report = lane tokens ÷ lane sessions with reportId. Back-filled → notCounted. 14 days, 4 ISO weeks, last24h.
-- Digest: the daily card is the Secretary's money slate notice (`applyRank` in secretary.ts); its body ends with `Health: paperwork …% · cache hits …% · overrun … · …/report (last 24 h)`. Only filed when the Secretary has money asks to slate.
-- Tests: core health.test.ts, secretary-rank.test.ts, server hub.test.ts, web statsPanel.test.tsx (green in #421 CI → kr_q30lbsiwxt).
-- Next: once a8d57c35 is live, curl /api/health-stats, open the tab (StatsPanel via walkTo('stats'), headless script on page [dc_k642rbuhxl](2026-11-05-user-stats-community-engagement-per-collective-fla-42rbuhxl.md)), look for a slate notice with the Health line; claim the KRs.
+State on 2026-11-10 after 21:46 UTC (as_ozj2lcdpum, Pix 1). **PR #421 = a8d57c35 is LIVE** (/api/health commit 5409c12d, started 21:46:14Z, contains a8d57c35).
+- Live-checked: GET https://muster.town/api/health-stats returns days (14), weeks (4), last24h, notCounted (716 sessions, 22.6M back-filled), definitions. Last 24 h: paperwork 74%, cache hits 96%, median cache write 26k, overrun 0, 95k/report.
+- Tab live-checked (guest, headless Chromium, script desk ~/shots/th/shot.py = ~/shots/us/shot.py plus a click on the "Town health" tab button): tiles, per-lane line, By day, By week, "What the numbers are". Same numbers as the API.
+- Cosmetic: week of Oct 19 row shows 113 sessions with 0 tokens (pre-accounting sessions), rendered as "– – 0 0 0 0". Harmless.
+- Slate Health line: code in secretary.ts applyRank (line ~458). Slates are filed ~07:00Z daily (nt_k49gd9a9vk 11-10 07:02Z, before the deploy, so no Health line yet). Check: `curl -s "https://muster.town/api/notices?kind=slate&limit=1"` body ends with "Health: …". Parked on {after: 2026-11-11T07:20Z} to read it, then claim kr_4jctfoqcxt and the manager closes the grant.
+- KRs: kr_yz4mmbjqcv and kr_q30lbsiwxt claimed 21:5xZ; kr_4jctfoqcxt on-track until the 11-11 slate.
+- Code: core health.ts (healthOf, townHealth, grantHolds, healthLine); server app.ts GET ${prefix}/api/health-stats; web StatsPanel.tsx tabs.

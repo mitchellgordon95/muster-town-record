@@ -127,8 +127,14 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1107)
+## report (1113)
 
+- 2026-11-10 [Message from Mitchell (via Kelly 1): Test account (dungeonrpg99-ops, us_u4mzpz4zc7): Onboarding's live check for gr_…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-kelly-1-test-account-dun-eq1lp2sj.md) `dc_eteq1lp2sj` · Town
+- 2026-11-10 [Town health live: API and tab checked; the slate Health line waits for the 11-11 slate](docs/report/2026-11/2026-11-10-town-health-live-api-and-tab-checked-the-slate-hea-g62mg6b3.md) `dc_pfg62mg6b3` · Pix 1
+- 2026-11-10 [Live: the Secretary is the Town Hall's manager (PR #422, 04845bdf)](docs/report/2026-11/2026-11-10-live-the-secretary-is-the-town-hall-s-manager-pr-4-yhrz8gsa.md) `dc_1kyhrz8gsa` · Pix 2
+- 2026-11-10 [Rollup 56: the job plan is filed as two grants to fund; a hosted collective publishes its docs to GitHub (proven live); ask style rules now warn instead of refuse](docs/report/2026-11/2026-11-10-rollup-56-the-job-plan-is-filed-as-two-grants-to-f-e6j2sf3r.md) `dc_bwe6j2sf3r` · Pix
+- 2026-11-10 [Root publish check: no root repo set; publish-check still at its 20:36Z push (next one not yet due)](docs/report/2026-11/2026-11-10-root-publish-check-no-root-repo-set-publish-check-z1ay8jso.md) `dc_d1z1ay8jso` · Pix 1
+- 2026-11-10 [PR #421 merged as a8d57c35; parked on its deploy for the live check](docs/report/2026-11/2026-11-10-pr-421-merged-as-a8d57c35-parked-on-its-deploy-for-po7q8s8v.md) `dc_gnpo7q8s8v` · Pix 1
 - 2026-11-10 [PR #421 rebased onto main with a docs/log.d entry; parked on its re-run CI](docs/report/2026-11/2026-11-10-pr-421-rebased-onto-main-with-a-docs-log-d-entry-p-ljwfia74.md) `dc_oyljwfia74` · Pix 1
 - 2026-11-10 [PR #422 merged (04845bdf); parked on its deploy to check the Town Hall manager](docs/report/2026-11/2026-11-10-pr-422-merged-04845bdf-parked-on-its-deploy-to-che-6nhsc1xr.md) `dc_1q6nhsc1xr` · Pix 2
 - 2026-11-10 [PR #422: the Secretary becomes the Town Hall's manager (parked on CI)](docs/report/2026-11/2026-11-10-pr-422-the-secretary-becomes-the-town-hall-s-manag-we8crdb4.md) `dc_rcwe8crdb4` · Pix 2
@@ -153,12 +159,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-10 [Test account steered its goal (gr_uc179zv1xa routed to it, canDecide true); first live reset ran at 17:20:15Z, account is visitor-only again](docs/report/2026-11/2026-11-10-test-account-steered-its-goal-gr-uc179zv1xa-routed-levfwy28.md) `dc_jklevfwy28` · Pix 1
 - 2026-11-10 [Grant gr_bwm0iz7rwl adjusted: 900,000 tokens](docs/report/2026-11/2026-11-10-grant-gr-bwm0iz7rwl-adjusted-900-000-tokens-pdkuduif.md) `dc_iwpdkuduif` · Town
 - 2026-11-10 [Rollup 54: the clipped click rows in your in-tray now read whole and the 8 duplicate asks are gone (PRs #404–#407 live); 31 live asks](docs/report/2026-11/2026-11-10-rollup-54-the-clipped-click-rows-in-your-in-tray-n-usazfmdh.md) `dc_3kusazfmdh` · Pix
-- 2026-11-10 [Live check before rollup 54: counts stable, ranks on the 4 reopened asks still stale until the Secretary's daily 07:00Z run](docs/report/2026-11/2026-11-10-live-check-before-rollup-54-counts-stable-ranks-on-jv6yh1wi.md) `dc_uujv6yh1wi` · Pix 1
-- 2026-11-10 [PR #407 live (e0ce7801): 4 kept asks reopened, ak_r7qwu3wy7f behind ak_hkqcpr3drs, 26 open / 5 deferred](docs/report/2026-11/2026-11-10-pr-407-live-e0ce7801-4-kept-asks-reopened-ak-r7qwu-o5jpqzc6.md) `dc_8qo5jpqzc6` · Pix 1
-- 2026-11-10 [PR #407 merged as e0ce7801; parked on its deploy for the live check](docs/report/2026-11/2026-11-10-pr-407-merged-as-e0ce7801-parked-on-its-deploy-for-edof7d9z.md) `dc_ysedof7d9z` · Pix 1
-- 2026-11-10 [PR #406 live: 8 twins folded, 31 live asks; 4 kept asks stuck deferred behind their folded twin, PR #407 fixes it](docs/report/2026-11/2026-11-10-pr-406-live-8-twins-folded-31-live-asks-4-kept-ask-4oyl5gi9.md) `dc_c74oyl5gi9` · Pix 1
-- 2026-11-10 [PR #406 merged as c4952482; the live check needs a new assignment that waits on its deploy](docs/report/2026-11/2026-11-10-pr-406-merged-as-c4952482-the-live-check-needs-a-n-g49atck9.md) `dc_2dg49atck9` · Pix 1
-- 2026-11-10 [PR #405 is live and both asks are now clicks, but its boot made two twin asks: PR #406 fixes it and folds 8 twins](docs/report/2026-11/2026-11-10-pr-405-is-live-and-both-asks-are-now-clicks-but-it-uomz93qp.md) `dc_tuuomz93qp` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

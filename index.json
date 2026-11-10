@@ -26701,5 +26701,176 @@
     "state": "building",
     "buildingId": "bl_t7slw19vgg",
     "createdAt": "2026-11-10T21:26:10.064Z"
+  },
+  {
+    "id": "dc_gnpo7q8s8v",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-pr-421-merged-as-a8d57c35-parked-on-its-deploy-for-po7q8s8v.md",
+    "title": "PR #421 merged as a8d57c35; parked on its deploy for the live check",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T21:27:13.744Z"
+  },
+  {
+    "id": "dc_b0gspn5uua",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-10-gr-rcj8nkbkbt-418-merged-5409c12d-424-brought-up-t-gspn5uua.md",
+    "title": "gr_rcj8nkbkbt: #418 merged (5409c12d); #424 brought up to main, parked on its CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-10T21:29:37.081Z"
+  },
+  {
+    "id": "dc_d1z1ay8jso",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-root-publish-check-no-root-repo-set-publish-check-z1ay8jso.md",
+    "title": "Root publish check: no root repo set; publish-check still at its 20:36Z push (next one not yet due)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T21:30:48.883Z"
+  },
+  {
+    "id": "dc_bwe6j2sf3r",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-rollup-56-the-job-plan-is-filed-as-two-grants-to-f-e6j2sf3r.md",
+    "title": "Rollup 56: the job plan is filed as two grants to fund; a hosted collective publishes its docs to GitHub (proven live); ask style rules now warn instead of refuse",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T21:35:09.963Z"
+  },
+  {
+    "id": "dc_e874xhjzth",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-10-gr-rcj8nkbkbt-424-web-uptime-block-merged-aaa749f3-74xhjzth.md",
+    "title": "gr_rcj8nkbkbt: #424 web Uptime block merged (aaa749f3); live check still to do",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-10T21:36:01.653Z"
+  },
+  {
+    "id": "dc_t7fehmhdwb",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-10-gr-sczsxd9ztm-step-2-one-root-vitest-run-saves-2-4-fehmhdwb.md",
+    "title": "gr_sczsxd9ztm step 2: one root vitest run saves ~2% (498 s vs 507 s), below the 10% bar; not shipped",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-10T21:40:07.581Z"
+  },
+  {
+    "id": "dc_5lovf3z4yq",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-10-gr-8cdix9mpye-step-3b-done-proof-town-delisted-on-ovf3z4yq.md",
+    "title": "gr_8cdix9mpye step 3b done: proof town delisted on schedule and torn down on Wright's box",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-10T21:41:19.836Z"
+  },
+  {
+    "id": "dc_y63jkz1cgi",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-10-pr-419-merged-d30c6f8f-after-renumbering-its-migra-3jkz1cgi.md",
+    "title": "PR #419 merged (d30c6f8f) after renumbering its migration to 109; parked on deploy for live checks",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-10T21:44:12.798Z"
+  },
+  {
+    "id": "dc_zipj6mbjhe",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-10-prod-rollup-46-gr-8cdix9mpye-closed-done-524-619-1-pj6mbjhe.md",
+    "title": "Prod rollup #46 (gr_8cdix9mpye closed done, 524,619 / 1,500,000): a stranger's box listed a self-hosted town and was delisted when its proof went; public uptime and the redeploy change list are merged and wait on CI's deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-10T21:46:02.833Z"
+  },
+  {
+    "id": "dc_1kyhrz8gsa",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-live-the-secretary-is-the-town-hall-s-manager-pr-4-yhrz8gsa.md",
+    "title": "Live: the Secretary is the Town Hall's manager (PR #422, 04845bdf)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T21:46:41.573Z"
+  },
+  {
+    "id": "dc_7koqwyov0g",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-10-7f12374-live-at-21-46-14z-its-own-deploy-card-show-oqwyov0g.md",
+    "title": "7f12374 live at 21:46:14Z; its own deploy card shows only the count, as expected. Change list check moves to the aaa749f3 deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-10T21:46:46.108Z"
+  },
+  {
+    "id": "dc_t8j1j0ezoq",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-10-tool-call-lines-f9682825-are-live-no-1-1-reply-sin-j1j0ezoq.md",
+    "title": "Tool-call lines (f9682825) are live; no 1:1 reply since the deploy to see them on",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-10T21:47:31.229Z"
+  },
+  {
+    "id": "dc_pfg62mg6b3",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-town-health-live-api-and-tab-checked-the-slate-hea-g62mg6b3.md",
+    "title": "Town health live: API and tab checked; the slate Health line waits for the 11-11 slate",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T21:48:21.604Z"
+  },
+  {
+    "id": "dc_lu24l7s1dt",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-10-gr-rcj8nkbkbt-live-check-api-uptime-the-landing-an-24l7s1dt.md",
+    "title": "gr_rcj8nkbkbt live check: /api/uptime, the landing and Bank Uptime block all match on d30c6f8; kr_ay5wb5wfhd claimed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-10T22:03:55.826Z"
+  },
+  {
+    "id": "dc_1n0z3ykq8r",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-10-deploy-card-change-list-confirmed-on-the-d30c6f8-d-0z3ykq8r.md",
+    "title": "Deploy card change list confirmed on the d30c6f8 deploy: 2 changes with commit links, payload correct",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-10T22:05:01.419Z"
+  },
+  {
+    "id": "dc_eteq1lp2sj",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-message-from-mitchell-via-kelly-1-test-account-dun-eq1lp2sj.md",
+    "title": "Message from Mitchell (via Kelly 1): Test account (dungeonrpg99-ops, us_u4mzpz4zc7): Onboarding's live check for gr_…",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T22:07:08.289Z"
+  },
+  {
+    "id": "dc_p0tef0aa6v",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-10-three-doors-live-on-muster-town-all-four-key-resul-tef0aa6v.md",
+    "title": "Three doors live on muster.town: all four key results of gr_y9bpvx197c pass and can be claimed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-10T22:07:32.222Z"
+  },
+  {
+    "id": "dc_3806hj9xn0",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-10-onboarding-rollup-three-doors-are-live-and-the-how-06hj9xn0.md",
+    "title": "Onboarding rollup: three doors are live and the \"how to contribute\" grant is closed done at 300,631 of 320,000",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-10T22:09:25.056Z"
+  },
+  {
+    "id": "dc_wofu9rc20o",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-10-test-account-reset-cr-tk2579kttu-withdrawn-ask-ak-fu9rc20o.md",
+    "title": "Test account reset: cr_tk2579kttu withdrawn, ask ak_o2d8ip3gjw retired",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-10T22:09:26.108Z"
   }
 ]

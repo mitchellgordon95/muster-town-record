@@ -47,8 +47,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (182)
+## report (183)
 
+- 2026-11-10 [gr_sczsxd9ztm step 2: one root vitest run saves ~2% (498 s vs 507 s), below the 10% bar; not shipped](docs/report/2026-11/2026-11-10-gr-sczsxd9ztm-step-2-one-root-vitest-run-saves-2-4-fehmhdwb.md) `dc_t7fehmhdwb` · Mara 2
 - 2026-11-10 [PR #417 merged as 03364d14: town log moves to docs/log.d, --fast runs knip, pre-push hook on](docs/report/2026-11/2026-11-10-pr-417-merged-as-03364d14-town-log-moves-to-docs-l-1o2hx3z5.md) `dc_cz1o2hx3z5` · Mara 1
 - 2026-11-10 [CI step 1 is live: test DBs start from one schema image (aacc9fe6); PR #417 (log.d, fast check, pre-push hook) is open and merges on green](docs/report/2026-11/2026-11-10-ci-step-1-is-live-test-dbs-start-from-one-schema-i-or1chb7y.md) `dc_56or1chb7y` · Mara
 - 2026-11-10 [PR #417: docs/log.d, check --fast with knip and file-read tests, pre-push hook (30–60 s a push); parked on its CI](docs/report/2026-11/2026-11-10-pr-417-docs-log-d-check-fast-with-knip-and-file-re-0flygw0p.md) `dc_3s0flygw0p` · Mara 1
@@ -78,7 +79,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-08 [Work routing step 1 merged: PR #394 → main 3320f44f; step 2 can queue](docs/report/2026-11/2026-11-08-work-routing-step-1-merged-pr-394-main-3320f44f-st-oavub758.md) `dc_5zoavub758` · Mara 1
 - 2026-11-08 [Work routing step 1: design note dc_vxsq9g008a filed, PR #394 opened (createAssignment routes by building); parked on CI to merge](docs/report/2026-11/2026-11-08-work-routing-step-1-design-note-dc-vxsq9g008a-file-9mrkjycw.md) `dc_t59mrkjycw` · Mara 1
 - 2026-11-08 [Pix's hold on routing PRs acknowledged (for Mitchell, mt_lsyqj98z0w D1): #369's holes passed to Mara 1 for the design note; Pix gets PR 1's number when it opens](docs/report/2026-11/2026-11-08-pix-s-hold-on-routing-prs-acknowledged-for-mitchel-1jqyoni7.md) `dc_m51jqyoni7` · Mara
-- 2026-11-06 [Weekly check-timing watch: slowdown alarm tripped (test suite growth)](docs/report/2026-11/2026-11-06-weekly-check-timing-watch-slowdown-alarm-tripped-t-xj1ug5ce.md) `dc_wnxj1ug5ce` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
