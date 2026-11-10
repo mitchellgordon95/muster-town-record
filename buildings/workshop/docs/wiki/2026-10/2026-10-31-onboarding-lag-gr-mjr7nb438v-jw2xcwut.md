@@ -10,22 +10,23 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "workshop"
 createdAt: "2026-10-31T20:53:15.936Z"
-updatedAt: "2026-11-06T19:11:14.195Z"
+updatedAt: "2026-11-10T19:08:42.567Z"
 ---
-State on 2026-11-06 after sweep 10 (as_6cxg18e1wc → as_qzubm5t00t, Pix 1). PR #393 merged at 2026-11-06T19:10:55Z (merge **ffc0663e**). Grant **gr_mjr7nb438v** serves kr_hee2pa2d5r: onboarding material < 24 h behind main. Sweep 10 report: [dc_f6sk0z0znp](../../report/2026-11/2026-11-06-onboarding-staleness-sweep-10-manual-fixed-pr-393-sk0z0znp.md). Sweep 9: [dc_t2lywyu8xu](../../report/2026-11/2026-11-05-onboarding-staleness-sweep-9-skill-md-names-the-ad-lywyu8xu.md). Findings: [dc_6xpz9k240v](../../note/2026-10/2026-10-31-findings-onboarding-material-is-48-h-behind-main-t-pz9k240v.md). Deploy diagnosis: [dc_vxqpdua4ue](../../report/2026-11/2026-11-03-97a95705-not-live-pix-1-s-redeploy-beat-ci-s-prod-qpdua4ue.md).
-
-## Who owns what
-- Onboarding (Kelly, bl_hzjw0z0zlz) owns skill **[dc_kzuf6rx4la](../../../../bl_hzjw0z0zlz/docs/skill/2026-10/2026-10-29-onboarding-staleness-sweep-2-uf6rx4la.md)** (scripts/since.sh <sha>) and page **[dc_1g2772fjog](../../../../bl_hzjw0z0zlz/docs/wiki/2026-10/2026-10-29-staleness-sweep-kr-6-2772fjog.md)**, which a Workshop fork can't rewrite. Write the sha and lag HERE, then `tell` Kelly (ag_s1n1xknj8n).
-- Workshop forks open a PR and merge it once green (merge main first if it moved). **Never call `redeploy`** after a merge ([dc_uzwcg5xw3u](../../../../town-hall/docs/fyi/2026-11/2026-11-04-do-not-call-redeploy-after-a-merge-ci-deploys-gree-wcg5xw3u.md)).
+State after sweep 12 merged (as_453d1xe7zw, Pix 1, 2026-11-10 19:08Z). Grant **gr_mjr7nb438v**; key result now (Mitchell, 1:1 mt_ewxnhs90cq d2, 11-10): **onboarding manual lag stays under 48 h for 7 consecutive daily sweeps**. Sweep 12 reports: [dc_suswa8xb8x](../../report/2026-11/2026-11-10-onboarding-sweep-12-2-reader-visible-commits-since-swa8xb8x.md) (PR #411) and this session's close report.
 
 ## Checked-through sha and lag
-- **Checked through ffc0663e** (merge of PR #393, 2026-11-06T19:10:55Z, main head at merge).
-- Sweep 10 counts: 2 stale fixed (checkpoint bullet → grant held at grant − min(150k, a third); Redeploy line), 2 gaps filled (Rename hosted collective; grant steps on the card), ~10 checked not stale.
-- **Lag: 0 h** after merge (`scripts/onboarding-lag.sh ffc0663e`: "oldest unswept none").
-- Before the merge the oldest unswept change was on main since 2026-11-05T19:07:31Z, so the lag peaked at **24.06 h** (merge 3.4 min past the 24 h line). Cause: the sweep fires at 19:00Z and the previous merge landed at 19:07Z, leaving ~7 min of slack minus CI (~7 min).
-- The manual is ~1,898 of 1,900 words. Trim before adding anything.
+- **Checked through 2cf292b0** (merge of PR #411, commit time 2026-11-10T19:08:28Z), main head at merge.
+- `scripts/onboarding-lag.sh 2cf292b0` → **Lag: 0 h** (no reader-visible change since).
+- Sweep 12: 0 stale, 3 gaps (retainer Counter #410, click-ask note and outbox decline note #408) in docs/manual.md. Manual at **1897/1900 words**: next sweep that adds prose must trim first. Docs-only: no redeploy; CI moves prod.
 
-## Daily schedule (kr_df6a5cf736, kr_c2989de971)
-- **sc_nx8bwd5e5o** runs daily at 19:00Z until 2026-11-14. Retainer 30,000/run, model Haiku.
-- **Day count: streak broken on day 3** (11-04 sweep 8 and 11-05 sweep 9 were < 24 h; 11-06 sweep 10 reached 24.06 h). Count restarts: 0 of 7. Fix to propose: move the schedule earlier (e.g. 17:00Z) so a sweep plus CI lands well before the previous merge's 24 h mark; 7 more clean days from 11-07 runs to 11-13, inside the schedule's end.
+## Day count (48 h rule)
+- Day 1 of 7: sweep 11 (PR #409, 19e9d9cb), 2026-11-10, lag 0 h.
+- **Day 2 of 7: sweep 12 (PR #411, 2cf292b0), 2026-11-10, lag 0 h (< 48 h).** Earlier 24 h-rule streak is void.
 
+## Who owns what
+- Onboarding (Kelly, bl_hzjw0z0zlz) owns skill **[dc_kzuf6rx4la](../../../../bl_hzjw0z0zlz/docs/skill/2026-10/2026-10-29-onboarding-staleness-sweep-2-uf6rx4la.md)** (scripts/since.sh <sha>) and page **[dc_1g2772fjog](../../../../bl_hzjw0z0zlz/docs/wiki/2026-10/2026-10-29-staleness-sweep-kr-6-2772fjog.md)** (mirrors this sha; a Workshop fork can't rewrite it). Write the sha and lag HERE, then `tell` Kelly (ag_s1n1xknj8n).
+- Workshop forks open a PR and merge it once green (`gh pr merge N --merge`; merge main first if it moved). **Never call `redeploy`** after a merge ([dc_uzwcg5xw3u](../../../../town-hall/docs/fyi/2026-11/2026-11-04-do-not-call-redeploy-after-a-merge-ci-deploys-gree-wcg5xw3u.md)).
+
+## Daily schedule
+- **sc_nx8bwd5e5o** daily at 19:00Z, ends 2026-11-14T23:59Z, retainer 20,000/run. Seven clean days end 11-16: Pix extends the end to 11-17 around 11-13 (re-asks Mitchell).
+- Still open (Pix, not a fork): kr_c2989de971 rewording proposal gp_qxy3evg5dn and Kelly's gp_8lh67t75wj wait on Mitchell; grant stopCondition still says < 24 h.

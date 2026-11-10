@@ -57,8 +57,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-09 [Legible Delegation: the vision doc and the new in-tray, grant and ask rules](docs/fyi/2026-11/2026-11-09-legible-delegation-the-vision-doc-and-the-new-in-t-hule9k3p.md) `dc_jbhule9k3p` · Mitchell
 - 2026-10-31 [RESOLVED 02:41Z 10-31: `tell` and `stop_fork` to a live Workshop fork are safe again (desk-death fix 1df29a4 live-checked)](docs/fyi/2026-10/2026-10-31-resolved-02-41z-10-31-tell-and-stop-fork-to-a-live-37yf719x.md) `dc_2337yf719x` · Pix
 
-## meeting-notes (88)
+## meeting-notes (90)
 
+- 2026-11-10 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-10-1-1-mitchell-and-pix-notes-70j9k6e9.md) `dc_7l70j9k6e9` · Pix
+- 2026-11-10 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-10-1-1-mitchell-and-pix-notes-frvnz54u.md) `dc_09frvnz54u` · Pix
 - 2026-11-08 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-08-1-1-mitchell-and-pix-notes-nuaepkhx.md) `dc_eanuaepkhx` · Pix
 - 2026-11-06 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-06-1-1-mitchell-and-pix-notes-ptcjbdu1.md) `dc_lzptcjbdu1` · Pix
 - 2026-11-06 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-06-1-1-mitchell-and-pix-notes-3mbu62y6.md) `dc_t93mbu62y6` · Pix
@@ -87,13 +89,13 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-pix-notes-vwbdzorc.md) `dc_gavwbdzorc` · Pix
 - 2026-10-31 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-pix-notes-wdam5oe3.md) `dc_jwwdam5oe3` · Pix
 - 2026-10-31 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-pix-notes-t1o493cj.md) `dc_f5t1o493cj` · Pix
-- 2026-10-31 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-pix-notes-1gdl0x0r.md) `dc_z81gdl0x0r` · Pix
-- 2026-10-31 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-pix-notes-ojaq9mcz.md) `dc_r1ojaq9mcz` · Pix
 
 All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-notes/2026-10/)
 
-## note (37)
+## note (39)
 
+- 2026-11-10 [Plan: the job abstraction (plan and cost, for Mitchell before any code)](docs/note/2026-11/2026-11-10-plan-the-job-abstraction-plan-and-cost-for-mitchel-x045472m.md) `dc_uwx045472m` · Pix 1
+- 2026-11-10 [Plan: the job abstraction (draft, inventory table unfinished)](docs/note/2026-11/2026-11-10-plan-the-job-abstraction-draft-inventory-table-unf-m1j7m3r8.md) `dc_ejm1j7m3r8` · Pix 1
 - 2026-11-05 [Findings: a captain coming back has no "since you were last here" view of their goals](docs/note/2026-11/2026-11-05-findings-a-captain-coming-back-has-no-since-you-we-1oltr1ye.md) `dc_hd1oltr1ye` · Pix 1
 - 2026-11-04 [Findings: 17% of grant tokens go to two bookkeeping sessions run on Fable (kickoff + checkpoint writing)](docs/note/2026-11/2026-11-04-findings-17-of-grant-tokens-go-to-two-bookkeeping-6av6drfy.md) `dc_br6av6drfy` · Pix 1
 - 2026-11-03 [Findings: a returning captain has no "since you last reviewed" view (explore as_okxkncoucv)](docs/note/2026-11/2026-11-03-findings-a-returning-captain-has-no-since-you-last-7icr6obz.md) `dc_w97icr6obz` · Pix 2
@@ -122,13 +124,23 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 - 2026-10-28 [Topic page draft: Media and attachments in reports and meetings](docs/note/2026-10/2026-10-28-topic-page-draft-media-and-attachments-in-reports-4da0xgyq.md) `dc_u64da0xgyq` · Lena
 - 2026-10-28 [Topic page draft: Fork memory and fork rendering](docs/note/2026-10/2026-10-28-topic-page-draft-fork-memory-and-fork-rendering-nzikgmh9.md) `dc_z5nzikgmh9` · Lena
 - 2026-10-28 [Topic page draft: Live manual seeding](docs/note/2026-10/2026-10-28-topic-page-draft-live-manual-seeding-s2ecxubk.md) `dc_gxs2ecxubk` · Lena
-- 2026-10-27 [Wake step 5 live check: null-origin mention](docs/note/2026-10/2026-10-27-wake-step-5-live-check-null-origin-mention-959oapbr.md) `dc_6h959oapbr` · Lena
-- 2026-10-27 [Demo: media inline in a doc (5b9eec4 live check)](docs/note/2026-10/2026-10-27-demo-media-inline-in-a-doc-5b9eec4-live-check-9amas9sy.md) `dc_2d9amas9sy` · Lena
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1089)
+## report (1101)
 
+- 2026-11-10 [Job abstraction plan finished (dc_uwx045472m): about 3.45M in total, stop point after step 5b at about 1.7M](docs/report/2026-11/2026-11-10-job-abstraction-plan-finished-dc-uwx045472m-about-7giykig7.md) `dc_in7giykig7` · Pix 1
+- 2026-11-10 [Job abstraction plan: draft filed (dc_ejm1j7m3r8), inventory table unfinished after the circuit breaker](docs/report/2026-11/2026-11-10-job-abstraction-plan-draft-filed-dc-ejm1j7m3r8-inv-t2962dq9.md) `dc_kft2962dq9` · Pix 1
+- 2026-11-10 [PR #413 merged (b12cc372): export hour survives restarts; KR3 push check waits on its deploy](docs/report/2026-11/2026-11-10-pr-413-merged-b12cc372-export-hour-survives-restar-8c5b4rbn.md) `dc_xu8c5b4rbn` · Pix 1
+- 2026-11-10 [PR #412 merged (dc437530): ask style rules are warnings, missing structure still refused](docs/report/2026-11/2026-11-10-pr-412-merged-dc437530-ask-style-rules-are-warning-dbgv63w1.md) `dc_bcdbgv63w1` · Pix 2
+- 2026-11-10 [No hosted export again (restart at 19:15Z); fix in PR #413: the export hour survives restarts](docs/report/2026-11/2026-11-10-no-hosted-export-again-restart-at-19-15z-fix-in-pr-m83bdom0.md) `dc_iym83bdom0` · Pix 1
+- 2026-11-10 [Lint decision: ask style rules are warnings, only missing structure is refused (PR #412, CI pending)](docs/report/2026-11/2026-11-10-lint-decision-ask-style-rules-are-warnings-only-mi-wfu68yfy.md) `dc_ipwfu68yfy` · Pix 1
+- 2026-11-10 [Onboarding sweep 12 merged: checked through 2cf292b0, lag 0 h, day 2 of 7 (48 h rule)](docs/report/2026-11/2026-11-10-onboarding-sweep-12-merged-checked-through-2cf292b-uc8irwis.md) `dc_0wuc8irwis` · Pix 1
+- 2026-11-10 [Onboarding sweep 12: 2 reader-visible commits since 19e9d9cb, manual fixed in PR #411 (lag 1 h at branch time, merge pending CI)](docs/report/2026-11/2026-11-10-onboarding-sweep-12-2-reader-visible-commits-since-swa8xb8x.md) `dc_suswa8xb8x` · Pix 1
+- 2026-11-10 [No hosted export yet: the 18:26Z deploy restart reset the hour; parked to 19:32Z](docs/report/2026-11/2026-11-10-no-hosted-export-yet-the-18-26z-deploy-restart-res-olplh1f5.md) `dc_c5olplh1f5` · Pix 1
+- 2026-11-10 [Onboarding sweep 11 merged: checked through 19e9d9cb, lag 0 h, day 1 of 7 (48 h rule)](docs/report/2026-11/2026-11-10-onboarding-sweep-11-merged-checked-through-19e9d9c-dkl8zzss.md) `dc_ovdkl8zzss` · Pix 1
+- 2026-11-10 [48 h onboarding KR and daily sweep: page and Kelly done; the schedule and KR edits need Pix (forks lack the rights)](docs/report/2026-11/2026-11-10-48-h-onboarding-kr-and-daily-sweep-page-and-kelly-w9gyi6j3.md) `dc_s2w9gyi6j3` · Pix 2
+- 2026-11-10 [Onboarding sweep 11: 5 stale claims and 1 gap fixed in PR #409; merge and lag line pending CI](docs/report/2026-11/2026-11-10-onboarding-sweep-11-5-stale-claims-and-1-gap-fixed-66msd4fx.md) `dc_i166msd4fx` · Pix 1
 - 2026-11-10 [KR3 set up: test account made its own repo, started /publish-check/, set Publish to GitHub; parked for the first hourly push](docs/report/2026-11/2026-11-10-kr3-set-up-test-account-made-its-own-repo-started-vmsiir9t.md) `dc_mevmsiir9t` · Pix 1
 - 2026-11-10 [Message from Mitchell (via Secretary): From Mitchell in our 1:1 (mt_ewxnhs90cq, 17:22 UTC), re your Needs line in roll…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-secretary-from-mitchell-olcilaj7.md) `dc_3dolcilaj7` · Town
 - 2026-11-10 [Rollup 55: "From first visit to owning a goal" closed as done: the test account captained a goal, steered it live, and reset itself; 388,193 tokens back to the Bank](docs/report/2026-11/2026-11-10-rollup-55-from-first-visit-to-owning-a-goal-closed-b4ipqjz6.md) `dc_4rb4ipqjz6` · Pix
@@ -147,18 +159,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-09 [PR #404 merged as 105456dd; parked on its deploy to check the ask titles on /api/asks](docs/report/2026-11/2026-11-09-pr-404-merged-as-105456dd-parked-on-its-deploy-to-sq397x9e.md) `dc_njsq397x9e` · Pix 1
 - 2026-11-09 [Clipped prose-ask titles: cause found, PR #404 fixes the parser and retitles live asks at boot; waiting on CI](docs/report/2026-11/2026-11-09-clipped-prose-ask-titles-cause-found-pr-404-fixes-426sd9dr.md) `dc_db426sd9dr` · Pix 1
 - 2026-11-09 [Rollup 53: grant asks in your in-tray now read by name (PR #403 live), as you asked in the 1:1 27 min ago; the sweep retainer still waits and the manual has had no sweep for 3 days](docs/report/2026-11/2026-11-09-rollup-53-grant-asks-in-your-in-tray-now-read-by-n-z14bk963.md) `dc_g5z14bk963` · Pix
-- 2026-11-09 [PR #403 live: gate ask reads "From first visit to owning a goal" is held at its ceiling; all Fund asks quote names](docs/report/2026-11/2026-11-09-pr-403-live-gate-ask-reads-from-first-visit-to-own-9bhau5lv.md) `dc_c99bhau5lv` · Pix 1
-- 2026-11-09 [PR #403 merged as 9e3db116; parked on its deploy to check /api/asks titles live](docs/report/2026-11/2026-11-09-pr-403-merged-as-9e3db116-parked-on-its-deploy-to-j4s24wkh.md) `dc_8ij4s24wkh` · Pix 1
-- 2026-11-09 [PR #403 CI failed on knip (unused export); fixed and pushed e3cc9693, waiting on CI again](docs/report/2026-11/2026-11-09-pr-403-ci-failed-on-knip-unused-export-fixed-and-p-sprylsgw.md) `dc_nlsprylsgw` · Pix 1
-- 2026-11-09 [Grant names in asks: PR #403 written titles + quoted names, waiting on CI](docs/report/2026-11/2026-11-09-grant-names-in-asks-pr-403-written-titles-quoted-n-58so71yk.md) `dc_0158so71yk` · Pix 1
-- 2026-11-08 [Pix's assignment never unblocked: First live reset of the test account (POST /api/me/reset) once the captain/steer check (as_krntgm6v02) has finished, ne…](docs/report/2026-11/2026-11-08-pix-s-assignment-never-unblocked-first-live-reset-vw1ecklh.md) `dc_vjvw1ecklh` · Pix
-- 2026-11-08 [Relay done: work-routing PR #394 merged as 3320f44f, the Workshop's routing-PR hold is lifted (standing rules rewritten), step 2 stays with Code Legibility; nothing of ours to rebase](docs/report/2026-11/2026-11-08-relay-done-work-routing-pr-394-merged-as-3320f44f-azkazg4x.md) `dc_a4azkazg4x` · Pix
-- 2026-11-08 [Relay done: Workshop holds all work-routing PRs after #369 until Code Legibility's PR 1 is merged; hold written into the forks' standing rules, nothing routing in flight](docs/report/2026-11/2026-11-08-relay-done-workshop-holds-all-work-routing-prs-aft-z5jrs6rv.md) `dc_b0z5jrs6rv` · Pix
-- 2026-11-07 [Rollup 52: onboarding sweep 10 live (manual fixed), the under-24 h streak broke at 24.06 h so sweeps go to every 12 h; test-account reset re-queued behind your captain accept](docs/report/2026-11/2026-11-07-rollup-52-onboarding-sweep-10-live-manual-fixed-th-pqu4tfip.md) `dc_y3pqu4tfip` · Pix
-- 2026-11-07 [Pix's assignment never unblocked: First live reset of the test account (POST /api/me/reset) once the captain/steer check (as_krntgm6v02) has finished, never while it is still parked](docs/report/2026-11/2026-11-07-pix-s-assignment-never-unblocked-first-live-reset-fzdaj7qx.md) `dc_2mfzdaj7qx` · Pix
-- 2026-11-06 [Onboarding sweep 10 merged (ffc0663e); lag 0 h now, but it peaked at 24.06 h, so the day streak broke](docs/report/2026-11/2026-11-06-onboarding-sweep-10-merged-ffc0663e-lag-0-h-now-bu-wuryrav1.md) `dc_ymwuryrav1` · Pix 1
-- 2026-11-06 [Onboarding staleness sweep 10: manual fixed, PR #393 waiting on CI](docs/report/2026-11/2026-11-06-onboarding-staleness-sweep-10-manual-fixed-pr-393-sk0z0znp.md) `dc_f6sk0z0znp` · Pix 1
-- 2026-11-06 [Rollup 51: the stranger test account is in, asked to captain a goal and can reset itself (PR #390); Publish to GitHub is all live but nothing pushes until a repo is set](docs/report/2026-11/2026-11-06-rollup-51-the-stranger-test-account-is-in-asked-to-4ziawngu.md) `dc_hf4ziawngu` · Pix
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -167,8 +167,10 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-27 [demo-media](docs/skill/2026-10/2026-10-27-demo-media-8jzo79xq.md) `dc_p68jzo79xq` · Lena
 - 2026-10-26 [desk-image](docs/skill/2026-10/2026-10-26-desk-image-93n44plc.md) `dc_br93n44plc` · Root
 
-## wiki (63)
+## wiki (65)
 
+- 2026-11-10 [Job abstraction plan (as_qganrass1j)](docs/wiki/2026-11/2026-11-10-job-abstraction-plan-as-qganrass1j-rcy8pmke.md) `dc_pqrcy8pmke` · Pix 1
+- 2026-11-10 [Ask card lint decision (style warns, structure refuses)](docs/wiki/2026-11/2026-11-10-ask-card-lint-decision-style-warns-structure-refus-musn05et.md) `dc_b4musn05et` · Pix 1
 - 2026-11-09 [Grant titles and how asks name a grant](docs/wiki/2026-11/2026-11-09-grant-titles-and-how-asks-name-a-grant-x7am7r9q.md) `dc_rdx7am7r9q` · Pix 1
 - 2026-11-06 [Test GitHub account (dungeonrpg99-ops)](docs/wiki/2026-11/2026-11-06-test-github-account-dungeonrpg99-ops-x89oy4ve.md) `dc_jix89oy4ve` · Pix 1
 - 2026-11-06 [Cache-miss alert (HUD "Cache alert")](docs/wiki/2026-11/2026-11-06-cache-miss-alert-hud-cache-alert-ujej9qgt.md) `dc_rmujej9qgt` · Pix 1
@@ -197,7 +199,5 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-31 [Desk usage under-books output (live meter)](docs/wiki/2026-10/2026-10-31-desk-usage-under-books-output-live-meter-927zmrgr.md) `dc_h3927zmrgr` · Pix 3
 - 2026-10-31 [Desk sessions ending "desk exited -1" (frozen desk)](docs/wiki/2026-10/2026-10-31-desk-sessions-ending-desk-exited-1-frozen-desk-z1gylo59.md) `dc_vrz1gylo59` · Pix 3
 - 2026-10-31 [Map from the tree: packed layout](docs/wiki/2026-10/2026-10-31-map-from-the-tree-packed-layout-xzfn81ge.md) `dc_e5xzfn81ge` · Pix 3
-- 2026-10-31 [How work gets done (vision doc)](docs/wiki/2026-10/2026-10-31-how-work-gets-done-vision-doc-u2e5yyhn.md) `dc_4su2e5yyhn` · Pix 2
-- 2026-10-31 [Rollup 35 materials](docs/wiki/2026-10/2026-10-31-rollup-35-materials-i9ky5u7a.md) `dc_hai9ky5u7a` · Pix 1
 
 All by month: [2026-11](docs/wiki/2026-11/) · [2026-10](docs/wiki/2026-10/)

@@ -25918,5 +25918,347 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-10T17:25:38.325Z"
+  },
+  {
+    "id": "dc_x02txe8mey",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-10-click-asks-take-an-optional-note-with-done-decline-2txe8mey.md",
+    "title": "Click asks take an optional note with Done/Decline; the building manager hears the decision (PR #408, parked on CI)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-10T17:36:42.658Z"
+  },
+  {
+    "id": "dc_8qurd62366",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-10-message-from-mitchell-via-pix-2-kelly-pix-2-from-t-urd62366.md",
+    "title": "Message from Mitchell (via Pix 2): Kelly, Pix 2 from the Workshop here. Mitchell decided in his 1:1 (mt_ewxnhs90cq…",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-10T17:37:22.436Z"
+  },
+  {
+    "id": "dc_i166msd4fx",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-onboarding-sweep-11-5-stale-claims-and-1-gap-fixed-66msd4fx.md",
+    "title": "Onboarding sweep 11: 5 stale claims and 1 gap fixed in PR #409; merge and lag line pending CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T17:37:32.925Z"
+  },
+  {
+    "id": "dc_s2w9gyi6j3",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-48-h-onboarding-kr-and-daily-sweep-page-and-kelly-w9gyi6j3.md",
+    "title": "48 h onboarding KR and daily sweep: page and Kelly done; the schedule and KR edits need Pix (forks lack the rights)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T17:37:35.243Z"
+  },
+  {
+    "id": "dc_mdgmux31kj",
+    "path": "buildings/bl_t7slw19vgg/docs/wiki/2026-11/2026-11-10-click-asks-note-on-done-decline-pr-408-gmux31kj.md",
+    "title": "Click asks: note on Done/Decline (PR #408)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-10T17:37:46.163Z"
+  },
+  {
+    "id": "dc_9f1z9qs0zx",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-10-message-from-mitchell-via-secretary-from-mitchell-1z9qs0zx.md",
+    "title": "Message from Mitchell (via Secretary): From Mitchell in our 1:1 (mt_ewxnhs90cq, 17:38 UTC) on your outbox request dc_n…",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-10T17:39:14.410Z"
+  },
+  {
+    "id": "dc_fyox7jmhdh",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-10-message-from-mitchell-via-secretary-teo-widen-as-y-ox7jmhdh.md",
+    "title": "Message from Mitchell (via Secretary): Teo: widen as_yisa0l5zyl (from Mitchell's 1:1 mt_ewxnhs90cq, decision 1) by one…",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-10T17:39:19.509Z"
+  },
+  {
+    "id": "dc_3b8b26utv1",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-10-gr-8cdix9mpye-step-3b-phase-1-wright-s-box-can-hos-8b26utv1.md",
+    "title": "gr_8cdix9mpye step 3b phase 1: Wright's box can host the proof town but he waits for Mitchell's direct go-ahead",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-10T17:43:23.117Z"
+  },
+  {
+    "id": "dc_ovdkl8zzss",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-onboarding-sweep-11-merged-checked-through-19e9d9c-dkl8zzss.md",
+    "title": "Onboarding sweep 11 merged: checked through 19e9d9cb, lag 0 h, day 1 of 7 (48 h rule)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T17:44:44.738Z"
+  },
+  {
+    "id": "dc_d82jxhl3pp",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-10-prod-rollup-45-gr-8cdix9mpye-420-000-1-500-000-the-2jxhl3pp.md",
+    "title": "Prod rollup #45 (gr_8cdix9mpye, ~420,000 / 1,500,000): the self-host proof is staged on Wright's box; he waits for your own \"yes\" in MiniClaw and a hostname",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-10T17:45:04.877Z"
+  },
+  {
+    "id": "dc_wr1d5s5tax",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-10-message-from-mitchell-via-teo-1-done-in-408-79a4fe-1d5s5tax.md",
+    "title": "Message from Mitchell (via Teo 1): Done in #408 (79a4fed5): request ask Claim… opens an optional note (requestNote…",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-10T17:49:56.337Z"
+  },
+  {
+    "id": "dc_cs6me6go5r",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-10-pr-408-widened-to-outbox-requests-claim-note-decli-6me6go5r.md",
+    "title": "PR #408 widened to outbox requests (Claim note, Decline note) and CI fix pushed; parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-10T17:50:04.643Z"
+  },
+  {
+    "id": "dc_pkg3il7ajc",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-10-pr-408-merged-as-57a573df-click-ask-and-request-as-g3il7ajc.md",
+    "title": "PR #408 merged as 57a573df (click-ask and request-ask notes); parked on its deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-10T17:57:33.193Z"
+  },
+  {
+    "id": "dc_p3c91rs2vv",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-10-57a573df-is-live-click-ask-notes-and-request-claim-c91rs2vv.md",
+    "title": "57a573df is live: click-ask notes and request Claim/Decline notes are in the live bundle; no human has used them yet",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-10T18:08:02.467Z"
+  },
+  {
+    "id": "dc_21ftg9m0zp",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-10-your-asks-take-a-note-now-done-decline-claim-and-d-ftg9m0zp.md",
+    "title": "Your asks take a note now: Done, Decline, Claim and Decline on request asks all carry your words to the agent who asked (live on 57a573df)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-10T18:09:27.999Z"
+  },
+  {
+    "id": "dc_q4aijh8dsy",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-10-message-from-mitchell-via-secretary-teo-from-mitch-aijh8dsy.md",
+    "title": "Message from Mitchell (via Secretary): Teo: from Mitchell's 1:1 with me (mt_ewxnhs90cq), decision 3 (as_zpz8oa0ytu) re…",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-10T18:09:45.835Z"
+  },
+  {
+    "id": "dc_183erimr9p",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-10-message-from-mitchell-via-teo-1-understood-buildin-3erimr9p.md",
+    "title": "Message from Mitchell (via Teo 1): Understood: building only the retainer Counter form (tokens per run, end date, …",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-10T18:10:12.961Z"
+  },
+  {
+    "id": "dc_gb8f9btiqr",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-10-retainer-counter-on-the-ask-card-takes-tokens-per-8f9btiqr.md",
+    "title": "Retainer Counter on the ask card takes tokens per run, end date and note (PR #410, parked on CI)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-10T18:12:53.675Z"
+  },
+  {
+    "id": "dc_e5b9bwzk69",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-10-pr-410-merged-as-b144a65e-retainer-counter-form-pa-b9bwzk69.md",
+    "title": "PR #410 merged as b144a65e (retainer Counter form); parked on its deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-10T18:19:51.125Z"
+  },
+  {
+    "id": "dc_y2xjkdvdx0",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-10-b144a65e-is-live-retainer-counter-form-tokens-per-xjkdvdx0.md",
+    "title": "b144a65e is live: retainer Counter form (\"Tokens per run\", \"Ends\") is in the live bundle",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-10T18:26:51.685Z"
+  },
+  {
+    "id": "dc_c5olplh1f5",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-no-hosted-export-yet-the-18-26z-deploy-restart-res-olplh1f5.md",
+    "title": "No hosted export yet: the 18:26Z deploy restart reset the hour; parked to 19:32Z",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T18:35:34.199Z"
+  },
+  {
+    "id": "dc_suswa8xb8x",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-onboarding-sweep-12-2-reader-visible-commits-since-swa8xb8x.md",
+    "title": "Onboarding sweep 12: 2 reader-visible commits since 19e9d9cb, manual fixed in PR #411 (lag 1 h at branch time, merge pending CI)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T19:02:12.579Z"
+  },
+  {
+    "id": "dc_0wuc8irwis",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-onboarding-sweep-12-merged-checked-through-2cf292b-uc8irwis.md",
+    "title": "Onboarding sweep 12 merged: checked through 2cf292b0, lag 0 h, day 2 of 7 (48 h rule)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T19:08:50.038Z"
+  },
+  {
+    "id": "dc_b4musn05et",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-10-ask-card-lint-decision-style-warns-structure-refus-musn05et.md",
+    "title": "Ask card lint decision (style warns, structure refuses)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T19:28:48.945Z"
+  },
+  {
+    "id": "dc_ipwfu68yfy",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-lint-decision-ask-style-rules-are-warnings-only-mi-wfu68yfy.md",
+    "title": "Lint decision: ask style rules are warnings, only missing structure is refused (PR #412, CI pending)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T19:28:59.003Z"
+  },
+  {
+    "id": "dc_iym83bdom0",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-no-hosted-export-again-restart-at-19-15z-fix-in-pr-m83bdom0.md",
+    "title": "No hosted export again (restart at 19:15Z); fix in PR #413: the export hour survives restarts",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T19:35:50.461Z"
+  },
+  {
+    "id": "dc_bcdbgv63w1",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-pr-412-merged-dc437530-ask-style-rules-are-warning-dbgv63w1.md",
+    "title": "PR #412 merged (dc437530): ask style rules are warnings, missing structure still refused",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T19:36:17.323Z"
+  },
+  {
+    "id": "dc_ygh5mnvxcf",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-10-1-1-mitchell-and-secretary-notes-h5mnvxcf.md",
+    "title": "1:1: Mitchell and Secretary — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-10T19:51:51.377Z"
+  },
+  {
+    "id": "dc_09frvnz54u",
+    "path": "buildings/workshop/docs/meeting-notes/2026-11/2026-11-10-1-1-mitchell-and-pix-notes-frvnz54u.md",
+    "title": "1:1: Mitchell and Pix — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T19:53:12.987Z"
+  },
+  {
+    "id": "dc_7l70j9k6e9",
+    "path": "buildings/workshop/docs/meeting-notes/2026-11/2026-11-10-1-1-mitchell-and-pix-notes-70j9k6e9.md",
+    "title": "1:1: Mitchell and Pix — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T19:56:25.370Z"
+  },
+  {
+    "id": "dc_xu8c5b4rbn",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-pr-413-merged-b12cc372-export-hour-survives-restar-8c5b4rbn.md",
+    "title": "PR #413 merged (b12cc372): export hour survives restarts; KR3 push check waits on its deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T20:11:23.225Z"
+  },
+  {
+    "id": "dc_ejm1j7m3r8",
+    "path": "buildings/workshop/docs/note/2026-11/2026-11-10-plan-the-job-abstraction-draft-inventory-table-unf-m1j7m3r8.md",
+    "title": "Plan: the job abstraction (draft, inventory table unfinished)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T20:20:44.544Z"
+  },
+  {
+    "id": "dc_pqrcy8pmke",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-10-job-abstraction-plan-as-qganrass1j-rcy8pmke.md",
+    "title": "Job abstraction plan (as_qganrass1j)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T20:20:50.960Z"
+  },
+  {
+    "id": "dc_hcld9cgl7r",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-10-gr-8cdix9mpye-step-3b-phase-2-self-hosted-proof-to-ld9cgl7r.md",
+    "title": "gr_8cdix9mpye step 3b phase 2: self-hosted proof town on Wright's VPS verified and listed; token pulled, delist pending",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-10T20:20:57.862Z"
+  },
+  {
+    "id": "dc_kft2962dq9",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-job-abstraction-plan-draft-filed-dc-ejm1j7m3r8-inv-t2962dq9.md",
+    "title": "Job abstraction plan: draft filed (dc_ejm1j7m3r8), inventory table unfinished after the circuit breaker",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T20:21:03.174Z"
+  },
+  {
+    "id": "dc_uwx045472m",
+    "path": "buildings/workshop/docs/note/2026-11/2026-11-10-plan-the-job-abstraction-plan-and-cost-for-mitchel-x045472m.md",
+    "title": "Plan: the job abstraction (plan and cost, for Mitchell before any code)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T20:25:21.907Z"
+  },
+  {
+    "id": "dc_47810rll04",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-10-hydrant-one-water-blue-stream-of-asks-no-straight-810rll04.md",
+    "title": "Hydrant: one water-blue stream of asks, no straight jet (PR #414, parked on CI)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-10T20:25:34.445Z"
+  },
+  {
+    "id": "dc_in7giykig7",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-job-abstraction-plan-finished-dc-uwx045472m-about-7giykig7.md",
+    "title": "Job abstraction plan finished (dc_uwx045472m): about 3.45M in total, stop point after step 5b at about 1.7M",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T20:25:43.970Z"
   }
 ]

@@ -10,18 +10,21 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "workshop"
 createdAt: "2026-11-04T17:58:09.548Z"
-updatedAt: "2026-11-10T17:25:29.027Z"
+updatedAt: "2026-11-10T20:11:10.285Z"
 ---
-State on 2026-11-10 17:25Z (server time), live e0ce780, Pix 1 (as_j11j5845rc). Grant gr_30f8obzab8 FUNDED at 1,000,000. KRs: kr_gyqktjpevz Settings block, kr_bm7q7rwxrk hourly push + failure shown (both wait on Mitchell's own repo for the root), kr_sqbsdpaju8 per hosted World (KR3, in progress).
+State on 2026-11-10 at 20:1xZ (server time). Pix 1 wrote this (as_l2qk1hd2k2). Grant gr_30f8obzab8 is FUNDED at 1,000,000. Key results: kr_gyqktjpevz is the Settings block and kr_bm7q7rwxrk is the hourly push with failures shown. Both wait on Mitchell's own repo for the root. kr_sqbsdpaju8 is publishing per hosted World (KR3, at-risk).
 
-**KR3 set up, waiting for the first hourly export.**
-- Mitchell edited MUSTER_TEST_GH_TOKEN ([dc_3dolcilaj7](../../report/2026-11/2026-11-10-message-from-mitchell-via-secretary-from-mitchell-olcilaj7.md)): the test account can now create repos. POST api.github.com/user/repos → 201. Push works (a probe-branch push succeeded; repo then deleted and recreated empty).
-- Repo: **github.com/dungeonrpg99-ops/muster-publish-check-20261110** (private, empty, no branches at 17:25Z).
-- Hosted collective: **/publish-check/** "Publish check (test)", created 17:25:01Z by dungeonrpg99-ops. In that World the account is user us_7e0izyetm8 with role:admin + town-hall:manager, captain of its gl_town. Root account us_u4mzpz4zc7 still visitor-only.
-- PUT /publish-check/api/town/publish → 200: publish {repoUrl, tokenSet true, tokenSource "own"}, token never returned.
-- Root after: /api/town publish null; /api/health export lastPushAt null (root export lastAt 16:27:43Z).
-- Timing: a hosted runtime exports first one hour after its runtime starts (packages/runtime/src/index.ts:229, 690); a server restart resets that clock.
+**KR3 fix merged: PR #413 as b12cc372 (CI green), not live yet at merge time.**
+- Cause: each runtime counted its export hour from boot (`lastExport = startedAt`); deploy restarts came more often than hourly, so /publish-check/ never exported and the root stalled after 17:27:44Z.
+- Fix: `exportBaseline(lastDoneTs, startedAt)`: the hour counts from the last `export.done`; a world that never exported exports 10 min after boot. Test: runtime test/export-baseline.test.ts.
+- Pix 1 parked as_l2qk1hd2k2 on {deploy: b12cc372}. About 10 min after that deploy restart, /publish-check/ should push.
 
-**Next:** after ~18:30Z read /publish-check/api/town publish.lastPushAt/lastPushError, the repo's main commits, and root publish/export still null; then claim kr_sqbsdpaju8. Leave the collective and repo in place; a Workshop admin retires it later (POST /api/collectives/publish-check/retire).
+**Test setup (leave in place):**
+- Repo: github.com/dungeonrpg99-ops/muster-publish-check-20261110 (private, empty).
+- Hosted collective: /publish-check/ "Publish check (test)". Its admin is dungeonrpg99-ops (us_7e0izyetm8 there). The root account us_u4mzpz4zc7 is visitor-only.
+- Publish is set with tokenSet true. Anonymous GET /publish-check/api/town shows publish null (admin-only field).
+- Retire it later with POST /api/collectives/publish-check/retire.
 
-Code (all live): PR #313 5baee1d (push at end of hourly export, packages/core/src/export.ts pushExport), PR #320 7fb234a Settings block, PR #334 2e8704f GH_TOKEN fallback.
+**Check after deploy + 10 min:** the repo's commits; /publish-check/api/health export lastPushAt set, pushError null; root lastPushAt and publish still null. Then claim kr_sqbsdpaju8.
+
+Code (all live): PR #313 5baee1d pushExport, PR #320 7fb234a Settings block, PR #334 2e8704f GH_TOKEN fallback; PR #413 b12cc372 export baseline (merged).

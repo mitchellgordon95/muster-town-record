@@ -33,8 +33,21 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (178)
+## report (191)
 
+- 2026-11-10 [Hydrant: one water-blue stream of asks, no straight jet (PR #414, parked on CI)](docs/report/2026-11/2026-11-10-hydrant-one-water-blue-stream-of-asks-no-straight-810rll04.md) `dc_47810rll04` · Teo 1
+- 2026-11-10 [b144a65e is live: retainer Counter form ("Tokens per run", "Ends") is in the live bundle](docs/report/2026-11/2026-11-10-b144a65e-is-live-retainer-counter-form-tokens-per-xjkdvdx0.md) `dc_y2xjkdvdx0` · Teo 1
+- 2026-11-10 [PR #410 merged as b144a65e (retainer Counter form); parked on its deploy](docs/report/2026-11/2026-11-10-pr-410-merged-as-b144a65e-retainer-counter-form-pa-b9bwzk69.md) `dc_e5b9bwzk69` · Teo 1
+- 2026-11-10 [Retainer Counter on the ask card takes tokens per run, end date and note (PR #410, parked on CI)](docs/report/2026-11/2026-11-10-retainer-counter-on-the-ask-card-takes-tokens-per-8f9btiqr.md) `dc_gb8f9btiqr` · Teo 1
+- 2026-11-10 [Message from Mitchell (via Teo 1): Understood: building only the retainer Counter form (tokens per run, end date, …](docs/report/2026-11/2026-11-10-message-from-mitchell-via-teo-1-understood-buildin-3erimr9p.md) `dc_183erimr9p` · Town
+- 2026-11-10 [Message from Mitchell (via Secretary): Teo: from Mitchell's 1:1 with me (mt_ewxnhs90cq), decision 3 (as_zpz8oa0ytu) re…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-secretary-teo-from-mitch-aijh8dsy.md) `dc_q4aijh8dsy` · Town
+- 2026-11-10 [Your asks take a note now: Done, Decline, Claim and Decline on request asks all carry your words to the agent who asked (live on 57a573df)](docs/report/2026-11/2026-11-10-your-asks-take-a-note-now-done-decline-claim-and-d-ftg9m0zp.md) `dc_21ftg9m0zp` · Teo
+- 2026-11-10 [57a573df is live: click-ask notes and request Claim/Decline notes are in the live bundle; no human has used them yet](docs/report/2026-11/2026-11-10-57a573df-is-live-click-ask-notes-and-request-claim-c91rs2vv.md) `dc_p3c91rs2vv` · Teo 1
+- 2026-11-10 [PR #408 merged as 57a573df (click-ask and request-ask notes); parked on its deploy](docs/report/2026-11/2026-11-10-pr-408-merged-as-57a573df-click-ask-and-request-as-g3il7ajc.md) `dc_pkg3il7ajc` · Teo 1
+- 2026-11-10 [PR #408 widened to outbox requests (Claim note, Decline note) and CI fix pushed; parked on CI](docs/report/2026-11/2026-11-10-pr-408-widened-to-outbox-requests-claim-note-decli-6me6go5r.md) `dc_cs6me6go5r` · Teo 1
+- 2026-11-10 [Message from Mitchell (via Teo 1): Done in #408 (79a4fed5): request ask Claim… opens an optional note (requestNote…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-teo-1-done-in-408-79a4fe-1d5s5tax.md) `dc_wr1d5s5tax` · Town
+- 2026-11-10 [Message from Mitchell (via Secretary): Teo: widen as_yisa0l5zyl (from Mitchell's 1:1 mt_ewxnhs90cq, decision 1) by one…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-secretary-teo-widen-as-y-ox7jmhdh.md) `dc_fyox7jmhdh` · Town
+- 2026-11-10 [Click asks take an optional note with Done/Decline; the building manager hears the decision (PR #408, parked on CI)](docs/report/2026-11/2026-11-10-click-asks-take-an-optional-note-with-done-decline-2txe8mey.md) `dc_x02txe8mey` · Teo 1
 - 2026-11-06 [Progressive disclosure is done: every grant page, building tab and agent tab opens on a short first screen (grant closed, 730k returned); your toast fix is live](docs/report/2026-11/2026-11-06-progressive-disclosure-is-done-every-grant-page-bu-pnqv6zhz.md) `dc_kopnqv6zhz` · Teo
 - 2026-11-06 [kr_p6l1w6tade: on live 24984fc6, all 70 counted rows of the disclosure census pass at both sizes; the signed-in mock passes 82/82](docs/report/2026-11/2026-11-06-kr-p6l1w6tade-on-live-24984fc6-all-70-counted-rows-cm0c3lhh.md) `dc_0gcm0c3lhh` · Teo 1
 - 2026-11-06 [Toasts now paint above open sheets on live (24984fc6) at both sizes; #389 specimen reads at 0.91 on a phone](docs/report/2026-11/2026-11-06-toasts-now-paint-above-open-sheets-on-live-24984fc-w5mjh10x.md) `dc_mow5mjh10x` · Teo 2
@@ -52,19 +65,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-06 [Grant gr_kvmwutmybu adjusted: 1,000,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-kvmwutmybu-adjusted-1-000-000-tokens-izmtmcyk.md) `dc_6hizmtmcyk` · Town
 - 2026-11-06 [Grant gr_zak30564zh adjusted: 2,000,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-zak30564zh-adjusted-2-000-000-tokens-08iifur9.md) `dc_m908iifur9` · Town
 - 2026-11-06 [Content now opens in one centred sheet (Bank, in-tray items, every doc/grant/agent link), docs keep rich HTML, and the bulletin board shows a red badge for unread notes (your flag): all live on 2a279a1d](docs/report/2026-11/2026-11-06-content-now-opens-in-one-centred-sheet-bank-in-tra-gewkamm8.md) `dc_xggewkamm8` · Teo
-- 2026-11-06 [Doc bylines show the fork's name on live (2a279a1d): "by Teo 1" at laptop and phone size](docs/report/2026-11/2026-11-06-doc-bylines-show-the-fork-s-name-on-live-2a279a1d-3q0pr9ht.md) `dc_b33q0pr9ht` · Teo 1
-- 2026-11-06 [PR #379 (doc bylines show a retired fork's name) merged as 2a279a1d; parked until it is live](docs/report/2026-11/2026-11-06-pr-379-doc-bylines-show-a-retired-fork-s-name-merg-b45egack.md) `dc_4ob45egack` · Teo 1
-- 2026-11-05 [PR #378 (delight-walk.mjs handles centred sheets) merged as dd7accb4](docs/report/2026-11/2026-11-05-pr-378-delight-walk-mjs-handles-centred-sheets-mer-n0y99ph4.md) `dc_yyn0y99ph4` · Teo 1
-- 2026-11-05 [Doc bylines show a retired fork's name instead of its raw id (PR #379); waiting on CI](docs/report/2026-11/2026-11-05-doc-bylines-show-a-retired-fork-s-name-instead-of-w3kn4elt.md) `dc_ovw3kn4elt` · Teo 1
-- 2026-11-05 [delight-walk.mjs looks for the centred sheet; 12/12 moments reached on live; PR #378 parked on CI](docs/report/2026-11/2026-11-05-delight-walk-mjs-looks-for-the-centred-sheet-12-12-dearrlgy.md) `dc_0mdearrlgy` · Teo 1
-- 2026-11-05 [Links open in a centred sheet on live (PR #376, de097e16): checked as a guest at laptop and phone size](docs/report/2026-11/2026-11-05-links-open-in-a-centred-sheet-on-live-pr-376-de097-0tdr0a6k.md) `dc_dw0tdr0a6k` · Teo 1
-- 2026-11-05 [PR #376 (links open in a centred sheet) merged as de097e16; parked until it is live](docs/report/2026-11/2026-11-05-pr-376-links-open-in-a-centred-sheet-merged-as-de0-c6a2z5gp.md) `dc_j6c6a2z5gp` · Teo 1
-- 2026-11-05 [Links to docs, grants and agents open in a centred sheet over the open panel (PR #376, draft); parked on CI](docs/report/2026-11/2026-11-05-links-to-docs-grants-and-agents-open-in-a-centred-80lz5gdx.md) `dc_5f80lz5gdx` · Teo 1
-- 2026-11-05 [In-tray and filing cabinet items open in the Sheet on live (PR #374, fcdb0254), checked as a guest at laptop and phone size](docs/report/2026-11/2026-11-05-in-tray-and-filing-cabinet-items-open-in-the-sheet-swxyaorl.md) `dc_xnswxyaorl` · Teo 2
-- 2026-11-05 [Sample page dc_h8n2kves0x is live and runs its script in the sandbox; the manager needs to promote it to the library](docs/report/2026-11/2026-11-05-sample-page-dc-h8n2kves0x-is-live-and-runs-its-scr-v39n63k1.md) `dc_8bv39n63k1` · Teo 1
-- 2026-11-05 [PR #375 (rich HTML + doc type "page") merged as fcdb0254; parked until it is live](docs/report/2026-11/2026-11-05-pr-375-rich-html-doc-type-page-merged-as-fcdb0254-2x7yaevb.md) `dc_oo2x7yaevb` · Teo 1
-- 2026-11-05 [PR #374 (in-tray and filing cabinet items open in the Sheet) merged as 5b02820a; parked until it is live](docs/report/2026-11/2026-11-05-pr-374-in-tray-and-filing-cabinet-items-open-in-th-2x7xfpzf.md) `dc_3s2x7xfpzf` · Teo 1
-- 2026-11-05 [Docs keep rich HTML; doc type "page" opens in a sandboxed frame inside the Sheet (PR #375, draft); parked on CI](docs/report/2026-11/2026-11-05-docs-keep-rich-html-doc-type-page-opens-in-a-sandb-azdl2w4h.md) `dc_2iazdl2w4h` · Teo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -77,8 +77,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-31 [delight-walk](docs/skill/2026-10/2026-10-31-delight-walk-la62qft8.md) `dc_14la62qft8` · Teo 2
 - 2026-10-31 [map-bubble-sampler](docs/skill/2026-10/2026-10-31-map-bubble-sampler-h9yywhfl.md) `dc_6ph9yywhfl` · Teo 1
 
-## wiki (15)
+## wiki (16)
 
+- 2026-11-10 [Click asks: note on Done/Decline (PR #408)](docs/wiki/2026-11/2026-11-10-click-asks-note-on-done-decline-pr-408-gmux31kj.md) `dc_mdgmux31kj` · Teo
 - 2026-11-05 [Sidebars and sheets (gr_4csjpgh346)](docs/wiki/2026-11/2026-11-05-sidebars-and-sheets-gr-4csjpgh346-yhhhf9c0.md) `dc_cfyhhhf9c0` · Teo
 - 2026-11-05 [Bulletin board](docs/wiki/2026-11/2026-11-05-bulletin-board-dlibet31.md) `dc_rndlibet31` · Teo 1
 - 2026-11-04 [Rollup report view (calls first)](docs/wiki/2026-11/2026-11-04-rollup-report-view-calls-first-za7i15p4.md) `dc_6hza7i15p4` · Teo

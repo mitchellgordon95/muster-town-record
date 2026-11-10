@@ -87,8 +87,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (304)
+## report (308)
 
+- 2026-11-10 [gr_8cdix9mpye step 3b phase 2: self-hosted proof town on Wright's VPS verified and listed; token pulled, delist pending](docs/report/2026-11/2026-11-10-gr-8cdix9mpye-step-3b-phase-2-self-hosted-proof-to-ld9cgl7r.md) `dc_hcld9cgl7r` · Cleo 1
+- 2026-11-10 [Prod rollup #45 (gr_8cdix9mpye, ~420,000 / 1,500,000): the self-host proof is staged on Wright's box; he waits for your own "yes" in MiniClaw and a hostname](docs/report/2026-11/2026-11-10-prod-rollup-45-gr-8cdix9mpye-420-000-1-500-000-the-2jxhl3pp.md) `dc_d82jxhl3pp` · Cleo
+- 2026-11-10 [gr_8cdix9mpye step 3b phase 1: Wright's box can host the proof town but he waits for Mitchell's direct go-ahead](docs/report/2026-11/2026-11-10-gr-8cdix9mpye-step-3b-phase-1-wright-s-box-can-hos-8b26utv1.md) `dc_3b8b26utv1` · Cleo 1
+- 2026-11-10 [Message from Mitchell (via Secretary): From Mitchell in our 1:1 (mt_ewxnhs90cq, 17:38 UTC) on your outbox request dc_n…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-secretary-from-mitchell-1z9qs0zx.md) `dc_9f1z9qs0zx` · Town
 - 2026-11-09 [Prod rollup #44 (close report for gr_q1jrelx2ty, 513,006 / 800,000): a stranger can run their own Muster Town from the published image; CI proves the image boots and restores a backup on every green main](docs/report/2026-11/2026-11-09-prod-rollup-44-close-report-for-gr-q1jrelx2ty-513-kmunmsjc.md) `dc_bpkmunmsjc` · Cleo
 - 2026-11-09 [gr_q1jrelx2ty step 4 done: PR #392 merged (b9a248b0), self-host path B pulls the ghcr image; all 4 KRs claimed, ready to close (fork can't call close_grant)](docs/report/2026-11/2026-11-09-gr-q1jrelx2ty-step-4-done-pr-392-merged-b9a248b0-s-6drno42y.md) `dc_316drno42y` · Cleo 1
 - 2026-11-09 [Grant gr_q1jrelx2ty adjusted: 800,000 tokens](docs/report/2026-11/2026-11-09-grant-gr-q1jrelx2ty-adjusted-800-000-tokens-q136tvjw.md) `dc_tjq136tvjw` · Town
@@ -115,10 +119,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-06 [gr_db6ofyd0yf step 3: PR #340 had gone conflicting with main (CI never ran); re-merged as 9a94be4e, green locally, parked on its CI](docs/report/2026-11/2026-11-06-gr-db6ofyd0yf-step-3-pr-340-had-gone-conflicting-w-wal7psjh.md) `dc_w9wal7psjh` · Cleo 1
 - 2026-11-06 [Grant gr_q1jrelx2ty adjusted: 600,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-q1jrelx2ty-adjusted-600-000-tokens-r35qv8ye.md) `dc_vvr35qv8ye` · Town
 - 2026-11-06 [gr_lvzy0yxwgd day 1 read: 14 restarts since the guard went live, all CI deploys with commits; 0 no-op restarts; restarts24h 22](docs/report/2026-11/2026-11-06-gr-lvzy0yxwgd-day-1-read-14-restarts-since-the-gua-2psi1vd0.md) `dc_yy2psi1vd0` · Cleo 1
-- 2026-11-06 [Grant gr_w9ue1k1p0c adjusted: 1,000,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-w9ue1k1p0c-adjusted-1-000-000-tokens-1nq5dr2m.md) `dc_c11nq5dr2m` · Town
-- 2026-11-06 [Grant gr_8cdix9mpye adjusted: 1,500,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-8cdix9mpye-adjusted-1-500-000-tokens-0clc8awx.md) `dc_ig0clc8awx` · Town
-- 2026-11-06 [gr_db6ofyd0yf step 3: PR #340 rebased on main (tests, knip, bench green), marked ready; parked on its CI](docs/report/2026-11/2026-11-06-gr-db6ofyd0yf-step-3-pr-340-rebased-on-main-tests-vyd0hezy.md) `dc_9dvyd0hezy` · Cleo 1
-- 2026-11-06 [Grant gr_lvzy0yxwgd adjusted: 800,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-lvzy0yxwgd-adjusted-800-000-tokens-eg9mmvmi.md) `dc_xaeg9mmvmi` · Town
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

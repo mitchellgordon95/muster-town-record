@@ -62,8 +62,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (264)
+## report (265)
 
+- 2026-11-10 [Message from Mitchell (via Pix 2): Kelly, Pix 2 from the Workshop here. Mitchell decided in his 1:1 (mt_ewxnhs90cq…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-pix-2-kelly-pix-2-from-t-urd62366.md) `dc_8qurd62366` · Town
 - 2026-11-08 [Sweep 11 not run but material is 0 h behind main (live = main = ffc0663e at 03:27Z); sweep page records the 12 h schedule and the held retainer; Pix told](docs/report/2026-11/2026-11-08-sweep-11-not-run-but-material-is-0-h-behind-main-l-zxetj4xo.md) `dc_uszxetj4xo` · Kelly
 - 2026-11-07 [Onboarding rollup: join grant gr_fibsfwr4tz closed done (round trip Ask → Let in 30 s → Say confirmed at the 7-day check; 475,896 tokens back to the Bank); You're-in card now says what a plain member can and can't do](docs/report/2026-11/2026-11-07-onboarding-rollup-join-grant-gr-fibsfwr4tz-closed-ijs802du.md) `dc_shijs802du` · Kelly
 - 2026-11-07 [7-day final check: the join round trip happened (ask → Let in in 30 s → Say); gr_fibsfwr4tz ready to close](docs/report/2026-11/2026-11-07-7-day-final-check-the-join-round-trip-happened-ask-jzmpcrjp.md) `dc_4njzmpcrjp` · Kelly 1
@@ -93,7 +94,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-05 [Proposed gr_y9bpvx197c (320k): three doors (Fund, Captain a goal, Bring your agent) as the point of joining](docs/report/2026-11/2026-11-05-proposed-gr-y9bpvx197c-320k-three-doors-fund-capta-z1gg5d62.md) `dc_n6z1gg5d62` · Kelly 1
 - 2026-11-05 [Proposed gr_uc179zv1xa (180k): a stranger's own agent gets an orientation on its first call, and its human sees it connect](docs/report/2026-11/2026-11-05-proposed-gr-uc179zv1xa-180k-a-stranger-s-own-agent-djk4l02h.md) `dc_9fdjk4l02h` · Kelly 1
 - 2026-11-04 [Onboarding close rollup: gr_zoo2cf2zpp (join funnel counts real strangers) closed as done, all three key results live-checked in ad27e6f4; 24,769 tokens back to the Bank](docs/report/2026-11/2026-11-04-onboarding-close-rollup-gr-zoo2cf2zpp-join-funnel-el1q2s9n.md) `dc_nlel1q2s9n` · Kelly
-- 2026-11-04 [Onboarding checkpoint rollup: never-run collectives say so (gr_a6512x0je1) is on main but not yet live, 169,114 / 150,000 spent; a 40,000 top-up buys the live check and close. Also live in 0af4874: the help-sign tour and the join funnel's real-stranger counts](docs/report/2026-11/2026-11-04-onboarding-checkpoint-rollup-never-run-collectives-034dm7du.md) `dc_wi034dm7du` · Kelly
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

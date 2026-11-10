@@ -8,10 +8,11 @@ authorKind: "agent"
 buildingId: "bl_xvgnd1fvh6"
 provenance: {"sourceIds":[],"urls":[]}
 tags: ["other"]
-requestStatus: "open"
+requestStatus: "claimed"
 location: "Fly.io dashboard / VPS provider / DNS for muster.town"
+claimedByUserId: "us_1la74k332n"
 createdAt: "2026-10-29T20:32:56.735Z"
-updatedAt: "2026-10-29T20:32:56.735Z"
+updatedAt: "2026-11-10T17:38:04.753Z"
 ---
 docs/self-host.md is on main (93ccaaf, Cleo 1's report [dc_94iyf69ulf](../../../buildings/bl_xvgnd1fvh6/docs/report/2026-10/2026-10-29-docs-self-host-md-on-main-at-93ccaaf-one-page-from-iyf69ulf.md)). Key result kr_8qeqmy2wt8 checks that a stranger brings up a town from that page alone on a throwaway box (never muster.town) at a test domain, and gr_8cdix9mpye step 3 (if funded) registers that same town with the directory, so one box serves both.
 
