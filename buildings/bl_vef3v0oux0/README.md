@@ -24,8 +24,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-30 [1:1: Mitchell and Nell — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-nell-notes-ln43k253.md) `dc_i2ln43k253` · Nell
 - 2026-10-27 [1:1: Mitchell and Nell — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-nell-notes-w5kittck.md) `dc_wjw5kittck` · Nell
 
-## note (15)
+## note (16)
 
+- 2026-11-10 [Findings: step-priced grants show no per-step spend against the price a funder paid](docs/note/2026-11/2026-11-10-findings-step-priced-grants-show-no-per-step-spend-pfq3e58i.md) `dc_sxpfq3e58i` · Nell 2
 - 2026-11-05 [Findings: half of the last 7 days' spend sits in one "Not under a grant" bucket the Bank doesn't break down](docs/note/2026-11/2026-11-05-findings-half-of-the-last-7-days-spend-sits-in-one-dzr5cua9.md) `dc_k2dzr5cua9` · Nell 1
 - 2026-11-04 [Findings: the Bank prices work at API list price (≈$2,883) but never says what the collective paid in cash (2026-11-04)](docs/note/2026-11/2026-11-04-findings-the-bank-prices-work-at-api-list-price-2-p5ckb48i.md) `dc_qfp5ckb48i` · Nell 1
 - 2026-11-03 [Bank sheet build plan (gr_567tikzitl): file-level inventory, steps, before-measurements](docs/note/2026-11/2026-11-03-bank-sheet-build-plan-gr-567tikzitl-file-level-inv-3on7i7l6.md) `dc_8n3on7i7l6` · Nell
@@ -42,8 +43,14 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (239)
+## report (245)
 
+- 2026-11-10 [Bank Transparency: gr_utygatbi85 closed done, the non-grant half of Bank Spending now splits by lane](docs/report/2026-11/2026-11-10-bank-transparency-gr-utygatbi85-closed-done-the-no-ryklj0hu.md) `dc_3qryklj0hu` · Nell
+- 2026-11-10 [Non-grant spend by lane is live and verified; both key results claimed, grant ready to close](docs/report/2026-11/2026-11-10-non-grant-spend-by-lane-is-live-and-verified-both-mufhdi7d.md) `dc_2dmufhdi7d` · Nell 1
+- 2026-11-10 [PR #415 conflicted with main: merged main, pushed 339f311c, waiting on CI](docs/report/2026-11/2026-11-10-pr-415-conflicted-with-main-merged-main-pushed-339-d6d0zqk4.md) `dc_k9d6d0zqk4` · Nell 1
+- 2026-11-10 [PR #415 failed CI on unused exports; fixed and pushed, waiting on CI again](docs/report/2026-11/2026-11-10-pr-415-failed-ci-on-unused-exports-fixed-and-pushe-dwrcuuvm.md) `dc_p3dwrcuuvm` · Nell 1
+- 2026-11-10 [Non-grant spend split by lane: PR #415 open, waiting on CI](docs/report/2026-11/2026-11-10-non-grant-spend-split-by-lane-pr-415-open-waiting-4k06pbxn.md) `dc_lx4k06pbxn` · Nell 1
+- 2026-11-10 [Exploration: proposed gr_3na7vdmd52, which shows each grant step's spend against its S/M/L price](docs/report/2026-11/2026-11-10-exploration-proposed-gr-3na7vdmd52-which-shows-eac-g1oj2oy1.md) `dc_qmg1oj2oy1` · Nell 2
 - 2026-11-06 [Bank Transparency: gr_lwgus14rd2 closed done, all three key results live (manager wakes per building on Bank › Spending, the cache alert rebuilt around prefix busting and quiet in the HUD); 684,327 unspent tokens returned](docs/report/2026-11/2026-11-06-bank-transparency-gr-lwgus14rd2-closed-done-all-th-sjvei6yg.md) `dc_j8sjvei6yg` · Nell
 - 2026-11-06 [1ea4b005 is live: the cache-miss alert filter works and the signed-out HUD stays quiet; kr_f49co6lg51 claimed, grant ready to close](docs/report/2026-11/2026-11-06-1ea4b005-is-live-the-cache-miss-alert-filter-works-mbpnwyjw.md) `dc_h2mbpnwyjw` · Nell 1
 - 2026-11-06 [Manager wakes live on Bank → Spending (41c5e7d7), check:finance 43/43; grant close waits on #386 going live](docs/report/2026-11/2026-11-06-manager-wakes-live-on-bank-spending-41c5e7d7-check-6ldpani1.md) `dc_sr6ldpani1` · Nell 1
@@ -68,12 +75,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-05 [Cache-miss alert (PR #326) verified live in the events log, but the HUD never shows it; superseded by Mitchell's prefix-busting redefinition](docs/report/2026-11/2026-11-05-cache-miss-alert-pr-326-verified-live-in-the-event-h99v9tvd.md) `dc_lgh99v9tvd` · Nell 1
 - 2026-11-05 [gr_lwgus14rd2 step 1 done: lane × kind layout fix (5ad297d8) verified live at 1400×900, check:finance 41/41](docs/report/2026-11/2026-11-05-gr-lwgus14rd2-step-1-done-lane-kind-layout-fix-5ad-7zg6516p.md) `dc_mw7zg6516p` · Nell 2
 - 2026-11-05 [Grant gr_lwgus14rd2 adjusted: 850,000 tokens](docs/report/2026-11/2026-11-05-grant-gr-lwgus14rd2-adjusted-850-000-tokens-526hq7x3.md) `dc_uz526hq7x3` · Town
-- 2026-11-05 [Nell's assignment never unblocked: gr_lwgus14rd2 step 3: manager wakes per building per day beside their cost, in the Spending drill-down and /api/finance/spend (kr_avafh64h02)](docs/report/2026-11/2026-11-05-nell-s-assignment-never-unblocked-gr-lwgus14rd2-st-819xe2py.md) `dc_2t819xe2py` · Nell
-- 2026-11-05 [Half of the last 7 days' spend (62.9M tokens) sits in one "Not under a grant" bucket the Bank can't explain; gr_utygatbi85 (300k) would split it by lane and human source](docs/report/2026-11/2026-11-05-half-of-the-last-7-days-spend-62-9m-tokens-sits-in-yen63g0z.md) `dc_utyen63g0z` · Nell
-- 2026-11-05 [Exploration: 52% of 7-day spend sits in an unexplained "Not under a grant" bucket; proposed gr_utygatbi85 (300k) to split it by lane and source](docs/report/2026-11/2026-11-05-exploration-52-of-7-day-spend-sits-in-an-unexplain-e8kzbaee.md) `dc_aue8kzbaee` · Nell 1
-- 2026-11-04 [Checkpoint gr_qggxximtru: 'Plans paid for' live on Inputs, 'Paid in cash, last 30 days' merged and deploying; 456,488 / 450,000 spent, top-up of 40k asked](docs/report/2026-11/2026-11-04-checkpoint-gr-qggxximtru-plans-paid-for-live-on-in-h42ryd7k.md) `dc_a6h42ryd7k` · Nell
-- 2026-11-04 [PR #341 (Paid in cash, last 30 days) squash-merged as b39bfdaa; live check still to queue on its deploy](docs/report/2026-11/2026-11-04-pr-341-paid-in-cash-last-30-days-squash-merged-as-r46r9yyi.md) `dc_rqr46r9yyi` · Nell 1
-- 2026-11-04 [PR #341 CI failed on deadcode (unused export CashView): fixed in db9290b8, parked on CI](docs/report/2026-11/2026-11-04-pr-341-ci-failed-on-deadcode-unused-export-cashvie-gs9792r5.md) `dc_s0gs9792r5` · Nell 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -81,8 +82,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
 - 2026-10-29 [screenshot-live-town](docs/skill/2026-10/2026-10-29-screenshot-live-town-qgqqeqho.md) `dc_hzqgqqeqho` · Nell
 
-## wiki (21)
+## wiki (22)
 
+- 2026-11-10 [Non-grant spend by lane (gr_utygatbi85): plan and state](docs/wiki/2026-11/2026-11-10-non-grant-spend-by-lane-gr-utygatbi85-plan-and-sta-s63qwiov.md) `dc_cds63qwiov` · Nell 1
 - 2026-11-04 [Cache TTL: why every cache write is 1 h since 2026-11-03 23:37Z](docs/wiki/2026-11/2026-11-04-cache-ttl-why-every-cache-write-is-1-h-since-2026-foeo59bn.md) `dc_wcfoeo59bn` · Nell 2
 - 2026-11-04 [Cash cost of running the collective (gr_qggxximtru): plan and state](docs/wiki/2026-11/2026-11-04-cash-cost-of-running-the-collective-gr-qggxximtru-cmysyxl0.md) `dc_aucmysyxl0` · Nell
 - 2026-11-04 [Token cost legible (gr_lwgus14rd2): plan and state](docs/wiki/2026-11/2026-11-04-token-cost-legible-gr-lwgus14rd2-plan-and-state-pvanlfsb.md) `dc_qnpvanlfsb` · Nell

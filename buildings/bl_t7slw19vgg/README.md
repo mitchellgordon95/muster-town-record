@@ -33,8 +33,18 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (191)
+## report (201)
 
+- 2026-11-10 [PR #423 green and squash-merged (f9682825); parked on its deploy](docs/report/2026-11/2026-11-10-pr-423-green-and-squash-merged-f9682825-parked-on-ptu9hhpx.md) `dc_fyptu9hhpx` · Teo 1
+- 2026-11-10 [PR #423 knip fix pushed (03649b61); parked on its CI](docs/report/2026-11/2026-11-10-pr-423-knip-fix-pushed-03649b61-parked-on-its-ci-ixz78oee.md) `dc_e0ixz78oee` · Teo 1
+- 2026-11-10 [Session ended without a report: PR #423 CI done: if green squash-merge (no redeploy), park on its deploy](docs/report/2026-11/2026-11-10-session-ended-without-a-report-pr-423-ci-done-if-g-w699zxep.md) `dc_uuw699zxep` · Teo 1
+- 2026-11-10 [PR #423 CI still running on 90c79b95: re-parked on its checks](docs/report/2026-11/2026-11-10-pr-423-ci-still-running-on-90c79b95-re-parked-on-i-o5ic936t.md) `dc_ovo5ic936t` · Teo 2
+- 2026-11-10 [PR #423 had a conflict with main: merged, log line moved to docs/log.d, re-parked on CI](docs/report/2026-11/2026-11-10-pr-423-had-a-conflict-with-main-merged-log-line-mo-3so59wbl.md) `dc_xc3so59wbl` · Teo 1
+- 2026-11-10 [1:1 lines show their tool calls, folded (PR #423 draft, parked on CI)](docs/report/2026-11/2026-11-10-1-1-lines-show-their-tool-calls-folded-pr-423-draf-47hpjxu8.md) `dc_gj47hpjxu8` · Teo 1
+- 2026-11-10 [327109bf is live: hydrant draws one water-blue ask stream](docs/report/2026-11/2026-11-10-327109bf-is-live-hydrant-draws-one-water-blue-ask-ttiyeks3.md) `dc_3wttiyeks3` · Teo 1
+- 2026-11-10 [Message from Mitchell (via Secretary): Teo: Mitchell rejected gr_irjtu6tknu ("Guests read reports and grants by name")…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-secretary-teo-mitchell-r-i4pti3nl.md) `dc_pxi4pti3nl` · Town
+- 2026-11-10 [PR #414 merged as 327109bf (hydrant: one water-blue ask stream); parked on its deploy](docs/report/2026-11/2026-11-10-pr-414-merged-as-327109bf-hydrant-one-water-blue-a-uva310iu.md) `dc_piuva310iu` · Teo 1
+- 2026-11-10 [Grant gr_irjtu6tknu rejected: read the note](docs/report/2026-11/2026-11-10-grant-gr-irjtu6tknu-rejected-read-the-note-s9y6made.md) `dc_6ds9y6made` · Town
 - 2026-11-10 [Hydrant: one water-blue stream of asks, no straight jet (PR #414, parked on CI)](docs/report/2026-11/2026-11-10-hydrant-one-water-blue-stream-of-asks-no-straight-810rll04.md) `dc_47810rll04` · Teo 1
 - 2026-11-10 [b144a65e is live: retainer Counter form ("Tokens per run", "Ends") is in the live bundle](docs/report/2026-11/2026-11-10-b144a65e-is-live-retainer-counter-form-tokens-per-xjkdvdx0.md) `dc_y2xjkdvdx0` · Teo 1
 - 2026-11-10 [PR #410 merged as b144a65e (retainer Counter form); parked on its deploy](docs/report/2026-11/2026-11-10-pr-410-merged-as-b144a65e-retainer-counter-form-pa-b9bwzk69.md) `dc_e5b9bwzk69` · Teo 1
@@ -55,16 +65,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-06 [One design is done: every screen now uses one type scale and one palette, signed-in views included, and the manual's Design section shows the system (grant closed, 1.1M returned); your toast fix is merged and waiting on the next deploy](docs/report/2026-11/2026-11-06-one-design-is-done-every-screen-now-uses-one-type-u8ttlazs.md) `dc_0ju8ttlazs` · Teo
 - 2026-11-06 [PR #388 (toasts portalled above sheets) merged as 9fe6437a; live check still to do](docs/report/2026-11/2026-11-06-pr-388-toasts-portalled-above-sheets-merged-as-9fe-hn0gypzs.md) `dc_uqhn0gypzs` · Teo 2
 - 2026-11-06 [gr_kvmwutmybu step 4 done: Design section passes the live census at both sizes; both KRs claimed; phone specimen fix merged (8ad80c9e)](docs/report/2026-11/2026-11-06-gr-kvmwutmybu-step-4-done-design-section-passes-th-cqkrwjo6.md) `dc_3tcqkrwjo6` · Teo 1
-- 2026-11-06 [Census re-run and failing panels fixed: PR #391 parked on CI (mock 82/82 rows pass)](docs/report/2026-11/2026-11-06-census-re-run-and-failing-panels-fixed-pr-391-park-1rokmltr.md) `dc_9r1rokmltr` · Teo 2
-- 2026-11-06 [Toasts still hidden under sheets on live 31f1cc54; real fix PR #388 parked on CI](docs/report/2026-11/2026-11-06-toasts-still-hidden-under-sheets-on-live-31f1cc54-xus504g9.md) `dc_0txus504g9` · Teo 1
-- 2026-11-06 [Grant gr_kvmwutmybu adjusted: 2,000,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-kvmwutmybu-adjusted-2-000-000-tokens-g0mjegum.md) `dc_y1g0mjegum` · Town
-- 2026-11-06 [PR #350 (manual Design section + signed-in census fixes) merged as 19d721ad; parked until live](docs/report/2026-11/2026-11-06-pr-350-manual-design-section-signed-in-census-fixe-672y10ld.md) `dc_p2672y10ld` · Teo 1
-- 2026-11-06 [PR #385 (toasts over sheets) merged as 31f1cc54; parked until live](docs/report/2026-11/2026-11-06-pr-385-toasts-over-sheets-merged-as-31f1cc54-parke-r0g1ga1w.md) `dc_6lr0g1ga1w` · Teo 1
-- 2026-11-06 [gr_kvmwutmybu step 4: PR #350 brought up to date with main, marked ready; parked on its CI](docs/report/2026-11/2026-11-06-gr-kvmwutmybu-step-4-pr-350-brought-up-to-date-wit-bt8t8rob.md) `dc_5obt8t8rob` · Teo 1
-- 2026-11-06 [Toasts over open sheets: PR #385 open, parked on CI](docs/report/2026-11/2026-11-06-toasts-over-open-sheets-pr-385-open-parked-on-ci-m8ki18qv.md) `dc_ykm8ki18qv` · Teo 1
-- 2026-11-06 [Grant gr_kvmwutmybu adjusted: 1,000,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-kvmwutmybu-adjusted-1-000-000-tokens-izmtmcyk.md) `dc_6hizmtmcyk` · Town
-- 2026-11-06 [Grant gr_zak30564zh adjusted: 2,000,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-zak30564zh-adjusted-2-000-000-tokens-08iifur9.md) `dc_m908iifur9` · Town
-- 2026-11-06 [Content now opens in one centred sheet (Bank, in-tray items, every doc/grant/agent link), docs keep rich HTML, and the bulletin board shows a red badge for unread notes (your flag): all live on 2a279a1d](docs/report/2026-11/2026-11-06-content-now-opens-in-one-centred-sheet-bank-in-tra-gewkamm8.md) `dc_xggewkamm8` · Teo
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -77,8 +77,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-31 [delight-walk](docs/skill/2026-10/2026-10-31-delight-walk-la62qft8.md) `dc_14la62qft8` · Teo 2
 - 2026-10-31 [map-bubble-sampler](docs/skill/2026-10/2026-10-31-map-bubble-sampler-h9yywhfl.md) `dc_6ph9yywhfl` · Teo 1
 
-## wiki (16)
+## wiki (17)
 
+- 2026-11-10 [Tool calls in 1:1s and meetings](docs/wiki/2026-11/2026-11-10-tool-calls-in-1-1s-and-meetings-xvocdq31.md) `dc_7hxvocdq31` · Teo 1
 - 2026-11-10 [Click asks: note on Done/Decline (PR #408)](docs/wiki/2026-11/2026-11-10-click-asks-note-on-done-decline-pr-408-gmux31kj.md) `dc_mdgmux31kj` · Teo
 - 2026-11-05 [Sidebars and sheets (gr_4csjpgh346)](docs/wiki/2026-11/2026-11-05-sidebars-and-sheets-gr-4csjpgh346-yhhhf9c0.md) `dc_cfyhhhf9c0` · Teo
 - 2026-11-05 [Bulletin board](docs/wiki/2026-11/2026-11-05-bulletin-board-dlibet31.md) `dc_rndlibet31` · Teo 1

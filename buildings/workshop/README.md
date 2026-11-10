@@ -127,8 +127,14 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1101)
+## report (1107)
 
+- 2026-11-10 [PR #421 rebased onto main with a docs/log.d entry; parked on its re-run CI](docs/report/2026-11/2026-11-10-pr-421-rebased-onto-main-with-a-docs-log-d-entry-p-ljwfia74.md) `dc_oyljwfia74` · Pix 1
+- 2026-11-10 [PR #422 merged (04845bdf); parked on its deploy to check the Town Hall manager](docs/report/2026-11/2026-11-10-pr-422-merged-04845bdf-parked-on-its-deploy-to-che-6nhsc1xr.md) `dc_1q6nhsc1xr` · Pix 2
+- 2026-11-10 [PR #422: the Secretary becomes the Town Hall's manager (parked on CI)](docs/report/2026-11/2026-11-10-pr-422-the-secretary-becomes-the-town-hall-s-manag-we8crdb4.md) `dc_rcwe8crdb4` · Pix 2
+- 2026-11-10 [Town health: PR #421 open (health-stats API, Town health tab, Health line on the slate); parked on CI](docs/report/2026-11/2026-11-10-town-health-pr-421-open-health-stats-api-town-heal-54me42v7.md) `dc_tu54me42v7` · Pix 1
+- 2026-11-10 [KR3 holds: /publish-check/ pushed to its own repo at 20:36:49Z; root pushed nothing](docs/report/2026-11/2026-11-10-kr3-holds-publish-check-pushed-to-its-own-repo-at-06xl6n8j.md) `dc_a406xl6n8j` · Pix 1
+- 2026-11-10 [b12cc372 live since 20:26:47Z; parked to 20:39Z for the KR3 push check](docs/report/2026-11/2026-11-10-b12cc372-live-since-20-26-47z-parked-to-20-39z-for-od9qx7c7.md) `dc_ftod9qx7c7` · Pix 1
 - 2026-11-10 [Job abstraction plan finished (dc_uwx045472m): about 3.45M in total, stop point after step 5b at about 1.7M](docs/report/2026-11/2026-11-10-job-abstraction-plan-finished-dc-uwx045472m-about-7giykig7.md) `dc_in7giykig7` · Pix 1
 - 2026-11-10 [Job abstraction plan: draft filed (dc_ejm1j7m3r8), inventory table unfinished after the circuit breaker](docs/report/2026-11/2026-11-10-job-abstraction-plan-draft-filed-dc-ejm1j7m3r8-inv-t2962dq9.md) `dc_kft2962dq9` · Pix 1
 - 2026-11-10 [PR #413 merged (b12cc372): export hour survives restarts; KR3 push check waits on its deploy](docs/report/2026-11/2026-11-10-pr-413-merged-b12cc372-export-hour-survives-restar-8c5b4rbn.md) `dc_xu8c5b4rbn` · Pix 1
@@ -153,12 +159,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-10 [PR #406 live: 8 twins folded, 31 live asks; 4 kept asks stuck deferred behind their folded twin, PR #407 fixes it](docs/report/2026-11/2026-11-10-pr-406-live-8-twins-folded-31-live-asks-4-kept-ask-4oyl5gi9.md) `dc_c74oyl5gi9` · Pix 1
 - 2026-11-10 [PR #406 merged as c4952482; the live check needs a new assignment that waits on its deploy](docs/report/2026-11/2026-11-10-pr-406-merged-as-c4952482-the-live-check-needs-a-n-g49atck9.md) `dc_2dg49atck9` · Pix 1
 - 2026-11-10 [PR #405 is live and both asks are now clicks, but its boot made two twin asks: PR #406 fixes it and folds 8 twins](docs/report/2026-11/2026-11-10-pr-405-is-live-and-both-asks-are-now-clicks-but-it-uomz93qp.md) `dc_tuuomz93qp` · Pix 1
-- 2026-11-09 [PR #405 merged as dca8e0e9; parked on its deploy to check the two asks live](docs/report/2026-11/2026-11-09-pr-405-merged-as-dca8e0e9-parked-on-its-deploy-to-af315vbj.md) `dc_saaf315vbj` · Pix 1
-- 2026-11-09 [Prose asks that only mention a grant become clicks: PR #405 open, waiting on CI](docs/report/2026-11/2026-11-09-prose-asks-that-only-mention-a-grant-become-clicks-mbuifjkp.md) `dc_uvmbuifjkp` · Pix 1
-- 2026-11-09 [PR #404 live: prose-read asks now read as whole sentences on /api/asks](docs/report/2026-11/2026-11-09-pr-404-live-prose-read-asks-now-read-as-whole-sent-3ifhgmtw.md) `dc_7x3ifhgmtw` · Pix 1
-- 2026-11-09 [PR #404 merged as 105456dd; parked on its deploy to check the ask titles on /api/asks](docs/report/2026-11/2026-11-09-pr-404-merged-as-105456dd-parked-on-its-deploy-to-sq397x9e.md) `dc_njsq397x9e` · Pix 1
-- 2026-11-09 [Clipped prose-ask titles: cause found, PR #404 fixes the parser and retitles live asks at boot; waiting on CI](docs/report/2026-11/2026-11-09-clipped-prose-ask-titles-cause-found-pr-404-fixes-426sd9dr.md) `dc_db426sd9dr` · Pix 1
-- 2026-11-09 [Rollup 53: grant asks in your in-tray now read by name (PR #403 live), as you asked in the 1:1 27 min ago; the sweep retainer still waits and the manual has had no sweep for 3 days](docs/report/2026-11/2026-11-09-rollup-53-grant-asks-in-your-in-tray-now-read-by-n-z14bk963.md) `dc_g5z14bk963` · Pix
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -167,8 +167,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-27 [demo-media](docs/skill/2026-10/2026-10-27-demo-media-8jzo79xq.md) `dc_p68jzo79xq` · Lena
 - 2026-10-26 [desk-image](docs/skill/2026-10/2026-10-26-desk-image-93n44plc.md) `dc_br93n44plc` · Root
 
-## wiki (65)
+## wiki (66)
 
+- 2026-11-10 [Town health on the Town Hall (gr_8bxoy2heif)](docs/wiki/2026-11/2026-11-10-town-health-on-the-town-hall-gr-8bxoy2heif-feopehvv.md) `dc_phfeopehvv` · Pix 1
 - 2026-11-10 [Job abstraction plan (as_qganrass1j)](docs/wiki/2026-11/2026-11-10-job-abstraction-plan-as-qganrass1j-rcy8pmke.md) `dc_pqrcy8pmke` · Pix 1
 - 2026-11-10 [Ask card lint decision (style warns, structure refuses)](docs/wiki/2026-11/2026-11-10-ask-card-lint-decision-style-warns-structure-refus-musn05et.md) `dc_b4musn05et` · Pix 1
 - 2026-11-09 [Grant titles and how asks name a grant](docs/wiki/2026-11/2026-11-09-grant-titles-and-how-asks-name-a-grant-x7am7r9q.md) `dc_rdx7am7r9q` · Pix 1
@@ -198,6 +199,5 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-31 [Ask to captain a goal (gr_bwm0iz7rwl)](docs/wiki/2026-10/2026-10-31-ask-to-captain-a-goal-gr-bwm0iz7rwl-h1izdur3.md) `dc_leh1izdur3` · Pix 1
 - 2026-10-31 [Desk usage under-books output (live meter)](docs/wiki/2026-10/2026-10-31-desk-usage-under-books-output-live-meter-927zmrgr.md) `dc_h3927zmrgr` · Pix 3
 - 2026-10-31 [Desk sessions ending "desk exited -1" (frozen desk)](docs/wiki/2026-10/2026-10-31-desk-sessions-ending-desk-exited-1-frozen-desk-z1gylo59.md) `dc_vrz1gylo59` · Pix 3
-- 2026-10-31 [Map from the tree: packed layout](docs/wiki/2026-10/2026-10-31-map-from-the-tree-packed-layout-xzfn81ge.md) `dc_e5xzfn81ge` · Pix 3
 
 All by month: [2026-11](docs/wiki/2026-11/) · [2026-10](docs/wiki/2026-10/)

@@ -87,8 +87,14 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (308)
+## report (314)
 
+- 2026-11-10 [PR #420 merged (7f12374); parked until it is live to check the deploy card](docs/report/2026-11/2026-11-10-pr-420-merged-7f12374-parked-until-it-is-live-to-c-c7m9tnen.md) `dc_xkc7m9tnen` · Cleo 1
+- 2026-11-10 [gr_rcj8nkbkbt: #418 brought up to main and knip-fixed (CI re-running); web Uptime block in draft PR #424](docs/report/2026-11/2026-11-10-gr-rcj8nkbkbt-418-brought-up-to-main-and-knip-fixe-ujri2o11.md) `dc_v2ujri2o11` · Cleo 1
+- 2026-11-10 [PR #420 CI red on deadcode (2 unused exports): fixed in 4c19649, parked on CI](docs/report/2026-11/2026-11-10-pr-420-ci-red-on-deadcode-2-unused-exports-fixed-i-00n1dgpr.md) `dc_y300n1dgpr` · Cleo 1
+- 2026-11-10 [Redeploy card lists deployed changes with commit links: PR #420 (CI pending)](docs/report/2026-11/2026-11-10-redeploy-card-lists-deployed-changes-with-commit-l-m8xhzcvl.md) `dc_g9m8xhzcvl` · Cleo 1
+- 2026-11-10 [gr_rcj8nkbkbt step 1 part 1: /api/uptime server + pinger buffer in PR #418 (CI pending)](docs/report/2026-11/2026-11-10-gr-rcj8nkbkbt-step-1-part-1-api-uptime-server-ping-ewpwpxw6.md) `dc_lyewpwpxw6` · Cleo 1
+- 2026-11-10 [Answer the counter on "A human can see where the minutes go"](docs/report/2026-11/2026-11-10-answer-the-counter-on-a-human-can-see-where-the-mi-4xvls4d2.md) `dc_ps4xvls4d2` · Town
 - 2026-11-10 [gr_8cdix9mpye step 3b phase 2: self-hosted proof town on Wright's VPS verified and listed; token pulled, delist pending](docs/report/2026-11/2026-11-10-gr-8cdix9mpye-step-3b-phase-2-self-hosted-proof-to-ld9cgl7r.md) `dc_hcld9cgl7r` · Cleo 1
 - 2026-11-10 [Prod rollup #45 (gr_8cdix9mpye, ~420,000 / 1,500,000): the self-host proof is staged on Wright's box; he waits for your own "yes" in MiniClaw and a hostname](docs/report/2026-11/2026-11-10-prod-rollup-45-gr-8cdix9mpye-420-000-1-500-000-the-2jxhl3pp.md) `dc_d82jxhl3pp` · Cleo
 - 2026-11-10 [gr_8cdix9mpye step 3b phase 1: Wright's box can host the proof town but he waits for Mitchell's direct go-ahead](docs/report/2026-11/2026-11-10-gr-8cdix9mpye-step-3b-phase-1-wright-s-box-can-hos-8b26utv1.md) `dc_3b8b26utv1` · Cleo 1
@@ -113,17 +119,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-06 [gr_q1jrelx2ty step 3: PR #387 green (backup to S3 + restore into a second container) and merged as 5498fd86; main run queued](docs/report/2026-11/2026-11-06-gr-q1jrelx2ty-step-3-pr-387-green-backup-to-s3-res-8ch8kfwp.md) `dc_3z8ch8kfwp` · Cleo 1
 - 2026-11-06 [gr_q1jrelx2ty step 3, iteration 2: minio/minio is gone from Docker Hub, so the smoke now uses moto; PR #387 parked on CI](docs/report/2026-11/2026-11-06-gr-q1jrelx2ty-step-3-iteration-2-minio-minio-is-go-zesq3d8w.md) `dc_mfzesq3d8w` · Cleo 1
 - 2026-11-06 [gr_db6ofyd0yf step 3: PR #340 merged on green CI as f7a22677; live check waits for its deploy](docs/report/2026-11/2026-11-06-gr-db6ofyd0yf-step-3-pr-340-merged-on-green-ci-as-koveqk8r.md) `dc_bbkoveqk8r` · Cleo 1
-- 2026-11-06 [gr_8cdix9mpye step 3a: live SSRF check passes on muster.town (5 private hosts refused before any fetch); GitHub Pages proof impossible, the test token can't create repos](docs/report/2026-11/2026-11-06-gr-8cdix9mpye-step-3a-live-ssrf-check-passes-on-mu-2lsjjzdl.md) `dc_z92lsjjzdl` · Cleo 1
-- 2026-11-06 [gr_q1jrelx2ty step 3: MinIO backup + restore into a second container added to the path-B smoke, PR #387, parked on its CI](docs/report/2026-11/2026-11-06-gr-q1jrelx2ty-step-3-minio-backup-restore-into-a-s-1644eaiw.md) `dc_j61644eaiw` · Cleo 1
-- 2026-11-06 [Mara's test visitor "CL test visitor" (ag_tgir6hsxv3) retired from Prod: DELETE returned 200, Prod is back to its two desks (Cleo, Cleo 1)](docs/report/2026-11/2026-11-06-mara-s-test-visitor-cl-test-visitor-ag-tgir6hsxv3-wt9vcx6v.md) `dc_wewt9vcx6v` · Cleo
-- 2026-11-06 [gr_db6ofyd0yf step 3: PR #340 had gone conflicting with main (CI never ran); re-merged as 9a94be4e, green locally, parked on its CI](docs/report/2026-11/2026-11-06-gr-db6ofyd0yf-step-3-pr-340-had-gone-conflicting-w-wal7psjh.md) `dc_w9wal7psjh` · Cleo 1
-- 2026-11-06 [Grant gr_q1jrelx2ty adjusted: 600,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-q1jrelx2ty-adjusted-600-000-tokens-r35qv8ye.md) `dc_vvr35qv8ye` · Town
-- 2026-11-06 [gr_lvzy0yxwgd day 1 read: 14 restarts since the guard went live, all CI deploys with commits; 0 no-op restarts; restarts24h 22](docs/report/2026-11/2026-11-06-gr-lvzy0yxwgd-day-1-read-14-restarts-since-the-gua-2psi1vd0.md) `dc_yy2psi1vd0` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
-## wiki (19)
+## wiki (20)
 
+- 2026-11-10 [Public uptime](docs/wiki/2026-11/2026-11-10-public-uptime-kbis28sp.md) `dc_z5kbis28sp` · Cleo 1
 - 2026-11-05 [No-op restart guard (gr_lvzy0yxwgd)](docs/wiki/2026-11/2026-11-05-no-op-restart-guard-gr-lvzy0yxwgd-9vd1kmgf.md) `dc_2s9vd1kmgf` · Cleo
 - 2026-11-04 [Self-host image (gr_q1jrelx2ty)](docs/wiki/2026-11/2026-11-04-self-host-image-gr-q1jrelx2ty-z71al37g.md) `dc_55z71al37g` · Cleo 1
 - 2026-11-03 [Runtime tick cost (gr_db6ofyd0yf)](docs/wiki/2026-11/2026-11-03-runtime-tick-cost-gr-db6ofyd0yf-1qzaxafp.md) `dc_ur1qzaxafp` · Cleo 1

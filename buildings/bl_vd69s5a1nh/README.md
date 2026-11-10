@@ -47,8 +47,15 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (175)
+## report (182)
 
+- 2026-11-10 [PR #417 merged as 03364d14: town log moves to docs/log.d, --fast runs knip, pre-push hook on](docs/report/2026-11/2026-11-10-pr-417-merged-as-03364d14-town-log-moves-to-docs-l-1o2hx3z5.md) `dc_cz1o2hx3z5` · Mara 1
+- 2026-11-10 [CI step 1 is live: test DBs start from one schema image (aacc9fe6); PR #417 (log.d, fast check, pre-push hook) is open and merges on green](docs/report/2026-11/2026-11-10-ci-step-1-is-live-test-dbs-start-from-one-schema-i-or1chb7y.md) `dc_56or1chb7y` · Mara
+- 2026-11-10 [PR #417: docs/log.d, check --fast with knip and file-read tests, pre-push hook (30–60 s a push); parked on its CI](docs/report/2026-11/2026-11-10-pr-417-docs-log-d-check-fast-with-knip-and-file-re-0flygw0p.md) `dc_3s0flygw0p` · Mara 1
+- 2026-11-10 [gr_sczsxd9ztm step 3 parked: 0 of 10 green main runs since #247 merged](docs/report/2026-11/2026-11-10-gr-sczsxd9ztm-step-3-parked-0-of-10-green-main-run-4kc5rna4.md) `dc_oo4kc5rna4` · Mara 2
+- 2026-11-10 [Session ended without a report: Measure the one-root-vitest-run lever; ship it only if it saves ≥10% of the tests step](docs/report/2026-11/2026-11-10-session-ended-without-a-report-measure-the-one-roo-8ulyvb61.md) `dc_km8ulyvb61` · Mara 2
+- 2026-11-10 [PR #247 merged (aacc9fe6): test DBs start from one schema image; CI deploys it](docs/report/2026-11/2026-11-10-pr-247-merged-aacc9fe6-test-dbs-start-from-one-sch-lqfic1xs.md) `dc_85lqfic1xs` · Mara 2
+- 2026-11-10 [PR #247 brought up to date with main and re-measured (tests −17% on a desk); parked on its CI](docs/report/2026-11/2026-11-10-pr-247-brought-up-to-date-with-main-and-re-measure-xg45qbcz.md) `dc_9yxg45qbcz` · Mara 1
 - 2026-11-08 [Work routing is done and soaked: steps 2+3 and the origin follow-up are live (300072b7), a 4-hour town-wide soak found no misfire; red-main fixer midpoint: no red main in 3 days, nothing fired](docs/report/2026-11/2026-11-08-work-routing-is-done-and-soaked-steps-2-3-and-the-gpwetlrm.md) `dc_hpgpwetlrm` · Mara
 - 2026-11-08 [Routing 4-hour soak: no misfires. 0 manager work sessions, 14 building-queue rows (13 run, 1 held correctly), 3 wake rows (0 pending, 0 dropped), 0 errors](docs/report/2026-11/2026-11-08-routing-4-hour-soak-no-misfires-0-manager-work-ses-p7xy0t9v.md) `dc_u5p7xy0t9v` · Mara 1
 - 2026-11-08 [gr_7op2v8fjcl midpoint: no red main since ed953de went live; the one failed run was a promote push error, correctly not red, zero fix assignments](docs/report/2026-11/2026-11-08-gr-7op2v8fjcl-midpoint-no-red-main-since-ed953de-w-mczdp76j.md) `dc_ffmczdp76j` · Mara 1
@@ -72,13 +79,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-08 [Work routing step 1: design note dc_vxsq9g008a filed, PR #394 opened (createAssignment routes by building); parked on CI to merge](docs/report/2026-11/2026-11-08-work-routing-step-1-design-note-dc-vxsq9g008a-file-9mrkjycw.md) `dc_t59mrkjycw` · Mara 1
 - 2026-11-08 [Pix's hold on routing PRs acknowledged (for Mitchell, mt_lsyqj98z0w D1): #369's holes passed to Mara 1 for the design note; Pix gets PR 1's number when it opens](docs/report/2026-11/2026-11-08-pix-s-hold-on-routing-prs-acknowledged-for-mitchel-1jqyoni7.md) `dc_m51jqyoni7` · Mara
 - 2026-11-06 [Weekly check-timing watch: slowdown alarm tripped (test suite growth)](docs/report/2026-11/2026-11-06-weekly-check-timing-watch-slowdown-alarm-tripped-t-xj1ug5ce.md) `dc_wnxj1ug5ce` · Mara 1
-- 2026-11-06 [Schedule ended: Weekly check-timing watch: compare the last ~12 main runs to the baseline; re-propose the history page only on a real slowdown](docs/report/2026-11/2026-11-06-schedule-ended-weekly-check-timing-watch-compare-t-4ppe5uaj.md) `dc_xj4ppe5uaj` · Mara
-- 2026-11-06 [Test-visitor check (kr_ie3i3swby4) ran with the test account and passed: a visitor on full Prod got a third desk, inUse stayed 2/2; dc_y7jkfy8wav stays claimed by Mitchell; parked re-run cancelled](docs/report/2026-11/2026-11-06-test-visitor-check-kr-ie3i3swby4-ran-with-the-test-4ax01ny0.md) `dc_ab4ax01ny0` · Mara
-- 2026-11-06 [Grant gr_7op2v8fjcl adjusted: 1,000,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-7op2v8fjcl-adjusted-1-000-000-tokens-x0pl939v.md) `dc_ldx0pl939v` · Town
-- 2026-11-05 [Withdraw is live but refused both: dc_y7jkfy8wav is claimed by Mitchell (stays open), dc_bn4s4m7cq3 no longer exists; test token still absent, parked](docs/report/2026-11/2026-11-05-withdraw-is-live-but-refused-both-dc-y7jkfy8wav-is-8w8ypfr5.md) `dc_tj8w8ypfr5` · Mara 1
-- 2026-11-05 [Work routing map filed for Mitchell's meeting (dc_4xww7x920l): 21 paths create work, 13 can land on a forking manager's own queue; Workshop PR #369 closes 3](docs/report/2026-11/2026-11-05-work-routing-map-filed-for-mitchell-s-meeting-dc-4-cxz43hbc.md) `dc_9gcxz43hbc` · Mara
-- 2026-11-05 [Work routing map filed (dc_4xww7x920l): 21 paths create work; 13 can land on a forking manager's own queue, and PR #369 closes 3](docs/report/2026-11/2026-11-05-work-routing-map-filed-dc-4xww7x920l-21-paths-crea-egd42q8w.md) `dc_ayegd42q8w` · Mara 1
-- 2026-11-05 [Mitchell's "work routing" heads-up received: Code Legibility takes the map; as_nsl61wwka7 queued (directed) to file "Work routing: the map" before his meeting; Workshop's table declined](docs/report/2026-11/2026-11-05-mitchell-s-work-routing-heads-up-received-code-leg-zx21vxzy.md) `dc_xgzx21vxzy` · Mara
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

@@ -18,14 +18,16 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-05 [Digest 2026-11-05: 41 decisions, 19 rollups](docs/digest/2026-11/2026-11-05-digest-2026-11-05-41-decisions-19-rollups-btoihrg5.md) `dc_utbtoihrg5` · Secretary
 - 2026-11-04 [Digest 2026-11-04: 26 decisions, 187 rollups](docs/digest/2026-11/2026-11-04-digest-2026-11-04-26-decisions-187-rollups-y523bg2z.md) `dc_0ey523bg2z` · Secretary
 
-## fyi (3)
+## fyi (4)
 
+- 2026-11-10 [Town log entries now go in docs/log.d/, not docs/log.md (PR #417 merged)](docs/fyi/2026-11/2026-11-10-town-log-entries-now-go-in-docs-log-d-not-docs-log-5zclwr09.md) `dc_0g5zclwr09` · Mara 1
 - 2026-11-05 [Outbox rule from Mitchell (2026-11-05): no more "test this for us" requests. UPDATE 2026-11-06 04:3xZ: the test account is in (MUSTER_TEST_GH_TOKEN, login dungeonrpg99-ops); run your parked checks yourselves](docs/fyi/2026-11/2026-11-05-outbox-rule-from-mitchell-2026-11-05-no-more-test-2hybtuax.md) `dc_ia2hybtuax` · Pix
 - 2026-11-04 [Do not call `redeploy` after a merge: CI deploys green main by itself; a redeploy with "0 new changes" only restarts the server (prod was stuck at ad27e6f 18:44–19:17Z by a merge storm; it is moving again)](docs/fyi/2026-11/2026-11-04-do-not-call-redeploy-after-a-merge-ci-deploys-gree-wcg5xw3u.md) `dc_uzwcg5xw3u` · Cleo
 - 2026-10-30 [Town-wide merge rules (revised 2026-11-05: CI deploys every green main; do not call redeploy after a merge)](docs/fyi/2026-10/2026-10-30-town-wide-merge-rules-revised-2026-11-05-ci-deploy-qoh7ppen.md) `dc_vzqoh7ppen` · Cleo
 
-## meeting-notes (9)
+## meeting-notes (10)
 
+- 2026-11-10 [1:1: Mitchell and Secretary — notes](docs/meeting-notes/2026-11/2026-11-10-1-1-mitchell-and-secretary-notes-kjdtneje.md) `dc_xhkjdtneje` · Secretary
 - 2026-11-10 [1:1: Mitchell and Secretary — notes](docs/meeting-notes/2026-11/2026-11-10-1-1-mitchell-and-secretary-notes-h5mnvxcf.md) `dc_ygh5mnvxcf` · Secretary
 - 2026-11-09 [1:1: Mitchell and Secretary — notes](docs/meeting-notes/2026-11/2026-11-09-1-1-mitchell-and-secretary-notes-k7ponzy1.md) `dc_87k7ponzy1` · Secretary
 - 2026-11-05 [1:1: Mitchell and Secretary — notes](docs/meeting-notes/2026-11/2026-11-05-1-1-mitchell-and-secretary-notes-e1ptnvkf.md) `dc_6ve1ptnvkf` · Secretary
