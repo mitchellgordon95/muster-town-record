@@ -127,8 +127,21 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1069)
+## report (1082)
 
+- 2026-11-10 [PR #407 live (e0ce7801): 4 kept asks reopened, ak_r7qwu3wy7f behind ak_hkqcpr3drs, 26 open / 5 deferred](docs/report/2026-11/2026-11-10-pr-407-live-e0ce7801-4-kept-asks-reopened-ak-r7qwu-o5jpqzc6.md) `dc_8qo5jpqzc6` · Pix 1
+- 2026-11-10 [PR #407 merged as e0ce7801; parked on its deploy for the live check](docs/report/2026-11/2026-11-10-pr-407-merged-as-e0ce7801-parked-on-its-deploy-for-edof7d9z.md) `dc_ysedof7d9z` · Pix 1
+- 2026-11-10 [PR #406 live: 8 twins folded, 31 live asks; 4 kept asks stuck deferred behind their folded twin, PR #407 fixes it](docs/report/2026-11/2026-11-10-pr-406-live-8-twins-folded-31-live-asks-4-kept-ask-4oyl5gi9.md) `dc_c74oyl5gi9` · Pix 1
+- 2026-11-10 [PR #406 merged as c4952482; the live check needs a new assignment that waits on its deploy](docs/report/2026-11/2026-11-10-pr-406-merged-as-c4952482-the-live-check-needs-a-n-g49atck9.md) `dc_2dg49atck9` · Pix 1
+- 2026-11-10 [PR #405 is live and both asks are now clicks, but its boot made two twin asks: PR #406 fixes it and folds 8 twins](docs/report/2026-11/2026-11-10-pr-405-is-live-and-both-asks-are-now-clicks-but-it-uomz93qp.md) `dc_tuuomz93qp` · Pix 1
+- 2026-11-09 [PR #405 merged as dca8e0e9; parked on its deploy to check the two asks live](docs/report/2026-11/2026-11-09-pr-405-merged-as-dca8e0e9-parked-on-its-deploy-to-af315vbj.md) `dc_saaf315vbj` · Pix 1
+- 2026-11-09 [Prose asks that only mention a grant become clicks: PR #405 open, waiting on CI](docs/report/2026-11/2026-11-09-prose-asks-that-only-mention-a-grant-become-clicks-mbuifjkp.md) `dc_uvmbuifjkp` · Pix 1
+- 2026-11-09 [PR #404 live: prose-read asks now read as whole sentences on /api/asks](docs/report/2026-11/2026-11-09-pr-404-live-prose-read-asks-now-read-as-whole-sent-3ifhgmtw.md) `dc_7x3ifhgmtw` · Pix 1
+- 2026-11-09 [PR #404 merged as 105456dd; parked on its deploy to check the ask titles on /api/asks](docs/report/2026-11/2026-11-09-pr-404-merged-as-105456dd-parked-on-its-deploy-to-sq397x9e.md) `dc_njsq397x9e` · Pix 1
+- 2026-11-09 [Clipped prose-ask titles: cause found, PR #404 fixes the parser and retitles live asks at boot; waiting on CI](docs/report/2026-11/2026-11-09-clipped-prose-ask-titles-cause-found-pr-404-fixes-426sd9dr.md) `dc_db426sd9dr` · Pix 1
+- 2026-11-09 [Rollup 53: grant asks in your in-tray now read by name (PR #403 live), as you asked in the 1:1 27 min ago; the sweep retainer still waits and the manual has had no sweep for 3 days](docs/report/2026-11/2026-11-09-rollup-53-grant-asks-in-your-in-tray-now-read-by-n-z14bk963.md) `dc_g5z14bk963` · Pix
+- 2026-11-09 [PR #403 live: gate ask reads "From first visit to owning a goal" is held at its ceiling; all Fund asks quote names](docs/report/2026-11/2026-11-09-pr-403-live-gate-ask-reads-from-first-visit-to-own-9bhau5lv.md) `dc_c99bhau5lv` · Pix 1
+- 2026-11-09 [PR #403 merged as 9e3db116; parked on its deploy to check /api/asks titles live](docs/report/2026-11/2026-11-09-pr-403-merged-as-9e3db116-parked-on-its-deploy-to-j4s24wkh.md) `dc_8ij4s24wkh` · Pix 1
 - 2026-11-09 [PR #403 CI failed on knip (unused export); fixed and pushed e3cc9693, waiting on CI again](docs/report/2026-11/2026-11-09-pr-403-ci-failed-on-knip-unused-export-fixed-and-p-sprylsgw.md) `dc_nlsprylsgw` · Pix 1
 - 2026-11-09 [Grant names in asks: PR #403 written titles + quoted names, waiting on CI](docs/report/2026-11/2026-11-09-grant-names-in-asks-pr-403-written-titles-quoted-n-58so71yk.md) `dc_0158so71yk` · Pix 1
 - 2026-11-08 [Pix's assignment never unblocked: First live reset of the test account (POST /api/me/reset) once the captain/steer check (as_krntgm6v02) has finished, ne…](docs/report/2026-11/2026-11-08-pix-s-assignment-never-unblocked-first-live-reset-vw1ecklh.md) `dc_vjvw1ecklh` · Pix
@@ -146,19 +159,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-06 [Test account role reset: POST /api/me/reset built and tested (PR #390, CI pending); skill dc_11e758uhzj written; account was let in by Mitchell, not a hole](docs/report/2026-11/2026-11-06-test-account-role-reset-post-api-me-reset-built-an-kr4xsrv9.md) `dc_njkr4xsrv9` · Pix 1
 - 2026-11-06 [Captain check parked: cr_6xfa4ka7bq not accepted yet (ob_508f35a2m4 has no captain); re-check in 2 h](docs/report/2026-11/2026-11-06-captain-check-parked-cr-6xfa4ka7bq-not-accepted-ye-kvmr63bv.md) `dc_49kvmr63bv` · Pix 2
 - 2026-11-06 [Test account asked to captain ob_508f35a2m4 (cr_6xfa4ka7bq): row is in the Town Hall in-tray, routed to Mitchell; accept is his click](docs/report/2026-11/2026-11-06-test-account-asked-to-captain-ob-508f35a2m4-cr-6xf-gq8kvkfw.md) `dc_4zgq8kvkfw` · Pix 2
-- 2026-11-06 [Captain check parked: test account is a member now, but Kelly's post-Let-in check (as_f7g0hgzxwm) is using it; resumes when that finishes](docs/report/2026-11/2026-11-06-captain-check-parked-test-account-is-a-member-now-cwhdedkd.md) `dc_a9cwhdedkd` · Pix 2
-- 2026-11-06 [Relay answered: Mara is withdrawing dc_y7jkfy8wav and running kr_ie3i3swby4 read-only with the test account; told her Kelly 1 holds the join round trip and no reset runs this session](docs/report/2026-11/2026-11-06-relay-answered-mara-is-withdrawing-dc-y7jkfy8wav-a-d7e0grns.md) `dc_10d7e0grns` · Pix
-- 2026-11-06 [Test account is live (dungeonrpg99-ops, visitor only): role reset + library skill queued (as_oj22fnltuz), gr_bwm0iz7rwl captain check queued behind it (as_a8rm855qrn), FYI updated](docs/report/2026-11/2026-11-06-test-account-is-live-dungeonrpg99-ops-visitor-only-5yfdf7nm.md) `dc_vv5yfdf7nm` · Pix
-- 2026-11-06 [Publish to GitHub live check: code live and tested, but no repo set yet, so nothing has pushed; grant not ready to close](docs/report/2026-11/2026-11-06-publish-to-github-live-check-code-live-and-tested-6ylg0kmq.md) `dc_d66ylg0kmq` · Pix 1
-- 2026-11-06 [Grant gr_30f8obzab8 adjusted: 1,000,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-30f8obzab8-adjusted-1-000-000-tokens-0pu9mkpl.md) `dc_rh0pu9mkpl` · Town
-- 2026-11-06 [Grant gr_5ltmbf3a2f cut](docs/report/2026-11/2026-11-06-grant-gr-5ltmbf3a2f-cut-rm0cbdq8.md) `dc_5wrm0cbdq8` · Town
-- 2026-11-06 [Grant gr_mjr7nb438v adjusted: 800,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-mjr7nb438v-adjusted-800-000-tokens-mw2hr6sq.md) `dc_8amw2hr6sq` · Town
-- 2026-11-06 [Relay done: Nell's cache-alert fix (PR #364) is merged as 5dc50c70, CI deploys it; nothing for Mitchell to do, carried in the next rollup's intro](docs/report/2026-11/2026-11-06-relay-done-nell-s-cache-alert-fix-pr-364-is-merged-vcczo29g.md) `dc_jbvcczo29g` · Pix
-- 2026-11-06 [Cache alert: a false alarm. The check fires on the day's first session, and its 20% share test passes on every healthy day](docs/report/2026-11/2026-11-06-cache-alert-a-false-alarm-the-check-fires-on-the-d-0f53iitq.md) `dc_px0f53iitq` · Pix 1
-- 2026-11-06 [Rollup 50: grants A, B, C and the throwaway closed (1.55M back to the Bank); grants now run themselves from proposal to checkpoint; Outbox under a second; #/building deep links](docs/report/2026-11/2026-11-06-rollup-50-grants-a-b-c-and-the-throwaway-closed-1-0cifl3v5.md) `dc_430cifl3v5` · Pix
-- 2026-11-06 [Grant C: 5th hold still not fired (Onboarding/Prod idle since deploy); parked again, 2 of 3](docs/report/2026-11/2026-11-06-grant-c-5th-hold-still-not-fired-onboarding-prod-i-luivtp7h.md) `dc_hcluivtp7h` · Pix 1
-- 2026-11-06 [#/building/workshop and #/building/town-hall open live at acda269](docs/report/2026-11/2026-11-06-building-workshop-and-building-town-hall-open-live-xow8i1ev.md) `dc_14xow8i1ev` · Pix 1
-- 2026-11-06 [#/building/workshop route fix merged: PR #384 = acda269](docs/report/2026-11/2026-11-06-building-workshop-route-fix-merged-pr-384-acda269-gwo56hor.md) `dc_9qgwo56hor` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

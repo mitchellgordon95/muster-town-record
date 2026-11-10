@@ -25729,5 +25729,122 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-09T22:50:16.339Z"
+  },
+  {
+    "id": "dc_8ij4s24wkh",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-09-pr-403-merged-as-9e3db116-parked-on-its-deploy-to-j4s24wkh.md",
+    "title": "PR #403 merged as 9e3db116; parked on its deploy to check /api/asks titles live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-09T22:57:42.001Z"
+  },
+  {
+    "id": "dc_c99bhau5lv",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-09-pr-403-live-gate-ask-reads-from-first-visit-to-own-9bhau5lv.md",
+    "title": "PR #403 live: gate ask reads \"From first visit to owning a goal\" is held at its ceiling; all Fund asks quote names",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-09T23:02:32.363Z"
+  },
+  {
+    "id": "dc_g5z14bk963",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-09-rollup-53-grant-asks-in-your-in-tray-now-read-by-n-z14bk963.md",
+    "title": "Rollup 53: grant asks in your in-tray now read by name (PR #403 live), as you asked in the 1:1 27 min ago; the sweep retainer still waits and the manual has had no sweep for 3 days",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-09T23:04:53.177Z"
+  },
+  {
+    "id": "dc_db426sd9dr",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-09-clipped-prose-ask-titles-cause-found-pr-404-fixes-426sd9dr.md",
+    "title": "Clipped prose-ask titles: cause found, PR #404 fixes the parser and retitles live asks at boot; waiting on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-09T23:23:01.149Z"
+  },
+  {
+    "id": "dc_njsq397x9e",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-09-pr-404-merged-as-105456dd-parked-on-its-deploy-to-sq397x9e.md",
+    "title": "PR #404 merged as 105456dd; parked on its deploy to check the ask titles on /api/asks",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-09T23:29:58.686Z"
+  },
+  {
+    "id": "dc_7x3ifhgmtw",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-09-pr-404-live-prose-read-asks-now-read-as-whole-sent-3ifhgmtw.md",
+    "title": "PR #404 live: prose-read asks now read as whole sentences on /api/asks",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-09T23:34:17.370Z"
+  },
+  {
+    "id": "dc_uvmbuifjkp",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-09-prose-asks-that-only-mention-a-grant-become-clicks-mbuifjkp.md",
+    "title": "Prose asks that only mention a grant become clicks: PR #405 open, waiting on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-09T23:44:34.717Z"
+  },
+  {
+    "id": "dc_saaf315vbj",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-09-pr-405-merged-as-dca8e0e9-parked-on-its-deploy-to-af315vbj.md",
+    "title": "PR #405 merged as dca8e0e9; parked on its deploy to check the two asks live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-09T23:51:56.081Z"
+  },
+  {
+    "id": "dc_tuuomz93qp",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-pr-405-is-live-and-both-asks-are-now-clicks-but-it-uomz93qp.md",
+    "title": "PR #405 is live and both asks are now clicks, but its boot made two twin asks: PR #406 fixes it and folds 8 twins",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T00:04:27.523Z"
+  },
+  {
+    "id": "dc_2dg49atck9",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-pr-406-merged-as-c4952482-the-live-check-needs-a-n-g49atck9.md",
+    "title": "PR #406 merged as c4952482; the live check needs a new assignment that waits on its deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T00:06:40.801Z"
+  },
+  {
+    "id": "dc_c74oyl5gi9",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-pr-406-live-8-twins-folded-31-live-asks-4-kept-ask-4oyl5gi9.md",
+    "title": "PR #406 live: 8 twins folded, 31 live asks; 4 kept asks stuck deferred behind their folded twin, PR #407 fixes it",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T00:18:49.317Z"
+  },
+  {
+    "id": "dc_ysedof7d9z",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-pr-407-merged-as-e0ce7801-parked-on-its-deploy-for-edof7d9z.md",
+    "title": "PR #407 merged as e0ce7801; parked on its deploy for the live check",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T00:22:48.280Z"
+  },
+  {
+    "id": "dc_8qo5jpqzc6",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-10-pr-407-live-e0ce7801-4-kept-asks-reopened-ak-r7qwu-o5jpqzc6.md",
+    "title": "PR #407 live (e0ce7801): 4 kept asks reopened, ak_r7qwu3wy7f behind ak_hkqcpr3drs, 26 open / 5 deferred",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-10T00:28:13.368Z"
   }
 ]
