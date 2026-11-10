@@ -25864,5 +25864,14 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-10T03:12:33.246Z"
+  },
+  {
+    "id": "dc_z651bwy1cp",
+    "path": "buildings/town-hall/docs/report/2026-11/2026-11-10-daily-ask-ranking-2026-11-10-29-asks-ranked-7-defe-51bwy1cp.md",
+    "title": "Daily ask ranking, 2026-11-10: 29 asks ranked, 7 deferred, slate nt_k49gd9a9vk",
+    "type": "report",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-10T07:02:23.135Z"
   }
 ]
