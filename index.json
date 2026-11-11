@@ -26872,5 +26872,23 @@
     "state": "building",
     "buildingId": "bl_hzjw0z0zlz",
     "createdAt": "2026-11-10T22:09:26.108Z"
+  },
+  {
+    "id": "dc_ko8t4vglyj",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-11-gr-sczsxd9ztm-step-3-5-of-10-green-runs-since-247-8t4vglyj.md",
+    "title": "gr_sczsxd9ztm step 3: 5 of 10 green runs since #247; tests 164 s, total 192 s, on course to miss ≤110/≤140; re-parked",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-11T02:01:52.310Z"
+  },
+  {
+    "id": "dc_do5i9twn30",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-11-pr-417-is-live-town-log-in-docs-log-d-fast-check-p-5i9twn30.md",
+    "title": "PR #417 is live (town log in docs/log.d, fast check, pre-push hook); the CI-under-3-minutes grant is at its ceiling: step 1 cut tests 25% but the 3-minute target will miss, cut or adjust",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-11T02:04:30.804Z"
   }
 ]

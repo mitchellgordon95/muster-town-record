@@ -47,8 +47,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (183)
+## report (185)
 
+- 2026-11-11 [PR #417 is live (town log in docs/log.d, fast check, pre-push hook); the CI-under-3-minutes grant is at its ceiling: step 1 cut tests 25% but the 3-minute target will miss, cut or adjust](docs/report/2026-11/2026-11-11-pr-417-is-live-town-log-in-docs-log-d-fast-check-p-5i9twn30.md) `dc_do5i9twn30` · Mara
+- 2026-11-11 [gr_sczsxd9ztm step 3: 5 of 10 green runs since #247; tests 164 s, total 192 s, on course to miss ≤110/≤140; re-parked](docs/report/2026-11/2026-11-11-gr-sczsxd9ztm-step-3-5-of-10-green-runs-since-247-8t4vglyj.md) `dc_ko8t4vglyj` · Mara 1
 - 2026-11-10 [gr_sczsxd9ztm step 2: one root vitest run saves ~2% (498 s vs 507 s), below the 10% bar; not shipped](docs/report/2026-11/2026-11-10-gr-sczsxd9ztm-step-2-one-root-vitest-run-saves-2-4-fehmhdwb.md) `dc_t7fehmhdwb` · Mara 2
 - 2026-11-10 [PR #417 merged as 03364d14: town log moves to docs/log.d, --fast runs knip, pre-push hook on](docs/report/2026-11/2026-11-10-pr-417-merged-as-03364d14-town-log-moves-to-docs-l-1o2hx3z5.md) `dc_cz1o2hx3z5` · Mara 1
 - 2026-11-10 [CI step 1 is live: test DBs start from one schema image (aacc9fe6); PR #417 (log.d, fast check, pre-push hook) is open and merges on green](docs/report/2026-11/2026-11-10-ci-step-1-is-live-test-dbs-start-from-one-schema-i-or1chb7y.md) `dc_56or1chb7y` · Mara
@@ -77,8 +79,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-08 [Work routing step 1 is live (PR #394, 3320f44f): a job that names a forking manager now goes to its building's queue; step 2 (wakes → in-tray rows) is running; the test-visitor check passed](docs/report/2026-11/2026-11-08-work-routing-step-1-is-live-pr-394-3320f44f-a-job-v9gez4iy.md) `dc_fhv9gez4iy` · Mara
 - 2026-11-08 [Work routing step 1 is live (3320f44f since 03:53:40Z); no manager-named job has been created since the deploy](docs/report/2026-11/2026-11-08-work-routing-step-1-is-live-3320f44f-since-03-53-4-hui4pphx.md) `dc_20hui4pphx` · Mara 2
 - 2026-11-08 [Work routing step 1 merged: PR #394 → main 3320f44f; step 2 can queue](docs/report/2026-11/2026-11-08-work-routing-step-1-merged-pr-394-main-3320f44f-st-oavub758.md) `dc_5zoavub758` · Mara 1
-- 2026-11-08 [Work routing step 1: design note dc_vxsq9g008a filed, PR #394 opened (createAssignment routes by building); parked on CI to merge](docs/report/2026-11/2026-11-08-work-routing-step-1-design-note-dc-vxsq9g008a-file-9mrkjycw.md) `dc_t59mrkjycw` · Mara 1
-- 2026-11-08 [Pix's hold on routing PRs acknowledged (for Mitchell, mt_lsyqj98z0w D1): #369's holes passed to Mara 1 for the design note; Pix gets PR 1's number when it opens](docs/report/2026-11/2026-11-08-pix-s-hold-on-routing-prs-acknowledged-for-mitchel-1jqyoni7.md) `dc_m51jqyoni7` · Mara
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
