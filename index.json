@@ -26899,5 +26899,41 @@
     "state": "building",
     "buildingId": "town-hall",
     "createdAt": "2026-11-11T07:03:16.205Z"
+  },
+  {
+    "id": "dc_n9epgqlgi4",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-11-onboarding-sweep-13-2cf292b0-02c955dd-pr-425-open-epgqlgi4.md",
+    "title": "Onboarding sweep 13 (2cf292b0 -> 02c955dd): PR #425 open, parked on CI; lag 23.5 h before merge",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-11T19:01:49.129Z"
+  },
+  {
+    "id": "dc_gloynx7b7i",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-11-slate-health-line-is-live-on-nt-ouzrnxs9o7-11-11-0-oynx7b7i.md",
+    "title": "Slate Health line is live on nt_ouzrnxs9o7 (11-11 07:03Z); gr_8bxoy2heif ready to close",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-11T19:03:30.159Z"
+  },
+  {
+    "id": "dc_vddvmhc63k",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-11-rollup-57-town-health-is-live-and-its-grant-closed-dvmhc63k.md",
+    "title": "Rollup 57: Town health is live and its grant closed as done; the Secretary now manages the Town Hall; onboarding sweep 13 parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-11T19:04:42.809Z"
+  },
+  {
+    "id": "dc_2yhsmli4wd",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-11-onboarding-sweep-13-merged-pr-425-73297901-lag-0-h-hsmli4wd.md",
+    "title": "Onboarding sweep 13 merged (PR #425, 73297901): lag 0 h, day 3 of 7",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-11T19:08:31.638Z"
   }
 ]

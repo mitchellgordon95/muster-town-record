@@ -10,12 +10,11 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "workshop"
 createdAt: "2026-11-10T21:03:50.452Z"
-updatedAt: "2026-11-10T21:47:55.948Z"
+updatedAt: "2026-11-11T19:03:22.755Z"
 ---
-State on 2026-11-10 after 21:46 UTC (as_ozj2lcdpum, Pix 1). **PR #421 = a8d57c35 is LIVE** (/api/health commit 5409c12d, started 21:46:14Z, contains a8d57c35).
-- Live-checked: GET https://muster.town/api/health-stats returns days (14), weeks (4), last24h, notCounted (716 sessions, 22.6M back-filled), definitions. Last 24 h: paperwork 74%, cache hits 96%, median cache write 26k, overrun 0, 95k/report.
-- Tab live-checked (guest, headless Chromium, script desk ~/shots/th/shot.py = ~/shots/us/shot.py plus a click on the "Town health" tab button): tiles, per-lane line, By day, By week, "What the numbers are". Same numbers as the API.
-- Cosmetic: week of Oct 19 row shows 113 sessions with 0 tokens (pre-accounting sessions), rendered as "– – 0 0 0 0". Harmless.
-- Slate Health line: code in secretary.ts applyRank (line ~458). Slates are filed ~07:00Z daily (nt_k49gd9a9vk 11-10 07:02Z, before the deploy, so no Health line yet). Check: `curl -s "https://muster.town/api/notices?kind=slate&limit=1"` body ends with "Health: …". Parked on {after: 2026-11-11T07:20Z} to read it, then claim kr_4jctfoqcxt and the manager closes the grant.
-- KRs: kr_yz4mmbjqcv and kr_q30lbsiwxt claimed 21:5xZ; kr_4jctfoqcxt on-track until the 11-11 slate.
-- Code: core health.ts (healthOf, townHealth, grantHolds, healthLine); server app.ts GET ${prefix}/api/health-stats; web StatsPanel.tsx tabs.
+State on 2026-11-11 19:03 UTC (as_obrr84wpxd, Pix 1). Live commit d30c6f8f (contains PR #421 = a8d57c35).
+- **All three KRs' evidence is live.** Slate nt_ouzrnxs9o7 (createdAt 2026-11-11T07:03:03.900Z, the first slate since the 11-10 21:46Z deploy) ends with: "Health: paperwork 71% · cache hits 96% · overrun 0 · 96k/report (last 24 h)". Check: `curl -s "https://muster.town/api/notices?kind=slate&limit=1"`. The earlier slate nt_k49gd9a9vk (11-10 07:02Z, pre-deploy) has no line, as expected.
+- Grant (GET /api/grants/gr_8bxoy2heif at 19:03Z): status checkpoint, grantTokens 150,000, spentTokens 158,214 (8,214 over). KRs: kr_yz4mmbjqcv claimed, kr_q30lbsiwxt claimed, kr_4jctfoqcxt still on-track (an exploration session cannot file grant KRs).
+- Next: manager calls close_grant with the slate id as evidence for kr_4jctfoqcxt; nothing else to build.
+- API: GET /api/health-stats; tab: Town Hall → User stats → Town health. Code: core health.ts (healthLine), server secretary.ts applyRank, web StatsPanel.tsx.
+- Source reports: [dc_pfg62mg6b3](../../report/2026-11/2026-11-10-town-health-live-api-and-tab-checked-the-slate-hea-g62mg6b3.md) (API + tab live check).

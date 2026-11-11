@@ -127,8 +127,12 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1113)
+## report (1117)
 
+- 2026-11-11 [Onboarding sweep 13 merged (PR #425, 73297901): lag 0 h, day 3 of 7](docs/report/2026-11/2026-11-11-onboarding-sweep-13-merged-pr-425-73297901-lag-0-h-hsmli4wd.md) `dc_2yhsmli4wd` · Pix 1
+- 2026-11-11 [Rollup 57: Town health is live and its grant closed as done; the Secretary now manages the Town Hall; onboarding sweep 13 parked on CI](docs/report/2026-11/2026-11-11-rollup-57-town-health-is-live-and-its-grant-closed-dvmhc63k.md) `dc_vddvmhc63k` · Pix
+- 2026-11-11 [Slate Health line is live on nt_ouzrnxs9o7 (11-11 07:03Z); gr_8bxoy2heif ready to close](docs/report/2026-11/2026-11-11-slate-health-line-is-live-on-nt-ouzrnxs9o7-11-11-0-oynx7b7i.md) `dc_gloynx7b7i` · Pix 1
+- 2026-11-11 [Onboarding sweep 13 (2cf292b0 -> 02c955dd): PR #425 open, parked on CI; lag 23.5 h before merge](docs/report/2026-11/2026-11-11-onboarding-sweep-13-2cf292b0-02c955dd-pr-425-open-epgqlgi4.md) `dc_n9epgqlgi4` · Pix 1
 - 2026-11-10 [Message from Mitchell (via Kelly 1): Test account (dungeonrpg99-ops, us_u4mzpz4zc7): Onboarding's live check for gr_…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-kelly-1-test-account-dun-eq1lp2sj.md) `dc_eteq1lp2sj` · Town
 - 2026-11-10 [Town health live: API and tab checked; the slate Health line waits for the 11-11 slate](docs/report/2026-11/2026-11-10-town-health-live-api-and-tab-checked-the-slate-hea-g62mg6b3.md) `dc_pfg62mg6b3` · Pix 1
 - 2026-11-10 [Live: the Secretary is the Town Hall's manager (PR #422, 04845bdf)](docs/report/2026-11/2026-11-10-live-the-secretary-is-the-town-hall-s-manager-pr-4-yhrz8gsa.md) `dc_1kyhrz8gsa` · Pix 2
@@ -155,10 +159,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-10 [Onboarding sweep 11: 5 stale claims and 1 gap fixed in PR #409; merge and lag line pending CI](docs/report/2026-11/2026-11-10-onboarding-sweep-11-5-stale-claims-and-1-gap-fixed-66msd4fx.md) `dc_i166msd4fx` · Pix 1
 - 2026-11-10 [KR3 set up: test account made its own repo, started /publish-check/, set Publish to GitHub; parked for the first hourly push](docs/report/2026-11/2026-11-10-kr3-set-up-test-account-made-its-own-repo-started-vmsiir9t.md) `dc_mevmsiir9t` · Pix 1
 - 2026-11-10 [Message from Mitchell (via Secretary): From Mitchell in our 1:1 (mt_ewxnhs90cq, 17:22 UTC), re your Needs line in roll…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-secretary-from-mitchell-olcilaj7.md) `dc_3dolcilaj7` · Town
-- 2026-11-10 [Rollup 55: "From first visit to owning a goal" closed as done: the test account captained a goal, steered it live, and reset itself; 388,193 tokens back to the Bank](docs/report/2026-11/2026-11-10-rollup-55-from-first-visit-to-owning-a-goal-closed-b4ipqjz6.md) `dc_4rb4ipqjz6` · Pix
-- 2026-11-10 [Test account steered its goal (gr_uc179zv1xa routed to it, canDecide true); first live reset ran at 17:20:15Z, account is visitor-only again](docs/report/2026-11/2026-11-10-test-account-steered-its-goal-gr-uc179zv1xa-routed-levfwy28.md) `dc_jklevfwy28` · Pix 1
-- 2026-11-10 [Grant gr_bwm0iz7rwl adjusted: 900,000 tokens](docs/report/2026-11/2026-11-10-grant-gr-bwm0iz7rwl-adjusted-900-000-tokens-pdkuduif.md) `dc_iwpdkuduif` · Town
-- 2026-11-10 [Rollup 54: the clipped click rows in your in-tray now read whole and the 8 duplicate asks are gone (PRs #404–#407 live); 31 live asks](docs/report/2026-11/2026-11-10-rollup-54-the-clipped-click-rows-in-your-in-tray-n-usazfmdh.md) `dc_3kusazfmdh` · Pix
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
