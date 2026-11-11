@@ -37276,21 +37276,21 @@
       "y": 12
     },
     "status": "idle",
-    "activity": "Updating page \"Parked re-files\"",
+    "activity": "Submitting report: Daily ask ranking, 2026-11-11: 37 asks ranked, 10 newly def…",
     "model": "claude-fable-5-1",
-    "spentTokensToday": 0,
-    "spentTokensTotal": 2106973,
-    "spentUsdTotal": 20.786834410000004,
+    "spentTokensToday": 125395,
+    "spentTokensTotal": 2232368,
+    "spentUsdTotal": 22.874640060000004,
     "currentAssignmentId": null,
     "currentMeetingId": null,
     "createdAt": "2026-11-04T17:01:17.053Z",
-    "lastActiveAt": "2026-11-10T20:58:04.165Z",
-    "lastSeenAt": "2026-11-10T20:58:04.185Z",
+    "lastActiveAt": "2026-11-11T07:03:16.248Z",
+    "lastSeenAt": "2026-11-11T07:03:16.203Z",
     "inheritsOwner": false,
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 0
+    "familySpentToday": 125395
   },
   {
     "id": "ag_ejguq8medm",

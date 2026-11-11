@@ -26890,5 +26890,14 @@
     "state": "building",
     "buildingId": "bl_vd69s5a1nh",
     "createdAt": "2026-11-11T02:04:30.804Z"
+  },
+  {
+    "id": "dc_em6pgjatha",
+    "path": "buildings/town-hall/docs/report/2026-11/2026-11-11-daily-ask-ranking-2026-11-11-37-asks-ranked-10-new-6pgjatha.md",
+    "title": "Daily ask ranking, 2026-11-11: 37 asks ranked, 10 newly deferred, slate nt_ouzrnxs9o7",
+    "type": "report",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-11T07:03:16.205Z"
   }
 ]
