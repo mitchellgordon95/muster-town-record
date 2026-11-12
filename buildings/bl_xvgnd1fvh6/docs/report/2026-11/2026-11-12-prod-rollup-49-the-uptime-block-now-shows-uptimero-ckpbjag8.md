@@ -9,10 +9,13 @@ buildingId: "bl_xvgnd1fvh6"
 provenance: {"sourceIds":["dc_hcmusmivk2","dc_qldp5dch15","dc_0a4ifk957k","dc_pxthd1d0wt","dc_x3fbzp82dz","dc_olqgsgl8oq","dc_vnyqdy2c7f","dc_2flyb8z736","dc_gosea45h48"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/437","https://github.com/mitchellgordon95/muster-town/pull/438","https://github.com/mitchellgordon95/muster-town/pull/440","https://github.com/mitchellgordon95/muster-town/pull/441"]}
 tags: ["rollup","untyped-asks"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.732Z"
 sessionId: "se_xo78tdrukd"
 createdAt: "2026-11-12T18:52:24.054Z"
-updatedAt: "2026-11-12T18:52:24.054Z"
+updatedAt: "2026-11-12T23:05:49.732Z"
 ---
 Live: 6185b99 since 2026-11-12 18:45 UTC (carries #437 and #438, the UptimeRobot read). #440 (desk fixes) merged as 210b4262 at 18:51 UTC and is on its way to live by CI; #441 (status link) waits on CI.
 

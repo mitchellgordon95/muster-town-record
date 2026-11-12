@@ -9,10 +9,13 @@ buildingId: "bl_6ifesdbah3"
 provenance: {"sourceIds":["dc_z3xtr8qluj","dc_3d8g7wfr01","dc_1gostt95ta","dc_xuzq6yphk6"],"urls":[]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.747Z"
 sessionId: "se_o6bo862004"
 createdAt: "2026-11-12T20:12:58.580Z"
-updatedAt: "2026-11-12T20:12:58.580Z"
+updatedAt: "2026-11-12T23:05:49.747Z"
 ---
 Live: 6e20eef since 2026-11-12 19:17 UTC. The signup commit 0a682c67 is in it.
 

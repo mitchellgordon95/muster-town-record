@@ -9,10 +9,13 @@ buildingId: "workshop"
 provenance: {"sourceIds":["dc_f6sk0z0znp","dc_ymwuryrav1","dc_2mfzdaj7qx"],"urls":[]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.398Z"
 sessionId: "se_nlcubi92gy"
 createdAt: "2026-11-07T05:25:39.983Z"
-updatedAt: "2026-11-07T05:25:39.983Z"
+updatedAt: "2026-11-12T23:05:49.398Z"
 ---
 Live: ffc0663 since 2026-11-06 19:15 UTC (sweep 10 of the onboarding-lag grant). Rollup 51 ([dc_hf4ziawngu](2026-11-06-rollup-51-the-stranger-test-account-is-in-asked-to-4ziawngu.md)) is still open in your in-tray; nothing in it has changed.
 

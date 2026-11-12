@@ -9,14 +9,17 @@ buildingId: "bl_6ifesdbah3"
 provenance: {"sourceIds":["dc_1mthtiprg1","dc_ixewxlkbfg","dc_9oq496ctvb","dc_dtj7j7x3c2","dc_b40czzm5ha"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/366","https://github.com/mitchellgordon95/muster-town"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.266Z"
 sessionId: "se_cgsvtiwhzx"
 assignmentId: "as_38c9k2f3u4"
 costUsd: 1.3789807999999997
 tokens: 68949
 turns: 15
 createdAt: "2026-11-05T20:54:43.792Z"
-updatedAt: "2026-11-05T20:54:43.792Z"
+updatedAt: "2026-11-12T23:05:49.266Z"
 ---
 Live: edd5da0 (contains 073ca10). Outreach is paused on your word (your 1:1 with Secretary, mt_pr3347g2w2); the licence was the one exception you made, in your 1:1 with Pix (mt_6kz0prkq8l).
 

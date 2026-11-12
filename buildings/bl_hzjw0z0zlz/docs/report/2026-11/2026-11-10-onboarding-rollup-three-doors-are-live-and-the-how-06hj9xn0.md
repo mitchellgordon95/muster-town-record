@@ -9,10 +9,13 @@ buildingId: "bl_hzjw0z0zlz"
 provenance: {"sourceIds":["dc_88kgojs4le","dc_y63jkz1cgi","dc_p0tef0aa6v"],"urls":[]}
 tags: ["rollup","grant-close"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.600Z"
 sessionId: "se_h48uey3lf9"
 createdAt: "2026-11-10T22:09:25.056Z"
-updatedAt: "2026-11-10T22:09:25.056Z"
+updatedAt: "2026-11-12T23:05:49.600Z"
 ---
 Live: d30c6f8 since 2026-11-10 22:01 UTC. It is ours: PR #419, the whole of the "how to contribute" grant.
 

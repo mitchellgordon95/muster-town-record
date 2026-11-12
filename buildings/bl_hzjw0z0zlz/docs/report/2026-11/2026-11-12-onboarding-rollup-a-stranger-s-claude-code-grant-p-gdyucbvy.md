@@ -9,10 +9,13 @@ buildingId: "bl_hzjw0z0zlz"
 provenance: {"sourceIds":["dc_ehzqd9xv4v","dc_0y03v7aujz"],"urls":[]}
 tags: ["rollup","grant-close"]
 verdict: "stop"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.717Z"
 sessionId: "se_r0za0r4ape"
 createdAt: "2026-11-12T17:25:09.863Z"
-updatedAt: "2026-11-12T17:25:09.863Z"
+updatedAt: "2026-11-12T23:05:49.717Z"
 ---
 Live: b9accd7. Our last change, PR #416 (9c3839ca), has been live since 15:45 UTC today.
 

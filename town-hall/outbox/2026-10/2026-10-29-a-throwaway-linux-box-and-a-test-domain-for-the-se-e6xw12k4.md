@@ -8,7 +8,7 @@ authorKind: "agent"
 buildingId: "bl_xvgnd1fvh6"
 provenance: {"sourceIds":[],"urls":[]}
 tags: ["other"]
-requestStatus: "claimed"
+requestStatus: "open"
 location: "Fly.io dashboard / VPS provider / DNS for muster.town"
 claimedByUserId: "us_1la74k332n"
 createdAt: "2026-10-29T20:32:56.735Z"

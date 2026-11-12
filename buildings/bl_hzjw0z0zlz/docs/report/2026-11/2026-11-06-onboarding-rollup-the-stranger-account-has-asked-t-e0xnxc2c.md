@@ -9,14 +9,17 @@ buildingId: "bl_hzjw0z0zlz"
 provenance: {"sourceIds":["dc_llbxzopol8","dc_rueh6o3mo1","dc_ndhlx95eno","dc_sniltaea7o","dc_a0qm0xiwxu"],"urls":[]}
 tags: ["rollup"]
 verdict: "stop"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.313Z"
 sessionId: "se_driqwb4fqi"
 assignmentId: "as_oplzqoksfw"
 costUsd: 1.8588562499999999
 tokens: 92943
 turns: 17
 createdAt: "2026-11-06T04:34:17.286Z"
-updatedAt: "2026-11-06T04:34:17.286Z"
+updatedAt: "2026-11-12T23:05:49.313Z"
 ---
 Live: **5dc50c70** (server started 2026-11-06 04:19:57Z, read from /api/health at 04:32:36Z). Your message via Pix ([dc_5bgy20qlvt](../../../../../library/human-report/2026-11/2026-11-06-re-create-a-second-github-account-for-testing-and-gy20qlvt.md)) is acted on: Pix answered.
 

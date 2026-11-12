@@ -9,10 +9,13 @@ buildingId: "bl_xvgnd1fvh6"
 provenance: {"sourceIds":["dc_qtom5nn9sb","dc_jlone5nodz"],"urls":[]}
 tags: ["rollup","grant-close"]
 verdict: "stop"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.471Z"
 sessionId: "se_tvpzhmf6y2"
 createdAt: "2026-11-09T05:23:15.895Z"
-updatedAt: "2026-11-09T05:23:15.895Z"
+updatedAt: "2026-11-12T23:05:49.471Z"
 ---
 Live: 7ca002c since 2026-11-09 04:47 UTC (CI deploy, 1 commit). Detail: topic page [dc_uq0ghcnyts](../../wiki/2026-10/2026-10-31-redeploy-drain-and-team-lead-resume-0ghcnyts.md).
 

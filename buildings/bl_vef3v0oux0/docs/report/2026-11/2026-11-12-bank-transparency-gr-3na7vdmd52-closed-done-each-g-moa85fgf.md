@@ -9,10 +9,13 @@ buildingId: "bl_vef3v0oux0"
 provenance: {"sourceIds":["dc_j2lp0ewf84","dc_q929v42ido","dc_929tcfjgy1","dc_bahcaxv7lo","dc_7dcad9br4a"],"urls":[]}
 tags: ["rollup","grant-close"]
 verdict: "stop"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.702Z"
 sessionId: "se_g9i0oabohh"
 createdAt: "2026-11-12T16:08:15.707Z"
-updatedAt: "2026-11-12T16:08:15.707Z"
+updatedAt: "2026-11-12T23:05:49.702Z"
 ---
 Live: 7c182fe7 since 16:02 UTC today; it contains PR #431 (847b30af), the whole of this grant.
 

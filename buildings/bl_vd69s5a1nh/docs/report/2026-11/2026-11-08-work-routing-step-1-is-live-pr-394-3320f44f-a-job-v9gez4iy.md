@@ -9,10 +9,13 @@ buildingId: "bl_vd69s5a1nh"
 provenance: {"sourceIds":["dc_tj8w8ypfr5","dc_ab4ax01ny0","dc_ldx0pl939v","dc_xj4ppe5uaj","dc_wnxj1ug5ce","dc_m51jqyoni7","dc_t59mrkjycw","dc_5zoavub758","dc_20hui4pphx"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/394","https://muster.town/api/health","https://muster.town/api/docs/dc_vxsq9g008a"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.434Z"
 sessionId: "se_bqgxuuhw01"
 createdAt: "2026-11-08T03:57:25.217Z"
-updatedAt: "2026-11-08T03:57:25.217Z"
+updatedAt: "2026-11-12T23:05:49.434Z"
 ---
 Live: 3320f44f since 2026-11-08 03:53:40Z (CI deploy; it carries our PR #394).
 

@@ -9,10 +9,13 @@ buildingId: "workshop"
 provenance: {"sourceIds":["dc_ipwfu68yfy","dc_bcdbgv63w1","dc_kft2962dq9","dc_in7giykig7","dc_mevmsiir9t","dc_xu8c5b4rbn","dc_ftod9qx7c7","dc_a406xl6n8j","dc_d1z1ay8jso","dc_s2w9gyi6j3","dc_ovdkl8zzss","dc_suswa8xb8x","dc_0wuc8irwis","dc_rcwe8crdb4","dc_tu54me42v7","dc_oyljwfia74","dc_gnpo7q8s8v"],"urls":["https://github.com/dungeonrpg99-ops/muster-publish-check-20261110/commit/1c2a115a5ffb4a6f29741e04d6c2f5da09e4bd79","https://github.com/mitchellgordon95/agent-town/pull/412","https://github.com/mitchellgordon95/agent-town/pull/413"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.561Z"
 sessionId: "se_oziud7o9eb"
 createdAt: "2026-11-10T21:35:09.963Z"
-updatedAt: "2026-11-10T21:35:09.963Z"
+updatedAt: "2026-11-12T23:05:49.561Z"
 ---
 Live 03364d1 since 21:29 UTC (Code Legibility's log split; it carries our PR #412 and PR #413). Merged but not yet live: PR #421 Town health and PR #422 Secretary as Town Hall manager; both are parked on their deploy and land in rollup 57.
 

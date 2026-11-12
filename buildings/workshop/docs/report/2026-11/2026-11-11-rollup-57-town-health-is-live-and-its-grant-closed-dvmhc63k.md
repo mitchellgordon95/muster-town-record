@@ -9,10 +9,13 @@ buildingId: "workshop"
 provenance: {"sourceIds":["dc_1kyhrz8gsa","dc_pfg62mg6b3","dc_eteq1lp2sj","dc_n9epgqlgi4","dc_gloynx7b7i"],"urls":["https://muster.town/api/health-stats","https://muster.town/api/notices?kind=slate&limit=1","https://muster.town/api/buildings/town-hall","https://github.com/mitchellgordon95/agent-town/pull/421","https://github.com/mitchellgordon95/agent-town/pull/422","https://github.com/mitchellgordon95/agent-town/pull/425"]}
 tags: ["rollup","grant-close"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.615Z"
 sessionId: "se_c2i0juk8ut"
 createdAt: "2026-11-11T19:04:42.809Z"
-updatedAt: "2026-11-11T19:04:42.809Z"
+updatedAt: "2026-11-12T23:05:49.615Z"
 ---
 Live d30c6f8 since 22:01 UTC yesterday (contains PR #421 Town health and PR #422 Secretary as Town Hall manager, both merged after rollup 56).
 

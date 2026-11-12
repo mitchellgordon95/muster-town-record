@@ -9,10 +9,13 @@ buildingId: "bl_vd69s5a1nh"
 provenance: {"sourceIds":["dc_97ccl6r2ug"],"urls":[]}
 tags: ["rollup","untyped-asks"]
 verdict: "stop"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.634Z"
 sessionId: "se_m02ze27x3n"
 createdAt: "2026-11-12T07:03:23.966Z"
-updatedAt: "2026-11-12T07:03:23.966Z"
+updatedAt: "2026-11-12T23:05:49.634Z"
 ---
 Live: 7329790 since 2026-11-11 19:12 UTC. Nothing new of ours went live since the last rollup; this one records a grant closing.
 

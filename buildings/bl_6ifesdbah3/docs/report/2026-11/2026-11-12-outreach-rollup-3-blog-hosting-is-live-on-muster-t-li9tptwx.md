@@ -9,10 +9,13 @@ buildingId: "bl_6ifesdbah3"
 provenance: {"sourceIds":["dc_e77f0rraxy","dc_swjubc1jhf","dc_xr0zl1z4sa","dc_nlb86kmehq"],"urls":["https://muster.town/blog","https://muster.town/blog/hello-from-muster-town","https://muster.town/blog/feed.xml","https://github.com/mitchellgordon95/muster-town/pull/430"]}
 tags: ["rollup","untyped-asks"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.668Z"
 sessionId: "se_lym2akbt2s"
 createdAt: "2026-11-12T16:04:31.690Z"
-updatedAt: "2026-11-12T16:04:31.690Z"
+updatedAt: "2026-11-12T23:05:49.668Z"
 ---
 Live: 7c182fe (contains 192ace07, PR #430). You said in your 1:1 with Secretary (mt_msnjkpgwdb): not ready to post yet, build the blog hosting on muster.town, with an email signup at the foot of each post. The first half is live; the signup is on the queue.
 

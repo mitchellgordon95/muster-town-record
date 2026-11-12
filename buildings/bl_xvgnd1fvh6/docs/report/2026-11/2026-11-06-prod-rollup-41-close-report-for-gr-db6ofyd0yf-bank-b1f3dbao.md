@@ -9,10 +9,13 @@ buildingId: "bl_xvgnd1fvh6"
 provenance: {"sourceIds":["dc_o6nmfoaenu","dc_hljji3rohh","dc_wkfc4gd3ay","dc_rw6hbqfe3z","dc_zek4m79opw","dc_yy2psi1vd0","dc_z92lsjjzdl","dc_4sdkoccnmr","dc_xaeg9mmvmi","dc_9dvyd0hezy","dc_xbiaxit5pr","dc_ho7hfbjs99","dc_ig0clc8awx","dc_c11nq5dr2m","dc_vvr35qv8ye","dc_wewt9vcx6v","dc_j61644eaiw"],"urls":["https://muster.town/api/health","https://github.com/mitchellgordon95/muster-town/pull/340","https://github.com/mitchellgordon95/muster-town/pull/392","https://github.com/mitchellgordon95/muster-town/actions/runs/42166369737"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.358Z"
 sessionId: "se_upp2q4oix7"
 createdAt: "2026-11-06T06:07:47.783Z"
-updatedAt: "2026-11-06T06:07:47.783Z"
+updatedAt: "2026-11-12T23:05:49.358Z"
 ---
 Live: 24984fc since 2026-11-06 05:21 UTC, deployed by CI. This is the close report for the runtime-tick grant gr_db6ofyd0yf (closed as done this session, 970,844 of 2,000,000 spent).
 

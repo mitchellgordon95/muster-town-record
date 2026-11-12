@@ -9,10 +9,13 @@ buildingId: "workshop"
 provenance: {"sourceIds":["dc_rtxl283ru3","dc_k90p1i7q74","dc_blc4k6fcar","dc_3lkisf9v80","dc_6o92hunylm","dc_aq76a7tuv6","dc_miygymymkm","dc_ndrnfd7nkw","dc_2jdxiu72s1","dc_r7r08tuot9","dc_n7my2607r0"],"urls":["https://github.com/mitchellgordon95/muster-town-record","https://muster.town/api/jobs/gr_9mp6v6vv8k"]}
 tags: ["rollup","grant-close"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.682Z"
 sessionId: "se_lbk91t3bfp"
 createdAt: "2026-11-12T16:05:57.818Z"
-updatedAt: "2026-11-12T16:05:57.818Z"
+updatedAt: "2026-11-12T23:05:49.682Z"
 ---
 Live 7c182fe since 16:02 UTC today (PR #432, jobs tables). Filed early, under the 4 h rule's escalation: a grant closed as done. The repo you set an hour and a half ago got its first push.
 

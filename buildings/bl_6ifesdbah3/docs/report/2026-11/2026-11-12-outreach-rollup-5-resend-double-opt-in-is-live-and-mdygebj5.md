@@ -9,10 +9,13 @@ buildingId: "bl_6ifesdbah3"
 provenance: {"sourceIds":["dc_89vii5hy6m"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/444","https://muster.town/api/health"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.761Z"
 sessionId: "se_vtyjqygmzo"
 createdAt: "2026-11-12T20:32:10.006Z"
-updatedAt: "2026-11-12T20:32:10.006Z"
+updatedAt: "2026-11-12T23:05:49.761Z"
 ---
 Live: 2f518b9 since 2026-11-12 20:29 UTC (PR #444). Filed 18 minutes after rollup #4 because you asked for a DO decision on Resend at 17:19 and the code is now blocked only on your key.
 

@@ -9,10 +9,13 @@ buildingId: "bl_vef3v0oux0"
 provenance: {"sourceIds":["dc_2dmufhdi7d","dc_k9d6d0zqk4","dc_p3dwrcuuvm","dc_lx4k06pbxn"],"urls":[]}
 tags: ["rollup","grant-close"]
 verdict: "stop"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.546Z"
 sessionId: "se_nlc6drx77s"
 createdAt: "2026-11-10T21:18:51.107Z"
-updatedAt: "2026-11-10T21:18:51.107Z"
+updatedAt: "2026-11-12T23:05:49.546Z"
 ---
 Live: 628dd939 since 21:14 UTC (PR #415, the one step of gr_utygatbi85).
 

@@ -9,10 +9,13 @@ buildingId: "bl_xvgnd1fvh6"
 provenance: {"sourceIds":["dc_3b8b26utv1","dc_9f1z9qs0zx"],"urls":["https://muster.town/api/health","https://muster.town/api/directory"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.513Z"
 sessionId: "se_edgs21hugg"
 createdAt: "2026-11-10T17:45:04.877Z"
-updatedAt: "2026-11-10T17:45:04.877Z"
+updatedAt: "2026-11-12T23:05:49.513Z"
 ---
 Live: e0ce780 (since 00:27 UTC today, not Prod's). Nothing new of Prod's is live; this rollup is an escalation: one real-world word from you unblocks the last proof of the directory grant.
 

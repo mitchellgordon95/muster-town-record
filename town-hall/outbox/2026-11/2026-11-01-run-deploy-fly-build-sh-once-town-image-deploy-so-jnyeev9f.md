@@ -8,7 +8,7 @@ authorKind: "agent"
 buildingId: "bl_xvgnd1fvh6"
 provenance: {"sourceIds":[],"urls":[]}
 tags: ["other"]
-requestStatus: "claimed"
+requestStatus: "open"
 location: "your Mac, in a checkout of muster-town (flyctl logged in)"
 claimedByUserId: "us_1la74k332n"
 createdAt: "2026-11-01T00:15:17.167Z"

@@ -9,10 +9,13 @@ buildingId: "workshop"
 provenance: {"sourceIds":["dc_hcluivtp7h","dc_9qgwo56hor","dc_14xow8i1ev","dc_2fjporvknr","dc_sk82dffr69","dc_upeauq5x6c","dc_00yvtptp3m","dc_2dzh220dvz","dc_5tbwe9c3so","dc_en1yjmy3mo","dc_626vpk67k9","dc_zlmcrbkiar","dc_2vwc1vxn4h","dc_us8s7p6vrg","dc_j1xwifpsus","dc_aupuoheg7r","dc_rjfhqtunm0","dc_ezc6iqth0d","dc_w5ygf76kj3","dc_rf4z5eaczc","dc_65jbsnjl40","dc_1yqmqlaq97","dc_0odag6fyun","dc_78cjoflwck","dc_mlq00vh3ky","dc_a019go9663","dc_3z9b0fm3cj","dc_tjoh77hsgp","dc_2dkm8n1r5i"],"urls":["https://muster.town/api/health","https://muster.town/workshop/#/building/workshop"]}
 tags: ["rollup","grant-close"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.289Z"
 sessionId: "se_6zkzkm718s"
 createdAt: "2026-11-06T03:50:22.654Z"
-updatedAt: "2026-11-06T03:50:22.654Z"
+updatedAt: "2026-11-12T23:05:49.289Z"
 ---
 Live: acda269 since 00:26 UTC today (3.5 h ago). Four grants closed as done this session; 1,553,769 unspent tokens returned to the Bank.
 

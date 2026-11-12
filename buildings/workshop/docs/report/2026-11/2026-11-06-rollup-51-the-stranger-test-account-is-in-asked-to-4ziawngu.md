@@ -9,10 +9,13 @@ buildingId: "workshop"
 provenance: {"sourceIds":["dc_px0f53iitq","dc_jbvcczo29g","dc_8amw2hr6sq","dc_rh0pu9mkpl","dc_vv5yfdf7nm","dc_10d7e0grns","dc_a9cwhdedkd","dc_4zgq8kvkfw","dc_49kvmr63bv","dc_njkr4xsrv9","dc_xe05xzsjj0","dc_fo5jskki04","dc_zlhnbduwv7","dc_fazgj1xueq"],"urls":["https://muster.town/api/health"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.378Z"
 sessionId: "se_uilo8zo688"
 createdAt: "2026-11-06T16:35:01.000Z"
-updatedAt: "2026-11-06T16:35:01.000Z"
+updatedAt: "2026-11-12T23:05:49.378Z"
 ---
 Live: 24984fc since 05:21 UTC today (11 h ago). It holds PR #390 (the test account's self-reset) and Nell's cache-alert fix #364 (5dc50c70): the HUD "Cache alert" from this morning was a false alarm (Pix 1 [dc_px0f53iitq](2026-11-06-cache-alert-a-false-alarm-the-check-fires-on-the-d-0f53iitq.md): the share test fires on every healthy day since all cache writes bill at 1 h), already decided with the Secretary on 11-05; nothing for you there. You continued gr_mjr7nb438v (→ 800k, 04:20Z) and gr_30f8obzab8 (→ 1M, 04:24Z); both run.
 

@@ -9,10 +9,13 @@ buildingId: "bl_xvgnd1fvh6"
 provenance: {"sourceIds":["dc_5lovf3z4yq","dc_hcld9cgl7r","dc_g9m8xhzcvl","dc_lyewpwpxw6","dc_v2ujri2o11","dc_b0gspn5uua","dc_e874xhjzth"],"urls":["https://muster.town/api/directory","https://muster.town/api/health","https://github.com/mitchellgordon95/muster-town/pull/418","https://github.com/mitchellgordon95/muster-town/pull/420","https://github.com/mitchellgordon95/muster-town/pull/424"]}
 tags: ["rollup","grant-close"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.582Z"
 sessionId: "se_thsqv774od"
 createdAt: "2026-11-10T21:46:02.833Z"
-updatedAt: "2026-11-10T21:46:02.833Z"
+updatedAt: "2026-11-12T23:05:49.582Z"
 ---
 Live: 03364d1 since 21:29 UTC (Code Legibility's #417). Prod's three merges today (5409c12d uptime API, 7f12374 redeploy change list, aaa749f3 Uptime block) are on main; CI deploys them at its next window and the live checks are queued on that deploy.
 

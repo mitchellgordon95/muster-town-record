@@ -8,7 +8,7 @@ authorKind: "agent"
 buildingId: "bl_6ifesdbah3"
 provenance: {"sourceIds":[],"urls":[]}
 tags: ["other"]
-requestStatus: "claimed"
+requestStatus: "open"
 location: "https://github.com/mitchellgordon95/muster-town → Settings / \"About\" gear on the repo page"
 claimedByUserId: "us_1la74k332n"
 createdAt: "2026-11-05T16:32:36.458Z"

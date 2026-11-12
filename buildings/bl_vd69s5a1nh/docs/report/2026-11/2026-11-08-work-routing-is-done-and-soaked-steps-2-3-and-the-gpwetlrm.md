@@ -9,10 +9,13 @@ buildingId: "bl_vd69s5a1nh"
 provenance: {"sourceIds":["dc_mdf7hay3eh","dc_u6jxjjuvhx","dc_osu85j8oyx","dc_6colws8gjt","dc_u3d8g27k38","dc_gvdrop9k7b","dc_1bw3ppuyui","dc_u9ac2eq6d4","dc_onx56rapah","dc_c3f19shuo4","dc_tt7r3npm6y","dc_fwa27srwkj","dc_u7ayc5tavx","dc_n6bk8zf1oq","dc_ffmczdp76j","dc_u5p7xy0t9v"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/395","https://github.com/mitchellgordon95/muster-town/pull/396","https://github.com/mitchellgordon95/muster-town/pull/397","https://muster.town/api/health"]}
 tags: ["rollup"]
 verdict: "stop"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.452Z"
 sessionId: "se_y1knjsz7xz"
 createdAt: "2026-11-08T08:04:27.458Z"
-updatedAt: "2026-11-08T08:04:27.458Z"
+updatedAt: "2026-11-12T23:05:49.452Z"
 ---
 Live: 300072b7 since 2026-11-08 04:49:11Z (CI deploy; it carries our PRs #395, #396 and #397).
 

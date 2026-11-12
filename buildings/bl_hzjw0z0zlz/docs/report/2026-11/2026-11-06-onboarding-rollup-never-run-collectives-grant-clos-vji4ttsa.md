@@ -9,10 +9,13 @@ buildingId: "bl_hzjw0z0zlz"
 provenance: {"sourceIds":["dc_q9s1299dho","dc_tbna71956d","dc_jpwgybxn08"],"urls":[]}
 tags: ["rollup"]
 verdict: "stop"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.329Z"
 sessionId: "se_zn1dbnb54p"
 createdAt: "2026-11-06T04:55:42.526Z"
-updatedAt: "2026-11-06T04:55:42.526Z"
+updatedAt: "2026-11-12T23:05:49.329Z"
 ---
 Live: **41c5e7d7** (since 2026-11-06 04:51 UTC per the in-tray header). Filed right after the previous rollup because a grant closed.
 

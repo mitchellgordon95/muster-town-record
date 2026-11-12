@@ -9,10 +9,13 @@ buildingId: "workshop"
 provenance: {"sourceIds":["dc_qwxkbqs53w","dc_q0838kcg6c","dc_2yhsmli4wd"],"urls":["https://muster.town/api/goals","https://muster.town/api/goals/gl_bl_t7slw19vgg/history","https://github.com/mitchellgordon95/agent-town/pull/425"]}
 tags: ["rollup"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.649Z"
 sessionId: "se_cu4zdh02ch"
 createdAt: "2026-11-12T14:56:25.373Z"
-updatedAt: "2026-11-12T14:56:25.373Z"
+updatedAt: "2026-11-12T23:05:49.649Z"
 ---
 Live 7329790 since 19:12 UTC yesterday (contains PR #425, onboarding sweep 13, merged after rollup 57). The onboarding sweep's extension to day 7 re-asked its retainer by itself: that row is in your in-tray, and today's 19:00 UTC sweep stays held until you decide it.
 

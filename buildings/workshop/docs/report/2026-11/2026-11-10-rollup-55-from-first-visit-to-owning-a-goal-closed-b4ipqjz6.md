@@ -9,10 +9,13 @@ buildingId: "workshop"
 provenance: {"sourceIds":["dc_jklevfwy28","dc_iwpdkuduif"],"urls":[]}
 tags: ["rollup","grant-close"]
 verdict: "stop"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rollups are retired (1:1 mt_msnjkpgwdb decision 21): what this one asked is its own ask in the decision queue; what it reported is on the job threads."
+decidedBy: "system"
+decidedAt: "2026-11-12T23:05:49.490Z"
 sessionId: "se_pug9wpajlp"
 createdAt: "2026-11-10T17:22:22.866Z"
-updatedAt: "2026-11-10T17:22:22.866Z"
+updatedAt: "2026-11-12T23:05:49.490Z"
 ---
 Live e0ce780 since 00:27 UTC today (nothing new deployed since rollup 54; this rollup closes a grant).
 
