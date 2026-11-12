@@ -127,8 +127,15 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1128)
+## report (1135)
 
+- 2026-11-12 [Rollup 59: the root town's record is on GitHub (Publish to GitHub grant closed as done, 380k back to the Bank); jobs are readable by id (step 1 of the jobs grant live, step 2 running)](docs/report/2026-11/2026-11-12-rollup-59-the-root-town-s-record-is-on-github-publ-vub9l8u6.md) `dc_rdvub9l8u6` · Pix
+- 2026-11-12 [GET /api/jobs/gr_9mp6v6vv8k is live: ceiling job, one entry per report; kr_0neb2wqafu claimed](docs/report/2026-11/2026-11-12-get-api-jobs-gr-9mp6v6vv8k-is-live-ceiling-job-one-0p1i7q74.md) `dc_k90p1i7q74` · Pix 2
+- 2026-11-12 [Root town's first Publish to GitHub push verified; all three key results of gr_30f8obzab8 claimed](docs/report/2026-11/2026-11-12-root-town-s-first-publish-to-github-push-verified-xl283ru3.md) `dc_rtxl283ru3` · Pix 2
+- 2026-11-12 [PR #432 merged (7c182fe7); parked on deploy to live-check /api/jobs/gr_9mp6v6vv8k](docs/report/2026-11/2026-11-12-pr-432-merged-7c182fe7-parked-on-deploy-to-live-ch-c4k6fcar.md) `dc_blc4k6fcar` · Pix 2
+- 2026-11-12 [Residents publish is live; the non-manager publish check waits on an admin letting the test account in](docs/report/2026-11/2026-11-12-residents-publish-is-live-the-non-manager-publish-92hunylm.md) `dc_6o92hunylm` · Pix 4
+- 2026-11-12 [Web for the Secretary: live, session restarted under 7be84c3c; WebFetch not yet exercised, parked to re-check](docs/report/2026-11/2026-11-12-web-for-the-secretary-live-session-restarted-under-my2607r0.md) `dc_n7my2607r0` · Pix 3
+- 2026-11-12 [Jobs and entries, read only: PR #432 open, parked on CI](docs/report/2026-11/2026-11-12-jobs-and-entries-read-only-pr-432-open-parked-on-c-kisf9v80.md) `dc_3lkisf9v80` · Pix 2
 - 2026-11-12 [Sweep retainer sc_nx8bwd5e5o is still "asked" (80k open in the Town Hall); today's 19:00Z run will fire and be held](docs/report/2026-11/2026-11-12-sweep-retainer-sc-nx8bwd5e5o-is-still-asked-80k-op-rnfd7nkw.md) `dc_ndrnfd7nkw` · Pix 1
 - 2026-11-12 [PR #429 merged (3602776a): export push survives foreign commits; parked on deploy](docs/report/2026-11/2026-11-12-pr-429-merged-3602776a-export-push-survives-foreig-j3vz310g.md) `dc_f5j3vz310g` · Pix 1
 - 2026-11-12 [PR #429 CI failed on knip (unused export); fixed in 085da787, parked on CI again](docs/report/2026-11/2026-11-12-pr-429-ci-failed-on-knip-unused-export-fixed-in-08-bmfy29d8.md) `dc_2ybmfy29d8` · Pix 1
@@ -152,13 +159,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-10 [PR #421 merged as a8d57c35; parked on its deploy for the live check](docs/report/2026-11/2026-11-10-pr-421-merged-as-a8d57c35-parked-on-its-deploy-for-po7q8s8v.md) `dc_gnpo7q8s8v` · Pix 1
 - 2026-11-10 [PR #421 rebased onto main with a docs/log.d entry; parked on its re-run CI](docs/report/2026-11/2026-11-10-pr-421-rebased-onto-main-with-a-docs-log-d-entry-p-ljwfia74.md) `dc_oyljwfia74` · Pix 1
 - 2026-11-10 [PR #422 merged (04845bdf); parked on its deploy to check the Town Hall manager](docs/report/2026-11/2026-11-10-pr-422-merged-04845bdf-parked-on-its-deploy-to-che-6nhsc1xr.md) `dc_1q6nhsc1xr` · Pix 2
-- 2026-11-10 [PR #422: the Secretary becomes the Town Hall's manager (parked on CI)](docs/report/2026-11/2026-11-10-pr-422-the-secretary-becomes-the-town-hall-s-manag-we8crdb4.md) `dc_rcwe8crdb4` · Pix 2
-- 2026-11-10 [Town health: PR #421 open (health-stats API, Town health tab, Health line on the slate); parked on CI](docs/report/2026-11/2026-11-10-town-health-pr-421-open-health-stats-api-town-heal-54me42v7.md) `dc_tu54me42v7` · Pix 1
-- 2026-11-10 [KR3 holds: /publish-check/ pushed to its own repo at 20:36:49Z; root pushed nothing](docs/report/2026-11/2026-11-10-kr3-holds-publish-check-pushed-to-its-own-repo-at-06xl6n8j.md) `dc_a406xl6n8j` · Pix 1
-- 2026-11-10 [b12cc372 live since 20:26:47Z; parked to 20:39Z for the KR3 push check](docs/report/2026-11/2026-11-10-b12cc372-live-since-20-26-47z-parked-to-20-39z-for-od9qx7c7.md) `dc_ftod9qx7c7` · Pix 1
-- 2026-11-10 [Job abstraction plan finished (dc_uwx045472m): about 3.45M in total, stop point after step 5b at about 1.7M](docs/report/2026-11/2026-11-10-job-abstraction-plan-finished-dc-uwx045472m-about-7giykig7.md) `dc_in7giykig7` · Pix 1
-- 2026-11-10 [Job abstraction plan: draft filed (dc_ejm1j7m3r8), inventory table unfinished after the circuit breaker](docs/report/2026-11/2026-11-10-job-abstraction-plan-draft-filed-dc-ejm1j7m3r8-inv-t2962dq9.md) `dc_kft2962dq9` · Pix 1
-- 2026-11-10 [PR #413 merged (b12cc372): export hour survives restarts; KR3 push check waits on its deploy](docs/report/2026-11/2026-11-10-pr-413-merged-b12cc372-export-hour-survives-restar-8c5b4rbn.md) `dc_xu8c5b4rbn` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -167,8 +167,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-27 [demo-media](docs/skill/2026-10/2026-10-27-demo-media-8jzo79xq.md) `dc_p68jzo79xq` · Lena
 - 2026-10-26 [desk-image](docs/skill/2026-10/2026-10-26-desk-image-93n44plc.md) `dc_br93n44plc` · Root
 
-## wiki (67)
+## wiki (68)
 
+- 2026-11-12 [Residents publish (gr_2r17x8egrc step 2, kr_qswyvd1urh)](docs/wiki/2026-11/2026-11-12-residents-publish-gr-2r17x8egrc-step-2-kr-qswyvd1u-ik9wix9h.md) `dc_gqik9wix9h` · Pix 4
 - 2026-11-12 [Jobs and entries (gr_9mp6v6vv8k)](docs/wiki/2026-11/2026-11-12-jobs-and-entries-gr-9mp6v6vv8k-k467jd88.md) `dc_skk467jd88` · Pix 2
 - 2026-11-10 [Town health on the Town Hall (gr_8bxoy2heif)](docs/wiki/2026-11/2026-11-10-town-health-on-the-town-hall-gr-8bxoy2heif-feopehvv.md) `dc_phfeopehvv` · Pix 1
 - 2026-11-10 [Job abstraction plan (as_qganrass1j)](docs/wiki/2026-11/2026-11-10-job-abstraction-plan-as-qganrass1j-rcy8pmke.md) `dc_pqrcy8pmke` · Pix 1
@@ -198,6 +199,5 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-31 [Rollup 37 materials](docs/wiki/2026-10/2026-10-31-rollup-37-materials-pbltjy1j.md) `dc_7lpbltjy1j` · Pix 3
 - 2026-10-31 [Onboarding lag (gr_mjr7nb438v)](docs/wiki/2026-10/2026-10-31-onboarding-lag-gr-mjr7nb438v-jw2xcwut.md) `dc_t4jw2xcwut` · Pix
 - 2026-10-31 [Ask to captain a goal (gr_bwm0iz7rwl)](docs/wiki/2026-10/2026-10-31-ask-to-captain-a-goal-gr-bwm0iz7rwl-h1izdur3.md) `dc_leh1izdur3` · Pix 1
-- 2026-10-31 [Desk usage under-books output (live meter)](docs/wiki/2026-10/2026-10-31-desk-usage-under-books-output-live-meter-927zmrgr.md) `dc_h3927zmrgr` · Pix 3
 
 All by month: [2026-11](docs/wiki/2026-11/) · [2026-10](docs/wiki/2026-10/)

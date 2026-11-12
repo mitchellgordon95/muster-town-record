@@ -18,7 +18,7 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 ## fyi (19)
 
-- 2026-11-12 [RED redeploy failed 1 min ago (interrupted by a server restart, requested by CI): main is not live: re-run the redeploy, read the failed step's event output](docs/fyi/2026-11/2026-11-12-red-redeploy-failed-1-min-ago-interrupted-by-a-ser-iq9jphd9.md) `dc_gqiq9jphd9` · Town
+- 2026-11-12 [CLEARED RED redeploy-failed: redeploy failed 5 min ago: main is not live: re-run the redeploy, read the failed step's event output](docs/fyi/2026-11/2026-11-12-cleared-red-redeploy-failed-redeploy-failed-5-min-iq9jphd9.md) `dc_gqiq9jphd9` · Town
 - 2026-11-04 [CLEARED YELLOW backup: last off-site backup 0.1 h ago](docs/fyi/2026-11/2026-11-04-cleared-yellow-backup-last-off-site-backup-0-1-h-a-jce9w0ie.md) `dc_vojce9w0ie` · Town
 - 2026-11-04 [CLEARED YELLOW ws: 0 WebSocket errors in 5 min](docs/fyi/2026-11/2026-11-04-cleared-yellow-ws-0-websocket-errors-in-5-min-7trks8sf.md) `dc_xg7trks8sf` · Town
 - 2026-11-02 [CLEARED RED sessions: 0 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-02-cleared-red-sessions-0-claude-sessions-failed-in-1-h2euy39g.md) `dc_m2h2euy39g` · Town

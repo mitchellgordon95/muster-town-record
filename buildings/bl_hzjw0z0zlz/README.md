@@ -62,8 +62,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (278)
+## report (280)
 
+- 2026-11-12 [Onboarding rollup: a stranger's Claude Code is briefed on its first call (PR #416 live); two live checks still to run](docs/report/2026-11/2026-11-12-onboarding-rollup-a-stranger-s-claude-code-is-brie-ytkhxjj4.md) `dc_tzytkhxjj4` · Kelly
+- 2026-11-12 [9c3839ca live: MCP instructions pass; two checks wait for the test account (Workshop holds it)](docs/report/2026-11/2026-11-12-9c3839ca-live-mcp-instructions-pass-two-checks-wai-x13l4xzu.md) `dc_etx13l4xzu` · Kelly 1
 - 2026-11-12 [PR #416 squash-merged as 9c3839ca; parked on its deploy for the three live checks](docs/report/2026-11/2026-11-12-pr-416-squash-merged-as-9c3839ca-parked-on-its-dep-5uhnv7oj.md) `dc_tv5uhnv7oj` · Kelly 1
 - 2026-11-12 [PR #416: main merged, log line moved to docs/log.d, pushed 3f5ddfb6; parked on CI](docs/report/2026-11/2026-11-12-pr-416-main-merged-log-line-moved-to-docs-log-d-pu-wgsixbjs.md) `dc_obwgsixbjs` · Kelly 1
 - 2026-11-12 [Grant gr_uc179zv1xa adjusted: 230,000 tokens](docs/report/2026-11/2026-11-12-grant-gr-uc179zv1xa-adjusted-230-000-tokens-zh3riikg.md) `dc_x5zh3riikg` · Town
@@ -92,8 +94,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-06 [Test account @dungeonrpg99-ops asked to join (ar_ogi7no5l2v, 04:31:58Z); parked on Mitchell's Let in](docs/report/2026-11/2026-11-06-test-account-dungeonrpg99-ops-asked-to-join-ar-ogi-pjkylbup.md) `dc_xopjkylbup` · Kelly 1
 - 2026-11-06 [Grant gr_fibsfwr4tz adjusted: 1,000,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-fibsfwr4tz-adjusted-1-000-000-tokens-hlx95eno.md) `dc_ndhlx95eno` · Town
 - 2026-11-06 [Never-run live check: API and homepage pass; Trauma cards reverted to "Watch first" (WS schema stripped health.started); fix 6f1f2005 on main, parked for re-check](docs/report/2026-11/2026-11-06-never-run-live-check-api-and-homepage-pass-trauma-eh6o3mo1.md) `dc_rueh6o3mo1` · Kelly 1
-- 2026-11-06 [Style-guide skill dc_q736158pnn now carries Mitchell's sidebar-vs-sheet rule as section 12 "Sidebars and sheets", every line cited to main 5dc50c70; Teo told (gr_4csjpgh346 kr_nokx342ovj)](docs/report/2026-11/2026-11-06-style-guide-skill-dc-q736158pnn-now-carries-mitche-bxzopol8.md) `dc_llbxzopol8` · Kelly
-- 2026-11-06 [Live check of 48d88720 handed to Kelly 1 (as_fjgpn4eyt2, already running it when this parked session resumed); I close gr_a6512x0je1 and roll up on its report](docs/report/2026-11/2026-11-06-live-check-of-48d88720-handed-to-kelly-1-as-fjgpn4-iltaea7o.md) `dc_sniltaea7o` · Kelly
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

@@ -43,8 +43,14 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (245)
+## report (251)
 
+- 2026-11-12 [Bank Transparency: gr_3na7vdmd52 closed done, each grant step now shows its price and spend on the Bank page](docs/report/2026-11/2026-11-12-bank-transparency-gr-3na7vdmd52-closed-done-each-g-moa85fgf.md) `dc_jbmoa85fgf` · Nell
+- 2026-11-12 [Duplicate of Nell 1's verification; grant already closed done](docs/report/2026-11/2026-11-12-duplicate-of-nell-1-s-verification-grant-already-c-29v42ido.md) `dc_q929v42ido` · Nell 2
+- 2026-11-12 [Step rows, calibration line and step tooltips are live and verified signed out; both key results claimed](docs/report/2026-11/2026-11-12-step-rows-calibration-line-and-step-tooltips-are-l-lp0ewf84.md) `dc_j2lp0ewf84` · Nell 1
+- 2026-11-12 [Grant gr_3na7vdmd52 adjusted: 300,000 tokens](docs/report/2026-11/2026-11-12-grant-gr-3na7vdmd52-adjusted-300-000-tokens-9tcfjgy1.md) `dc_929tcfjgy1` · Town
+- 2026-11-12 [PR #431 merged as 847b30af; waiting for it to go live](docs/report/2026-11/2026-11-12-pr-431-merged-as-847b30af-waiting-for-it-to-go-liv-hcaxv7lo.md) `dc_bahcaxv7lo` · Nell 1
+- 2026-11-12 [Step rows, step calibration line and step spend on the strip: PR #431 open, waiting on CI](docs/report/2026-11/2026-11-12-step-rows-step-calibration-line-and-step-spend-on-cad9br4a.md) `dc_7dcad9br4a` · Nell 1
 - 2026-11-10 [Bank Transparency: gr_utygatbi85 closed done, the non-grant half of Bank Spending now splits by lane](docs/report/2026-11/2026-11-10-bank-transparency-gr-utygatbi85-closed-done-the-no-ryklj0hu.md) `dc_3qryklj0hu` · Nell
 - 2026-11-10 [Non-grant spend by lane is live and verified; both key results claimed, grant ready to close](docs/report/2026-11/2026-11-10-non-grant-spend-by-lane-is-live-and-verified-both-mufhdi7d.md) `dc_2dmufhdi7d` · Nell 1
 - 2026-11-10 [PR #415 conflicted with main: merged main, pushed 339f311c, waiting on CI](docs/report/2026-11/2026-11-10-pr-415-conflicted-with-main-merged-main-pushed-339-d6d0zqk4.md) `dc_k9d6d0zqk4` · Nell 1
@@ -69,12 +75,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-05 [PR #370 (Mitchell's plan seeded into "Plans paid for") was green but conflicting with main; main merged in, ready for review, CI running again on 3eaaddbb, parked on the checks](docs/report/2026-11/2026-11-05-pr-370-mitchell-s-plan-seeded-into-plans-paid-for-kpm78hoi.md) `dc_0ikpm78hoi` · Nell
 - 2026-11-05 [Mitchell's plan (Claude Max 20x, now "Ultra", $200/month from 2026-10-25) seeded from collective.json into "Plans paid for" and a hosted collective's cash row never reads no plans as a gap: PR #370 in CI, admin add form exercised locally](docs/report/2026-11/2026-11-05-mitchell-s-plan-claude-max-20x-now-ultra-200-month-5u40lzfw.md) `dc_qh5u40lzfw` · Nell
 - 2026-11-05 [Checkpoint gr_lwgus14rd2: lane × token-kind table live and verified; cache-miss alert (prefix busting) and manager wakes built, both PRs now in CI after GitHub skipped their first runs; 856,858 / 850,000 spent, top-up of 200k asked](docs/report/2026-11/2026-11-05-checkpoint-gr-lwgus14rd2-lane-token-kind-table-liv-lxe8tsx7.md) `dc_t0lxe8tsx7` · Nell
-- 2026-11-05 [Lane × token-kind table verified live at 1400×900; cache-miss alert fires but the HUD never showed it, now being rebuilt around prefix busting (PR #364) with manager wakes per building (PR #362) close behind](docs/report/2026-11/2026-11-05-lane-token-kind-table-verified-live-at-1400-900-ca-5ghdcphr.md) `dc_bl5ghdcphr` · Nell
-- 2026-11-05 [Cache-miss alert redefined around prefix busting (PR #364, parked on CI): a session busts when most of its turns 2+ re-write ≥ 50% of their prefix; the alert fires per purpose above 10% busting sessions, naming the worst](docs/report/2026-11/2026-11-05-cache-miss-alert-redefined-around-prefix-busting-p-rr65srdo.md) `dc_7wrr65srdo` · Nell
-- 2026-11-05 [gr_lwgus14rd2 step 3: manager wakes per building per day, PR #362 open, parked on CI](docs/report/2026-11/2026-11-05-gr-lwgus14rd2-step-3-manager-wakes-per-building-pe-zn4r2688.md) `dc_wozn4r2688` · Nell 2
-- 2026-11-05 [Cache-miss alert (PR #326) verified live in the events log, but the HUD never shows it; superseded by Mitchell's prefix-busting redefinition](docs/report/2026-11/2026-11-05-cache-miss-alert-pr-326-verified-live-in-the-event-h99v9tvd.md) `dc_lgh99v9tvd` · Nell 1
-- 2026-11-05 [gr_lwgus14rd2 step 1 done: lane × kind layout fix (5ad297d8) verified live at 1400×900, check:finance 41/41](docs/report/2026-11/2026-11-05-gr-lwgus14rd2-step-1-done-lane-kind-layout-fix-5ad-7zg6516p.md) `dc_mw7zg6516p` · Nell 2
-- 2026-11-05 [Grant gr_lwgus14rd2 adjusted: 850,000 tokens](docs/report/2026-11/2026-11-05-grant-gr-lwgus14rd2-adjusted-850-000-tokens-526hq7x3.md) `dc_uz526hq7x3` · Town
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

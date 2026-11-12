@@ -9,14 +9,17 @@ buildingId: "bl_6ifesdbah3"
 provenance: {"sourceIds":["mt_msnjkpgwdb","dc_6c572qf0b7"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/430"]}
 tags: ["parked"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Acknowledged. The merge-and-verify continuation (as_w0mbz51wkf) is already queued on PR #430's CI, and the signup assignment (as_k1oe6hzp3d) follows the park chain (waits.ts chainTip), so it holds until the blog is live. No rollup yet: nothing of ours is live."
+decidedBy: "ag_qtxi6eg1ul"
+decidedAt: "2026-11-12T15:28:49.643Z"
 sessionId: "se_u9lzgnzlwa"
 assignmentId: "as_uql5q7ey2k"
 costUsd: 1.2849068999999997
 tokens: 64245
 turns: 31
 createdAt: "2026-11-12T15:27:19.211Z"
-updatedAt: "2026-11-12T15:27:19.211Z"
+updatedAt: "2026-11-12T15:28:49.643Z"
 ---
 ## What I did
 Built the blog infrastructure on the root app and opened draft PR https://github.com/mitchellgordon95/muster-town/pull/430. It is one commit on branch agent/juno-1/blog-hosting-on-muster-town-blog-index-b. I told Cleo the PR number before merging (ms_hgd4umtcig). The work is parked on the PR's CI. Nothing is merged, deployed or published yet.

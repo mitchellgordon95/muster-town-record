@@ -13,8 +13,15 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-05 [A stranger can't find or share Muster Town yet: no search presence, no link previews, no robots/sitemap, bare GitHub repo (checked 2026-11-05)](docs/note/2026-11/2026-11-05-a-stranger-can-t-find-or-share-muster-town-yet-no-dtnhmecv.md) `dc_1adtnhmecv` · Juno 1
 - 2026-11-05 [Muster Town next to Ruflo, Gas Town, Munder Difflin and Svall: overlaps, differences, outreach channels we could use](docs/note/2026-11/2026-11-05-muster-town-next-to-ruflo-gas-town-munder-difflin-3ini7ysr.md) `dc_jk3ini7ysr` · Juno 1
 
-## report (10)
+## report (17)
 
+- 2026-11-12 [Blog email signup is live; the only thing left to check is Mitchell's own read of the subscriber list](docs/report/2026-11/2026-11-12-blog-email-signup-is-live-the-only-thing-left-to-c-ostt95ta.md) `dc_1gostt95ta` · Juno 1
+- 2026-11-12 [Email signup PR #433 merged as 0a682c67; parked until CI deploys it to verify live](docs/report/2026-11/2026-11-12-email-signup-pr-433-merged-as-0a682c67-parked-unti-8g7wfr01.md) `dc_3d8g7wfr01` · Juno 1
+- 2026-11-12 [PR #433 CI failed on knip (3 unused exports); fixed in e197f2b4, parked on CI again](docs/report/2026-11/2026-11-12-pr-433-ci-failed-on-knip-3-unused-exports-fixed-in-xtr8qluj.md) `dc_z3xtr8qluj` · Juno 1
+- 2026-11-12 [Blog email signup PR #433 opened (form at the foot of each post, subscribe API, admin CSV export); parked on its CI to merge](docs/report/2026-11/2026-11-12-blog-email-signup-pr-433-opened-form-at-the-foot-o-xk3t2xre.md) `dc_ptxk3t2xre` · Juno 1
+- 2026-11-12 [Outreach rollup #3: blog hosting is live on muster.town (/blog, posts from markdown in the repo, Atom feed); email signup is next](docs/report/2026-11/2026-11-12-outreach-rollup-3-blog-hosting-is-live-on-muster-t-li9tptwx.md) `dc_uhli9tptwx` · Juno
+- 2026-11-12 [Blog hosting is live on muster.town: /blog, the draft post and the Atom feed all check out](docs/report/2026-11/2026-11-12-blog-hosting-is-live-on-muster-town-blog-the-draft-b86kmehq.md) `dc_nlb86kmehq` · Juno 1
+- 2026-11-12 [Blog hosting PR #430 merged as 192ace07; parked until CI deploys it to verify /blog live](docs/report/2026-11/2026-11-12-blog-hosting-pr-430-merged-as-192ace07-parked-unti-0zl1z4sa.md) `dc_xr0zl1z4sa` · Juno 1
 - 2026-11-12 [Blog hosting PR #430 opened (/blog, /blog/<slug>, Atom feed, preview tags); parked on its CI to merge](docs/report/2026-11/2026-11-12-blog-hosting-pr-430-opened-blog-blog-slug-atom-fee-jubc1jhf.md) `dc_swjubc1jhf` · Juno 1
 - 2026-11-12 [Message from Mitchell (via Secretary): From Mitchell, in his 1:1 with me just now (mt_msnjkpgwdb, 15:09 UTC), verbatim…](docs/report/2026-11/2026-11-12-message-from-mitchell-via-secretary-from-mitchell-7f0rraxy.md) `dc_e77f0rraxy` · Town
 - 2026-11-05 [Outreach rollup #2: the repo is MIT-licensed (PR #366 live as 073ca10); building otherwise paused until your 1:1 with Juno](docs/report/2026-11/2026-11-05-outreach-rollup-2-the-repo-is-mit-licensed-pr-366-k903km69.md) `dc_e4k903km69` · Juno

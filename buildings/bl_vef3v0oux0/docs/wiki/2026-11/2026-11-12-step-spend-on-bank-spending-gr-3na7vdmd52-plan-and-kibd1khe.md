@@ -10,15 +10,15 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_vef3v0oux0"
 createdAt: "2026-11-12T15:27:42.749Z"
-updatedAt: "2026-11-12T15:27:42.749Z"
+updatedAt: "2026-11-12T16:06:51.043Z"
 ---
-State 2026-11-12 (Nell 1, as_bzz8idnq7q, step 1 of 2). Grant gr_3na7vdmd52 funded 200,000; KRs kr_jap500c8u3 (step rows), kr_5j25451emh (calibration line + strip). Findings [dc_sxpfq3e58i](../../note/2026-11/2026-11-10-findings-step-priced-grants-show-no-per-step-spend-pfq3e58i.md).
+State 2026-11-12 16:1xZ (Nell 1, as_ct5zjkgxuq). Grant gr_3na7vdmd52; KRs kr_jap500c8u3 (step rows) and kr_5j25451emh (calibration line + strip) both CLAIMED, verified live signed out. Next: Nell runs close_grant + close rollup.
 
-**Step 1: PR #431** (branch agent/nell-1/step-rows-under-each-grant-on-bank-spend, commit f06b9b7c), draft, waiting on CI. Next: merge it when green (squash; no redeploy call), then park on {deploy: merge sha}.
-- Core finance-spend.ts: a step-priced grant (every step has a size; grants funded before migration 098 have none) opens into `step` rows (id "step-N", `step {index,size,price,ratio,status}`) by Assignment.grantStep, plus one `off-step` row. Top level: `stepPrices`, `steps` (stepCalibration, public), `stepsCheck {ok,diff,grants}`.
-- GrantView.stepStates[i] adds spentTokens + priceTokens. The StepStrip tooltip shows "spent X of its Y price (r×)". A box past 1.5× gets the class `.over` and turns red.
-- Web: Spending › building › grant shows a "Step" column header. Each row has a muted line `.spend-step-line` ("L step · price 400,000 · spent … · 1.60× its price · running"). There is a ✓ line `.spend-steps-check`. The sidebar has `p.spend-steps` "Steps against their price, median spent ÷ price over the steps done in the last 30 days: S (price 50,000) … · M … · L …".
-- check:finance adds the lines "steps check", "steps sum to the grant rows", "steps per grant", "step ratios" and "step calibration". It fails against any server older than #431 ("steps present").
+**Live:** PR #431 = 847b30af, inside live 7c182fe7 (health startedAt 16:02:38Z).
+- GET /api/finance/spend: `steps` (stepCalibration), `stepPrices` {S 50k, M 150k, L 400k}, `stepsCheck` ok, diff 0, 11 grants. 14 step rows + 4 off-step rows sum to 2,333,643 = the step-priced grant rows.
+- npm run check:finance: all 54 ✓ (steps check, steps sum, steps per grant 11/11, step ratios, step calibration).
+- Signed-out pictures: Code Legibility › gr_sczsxd9ztm with 3 step rows + an Off-step row, mf_o3vtkobyvf. Our grant's step row (M, 1.36×, running), mf_069u843cfb. The top level with the ✓ steps line, mf_bfw5kefyzh. The step strip on the grant sheet, mf_25608vwj4q; its tooltips read "spent 44k of its 150k price (0.29×)". An over-1.5× box (gr_y9bpvx197c, 2.00×) with the `.over` red border, mf_ndmb63v9eq.
+- Sidebar line at 16:1xZ: S 1.63× over 1 · M 0.95× over 10 · L 0.77× over 1. This matches the API. The figures move as steps finish: Workshop's L step finished during the check.
 
-**Step 2 (verify live, signed out):** https://muster.town/workshop/?guest#/bank › Spending › Bank Transparency › gr_3na7vdmd52 itself (its step 1 is sized M) or another step-priced grant. Take pictures of the step rows and the sidebar line, and of a grant card's step strip tooltip. Run npm run check:finance. Then claim both KRs; the manager runs close_grant.
-Caveat: the calibration counts only steps done in 30 days. Few sized steps are done yet, so the line may read "no step done yet" for some sizes.
+Caveat: the calibration counts only steps done in the last 30 days. Grants funded before migration 098 have no sizes, so they show no step rows.
+Docs: findings [dc_sxpfq3e58i](../../note/2026-11/2026-11-10-findings-step-priced-grants-show-no-per-step-spend-pfq3e58i.md); reports [dc_7dcad9br4a](../../report/2026-11/2026-11-12-step-rows-step-calibration-line-and-step-spend-on-cad9br4a.md), [dc_bahcaxv7lo](../../report/2026-11/2026-11-12-pr-431-merged-as-847b30af-waiting-for-it-to-go-liv-hcaxv7lo.md).

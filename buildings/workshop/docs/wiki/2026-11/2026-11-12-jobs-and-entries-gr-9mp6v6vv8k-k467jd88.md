@@ -10,16 +10,16 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "workshop"
 createdAt: "2026-11-12T15:18:32.991Z"
-updatedAt: "2026-11-12T15:18:32.991Z"
+updatedAt: "2026-11-12T16:03:33.992Z"
 ---
-State on 2026-11-12 after step 1 (as_6bfvwm7yly, Pix 2). Plan: [dc_uwx045472m](../../note/2026-11/2026-11-10-plan-the-job-abstraction-plan-and-cost-for-mitchel-x045472m.md) (step 3 there = this grant's step 1).
+State on 2026-11-12 after step 1 live check (as_218nzh74l0, Pix 2). Plan: [dc_uwx045472m](../../note/2026-11/2026-11-10-plan-the-job-abstraction-plan-and-cost-for-mitchel-x045472m.md) (step 3 there = this grant's step 1).
 
-**What exists (branch agent/pix-2/jobs-and-entries-read-only-tables-back-f, PR in the step-1 report):**
-- Migrations 110 `jobs`, 111 `entries` (109 was taken on main by join_funnel_doors). `entries` has an extra `docId` column and `jobs` an extra `closedAs` column beyond the assignment's list.
-- `packages/core/src/jobs.ts`: deterministic ids. Jobs: `jb_<gr_…>` ceiling, `jb_<sc_…>` per-run (schedules with lane retainer or tokensPerRun>0), `jb_<chainId>` chunk (lane exploration, pocketRef = reservationId), `jb_<buildingId>_<sourceId>` pocket (lane directed with a source), `jb_<buildingId>` building (everything else, rollups, town-written in-tray rows). Draft grants and draft docs are left out.
-- Entries: `en_<report doc id>` per report (proposes = verdict, moved.stepsDone = grantStep, tokens = adjusted booked tokens via sessionTokens, level manager when the doc has a decision); `en_ev<event id>` for doc.decision (answers the report entry) and retainer.decided; `en_<grant>_h<i>` per grant history entry (moved.action).
-- The assignment→job mapping is one SQL CASE (`JOB_OF_ASSIGNMENT`). Step 2 should reuse it when submit_report writes the entry, so live entries land on the same job ids.
-- `backfillJobs` runs at boot (world.ts after the ask repairs). `jobThread` re-syncs the one job it reads. `GET /api/jobs/:id` (routes/grants.ts) takes a jb_ id or a gr_/sc_/building/as_ id, `?from=&limit=` (≤200) → {job, entries, total}.
-- Perf on 6,000 synthetic reports: first back-fill 0.8 s, later boots 0.4 s, a single read 60–110 ms.
+**Step 1 LIVE: PR #432 = 7c182fe7, live on muster.town since the restart at 16:02:38Z.** Reports [dc_3lkisf9v80](../../report/2026-11/2026-11-12-jobs-and-entries-read-only-pr-432-open-parked-on-c-kisf9v80.md) (build), [dc_blc4k6fcar](../../report/2026-11/2026-11-12-pr-432-merged-7c182fe7-parked-on-deploy-to-live-ch-c4k6fcar.md) (merge), the live-check report. kr_0neb2wqafu claimed.
 
-**Not done (step 2+):** nothing writes entries live; there is no `moved.left`, krClaimed or topUp yet.
+**Live read (16:0xZ):** GET /api/jobs/gr_9mp6v6vv8k → job jb_gr_9mp6v6vv8k rule ceiling, status open, 6 entries: propose + fund (history), en_dc_3lkisf9v80 and en_dc_blc4k6fcar (fork, proposes continue), each answered by a manager approve entry (en_ev151093, en_ev151343). Also: workshop → jb_workshop building (643 entries, 103 reports); sc_nx8bwd5e5o → per-run, status proposed; gr_30f8obzab8 → ceiling (16 reports); town-hall → building; unknown id → 404 "job not found".
+
+**What exists:**
+- Migrations 110 `jobs`, 111 `entries`. `packages/core/src/jobs.ts`: deterministic ids `jb_<gr_>` ceiling, `jb_<sc_>` per-run, `jb_<chainId>` chunk, `jb_<building>_<source>` pocket, `jb_<building>` building. Entries `en_<report doc>`, `en_ev<event>` (decisions), `en_<grant>_h<i>` (grant history). Assignment→job mapping is SQL CASE `JOB_OF_ASSIGNMENT`.
+- `backfillJobs` at boot; `jobThread` re-syncs the job it reads. `GET /api/jobs/:id` (routes/grants.ts) takes jb_/gr_/sc_/building/as_ id, `?from=&limit=` (≤200).
+
+**Not done (step 2+):** nothing writes entries live (only the re-sync on read); no `moved.left`, krClaimed or topUp yet. Step 2 = submit_report writes the entry; budget rules replace the lanes.

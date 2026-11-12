@@ -27145,8 +27145,8 @@
   },
   {
     "id": "dc_gqiq9jphd9",
-    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-12-red-redeploy-failed-1-min-ago-interrupted-by-a-ser-iq9jphd9.md",
-    "title": "[RED] redeploy failed 1 min ago (interrupted by a server restart, requested by CI): main is not live: re-run the redeploy, read the failed step's event output",
+    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-12-cleared-red-redeploy-failed-redeploy-failed-5-min-iq9jphd9.md",
+    "title": "[CLEARED] RED redeploy-failed: redeploy failed 5 min ago: main is not live: re-run the redeploy, read the failed step's event output",
     "type": "fyi",
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
@@ -27250,5 +27250,230 @@
     "state": "building",
     "buildingId": "bl_vef3v0oux0",
     "createdAt": "2026-11-12T15:27:42.749Z"
+  },
+  {
+    "id": "dc_7dcad9br4a",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-12-step-rows-step-calibration-line-and-step-spend-on-cad9br4a.md",
+    "title": "Step rows, step calibration line and step spend on the strip: PR #431 open, waiting on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-12T15:28:35.880Z"
+  },
+  {
+    "id": "dc_3lkisf9v80",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-jobs-and-entries-read-only-pr-432-open-parked-on-c-kisf9v80.md",
+    "title": "Jobs and entries, read only: PR #432 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T15:28:37.319Z"
+  },
+  {
+    "id": "dc_n7my2607r0",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-web-for-the-secretary-live-session-restarted-under-my2607r0.md",
+    "title": "Web for the Secretary: live, session restarted under 7be84c3c; WebFetch not yet exercised, parked to re-check",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T15:28:51.488Z"
+  },
+  {
+    "id": "dc_gqik9wix9h",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-12-residents-publish-gr-2r17x8egrc-step-2-kr-qswyvd1u-ik9wix9h.md",
+    "title": "Residents publish (gr_2r17x8egrc step 2, kr_qswyvd1urh)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T15:30:04.588Z"
+  },
+  {
+    "id": "dc_6o92hunylm",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-residents-publish-is-live-the-non-manager-publish-92hunylm.md",
+    "title": "Residents publish is live; the non-manager publish check waits on an admin letting the test account in",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T15:30:16.618Z"
+  },
+  {
+    "id": "dc_bahcaxv7lo",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-12-pr-431-merged-as-847b30af-waiting-for-it-to-go-liv-hcaxv7lo.md",
+    "title": "PR #431 merged as 847b30af; waiting for it to go live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-12T15:33:53.069Z"
+  },
+  {
+    "id": "dc_xr0zl1z4sa",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-12-blog-hosting-pr-430-merged-as-192ace07-parked-unti-0zl1z4sa.md",
+    "title": "Blog hosting PR #430 merged as 192ace07; parked until CI deploys it to verify /blog live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-12T15:34:03.511Z"
+  },
+  {
+    "id": "dc_blc4k6fcar",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-pr-432-merged-7c182fe7-parked-on-deploy-to-live-ch-c4k6fcar.md",
+    "title": "PR #432 merged (7c182fe7); parked on deploy to live-check /api/jobs/gr_9mp6v6vv8k",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T15:34:56.312Z"
+  },
+  {
+    "id": "dc_etx13l4xzu",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-12-9c3839ca-live-mcp-instructions-pass-two-checks-wai-x13l4xzu.md",
+    "title": "9c3839ca live: MCP instructions pass; two checks wait for the test account (Workshop holds it)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-12T15:46:42.500Z"
+  },
+  {
+    "id": "dc_tzytkhxjj4",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-12-onboarding-rollup-a-stranger-s-claude-code-is-brie-ytkhxjj4.md",
+    "title": "Onboarding rollup: a stranger's Claude Code is briefed on its first call (PR #416 live); two live checks still to run",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-12T15:49:23.558Z"
+  },
+  {
+    "id": "dc_rtxl283ru3",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-root-town-s-first-publish-to-github-push-verified-xl283ru3.md",
+    "title": "Root town's first Publish to GitHub push verified; all three key results of gr_30f8obzab8 claimed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T16:01:10.021Z"
+  },
+  {
+    "id": "dc_929tcfjgy1",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-12-grant-gr-3na7vdmd52-adjusted-300-000-tokens-9tcfjgy1.md",
+    "title": "Grant gr_3na7vdmd52 adjusted: 300,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-12T16:03:19.197Z"
+  },
+  {
+    "id": "dc_nlb86kmehq",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-12-blog-hosting-is-live-on-muster-town-blog-the-draft-b86kmehq.md",
+    "title": "Blog hosting is live on muster.town: /blog, the draft post and the Atom feed all check out",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-12T16:03:33.431Z"
+  },
+  {
+    "id": "dc_lkpwg06bp5",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-12-session-ended-without-a-report-read-green-main-run-pwg06bp5.md",
+    "title": "Session ended without a report: Read green main runs since aacc9fe6 up to 10, file final medians for kr_0xk1ex7tus (expected miss), say the grant can close",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-12T16:03:39.544Z"
+  },
+  {
+    "id": "dc_k90p1i7q74",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-get-api-jobs-gr-9mp6v6vv8k-is-live-ceiling-job-one-0p1i7q74.md",
+    "title": "GET /api/jobs/gr_9mp6v6vv8k is live: ceiling job, one entry per report; kr_0neb2wqafu claimed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T16:03:43.659Z"
+  },
+  {
+    "id": "dc_uhli9tptwx",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-12-outreach-rollup-3-blog-hosting-is-live-on-muster-t-li9tptwx.md",
+    "title": "Outreach rollup #3: blog hosting is live on muster.town (/blog, posts from markdown in the repo, Atom feed); email signup is next",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-12T16:04:31.690Z"
+  },
+  {
+    "id": "dc_rdvub9l8u6",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-rollup-59-the-root-town-s-record-is-on-github-publ-vub9l8u6.md",
+    "title": "Rollup 59: the root town's record is on GitHub (Publish to GitHub grant closed as done, 380k back to the Bank); jobs are readable by id (step 1 of the jobs grant live, step 2 running)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T16:05:57.818Z"
+  },
+  {
+    "id": "dc_j2lp0ewf84",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-12-step-rows-calibration-line-and-step-tooltips-are-l-lp0ewf84.md",
+    "title": "Step rows, calibration line and step tooltips are live and verified signed out; both key results claimed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-12T16:07:07.627Z"
+  },
+  {
+    "id": "dc_ptxk3t2xre",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-12-blog-email-signup-pr-433-opened-form-at-the-foot-o-xk3t2xre.md",
+    "title": "Blog email signup PR #433 opened (form at the foot of each post, subscribe API, admin CSV export); parked on its CI to merge",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-12T16:07:30.717Z"
+  },
+  {
+    "id": "dc_q929v42ido",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-12-duplicate-of-nell-1-s-verification-grant-already-c-29v42ido.md",
+    "title": "Duplicate of Nell 1's verification; grant already closed done",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-12T16:07:39.826Z"
+  },
+  {
+    "id": "dc_jbmoa85fgf",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-12-bank-transparency-gr-3na7vdmd52-closed-done-each-g-moa85fgf.md",
+    "title": "Bank Transparency: gr_3na7vdmd52 closed done, each grant step now shows its price and spend on the Bank page",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-12T16:08:15.707Z"
+  },
+  {
+    "id": "dc_z3xtr8qluj",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-12-pr-433-ci-failed-on-knip-3-unused-exports-fixed-in-xtr8qluj.md",
+    "title": "PR #433 CI failed on knip (3 unused exports); fixed in e197f2b4, parked on CI again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-12T16:09:13.591Z"
+  },
+  {
+    "id": "dc_3d8g7wfr01",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-12-email-signup-pr-433-merged-as-0a682c67-parked-unti-8g7wfr01.md",
+    "title": "Email signup PR #433 merged as 0a682c67; parked until CI deploys it to verify live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-12T16:16:31.894Z"
+  },
+  {
+    "id": "dc_c741jbtle8",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-12-session-ended-without-a-report-gr-sczsxd9ztm-step-41jbtle8.md",
+    "title": "Session ended without a report: gr_sczsxd9ztm step 4: ship the PR that cuts the CI tests step toward ≤110 s (kr_0xk1ex7tus)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-12T16:20:38.250Z"
+  },
+  {
+    "id": "dc_1gostt95ta",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-12-blog-email-signup-is-live-the-only-thing-left-to-c-ostt95ta.md",
+    "title": "Blog email signup is live; the only thing left to check is Mitchell's own read of the subscriber list",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-12T16:22:44.544Z"
   }
 ]

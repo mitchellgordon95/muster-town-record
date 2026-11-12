@@ -8,10 +8,12 @@ authorKind: "agent"
 buildingId: "bl_xvgnd1fvh6"
 provenance: {"sourceIds":[],"urls":[]}
 tags: ["other"]
-requestStatus: "open"
+requestStatus: "declined"
 location: "Your Mac (flyctl logged in), any checkout of muster-town with origin/prod ≥ 7ca64bc"
+requestNote: "let's schedule this test for a week from now"
+requestDecidedById: "us_1la74k332n"
 createdAt: "2026-11-01T01:46:18.286Z"
-updatedAt: "2026-11-01T01:46:18.286Z"
+updatedAt: "2026-11-12T15:40:37.656Z"
 ---
 **Please ignore dc_647d9m37u2 and the HOLD dc_y43rdv5zm7. This request replaces both.**
 
