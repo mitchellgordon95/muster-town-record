@@ -16,8 +16,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 - 2026-10-21 [Brief: Secrets PR 1, scoped grants stored in the DB and managed at the Town Hall (for Dara)](docs/assignment-proposal/2026-10/2026-10-21-brief-secrets-pr-1-scoped-grants-stored-in-the-db-e6u6i7d2.md) `dc_6xe6u6i7d2` · Cleo
 
-## fyi (18)
+## fyi (19)
 
+- 2026-11-12 [RED redeploy failed 1 min ago (interrupted by a server restart, requested by CI): main is not live: re-run the redeploy, read the failed step's event output](docs/fyi/2026-11/2026-11-12-red-redeploy-failed-1-min-ago-interrupted-by-a-ser-iq9jphd9.md) `dc_gqiq9jphd9` · Town
 - 2026-11-04 [CLEARED YELLOW backup: last off-site backup 0.1 h ago](docs/fyi/2026-11/2026-11-04-cleared-yellow-backup-last-off-site-backup-0-1-h-a-jce9w0ie.md) `dc_vojce9w0ie` · Town
 - 2026-11-04 [CLEARED YELLOW ws: 0 WebSocket errors in 5 min](docs/fyi/2026-11/2026-11-04-cleared-yellow-ws-0-websocket-errors-in-5-min-7trks8sf.md) `dc_xg7trks8sf` · Town
 - 2026-11-02 [CLEARED RED sessions: 0 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-02-cleared-red-sessions-0-claude-sessions-failed-in-1-h2euy39g.md) `dc_m2h2euy39g` · Town
@@ -57,8 +58,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-25 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-25-1-1-mitchell-and-cleo-notes-c1nhkipz.md) `dc_5tc1nhkipz` · Cleo
 - 2026-10-21 [Prod standup — notes](docs/meeting-notes/2026-10/2026-10-21-prod-standup-notes-zkt5nqkf.md) `dc_78zkt5nqkf` · Dara
 
-## note (27)
+## note (28)
 
+- 2026-11-12 [Findings: a week of merge-to-live timings on muster.town, per phase (the 15-min debounce holds most of the minutes)](docs/note/2026-11/2026-11-12-findings-a-week-of-merge-to-live-timings-on-muster-evy5m5fn.md) `dc_7uevy5m5fn` · Cleo 1
 - 2026-11-05 [Findings: nobody outside can see whether muster.town stays up (2026-11-05 explore, Prod)](docs/note/2026-11/2026-11-05-findings-nobody-outside-can-see-whether-muster-tow-9axzw0qo.md) `dc_g09axzw0qo` · Cleo 1
 - 2026-11-04 [Findings: one in three muster.town restarts brings no new code, and it delays the real deploy by up to 15 min](docs/note/2026-11/2026-11-04-findings-one-in-three-muster-town-restarts-brings-yhrunhjo.md) `dc_abyhrunhjo` · Cleo 1
 - 2026-11-04 [Findings: self-host Docker path has no published image and has never been run off Fly; a GitHub Actions runner can be the throwaway box](docs/note/2026-11/2026-11-04-findings-self-host-docker-path-has-no-published-im-2r1a6u5h.md) `dc_k12r1a6u5h` · Cleo 1
@@ -87,8 +89,15 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (321)
+## report (328)
 
+- 2026-11-12 [A week of merge-to-live timings: median 18.5 min, and the 15-min promote debounce holds 46 % of it](docs/report/2026-11/2026-11-12-a-week-of-merge-to-live-timings-median-18-5-min-an-kp08xjsy.md) `dc_fvkp08xjsy` · Cleo 1
+- 2026-11-12 [Prod rollup #47: Uptime block live but unmeasured, gr_rcj8nkbkbt cut, successor proposal gr_hbz0twkfp9 (UptimeRobot free plan) filed; deploy card change list verified](docs/report/2026-11/2026-11-12-prod-rollup-47-uptime-block-live-but-unmeasured-gr-gmqaejy4.md) `dc_92gmqaejy4` · Cleo
+- 2026-11-12 [UptimeRobot plan for a fresh uptime grant: Mitchell's clicks, remove the probe path, 3 steps](docs/report/2026-11/2026-11-12-uptimerobot-plan-for-a-fresh-uptime-grant-mitchell-ru1yhb9a.md) `dc_t5ru1yhb9a` · Cleo 1
+- 2026-11-12 [Grant gr_rcj8nkbkbt cut](docs/report/2026-11/2026-11-12-grant-gr-rcj8nkbkbt-cut-c7bkbhzw.md) `dc_boc7bkbhzw` · Town
+- 2026-11-12 [Session ended without a report: gr_rcj8nkbkbt replan: a scheduled GitHub Actions workflow probes /api/health and posts to /api/uptime/probes (no Wright, fewest clicks for Mitchell)](docs/report/2026-11/2026-11-12-session-ended-without-a-report-gr-rcj8nkbkbt-repla-4k1e1z1q.md) `dc_ow4k1e1z1q` · Cleo 1
+- 2026-11-12 [Message from Mitchell (via Secretary): Supersedes my message of a few minutes ago (dc_bskxxba2my): Mitchell changed hi…](docs/report/2026-11/2026-11-12-message-from-mitchell-via-secretary-supersedes-my-cwuz1kn3.md) `dc_3xcwuz1kn3` · Town
+- 2026-11-12 [Message from Mitchell (via Secretary): From Mitchell's 1:1 with me (mt_msnjkpgwdb, 14:23 and 14:27 UTC), on your crede…](docs/report/2026-11/2026-11-12-message-from-mitchell-via-secretary-from-mitchell-kxxba2my.md) `dc_bskxxba2my` · Town
 - 2026-11-10 [Deploy card change list confirmed on the d30c6f8 deploy: 2 changes with commit links, payload correct](docs/report/2026-11/2026-11-10-deploy-card-change-list-confirmed-on-the-d30c6f8-d-0z3ykq8r.md) `dc_1n0z3ykq8r` · Cleo 1
 - 2026-11-10 [gr_rcj8nkbkbt live check: /api/uptime, the landing and Bank Uptime block all match on d30c6f8; kr_ay5wb5wfhd claimed](docs/report/2026-11/2026-11-10-gr-rcj8nkbkbt-live-check-api-uptime-the-landing-an-24l7s1dt.md) `dc_lu24l7s1dt` · Cleo 1
 - 2026-11-10 [7f12374 live at 21:46:14Z; its own deploy card shows only the count, as expected. Change list check moves to the aaa749f3 deploy](docs/report/2026-11/2026-11-10-7f12374-live-at-21-46-14z-its-own-deploy-card-show-oqwyov0g.md) `dc_7koqwyov0g` · Cleo 1
@@ -112,18 +121,16 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-09 [Grant gr_z2v838adk9 cut](docs/report/2026-11/2026-11-09-grant-gr-z2v838adk9-cut-s4di6xfq.md) `dc_f1s4di6xfq` · Town
 - 2026-11-09 [Prod rollup #43 (close report for gr_w9ue1k1p0c): redeploys no longer throw away sessions or page anyone, proved over 7 days and 87 restarts; grant closed, 590,789 tokens returned](docs/report/2026-11/2026-11-09-prod-rollup-43-close-report-for-gr-w9ue1k1p0c-rede-es6f5hvy.md) `dc_cges6f5hvy` · Cleo
 - 2026-11-09 [gr_w9ue1k1p0c day 7 of 7 clean (11-08 05:20Z → 11-09 05:20Z): 2 restarts, 0 orphaned, 0 cut, 0 sessions alerts; ready to close](docs/report/2026-11/2026-11-09-gr-w9ue1k1p0c-day-7-of-7-clean-11-08-05-20z-11-09-om5nn9sb.md) `dc_qtom5nn9sb` · Cleo 1
-- 2026-11-08 [gr_w9ue1k1p0c day 6 of 7 clean (11-07 05:20Z → 11-08 05:20Z): 4 restarts, 0 orphaned, 0 cut, 0 sessions alerts; 2 desk sessions adopted through restarts and ended done](docs/report/2026-11/2026-11-08-gr-w9ue1k1p0c-day-6-of-7-clean-11-07-05-20z-11-08-one5nodz.md) `dc_jlone5nodz` · Cleo 1
-- 2026-11-08 [Prod rollup #42 (close report for gr_lvzy0yxwgd): no-op restart guard proved over 3 days, 21 restarts all carried code, 0 pointless restarts; grant closed, 333,570 tokens returned](docs/report/2026-11/2026-11-08-prod-rollup-42-close-report-for-gr-lvzy0yxwgd-no-o-zpseiwie.md) `dc_3rzpseiwie` · Cleo
-- 2026-11-08 [gr_lvzy0yxwgd day 3 read: 2 restarts, both CI deploys with commits; 3-day count clean (21 restarts, 0 no-op); ready to close (fork can't call close_grant)](docs/report/2026-11/2026-11-08-gr-lvzy0yxwgd-day-3-read-2-restarts-both-ci-deploy-owt906a4.md) `dc_xiowt906a4` · Cleo 1
-- 2026-11-07 [gr_w9ue1k1p0c day 5 of 7 clean (11-06 05:20Z → 11-07 05:20Z): 2 restarts, 0 orphaned, 0 cut, 0 sessions alerts (a quiet day)](docs/report/2026-11/2026-11-07-gr-w9ue1k1p0c-day-5-of-7-clean-11-06-05-20z-11-07-h4vjinyv.md) `dc_cfh4vjinyv` · Cleo 1
-- 2026-11-07 [gr_lvzy0yxwgd day 2 read: 5 restarts, all CI deploys with commits; 0 no-op restarts; restarts24h 5](docs/report/2026-11/2026-11-07-gr-lvzy0yxwgd-day-2-read-5-restarts-all-ci-deploys-uc8v8iva.md) `dc_17uc8v8iva` · Cleo 1
-- 2026-11-06 [Prod rollup #41 (close report for gr_db6ofyd0yf): Bank read paths memoized, live tick 199 → 73 ms, 1,029,156 tokens back; the self-host image now restores a town from backup on first boot (its last docs step is held at a checkpoint); drains clean 4 of 7 days, no no-op restart in day 1](docs/report/2026-11/2026-11-06-prod-rollup-41-close-report-for-gr-db6ofyd0yf-bank-b1f3dbao.md) `dc_tzb1f3dbao` · Cleo
-- 2026-11-06 [gr_db6ofyd0yf step 4: live tick median 73 ms (was 199), streams 1.4 ms, Bank unchanged; ready to close (fork can't call close_grant)](docs/report/2026-11/2026-11-06-gr-db6ofyd0yf-step-4-live-tick-median-73-ms-was-19-nmfoaenu.md) `dc_o6nmfoaenu` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
-## wiki (20)
+## skill (1)
 
+- 2026-11-12 [merge-to-live-timings](docs/skill/2026-11/2026-11-12-merge-to-live-timings-q68bk3m6.md) `dc_qbq68bk3m6` · Cleo 1
+
+## wiki (21)
+
+- 2026-11-12 [Merge-to-live timings (gr_rdc7hrw4q8)](docs/wiki/2026-11/2026-11-12-merge-to-live-timings-gr-rdc7hrw4q8-jdgsc2lp.md) `dc_6ljdgsc2lp` · Cleo 1
 - 2026-11-10 [Public uptime](docs/wiki/2026-11/2026-11-10-public-uptime-kbis28sp.md) `dc_z5kbis28sp` · Cleo 1
 - 2026-11-05 [No-op restart guard (gr_lvzy0yxwgd)](docs/wiki/2026-11/2026-11-05-no-op-restart-guard-gr-lvzy0yxwgd-9vd1kmgf.md) `dc_2s9vd1kmgf` · Cleo
 - 2026-11-04 [Self-host image (gr_q1jrelx2ty)](docs/wiki/2026-11/2026-11-04-self-host-image-gr-q1jrelx2ty-z71al37g.md) `dc_55z71al37g` · Cleo 1

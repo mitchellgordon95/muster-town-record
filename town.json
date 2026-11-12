@@ -39,5 +39,12 @@
   },
   "mapLayout": "fountain",
   "operatingReserveTokens": 200000,
-  "retainerLookaheadHours": 6
+  "retainerLookaheadHours": 6,
+  "publish": {
+    "repoUrl": "https://github.com/mitchellgordon95/muster-town-record.git",
+    "tokenSet": false,
+    "lastPushAt": null,
+    "lastPushCommit": null,
+    "lastPushError": null
+  }
 }

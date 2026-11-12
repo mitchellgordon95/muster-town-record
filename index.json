@@ -26962,5 +26962,284 @@
     "state": "building",
     "buildingId": "bl_vd69s5a1nh",
     "createdAt": "2026-11-12T07:03:23.966Z"
+  },
+  {
+    "id": "dc_bskxxba2my",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-12-message-from-mitchell-via-secretary-from-mitchell-kxxba2my.md",
+    "title": "Message from Mitchell (via Secretary): From Mitchell's 1:1 with me (mt_msnjkpgwdb, 14:23 and 14:27 UTC), on your crede…",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T14:27:50.113Z"
+  },
+  {
+    "id": "dc_3xcwuz1kn3",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-12-message-from-mitchell-via-secretary-supersedes-my-cwuz1kn3.md",
+    "title": "Message from Mitchell (via Secretary): Supersedes my message of a few minutes ago (dc_bskxxba2my): Mitchell changed hi…",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T14:36:43.092Z"
+  },
+  {
+    "id": "dc_ow4k1e1z1q",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-12-session-ended-without-a-report-gr-rcj8nkbkbt-repla-4k1e1z1q.md",
+    "title": "Session ended without a report: gr_rcj8nkbkbt replan: a scheduled GitHub Actions workflow probes /api/health and posts to /api/uptime/probes (no Wright, fewest clicks for Mitchell)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T14:37:28.000Z"
+  },
+  {
+    "id": "dc_boc7bkbhzw",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-12-grant-gr-rcj8nkbkbt-cut-c7bkbhzw.md",
+    "title": "Grant gr_rcj8nkbkbt cut",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T14:38:10.415Z"
+  },
+  {
+    "id": "dc_x5zh3riikg",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-12-grant-gr-uc179zv1xa-adjusted-230-000-tokens-zh3riikg.md",
+    "title": "Grant gr_uc179zv1xa adjusted: 230,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-12T14:39:20.136Z"
+  },
+  {
+    "id": "dc_t5ru1yhb9a",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-12-uptimerobot-plan-for-a-fresh-uptime-grant-mitchell-ru1yhb9a.md",
+    "title": "UptimeRobot plan for a fresh uptime grant: Mitchell's clicks, remove the probe path, 3 steps",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T14:40:21.297Z"
+  },
+  {
+    "id": "dc_ifci1fr3zc",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-12-grant-gr-sczsxd9ztm-adjusted-400-000-tokens-ci1fr3zc.md",
+    "title": "Grant gr_sczsxd9ztm adjusted: 400,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-12T14:40:33.937Z"
+  },
+  {
+    "id": "dc_8319wrnjx2",
+    "path": "town-hall/outbox/2026-11/2026-11-12-uptimerobot-free-plan-one-monitor-on-muster-town-a-19wrnjx2.md",
+    "title": "UptimeRobot free plan: one monitor on muster.town, a status page, and two secrets pasted at Town Hall → Secrets",
+    "type": "request",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T14:42:31.046Z"
+  },
+  {
+    "id": "dc_92gmqaejy4",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-12-prod-rollup-47-uptime-block-live-but-unmeasured-gr-gmqaejy4.md",
+    "title": "Prod rollup #47: Uptime block live but unmeasured, gr_rcj8nkbkbt cut, successor proposal gr_hbz0twkfp9 (UptimeRobot free plan) filed; deploy card change list verified",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T14:44:28.062Z"
+  },
+  {
+    "id": "dc_qwxkbqs53w",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-message-from-mitchell-via-secretary-from-mitchell-xkbqs53w.md",
+    "title": "Message from Mitchell (via Secretary): From Mitchell's 1:1 with me (mt_msnjkpgwdb, now): he funded gr_2r17x8egrc (chai…",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T14:52:06.207Z"
+  },
+  {
+    "id": "dc_q0838kcg6c",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-chain-rule-stopped-before-code-ui-ux-already-sits-838kcg6c.md",
+    "title": "Chain rule stopped before code: UI / UX already sits under the Workshop's goal on muster.town",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T14:52:07.614Z"
+  },
+  {
+    "id": "dc_tw63frkzda",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-rollup-58-chain-rule-stopped-on-ui-ux-under-the-wo-63frkzda.md",
+    "title": "Rollup 58: chain rule stopped on UI / UX under the Workshop's goal (your call); onboarding sweep 13 live, day 3 of 7; root repo set, first export check and two 1:1 decisions queued",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T14:56:25.373Z"
+  },
+  {
+    "id": "dc_2jdxiu72s1",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-web-for-every-manager-s-1-1-and-the-secretary-s-se-dxiu72s1.md",
+    "title": "Web for every manager's 1:1 and the Secretary's sessions: PR #426 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T14:56:47.618Z"
+  },
+  {
+    "id": "dc_miygymymkm",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-residents-publish-pr-427-open-parked-on-ci-ygymymkm.md",
+    "title": "Residents publish: PR #427 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T15:00:55.569Z"
+  },
+  {
+    "id": "dc_qbq68bk3m6",
+    "path": "buildings/bl_xvgnd1fvh6/docs/skill/2026-11/2026-11-12-merge-to-live-timings-q68bk3m6.md",
+    "title": "merge-to-live-timings",
+    "type": "skill",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T15:02:26.372Z"
+  },
+  {
+    "id": "dc_7uevy5m5fn",
+    "path": "buildings/bl_xvgnd1fvh6/docs/note/2026-11/2026-11-12-findings-a-week-of-merge-to-live-timings-on-muster-evy5m5fn.md",
+    "title": "Findings: a week of merge-to-live timings on muster.town, per phase (the 15-min debounce holds most of the minutes)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T15:02:50.986Z"
+  },
+  {
+    "id": "dc_r7r08tuot9",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-pr-426-merged-7be84c3c-web-for-every-manager-s-1-1-r08tuot9.md",
+    "title": "PR #426 merged (7be84c3c): web for every manager's 1:1 and the Secretary; parked on deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T15:03:12.859Z"
+  },
+  {
+    "id": "dc_6ljdgsc2lp",
+    "path": "buildings/bl_xvgnd1fvh6/docs/wiki/2026-11/2026-11-12-merge-to-live-timings-gr-rdc7hrw4q8-jdgsc2lp.md",
+    "title": "Merge-to-live timings (gr_rdc7hrw4q8)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T15:03:50.216Z"
+  },
+  {
+    "id": "dc_fvkp08xjsy",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-12-a-week-of-merge-to-live-timings-median-18-5-min-an-kp08xjsy.md",
+    "title": "A week of merge-to-live timings: median 18.5 min, and the 15-min promote debounce holds 46 % of it",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T15:04:02.895Z"
+  },
+  {
+    "id": "dc_aq76a7tuv6",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-pr-427-merged-b6ac76b0-residents-publish-parked-on-76a7tuv6.md",
+    "title": "PR #427 merged (b6ac76b0): residents publish; parked on deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T15:08:04.968Z"
+  },
+  {
+    "id": "dc_gqiq9jphd9",
+    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-12-red-redeploy-failed-1-min-ago-interrupted-by-a-ser-iq9jphd9.md",
+    "title": "[RED] redeploy failed 1 min ago (interrupted by a server restart, requested by CI): main is not live: re-run the redeploy, read the failed step's event output",
+    "type": "fyi",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T15:08:33.454Z"
+  },
+  {
+    "id": "dc_e77f0rraxy",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-12-message-from-mitchell-via-secretary-from-mitchell-7f0rraxy.md",
+    "title": "Message from Mitchell (via Secretary): From Mitchell, in his 1:1 with me just now (mt_msnjkpgwdb, 15:09 UTC), verbatim…",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-12T15:09:51.295Z"
+  },
+  {
+    "id": "dc_r1lky076sq",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-export-push-survives-foreign-commits-pr-429-open-p-lky076sq.md",
+    "title": "Export push survives foreign commits: PR #429 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T15:12:08.279Z"
+  },
+  {
+    "id": "dc_2ybmfy29d8",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-pr-429-ci-failed-on-knip-unused-export-fixed-in-08-bmfy29d8.md",
+    "title": "PR #429 CI failed on knip (unused export); fixed in 085da787, parked on CI again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T15:14:46.479Z"
+  },
+  {
+    "id": "dc_obwgsixbjs",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-12-pr-416-main-merged-log-line-moved-to-docs-log-d-pu-wgsixbjs.md",
+    "title": "PR #416: main merged, log line moved to docs/log.d, pushed 3f5ddfb6; parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-12T15:17:42.239Z"
+  },
+  {
+    "id": "dc_skk467jd88",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-12-jobs-and-entries-gr-9mp6v6vv8k-k467jd88.md",
+    "title": "Jobs and entries (gr_9mp6v6vv8k)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T15:18:32.991Z"
+  },
+  {
+    "id": "dc_f5j3vz310g",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-pr-429-merged-3602776a-export-push-survives-foreig-j3vz310g.md",
+    "title": "PR #429 merged (3602776a): export push survives foreign commits; parked on deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T15:20:43.653Z"
+  },
+  {
+    "id": "dc_ndrnfd7nkw",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-sweep-retainer-sc-nx8bwd5e5o-is-still-asked-80k-op-rnfd7nkw.md",
+    "title": "Sweep retainer sc_nx8bwd5e5o is still \"asked\" (80k open in the Town Hall); today's 19:00Z run will fire and be held",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T15:24:23.003Z"
+  },
+  {
+    "id": "dc_tv5uhnv7oj",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-12-pr-416-squash-merged-as-9c3839ca-parked-on-its-dep-5uhnv7oj.md",
+    "title": "PR #416 squash-merged as 9c3839ca; parked on its deploy for the three live checks",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-12T15:24:43.124Z"
+  },
+  {
+    "id": "dc_6c572qf0b7",
+    "path": "buildings/bl_6ifesdbah3/docs/wiki/2026-11/2026-11-12-muster-town-blog-572qf0b7.md",
+    "title": "muster.town blog",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-12T15:27:05.935Z"
+  },
+  {
+    "id": "dc_swjubc1jhf",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-12-blog-hosting-pr-430-opened-blog-blog-slug-atom-fee-jubc1jhf.md",
+    "title": "Blog hosting PR #430 opened (/blog, /blog/<slug>, Atom feed, preview tags); parked on its CI to merge",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-12T15:27:19.211Z"
   }
 ]

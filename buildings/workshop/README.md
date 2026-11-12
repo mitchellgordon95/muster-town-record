@@ -127,8 +127,19 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1117)
+## report (1128)
 
+- 2026-11-12 [Sweep retainer sc_nx8bwd5e5o is still "asked" (80k open in the Town Hall); today's 19:00Z run will fire and be held](docs/report/2026-11/2026-11-12-sweep-retainer-sc-nx8bwd5e5o-is-still-asked-80k-op-rnfd7nkw.md) `dc_ndrnfd7nkw` · Pix 1
+- 2026-11-12 [PR #429 merged (3602776a): export push survives foreign commits; parked on deploy](docs/report/2026-11/2026-11-12-pr-429-merged-3602776a-export-push-survives-foreig-j3vz310g.md) `dc_f5j3vz310g` · Pix 1
+- 2026-11-12 [PR #429 CI failed on knip (unused export); fixed in 085da787, parked on CI again](docs/report/2026-11/2026-11-12-pr-429-ci-failed-on-knip-unused-export-fixed-in-08-bmfy29d8.md) `dc_2ybmfy29d8` · Pix 1
+- 2026-11-12 [Export push survives foreign commits: PR #429 open, parked on CI](docs/report/2026-11/2026-11-12-export-push-survives-foreign-commits-pr-429-open-p-lky076sq.md) `dc_r1lky076sq` · Pix 1
+- 2026-11-12 [PR #427 merged (b6ac76b0): residents publish; parked on deploy](docs/report/2026-11/2026-11-12-pr-427-merged-b6ac76b0-residents-publish-parked-on-76a7tuv6.md) `dc_aq76a7tuv6` · Pix 4
+- 2026-11-12 [PR #426 merged (7be84c3c): web for every manager's 1:1 and the Secretary; parked on deploy](docs/report/2026-11/2026-11-12-pr-426-merged-7be84c3c-web-for-every-manager-s-1-1-r08tuot9.md) `dc_r7r08tuot9` · Pix 1
+- 2026-11-12 [Residents publish: PR #427 open, parked on CI](docs/report/2026-11/2026-11-12-residents-publish-pr-427-open-parked-on-ci-ygymymkm.md) `dc_miygymymkm` · Pix 1
+- 2026-11-12 [Web for every manager's 1:1 and the Secretary's sessions: PR #426 open, parked on CI](docs/report/2026-11/2026-11-12-web-for-every-manager-s-1-1-and-the-secretary-s-se-dxiu72s1.md) `dc_2jdxiu72s1` · Pix 2
+- 2026-11-12 [Rollup 58: chain rule stopped on UI / UX under the Workshop's goal (your call); onboarding sweep 13 live, day 3 of 7; root repo set, first export check and two 1:1 decisions queued](docs/report/2026-11/2026-11-12-rollup-58-chain-rule-stopped-on-ui-ux-under-the-wo-63frkzda.md) `dc_tw63frkzda` · Pix
+- 2026-11-12 [Chain rule stopped before code: UI / UX already sits under the Workshop's goal on muster.town](docs/report/2026-11/2026-11-12-chain-rule-stopped-before-code-ui-ux-already-sits-838kcg6c.md) `dc_q0838kcg6c` · Pix 1
+- 2026-11-12 [Message from Mitchell (via Secretary): From Mitchell's 1:1 with me (mt_msnjkpgwdb, now): he funded gr_2r17x8egrc (chai…](docs/report/2026-11/2026-11-12-message-from-mitchell-via-secretary-from-mitchell-xkbqs53w.md) `dc_qwxkbqs53w` · Town
 - 2026-11-11 [Onboarding sweep 13 merged (PR #425, 73297901): lag 0 h, day 3 of 7](docs/report/2026-11/2026-11-11-onboarding-sweep-13-merged-pr-425-73297901-lag-0-h-hsmli4wd.md) `dc_2yhsmli4wd` · Pix 1
 - 2026-11-11 [Rollup 57: Town health is live and its grant closed as done; the Secretary now manages the Town Hall; onboarding sweep 13 parked on CI](docs/report/2026-11/2026-11-11-rollup-57-town-health-is-live-and-its-grant-closed-dvmhc63k.md) `dc_vddvmhc63k` · Pix
 - 2026-11-11 [Slate Health line is live on nt_ouzrnxs9o7 (11-11 07:03Z); gr_8bxoy2heif ready to close](docs/report/2026-11/2026-11-11-slate-health-line-is-live-on-nt-ouzrnxs9o7-11-11-0-oynx7b7i.md) `dc_gloynx7b7i` · Pix 1
@@ -148,17 +159,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-10 [Job abstraction plan finished (dc_uwx045472m): about 3.45M in total, stop point after step 5b at about 1.7M](docs/report/2026-11/2026-11-10-job-abstraction-plan-finished-dc-uwx045472m-about-7giykig7.md) `dc_in7giykig7` · Pix 1
 - 2026-11-10 [Job abstraction plan: draft filed (dc_ejm1j7m3r8), inventory table unfinished after the circuit breaker](docs/report/2026-11/2026-11-10-job-abstraction-plan-draft-filed-dc-ejm1j7m3r8-inv-t2962dq9.md) `dc_kft2962dq9` · Pix 1
 - 2026-11-10 [PR #413 merged (b12cc372): export hour survives restarts; KR3 push check waits on its deploy](docs/report/2026-11/2026-11-10-pr-413-merged-b12cc372-export-hour-survives-restar-8c5b4rbn.md) `dc_xu8c5b4rbn` · Pix 1
-- 2026-11-10 [PR #412 merged (dc437530): ask style rules are warnings, missing structure still refused](docs/report/2026-11/2026-11-10-pr-412-merged-dc437530-ask-style-rules-are-warning-dbgv63w1.md) `dc_bcdbgv63w1` · Pix 2
-- 2026-11-10 [No hosted export again (restart at 19:15Z); fix in PR #413: the export hour survives restarts](docs/report/2026-11/2026-11-10-no-hosted-export-again-restart-at-19-15z-fix-in-pr-m83bdom0.md) `dc_iym83bdom0` · Pix 1
-- 2026-11-10 [Lint decision: ask style rules are warnings, only missing structure is refused (PR #412, CI pending)](docs/report/2026-11/2026-11-10-lint-decision-ask-style-rules-are-warnings-only-mi-wfu68yfy.md) `dc_ipwfu68yfy` · Pix 1
-- 2026-11-10 [Onboarding sweep 12 merged: checked through 2cf292b0, lag 0 h, day 2 of 7 (48 h rule)](docs/report/2026-11/2026-11-10-onboarding-sweep-12-merged-checked-through-2cf292b-uc8irwis.md) `dc_0wuc8irwis` · Pix 1
-- 2026-11-10 [Onboarding sweep 12: 2 reader-visible commits since 19e9d9cb, manual fixed in PR #411 (lag 1 h at branch time, merge pending CI)](docs/report/2026-11/2026-11-10-onboarding-sweep-12-2-reader-visible-commits-since-swa8xb8x.md) `dc_suswa8xb8x` · Pix 1
-- 2026-11-10 [No hosted export yet: the 18:26Z deploy restart reset the hour; parked to 19:32Z](docs/report/2026-11/2026-11-10-no-hosted-export-yet-the-18-26z-deploy-restart-res-olplh1f5.md) `dc_c5olplh1f5` · Pix 1
-- 2026-11-10 [Onboarding sweep 11 merged: checked through 19e9d9cb, lag 0 h, day 1 of 7 (48 h rule)](docs/report/2026-11/2026-11-10-onboarding-sweep-11-merged-checked-through-19e9d9c-dkl8zzss.md) `dc_ovdkl8zzss` · Pix 1
-- 2026-11-10 [48 h onboarding KR and daily sweep: page and Kelly done; the schedule and KR edits need Pix (forks lack the rights)](docs/report/2026-11/2026-11-10-48-h-onboarding-kr-and-daily-sweep-page-and-kelly-w9gyi6j3.md) `dc_s2w9gyi6j3` · Pix 2
-- 2026-11-10 [Onboarding sweep 11: 5 stale claims and 1 gap fixed in PR #409; merge and lag line pending CI](docs/report/2026-11/2026-11-10-onboarding-sweep-11-5-stale-claims-and-1-gap-fixed-66msd4fx.md) `dc_i166msd4fx` · Pix 1
-- 2026-11-10 [KR3 set up: test account made its own repo, started /publish-check/, set Publish to GitHub; parked for the first hourly push](docs/report/2026-11/2026-11-10-kr3-set-up-test-account-made-its-own-repo-started-vmsiir9t.md) `dc_mevmsiir9t` · Pix 1
-- 2026-11-10 [Message from Mitchell (via Secretary): From Mitchell in our 1:1 (mt_ewxnhs90cq, 17:22 UTC), re your Needs line in roll…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-secretary-from-mitchell-olcilaj7.md) `dc_3dolcilaj7` · Town
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -167,8 +167,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-27 [demo-media](docs/skill/2026-10/2026-10-27-demo-media-8jzo79xq.md) `dc_p68jzo79xq` · Lena
 - 2026-10-26 [desk-image](docs/skill/2026-10/2026-10-26-desk-image-93n44plc.md) `dc_br93n44plc` · Root
 
-## wiki (66)
+## wiki (67)
 
+- 2026-11-12 [Jobs and entries (gr_9mp6v6vv8k)](docs/wiki/2026-11/2026-11-12-jobs-and-entries-gr-9mp6v6vv8k-k467jd88.md) `dc_skk467jd88` · Pix 2
 - 2026-11-10 [Town health on the Town Hall (gr_8bxoy2heif)](docs/wiki/2026-11/2026-11-10-town-health-on-the-town-hall-gr-8bxoy2heif-feopehvv.md) `dc_phfeopehvv` · Pix 1
 - 2026-11-10 [Job abstraction plan (as_qganrass1j)](docs/wiki/2026-11/2026-11-10-job-abstraction-plan-as-qganrass1j-rcy8pmke.md) `dc_pqrcy8pmke` · Pix 1
 - 2026-11-10 [Ask card lint decision (style warns, structure refuses)](docs/wiki/2026-11/2026-11-10-ask-card-lint-decision-style-warns-structure-refus-musn05et.md) `dc_b4musn05et` · Pix 1
@@ -198,6 +199,5 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-31 [Onboarding lag (gr_mjr7nb438v)](docs/wiki/2026-10/2026-10-31-onboarding-lag-gr-mjr7nb438v-jw2xcwut.md) `dc_t4jw2xcwut` · Pix
 - 2026-10-31 [Ask to captain a goal (gr_bwm0iz7rwl)](docs/wiki/2026-10/2026-10-31-ask-to-captain-a-goal-gr-bwm0iz7rwl-h1izdur3.md) `dc_leh1izdur3` · Pix 1
 - 2026-10-31 [Desk usage under-books output (live meter)](docs/wiki/2026-10/2026-10-31-desk-usage-under-books-output-live-meter-927zmrgr.md) `dc_h3927zmrgr` · Pix 3
-- 2026-10-31 [Desk sessions ending "desk exited -1" (frozen desk)](docs/wiki/2026-10/2026-10-31-desk-sessions-ending-desk-exited-1-frozen-desk-z1gylo59.md) `dc_vrz1gylo59` · Pix 3
 
 All by month: [2026-11](docs/wiki/2026-11/) · [2026-10](docs/wiki/2026-10/)

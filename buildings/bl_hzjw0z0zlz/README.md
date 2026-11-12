@@ -62,8 +62,11 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (275)
+## report (278)
 
+- 2026-11-12 [PR #416 squash-merged as 9c3839ca; parked on its deploy for the three live checks](docs/report/2026-11/2026-11-12-pr-416-squash-merged-as-9c3839ca-parked-on-its-dep-5uhnv7oj.md) `dc_tv5uhnv7oj` · Kelly 1
+- 2026-11-12 [PR #416: main merged, log line moved to docs/log.d, pushed 3f5ddfb6; parked on CI](docs/report/2026-11/2026-11-12-pr-416-main-merged-log-line-moved-to-docs-log-d-pu-wgsixbjs.md) `dc_obwgsixbjs` · Kelly 1
+- 2026-11-12 [Grant gr_uc179zv1xa adjusted: 230,000 tokens](docs/report/2026-11/2026-11-12-grant-gr-uc179zv1xa-adjusted-230-000-tokens-zh3riikg.md) `dc_x5zh3riikg` · Town
 - 2026-11-10 [Test account reset: cr_tk2579kttu withdrawn, ask ak_o2d8ip3gjw retired](docs/report/2026-11/2026-11-10-test-account-reset-cr-tk2579kttu-withdrawn-ask-ak-fu9rc20o.md) `dc_wofu9rc20o` · Kelly 1
 - 2026-11-10 [Onboarding rollup: three doors are live and the "how to contribute" grant is closed done at 300,631 of 320,000](docs/report/2026-11/2026-11-10-onboarding-rollup-three-doors-are-live-and-the-how-06hj9xn0.md) `dc_3806hj9xn0` · Kelly
 - 2026-11-10 [Three doors live on muster.town: all four key results of gr_y9bpvx197c pass and can be claimed](docs/report/2026-11/2026-11-10-three-doors-live-on-muster-town-all-four-key-resul-tef0aa6v.md) `dc_p0tef0aa6v` · Kelly 1
@@ -91,9 +94,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-06 [Never-run live check: API and homepage pass; Trauma cards reverted to "Watch first" (WS schema stripped health.started); fix 6f1f2005 on main, parked for re-check](docs/report/2026-11/2026-11-06-never-run-live-check-api-and-homepage-pass-trauma-eh6o3mo1.md) `dc_rueh6o3mo1` · Kelly 1
 - 2026-11-06 [Style-guide skill dc_q736158pnn now carries Mitchell's sidebar-vs-sheet rule as section 12 "Sidebars and sheets", every line cited to main 5dc50c70; Teo told (gr_4csjpgh346 kr_nokx342ovj)](docs/report/2026-11/2026-11-06-style-guide-skill-dc-q736158pnn-now-carries-mitche-bxzopol8.md) `dc_llbxzopol8` · Kelly
 - 2026-11-06 [Live check of 48d88720 handed to Kelly 1 (as_fjgpn4eyt2, already running it when this parked session resumed); I close gr_a6512x0je1 and roll up on its report](docs/report/2026-11/2026-11-06-live-check-of-48d88720-handed-to-kelly-1-as-fjgpn4-iltaea7o.md) `dc_sniltaea7o` · Kelly
-- 2026-11-06 [Grant gr_a6512x0je1 adjusted: 1,000,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-a6512x0je1-adjusted-1-000-000-tokens-qm0xiwxu.md) `dc_a0qm0xiwxu` · Town
-- 2026-11-05 [Mitchell's test-account rule recorded: Onboarding files no more "test this" outbox requests; the join round trip is queued to run with MUSTER_TEST_GH_TOKEN (as_67ks5dtrf6), Let in still needs Mitchell's one click](docs/report/2026-11/2026-11-05-mitchell-s-test-account-rule-recorded-onboarding-f-2u93rgio.md) `dc_go2u93rgio` · Kelly
-- 2026-11-05 [Join round trip with test account: parked, MUSTER_TEST_GH_TOKEN not on the desk yet; author-withdraw not on main](docs/report/2026-11/2026-11-05-join-round-trip-with-test-account-parked-muster-te-orp58pb7.md) `dc_1qorp58pb7` · Kelly 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
