@@ -27943,5 +27943,41 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-12T19:04:29.444Z"
+  },
+  {
+    "id": "dc_xuzq6yphk6",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-12-pre-rollup-check-blog-and-email-signup-are-still-l-zq6yphk6.md",
+    "title": "Pre-rollup check: blog and email signup are still live and healthy at 6e20eef0",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-12T20:10:26.860Z"
+  },
+  {
+    "id": "dc_cm817ul86y",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-12-outreach-rollup-4-the-blog-email-signup-is-live-mi-817ul86y.md",
+    "title": "Outreach rollup #4: the blog email signup is live; Mitchell's \"set up resend\" is queued and needs his Resend account and key",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-12T20:12:58.580Z"
+  },
+  {
+    "id": "dc_inb6tfiwuu",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-12-resend-double-opt-in-for-the-blog-list-pr-444-open-b6tfiwuu.md",
+    "title": "Resend double opt-in for the blog list: PR #444 open, does nothing until the key is set; Mitchell's Resend steps written",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-12T20:20:32.052Z"
+  },
+  {
+    "id": "dc_pcgtdrq6r6",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-12-pr-444-resend-double-opt-in-merged-as-2f518b9f-par-gtdrq6r6.md",
+    "title": "PR #444 (Resend double opt-in) merged as 2f518b9f; parked until it is live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-12T20:26:19.501Z"
   }
 ]

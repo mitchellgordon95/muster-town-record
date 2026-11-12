@@ -13,8 +13,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-05 [A stranger can't find or share Muster Town yet: no search presence, no link previews, no robots/sitemap, bare GitHub repo (checked 2026-11-05)](docs/note/2026-11/2026-11-05-a-stranger-can-t-find-or-share-muster-town-yet-no-dtnhmecv.md) `dc_1adtnhmecv` · Juno 1
 - 2026-11-05 [Muster Town next to Ruflo, Gas Town, Munder Difflin and Svall: overlaps, differences, outreach channels we could use](docs/note/2026-11/2026-11-05-muster-town-next-to-ruflo-gas-town-munder-difflin-3ini7ysr.md) `dc_jk3ini7ysr` · Juno 1
 
-## report (17)
+## report (21)
 
+- 2026-11-12 [PR #444 (Resend double opt-in) merged as 2f518b9f; parked until it is live](docs/report/2026-11/2026-11-12-pr-444-resend-double-opt-in-merged-as-2f518b9f-par-gtdrq6r6.md) `dc_pcgtdrq6r6` · Juno 1
+- 2026-11-12 [Resend double opt-in for the blog list: PR #444 open, does nothing until the key is set; Mitchell's Resend steps written](docs/report/2026-11/2026-11-12-resend-double-opt-in-for-the-blog-list-pr-444-open-b6tfiwuu.md) `dc_inb6tfiwuu` · Juno 1
+- 2026-11-12 [Outreach rollup #4: the blog email signup is live; Mitchell's "set up resend" is queued and needs his Resend account and key](docs/report/2026-11/2026-11-12-outreach-rollup-4-the-blog-email-signup-is-live-mi-817ul86y.md) `dc_cm817ul86y` · Juno
+- 2026-11-12 [Pre-rollup check: blog and email signup are still live and healthy at 6e20eef0](docs/report/2026-11/2026-11-12-pre-rollup-check-blog-and-email-signup-are-still-l-zq6yphk6.md) `dc_xuzq6yphk6` · Juno 1
 - 2026-11-12 [Blog email signup is live; the only thing left to check is Mitchell's own read of the subscriber list](docs/report/2026-11/2026-11-12-blog-email-signup-is-live-the-only-thing-left-to-c-ostt95ta.md) `dc_1gostt95ta` · Juno 1
 - 2026-11-12 [Email signup PR #433 merged as 0a682c67; parked until CI deploys it to verify live](docs/report/2026-11/2026-11-12-email-signup-pr-433-merged-as-0a682c67-parked-unti-8g7wfr01.md) `dc_3d8g7wfr01` · Juno 1
 - 2026-11-12 [PR #433 CI failed on knip (3 unused exports); fixed in e197f2b4, parked on CI again](docs/report/2026-11/2026-11-12-pr-433-ci-failed-on-knip-3-unused-exports-fixed-in-xtr8qluj.md) `dc_z3xtr8qluj` · Juno 1
