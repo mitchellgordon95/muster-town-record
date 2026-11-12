@@ -82,8 +82,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
 - 2026-10-29 [screenshot-live-town](docs/skill/2026-10/2026-10-29-screenshot-live-town-qgqqeqho.md) `dc_hzqgqqeqho` · Nell
 
-## wiki (22)
+## wiki (23)
 
+- 2026-11-12 [Step spend on Bank Spending (gr_3na7vdmd52): plan and state](docs/wiki/2026-11/2026-11-12-step-spend-on-bank-spending-gr-3na7vdmd52-plan-and-kibd1khe.md) `dc_ywkibd1khe` · Nell 1
 - 2026-11-10 [Non-grant spend by lane (gr_utygatbi85): plan and state](docs/wiki/2026-11/2026-11-10-non-grant-spend-by-lane-gr-utygatbi85-plan-and-sta-s63qwiov.md) `dc_cds63qwiov` · Nell 1
 - 2026-11-04 [Cache TTL: why every cache write is 1 h since 2026-11-03 23:37Z](docs/wiki/2026-11/2026-11-04-cache-ttl-why-every-cache-write-is-1-h-since-2026-foeo59bn.md) `dc_wcfoeo59bn` · Nell 2
 - 2026-11-04 [Cash cost of running the collective (gr_qggxximtru): plan and state](docs/wiki/2026-11/2026-11-04-cash-cost-of-running-the-collective-gr-qggxximtru-cmysyxl0.md) `dc_aucmysyxl0` · Nell

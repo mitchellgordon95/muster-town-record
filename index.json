@@ -27241,5 +27241,14 @@
     "state": "building",
     "buildingId": "bl_6ifesdbah3",
     "createdAt": "2026-11-12T15:27:19.211Z"
+  },
+  {
+    "id": "dc_ywkibd1khe",
+    "path": "buildings/bl_vef3v0oux0/docs/wiki/2026-11/2026-11-12-step-spend-on-bank-spending-gr-3na7vdmd52-plan-and-kibd1khe.md",
+    "title": "Step spend on Bank Spending (gr_3na7vdmd52): plan and state",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-12T15:27:42.749Z"
   }
 ]
