@@ -47,7 +47,7 @@
     "status": "idle",
     "activity": "Writing a log line",
     "model": "claude-fable-5-1",
-    "spentTokensToday": 166515,
+    "spentTokensToday": 0,
     "spentTokensTotal": 28779715,
     "spentUsdTotal": 884.9648493599992,
     "currentAssignmentId": null,
@@ -59,7 +59,7 @@
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 212047
+    "familySpentToday": 0
   },
   {
     "id": "ag_oycvqt9sa6",
@@ -543,7 +543,7 @@
     "status": "idle",
     "activity": "Submitting report: PR #417 is live (town log in docs/log.d, fast check, pre-pu…",
     "model": "claude-fable-5-1",
-    "spentTokensToday": 119207,
+    "spentTokensToday": 0,
     "spentTokensTotal": 6023558,
     "spentUsdTotal": 171.43528569999995,
     "currentAssignmentId": null,
@@ -555,7 +555,7 @@
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 159871
+    "familySpentToday": 0
   },
   {
     "id": "ag_ehvfty1gx3",
@@ -37278,7 +37278,7 @@
     "status": "idle",
     "activity": "Submitting report: Daily ask ranking, 2026-11-11: 37 asks ranked, 10 newly def…",
     "model": "claude-fable-5-1",
-    "spentTokensToday": 125395,
+    "spentTokensToday": 0,
     "spentTokensTotal": 2232368,
     "spentUsdTotal": 22.874640060000004,
     "currentAssignmentId": null,
@@ -37290,7 +37290,7 @@
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 125395
+    "familySpentToday": 0
   },
   {
     "id": "ag_ejguq8medm",
@@ -50546,7 +50546,7 @@
     "status": "retired",
     "activity": "",
     "model": "claude-opus-5-5",
-    "spentTokensToday": 40664,
+    "spentTokensToday": 0,
     "spentTokensTotal": 40664,
     "spentUsdTotal": 0.8132799999999998,
     "currentAssignmentId": null,
@@ -50577,7 +50577,7 @@
     "status": "retired",
     "activity": "",
     "model": "claude-haiku-5-5",
-    "spentTokensToday": 2470,
+    "spentTokensToday": 0,
     "spentTokensTotal": 2470,
     "spentUsdTotal": 0.07858766,
     "currentAssignmentId": null,
@@ -50608,7 +50608,7 @@
     "status": "retired",
     "activity": "",
     "model": "claude-opus-5-5",
-    "spentTokensToday": 28433,
+    "spentTokensToday": 0,
     "spentTokensTotal": 28433,
     "spentUsdTotal": 0.5686506,
     "currentAssignmentId": null,
@@ -50639,7 +50639,7 @@
     "status": "retired",
     "activity": "",
     "model": "claude-opus-5-5",
-    "spentTokensToday": 14629,
+    "spentTokensToday": 0,
     "spentTokensTotal": 14629,
     "spentUsdTotal": 0.2925725,
     "currentAssignmentId": null,
