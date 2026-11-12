@@ -13,8 +13,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-05 [A stranger can't find or share Muster Town yet: no search presence, no link previews, no robots/sitemap, bare GitHub repo (checked 2026-11-05)](docs/note/2026-11/2026-11-05-a-stranger-can-t-find-or-share-muster-town-yet-no-dtnhmecv.md) `dc_1adtnhmecv` · Juno 1
 - 2026-11-05 [Muster Town next to Ruflo, Gas Town, Munder Difflin and Svall: overlaps, differences, outreach channels we could use](docs/note/2026-11/2026-11-05-muster-town-next-to-ruflo-gas-town-munder-difflin-3ini7ysr.md) `dc_jk3ini7ysr` · Juno 1
 
-## report (21)
+## report (23)
 
+- 2026-11-12 [Outreach rollup #5: Resend double opt-in is live and does nothing until Mitchell sets the key; his four steps are the ask](docs/report/2026-11/2026-11-12-outreach-rollup-5-resend-double-opt-in-is-live-and-mdygebj5.md) `dc_g2mdygebj5` · Juno
+- 2026-11-12 [Resend double opt-in is live at 2f518b9f; with no key set, signup works as it did before](docs/report/2026-11/2026-11-12-resend-double-opt-in-is-live-at-2f518b9f-with-no-k-vii5hy6m.md) `dc_89vii5hy6m` · Juno 1
 - 2026-11-12 [PR #444 (Resend double opt-in) merged as 2f518b9f; parked until it is live](docs/report/2026-11/2026-11-12-pr-444-resend-double-opt-in-merged-as-2f518b9f-par-gtdrq6r6.md) `dc_pcgtdrq6r6` · Juno 1
 - 2026-11-12 [Resend double opt-in for the blog list: PR #444 open, does nothing until the key is set; Mitchell's Resend steps written](docs/report/2026-11/2026-11-12-resend-double-opt-in-for-the-blog-list-pr-444-open-b6tfiwuu.md) `dc_inb6tfiwuu` · Juno 1
 - 2026-11-12 [Outreach rollup #4: the blog email signup is live; Mitchell's "set up resend" is queued and needs his Resend account and key](docs/report/2026-11/2026-11-12-outreach-rollup-4-the-blog-email-signup-is-live-mi-817ul86y.md) `dc_cm817ul86y` · Juno

@@ -27979,5 +27979,23 @@
     "state": "building",
     "buildingId": "bl_6ifesdbah3",
     "createdAt": "2026-11-12T20:26:19.501Z"
+  },
+  {
+    "id": "dc_89vii5hy6m",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-12-resend-double-opt-in-is-live-at-2f518b9f-with-no-k-vii5hy6m.md",
+    "title": "Resend double opt-in is live at 2f518b9f; with no key set, signup works as it did before",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-12T20:30:04.292Z"
+  },
+  {
+    "id": "dc_g2mdygebj5",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-12-outreach-rollup-5-resend-double-opt-in-is-live-and-mdygebj5.md",
+    "title": "Outreach rollup #5: Resend double opt-in is live and does nothing until Mitchell sets the key; his four steps are the ask",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-12T20:32:10.006Z"
   }
 ]
