@@ -27664,5 +27664,122 @@
     "state": "building",
     "buildingId": "bl_hzjw0z0zlz",
     "createdAt": "2026-11-12T17:25:09.863Z"
+  },
+  {
+    "id": "dc_680ywy04uu",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-12-1-1-mitchell-and-secretary-notes-0ywy04uu.md",
+    "title": "1:1: Mitchell and Secretary — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-12T17:31:20.834Z"
+  },
+  {
+    "id": "dc_klws1iqbrn",
+    "path": "library/human-report/2026-11/2026-11-12-re-uptimerobot-free-plan-one-monitor-on-muster-tow-ws1iqbrn.md",
+    "title": "Re: UptimeRobot free plan: one monitor on muster.town, a status page, and two secrets pasted at Town Hall → Secrets",
+    "type": "human-report",
+    "state": "library",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T17:31:35.755Z"
+  },
+  {
+    "id": "dc_qldp5dch15",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-12-answer-to-cleo-s-request-uptimerobot-free-plan-one-dp5dch15.md",
+    "title": "Answer to Cleo's request UptimeRobot free plan: one monitor on muster.town, a status…: done",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T17:31:35.760Z"
+  },
+  {
+    "id": "dc_8zeai20u3j",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-session-ended-without-a-report-1-1-decisions-6-and-eai20u3j.md",
+    "title": "Session ended without a report: 1:1 decisions 6 and 12: no rule ask from a bare act_in_1on1, the \"deciding, not doing\" line in the oversight doc; and close draft PR #436 (chain grant cut)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T17:56:43.566Z"
+  },
+  {
+    "id": "dc_4gkwa7n9h8",
+    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-12-cleared-red-sessions-1-claude-sessions-failed-in-1-kwa7n9h8.md",
+    "title": "[CLEARED] RED sessions: 1 Claude sessions failed in 15 min",
+    "type": "fyi",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T17:57:10.826Z"
+  },
+  {
+    "id": "dc_0a4ifk957k",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-12-step-1-merged-437-step-2-pr-438-open-waiting-on-ci-4ifk957k.md",
+    "title": "Step 1 merged (#437); step 2 PR #438 open, waiting on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T18:05:24.624Z"
+  },
+  {
+    "id": "dc_6dh73jirxk",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-session-ended-without-a-report-re-run-of-as-o5vkqc-h73jirxk.md",
+    "title": "Session ended without a report: Re-run of as_o5vkqc596v (Pix 1's desk exited -1 at 17:56Z after 32k tokens, nothing reported). First `git fetch` and lo…",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T18:13:56.188Z"
+  },
+  {
+    "id": "dc_ljr7mt0tq3",
+    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-12-red-2-claude-sessions-failed-in-15-min-r7mt0tq3.md",
+    "title": "[RED] 2 Claude sessions failed in 15 min",
+    "type": "fyi",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T18:14:15.517Z"
+  },
+  {
+    "id": "dc_be7zprb5pz",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-1-1-decisions-6-12-pr-439-open-no-ledger-ask-from-7zprb5pz.md",
+    "title": "1:1 decisions 6+12: PR #439 open (no ledger ask from act_in_1on1 or Keep; oversight line); PR #436 closed; parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T18:17:57.719Z"
+  },
+  {
+    "id": "dc_nszwrfm60u",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-pr-439-green-and-merged-as-ff90449e-parked-on-its-zwrfm60u.md",
+    "title": "PR #439 green and merged as ff90449e; parked on its deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T18:23:23.853Z"
+  },
+  {
+    "id": "dc_olqgsgl8oq",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-12-session-ended-without-a-report-why-did-three-desk-qgsgl8oq.md",
+    "title": "Session ended without a report: Why did three desk sessions die with desk exited -1 between 17:10 and 17:56Z today?",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T18:25:06.395Z"
+  },
+  {
+    "id": "dc_pxthd1d0wt",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-12-437-live-probe-post-404-438-merged-as-6185b997-wai-thd1d0wt.md",
+    "title": "#437 live (probe POST 404); #438 merged as 6185b997, waiting for it to go live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T18:25:51.088Z"
+  },
+  {
+    "id": "dc_kp31y28jbq",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-ff90449e-live-act-in-1on1-and-keep-file-no-ledger-31y28jbq.md",
+    "title": "ff90449e live: act_in_1on1 and Keep file no ledger ask (1:1 decisions 6+12 done)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T18:28:45.850Z"
   }
 ]

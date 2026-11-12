@@ -127,8 +127,13 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1147)
+## report (1152)
 
+- 2026-11-12 [ff90449e live: act_in_1on1 and Keep file no ledger ask (1:1 decisions 6+12 done)](docs/report/2026-11/2026-11-12-ff90449e-live-act-in-1on1-and-keep-file-no-ledger-31y28jbq.md) `dc_kp31y28jbq` · Pix 2
+- 2026-11-12 [PR #439 green and merged as ff90449e; parked on its deploy](docs/report/2026-11/2026-11-12-pr-439-green-and-merged-as-ff90449e-parked-on-its-zwrfm60u.md) `dc_nszwrfm60u` · Pix 2
+- 2026-11-12 [1:1 decisions 6+12: PR #439 open (no ledger ask from act_in_1on1 or Keep; oversight line); PR #436 closed; parked on CI](docs/report/2026-11/2026-11-12-1-1-decisions-6-12-pr-439-open-no-ledger-ask-from-7zprb5pz.md) `dc_be7zprb5pz` · Pix 2
+- 2026-11-12 [Session ended without a report: Re-run of as_o5vkqc596v (Pix 1's desk exited -1 at 17:56Z after 32k tokens, nothing reported). First `git fetch` and lo…](docs/report/2026-11/2026-11-12-session-ended-without-a-report-re-run-of-as-o5vkqc-h73jirxk.md) `dc_6dh73jirxk` · Pix 2
+- 2026-11-12 [Session ended without a report: 1:1 decisions 6 and 12: no rule ask from a bare act_in_1on1, the "deciding, not doing" line in the oversight doc; and close draft PR #436 (chain grant cut)](docs/report/2026-11/2026-11-12-session-ended-without-a-report-1-1-decisions-6-and-eai20u3j.md) `dc_8zeai20u3j` · Pix 1
 - 2026-11-12 [Decision 18 planned: gr_pdja05z2f1 "Queue health: gates, budget and the human's time" proposed (500k, 4 steps)](docs/report/2026-11/2026-11-12-decision-18-planned-gr-pdja05z2f1-queue-health-gat-jaspa411.md) `dc_0ljaspa411` · Pix 3
 - 2026-11-12 [Stopped as a duplicate of Pix 1 (as_o5vkqc596v); nothing written](docs/report/2026-11/2026-11-12-stopped-as-a-duplicate-of-pix-1-as-o5vkqc596v-noth-quetyi9k.md) `dc_8wquetyi9k` · Pix 4
 - 2026-11-12 [Message from Mitchell (via Pix 2): Pix 2: got it. I'm reshaping it so who answers an entry is a pure exported func…](docs/report/2026-11/2026-11-12-message-from-mitchell-via-pix-2-pix-2-got-it-i-m-r-fww463og.md) `dc_wmfww463og` · Town
@@ -154,11 +159,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-12 [Export push survives foreign commits: PR #429 open, parked on CI](docs/report/2026-11/2026-11-12-export-push-survives-foreign-commits-pr-429-open-p-lky076sq.md) `dc_r1lky076sq` · Pix 1
 - 2026-11-12 [PR #427 merged (b6ac76b0): residents publish; parked on deploy](docs/report/2026-11/2026-11-12-pr-427-merged-b6ac76b0-residents-publish-parked-on-76a7tuv6.md) `dc_aq76a7tuv6` · Pix 4
 - 2026-11-12 [PR #426 merged (7be84c3c): web for every manager's 1:1 and the Secretary; parked on deploy](docs/report/2026-11/2026-11-12-pr-426-merged-7be84c3c-web-for-every-manager-s-1-1-r08tuot9.md) `dc_r7r08tuot9` · Pix 1
-- 2026-11-12 [Residents publish: PR #427 open, parked on CI](docs/report/2026-11/2026-11-12-residents-publish-pr-427-open-parked-on-ci-ygymymkm.md) `dc_miygymymkm` · Pix 1
-- 2026-11-12 [Web for every manager's 1:1 and the Secretary's sessions: PR #426 open, parked on CI](docs/report/2026-11/2026-11-12-web-for-every-manager-s-1-1-and-the-secretary-s-se-dxiu72s1.md) `dc_2jdxiu72s1` · Pix 2
-- 2026-11-12 [Rollup 58: chain rule stopped on UI / UX under the Workshop's goal (your call); onboarding sweep 13 live, day 3 of 7; root repo set, first export check and two 1:1 decisions queued](docs/report/2026-11/2026-11-12-rollup-58-chain-rule-stopped-on-ui-ux-under-the-wo-63frkzda.md) `dc_tw63frkzda` · Pix
-- 2026-11-12 [Chain rule stopped before code: UI / UX already sits under the Workshop's goal on muster.town](docs/report/2026-11/2026-11-12-chain-rule-stopped-before-code-ui-ux-already-sits-838kcg6c.md) `dc_q0838kcg6c` · Pix 1
-- 2026-11-12 [Message from Mitchell (via Secretary): From Mitchell's 1:1 with me (mt_msnjkpgwdb, now): he funded gr_2r17x8egrc (chai…](docs/report/2026-11/2026-11-12-message-from-mitchell-via-secretary-from-mitchell-xkbqs53w.md) `dc_qwxkbqs53w` · Town
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

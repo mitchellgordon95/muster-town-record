@@ -8,10 +8,10 @@ authorKind: "agent"
 buildingId: "bl_xvgnd1fvh6"
 provenance: {"sourceIds":[],"urls":[]}
 tags: ["data"]
-requestStatus: "claimed"
+requestStatus: "done"
 claimedByUserId: "us_1la74k332n"
 createdAt: "2026-11-12T14:42:31.046Z"
-updatedAt: "2026-11-12T16:50:01.238Z"
+updatedAt: "2026-11-12T17:31:35.756Z"
 ---
 You chose UptimeRobot's free plan over a pinger agent today (your 1:1 with Secretary, decision 3). Prod has filed the grant; its step 2 needs these from you. About 6 screens, once:
 

@@ -16,8 +16,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 - 2026-10-21 [Brief: Secrets PR 1, scoped grants stored in the DB and managed at the Town Hall (for Dara)](docs/assignment-proposal/2026-10/2026-10-21-brief-secrets-pr-1-scoped-grants-stored-in-the-db-e6u6i7d2.md) `dc_6xe6u6i7d2` · Cleo
 
-## fyi (19)
+## fyi (21)
 
+- 2026-11-12 [RED 2 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-12-red-2-claude-sessions-failed-in-15-min-r7mt0tq3.md) `dc_ljr7mt0tq3` · Town
+- 2026-11-12 [CLEARED RED sessions: 1 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-12-cleared-red-sessions-1-claude-sessions-failed-in-1-kwa7n9h8.md) `dc_4gkwa7n9h8` · Town
 - 2026-11-12 [CLEARED RED redeploy-failed: redeploy failed 5 min ago: main is not live: re-run the redeploy, read the failed step's event output](docs/fyi/2026-11/2026-11-12-cleared-red-redeploy-failed-redeploy-failed-5-min-iq9jphd9.md) `dc_gqiq9jphd9` · Town
 - 2026-11-04 [CLEARED YELLOW backup: last off-site backup 0.1 h ago](docs/fyi/2026-11/2026-11-04-cleared-yellow-backup-last-off-site-backup-0-1-h-a-jce9w0ie.md) `dc_vojce9w0ie` · Town
 - 2026-11-04 [CLEARED YELLOW ws: 0 WebSocket errors in 5 min](docs/fyi/2026-11/2026-11-04-cleared-yellow-ws-0-websocket-errors-in-5-min-7trks8sf.md) `dc_xg7trks8sf` · Town
@@ -89,8 +91,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (329)
+## report (333)
 
+- 2026-11-12 [#437 live (probe POST 404); #438 merged as 6185b997, waiting for it to go live](docs/report/2026-11/2026-11-12-437-live-probe-post-404-438-merged-as-6185b997-wai-thd1d0wt.md) `dc_pxthd1d0wt` · Cleo 1
+- 2026-11-12 [Session ended without a report: Why did three desk sessions die with desk exited -1 between 17:10 and 17:56Z today?](docs/report/2026-11/2026-11-12-session-ended-without-a-report-why-did-three-desk-qgsgl8oq.md) `dc_olqgsgl8oq` · Cleo 1
+- 2026-11-12 [Step 1 merged (#437); step 2 PR #438 open, waiting on CI](docs/report/2026-11/2026-11-12-step-1-merged-437-step-2-pr-438-open-waiting-on-ci-4ifk957k.md) `dc_0a4ifk957k` · Cleo 1
+- 2026-11-12 [Answer to Cleo's request UptimeRobot free plan: one monitor on muster.town, a status…: done](docs/report/2026-11/2026-11-12-answer-to-cleo-s-request-uptimerobot-free-plan-one-dp5dch15.md) `dc_qldp5dch15` · Town
 - 2026-11-12 [Probe path removal: PR #437 open, waiting on CI](docs/report/2026-11/2026-11-12-probe-path-removal-pr-437-open-waiting-on-ci-musmivk2.md) `dc_hcmusmivk2` · Cleo 1
 - 2026-11-12 [A week of merge-to-live timings: median 18.5 min, and the 15-min promote debounce holds 46 % of it](docs/report/2026-11/2026-11-12-a-week-of-merge-to-live-timings-median-18-5-min-an-kp08xjsy.md) `dc_fvkp08xjsy` · Cleo 1
 - 2026-11-12 [Prod rollup #47: Uptime block live but unmeasured, gr_rcj8nkbkbt cut, successor proposal gr_hbz0twkfp9 (UptimeRobot free plan) filed; deploy card change list verified](docs/report/2026-11/2026-11-12-prod-rollup-47-uptime-block-live-but-unmeasured-gr-gmqaejy4.md) `dc_92gmqaejy4` · Cleo
@@ -117,10 +123,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-10 [gr_8cdix9mpye step 3b phase 1: Wright's box can host the proof town but he waits for Mitchell's direct go-ahead](docs/report/2026-11/2026-11-10-gr-8cdix9mpye-step-3b-phase-1-wright-s-box-can-hos-8b26utv1.md) `dc_3b8b26utv1` · Cleo 1
 - 2026-11-10 [Message from Mitchell (via Secretary): From Mitchell in our 1:1 (mt_ewxnhs90cq, 17:38 UTC) on your outbox request dc_n…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-secretary-from-mitchell-1z9qs0zx.md) `dc_9f1z9qs0zx` · Town
 - 2026-11-09 [Prod rollup #44 (close report for gr_q1jrelx2ty, 513,006 / 800,000): a stranger can run their own Muster Town from the published image; CI proves the image boots and restores a backup on every green main](docs/report/2026-11/2026-11-09-prod-rollup-44-close-report-for-gr-q1jrelx2ty-513-kmunmsjc.md) `dc_bpkmunmsjc` · Cleo
-- 2026-11-09 [gr_q1jrelx2ty step 4 done: PR #392 merged (b9a248b0), self-host path B pulls the ghcr image; all 4 KRs claimed, ready to close (fork can't call close_grant)](docs/report/2026-11/2026-11-09-gr-q1jrelx2ty-step-4-done-pr-392-merged-b9a248b0-s-6drno42y.md) `dc_316drno42y` · Cleo 1
-- 2026-11-09 [Grant gr_q1jrelx2ty adjusted: 800,000 tokens](docs/report/2026-11/2026-11-09-grant-gr-q1jrelx2ty-adjusted-800-000-tokens-q136tvjw.md) `dc_tjq136tvjw` · Town
-- 2026-11-09 [Grant gr_z2v838adk9 cut](docs/report/2026-11/2026-11-09-grant-gr-z2v838adk9-cut-s4di6xfq.md) `dc_f1s4di6xfq` · Town
-- 2026-11-09 [Prod rollup #43 (close report for gr_w9ue1k1p0c): redeploys no longer throw away sessions or page anyone, proved over 7 days and 87 restarts; grant closed, 590,789 tokens returned](docs/report/2026-11/2026-11-09-prod-rollup-43-close-report-for-gr-w9ue1k1p0c-rede-es6f5hvy.md) `dc_cges6f5hvy` · Cleo
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
