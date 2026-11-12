@@ -57,8 +57,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-09 [Legible Delegation: the vision doc and the new in-tray, grant and ask rules](docs/fyi/2026-11/2026-11-09-legible-delegation-the-vision-doc-and-the-new-in-t-hule9k3p.md) `dc_jbhule9k3p` · Mitchell
 - 2026-10-31 [RESOLVED 02:41Z 10-31: `tell` and `stop_fork` to a live Workshop fork are safe again (desk-death fix 1df29a4 live-checked)](docs/fyi/2026-10/2026-10-31-resolved-02-41z-10-31-tell-and-stop-fork-to-a-live-37yf719x.md) `dc_2337yf719x` · Pix
 
-## meeting-notes (90)
+## meeting-notes (92)
 
+- 2026-11-12 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-12-1-1-mitchell-and-pix-notes-p3lfvp2d.md) `dc_rbp3lfvp2d` · Pix
+- 2026-11-12 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-12-1-1-mitchell-and-pix-notes-jyobp1v7.md) `dc_bzjyobp1v7` · Pix
 - 2026-11-10 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-10-1-1-mitchell-and-pix-notes-70j9k6e9.md) `dc_7l70j9k6e9` · Pix
 - 2026-11-10 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-10-1-1-mitchell-and-pix-notes-frvnz54u.md) `dc_09frvnz54u` · Pix
 - 2026-11-08 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-08-1-1-mitchell-and-pix-notes-nuaepkhx.md) `dc_eanuaepkhx` · Pix
@@ -87,8 +89,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-pix-notes-2aazai2p.md) `dc_6k2aazai2p` · Pix
 - 2026-10-31 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-pix-notes-x7ux5al3.md) `dc_1tx7ux5al3` · Pix
 - 2026-10-31 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-pix-notes-vwbdzorc.md) `dc_gavwbdzorc` · Pix
-- 2026-10-31 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-pix-notes-wdam5oe3.md) `dc_jwwdam5oe3` · Pix
-- 2026-10-31 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-pix-notes-t1o493cj.md) `dc_f5t1o493cj` · Pix
 
 All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-notes/2026-10/)
 
@@ -127,8 +127,15 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1152)
+## report (1159)
 
+- 2026-11-12 [Onboarding sweep 14 (checked 73297901 → 6e20eef0): 0 stale, 2 gaps fixed in the manual; PR #442 open, parked on CI](docs/report/2026-11/2026-11-12-onboarding-sweep-14-checked-73297901-6e20eef0-0-st-f738imq7.md) `dc_c7f738imq7` · Pix 1
+- 2026-11-12 [Grant gr_9mp6v6vv8k closed (done)](docs/report/2026-11/2026-11-12-grant-gr-9mp6v6vv8k-closed-done-ts7vq46p.md) `dc_fxts7vq46p` · Town
+- 2026-11-12 [Key result kr_o8dbx2axii marked met by Mitchell](docs/report/2026-11/2026-11-12-key-result-kr-o8dbx2axii-marked-met-by-mitchell-duidycre.md) `dc_dqduidycre` · Town
+- 2026-11-12 [Key result kr_uncaesm191 marked met by Mitchell](docs/report/2026-11/2026-11-12-key-result-kr-uncaesm191-marked-met-by-mitchell-ta29cpqx.md) `dc_5dta29cpqx` · Town
+- 2026-11-12 [Key result kr_xzdcf7d5i3 marked met by Mitchell](docs/report/2026-11/2026-11-12-key-result-kr-xzdcf7d5i3-marked-met-by-mitchell-lyxxw8py.md) `dc_3nlyxxw8py` · Town
+- 2026-11-12 [Key result kr_0neb2wqafu marked met by Mitchell](docs/report/2026-11/2026-11-12-key-result-kr-0neb2wqafu-marked-met-by-mitchell-zmprqonh.md) `dc_c1zmprqonh` · Town
+- 2026-11-12 [Session ended without a report: Fix: a grant step's session that dies without a report leaves its assignment active forever (the runtime's fallback report is refused by the `left` rule); repair as_0rk](docs/report/2026-11/2026-11-12-session-ended-without-a-report-fix-a-grant-step-s-dt59734h.md) `dc_6qdt59734h` · Pix 1
 - 2026-11-12 [ff90449e live: act_in_1on1 and Keep file no ledger ask (1:1 decisions 6+12 done)](docs/report/2026-11/2026-11-12-ff90449e-live-act-in-1on1-and-keep-file-no-ledger-31y28jbq.md) `dc_kp31y28jbq` · Pix 2
 - 2026-11-12 [PR #439 green and merged as ff90449e; parked on its deploy](docs/report/2026-11/2026-11-12-pr-439-green-and-merged-as-ff90449e-parked-on-its-zwrfm60u.md) `dc_nszwrfm60u` · Pix 2
 - 2026-11-12 [1:1 decisions 6+12: PR #439 open (no ledger ask from act_in_1on1 or Keep; oversight line); PR #436 closed; parked on CI](docs/report/2026-11/2026-11-12-1-1-decisions-6-12-pr-439-open-no-ledger-ask-from-7zprb5pz.md) `dc_be7zprb5pz` · Pix 2
@@ -152,13 +159,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-12 [PR #432 merged (7c182fe7); parked on deploy to live-check /api/jobs/gr_9mp6v6vv8k](docs/report/2026-11/2026-11-12-pr-432-merged-7c182fe7-parked-on-deploy-to-live-ch-c4k6fcar.md) `dc_blc4k6fcar` · Pix 2
 - 2026-11-12 [Residents publish is live; the non-manager publish check waits on an admin letting the test account in](docs/report/2026-11/2026-11-12-residents-publish-is-live-the-non-manager-publish-92hunylm.md) `dc_6o92hunylm` · Pix 4
 - 2026-11-12 [Web for the Secretary: live, session restarted under 7be84c3c; WebFetch not yet exercised, parked to re-check](docs/report/2026-11/2026-11-12-web-for-the-secretary-live-session-restarted-under-my2607r0.md) `dc_n7my2607r0` · Pix 3
-- 2026-11-12 [Jobs and entries, read only: PR #432 open, parked on CI](docs/report/2026-11/2026-11-12-jobs-and-entries-read-only-pr-432-open-parked-on-c-kisf9v80.md) `dc_3lkisf9v80` · Pix 2
-- 2026-11-12 [Sweep retainer sc_nx8bwd5e5o is still "asked" (80k open in the Town Hall); today's 19:00Z run will fire and be held](docs/report/2026-11/2026-11-12-sweep-retainer-sc-nx8bwd5e5o-is-still-asked-80k-op-rnfd7nkw.md) `dc_ndrnfd7nkw` · Pix 1
-- 2026-11-12 [PR #429 merged (3602776a): export push survives foreign commits; parked on deploy](docs/report/2026-11/2026-11-12-pr-429-merged-3602776a-export-push-survives-foreig-j3vz310g.md) `dc_f5j3vz310g` · Pix 1
-- 2026-11-12 [PR #429 CI failed on knip (unused export); fixed in 085da787, parked on CI again](docs/report/2026-11/2026-11-12-pr-429-ci-failed-on-knip-unused-export-fixed-in-08-bmfy29d8.md) `dc_2ybmfy29d8` · Pix 1
-- 2026-11-12 [Export push survives foreign commits: PR #429 open, parked on CI](docs/report/2026-11/2026-11-12-export-push-survives-foreign-commits-pr-429-open-p-lky076sq.md) `dc_r1lky076sq` · Pix 1
-- 2026-11-12 [PR #427 merged (b6ac76b0): residents publish; parked on deploy](docs/report/2026-11/2026-11-12-pr-427-merged-b6ac76b0-residents-publish-parked-on-76a7tuv6.md) `dc_aq76a7tuv6` · Pix 4
-- 2026-11-12 [PR #426 merged (7be84c3c): web for every manager's 1:1 and the Secretary; parked on deploy](docs/report/2026-11/2026-11-12-pr-426-merged-7be84c3c-web-for-every-manager-s-1-1-r08tuot9.md) `dc_r7r08tuot9` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

@@ -27730,8 +27730,8 @@
   },
   {
     "id": "dc_ljr7mt0tq3",
-    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-12-red-2-claude-sessions-failed-in-15-min-r7mt0tq3.md",
-    "title": "[RED] 2 Claude sessions failed in 15 min",
+    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-12-cleared-red-sessions-2-claude-sessions-failed-in-1-r7mt0tq3.md",
+    "title": "[CLEARED] RED sessions: 2 Claude sessions failed in 15 min",
     "type": "fyi",
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
@@ -27781,5 +27781,167 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-12T18:28:45.850Z"
+  },
+  {
+    "id": "dc_6qdt59734h",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-session-ended-without-a-report-fix-a-grant-step-s-dt59734h.md",
+    "title": "Session ended without a report: Fix: a grant step's session that dies without a report leaves its assignment active forever (the runtime's fallback report is refused by the `left` rule); repair as_0rk",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T18:33:46.877Z"
+  },
+  {
+    "id": "dc_07iqdgguqr",
+    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-12-cleared-yellow-sessions-2-claude-sessions-failed-i-iqdgguqr.md",
+    "title": "[CLEARED] YELLOW sessions: 2 Claude sessions failed in 15 min",
+    "type": "fyi",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T18:34:16.192Z"
+  },
+  {
+    "id": "dc_vnyqdy2c7f",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-12-message-from-mitchell-via-pix-fourth-desk-death-in-yqdy2c7f.md",
+    "title": "Message from Mitchell (via Pix): Fourth desk death in the Workshop today, for your Machine-events pull: Pix 1 (a…",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T18:34:25.657Z"
+  },
+  {
+    "id": "dc_ky2qy58het",
+    "path": "buildings/bl_xvgnd1fvh6/docs/wiki/2026-11/2026-11-12-desk-sessions-dying-with-desk-exited-1-2qy58het.md",
+    "title": "Desk sessions dying with desk exited -1",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T18:45:20.529Z"
+  },
+  {
+    "id": "dc_2flyb8z736",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-12-desk-exited-1-two-causes-found-vitest-isolate-fals-lyb8z736.md",
+    "title": "Desk exited -1: two causes found (vitest isolate:false memory, re-queue onto frozen desk); PR #440 waiting on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T18:45:41.716Z"
+  },
+  {
+    "id": "dc_x3fbzp82dz",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-12-api-uptime-live-from-uptimerobot-100-matches-statu-fbzp82dz.md",
+    "title": "/api/uptime live from UptimeRobot, 100 % matches status page; PR #441 fixes the missing status link",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T18:50:06.726Z"
+  },
+  {
+    "id": "dc_gosea45h48",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-12-440-merged-as-210b4262-desk-1-fixes-parked-until-i-sea45h48.md",
+    "title": "#440 merged as 210b4262 (desk -1 fixes); parked until it is live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T18:51:18.457Z"
+  },
+  {
+    "id": "dc_c1zmprqonh",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-key-result-kr-0neb2wqafu-marked-met-by-mitchell-zmprqonh.md",
+    "title": "Key result kr_0neb2wqafu marked met by Mitchell",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T18:51:19.019Z"
+  },
+  {
+    "id": "dc_3nlyxxw8py",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-key-result-kr-xzdcf7d5i3-marked-met-by-mitchell-lyxxw8py.md",
+    "title": "Key result kr_xzdcf7d5i3 marked met by Mitchell",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T18:51:19.024Z"
+  },
+  {
+    "id": "dc_5dta29cpqx",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-key-result-kr-uncaesm191-marked-met-by-mitchell-ta29cpqx.md",
+    "title": "Key result kr_uncaesm191 marked met by Mitchell",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T18:51:19.028Z"
+  },
+  {
+    "id": "dc_dqduidycre",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-key-result-kr-o8dbx2axii-marked-met-by-mitchell-duidycre.md",
+    "title": "Key result kr_o8dbx2axii marked met by Mitchell",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T18:51:19.032Z"
+  },
+  {
+    "id": "dc_fxts7vq46p",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-grant-gr-9mp6v6vv8k-closed-done-ts7vq46p.md",
+    "title": "Grant gr_9mp6v6vv8k closed (done)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T18:51:19.046Z"
+  },
+  {
+    "id": "dc_idckpbjag8",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-12-prod-rollup-49-the-uptime-block-now-shows-uptimero-ckpbjag8.md",
+    "title": "Prod rollup #49: the Uptime block now shows UptimeRobot's number with no agent in the loop; seven desk deaths today diagnosed and fixed in #440",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T18:52:24.054Z"
+  },
+  {
+    "id": "dc_bzjyobp1v7",
+    "path": "buildings/workshop/docs/meeting-notes/2026-11/2026-11-12-1-1-mitchell-and-pix-notes-jyobp1v7.md",
+    "title": "1:1: Mitchell and Pix — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T18:52:24.121Z"
+  },
+  {
+    "id": "dc_enrkwgeno2",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-12-441-merged-as-6e20eef0-status-page-link-stopped-be-rkwgeno2.md",
+    "title": "#441 merged as 6e20eef0 (status-page link); stopped before it went live (Prod paused)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T18:59:38.895Z"
+  },
+  {
+    "id": "dc_bspa4moxl0",
+    "path": "buildings/bl_xvgnd1fvh6/docs/meeting-notes/2026-11/2026-11-12-1-1-mitchell-and-cleo-notes-pa4moxl0.md",
+    "title": "1:1: Mitchell and Cleo — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T19:01:46.555Z"
+  },
+  {
+    "id": "dc_c7f738imq7",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-onboarding-sweep-14-checked-73297901-6e20eef0-0-st-f738imq7.md",
+    "title": "Onboarding sweep 14 (checked 73297901 → 6e20eef0): 0 stale, 2 gaps fixed in the manual; PR #442 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T19:02:13.014Z"
+  },
+  {
+    "id": "dc_rbp3lfvp2d",
+    "path": "buildings/workshop/docs/meeting-notes/2026-11/2026-11-12-1-1-mitchell-and-pix-notes-p3lfvp2d.md",
+    "title": "1:1: Mitchell and Pix — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T19:04:29.444Z"
   }
 ]

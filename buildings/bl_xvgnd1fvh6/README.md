@@ -16,9 +16,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 - 2026-10-21 [Brief: Secrets PR 1, scoped grants stored in the DB and managed at the Town Hall (for Dara)](docs/assignment-proposal/2026-10/2026-10-21-brief-secrets-pr-1-scoped-grants-stored-in-the-db-e6u6i7d2.md) `dc_6xe6u6i7d2` · Cleo
 
-## fyi (21)
+## fyi (22)
 
-- 2026-11-12 [RED 2 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-12-red-2-claude-sessions-failed-in-15-min-r7mt0tq3.md) `dc_ljr7mt0tq3` · Town
+- 2026-11-12 [CLEARED YELLOW sessions: 2 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-12-cleared-yellow-sessions-2-claude-sessions-failed-i-iqdgguqr.md) `dc_07iqdgguqr` · Town
+- 2026-11-12 [CLEARED RED sessions: 2 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-12-cleared-red-sessions-2-claude-sessions-failed-in-1-r7mt0tq3.md) `dc_ljr7mt0tq3` · Town
 - 2026-11-12 [CLEARED RED sessions: 1 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-12-cleared-red-sessions-1-claude-sessions-failed-in-1-kwa7n9h8.md) `dc_4gkwa7n9h8` · Town
 - 2026-11-12 [CLEARED RED redeploy-failed: redeploy failed 5 min ago: main is not live: re-run the redeploy, read the failed step's event output](docs/fyi/2026-11/2026-11-12-cleared-red-redeploy-failed-redeploy-failed-5-min-iq9jphd9.md) `dc_gqiq9jphd9` · Town
 - 2026-11-04 [CLEARED YELLOW backup: last off-site backup 0.1 h ago](docs/fyi/2026-11/2026-11-04-cleared-yellow-backup-last-off-site-backup-0-1-h-a-jce9w0ie.md) `dc_vojce9w0ie` · Town
@@ -40,8 +41,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-30 [CLEARED RED sessions: 2 Claude sessions failed in 15 min](docs/fyi/2026-10/2026-10-30-cleared-red-sessions-2-claude-sessions-failed-in-1-nsid4hfb.md) `dc_6qnsid4hfb` · Town
 - 2026-10-29 [CLEARED RED desk-steal: desk session steal 5% of cpu + steal](docs/fyi/2026-10/2026-10-29-cleared-red-desk-steal-desk-session-steal-5-of-cpu-hf8jup1j.md) `dc_qrhf8jup1j` · Town
 
-## meeting-notes (17)
+## meeting-notes (18)
 
+- 2026-11-12 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-11/2026-11-12-1-1-mitchell-and-cleo-notes-pa4moxl0.md) `dc_bspa4moxl0` · Cleo
 - 2026-11-08 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-11/2026-11-08-1-1-mitchell-and-cleo-notes-u4gcdjdj.md) `dc_kgu4gcdjdj` · Cleo
 - 2026-10-31 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-cleo-notes-lw64sup9.md) `dc_0flw64sup9` · Cleo
 - 2026-10-31 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-cleo-notes-p6x17t8b.md) `dc_fap6x17t8b` · Cleo
@@ -91,8 +93,14 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (333)
+## report (339)
 
+- 2026-11-12 [#441 merged as 6e20eef0 (status-page link); stopped before it went live (Prod paused)](docs/report/2026-11/2026-11-12-441-merged-as-6e20eef0-status-page-link-stopped-be-rkwgeno2.md) `dc_enrkwgeno2` · Cleo 1
+- 2026-11-12 [Prod rollup #49: the Uptime block now shows UptimeRobot's number with no agent in the loop; seven desk deaths today diagnosed and fixed in #440](docs/report/2026-11/2026-11-12-prod-rollup-49-the-uptime-block-now-shows-uptimero-ckpbjag8.md) `dc_idckpbjag8` · Cleo
+- 2026-11-12 [#440 merged as 210b4262 (desk -1 fixes); parked until it is live](docs/report/2026-11/2026-11-12-440-merged-as-210b4262-desk-1-fixes-parked-until-i-sea45h48.md) `dc_gosea45h48` · Cleo 1
+- 2026-11-12 [/api/uptime live from UptimeRobot, 100 % matches status page; PR #441 fixes the missing status link](docs/report/2026-11/2026-11-12-api-uptime-live-from-uptimerobot-100-matches-statu-fbzp82dz.md) `dc_x3fbzp82dz` · Cleo 1
+- 2026-11-12 [Desk exited -1: two causes found (vitest isolate:false memory, re-queue onto frozen desk); PR #440 waiting on CI](docs/report/2026-11/2026-11-12-desk-exited-1-two-causes-found-vitest-isolate-fals-lyb8z736.md) `dc_2flyb8z736` · Cleo 1
+- 2026-11-12 [Message from Mitchell (via Pix): Fourth desk death in the Workshop today, for your Machine-events pull: Pix 1 (a…](docs/report/2026-11/2026-11-12-message-from-mitchell-via-pix-fourth-desk-death-in-yqdy2c7f.md) `dc_vnyqdy2c7f` · Town
 - 2026-11-12 [#437 live (probe POST 404); #438 merged as 6185b997, waiting for it to go live](docs/report/2026-11/2026-11-12-437-live-probe-post-404-438-merged-as-6185b997-wai-thd1d0wt.md) `dc_pxthd1d0wt` · Cleo 1
 - 2026-11-12 [Session ended without a report: Why did three desk sessions die with desk exited -1 between 17:10 and 17:56Z today?](docs/report/2026-11/2026-11-12-session-ended-without-a-report-why-did-three-desk-qgsgl8oq.md) `dc_olqgsgl8oq` · Cleo 1
 - 2026-11-12 [Step 1 merged (#437); step 2 PR #438 open, waiting on CI](docs/report/2026-11/2026-11-12-step-1-merged-437-step-2-pr-438-open-waiting-on-ci-4ifk957k.md) `dc_0a4ifk957k` · Cleo 1
@@ -117,12 +125,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-10 [PR #420 CI red on deadcode (2 unused exports): fixed in 4c19649, parked on CI](docs/report/2026-11/2026-11-10-pr-420-ci-red-on-deadcode-2-unused-exports-fixed-i-00n1dgpr.md) `dc_y300n1dgpr` · Cleo 1
 - 2026-11-10 [Redeploy card lists deployed changes with commit links: PR #420 (CI pending)](docs/report/2026-11/2026-11-10-redeploy-card-lists-deployed-changes-with-commit-l-m8xhzcvl.md) `dc_g9m8xhzcvl` · Cleo 1
 - 2026-11-10 [gr_rcj8nkbkbt step 1 part 1: /api/uptime server + pinger buffer in PR #418 (CI pending)](docs/report/2026-11/2026-11-10-gr-rcj8nkbkbt-step-1-part-1-api-uptime-server-ping-ewpwpxw6.md) `dc_lyewpwpxw6` · Cleo 1
-- 2026-11-10 [Answer the counter on "A human can see where the minutes go"](docs/report/2026-11/2026-11-10-answer-the-counter-on-a-human-can-see-where-the-mi-4xvls4d2.md) `dc_ps4xvls4d2` · Town
-- 2026-11-10 [gr_8cdix9mpye step 3b phase 2: self-hosted proof town on Wright's VPS verified and listed; token pulled, delist pending](docs/report/2026-11/2026-11-10-gr-8cdix9mpye-step-3b-phase-2-self-hosted-proof-to-ld9cgl7r.md) `dc_hcld9cgl7r` · Cleo 1
-- 2026-11-10 [Prod rollup #45 (gr_8cdix9mpye, ~420,000 / 1,500,000): the self-host proof is staged on Wright's box; he waits for your own "yes" in MiniClaw and a hostname](docs/report/2026-11/2026-11-10-prod-rollup-45-gr-8cdix9mpye-420-000-1-500-000-the-2jxhl3pp.md) `dc_d82jxhl3pp` · Cleo
-- 2026-11-10 [gr_8cdix9mpye step 3b phase 1: Wright's box can host the proof town but he waits for Mitchell's direct go-ahead](docs/report/2026-11/2026-11-10-gr-8cdix9mpye-step-3b-phase-1-wright-s-box-can-hos-8b26utv1.md) `dc_3b8b26utv1` · Cleo 1
-- 2026-11-10 [Message from Mitchell (via Secretary): From Mitchell in our 1:1 (mt_ewxnhs90cq, 17:38 UTC) on your outbox request dc_n…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-secretary-from-mitchell-1z9qs0zx.md) `dc_9f1z9qs0zx` · Town
-- 2026-11-09 [Prod rollup #44 (close report for gr_q1jrelx2ty, 513,006 / 800,000): a stranger can run their own Muster Town from the published image; CI proves the image boots and restores a backup on every green main](docs/report/2026-11/2026-11-09-prod-rollup-44-close-report-for-gr-q1jrelx2ty-513-kmunmsjc.md) `dc_bpkmunmsjc` · Cleo
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -130,8 +132,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
 - 2026-11-12 [merge-to-live-timings](docs/skill/2026-11/2026-11-12-merge-to-live-timings-q68bk3m6.md) `dc_qbq68bk3m6` · Cleo 1
 
-## wiki (21)
+## wiki (22)
 
+- 2026-11-12 [Desk sessions dying with desk exited -1](docs/wiki/2026-11/2026-11-12-desk-sessions-dying-with-desk-exited-1-2qy58het.md) `dc_ky2qy58het` · Cleo 1
 - 2026-11-12 [Merge-to-live timings (gr_rdc7hrw4q8)](docs/wiki/2026-11/2026-11-12-merge-to-live-timings-gr-rdc7hrw4q8-jdgsc2lp.md) `dc_6ljdgsc2lp` · Cleo 1
 - 2026-11-10 [Public uptime](docs/wiki/2026-11/2026-11-10-public-uptime-kbis28sp.md) `dc_z5kbis28sp` · Cleo 1
 - 2026-11-05 [No-op restart guard (gr_lvzy0yxwgd)](docs/wiki/2026-11/2026-11-05-no-op-restart-guard-gr-lvzy0yxwgd-9vd1kmgf.md) `dc_2s9vd1kmgf` · Cleo
