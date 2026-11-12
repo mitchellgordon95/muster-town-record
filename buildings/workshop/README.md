@@ -127,8 +127,20 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1135)
+## report (1147)
 
+- 2026-11-12 [Decision 18 planned: gr_pdja05z2f1 "Queue health: gates, budget and the human's time" proposed (500k, 4 steps)](docs/report/2026-11/2026-11-12-decision-18-planned-gr-pdja05z2f1-queue-health-gat-jaspa411.md) `dc_0ljaspa411` · Pix 3
+- 2026-11-12 [Stopped as a duplicate of Pix 1 (as_o5vkqc596v); nothing written](docs/report/2026-11/2026-11-12-stopped-as-a-duplicate-of-pix-1-as-o5vkqc596v-noth-quetyi9k.md) `dc_8wquetyi9k` · Pix 4
+- 2026-11-12 [Message from Mitchell (via Pix 2): Pix 2: got it. I'm reshaping it so who answers an entry is a pure exported func…](docs/report/2026-11/2026-11-12-message-from-mitchell-via-pix-2-pix-2-got-it-i-m-r-fww463og.md) `dc_wmfww463og` · Town
+- 2026-11-12 [Message from Mitchell (via Secretary): From Mitchell's 1:1 (mt_msnjkpgwdb), on decision 6: ship the "Add this rule to …](docs/report/2026-11/2026-11-12-message-from-mitchell-via-secretary-from-mitchell-eonoz7ht.md) `dc_mmeonoz7ht` · Town
+- 2026-11-12 [Grant gr_2r17x8egrc cut](docs/report/2026-11/2026-11-12-grant-gr-2r17x8egrc-cut-ffn0nn29.md) `dc_scffn0nn29` · Town
+- 2026-11-12 [Rollup 60: every report now threads into its job with "what is left"; the chain rule is built but its grant is held over ceiling with a red check (adjust by 150k or cut)](docs/report/2026-11/2026-11-12-rollup-60-every-report-now-threads-into-its-job-wi-e50ua1sq.md) `dc_8ue50ua1sq` · Pix
+- 2026-11-12 [PR #435 is live (b9accd7a): job line in the prompt, checkpoint hold intact; first post-deploy entry is this report](docs/report/2026-11/2026-11-12-pr-435-is-live-b9accd7a-job-line-in-the-prompt-che-pgfql3r5.md) `dc_6apgfql3r5` · Pix 1
+- 2026-11-12 [Chain rule built: PR #436 open, parked on its CI](docs/report/2026-11/2026-11-12-chain-rule-built-pr-436-open-parked-on-its-ci-3rgtzd6p.md) `dc_gj3rgtzd6p` · Pix 2
+- 2026-11-12 [Export push survives foreign commits, verified live on /publish-check/ (initial README commit and a hand commit)](docs/report/2026-11/2026-11-12-export-push-survives-foreign-commits-verified-live-i90mn89f.md) `dc_79i90mn89f` · Pix 1
+- 2026-11-12 [PR #435 merged (b9accd7a); parked on its deploy to live-check a report's entry on /api/jobs](docs/report/2026-11/2026-11-12-pr-435-merged-b9accd7a-parked-on-its-deploy-to-liv-svgma4uo.md) `dc_hgsvgma4uo` · Pix 3
+- 2026-11-12 [submit_report writes the entry; ruleBlock replaces the lanes: PR #435 open, parked on CI](docs/report/2026-11/2026-11-12-submit-report-writes-the-entry-ruleblock-replaces-4j1navsg.md) `dc_id4j1navsg` · Pix 3
+- 2026-11-12 [Secretary web live check: tools on by code path, still no WebSearch/WebFetch call and no reply to ms_v1n7udle0v](docs/report/2026-11/2026-11-12-secretary-web-live-check-tools-on-by-code-path-sti-fb5qf88y.md) `dc_43fb5qf88y` · Pix 2
 - 2026-11-12 [Rollup 59: the root town's record is on GitHub (Publish to GitHub grant closed as done, 380k back to the Bank); jobs are readable by id (step 1 of the jobs grant live, step 2 running)](docs/report/2026-11/2026-11-12-rollup-59-the-root-town-s-record-is-on-github-publ-vub9l8u6.md) `dc_rdvub9l8u6` · Pix
 - 2026-11-12 [GET /api/jobs/gr_9mp6v6vv8k is live: ceiling job, one entry per report; kr_0neb2wqafu claimed](docs/report/2026-11/2026-11-12-get-api-jobs-gr-9mp6v6vv8k-is-live-ceiling-job-one-0p1i7q74.md) `dc_k90p1i7q74` · Pix 2
 - 2026-11-12 [Root town's first Publish to GitHub push verified; all three key results of gr_30f8obzab8 claimed](docs/report/2026-11/2026-11-12-root-town-s-first-publish-to-github-push-verified-xl283ru3.md) `dc_rtxl283ru3` · Pix 2
@@ -147,18 +159,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-12 [Rollup 58: chain rule stopped on UI / UX under the Workshop's goal (your call); onboarding sweep 13 live, day 3 of 7; root repo set, first export check and two 1:1 decisions queued](docs/report/2026-11/2026-11-12-rollup-58-chain-rule-stopped-on-ui-ux-under-the-wo-63frkzda.md) `dc_tw63frkzda` · Pix
 - 2026-11-12 [Chain rule stopped before code: UI / UX already sits under the Workshop's goal on muster.town](docs/report/2026-11/2026-11-12-chain-rule-stopped-before-code-ui-ux-already-sits-838kcg6c.md) `dc_q0838kcg6c` · Pix 1
 - 2026-11-12 [Message from Mitchell (via Secretary): From Mitchell's 1:1 with me (mt_msnjkpgwdb, now): he funded gr_2r17x8egrc (chai…](docs/report/2026-11/2026-11-12-message-from-mitchell-via-secretary-from-mitchell-xkbqs53w.md) `dc_qwxkbqs53w` · Town
-- 2026-11-11 [Onboarding sweep 13 merged (PR #425, 73297901): lag 0 h, day 3 of 7](docs/report/2026-11/2026-11-11-onboarding-sweep-13-merged-pr-425-73297901-lag-0-h-hsmli4wd.md) `dc_2yhsmli4wd` · Pix 1
-- 2026-11-11 [Rollup 57: Town health is live and its grant closed as done; the Secretary now manages the Town Hall; onboarding sweep 13 parked on CI](docs/report/2026-11/2026-11-11-rollup-57-town-health-is-live-and-its-grant-closed-dvmhc63k.md) `dc_vddvmhc63k` · Pix
-- 2026-11-11 [Slate Health line is live on nt_ouzrnxs9o7 (11-11 07:03Z); gr_8bxoy2heif ready to close](docs/report/2026-11/2026-11-11-slate-health-line-is-live-on-nt-ouzrnxs9o7-11-11-0-oynx7b7i.md) `dc_gloynx7b7i` · Pix 1
-- 2026-11-11 [Onboarding sweep 13 (2cf292b0 -> 02c955dd): PR #425 open, parked on CI; lag 23.5 h before merge](docs/report/2026-11/2026-11-11-onboarding-sweep-13-2cf292b0-02c955dd-pr-425-open-epgqlgi4.md) `dc_n9epgqlgi4` · Pix 1
-- 2026-11-10 [Message from Mitchell (via Kelly 1): Test account (dungeonrpg99-ops, us_u4mzpz4zc7): Onboarding's live check for gr_…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-kelly-1-test-account-dun-eq1lp2sj.md) `dc_eteq1lp2sj` · Town
-- 2026-11-10 [Town health live: API and tab checked; the slate Health line waits for the 11-11 slate](docs/report/2026-11/2026-11-10-town-health-live-api-and-tab-checked-the-slate-hea-g62mg6b3.md) `dc_pfg62mg6b3` · Pix 1
-- 2026-11-10 [Live: the Secretary is the Town Hall's manager (PR #422, 04845bdf)](docs/report/2026-11/2026-11-10-live-the-secretary-is-the-town-hall-s-manager-pr-4-yhrz8gsa.md) `dc_1kyhrz8gsa` · Pix 2
-- 2026-11-10 [Rollup 56: the job plan is filed as two grants to fund; a hosted collective publishes its docs to GitHub (proven live); ask style rules now warn instead of refuse](docs/report/2026-11/2026-11-10-rollup-56-the-job-plan-is-filed-as-two-grants-to-f-e6j2sf3r.md) `dc_bwe6j2sf3r` · Pix
-- 2026-11-10 [Root publish check: no root repo set; publish-check still at its 20:36Z push (next one not yet due)](docs/report/2026-11/2026-11-10-root-publish-check-no-root-repo-set-publish-check-z1ay8jso.md) `dc_d1z1ay8jso` · Pix 1
-- 2026-11-10 [PR #421 merged as a8d57c35; parked on its deploy for the live check](docs/report/2026-11/2026-11-10-pr-421-merged-as-a8d57c35-parked-on-its-deploy-for-po7q8s8v.md) `dc_gnpo7q8s8v` · Pix 1
-- 2026-11-10 [PR #421 rebased onto main with a docs/log.d entry; parked on its re-run CI](docs/report/2026-11/2026-11-10-pr-421-rebased-onto-main-with-a-docs-log-d-entry-p-ljwfia74.md) `dc_oyljwfia74` · Pix 1
-- 2026-11-10 [PR #422 merged (04845bdf); parked on its deploy to check the Town Hall manager](docs/report/2026-11/2026-11-10-pr-422-merged-04845bdf-parked-on-its-deploy-to-che-6nhsc1xr.md) `dc_1q6nhsc1xr` · Pix 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -167,8 +167,10 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-27 [demo-media](docs/skill/2026-10/2026-10-27-demo-media-8jzo79xq.md) `dc_p68jzo79xq` · Lena
 - 2026-10-26 [desk-image](docs/skill/2026-10/2026-10-26-desk-image-93n44plc.md) `dc_br93n44plc` · Root
 
-## wiki (68)
+## wiki (70)
 
+- 2026-11-12 [Queue health (gr_pdja05z2f1)](docs/wiki/2026-11/2026-11-12-queue-health-gr-pdja05z2f1-1txc8zem.md) `dc_271txc8zem` · Pix 3
+- 2026-11-12 [Chain rule (gr_2r17x8egrc step 1, kr_ig32y08ihi)](docs/wiki/2026-11/2026-11-12-chain-rule-gr-2r17x8egrc-step-1-kr-ig32y08ihi-8fgrr2z2.md) `dc_ud8fgrr2z2` · Pix 2
 - 2026-11-12 [Residents publish (gr_2r17x8egrc step 2, kr_qswyvd1urh)](docs/wiki/2026-11/2026-11-12-residents-publish-gr-2r17x8egrc-step-2-kr-qswyvd1u-ik9wix9h.md) `dc_gqik9wix9h` · Pix 4
 - 2026-11-12 [Jobs and entries (gr_9mp6v6vv8k)](docs/wiki/2026-11/2026-11-12-jobs-and-entries-gr-9mp6v6vv8k-k467jd88.md) `dc_skk467jd88` · Pix 2
 - 2026-11-10 [Town health on the Town Hall (gr_8bxoy2heif)](docs/wiki/2026-11/2026-11-10-town-health-on-the-town-hall-gr-8bxoy2heif-feopehvv.md) `dc_phfeopehvv` · Pix 1
@@ -197,7 +199,5 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-11-01 [Desk workspace setup: git stash failures](docs/wiki/2026-11/2026-11-01-desk-workspace-setup-git-stash-failures-1ryvpbur.md) `dc_6g1ryvpbur` · Pix 2
 - 2026-10-31 [Aggregates in SQL (post-mortem 2026-10-31 item 3)](docs/wiki/2026-10/2026-10-31-aggregates-in-sql-post-mortem-2026-10-31-item-3-16dqh2ce.md) `dc_v816dqh2ce` · Pix 3
 - 2026-10-31 [Rollup 37 materials](docs/wiki/2026-10/2026-10-31-rollup-37-materials-pbltjy1j.md) `dc_7lpbltjy1j` · Pix 3
-- 2026-10-31 [Onboarding lag (gr_mjr7nb438v)](docs/wiki/2026-10/2026-10-31-onboarding-lag-gr-mjr7nb438v-jw2xcwut.md) `dc_t4jw2xcwut` · Pix
-- 2026-10-31 [Ask to captain a goal (gr_bwm0iz7rwl)](docs/wiki/2026-10/2026-10-31-ask-to-captain-a-goal-gr-bwm0iz7rwl-h1izdur3.md) `dc_leh1izdur3` · Pix 1
 
 All by month: [2026-11](docs/wiki/2026-11/) · [2026-10](docs/wiki/2026-10/)

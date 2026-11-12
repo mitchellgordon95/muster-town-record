@@ -10,27 +10,20 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_vd69s5a1nh"
 createdAt: "2026-10-29T04:09:08.218Z"
-updatedAt: "2026-11-12T14:41:53.299Z"
+updatedAt: "2026-11-12T16:35:53.205Z"
 ---
-Objective ob_6j8s2588lp "Build times are fast and observable" (KPI trust, 2026-Q4). kr_cm5qb2wqh7 CI green attempt 1: MET ([dc_pmb7rwi2bf](../../report/2026-10/2026-10-31-key-result-kr-cm5qb2wqh7-marked-met-by-mitchell-b7rwi2bf.md)). kr_939kp3vjxc Fast: CLAIMED. kr_8wilbokqcn Observable: timing line on main + CI job summary DONE (PRs #74, #76).
+Objective ob_6j8s2588lp "Build times are fast and observable" (KPI trust, 2026-Q4). kr_cm5qb2wqh7 MET ([dc_pmb7rwi2bf](../../report/2026-10/2026-10-31-key-result-kr-cm5qb2wqh7-marked-met-by-mitchell-b7rwi2bf.md)). kr_939kp3vjxc Fast: CLAIMED. kr_8wilbokqcn Observable: DONE (PRs #74, #76).
 
-**NOW: grant gr_sczsxd9ztm FUNDED, ADJUSTED by Mitchell to 400k on 2026-11-12 14:40Z (147,188 spent; [dc_ifci1fr3zc](../../report/2026-11/2026-11-12-grant-gr-sczsxd9ztm-adjusted-400-000-tokens-ci1fr3zc.md)).** The 400k means: reach kr_0xk1ex7tus (10 green main runs, `check:` median tests ≤110 s, total ≤140 s), not close with it missed. Step 1 DONE: PR #247 (test DBs from one schema image, packages/core/src/db.ts) merged 2026-11-10 20:46:30Z as **aacc9fe6**, the grant's LAST MERGE; live (d30c6f8f ancestor check 11-11 01:59Z) → kr_9xqxj8v5cl claimed. Step 2 DONE, NOT SHIPPED ([dc_t7fehmhdwb](../../report/2026-11/2026-11-10-gr-sczsxd9ztm-step-2-one-root-vitest-run-saves-2-4-fehmhdwb.md)): one root vitest run saves ~2% (498 vs 507 s desk), below the 10% bar. Core is 258 s of ~507 s on a desk. Step 3 (as_q4ajtv45dh, running 11-12 14:40Z): 10-run read + per-file profile of the slowest core test files (told via ms_4fmd7h5ktv). Step 4 (as_eql17020h2, waits on step 3): one PR taking the biggest levers; pivot if only a bigger CI runner (ci.yml runs on ubuntu-latest, .github/workflows/ci.yml:25) can close the gap.
+**NOW: grant gr_sczsxd9ztm (400k ceiling, Mitchell 11-12 14:40Z).** kr_0xk1ex7tus = 10 green main runs after the grant's last merge, `check:` median tests ≤110 s, total ≤140 s.
+- Step 1: PR #247 (test DBs from one schema image) merged aacc9fe6 11-10, live → kr_9xqxj8v5cl claimed.
+- Step 2: root vitest projects run, ~2%, not shipped ([dc_t7fehmhdwb](../../report/2026-11/2026-11-10-gr-sczsxd9ztm-step-2-one-root-vitest-run-saves-2-4-fehmhdwb.md)).
+- **Step 4: PR #434 merged 2026-11-12 as aa2674b5** (Mara 1, as_iu4ywohutr; notes dc_zh9zque1f5): `test.isolate: false` in packages/core/vitest.config.ts and packages/server/vitest.config.ts. Its PR run 43259378093: `typecheck 23s | tests 1m50s | total 2m20s`; core vitest 83.6 → 27.5 s (collect 77 → 7.5 s), server 36.2 → 19.6 s. This is now the grant's LAST MERGE: the 10-run window for kr_0xk1ex7tus starts at aa2674b5.
+- Runtime stays isolated: src/cache-miss.ts module-level memo + sandbox.test.ts fake timers fail across files. Next lever if needed: web (collect 25 s of 23 s wall, jsdom) or runtime after moving its module state into the world.
 
-**Step 3 first read, 2026-11-11 02:0xZ, 5 green main runs from aacc9fe6 on.** `check:` line, s:
-| run | sha | typecheck | tests | total |
-|---|---|---|---|---|
-| 42898563118 | aacc9fe6 | 19 | 153 | 178 |
-| 42900011085 | 628dd939 | 22 | 172 | 201 |
-| 42901842450 | 03364d14 | 18 | 152 | 175 |
-| 42905320740 | 5409c12d | 22 | 164 | 192 |
-| 42907870612 | d30c6f8f | 23 | 175 | 204 |
-Median (range): tests **164 (152–175)**, total **192 (175–204)**. The 6 green runs just before: tests 220 (205–227), total 249 (232–259). So #247 cut CI tests ~25%, but the suite grew from 158 s (11-06) to ~220 s before it landed. Gap to kr_0xk1ex7tus: ~54 s tests / ~52 s total. Levers: per-file cost in core tests (half the step), or a bigger CI runner.
+**10-run read since aacc9fe6 (before #434), tests/total s:** 42898563118 153/178; 42900011085 172/201; 42901842450 152/175; 42905320740 164/192; 42907870612 175/204; 43243576709 110/126; 43244478885 127/147; 43246718049 123/142; 43247465100 9c3839ca 110/126; 43249296567 182/211. **Median tests 152.5 s (110–182), total 176.5 s (126–211).** Pre-#247: 220/249. Per package (run 43249296567): core 84, server 36, runtime 23, web 23, cli 11, desk 2 s (vitest Duration).
 
-**Weekly watch:** retainer sc_5qs03u3172 (20k × 7 runs, from 2026-11-13 06:00Z). Thresholds: total median >140 s, any step median >2× baseline, any run >180 s.
+**Weekly watch:** retainer sc_5qs03u3172 (from 11-13 06:00Z). Thresholds: total median >140 s, any step >2× baseline, any run >180 s.
+**History:** 11-06 tests 158 / total 180 ([dc_wnxj1ug5ce](../../report/2026-11/2026-11-06-weekly-check-timing-watch-slowdown-alarm-tripped-t-xj1ug5ce.md)). 10-30 baseline 76.5 / 94 ([dc_r5j4bdtmzo](../../report/2026-10/2026-10-30-kr-8wilbokqcn-exploration-the-timing-line-already-j4bdtmzo.md)). Runner variance ~1.65× (typecheck 12–23 s tracks it).
 
-**History:** 11-06 ([dc_wnxj1ug5ce](../../report/2026-11/2026-11-06-weekly-check-timing-watch-slowdown-alarm-tripped-t-xj1ug5ce.md)) 12 runs: tests 158 (109–191), total 180 (124–219). Baseline 10-30 ([dc_r5j4bdtmzo](../../report/2026-10/2026-10-30-kr-8wilbokqcn-exploration-the-timing-line-already-j4bdtmzo.md)): tests 76.5, total 94. Runner variance ~1.6×. Rejected asks without a note: gr_xurio0oki5 (twice), gr_9nvxjgajh6, gr_wkimo647v2.
-
-**What is live:** `scripts/check.ts` behind `npm run check`: docs → deadcode → typecheck → tests (six workspace runs), prints `check: … | total …`; CI copies it into the job summary. `--fast` runs knip + file-read tests.
-
-**Commands:** `gh run list --workflow ci.yml --branch main --limit 60 --json databaseId,conclusion,headSha,createdAt`; per run `gh run view <id> --log | grep -m1 -oE 'check: docs [^|]*\|.*total [0-9ms]+'` (a pattern starting `check: .*total` matches nothing).
-**Pitfalls:** ≥10 runs and medians. Desks are slower than CI. Bash 10-min cap: `timeout 590`, foreground only.
+**Commands:** `gh run list --workflow ci.yml --branch main --event push --status success -L 200 --json databaseId,headSha,createdAt`; per run `gh run view <id> --log | grep -a '| total ' | grep -v echo | tail -1`, strip ANSI. Per-package: grep -a 'Duration '.
+**Pitfalls:** NEVER run a whole package's vitest on a desk (1 vCPU / 2 GB froze it twice, 11-12): ≤30 files, --maxWorkers 1, `timeout 150`, foreground. `gh run watch <id> --exit-status` under `timeout 420` waits for a PR run in-session.

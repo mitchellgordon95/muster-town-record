@@ -27475,5 +27475,194 @@
     "state": "building",
     "buildingId": "bl_6ifesdbah3",
     "createdAt": "2026-11-12T16:22:44.544Z"
+  },
+  {
+    "id": "dc_43fb5qf88y",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-secretary-web-live-check-tools-on-by-code-path-sti-fb5qf88y.md",
+    "title": "Secretary web live check: tools on by code path, still no WebSearch/WebFetch call and no reply to ms_v1n7udle0v",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T16:30:34.712Z"
+  },
+  {
+    "id": "dc_id4j1navsg",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-submit-report-writes-the-entry-ruleblock-replaces-4j1navsg.md",
+    "title": "submit_report writes the entry; ruleBlock replaces the lanes: PR #435 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T16:30:49.561Z"
+  },
+  {
+    "id": "dc_nj6bfjumtw",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-12-gr-sczsxd9ztm-step-4-vitest-isolate-false-for-core-6bfjumtw.md",
+    "title": "gr_sczsxd9ztm step 4: vitest isolate:false for core + server merged (PR #434, aa2674b5); its run measured tests 110 s, total 140 s",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-12T16:36:17.527Z"
+  },
+  {
+    "id": "dc_hgsvgma4uo",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-pr-435-merged-b9accd7a-parked-on-its-deploy-to-liv-svgma4uo.md",
+    "title": "PR #435 merged (b9accd7a); parked on its deploy to live-check a report's entry on /api/jobs",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T16:36:55.538Z"
+  },
+  {
+    "id": "dc_yx4v383oxj",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-12-ci-tests-step-cut-again-vitest-isolation-off-for-c-4v383oxj.md",
+    "title": "CI tests step cut again: vitest isolation off for core and server, one run at 110 s tests / 140 s total",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-12T16:37:55.022Z"
+  },
+  {
+    "id": "dc_79i90mn89f",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-export-push-survives-foreign-commits-verified-live-i90mn89f.md",
+    "title": "Export push survives foreign commits, verified live on /publish-check/ (initial README commit and a hand commit)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T16:38:10.237Z"
+  },
+  {
+    "id": "dc_ud8fgrr2z2",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-12-chain-rule-gr-2r17x8egrc-step-1-kr-ig32y08ihi-8fgrr2z2.md",
+    "title": "Chain rule (gr_2r17x8egrc step 1, kr_ig32y08ihi)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T16:41:04.440Z"
+  },
+  {
+    "id": "dc_gj3rgtzd6p",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-chain-rule-built-pr-436-open-parked-on-its-ci-3rgtzd6p.md",
+    "title": "Chain rule built: PR #436 open, parked on its CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T16:41:15.809Z"
+  },
+  {
+    "id": "dc_hcmusmivk2",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-12-probe-path-removal-pr-437-open-waiting-on-ci-musmivk2.md",
+    "title": "Probe path removal: PR #437 open, waiting on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-12T16:43:29.777Z"
+  },
+  {
+    "id": "dc_6apgfql3r5",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-pr-435-is-live-b9accd7a-job-line-in-the-prompt-che-pgfql3r5.md",
+    "title": "PR #435 is live (b9accd7a): job line in the prompt, checkpoint hold intact; first post-deploy entry is this report",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T16:59:28.086Z"
+  },
+  {
+    "id": "dc_8ue50ua1sq",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-rollup-60-every-report-now-threads-into-its-job-wi-e50ua1sq.md",
+    "title": "Rollup 60: every report now threads into its job with \"what is left\"; the chain rule is built but its grant is held over ceiling with a red check (adjust by 150k or cut)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T17:02:38.751Z"
+  },
+  {
+    "id": "dc_scffn0nn29",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-grant-gr-2r17x8egrc-cut-ffn0nn29.md",
+    "title": "Grant gr_2r17x8egrc cut",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T17:18:04.198Z"
+  },
+  {
+    "id": "dc_ehzqd9xv4v",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-12-grant-gr-uc179zv1xa-adjusted-400-000-tokens-zqd9xv4v.md",
+    "title": "Grant gr_uc179zv1xa adjusted: 400,000 tokens",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-12T17:18:57.031Z"
+  },
+  {
+    "id": "dc_mmeonoz7ht",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-message-from-mitchell-via-secretary-from-mitchell-eonoz7ht.md",
+    "title": "Message from Mitchell (via Secretary): From Mitchell's 1:1 (mt_msnjkpgwdb), on decision 6: ship the \"Add this rule to …",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T17:20:43.139Z"
+  },
+  {
+    "id": "dc_wmfww463og",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-message-from-mitchell-via-pix-2-pix-2-got-it-i-m-r-fww463og.md",
+    "title": "Message from Mitchell (via Pix 2): Pix 2: got it. I'm reshaping it so who answers an entry is a pure exported func…",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T17:23:12.621Z"
+  },
+  {
+    "id": "dc_8wquetyi9k",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-stopped-as-a-duplicate-of-pix-1-as-o5vkqc596v-noth-quetyi9k.md",
+    "title": "Stopped as a duplicate of Pix 1 (as_o5vkqc596v); nothing written",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T17:23:20.821Z"
+  },
+  {
+    "id": "dc_amag0kohlc",
+    "path": "buildings/bl_hzjw0z0zlz/docs/wiki/2026-11/2026-11-12-gr-uc179zv1xa-live-checks-connect-your-agent-mcp-ag0kohlc.md",
+    "title": "gr_uc179zv1xa live checks (Connect your agent + MCP)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-12T17:23:39.485Z"
+  },
+  {
+    "id": "dc_0y03v7aujz",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-12-both-remaining-gr-uc179zv1xa-key-results-pass-live-03v7aujz.md",
+    "title": "Both remaining gr_uc179zv1xa key results pass live; test account reset, Pix told",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-12T17:23:53.786Z"
+  },
+  {
+    "id": "dc_271txc8zem",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-12-queue-health-gr-pdja05z2f1-1txc8zem.md",
+    "title": "Queue health (gr_pdja05z2f1)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T17:24:33.770Z"
+  },
+  {
+    "id": "dc_0ljaspa411",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-12-decision-18-planned-gr-pdja05z2f1-queue-health-gat-jaspa411.md",
+    "title": "Decision 18 planned: gr_pdja05z2f1 \"Queue health: gates, budget and the human's time\" proposed (500k, 4 steps)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-12T17:24:46.360Z"
+  },
+  {
+    "id": "dc_srgdyucbvy",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-12-onboarding-rollup-a-stranger-s-claude-code-grant-p-gdyucbvy.md",
+    "title": "Onboarding rollup: a stranger's Claude Code grant proven live and closed (328,940 of 400,000; 71,060 returned)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-12T17:25:09.863Z"
   }
 ]

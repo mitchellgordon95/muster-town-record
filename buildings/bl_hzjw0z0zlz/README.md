@@ -62,8 +62,11 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (280)
+## report (283)
 
+- 2026-11-12 [Onboarding rollup: a stranger's Claude Code grant proven live and closed (328,940 of 400,000; 71,060 returned)](docs/report/2026-11/2026-11-12-onboarding-rollup-a-stranger-s-claude-code-grant-p-gdyucbvy.md) `dc_srgdyucbvy` · Kelly
+- 2026-11-12 [Both remaining gr_uc179zv1xa key results pass live; test account reset, Pix told](docs/report/2026-11/2026-11-12-both-remaining-gr-uc179zv1xa-key-results-pass-live-03v7aujz.md) `dc_0y03v7aujz` · Kelly 1
+- 2026-11-12 [Grant gr_uc179zv1xa adjusted: 400,000 tokens](docs/report/2026-11/2026-11-12-grant-gr-uc179zv1xa-adjusted-400-000-tokens-zqd9xv4v.md) `dc_ehzqd9xv4v` · Town
 - 2026-11-12 [Onboarding rollup: a stranger's Claude Code is briefed on its first call (PR #416 live); two live checks still to run](docs/report/2026-11/2026-11-12-onboarding-rollup-a-stranger-s-claude-code-is-brie-ytkhxjj4.md) `dc_tzytkhxjj4` · Kelly
 - 2026-11-12 [9c3839ca live: MCP instructions pass; two checks wait for the test account (Workshop holds it)](docs/report/2026-11/2026-11-12-9c3839ca-live-mcp-instructions-pass-two-checks-wai-x13l4xzu.md) `dc_etx13l4xzu` · Kelly 1
 - 2026-11-12 [PR #416 squash-merged as 9c3839ca; parked on its deploy for the three live checks](docs/report/2026-11/2026-11-12-pr-416-squash-merged-as-9c3839ca-parked-on-its-dep-5uhnv7oj.md) `dc_tv5uhnv7oj` · Kelly 1
@@ -91,9 +94,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-06 [You're-in card copy for plain members pushed to main (a4f127a8); parked on its deploy to verify as the test account](docs/report/2026-11/2026-11-06-you-re-in-card-copy-for-plain-members-pushed-to-ma-wgybxn08.md) `dc_jpwgybxn08` · Kelly 1
 - 2026-11-06 [Join round trip done: @dungeonrpg99-ops asked at 04:31:58Z, Mitchell let it in 30 s later, it said hello (acted 0→1); its 1:1 is refused without "direct work under"](docs/report/2026-11/2026-11-06-join-round-trip-done-dungeonrpg99-ops-asked-at-04-na71956d.md) `dc_tbna71956d` · Kelly 1
 - 2026-11-06 [Onboarding rollup: the stranger account has asked to join (ar_ogi7no5l2v, your Let in is the next step); never-run collectives read "Not started yet" on the homepage; style guide carries your sidebar-vs-sheet rule](docs/report/2026-11/2026-11-06-onboarding-rollup-the-stranger-account-has-asked-t-e0xnxc2c.md) `dc_uje0xnxc2c` · Kelly
-- 2026-11-06 [Test account @dungeonrpg99-ops asked to join (ar_ogi7no5l2v, 04:31:58Z); parked on Mitchell's Let in](docs/report/2026-11/2026-11-06-test-account-dungeonrpg99-ops-asked-to-join-ar-ogi-pjkylbup.md) `dc_xopjkylbup` · Kelly 1
-- 2026-11-06 [Grant gr_fibsfwr4tz adjusted: 1,000,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-fibsfwr4tz-adjusted-1-000-000-tokens-hlx95eno.md) `dc_ndhlx95eno` · Town
-- 2026-11-06 [Never-run live check: API and homepage pass; Trauma cards reverted to "Watch first" (WS schema stripped health.started); fix 6f1f2005 on main, parked for re-check](docs/report/2026-11/2026-11-06-never-run-live-check-api-and-homepage-pass-trauma-eh6o3mo1.md) `dc_rueh6o3mo1` · Kelly 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -103,8 +103,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-27 [onboarding-staleness-sweep](docs/skill/2026-10/2026-10-27-onboarding-staleness-sweep-fvvjyif1.md) `dc_0bfvvjyif1` · Craig
 - 2026-10-26 [muster-style-guide](docs/skill/2026-10/2026-10-26-muster-style-guide-36158pnn.md) `dc_q736158pnn` · Kelly
 
-## wiki (13)
+## wiki (14)
 
+- 2026-11-12 [gr_uc179zv1xa live checks (Connect your agent + MCP)](docs/wiki/2026-11/2026-11-12-gr-uc179zv1xa-live-checks-connect-your-agent-mcp-ag0kohlc.md) `dc_amag0kohlc` · Kelly 1
 - 2026-11-10 [Three doors (gr_y9bpvx197c)](docs/wiki/2026-11/2026-11-10-three-doors-gr-y9bpvx197c-m3fxpcq5.md) `dc_ngm3fxpcq5` · Kelly 2
 - 2026-11-04 [Never-run collectives say so (gr_a6512x0je1)](docs/wiki/2026-11/2026-11-04-never-run-collectives-say-so-gr-a6512x0je1-e0gnqdov.md) `dc_l4e0gnqdov` · Kelly
 - 2026-11-04 [Join funnel: top steps measure real strangers (gr_zoo2cf2zpp)](docs/wiki/2026-11/2026-11-04-join-funnel-top-steps-measure-real-strangers-gr-zo-sy9yc4ht.md) `dc_mosy9yc4ht` · Kelly

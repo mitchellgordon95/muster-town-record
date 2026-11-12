@@ -89,8 +89,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (328)
+## report (329)
 
+- 2026-11-12 [Probe path removal: PR #437 open, waiting on CI](docs/report/2026-11/2026-11-12-probe-path-removal-pr-437-open-waiting-on-ci-musmivk2.md) `dc_hcmusmivk2` · Cleo 1
 - 2026-11-12 [A week of merge-to-live timings: median 18.5 min, and the 15-min promote debounce holds 46 % of it](docs/report/2026-11/2026-11-12-a-week-of-merge-to-live-timings-median-18-5-min-an-kp08xjsy.md) `dc_fvkp08xjsy` · Cleo 1
 - 2026-11-12 [Prod rollup #47: Uptime block live but unmeasured, gr_rcj8nkbkbt cut, successor proposal gr_hbz0twkfp9 (UptimeRobot free plan) filed; deploy card change list verified](docs/report/2026-11/2026-11-12-prod-rollup-47-uptime-block-live-but-unmeasured-gr-gmqaejy4.md) `dc_92gmqaejy4` · Cleo
 - 2026-11-12 [UptimeRobot plan for a fresh uptime grant: Mitchell's clicks, remove the probe path, 3 steps](docs/report/2026-11/2026-11-12-uptimerobot-plan-for-a-fresh-uptime-grant-mitchell-ru1yhb9a.md) `dc_t5ru1yhb9a` · Cleo 1
@@ -120,7 +121,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-09 [Grant gr_q1jrelx2ty adjusted: 800,000 tokens](docs/report/2026-11/2026-11-09-grant-gr-q1jrelx2ty-adjusted-800-000-tokens-q136tvjw.md) `dc_tjq136tvjw` · Town
 - 2026-11-09 [Grant gr_z2v838adk9 cut](docs/report/2026-11/2026-11-09-grant-gr-z2v838adk9-cut-s4di6xfq.md) `dc_f1s4di6xfq` · Town
 - 2026-11-09 [Prod rollup #43 (close report for gr_w9ue1k1p0c): redeploys no longer throw away sessions or page anyone, proved over 7 days and 87 restarts; grant closed, 590,789 tokens returned](docs/report/2026-11/2026-11-09-prod-rollup-43-close-report-for-gr-w9ue1k1p0c-rede-es6f5hvy.md) `dc_cges6f5hvy` · Cleo
-- 2026-11-09 [gr_w9ue1k1p0c day 7 of 7 clean (11-08 05:20Z → 11-09 05:20Z): 2 restarts, 0 orphaned, 0 cut, 0 sessions alerts; ready to close](docs/report/2026-11/2026-11-09-gr-w9ue1k1p0c-day-7-of-7-clean-11-08-05-20z-11-09-om5nn9sb.md) `dc_qtom5nn9sb` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

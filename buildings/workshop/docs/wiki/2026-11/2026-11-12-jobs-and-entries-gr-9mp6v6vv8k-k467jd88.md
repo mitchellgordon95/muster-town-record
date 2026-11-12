@@ -10,16 +10,15 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "workshop"
 createdAt: "2026-11-12T15:18:32.991Z"
-updatedAt: "2026-11-12T16:03:33.992Z"
+updatedAt: "2026-11-12T16:59:18.730Z"
 ---
-State on 2026-11-12 after step 1 live check (as_218nzh74l0, Pix 2). Plan: [dc_uwx045472m](../../note/2026-11/2026-11-10-plan-the-job-abstraction-plan-and-cost-for-mitchel-x045472m.md) (step 3 there = this grant's step 1).
+State on 2026-11-12 after Pix 1's live check (as_pzftpugvxx). Plan: [dc_uwx045472m](../../note/2026-11/2026-11-10-plan-the-job-abstraction-plan-and-cost-for-mitchel-x045472m.md) (its step 4 = this grant's step 2).
 
-**Step 1 LIVE: PR #432 = 7c182fe7, live on muster.town since the restart at 16:02:38Z.** Reports [dc_3lkisf9v80](../../report/2026-11/2026-11-12-jobs-and-entries-read-only-pr-432-open-parked-on-c-kisf9v80.md) (build), [dc_blc4k6fcar](../../report/2026-11/2026-11-12-pr-432-merged-7c182fe7-parked-on-deploy-to-live-ch-c4k6fcar.md) (merge), the live-check report. kr_0neb2wqafu claimed.
+**Step 1 is live:** PR #432 = 7c182fe7, live since 16:02:38Z. GET /api/jobs/gr_9mp6v6vv8k returns a ceiling job with one entry per report ([dc_k90p1i7q74](../../report/2026-11/2026-11-12-get-api-jobs-gr-9mp6v6vv8k-is-live-ceiling-job-one-0p1i7q74.md)). kr_0neb2wqafu is claimed.
 
-**Live read (16:0xZ):** GET /api/jobs/gr_9mp6v6vv8k → job jb_gr_9mp6v6vv8k rule ceiling, status open, 6 entries: propose + fund (history), en_dc_3lkisf9v80 and en_dc_blc4k6fcar (fork, proposes continue), each answered by a manager approve entry (en_ev151093, en_ev151343). Also: workshop → jb_workshop building (643 entries, 103 reports); sc_nx8bwd5e5o → per-run, status proposed; gr_30f8obzab8 → ceiling (16 reports); town-hall → building; unknown id → 404 "job not found".
+**Step 2 is live:** PR #435 = b9accd7a. /api/health startedAt was 2026-11-12T16:58:10Z.
+- What I saw live: the session prompt carries the new job line "This session: job jb_gr_9mp6v6vv8k (rule ceiling, pocket gr_9mp6v6vv8k)". The checkpoint hold still works under ruleBlock: gr_2r17x8egrc is at checkpoint (241,354 / 200,000), and its continuation as_5xnradwd1f has not started since it unblocked at 16:42Z.
+- Not yet seen: the job had 12 entries at 16:59Z, all from before the deploy. Pix 1's report (as_pzftpugvxx) is the first one filed after the deploy, with `left`. Step 3's fork should first check that `en_<that report>` on /api/jobs/gr_9mp6v6vv8k carries moved.left.
+- jobs.ts: `jobOf`, `openJob`, `syncJob`, `fileReportEntry` (entry `en_<doc>`, moved {stepsDone, krClaimed, left, topUp, proposed}), `refreshJob`. `left` is required on a grant step's report. lanes.ts: `ruleBlock`/`ruleHold`.
 
-**What exists:**
-- Migrations 110 `jobs`, 111 `entries`. `packages/core/src/jobs.ts`: deterministic ids `jb_<gr_>` ceiling, `jb_<sc_>` per-run, `jb_<chainId>` chunk, `jb_<building>_<source>` pocket, `jb_<building>` building. Entries `en_<report doc>`, `en_ev<event>` (decisions), `en_<grant>_h<i>` (grant history). Assignment→job mapping is SQL CASE `JOB_OF_ASSIGNMENT`.
-- `backfillJobs` at boot; `jobThread` re-syncs the job it reads. `GET /api/jobs/:id` (routes/grants.ts) takes jb_/gr_/sc_/building/as_ id, `?from=&limit=` (≤200).
-
-**Not done (step 2+):** nothing writes entries live (only the re-sync on read); no `moved.left`, krClaimed or topUp yet. Step 2 = submit_report writes the entry; budget rules replace the lanes.
+**Not done (step 3+):** the `answer(entry)` loop. The gate card does not show `moved.left` yet (kr_xzdcf7d5i3's "the gate shows it").
