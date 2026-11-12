@@ -10,27 +10,24 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_vd69s5a1nh"
 createdAt: "2026-10-29T04:08:52.957Z"
-updatedAt: "2026-11-08T07:01:57.609Z"
+updatedAt: "2026-11-12T07:01:39.478Z"
 ---
 kr_cm5qb2wqh7 MET by Mitchell 2026-10-31 ([dc_pmb7rwi2bf](../../report/2026-10/2026-10-31-key-result-kr-cm5qb2wqh7-marked-met-by-mitchell-b7rwi2bf.md)). Grants: gr_x5gnnmo7yi cut; gr_vipnoft4gk (manual cap into check:docs) closed done.
 
-**gr_7op2v8fjcl (red-main fixer) FUNDED, adjusted by Mitchell to 1,000,000 on 2026-11-06 04:18Z ([dc_ldx0pl939v](../../report/2026-11/2026-11-06-grant-gr-7op2v8fjcl-adjusted-1-000-000-tokens-x0pl939v.md))** (findings [dc_pifcrlzdg9](../../note/2026-11/2026-11-03-red-main-2026-10-28-11-02-10-red-episodes-causes-a-fcrlzdg9.md)). Key results: kr_mvj61meiwx (/api/health `main`, due 11-10) CLAIMED; kr_hsfxuz8tnx (brief/look line + one fix assignment per red sha, due 11-12) on-track; kr_09nhvvwc1a (7 days with no duplicated fixes, due 11-19) not-started. Don't propose this again while it's open.
-- All three PRs live since 2026-11-05 00:08Z (prod aa6f4fb contains 4542f32 #319, ed953de #330, 9f2d28f #343).
-- Green seen live: /api/health 11-05 00:08:54Z and again 11-08 07:00:22Z (`main {state: green, sha: 300072b7…, fixer: null}`, sha = origin/main head).
-- **Midpoint (Mara 1, as_5355mb93b1, 2026-11-08 07:0xZ): NO red main since ed953de went live.** 200 main ci runs back to 11-01: since 11-05 00:08Z the only `failure` is run 42128617581 on 4ab6187c (11-05 23:18Z), and its `check` job passed; only `promote` failed (GitHub "remote rejected … fatal error in commit_refs_rules" pushing to prod, transient). mainStateOf correctly never called it red: the event log (ids 124707–141575, 11-04 20:00Z → 11-08 07:01Z) has no "Main is red"/mainCi fix event, so zero fix assignments, which is right. Next green c913df6d at 23:35Z promoted. No fix/CI PRs or fix commits in the window. The red path and kr_09nhvvwc1a rest on the final check.
-- Step 1 code: `createPrPoller` (packages/runtime/src/pr-checks.ts) reads main every 60 s into meta `mainCi`; `/api/health` serves it as `main`. Invariant 10. `mainStateOf`: pending until every check ends; red only on a failed code check; cancelled = pending; promote/image failures never red.
-- Step 2 code: core `packages/core/src/main-fix.ts` `queueMainFix`: one fix assignment per red sha (createdBy system `main-ci`, event payload `{mainCi:"fix", sha, assignmentId}`), to the red commit author's building else Code Legibility. The author slug comes from a desk commit's email, a merge commit's `from …/agent/<slug>/` message, or a squash merge's PR branch (pr-checks.ts:123-137). Invariant 11.
-- Step 3 final sc_ylx02vdi8z 2026-11-12 07:00Z: repeat the scan below from 11-08 07:00Z, then the manager closes the grant (close_grant + rollup).
+**gr_7op2v8fjcl (red-main fixer) FUNDED 1,000,000 ([dc_ldx0pl939v](../../report/2026-11/2026-11-06-grant-gr-7op2v8fjcl-adjusted-1-000-000-tokens-x0pl939v.md)); findings [dc_pifcrlzdg9](../../note/2026-11/2026-11-03-red-main-2026-10-28-11-02-10-red-episodes-causes-a-fcrlzdg9.md). FINAL OBSERVATION DONE 2026-11-12 07:0xZ (Mara 1, as_aru31xunkn): ready for close_grant by the manager.** Key results: kr_mvj61meiwx CLAIMED; kr_hsfxuz8tnx (one fix per red sha + brief line) CI tests pass, red path never fired live; kr_09nhvvwc1a met vacuously (zero red episodes, so zero duplicate fixes).
+- All three PRs live since 2026-11-05 00:08Z (#319 4542f32, #330 ed953de, #343 9f2d28f).
+- **7 days 11-05 00:08Z → 11-12 07:00Z: NO red main.** 82 main ci runs: 56 success, 24 cancelled (concurrency), 2 failure, both with `check` passed: run 42128617581 on 4ab6187c (11-05, `promote` failed, GitHub push transient) and run 43084339658 on 73297901 (11-11 19:08Z, `image` failed: docker build "fatal: not a git repository", gitdir missing; told Prod, ms_o9yia7c8on). Neither is red by mainStateOf, correctly.
+- Event log ids 124707–149191 (11-04 20:00Z → 11-12 07:00Z): no "Main is red" / payload.mainCi system event, so zero `main-ci` fix assignments, which is right. git log: no CI-fix commits in the window.
+- Live 11-12 07:00:23Z: /api/health main {state green, sha 73297901 = origin/main head, fixer null}; `look` shows no main-red line.
+- Tests (pass on main 11-12): runtime pr-checks.test.ts (10, incl. "a red main queues one fix to the author's building…", promote/image failure not red, cancelled stays pending); core main-fix.test.ts (3, incl. "the brief and look name the fixer only while main is red").
+- Step 1 code: `createPrPoller` (packages/runtime/src/pr-checks.ts) reads main every 60 s into meta `mainCi`; /api/health serves it as `main`. Invariant 10.
+- Step 2 code: core `packages/core/src/main-fix.ts` `queueMainFix`: one fix per red sha (createdBy system `main-ci`), to the red commit author's building else Code Legibility. Invariant 11.
 
-**True now**
-- 2026-10-27 → 11-02: 22 failed main runs in 10 red episodes ([dc_pifcrlzdg9](../../note/2026-11/2026-11-03-red-main-2026-10-28-11-02-10-red-episodes-causes-a-fcrlzdg9.md)). The 11-02 red was fixed four times by three agents in 17 min (baseline for kr_09nhvvwc1a).
-- Ruled out: a pre-push hook (PR #71; gr_9nvxjgajh6 rejected), but gr_baf19xtg7p proposes one for PR branches. Branch protection is Mitchell's call ([dc_nj144imkxj](../../report/2026-10/2026-10-29-keep-main-green-the-pre-push-hook-works-but-costs-144imkxj.md)).
+**Baseline**: 2026-10-27 → 11-02: 22 failed main runs in 10 red episodes; the 11-02 red fixed 4 times by 3 agents in 17 min ([dc_pifcrlzdg9](../../note/2026-11/2026-11-03-red-main-2026-10-28-11-02-10-red-episodes-causes-a-fcrlzdg9.md)). The drop to zero reds is mostly the pre-push hook/fast check and fewer merge storms, not the fixer; the fixer's live red path remains unexercised.
 
 **Commands**
-- `gh run list --branch main --workflow ci --limit 200 --json databaseId,conclusion,createdAt,headSha`; for each failure `gh run view <id> --json jobs` (a failed `promote`/`image` job with green `check` is not red).
-- Fix events: page `GET https://muster.town/api/events?since=<id>&limit=1000` (oldest-first with `since`; `from=` returns the newest 1000) and grep text "Main is red" / payload.mainCi. Binary-search `since` for the start time.
+- `gh run list --branch main --workflow ci.yml --limit 300 --json databaseId,conclusion,createdAt,headSha`; for each failure `gh run view <id> --json jobs` (failed promote/image with green check is not red).
+- Events: page `GET $MUSTER_TOWN_URL/api/events?since=<id>&limit=1000` with Bearer $MUSTER_TOWN_TOKEN, grep "Main is red" / payload.mainCi (ignore agent.tool hits).
 - `curl -s https://muster.town/api/health | python3 -c 'import json,sys;print(json.load(sys.stdin)["main"])'` (no jq on desks).
 
-**Pitfalls**
-- "cancelled" means a concurrency cancel, not a failure. Never `pkill -f`.
-- Don't call `redeploy` after a merge: CI promotes green main itself ([dc_uzwcg5xw3u](../../../../town-hall/docs/fyi/2026-11/2026-11-04-do-not-call-redeploy-after-a-merge-ci-deploys-gree-wcg5xw3u.md)).
+**Pitfalls**: "cancelled" = concurrency cancel. Never `pkill -f`. Don't call `redeploy` after a merge ([dc_uzwcg5xw3u](../../../../town-hall/docs/fyi/2026-11/2026-11-04-do-not-call-redeploy-after-a-merge-ci-deploys-gree-wcg5xw3u.md)).

@@ -26935,5 +26935,32 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-11T19:08:31.638Z"
+  },
+  {
+    "id": "dc_9hk97u9jk9",
+    "path": "buildings/town-hall/docs/report/2026-11/2026-11-12-daily-ask-ranking-2026-11-12-cut-by-the-40k-retain-k97u9jk9.md",
+    "title": "Daily ask ranking, 2026-11-12: cut by the 40k retainer before ranking (74k used reading 37 asks); no slate filed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-12T07:01:35.812Z"
+  },
+  {
+    "id": "dc_97ccl6r2ug",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-12-gr-7op2v8fjcl-final-no-red-main-in-7-days-zero-fix-ccl6r2ug.md",
+    "title": "gr_7op2v8fjcl final: no red main in 7 days, zero fix assignments, zero duplicate fixes; ready to close",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-12T07:01:55.203Z"
+  },
+  {
+    "id": "dc_iq4txxz11i",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-12-red-main-fixer-grant-closed-done-no-red-main-in-7-4txxz11i.md",
+    "title": "Red-main fixer grant closed done: no red main in 7 days, 285k tokens back to the Bank",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-12T07:03:23.966Z"
   }
 ]
