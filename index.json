@@ -28114,5 +28114,14 @@
     "state": "building",
     "buildingId": "town-hall",
     "createdAt": "2026-11-13T07:03:50.852Z"
+  },
+  {
+    "id": "dc_27qv6yol8r",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-13-pause-check-11-13-mitchell-has-not-lifted-it-prod-qv6yol8r.md",
+    "title": "Pause check 11-13: Mitchell has not lifted it, Prod stays paused",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-13T19:00:28.299Z"
   }
 ]

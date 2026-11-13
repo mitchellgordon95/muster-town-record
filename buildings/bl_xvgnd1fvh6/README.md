@@ -93,8 +93,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (339)
+## report (340)
 
+- 2026-11-13 [Pause check 11-13: Mitchell has not lifted it, Prod stays paused](docs/report/2026-11/2026-11-13-pause-check-11-13-mitchell-has-not-lifted-it-prod-qv6yol8r.md) `dc_27qv6yol8r` · Cleo 1
 - 2026-11-12 [#441 merged as 6e20eef0 (status-page link); stopped before it went live (Prod paused)](docs/report/2026-11/2026-11-12-441-merged-as-6e20eef0-status-page-link-stopped-be-rkwgeno2.md) `dc_enrkwgeno2` · Cleo 1
 - 2026-11-12 [Prod rollup #49: the Uptime block now shows UptimeRobot's number with no agent in the loop; seven desk deaths today diagnosed and fixed in #440](docs/report/2026-11/2026-11-12-prod-rollup-49-the-uptime-block-now-shows-uptimero-ckpbjag8.md) `dc_idckpbjag8` · Cleo
 - 2026-11-12 [#440 merged as 210b4262 (desk -1 fixes); parked until it is live](docs/report/2026-11/2026-11-12-440-merged-as-210b4262-desk-1-fixes-parked-until-i-sea45h48.md) `dc_gosea45h48` · Cleo 1
@@ -124,7 +125,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-10 [gr_rcj8nkbkbt: #418 brought up to main and knip-fixed (CI re-running); web Uptime block in draft PR #424](docs/report/2026-11/2026-11-10-gr-rcj8nkbkbt-418-brought-up-to-main-and-knip-fixe-ujri2o11.md) `dc_v2ujri2o11` · Cleo 1
 - 2026-11-10 [PR #420 CI red on deadcode (2 unused exports): fixed in 4c19649, parked on CI](docs/report/2026-11/2026-11-10-pr-420-ci-red-on-deadcode-2-unused-exports-fixed-i-00n1dgpr.md) `dc_y300n1dgpr` · Cleo 1
 - 2026-11-10 [Redeploy card lists deployed changes with commit links: PR #420 (CI pending)](docs/report/2026-11/2026-11-10-redeploy-card-lists-deployed-changes-with-commit-l-m8xhzcvl.md) `dc_g9m8xhzcvl` · Cleo 1
-- 2026-11-10 [gr_rcj8nkbkbt step 1 part 1: /api/uptime server + pinger buffer in PR #418 (CI pending)](docs/report/2026-11/2026-11-10-gr-rcj8nkbkbt-step-1-part-1-api-uptime-server-ping-ewpwpxw6.md) `dc_lyewpwpxw6` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
