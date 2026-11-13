@@ -16,8 +16,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 - 2026-10-21 [Brief: Secrets PR 1, scoped grants stored in the DB and managed at the Town Hall (for Dara)](docs/assignment-proposal/2026-10/2026-10-21-brief-secrets-pr-1-scoped-grants-stored-in-the-db-e6u6i7d2.md) `dc_6xe6u6i7d2` · Cleo
 
-## fyi (22)
+## fyi (23)
 
+- 2026-11-13 [RED 12 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-13-red-12-claude-sessions-failed-in-15-min-xxs7sotf.md) `dc_x6xxs7sotf` · Town
 - 2026-11-12 [CLEARED YELLOW sessions: 2 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-12-cleared-yellow-sessions-2-claude-sessions-failed-i-iqdgguqr.md) `dc_07iqdgguqr` · Town
 - 2026-11-12 [CLEARED RED sessions: 2 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-12-cleared-red-sessions-2-claude-sessions-failed-in-1-r7mt0tq3.md) `dc_ljr7mt0tq3` · Town
 - 2026-11-12 [CLEARED RED sessions: 1 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-12-cleared-red-sessions-1-claude-sessions-failed-in-1-kwa7n9h8.md) `dc_4gkwa7n9h8` · Town
@@ -93,8 +94,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (340)
+## report (341)
 
+- 2026-11-13 [PR #448: CI image deploy step, parked on its CI](docs/report/2026-11/2026-11-13-pr-448-ci-image-deploy-step-parked-on-its-ci-weiz7i0f.md) `dc_9dweiz7i0f` · Cleo 1
 - 2026-11-13 [Pause check 11-13: Mitchell has not lifted it, Prod stays paused](docs/report/2026-11/2026-11-13-pause-check-11-13-mitchell-has-not-lifted-it-prod-qv6yol8r.md) `dc_27qv6yol8r` · Cleo 1
 - 2026-11-12 [#441 merged as 6e20eef0 (status-page link); stopped before it went live (Prod paused)](docs/report/2026-11/2026-11-12-441-merged-as-6e20eef0-status-page-link-stopped-be-rkwgeno2.md) `dc_enrkwgeno2` · Cleo 1
 - 2026-11-12 [Prod rollup #49: the Uptime block now shows UptimeRobot's number with no agent in the loop; seven desk deaths today diagnosed and fixed in #440](docs/report/2026-11/2026-11-12-prod-rollup-49-the-uptime-block-now-shows-uptimero-ckpbjag8.md) `dc_idckpbjag8` · Cleo
@@ -124,7 +126,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-10 [PR #420 merged (7f12374); parked until it is live to check the deploy card](docs/report/2026-11/2026-11-10-pr-420-merged-7f12374-parked-until-it-is-live-to-c-c7m9tnen.md) `dc_xkc7m9tnen` · Cleo 1
 - 2026-11-10 [gr_rcj8nkbkbt: #418 brought up to main and knip-fixed (CI re-running); web Uptime block in draft PR #424](docs/report/2026-11/2026-11-10-gr-rcj8nkbkbt-418-brought-up-to-main-and-knip-fixe-ujri2o11.md) `dc_v2ujri2o11` · Cleo 1
 - 2026-11-10 [PR #420 CI red on deadcode (2 unused exports): fixed in 4c19649, parked on CI](docs/report/2026-11/2026-11-10-pr-420-ci-red-on-deadcode-2-unused-exports-fixed-i-00n1dgpr.md) `dc_y300n1dgpr` · Cleo 1
-- 2026-11-10 [Redeploy card lists deployed changes with commit links: PR #420 (CI pending)](docs/report/2026-11/2026-11-10-redeploy-card-lists-deployed-changes-with-commit-l-m8xhzcvl.md) `dc_g9m8xhzcvl` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

@@ -28141,5 +28141,41 @@
     "state": "building",
     "buildingId": "town-hall",
     "createdAt": "2026-11-13T20:01:01.305Z"
+  },
+  {
+    "id": "dc_lpit4t3uby",
+    "path": "library/human-report/2026-11/2026-11-13-re-run-deploy-fly-build-sh-once-town-image-deploy-it4t3uby.md",
+    "title": "Re: Run deploy/fly/build.sh once (town image deploy) so muster.town boots the prebuilt server and gets the 10 s health-check timeout",
+    "type": "human-report",
+    "state": "library",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-13T23:20:26.211Z"
+  },
+  {
+    "id": "dc_x6xxs7sotf",
+    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-13-red-12-claude-sessions-failed-in-15-min-xxs7sotf.md",
+    "title": "[RED] 12 Claude sessions failed in 15 min",
+    "type": "fyi",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-13T23:20:37.812Z"
+  },
+  {
+    "id": "dc_9dweiz7i0f",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-13-pr-448-ci-image-deploy-step-parked-on-its-ci-weiz7i0f.md",
+    "title": "PR #448: CI image deploy step, parked on its CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-13T23:27:16.869Z"
+  },
+  {
+    "id": "dc_g8gwigr4sy",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-13-1-1-mitchell-and-secretary-notes-gwigr4sy.md",
+    "title": "1:1: Mitchell and Secretary — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-13T23:28:43.387Z"
   }
 ]
