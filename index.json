@@ -28123,5 +28123,23 @@
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
     "createdAt": "2026-11-13T19:00:28.299Z"
+  },
+  {
+    "id": "dc_kh9i2tlb2d",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-13-1-1-mitchell-and-secretary-notes-9i2tlb2d.md",
+    "title": "1:1: Mitchell and Secretary — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-13T19:54:23.273Z"
+  },
+  {
+    "id": "dc_auhendfdph",
+    "path": "buildings/town-hall/docs/report/2026-11/2026-11-13-rewrote-8-agent-written-asks-diff-first-closed-5-s-hendfdph.md",
+    "title": "Rewrote 8 agent-written asks diff-first, closed 5 stale clicks as overtaken; 4 request-backed cards wait on Pix's fix",
+    "type": "report",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-13T20:01:01.305Z"
   }
 ]
