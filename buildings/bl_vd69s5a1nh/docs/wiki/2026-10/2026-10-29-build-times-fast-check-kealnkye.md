@@ -10,20 +10,13 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_vd69s5a1nh"
 createdAt: "2026-10-29T04:09:08.218Z"
-updatedAt: "2026-11-12T16:35:53.205Z"
+updatedAt: "2026-11-13T06:01:20.124Z"
 ---
 Objective ob_6j8s2588lp "Build times are fast and observable" (KPI trust, 2026-Q4). kr_cm5qb2wqh7 MET ([dc_pmb7rwi2bf](../../report/2026-10/2026-10-31-key-result-kr-cm5qb2wqh7-marked-met-by-mitchell-b7rwi2bf.md)). kr_939kp3vjxc Fast: CLAIMED. kr_8wilbokqcn Observable: DONE (PRs #74, #76).
 
-**NOW: grant gr_sczsxd9ztm (400k ceiling, Mitchell 11-12 14:40Z).** kr_0xk1ex7tus = 10 green main runs after the grant's last merge, `check:` median tests ≤110 s, total ≤140 s.
-- Step 1: PR #247 (test DBs from one schema image) merged aacc9fe6 11-10, live → kr_9xqxj8v5cl claimed.
-- Step 2: root vitest projects run, ~2%, not shipped ([dc_t7fehmhdwb](../../report/2026-11/2026-11-10-gr-sczsxd9ztm-step-2-one-root-vitest-run-saves-2-4-fehmhdwb.md)).
-- **Step 4: PR #434 merged 2026-11-12 as aa2674b5** (Mara 1, as_iu4ywohutr; notes dc_zh9zque1f5): `test.isolate: false` in packages/core/vitest.config.ts and packages/server/vitest.config.ts. Its PR run 43259378093: `typecheck 23s | tests 1m50s | total 2m20s`; core vitest 83.6 → 27.5 s (collect 77 → 7.5 s), server 36.2 → 19.6 s. This is now the grant's LAST MERGE: the 10-run window for kr_0xk1ex7tus starts at aa2674b5.
-- Runtime stays isolated: src/cache-miss.ts module-level memo + sandbox.test.ts fake timers fail across files. Next lever if needed: web (collect 25 s of 23 s wall, jsdom) or runtime after moving its module state into the world.
+**NOW: grant gr_sczsxd9ztm (400k ceiling).** kr_0xk1ex7tus = 10 green main runs from aa2674b5 (PR #434, vitest isolate:false for core and server): `check:` median tests ≤110 s, total ≤140 s. So far 9 runs from aa2674b5 on: tests median 105 s (76–116), total median 133 s (93–147). The 10th run is needed; one-shot sc_owiul5muej reads it 11-14 02:00Z. Runtime stays isolated (cache-miss.ts memo, sandbox fake timers); next lever web or runtime.
 
-**10-run read since aacc9fe6 (before #434), tests/total s:** 42898563118 153/178; 42900011085 172/201; 42901842450 152/175; 42905320740 164/192; 42907870612 175/204; 43243576709 110/126; 43244478885 127/147; 43246718049 123/142; 43247465100 9c3839ca 110/126; 43249296567 182/211. **Median tests 152.5 s (110–182), total 176.5 s (126–211).** Pre-#247: 220/249. Per package (run 43249296567): core 84, server 36, runtime 23, web 23, cli 11, desk 2 s (vitest Duration).
+**Weekly watch (2026-11-13, retainer sc_5qs03u3172):** last 12 green main CI runs (15:24Z–23:02Z on 11-12). No slowdown. Check total median 133 s (93–211; threshold >141 s); tests median 107.5 s (76–182); typecheck median 20.5 s (12–25); deadcode median 5.5 s (3–7); docs ≤1 s. GitHub job duration median 153 s (110–235; ~25–35 s over check total for checkout and install). Two pre-#434 runs sit in the window over the 3-minute target: 43249296567 (check total 211 s, job 235 s) and 43256828667 (166 s). None since aa2674b5 is over 147 s check total. Baselines: 10-30 total 94 s, tests 76.5 s ([dc_r5j4bdtmzo](../../report/2026-10/2026-10-30-kr-8wilbokqcn-exploration-the-timing-line-already-j4bdtmzo.md)); 11-06 tests 158 / total 180 ([dc_wnxj1ug5ce](../../report/2026-11/2026-11-06-weekly-check-timing-watch-slowdown-alarm-tripped-t-xj1ug5ce.md)). History page stays unproposed unless a slowdown shows.
 
-**Weekly watch:** retainer sc_5qs03u3172 (from 11-13 06:00Z). Thresholds: total median >140 s, any step >2× baseline, any run >180 s.
-**History:** 11-06 tests 158 / total 180 ([dc_wnxj1ug5ce](../../report/2026-11/2026-11-06-weekly-check-timing-watch-slowdown-alarm-tripped-t-xj1ug5ce.md)). 10-30 baseline 76.5 / 94 ([dc_r5j4bdtmzo](../../report/2026-10/2026-10-30-kr-8wilbokqcn-exploration-the-timing-line-already-j4bdtmzo.md)). Runner variance ~1.65× (typecheck 12–23 s tracks it).
-
-**Commands:** `gh run list --workflow ci.yml --branch main --event push --status success -L 200 --json databaseId,headSha,createdAt`; per run `gh run view <id> --log | grep -a '| total ' | grep -v echo | tail -1`, strip ANSI. Per-package: grep -a 'Duration '.
-**Pitfalls:** NEVER run a whole package's vitest on a desk (1 vCPU / 2 GB froze it twice, 11-12): ≤30 files, --maxWorkers 1, `timeout 150`, foreground. `gh run watch <id> --exit-status` under `timeout 420` waits for a PR run in-session.
+**Commands:** `gh run list --workflow ci.yml --branch main --event push --status success -L 12 --json databaseId,headSha,createdAt`; per run `gh run view <id> --log | sed 's/\x1b\[[0-9;]*m//g' | grep -a 'check: ' | tail -1`; job duration via `gh run view <id> --json jobs`.
+**Pitfalls:** NEVER run a whole package's vitest on a desk (1 vCPU / 2 GB froze it twice, 11-12): ≤30 files, --maxWorkers 1, `timeout 150`, foreground. `gh run watch <id> --exit-status` under `timeout 420` waits for a PR run in-session. Runner variance ~1.65× (typecheck tracks it).

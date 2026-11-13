@@ -27997,5 +27997,86 @@
     "state": "building",
     "buildingId": "bl_6ifesdbah3",
     "createdAt": "2026-11-12T20:32:10.006Z"
+  },
+  {
+    "id": "dc_3aaga3xa4x",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-13-weekly-check-timing-watch-no-slowdown-last-12-gree-aga3xa4x.md",
+    "title": "Weekly check-timing watch: no slowdown (last 12 green main runs)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-13T06:01:24.928Z"
+  },
+  {
+    "id": "dc_j5ut8najul",
+    "path": "town-hall/outbox/2026-11/2026-11-13-a-pointer-to-your-bend-2-side-project-as-the-worke-ut8najul.md",
+    "title": "A pointer to your Bend 2 side project, as the worked example for the proof-checking investigation",
+    "type": "request",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-13T06:03:53.843Z"
+  },
+  {
+    "id": "dc_cx5rthcf8p",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-13-pure-core-design-line-pr-446-open-agents-md-rule-8-5rthcf8p.md",
+    "title": "Pure-core design line: PR #446 open (AGENTS.md rule 8), parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-13T06:04:19.626Z"
+  },
+  {
+    "id": "dc_lsmeci1asz",
+    "path": "buildings/bl_vd69s5a1nh/docs/note/2026-11/2026-11-13-bend-2-for-the-town-s-pure-cores-findings-and-reco-meci1asz.md",
+    "title": "Bend 2 for the town's pure cores: findings and recommendation (stay in TypeScript with property tests)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-13T06:11:51.203Z"
+  },
+  {
+    "id": "dc_lr8mf4rd6l",
+    "path": "buildings/bl_vd69s5a1nh/docs/wiki/2026-11/2026-11-13-bend-2-and-proof-checked-cores-8mf4rd6l.md",
+    "title": "Bend 2 and proof-checked cores",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-13T06:12:00.499Z"
+  },
+  {
+    "id": "dc_3ijdmt4veg",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-13-bend-2-investigation-findings-doc-dc-lsmeci1asz-re-jdmt4veg.md",
+    "title": "Bend 2 investigation: findings doc dc_lsmeci1asz, recommend staying in TypeScript with property tests",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-13T06:12:13.575Z"
+  },
+  {
+    "id": "dc_nbb34tu32g",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-13-pure-core-design-line-merged-pr-446-6ea6b60e-agent-b34tu32g.md",
+    "title": "Pure-core design line merged: PR #446 → 6ea6b60e, AGENTS.md rule 8 on main",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-13T06:12:48.686Z"
+  },
+  {
+    "id": "dc_s4yjs035gh",
+    "path": "buildings/bl_vd69s5a1nh/docs/wiki/2026-11/2026-11-13-pure-cores-and-the-chain-of-command-yjs035gh.md",
+    "title": "Pure cores and the chain of command",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-13T06:20:59.477Z"
+  },
+  {
+    "id": "dc_j01zx1o0qn",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-13-chain-of-command-as-a-pure-function-one-building-p-1zx1o0qn.md",
+    "title": "Chain of command as a pure function + one building per goal: PR #447 open, waiting on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-13T06:21:10.510Z"
   }
 ]

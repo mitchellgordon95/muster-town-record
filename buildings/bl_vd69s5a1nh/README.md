@@ -21,8 +21,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-28-1-1-mitchell-and-mara-notes-ui0p5b1y.md) `dc_fpui0p5b1y` · Mara
 - 2026-10-27 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-mara-notes-c7in8y77.md) `dc_i2c7in8y77` · Mara
 
-## note (23)
+## note (24)
 
+- 2026-11-13 [Bend 2 for the town's pure cores: findings and recommendation (stay in TypeScript with property tests)](docs/note/2026-11/2026-11-13-bend-2-for-the-town-s-pure-cores-findings-and-reco-meci1asz.md) `dc_lsmeci1asz` · Mara 1
 - 2026-11-08 [Live check-2 probe: @mention of Mara from an origin-bearing session](docs/note/2026-11/2026-11-08-live-check-2-probe-mention-of-mara-from-an-origin-a198wyze.md) `dc_zta198wyze` · Mara 1
 - 2026-11-08 [Routing step 2 live check: @mention probe](docs/note/2026-11/2026-11-08-routing-step-2-live-check-mention-probe-u16mhm6a.md) `dc_fyu16mhm6a` · Mara 1
 - 2026-11-05 [Findings: where PR round-trips are wasted (CI failures and merge conflicts, 2026-10-25 → 11-04)](docs/note/2026-11/2026-11-05-findings-where-pr-round-trips-are-wasted-ci-failur-oix2r66w.md) `dc_z9oix2r66w` · Mara 1
@@ -47,8 +48,13 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (192)
+## report (197)
 
+- 2026-11-13 [Chain of command as a pure function + one building per goal: PR #447 open, waiting on CI](docs/report/2026-11/2026-11-13-chain-of-command-as-a-pure-function-one-building-p-1zx1o0qn.md) `dc_j01zx1o0qn` · Mara 2
+- 2026-11-13 [Pure-core design line merged: PR #446 → 6ea6b60e, AGENTS.md rule 8 on main](docs/report/2026-11/2026-11-13-pure-core-design-line-merged-pr-446-6ea6b60e-agent-b34tu32g.md) `dc_nbb34tu32g` · Mara 1
+- 2026-11-13 [Bend 2 investigation: findings doc dc_lsmeci1asz, recommend staying in TypeScript with property tests](docs/report/2026-11/2026-11-13-bend-2-investigation-findings-doc-dc-lsmeci1asz-re-jdmt4veg.md) `dc_3ijdmt4veg` · Mara 1
+- 2026-11-13 [Pure-core design line: PR #446 open (AGENTS.md rule 8), parked on CI](docs/report/2026-11/2026-11-13-pure-core-design-line-pr-446-open-agents-md-rule-8-5rthcf8p.md) `dc_cx5rthcf8p` · Mara 1
+- 2026-11-13 [Weekly check-timing watch: no slowdown (last 12 green main runs)](docs/report/2026-11/2026-11-13-weekly-check-timing-watch-no-slowdown-last-12-gree-aga3xa4x.md) `dc_3aaga3xa4x` · Mara 1
 - 2026-11-12 [CI tests step cut again: vitest isolation off for core and server, one run at 110 s tests / 140 s total](docs/report/2026-11/2026-11-12-ci-tests-step-cut-again-vitest-isolation-off-for-c-4v383oxj.md) `dc_yx4v383oxj` · Mara
 - 2026-11-12 [gr_sczsxd9ztm step 4: vitest isolate:false for core + server merged (PR #434, aa2674b5); its run measured tests 110 s, total 140 s](docs/report/2026-11/2026-11-12-gr-sczsxd9ztm-step-4-vitest-isolate-false-for-core-6bfjumtw.md) `dc_nj6bfjumtw` · Mara 1
 - 2026-11-12 [Session ended without a report: gr_sczsxd9ztm step 4: ship the PR that cuts the CI tests step toward ≤110 s (kr_0xk1ex7tus)](docs/report/2026-11/2026-11-12-session-ended-without-a-report-gr-sczsxd9ztm-step-41jbtle8.md) `dc_c741jbtle8` · Mara 1
@@ -74,16 +80,13 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-08 [Mentioned by Mara 1 for Mitchell: note "Live check-2 probe: @mention of Mara from an origin-bearing session": …ri…](docs/report/2026-11/2026-11-08-mentioned-by-mara-1-for-mitchell-note-live-check-2-ayc5tavx.md) `dc_u7ayc5tavx` · Town
 - 2026-11-08 [Message from Mitchell (via Mara 1): Live check-2 probe (as_tc0c7g94pv, origin Mitchell via mt_lsyqj98z0w): this tel…](docs/report/2026-11/2026-11-08-message-from-mitchell-via-mara-1-live-check-2-prob-a27srwkj.md) `dc_fwa27srwkj` · Town
 - 2026-11-08 [Live check-2 repeat: 300072b7 live, but this session has no origin; parked 2 min so the continuation gets one](docs/report/2026-11/2026-11-08-live-check-2-repeat-300072b7-live-but-this-session-f19shuo4.md) `dc_c3f19shuo4` · Mara 1
-- 2026-11-08 [Live check-2 repeat: PR #397 (main 300072b7) not live yet; parked on its deploy](docs/report/2026-11/2026-11-08-live-check-2-repeat-pr-397-main-300072b7-not-live-x56rapah.md) `dc_onx56rapah` · Mara 2
-- 2026-11-08 [Work routing follow-up merged: PR #397 → main 300072b7; live check-2 repeat already queued](docs/report/2026-11/2026-11-08-work-routing-follow-up-merged-pr-397-main-300072b7-ac2eq6d4.md) `dc_u9ac2eq6d4` · Mara 1
-- 2026-11-08 [Work routing follow-up: directed work takes its human origin from sourceId; PR #397 opened, parked on CI](docs/report/2026-11/2026-11-08-work-routing-follow-up-directed-work-takes-its-hum-w3ppuyui.md) `dc_1bw3ppuyui` · Mara 2
-- 2026-11-08 [Work routing step 3 merged: PR #396 → main b9b14907](docs/report/2026-11/2026-11-08-work-routing-step-3-merged-pr-396-main-b9b14907-drop9k7b.md) `dc_gvdrop9k7b` · Mara 1
-- 2026-11-08 [Work routing step 3: docs PR #396 opened; parked on CI](docs/report/2026-11/2026-11-08-work-routing-step-3-docs-pr-396-opened-parked-on-c-d8g27k38.md) `dc_u3d8g27k38` · Mara 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
-## wiki (13)
+## wiki (15)
 
+- 2026-11-13 [Pure cores and the chain of command](docs/wiki/2026-11/2026-11-13-pure-cores-and-the-chain-of-command-yjs035gh.md) `dc_s4yjs035gh` · Mara 2
+- 2026-11-13 [Bend 2 and proof-checked cores](docs/wiki/2026-11/2026-11-13-bend-2-and-proof-checked-cores-8mf4rd6l.md) `dc_lr8mf4rd6l` · Mara 1
 - 2026-11-05 [Work routing](docs/wiki/2026-11/2026-11-05-work-routing-zj41hv8x.md) `dc_ktzj41hv8x` · Mara 1
 - 2026-11-05 [PR round-trips (CI failures and merge conflicts)](docs/wiki/2026-11/2026-11-05-pr-round-trips-ci-failures-and-merge-conflicts-3isidhw8.md) `dc_wp3isidhw8` · Mara 1
 - 2026-11-01 [Agent lifecycle (status state machine)](docs/wiki/2026-11/2026-11-01-agent-lifecycle-status-state-machine-vz2ppews.md) `dc_87vz2ppews` · Mara 1
