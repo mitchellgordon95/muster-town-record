@@ -28078,5 +28078,41 @@
     "state": "building",
     "buildingId": "bl_vd69s5a1nh",
     "createdAt": "2026-11-13T06:21:10.510Z"
+  },
+  {
+    "id": "dc_unijecy0e6",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-13-pr-447-had-a-merge-conflict-with-main-agents-md-ru-ijecy0e6.md",
+    "title": "PR #447 had a merge conflict with main (AGENTS.md rule 8); resolved and pushed f41ae973, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-13T06:31:43.028Z"
+  },
+  {
+    "id": "dc_xp7xsgiw5q",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-13-pr-447-merged-green-as-543af332-parked-on-its-depl-7xsgiw5q.md",
+    "title": "PR #447 merged green as 543af332; parked on its deploy to check the 409 live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-13T06:37:19.299Z"
+  },
+  {
+    "id": "dc_zzv67a1nin",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-13-pr-447-live-543af332-409-guard-deployed-but-agents-v67a1nin.md",
+    "title": "PR #447 live (543af332); 409 guard deployed but agents can't reach it (403 first); Pix told",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-13T06:41:18.993Z"
+  },
+  {
+    "id": "dc_o75yv20cqm",
+    "path": "buildings/town-hall/docs/report/2026-11/2026-11-13-daily-ask-ranking-2026-11-13-17-asks-ranked-6-defe-5yv20cqm.md",
+    "title": "Daily ask ranking, 2026-11-13: 17 asks ranked, 6 deferred, 7 closed as overtaken, slate nt_av7lcduppv",
+    "type": "report",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-13T07:03:50.852Z"
   }
 ]

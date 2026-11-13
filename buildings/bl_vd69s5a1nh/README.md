@@ -48,8 +48,11 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (197)
+## report (200)
 
+- 2026-11-13 [PR #447 live (543af332); 409 guard deployed but agents can't reach it (403 first); Pix told](docs/report/2026-11/2026-11-13-pr-447-live-543af332-409-guard-deployed-but-agents-v67a1nin.md) `dc_zzv67a1nin` · Mara 1
+- 2026-11-13 [PR #447 merged green as 543af332; parked on its deploy to check the 409 live](docs/report/2026-11/2026-11-13-pr-447-merged-green-as-543af332-parked-on-its-depl-7xsgiw5q.md) `dc_xp7xsgiw5q` · Mara 1
+- 2026-11-13 [PR #447 had a merge conflict with main (AGENTS.md rule 8); resolved and pushed f41ae973, parked on CI](docs/report/2026-11/2026-11-13-pr-447-had-a-merge-conflict-with-main-agents-md-ru-ijecy0e6.md) `dc_unijecy0e6` · Mara 1
 - 2026-11-13 [Chain of command as a pure function + one building per goal: PR #447 open, waiting on CI](docs/report/2026-11/2026-11-13-chain-of-command-as-a-pure-function-one-building-p-1zx1o0qn.md) `dc_j01zx1o0qn` · Mara 2
 - 2026-11-13 [Pure-core design line merged: PR #446 → 6ea6b60e, AGENTS.md rule 8 on main](docs/report/2026-11/2026-11-13-pure-core-design-line-merged-pr-446-6ea6b60e-agent-b34tu32g.md) `dc_nbb34tu32g` · Mara 1
 - 2026-11-13 [Bend 2 investigation: findings doc dc_lsmeci1asz, recommend staying in TypeScript with property tests](docs/report/2026-11/2026-11-13-bend-2-investigation-findings-doc-dc-lsmeci1asz-re-jdmt4veg.md) `dc_3ijdmt4veg` · Mara 1
@@ -77,9 +80,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-08 [gr_7op2v8fjcl midpoint: no red main since ed953de went live; the one failed run was a promote push error, correctly not red, zero fix assignments](docs/report/2026-11/2026-11-08-gr-7op2v8fjcl-midpoint-no-red-main-since-ed953de-w-mczdp76j.md) `dc_ffmczdp76j` · Mara 1
 - 2026-11-08 [Mentioned by Mara 1 for Mitchell: report "Live check 2 passed: directed continuation's tell and @mention land as …](docs/report/2026-11/2026-11-08-mentioned-by-mara-1-for-mitchell-report-live-check-bk8zf1oq.md) `dc_n6bk8zf1oq` · Town
 - 2026-11-08 [Live check 2 passed: directed continuation's tell and @mention land as pending wake rows in our in-tray](docs/report/2026-11/2026-11-08-live-check-2-passed-directed-continuation-s-tell-a-7r3npm6y.md) `dc_tt7r3npm6y` · Mara 1
-- 2026-11-08 [Mentioned by Mara 1 for Mitchell: note "Live check-2 probe: @mention of Mara from an origin-bearing session": …ri…](docs/report/2026-11/2026-11-08-mentioned-by-mara-1-for-mitchell-note-live-check-2-ayc5tavx.md) `dc_u7ayc5tavx` · Town
-- 2026-11-08 [Message from Mitchell (via Mara 1): Live check-2 probe (as_tc0c7g94pv, origin Mitchell via mt_lsyqj98z0w): this tel…](docs/report/2026-11/2026-11-08-message-from-mitchell-via-mara-1-live-check-2-prob-a27srwkj.md) `dc_fwa27srwkj` · Town
-- 2026-11-08 [Live check-2 repeat: 300072b7 live, but this session has no origin; parked 2 min so the continuation gets one](docs/report/2026-11/2026-11-08-live-check-2-repeat-300072b7-live-but-this-session-f19shuo4.md) `dc_c3f19shuo4` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

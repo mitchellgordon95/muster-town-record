@@ -43,8 +43,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 - 2026-11-09 [Policy ledger](docs/policy/2026-11/2026-11-09-policy-ledger-4k0gz4xt.md) `dc_hx4k0gz4xt` · Secretary
 
-## report (14)
+## report (15)
 
+- 2026-11-13 [Daily ask ranking, 2026-11-13: 17 asks ranked, 6 deferred, 7 closed as overtaken, slate nt_av7lcduppv](docs/report/2026-11/2026-11-13-daily-ask-ranking-2026-11-13-17-asks-ranked-6-defe-5yv20cqm.md) `dc_o75yv20cqm` · Secretary
 - 2026-11-12 [Daily ask ranking, 2026-11-12: cut by the 40k retainer before ranking (74k used reading 37 asks); no slate filed](docs/report/2026-11/2026-11-12-daily-ask-ranking-2026-11-12-cut-by-the-40k-retain-k97u9jk9.md) `dc_9hk97u9jk9` · Secretary
 - 2026-11-11 [Daily ask ranking, 2026-11-11: 37 asks ranked, 10 newly deferred, slate nt_ouzrnxs9o7](docs/report/2026-11/2026-11-11-daily-ask-ranking-2026-11-11-37-asks-ranked-10-new-6pgjatha.md) `dc_em6pgjatha` · Secretary
 - 2026-11-10 [Daily ask ranking, 2026-11-10: 29 asks ranked, 7 deferred, slate nt_k49gd9a9vk](docs/report/2026-11/2026-11-10-daily-ask-ranking-2026-11-10-29-asks-ranked-7-defe-51bwy1cp.md) `dc_z651bwy1cp` · Secretary
