@@ -28240,5 +28240,14 @@
     "state": "building",
     "buildingId": "bl_vd69s5a1nh",
     "createdAt": "2026-11-14T02:01:37.357Z"
+  },
+  {
+    "id": "dc_19vtos2bz0",
+    "path": "buildings/town-hall/docs/report/2026-11/2026-11-14-daily-ask-ranking-2026-11-14-12-asks-ranked-1-card-vtos2bz0.md",
+    "title": "Daily ask ranking, 2026-11-14: 12 asks ranked, 1 card rewritten, slate nt_v37s8l3k16; cut by the 40k retainer again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-14T07:02:17.712Z"
   }
 ]
