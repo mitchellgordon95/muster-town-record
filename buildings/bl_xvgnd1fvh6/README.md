@@ -18,7 +18,7 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 ## fyi (23)
 
-- 2026-11-13 [RED 12 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-13-red-12-claude-sessions-failed-in-15-min-xxs7sotf.md) `dc_x6xxs7sotf` · Town
+- 2026-11-13 [CLEARED RED sessions: 0 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-13-cleared-red-sessions-0-claude-sessions-failed-in-1-xxs7sotf.md) `dc_x6xxs7sotf` · Town
 - 2026-11-12 [CLEARED YELLOW sessions: 2 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-12-cleared-yellow-sessions-2-claude-sessions-failed-i-iqdgguqr.md) `dc_07iqdgguqr` · Town
 - 2026-11-12 [CLEARED RED sessions: 2 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-12-cleared-red-sessions-2-claude-sessions-failed-in-1-r7mt0tq3.md) `dc_ljr7mt0tq3` · Town
 - 2026-11-12 [CLEARED RED sessions: 1 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-12-cleared-red-sessions-1-claude-sessions-failed-in-1-kwa7n9h8.md) `dc_4gkwa7n9h8` · Town
@@ -94,8 +94,11 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (341)
+## report (344)
 
+- 2026-11-14 [PR #448 merged as 6f4bf8c0; first main run skipped the image deploy (no secret yet)](docs/report/2026-11/2026-11-14-pr-448-merged-as-6f4bf8c0-first-main-run-skipped-t-5p7793c4.md) `dc_9w5p7793c4` · Cleo 1
+- 2026-11-13 [#449 live at 5a7e229: host sessions back; bundle boot 1.75 s (tsx was 3.1 s)](docs/report/2026-11/2026-11-13-449-live-at-5a7e229-host-sessions-back-bundle-boot-ucsdkk6m.md) `dc_5iucsdkk6m` · Cleo 1
+- 2026-11-13 [Image deploy live; it broke host sessions (SDK unresolvable from dist), fix PR #449 parked on CI](docs/report/2026-11/2026-11-13-image-deploy-live-it-broke-host-sessions-sdk-unres-p6jxhvtp.md) `dc_9sp6jxhvtp` · Cleo 1
 - 2026-11-13 [PR #448: CI image deploy step, parked on its CI](docs/report/2026-11/2026-11-13-pr-448-ci-image-deploy-step-parked-on-its-ci-weiz7i0f.md) `dc_9dweiz7i0f` · Cleo 1
 - 2026-11-13 [Pause check 11-13: Mitchell has not lifted it, Prod stays paused](docs/report/2026-11/2026-11-13-pause-check-11-13-mitchell-has-not-lifted-it-prod-qv6yol8r.md) `dc_27qv6yol8r` · Cleo 1
 - 2026-11-12 [#441 merged as 6e20eef0 (status-page link); stopped before it went live (Prod paused)](docs/report/2026-11/2026-11-12-441-merged-as-6e20eef0-status-page-link-stopped-be-rkwgeno2.md) `dc_enrkwgeno2` · Cleo 1
@@ -123,9 +126,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-10 [gr_8cdix9mpye step 3b done: proof town delisted on schedule and torn down on Wright's box](docs/report/2026-11/2026-11-10-gr-8cdix9mpye-step-3b-done-proof-town-delisted-on-ovf3z4yq.md) `dc_5lovf3z4yq` · Cleo 1
 - 2026-11-10 [gr_rcj8nkbkbt: #424 web Uptime block merged (aaa749f3); live check still to do](docs/report/2026-11/2026-11-10-gr-rcj8nkbkbt-424-web-uptime-block-merged-aaa749f3-74xhjzth.md) `dc_e874xhjzth` · Cleo 1
 - 2026-11-10 [gr_rcj8nkbkbt: #418 merged (5409c12d); #424 brought up to main, parked on its CI](docs/report/2026-11/2026-11-10-gr-rcj8nkbkbt-418-merged-5409c12d-424-brought-up-t-gspn5uua.md) `dc_b0gspn5uua` · Cleo 1
-- 2026-11-10 [PR #420 merged (7f12374); parked until it is live to check the deploy card](docs/report/2026-11/2026-11-10-pr-420-merged-7f12374-parked-until-it-is-live-to-c-c7m9tnen.md) `dc_xkc7m9tnen` · Cleo 1
-- 2026-11-10 [gr_rcj8nkbkbt: #418 brought up to main and knip-fixed (CI re-running); web Uptime block in draft PR #424](docs/report/2026-11/2026-11-10-gr-rcj8nkbkbt-418-brought-up-to-main-and-knip-fixe-ujri2o11.md) `dc_v2ujri2o11` · Cleo 1
-- 2026-11-10 [PR #420 CI red on deadcode (2 unused exports): fixed in 4c19649, parked on CI](docs/report/2026-11/2026-11-10-pr-420-ci-red-on-deadcode-2-unused-exports-fixed-i-00n1dgpr.md) `dc_y300n1dgpr` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

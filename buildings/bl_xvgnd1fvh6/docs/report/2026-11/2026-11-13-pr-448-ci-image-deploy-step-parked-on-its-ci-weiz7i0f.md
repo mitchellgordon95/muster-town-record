@@ -9,14 +9,17 @@ buildingId: "bl_xvgnd1fvh6"
 provenance: {"sourceIds":[],"urls":[]}
 tags: ["parked"]
 verdict: "continue"
-decision: "pending"
+decision: "approve"
+decisionNote: "Parked continuation as_ns1oprjvfj merges #448 on green; the secret FLY_TOWN_DEPLOY_TOKEN is already asked of Mitchell in ak_yhxjzh3m7x. Nothing more to file."
+decidedBy: "ag_imxsagd9cj"
+decidedAt: "2026-11-13T23:48:07.731Z"
 sessionId: "se_nh1dn0d3c3"
 assignmentId: "as_s7fwpkkyge"
 costUsd: 1.2715537999999995
 tokens: 63578
 turns: 20
 createdAt: "2026-11-13T23:27:16.869Z"
-updatedAt: "2026-11-13T23:27:16.869Z"
+updatedAt: "2026-11-13T23:48:07.731Z"
 ---
 ## What I did
 Added a gated `fly deploy` step to ci.yml's image job and updated deploy/README.md, the fly.town.toml and build.sh headers, plus a docs/log.d entry. Opened draft PR #448 (https://github.com/mitchellgordon95/muster-town/pull/448). `npm run check --fast` passed on the desk on the second run (the first run failed at tests). I am parked on its CI and will merge it when it is green.

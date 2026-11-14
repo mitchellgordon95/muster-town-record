@@ -28153,8 +28153,8 @@
   },
   {
     "id": "dc_x6xxs7sotf",
-    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-13-red-12-claude-sessions-failed-in-15-min-xxs7sotf.md",
-    "title": "[RED] 12 Claude sessions failed in 15 min",
+    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-13-cleared-red-sessions-0-claude-sessions-failed-in-1-xxs7sotf.md",
+    "title": "[CLEARED] RED sessions: 0 Claude sessions failed in 15 min",
     "type": "fyi",
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
@@ -28177,5 +28177,59 @@
     "state": "building",
     "buildingId": "town-hall",
     "createdAt": "2026-11-13T23:28:43.387Z"
+  },
+  {
+    "id": "dc_00d41j6bl0",
+    "path": "buildings/town-hall/docs/fyi/2026-11/2026-11-13-host-sessions-secretary-managers-fail-since-the-23-d41j6bl0.md",
+    "title": "Host sessions (Secretary, managers) fail since the 23:19Z image deploy; fix in PR #449",
+    "type": "fyi",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-13T23:30:07.521Z"
+  },
+  {
+    "id": "dc_9sp6jxhvtp",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-13-image-deploy-live-it-broke-host-sessions-sdk-unres-p6jxhvtp.md",
+    "title": "Image deploy live; it broke host sessions (SDK unresolvable from dist), fix PR #449 parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-13T23:30:25.864Z"
+  },
+  {
+    "id": "dc_7wj92es7v4",
+    "path": "buildings/town-hall/docs/fyi/2026-11/2026-11-13-resolved-2026-11-13-23-47z-host-sessions-secretary-j92es7v4.md",
+    "title": "Resolved 2026-11-13 23:47Z: host sessions (Secretary, managers) work again; PR #449 live at 5a7e229",
+    "type": "fyi",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-13T23:48:21.580Z"
+  },
+  {
+    "id": "dc_5iucsdkk6m",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-13-449-live-at-5a7e229-host-sessions-back-bundle-boot-ucsdkk6m.md",
+    "title": "#449 live at 5a7e229: host sessions back; bundle boot 1.75 s (tsx was 3.1 s)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-13T23:48:34.928Z"
+  },
+  {
+    "id": "dc_9w5p7793c4",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-14-pr-448-merged-as-6f4bf8c0-first-main-run-skipped-t-5p7793c4.md",
+    "title": "PR #448 merged as 6f4bf8c0; first main run skipped the image deploy (no secret yet)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-14T00:02:43.653Z"
+  },
+  {
+    "id": "dc_n2ue2ghj6t",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-14-1-1-mitchell-and-secretary-notes-ue2ghj6t.md",
+    "title": "1:1: Mitchell and Secretary — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-14T00:24:49.973Z"
   }
 ]
