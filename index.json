@@ -28249,5 +28249,23 @@
     "state": "building",
     "buildingId": "town-hall",
     "createdAt": "2026-11-14T07:02:17.712Z"
+  },
+  {
+    "id": "dc_kw06vwoduk",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-14-style-guide-skill-has-the-sheet-rule-docs-copy-in-06vwoduk.md",
+    "title": "Style-guide skill has the sheet rule; docs/ copy in PR #450, parked on its CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-14T10:03:10.196Z"
+  },
+  {
+    "id": "dc_b4qeqixm5l",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-14-pr-450-green-and-squash-merged-56bbc37e-kr-nokx342-qeqixm5l.md",
+    "title": "PR #450 green and squash-merged (56bbc37e); kr_nokx342ovj claimed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-14T10:08:17.230Z"
   }
 ]

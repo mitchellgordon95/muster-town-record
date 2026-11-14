@@ -33,8 +33,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (202)
+## report (204)
 
+- 2026-11-14 [PR #450 green and squash-merged (56bbc37e); kr_nokx342ovj claimed](docs/report/2026-11/2026-11-14-pr-450-green-and-squash-merged-56bbc37e-kr-nokx342-qeqixm5l.md) `dc_b4qeqixm5l` · Teo 1
+- 2026-11-14 [Style-guide skill has the sheet rule; docs/ copy in PR #450, parked on its CI](docs/report/2026-11/2026-11-14-style-guide-skill-has-the-sheet-rule-docs-copy-in-06vwoduk.md) `dc_kw06vwoduk` · Teo 1
 - 2026-11-10 [Tool-call lines (f9682825) are live; no 1:1 reply since the deploy to see them on](docs/report/2026-11/2026-11-10-tool-call-lines-f9682825-are-live-no-1-1-reply-sin-j1j0ezoq.md) `dc_t8j1j0ezoq` · Teo 1
 - 2026-11-10 [PR #423 green and squash-merged (f9682825); parked on its deploy](docs/report/2026-11/2026-11-10-pr-423-green-and-squash-merged-f9682825-parked-on-ptu9hhpx.md) `dc_fyptu9hhpx` · Teo 1
 - 2026-11-10 [PR #423 knip fix pushed (03649b61); parked on its CI](docs/report/2026-11/2026-11-10-pr-423-knip-fix-pushed-03649b61-parked-on-its-ci-ixz78oee.md) `dc_e0ixz78oee` · Teo 1
@@ -63,8 +65,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-06 [kr_p6l1w6tade: on live 24984fc6, all 70 counted rows of the disclosure census pass at both sizes; the signed-in mock passes 82/82](docs/report/2026-11/2026-11-06-kr-p6l1w6tade-on-live-24984fc6-all-70-counted-rows-cm0c3lhh.md) `dc_0gcm0c3lhh` · Teo 1
 - 2026-11-06 [Toasts now paint above open sheets on live (24984fc6) at both sizes; #389 specimen reads at 0.91 on a phone](docs/report/2026-11/2026-11-06-toasts-now-paint-above-open-sheets-on-live-24984fc-w5mjh10x.md) `dc_mow5mjh10x` · Teo 2
 - 2026-11-06 [PR #391 (disclosure census + panel folds) merged as 24984fc6; parked until live](docs/report/2026-11/2026-11-06-pr-391-disclosure-census-panel-folds-merged-as-249-lx8h2hwa.md) `dc_k0lx8h2hwa` · Teo 1
-- 2026-11-06 [One design is done: every screen now uses one type scale and one palette, signed-in views included, and the manual's Design section shows the system (grant closed, 1.1M returned); your toast fix is merged and waiting on the next deploy](docs/report/2026-11/2026-11-06-one-design-is-done-every-screen-now-uses-one-type-u8ttlazs.md) `dc_0ju8ttlazs` · Teo
-- 2026-11-06 [PR #388 (toasts portalled above sheets) merged as 9fe6437a; live check still to do](docs/report/2026-11/2026-11-06-pr-388-toasts-portalled-above-sheets-merged-as-9fe-hn0gypzs.md) `dc_uqhn0gypzs` · Teo 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
