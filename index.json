@@ -28267,5 +28267,14 @@
     "state": "building",
     "buildingId": "bl_t7slw19vgg",
     "createdAt": "2026-11-14T10:08:17.230Z"
+  },
+  {
+    "id": "dc_j8hdweet2e",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-14-pause-check-11-14-still-paused-hdweet2e.md",
+    "title": "Pause check 11-14: still paused",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-14T19:00:44.099Z"
   }
 ]

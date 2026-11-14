@@ -369,7 +369,7 @@
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 45786
+    "familySpentToday": 83837
   },
   {
     "id": "ag_r9xzrbz8tj",
@@ -53533,6 +53533,37 @@
     "inheritsOwner": false,
     "deniedPermissions": [],
     "forkOf": "ag_s1kuuuo54b",
+    "forkN": 1,
+    "familySpentToday": 0
+  },
+  {
+    "id": "ag_qf7780nulq",
+    "name": "Cleo 1",
+    "kind": "resident",
+    "buildingId": "bl_xvgnd1fvh6",
+    "homeBuildingId": "bl_xvgnd1fvh6",
+    "ownerUserId": "us_1la74k332n",
+    "title": "",
+    "direction": "",
+    "sprite": 9,
+    "pos": {
+      "x": 120,
+      "y": 10
+    },
+    "status": "retired",
+    "activity": "",
+    "model": "claude-opus-5-5",
+    "spentTokensToday": 38051,
+    "spentTokensTotal": 38051,
+    "spentUsdTotal": 0.761025,
+    "currentAssignmentId": null,
+    "currentMeetingId": null,
+    "createdAt": "2026-11-14T19:00:04.053Z",
+    "lastActiveAt": "2026-11-14T19:00:44.349Z",
+    "lastSeenAt": "2026-11-14T19:00:44.095Z",
+    "inheritsOwner": false,
+    "deniedPermissions": [],
+    "forkOf": "ag_imxsagd9cj",
     "forkN": 1,
     "familySpentToday": 0
   }

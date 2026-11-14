@@ -94,8 +94,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (344)
+## report (345)
 
+- 2026-11-14 [Pause check 11-14: still paused](docs/report/2026-11/2026-11-14-pause-check-11-14-still-paused-hdweet2e.md) `dc_j8hdweet2e` · Cleo 1
 - 2026-11-14 [PR #448 merged as 6f4bf8c0; first main run skipped the image deploy (no secret yet)](docs/report/2026-11/2026-11-14-pr-448-merged-as-6f4bf8c0-first-main-run-skipped-t-5p7793c4.md) `dc_9w5p7793c4` · Cleo 1
 - 2026-11-13 [#449 live at 5a7e229: host sessions back; bundle boot 1.75 s (tsx was 3.1 s)](docs/report/2026-11/2026-11-13-449-live-at-5a7e229-host-sessions-back-bundle-boot-ucsdkk6m.md) `dc_5iucsdkk6m` · Cleo 1
 - 2026-11-13 [Image deploy live; it broke host sessions (SDK unresolvable from dist), fix PR #449 parked on CI](docs/report/2026-11/2026-11-13-image-deploy-live-it-broke-host-sessions-sdk-unres-p6jxhvtp.md) `dc_9sp6jxhvtp` · Cleo 1
@@ -125,7 +126,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-10 [Prod rollup #46 (gr_8cdix9mpye closed done, 524,619 / 1,500,000): a stranger's box listed a self-hosted town and was delisted when its proof went; public uptime and the redeploy change list are merged and wait on CI's deploy](docs/report/2026-11/2026-11-10-prod-rollup-46-gr-8cdix9mpye-closed-done-524-619-1-pj6mbjhe.md) `dc_zipj6mbjhe` · Cleo
 - 2026-11-10 [gr_8cdix9mpye step 3b done: proof town delisted on schedule and torn down on Wright's box](docs/report/2026-11/2026-11-10-gr-8cdix9mpye-step-3b-done-proof-town-delisted-on-ovf3z4yq.md) `dc_5lovf3z4yq` · Cleo 1
 - 2026-11-10 [gr_rcj8nkbkbt: #424 web Uptime block merged (aaa749f3); live check still to do](docs/report/2026-11/2026-11-10-gr-rcj8nkbkbt-424-web-uptime-block-merged-aaa749f3-74xhjzth.md) `dc_e874xhjzth` · Cleo 1
-- 2026-11-10 [gr_rcj8nkbkbt: #418 merged (5409c12d); #424 brought up to main, parked on its CI](docs/report/2026-11/2026-11-10-gr-rcj8nkbkbt-418-merged-5409c12d-424-brought-up-t-gspn5uua.md) `dc_b0gspn5uua` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
