@@ -28231,5 +28231,14 @@
     "state": "building",
     "buildingId": "town-hall",
     "createdAt": "2026-11-14T00:24:49.973Z"
+  },
+  {
+    "id": "dc_769elydnfd",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-14-kr-0xk1ex7tus-met-10-green-main-runs-from-aa2674b5-9elydnfd.md",
+    "title": "kr_0xk1ex7tus met: 10 green main runs from aa2674b5, tests median 105 s, total 132 s",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-14T02:01:37.357Z"
   }
 ]

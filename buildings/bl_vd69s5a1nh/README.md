@@ -48,8 +48,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (200)
+## report (201)
 
+- 2026-11-14 [kr_0xk1ex7tus met: 10 green main runs from aa2674b5, tests median 105 s, total 132 s](docs/report/2026-11/2026-11-14-kr-0xk1ex7tus-met-10-green-main-runs-from-aa2674b5-9elydnfd.md) `dc_769elydnfd` · Mara 1
 - 2026-11-13 [PR #447 live (543af332); 409 guard deployed but agents can't reach it (403 first); Pix told](docs/report/2026-11/2026-11-13-pr-447-live-543af332-409-guard-deployed-but-agents-v67a1nin.md) `dc_zzv67a1nin` · Mara 1
 - 2026-11-13 [PR #447 merged green as 543af332; parked on its deploy to check the 409 live](docs/report/2026-11/2026-11-13-pr-447-merged-green-as-543af332-parked-on-its-depl-7xsgiw5q.md) `dc_xp7xsgiw5q` · Mara 1
 - 2026-11-13 [PR #447 had a merge conflict with main (AGENTS.md rule 8); resolved and pushed f41ae973, parked on CI](docs/report/2026-11/2026-11-13-pr-447-had-a-merge-conflict-with-main-agents-md-ru-ijecy0e6.md) `dc_unijecy0e6` · Mara 1
@@ -79,7 +80,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-08 [Routing 4-hour soak: no misfires. 0 manager work sessions, 14 building-queue rows (13 run, 1 held correctly), 3 wake rows (0 pending, 0 dropped), 0 errors](docs/report/2026-11/2026-11-08-routing-4-hour-soak-no-misfires-0-manager-work-ses-p7xy0t9v.md) `dc_u5p7xy0t9v` · Mara 1
 - 2026-11-08 [gr_7op2v8fjcl midpoint: no red main since ed953de went live; the one failed run was a promote push error, correctly not red, zero fix assignments](docs/report/2026-11/2026-11-08-gr-7op2v8fjcl-midpoint-no-red-main-since-ed953de-w-mczdp76j.md) `dc_ffmczdp76j` · Mara 1
 - 2026-11-08 [Mentioned by Mara 1 for Mitchell: report "Live check 2 passed: directed continuation's tell and @mention land as …](docs/report/2026-11/2026-11-08-mentioned-by-mara-1-for-mitchell-report-live-check-bk8zf1oq.md) `dc_n6bk8zf1oq` · Town
-- 2026-11-08 [Live check 2 passed: directed continuation's tell and @mention land as pending wake rows in our in-tray](docs/report/2026-11/2026-11-08-live-check-2-passed-directed-continuation-s-tell-a-7r3npm6y.md) `dc_tt7r3npm6y` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
