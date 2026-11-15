@@ -127,8 +127,10 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1159)
+## report (1161)
 
+- 2026-11-15 [PR #452 merged (dc6a3800): the Secretary's rewrites of request-backed cards now hold](docs/report/2026-11/2026-11-15-pr-452-merged-dc6a3800-the-secretary-s-rewrites-of-u0m2ul1c.md) `dc_3tu0m2ul1c` · Pix 1
+- 2026-11-15 [Secretary's request-card rewrites now hold: PR #452 open, parked on CI](docs/report/2026-11/2026-11-15-secretary-s-request-card-rewrites-now-hold-pr-452-e080qamh.md) `dc_efe080qamh` · Pix 1
 - 2026-11-12 [Onboarding sweep 14 (checked 73297901 → 6e20eef0): 0 stale, 2 gaps fixed in the manual; PR #442 open, parked on CI](docs/report/2026-11/2026-11-12-onboarding-sweep-14-checked-73297901-6e20eef0-0-st-f738imq7.md) `dc_c7f738imq7` · Pix 1
 - 2026-11-12 [Grant gr_9mp6v6vv8k closed (done)](docs/report/2026-11/2026-11-12-grant-gr-9mp6v6vv8k-closed-done-ts7vq46p.md) `dc_fxts7vq46p` · Town
 - 2026-11-12 [Key result kr_o8dbx2axii marked met by Mitchell](docs/report/2026-11/2026-11-12-key-result-kr-o8dbx2axii-marked-met-by-mitchell-duidycre.md) `dc_dqduidycre` · Town
@@ -157,8 +159,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-12 [GET /api/jobs/gr_9mp6v6vv8k is live: ceiling job, one entry per report; kr_0neb2wqafu claimed](docs/report/2026-11/2026-11-12-get-api-jobs-gr-9mp6v6vv8k-is-live-ceiling-job-one-0p1i7q74.md) `dc_k90p1i7q74` · Pix 2
 - 2026-11-12 [Root town's first Publish to GitHub push verified; all three key results of gr_30f8obzab8 claimed](docs/report/2026-11/2026-11-12-root-town-s-first-publish-to-github-push-verified-xl283ru3.md) `dc_rtxl283ru3` · Pix 2
 - 2026-11-12 [PR #432 merged (7c182fe7); parked on deploy to live-check /api/jobs/gr_9mp6v6vv8k](docs/report/2026-11/2026-11-12-pr-432-merged-7c182fe7-parked-on-deploy-to-live-ch-c4k6fcar.md) `dc_blc4k6fcar` · Pix 2
-- 2026-11-12 [Residents publish is live; the non-manager publish check waits on an admin letting the test account in](docs/report/2026-11/2026-11-12-residents-publish-is-live-the-non-manager-publish-92hunylm.md) `dc_6o92hunylm` · Pix 4
-- 2026-11-12 [Web for the Secretary: live, session restarted under 7be84c3c; WebFetch not yet exercised, parked to re-check](docs/report/2026-11/2026-11-12-web-for-the-secretary-live-session-restarted-under-my2607r0.md) `dc_n7my2607r0` · Pix 3
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

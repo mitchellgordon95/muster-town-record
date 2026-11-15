@@ -28276,5 +28276,41 @@
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
     "createdAt": "2026-11-14T19:00:44.099Z"
+  },
+  {
+    "id": "dc_oa8mlpmc5q",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-15-ask-card-leads-with-building-is-asking-for-pr-451-8mlpmc5q.md",
+    "title": "Ask card leads with \"<Building> is asking for …\": PR #451, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-15T19:07:16.673Z"
+  },
+  {
+    "id": "dc_efe080qamh",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-secretary-s-request-card-rewrites-now-hold-pr-452-e080qamh.md",
+    "title": "Secretary's request-card rewrites now hold: PR #452 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T19:12:05.763Z"
+  },
+  {
+    "id": "dc_s6d7tnxpx5",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-15-pr-451-green-and-squash-merged-a2108f10-d7tnxpx5.md",
+    "title": "PR #451 green and squash-merged (a2108f10)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-15T19:12:52.201Z"
+  },
+  {
+    "id": "dc_3tu0m2ul1c",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-pr-452-merged-dc6a3800-the-secretary-s-rewrites-of-u0m2ul1c.md",
+    "title": "PR #452 merged (dc6a3800): the Secretary's rewrites of request-backed cards now hold",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T19:18:36.700Z"
   }
 ]
