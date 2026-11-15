@@ -128,8 +128,17 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1180)
+## report (1189)
 
+- 2026-11-15 [Queue health step 4: samples not there yet; retired-before-read fix in PR #466, parked on CI](docs/report/2026-11/2026-11-15-queue-health-step-4-samples-not-there-yet-retired-qp20wfg0.md) `dc_kaqp20wfg0` · Pix 2
+- 2026-11-15 [Queue health step 3 live: Town health tab shows queue-health and legible rows](docs/report/2026-11/2026-11-15-queue-health-step-3-live-town-health-tab-shows-que-9xwqjq44.md) `dc_a59xwqjq44` · Pix 1
+- 2026-11-15 [Secretary stands north of the hydrant on the live map (flag dc_zkzi4xnue4 done)](docs/report/2026-11/2026-11-15-secretary-stands-north-of-the-hydrant-on-the-live-01qc2vr2.md) `dc_3x01qc2vr2` · Pix 1
+- 2026-11-15 [PR #465 merged (8d85244a): goal proposals on the thread](docs/report/2026-11/2026-11-15-pr-465-merged-8d85244a-goal-proposals-on-the-threa-bq91wmyw.md) `dc_dobq91wmyw` · Pix 2
+- 2026-11-15 [PR #464 merged (7e1a38aa); waiting for deploy to check the Town health tab](docs/report/2026-11/2026-11-15-pr-464-merged-7e1a38aa-waiting-for-deploy-to-check-l7i3yfjd.md) `dc_nml7i3yfjd` · Pix 3
+- 2026-11-15 [Goal proposals on the thread (decision 4): PR #465 open, parked on CI](docs/report/2026-11/2026-11-15-goal-proposals-on-the-thread-decision-4-pr-465-ope-19s7fa22.md) `dc_yh19s7fa22` · Pix 1
+- 2026-11-15 [PR #464 CI failed (manual over cap, knip); fixed in 04d01c61, parked on CI](docs/report/2026-11/2026-11-15-pr-464-ci-failed-manual-over-cap-knip-fixed-in-04d-es12e0xx.md) `dc_fwes12e0xx` · Pix 2
+- 2026-11-15 [Queue health step 3: Town health tab rows, PR #464 open, parked on CI](docs/report/2026-11/2026-11-15-queue-health-step-3-town-health-tab-rows-pr-464-op-q0gkq041.md) `dc_gkq0gkq041` · Pix 3
+- 2026-11-15 [Queue health step 2 live: legible.queue on /api/health](docs/report/2026-11/2026-11-15-queue-health-step-2-live-legible-queue-on-api-heal-sfkdywhk.md) `dc_pzsfkdywhk` · Pix 2
 - 2026-11-15 [PR #463 merged (45703173): one need, one ask](docs/report/2026-11/2026-11-15-pr-463-merged-45703173-one-need-one-ask-h9s8clmw.md) `dc_onh9s8clmw` · Pix 1
 - 2026-11-15 [PR #462 merged (cafdf0ef); waiting for deploy to check the live map](docs/report/2026-11/2026-11-15-pr-462-merged-cafdf0ef-waiting-for-deploy-to-check-9fm897zm.md) `dc_2v9fm897zm` · Pix 1
 - 2026-11-15 [Duplicate asks (decisions 2-3): PR #463 open, parked on CI](docs/report/2026-11/2026-11-15-duplicate-asks-decisions-2-3-pr-463-open-parked-on-jak780xc.md) `dc_ytjak780xc` · Pix 2
@@ -151,15 +160,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-15 [Queue health step 1: screen views and who retired each ask, PR #453 open, parked on CI](docs/report/2026-11/2026-11-15-queue-health-step-1-screen-views-and-who-retired-e-08r7x55j.md) `dc_c308r7x55j` · Pix 2
 - 2026-11-15 [PR #452 merged (dc6a3800): the Secretary's rewrites of request-backed cards now hold](docs/report/2026-11/2026-11-15-pr-452-merged-dc6a3800-the-secretary-s-rewrites-of-u0m2ul1c.md) `dc_3tu0m2ul1c` · Pix 1
 - 2026-11-15 [Secretary's request-card rewrites now hold: PR #452 open, parked on CI](docs/report/2026-11/2026-11-15-secretary-s-request-card-rewrites-now-hold-pr-452-e080qamh.md) `dc_efe080qamh` · Pix 1
-- 2026-11-12 [Onboarding sweep 14 (checked 73297901 → 6e20eef0): 0 stale, 2 gaps fixed in the manual; PR #442 open, parked on CI](docs/report/2026-11/2026-11-12-onboarding-sweep-14-checked-73297901-6e20eef0-0-st-f738imq7.md) `dc_c7f738imq7` · Pix 1
-- 2026-11-12 [Grant gr_9mp6v6vv8k closed (done)](docs/report/2026-11/2026-11-12-grant-gr-9mp6v6vv8k-closed-done-ts7vq46p.md) `dc_fxts7vq46p` · Town
-- 2026-11-12 [Key result kr_o8dbx2axii marked met by Mitchell](docs/report/2026-11/2026-11-12-key-result-kr-o8dbx2axii-marked-met-by-mitchell-duidycre.md) `dc_dqduidycre` · Town
-- 2026-11-12 [Key result kr_uncaesm191 marked met by Mitchell](docs/report/2026-11/2026-11-12-key-result-kr-uncaesm191-marked-met-by-mitchell-ta29cpqx.md) `dc_5dta29cpqx` · Town
-- 2026-11-12 [Key result kr_xzdcf7d5i3 marked met by Mitchell](docs/report/2026-11/2026-11-12-key-result-kr-xzdcf7d5i3-marked-met-by-mitchell-lyxxw8py.md) `dc_3nlyxxw8py` · Town
-- 2026-11-12 [Key result kr_0neb2wqafu marked met by Mitchell](docs/report/2026-11/2026-11-12-key-result-kr-0neb2wqafu-marked-met-by-mitchell-zmprqonh.md) `dc_c1zmprqonh` · Town
-- 2026-11-12 [Session ended without a report: Fix: a grant step's session that dies without a report leaves its assignment active forever (the runtime's fallback report is refused by the `left` rule); repair as_0rk](docs/report/2026-11/2026-11-12-session-ended-without-a-report-fix-a-grant-step-s-dt59734h.md) `dc_6qdt59734h` · Pix 1
-- 2026-11-12 [ff90449e live: act_in_1on1 and Keep file no ledger ask (1:1 decisions 6+12 done)](docs/report/2026-11/2026-11-12-ff90449e-live-act-in-1on1-and-keep-file-no-ledger-31y28jbq.md) `dc_kp31y28jbq` · Pix 2
-- 2026-11-12 [PR #439 green and merged as ff90449e; parked on its deploy](docs/report/2026-11/2026-11-12-pr-439-green-and-merged-as-ff90449e-parked-on-its-zwrfm60u.md) `dc_nszwrfm60u` · Pix 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -168,8 +168,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-27 [demo-media](docs/skill/2026-10/2026-10-27-demo-media-8jzo79xq.md) `dc_p68jzo79xq` · Lena
 - 2026-10-26 [desk-image](docs/skill/2026-10/2026-10-26-desk-image-93n44plc.md) `dc_br93n44plc` · Root
 
-## wiki (73)
+## wiki (74)
 
+- 2026-11-15 [Goal proposals on the thread (mt_dwsxo7oms8 decision 4)](docs/wiki/2026-11/2026-11-15-goal-proposals-on-the-thread-mt-dwsxo7oms8-decisio-70f3fmo3.md) `dc_1h70f3fmo3` · Pix 1
 - 2026-11-15 [Duplicate asks (mt_dwsxo7oms8 decisions 2-3)](docs/wiki/2026-11/2026-11-15-duplicate-asks-mt-dwsxo7oms8-decisions-2-3-7ckogeqo.md) `dc_637ckogeqo` · Pix 2
 - 2026-11-15 [Operating manual pin](docs/wiki/2026-11/2026-11-15-operating-manual-pin-55vk3oi8.md) `dc_tw55vk3oi8` · Pix 2
 - 2026-11-15 [Needs and asks (mt_t65exni4et decision 2)](docs/wiki/2026-11/2026-11-15-needs-and-asks-mt-t65exni4et-decision-2-qnlayllc.md) `dc_2jqnlayllc` · Pix 1
@@ -199,6 +200,5 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-11-01 [Captain steering rights](docs/wiki/2026-11/2026-11-01-captain-steering-rights-e47kx4un.md) `dc_ooe47kx4un` · Pix 2
 - 2026-11-01 [Root goal always has a captain (mt_cyd2t5ioob D7)](docs/wiki/2026-11/2026-11-01-root-goal-always-has-a-captain-mt-cyd2t5ioob-d7-eig7abhg.md) `dc_roeig7abhg` · Pix 3
 - 2026-11-01 [Retainers (scheduled jobs' standing money)](docs/wiki/2026-11/2026-11-01-retainers-scheduled-jobs-standing-money-gie3r87w.md) `dc_9kgie3r87w` · Pix 4
-- 2026-11-01 [Hosted collectives: first run](docs/wiki/2026-11/2026-11-01-hosted-collectives-first-run-034gahw2.md) `dc_pl034gahw2` · Pix 1
 
 All by month: [2026-11](docs/wiki/2026-11/) · [2026-10](docs/wiki/2026-10/)

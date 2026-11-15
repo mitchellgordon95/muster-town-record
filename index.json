@@ -28753,5 +28753,95 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-15T22:20:27.876Z"
+  },
+  {
+    "id": "dc_pzsfkdywhk",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-queue-health-step-2-live-legible-queue-on-api-heal-sfkdywhk.md",
+    "title": "Queue health step 2 live: legible.queue on /api/health",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T22:35:26.571Z"
+  },
+  {
+    "id": "dc_gkq0gkq041",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-queue-health-step-3-town-health-tab-rows-pr-464-op-q0gkq041.md",
+    "title": "Queue health step 3: Town health tab rows, PR #464 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T22:39:16.580Z"
+  },
+  {
+    "id": "dc_fwes12e0xx",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-pr-464-ci-failed-manual-over-cap-knip-fixed-in-04d-es12e0xx.md",
+    "title": "PR #464 CI failed (manual over cap, knip); fixed in 04d01c61, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T22:44:04.895Z"
+  },
+  {
+    "id": "dc_1h70f3fmo3",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-15-goal-proposals-on-the-thread-mt-dwsxo7oms8-decisio-70f3fmo3.md",
+    "title": "Goal proposals on the thread (mt_dwsxo7oms8 decision 4)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T22:44:46.473Z"
+  },
+  {
+    "id": "dc_yh19s7fa22",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-goal-proposals-on-the-thread-decision-4-pr-465-ope-19s7fa22.md",
+    "title": "Goal proposals on the thread (decision 4): PR #465 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T22:44:54.109Z"
+  },
+  {
+    "id": "dc_nml7i3yfjd",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-pr-464-merged-7e1a38aa-waiting-for-deploy-to-check-l7i3yfjd.md",
+    "title": "PR #464 merged (7e1a38aa); waiting for deploy to check the Town health tab",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T22:50:37.728Z"
+  },
+  {
+    "id": "dc_dobq91wmyw",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-pr-465-merged-8d85244a-goal-proposals-on-the-threa-bq91wmyw.md",
+    "title": "PR #465 merged (8d85244a): goal proposals on the thread",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T22:50:43.843Z"
+  },
+  {
+    "id": "dc_3x01qc2vr2",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-secretary-stands-north-of-the-hydrant-on-the-live-01qc2vr2.md",
+    "title": "Secretary stands north of the hydrant on the live map (flag dc_zkzi4xnue4 done)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T22:52:50.546Z"
+  },
+  {
+    "id": "dc_a59xwqjq44",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-queue-health-step-3-live-town-health-tab-shows-que-9xwqjq44.md",
+    "title": "Queue health step 3 live: Town health tab shows queue-health and legible rows",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T23:11:21.827Z"
+  },
+  {
+    "id": "dc_kaqp20wfg0",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-queue-health-step-4-samples-not-there-yet-retired-qp20wfg0.md",
+    "title": "Queue health step 4: samples not there yet; retired-before-read fix in PR #466, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T23:13:33.567Z"
   }
 ]
