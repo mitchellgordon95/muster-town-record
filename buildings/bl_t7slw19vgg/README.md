@@ -4,8 +4,9 @@ Goal: Make Muster Town beautiful and intuitive
 
 Published docs (the board and the filing cabinet), newest first. Drafts are private and not exported.
 
-## flag (4)
+## flag (5)
 
+- 2026-11-15 [move the fire hydrant from the corner to where the outbox is today, and remove the outbox town object from the UI](docs/flag/2026-11/2026-11-15-move-the-fire-hydrant-from-the-corner-to-where-the-xcob2n9u.md) `dc_f3xcob2n9u` · Mitchell
 - 2026-11-06 [nit: error toasts in the intray (and probably elsewhere) have a lower z index than the main content modal so you can't …](docs/flag/2026-11/2026-11-06-nit-error-toasts-in-the-intray-and-probably-elsewh-a4gawacy.md) `dc_2ya4gawacy` · Mitchell
 - 2026-11-05 [nit: can i get a read / unread tracker for the bulletin board by user? and then a red badge for unreads](docs/flag/2026-11/2026-11-05-nit-can-i-get-a-read-unread-tracker-for-the-bullet-q4h8s229.md) `dc_04q4h8s229` · Mitchell
 - 2026-11-03 [clicking "key result met" or missed takes me back to the intray overview. that's annoying when there's multiple buttons…](docs/flag/2026-11/2026-11-03-clicking-key-result-met-or-missed-takes-me-back-to-5lwzye7a.md) `dc_nm5lwzye7a` · Mitchell
@@ -33,8 +34,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (206)
+## report (210)
 
+- 2026-11-15 [PR #457 green and squash-merged (1f0c69ff)](docs/report/2026-11/2026-11-15-pr-457-green-and-squash-merged-1f0c69ff-ioyzn0zr.md) `dc_xaioyzn0zr` · Teo 1
+- 2026-11-15 [Hydrant moves to the outbox's spot, outbox off the map: PR #457, parked on CI](docs/report/2026-11/2026-11-15-hydrant-moves-to-the-outbox-s-spot-outbox-off-the-x9sglmkb.md) `dc_7zx9sglmkb` · Teo 1
+- 2026-11-15 [PR #454 green and squash-merged (6696f779)](docs/report/2026-11/2026-11-15-pr-454-green-and-squash-merged-6696f779-wydohes9.md) `dc_00wydohes9` · Teo 2
+- 2026-11-15 [Money ask reads "is asking for tokens": PR #454, parked on CI](docs/report/2026-11/2026-11-15-money-ask-reads-is-asking-for-tokens-pr-454-parked-vp1enedd.md) `dc_zkvp1enedd` · Teo 1
 - 2026-11-15 [PR #451 green and squash-merged (a2108f10)](docs/report/2026-11/2026-11-15-pr-451-green-and-squash-merged-a2108f10-d7tnxpx5.md) `dc_s6d7tnxpx5` · Teo 1
 - 2026-11-15 [Ask card leads with "<Building> is asking for …": PR #451, parked on CI](docs/report/2026-11/2026-11-15-ask-card-leads-with-building-is-asking-for-pr-451-8mlpmc5q.md) `dc_oa8mlpmc5q` · Teo 1
 - 2026-11-14 [PR #450 green and squash-merged (56bbc37e); kr_nokx342ovj claimed](docs/report/2026-11/2026-11-14-pr-450-green-and-squash-merged-56bbc37e-kr-nokx342-qeqixm5l.md) `dc_b4qeqixm5l` · Teo 1
@@ -61,10 +66,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-10 [PR #408 merged as 57a573df (click-ask and request-ask notes); parked on its deploy](docs/report/2026-11/2026-11-10-pr-408-merged-as-57a573df-click-ask-and-request-as-g3il7ajc.md) `dc_pkg3il7ajc` · Teo 1
 - 2026-11-10 [PR #408 widened to outbox requests (Claim note, Decline note) and CI fix pushed; parked on CI](docs/report/2026-11/2026-11-10-pr-408-widened-to-outbox-requests-claim-note-decli-6me6go5r.md) `dc_cs6me6go5r` · Teo 1
 - 2026-11-10 [Message from Mitchell (via Teo 1): Done in #408 (79a4fed5): request ask Claim… opens an optional note (requestNote…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-teo-1-done-in-408-79a4fe-1d5s5tax.md) `dc_wr1d5s5tax` · Town
-- 2026-11-10 [Message from Mitchell (via Secretary): Teo: widen as_yisa0l5zyl (from Mitchell's 1:1 mt_ewxnhs90cq, decision 1) by one…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-secretary-teo-widen-as-y-ox7jmhdh.md) `dc_fyox7jmhdh` · Town
-- 2026-11-10 [Click asks take an optional note with Done/Decline; the building manager hears the decision (PR #408, parked on CI)](docs/report/2026-11/2026-11-10-click-asks-take-an-optional-note-with-done-decline-2txe8mey.md) `dc_x02txe8mey` · Teo 1
-- 2026-11-06 [Progressive disclosure is done: every grant page, building tab and agent tab opens on a short first screen (grant closed, 730k returned); your toast fix is live](docs/report/2026-11/2026-11-06-progressive-disclosure-is-done-every-grant-page-bu-pnqv6zhz.md) `dc_kopnqv6zhz` · Teo
-- 2026-11-06 [kr_p6l1w6tade: on live 24984fc6, all 70 counted rows of the disclosure census pass at both sizes; the signed-in mock passes 82/82](docs/report/2026-11/2026-11-06-kr-p6l1w6tade-on-live-24984fc6-all-70-counted-rows-cm0c3lhh.md) `dc_0gcm0c3lhh` · Teo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

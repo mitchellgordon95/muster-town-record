@@ -18,7 +18,7 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 ## fyi (24)
 
-- 2026-11-15 [RED redeploy failed 1 min ago (interrupted by a server restart, requested by CI): main is not live: re-run the redeploy, read the failed step's event output](docs/fyi/2026-11/2026-11-15-red-redeploy-failed-1-min-ago-interrupted-by-a-ser-pgprwbxh.md) `dc_depgprwbxh` · Town
+- 2026-11-15 [CLEARED RED redeploy-failed: redeploy failed 5 min ago: main is not live: re-run the redeploy, read the failed step's event output](docs/fyi/2026-11/2026-11-15-cleared-red-redeploy-failed-redeploy-failed-5-min-pgprwbxh.md) `dc_depgprwbxh` · Town
 - 2026-11-13 [CLEARED RED sessions: 0 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-13-cleared-red-sessions-0-claude-sessions-failed-in-1-xxs7sotf.md) `dc_x6xxs7sotf` · Town
 - 2026-11-12 [CLEARED YELLOW sessions: 2 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-12-cleared-yellow-sessions-2-claude-sessions-failed-i-iqdgguqr.md) `dc_07iqdgguqr` · Town
 - 2026-11-12 [CLEARED RED sessions: 2 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-12-cleared-red-sessions-2-claude-sessions-failed-in-1-r7mt0tq3.md) `dc_ljr7mt0tq3` · Town
@@ -95,8 +95,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (345)
+## report (347)
 
+- 2026-11-15 [PR #456 merged as a6f7643f: self-host proof chain done](docs/report/2026-11/2026-11-15-pr-456-merged-as-a6f7643f-self-host-proof-chain-do-eko3tjze.md) `dc_c9eko3tjze` · Cleo 1
+- 2026-11-15 [Self-host proof on Fly: live, admin, directory-verified, torn down; docs PR #456 parked on CI](docs/report/2026-11/2026-11-15-self-host-proof-on-fly-live-admin-directory-verifi-z3nnvm1d.md) `dc_2uz3nnvm1d` · Cleo 1
 - 2026-11-14 [Pause check 11-14: still paused](docs/report/2026-11/2026-11-14-pause-check-11-14-still-paused-hdweet2e.md) `dc_j8hdweet2e` · Cleo 1
 - 2026-11-14 [PR #448 merged as 6f4bf8c0; first main run skipped the image deploy (no secret yet)](docs/report/2026-11/2026-11-14-pr-448-merged-as-6f4bf8c0-first-main-run-skipped-t-5p7793c4.md) `dc_9w5p7793c4` · Cleo 1
 - 2026-11-13 [#449 live at 5a7e229: host sessions back; bundle boot 1.75 s (tsx was 3.1 s)](docs/report/2026-11/2026-11-13-449-live-at-5a7e229-host-sessions-back-bundle-boot-ucsdkk6m.md) `dc_5iucsdkk6m` · Cleo 1
@@ -125,8 +127,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-10 [gr_rcj8nkbkbt live check: /api/uptime, the landing and Bank Uptime block all match on d30c6f8; kr_ay5wb5wfhd claimed](docs/report/2026-11/2026-11-10-gr-rcj8nkbkbt-live-check-api-uptime-the-landing-an-24l7s1dt.md) `dc_lu24l7s1dt` · Cleo 1
 - 2026-11-10 [7f12374 live at 21:46:14Z; its own deploy card shows only the count, as expected. Change list check moves to the aaa749f3 deploy](docs/report/2026-11/2026-11-10-7f12374-live-at-21-46-14z-its-own-deploy-card-show-oqwyov0g.md) `dc_7koqwyov0g` · Cleo 1
 - 2026-11-10 [Prod rollup #46 (gr_8cdix9mpye closed done, 524,619 / 1,500,000): a stranger's box listed a self-hosted town and was delisted when its proof went; public uptime and the redeploy change list are merged and wait on CI's deploy](docs/report/2026-11/2026-11-10-prod-rollup-46-gr-8cdix9mpye-closed-done-524-619-1-pj6mbjhe.md) `dc_zipj6mbjhe` · Cleo
-- 2026-11-10 [gr_8cdix9mpye step 3b done: proof town delisted on schedule and torn down on Wright's box](docs/report/2026-11/2026-11-10-gr-8cdix9mpye-step-3b-done-proof-town-delisted-on-ovf3z4yq.md) `dc_5lovf3z4yq` · Cleo 1
-- 2026-11-10 [gr_rcj8nkbkbt: #424 web Uptime block merged (aaa749f3); live check still to do](docs/report/2026-11/2026-11-10-gr-rcj8nkbkbt-424-web-uptime-block-merged-aaa749f3-74xhjzth.md) `dc_e874xhjzth` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

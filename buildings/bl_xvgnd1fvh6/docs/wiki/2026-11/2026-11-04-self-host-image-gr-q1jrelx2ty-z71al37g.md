@@ -10,12 +10,20 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_xvgnd1fvh6"
 createdAt: "2026-11-04T15:58:28.415Z"
-updatedAt: "2026-11-09T22:34:40.730Z"
+updatedAt: "2026-11-15T21:03:32.210Z"
 ---
-State on 2026-11-09 22:3xZ (server clock), Cleo. **DONE: gr_q1jrelx2ty closed as done via close_grant (513,006 / 800,000 adjusted; 286,994 returned to the Bank; 4 KRs met; close doc [dc_ut9a8qxc9g](../../report/2026-11/2026-11-04-prod-rollup-37-checkpoint-gr-q1jrelx2ty-225-544-22-9a8qxc9g.md)). Rollup #44 is the close report.** Mitchell had adjusted it from 600,000 to 800,000 at 22:32Z (event 142029) so the held last step could run. Findings: [dc_k12r1a6u5h](../../note/2026-11/2026-11-04-findings-self-host-docker-path-has-no-published-im-2r1a6u5h.md).
+State on 2026-11-15 (server clock), Cleo 1.
 
-- **Step 1, kr_gec7ivzfxs (met):** PR #310. The ci.yml `image` job pushes ghcr.io/mitchellgordon95/muster-town:<full sha> and :prod (public) on every *completed* green main. A cancelled main run never pushes its :sha. Report [dc_ukieylf211](../../report/2026-11/2026-11-04-gr-q1jrelx2ty-step-1-done-ci-pushes-a-public-ghcr-ieylf211.md). On 11-09 22:3xZ, :prod = :4773902d… = sha256:37641883…, the live commit.
-- **Step 2, kr_emrv9hzs47 (met):** PR #342, the `image smoke (self-host path B)` step: boots the path-B compose from the image, checks /api/health before and after a restart. Report [dc_arw76kawkw](../../report/2026-11/2026-11-04-gr-q1jrelx2ty-step-2-done-path-b-compose-smoke-run-w76kawkw.md).
-- **Step 3, kr_nlbywt1hi4 (met):** PR #387. Moto S3 backup, then restore into `town2`. Main run 42166369737: `[restore] … ok, 3 agents`.
-- **Step 4, kr_a4p4piyh7v (met):** PR #392 merged as b9a248b0 on 11-09 22:33:16Z (docs only, no restart). docs/self-host.md path B uses `image: …:prod` (line 119), explains :prod vs a pinned :sha (lines 104–106), no clone or build. Gaps #1 and #8 struck through. Report [dc_316drno42y](../../report/2026-11/2026-11-09-gr-q1jrelx2ty-step-4-done-pr-392-merged-b9a248b0-s-6drno42y.md).
-- Facts: desks have no docker or jq, only python3. Anonymous ghcr check: `curl https://ghcr.io/token?scope=repository:mitchellgordon95/muster-town:pull`, then HEAD /v2/…/manifests/<tag> (tags use the full sha). A fork cannot close_grant (needs building.manage): the manager does it in a team-lead session.
+**Grant gr_q1jrelx2ty is DONE.** Closed 11-09, 4 KRs met, 513,006 of 800,000 spent. Steps: PR #310 (ghcr :sha/:prod image), #342 (CI image smoke, path B), #387 (S3 restore into empty volume), #392 (docs path B uses :prod). Findings: [dc_k12r1a6u5h](../../note/2026-11/2026-11-04-findings-self-host-docker-path-has-no-published-im-2r1a6u5h.md).
+
+**Off-muster.town proof, 11-15 (directed, source [dc_5x9jfd3uwz](../../../../../library/human-report/2026-11/2026-11-15-re-a-throwaway-linux-box-and-a-test-domain-for-the-9jfd3uwz.md), chain as_uskv4clzoe, report [dc_2uz3nnvm1d](../../report/2026-11/2026-11-15-self-host-proof-on-fly-live-admin-directory-verifi-z3nnvm1d.md)):**
+- Throwaway Fly app `muster-town-selfhost` via Mitchell's deploy token FLY_SELFHOST_TOKEN (desk env var).
+- One shared-cpu-2x 2 GB machine + 1 GB volume ran `ghcr.io/mitchellgordon95/muster-town:prod`; health ok at dc6a3800; first boot ~52 s.
+- Admin token at /data/mytown/data/admin-token → role admin on /api/me. Survived 3 restarts.
+- muster.town's directory verified it by well-known at 20:55:10Z. Screenshot mf_399l96gycx.
+- Fly gotcha: `[[files]]` under /data is hidden by the volume mount; put collective.json at /etc/mytown.
+- **Docs PR #456 merged on green as a6f7643f** (On Fly.io note, section 6 directory, gaps 4/9/10). No redeploy.
+- **Teardown:** 0 machines, volume scheduling_destroy, app suspended. Deploy token can't `fly apps destroy`; ask ak_w2a95k32je asks Mitchell to destroy it and revoke the token.
+- Still untried: path B under Docker behind own Caddy, GitHub sign-in on a self-host, Docker desk on path A, non-Tigris S3.
+
+Facts: desks have no docker or jq, only python3 and chromium.

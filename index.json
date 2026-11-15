@@ -28315,8 +28315,8 @@
   },
   {
     "id": "dc_depgprwbxh",
-    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-15-red-redeploy-failed-1-min-ago-interrupted-by-a-ser-pgprwbxh.md",
-    "title": "[RED] redeploy failed 1 min ago (interrupted by a server restart, requested by CI): main is not live: re-run the redeploy, read the failed step's event output",
+    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-15-cleared-red-redeploy-failed-redeploy-failed-5-min-pgprwbxh.md",
+    "title": "[CLEARED] RED redeploy-failed: redeploy failed 5 min ago: main is not live: re-run the redeploy, read the failed step's event output",
     "type": "fyi",
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
@@ -28330,5 +28330,167 @@
     "state": "library",
     "buildingId": "town-hall",
     "createdAt": "2026-11-15T19:54:24.421Z"
+  },
+  {
+    "id": "dc_5x9jfd3uwz",
+    "path": "library/human-report/2026-11/2026-11-15-re-a-throwaway-linux-box-and-a-test-domain-for-the-9jfd3uwz.md",
+    "title": "Re: A throwaway Linux box and a test domain for the self-host bring-up proof",
+    "type": "human-report",
+    "state": "library",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-15T20:40:41.826Z"
+  },
+  {
+    "id": "dc_2jqnlayllc",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-15-needs-and-asks-mt-t65exni4et-decision-2-qnlayllc.md",
+    "title": "Needs and asks (mt_t65exni4et decision 2)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T20:40:57.133Z"
+  },
+  {
+    "id": "dc_c308r7x55j",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-queue-health-step-1-screen-views-and-who-retired-e-08r7x55j.md",
+    "title": "Queue health step 1: screen views and who retired each ask, PR #453 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T20:46:58.663Z"
+  },
+  {
+    "id": "dc_uks1is9l0i",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-pr-453-ci-failed-on-knip-unused-screenview-export-s1is9l0i.md",
+    "title": "PR #453 CI failed on knip (unused ScreenView export); fixed in 75fd9e21, parked on CI again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T20:49:55.532Z"
+  },
+  {
+    "id": "dc_zkvp1enedd",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-15-money-ask-reads-is-asking-for-tokens-pr-454-parked-vp1enedd.md",
+    "title": "Money ask reads \"is asking for tokens\": PR #454, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-15T20:52:04.804Z"
+  },
+  {
+    "id": "dc_dhcx5wk1ap",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-15-1-1-mitchell-and-secretary-notes-cx5wk1ap.md",
+    "title": "1:1: Mitchell and Secretary — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-15T20:53:34.962Z"
+  },
+  {
+    "id": "dc_f3xcob2n9u",
+    "path": "buildings/bl_t7slw19vgg/docs/flag/2026-11/2026-11-15-move-the-fire-hydrant-from-the-corner-to-where-the-xcob2n9u.md",
+    "title": "move the fire hydrant from the corner to where the outbox is today, and remove the outbox town object from the UI",
+    "type": "flag",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-15T20:54:30.533Z"
+  },
+  {
+    "id": "dc_lwt399dxxa",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-pr-453-merged-a931abf7-waiting-for-deploy-to-confi-t399dxxa.md",
+    "title": "PR #453 merged (a931abf7); waiting for deploy to confirm legible.screenViews",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T20:56:30.858Z"
+  },
+  {
+    "id": "dc_2uz3nnvm1d",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-15-self-host-proof-on-fly-live-admin-directory-verifi-z3nnvm1d.md",
+    "title": "Self-host proof on Fly: live, admin, directory-verified, torn down; docs PR #456 parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-15T20:57:34.442Z"
+  },
+  {
+    "id": "dc_00wydohes9",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-15-pr-454-green-and-squash-merged-6696f779-wydohes9.md",
+    "title": "PR #454 green and squash-merged (6696f779)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-15T20:58:21.687Z"
+  },
+  {
+    "id": "dc_c9eko3tjze",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-15-pr-456-merged-as-a6f7643f-self-host-proof-chain-do-eko3tjze.md",
+    "title": "PR #456 merged as a6f7643f: self-host proof chain done",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-15T21:03:37.726Z"
+  },
+  {
+    "id": "dc_4t9rqqh4kf",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-15-resend-key-is-seen-live-but-resend-rejects-the-sen-9rqqh4kf.md",
+    "title": "Resend key is seen live, but Resend rejects the send: BLOG_MAIL_FROM likely names an unverified domain",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-15T21:05:27.830Z"
+  },
+  {
+    "id": "dc_7zx9sglmkb",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-15-hydrant-moves-to-the-outbox-s-spot-outbox-off-the-x9sglmkb.md",
+    "title": "Hydrant moves to the outbox's spot, outbox off the map: PR #457, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-15T21:06:00.092Z"
+  },
+  {
+    "id": "dc_xaioyzn0zr",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-15-pr-457-green-and-squash-merged-1f0c69ff-ioyzn0zr.md",
+    "title": "PR #457 green and squash-merged (1f0c69ff)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-15T21:11:33.250Z"
+  },
+  {
+    "id": "dc_wlac7z293w",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-needs-and-asks-decisions-1-9-pr-455-updated-with-o-ac7z293w.md",
+    "title": "Needs and asks, decisions 1-9: PR #455 updated with one entry point, code lint, rewrite measure; parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T21:17:13.212Z"
+  },
+  {
+    "id": "dc_pi7b5fbvpy",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-pr-455-merged-b80f73cd-needs-and-asks-decisions-1-7b5fbvpy.md",
+    "title": "PR #455 merged (b80f73cd): needs and asks decisions 1-9; Secretary asked to review dictionary wording",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T21:23:03.408Z"
+  },
+  {
+    "id": "dc_2b13xa4lje",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-queue-health-step-1-live-a931abf7-deployed-screenv-13xa4lje.md",
+    "title": "Queue health step 1 live: a931abf7 deployed, screenViews recording",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T21:26:38.184Z"
+  },
+  {
+    "id": "dc_zwzi7gusws",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-stopped-duplicate-of-pix-4-s-as-c90hwgtrpj-nothing-zi7gusws.md",
+    "title": "Stopped: duplicate of Pix 4's as_c90hwgtrpj; nothing changed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T21:27:09.981Z"
   }
 ]

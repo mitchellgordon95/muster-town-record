@@ -10,14 +10,16 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "workshop"
 createdAt: "2026-11-12T17:24:33.770Z"
-updatedAt: "2026-11-12T17:24:33.770Z"
+updatedAt: "2026-11-15T21:26:32.780Z"
 ---
-State on 2026-11-12 after Pix 3's planning session (as_l8oklnzp57), from Mitchell's 1:1 mt_msnjkpgwdb decision 18. **gr_pdja05z2f1 PROPOSED** (500k: steps M, M, M, S). KRs kr_i7ibeasoff, kr_tw0jxilktf, kr_4jfnyb4y6p (due 11-20), kr_nsghrfza2i (due 11-22).
+State on 2026-11-15 after Pix 1 (as_uodgj84j09). **gr_pdja05z2f1 FUNDED** (500k: steps M, M, M, S). KRs kr_i7ibeasoff, kr_tw0jxilktf, kr_4jfnyb4y6p (due 11-20), kr_nsghrfza2i (due 11-22).
 
-**Data the town does not have today (checked in code at b9accd7a):**
-- `seen` (migration 100, core seen.ts) keeps only the *last* open per user and target (ON CONFLICT UPDATE), and the web never calls GET /api/asks/:id (only mock calls getAsk): so no ask rows at all. Live /api/health: retiredBeforeRead 39 of 39 unread.
-- The 1:1 focus (core meeting-focus.ts `setMeetingFocus`, PUT by web DecisionQueue.tsx `useQueueFocus`, 300 ms debounce) is overwritten each change, no event, no history; it is only set while the meeting is `discussing`. Utterances carry no focus.
-- Money/retainer/access/captain asks end as `retired` (asks.ts `retireAsks`, `by: "system"`) when their target is decided: timeToDecision live has only click, policy, credential rows.
-- The Town health tab (web StatsPanel.tsx HealthView) shows only token tiles; no §9 measure. The Secretary's rank run brief does not read `legibleMeasures` (only the Planner's calibrationBrief does, planner.ts).
+**Step 1 DONE and LIVE:** PR #453 merged a931abf7; live /api/health commit a6f7643 (contains a931abf7), startedAt 2026-11-15T21:26:11Z; `legible.screenViews` = {views: 1, users: 1, open: 1} at first read.
+- Migration 116 `screen_views` (userId, kind, itemId, meetingId, openedAt, closedAt).
+- core screen-views.ts: `recordScreenView` (from setMeetingFocus, any phase except done/cancelled; same item = no row), `closeScreenViews` (meeting done/cancelled), `screenViews(world, since, now)` rows with `ms` capped at `VIEW_CAP_MS` = 30 min and `open`.
+- `retireAsks` history retire entry `by` = deciding human's user id, else "system".
+- NOT done (optional): web queue calling GET /api/asks/:id for `seen` ask rows.
 
-**Plan:** step 1 screen_views table written by setMeetingFocus + retire-by-human; step 2 pure `queueHealth` (core/queue-health.ts, property tests, no fast-check in repo: hand-rolled generators) into legible.queue and the rank brief; step 3 Town health section; step 4 live read and tune. Assumptions: 30-min cap per view; warning at gates/grant < 0.5 and budget used > 0.85; a "clarifying question" = any human 1:1 line while the item is open before its decision.
+**Step 2 (next):** pure `queueHealth` in core/queue-health.ts from screenViews + asks (retire.by a us_ id = a human decision) + 1:1 utterances by the human while the item was open before decision; property tests with hand-rolled generators (no fast-check). Assumptions: warning at gates/grant < 0.5 and budget used > 0.85.
+
+Reports: [dc_c308r7x55j](../../report/2026-11/2026-11-15-queue-health-step-1-screen-views-and-who-retired-e-08r7x55j.md), [dc_uks1is9l0i](../../report/2026-11/2026-11-15-pr-453-ci-failed-on-knip-unused-screenview-export-s1is9l0i.md), [dc_lwt399dxxa](../../report/2026-11/2026-11-15-pr-453-merged-a931abf7-waiting-for-deploy-to-confi-t399dxxa.md).

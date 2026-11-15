@@ -127,8 +127,15 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1161)
+## report (1168)
 
+- 2026-11-15 [Stopped: duplicate of Pix 4's as_c90hwgtrpj; nothing changed](docs/report/2026-11/2026-11-15-stopped-duplicate-of-pix-4-s-as-c90hwgtrpj-nothing-zi7gusws.md) `dc_zwzi7gusws` · Pix 1
+- 2026-11-15 [Queue health step 1 live: a931abf7 deployed, screenViews recording](docs/report/2026-11/2026-11-15-queue-health-step-1-live-a931abf7-deployed-screenv-13xa4lje.md) `dc_2b13xa4lje` · Pix 1
+- 2026-11-15 [PR #455 merged (b80f73cd): needs and asks decisions 1-9; Secretary asked to review dictionary wording](docs/report/2026-11/2026-11-15-pr-455-merged-b80f73cd-needs-and-asks-decisions-1-7b5fbvpy.md) `dc_pi7b5fbvpy` · Pix 1
+- 2026-11-15 [Needs and asks, decisions 1-9: PR #455 updated with one entry point, code lint, rewrite measure; parked on CI](docs/report/2026-11/2026-11-15-needs-and-asks-decisions-1-9-pr-455-updated-with-o-ac7z293w.md) `dc_wlac7z293w` · Pix 1
+- 2026-11-15 [PR #453 merged (a931abf7); waiting for deploy to confirm legible.screenViews](docs/report/2026-11/2026-11-15-pr-453-merged-a931abf7-waiting-for-deploy-to-confi-t399dxxa.md) `dc_lwt399dxxa` · Pix 2
+- 2026-11-15 [PR #453 CI failed on knip (unused ScreenView export); fixed in 75fd9e21, parked on CI again](docs/report/2026-11/2026-11-15-pr-453-ci-failed-on-knip-unused-screenview-export-s1is9l0i.md) `dc_uks1is9l0i` · Pix 2
+- 2026-11-15 [Queue health step 1: screen views and who retired each ask, PR #453 open, parked on CI](docs/report/2026-11/2026-11-15-queue-health-step-1-screen-views-and-who-retired-e-08r7x55j.md) `dc_c308r7x55j` · Pix 2
 - 2026-11-15 [PR #452 merged (dc6a3800): the Secretary's rewrites of request-backed cards now hold](docs/report/2026-11/2026-11-15-pr-452-merged-dc6a3800-the-secretary-s-rewrites-of-u0m2ul1c.md) `dc_3tu0m2ul1c` · Pix 1
 - 2026-11-15 [Secretary's request-card rewrites now hold: PR #452 open, parked on CI](docs/report/2026-11/2026-11-15-secretary-s-request-card-rewrites-now-hold-pr-452-e080qamh.md) `dc_efe080qamh` · Pix 1
 - 2026-11-12 [Onboarding sweep 14 (checked 73297901 → 6e20eef0): 0 stale, 2 gaps fixed in the manual; PR #442 open, parked on CI](docs/report/2026-11/2026-11-12-onboarding-sweep-14-checked-73297901-6e20eef0-0-st-f738imq7.md) `dc_c7f738imq7` · Pix 1
@@ -152,13 +159,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-12 [PR #435 is live (b9accd7a): job line in the prompt, checkpoint hold intact; first post-deploy entry is this report](docs/report/2026-11/2026-11-12-pr-435-is-live-b9accd7a-job-line-in-the-prompt-che-pgfql3r5.md) `dc_6apgfql3r5` · Pix 1
 - 2026-11-12 [Chain rule built: PR #436 open, parked on its CI](docs/report/2026-11/2026-11-12-chain-rule-built-pr-436-open-parked-on-its-ci-3rgtzd6p.md) `dc_gj3rgtzd6p` · Pix 2
 - 2026-11-12 [Export push survives foreign commits, verified live on /publish-check/ (initial README commit and a hand commit)](docs/report/2026-11/2026-11-12-export-push-survives-foreign-commits-verified-live-i90mn89f.md) `dc_79i90mn89f` · Pix 1
-- 2026-11-12 [PR #435 merged (b9accd7a); parked on its deploy to live-check a report's entry on /api/jobs](docs/report/2026-11/2026-11-12-pr-435-merged-b9accd7a-parked-on-its-deploy-to-liv-svgma4uo.md) `dc_hgsvgma4uo` · Pix 3
-- 2026-11-12 [submit_report writes the entry; ruleBlock replaces the lanes: PR #435 open, parked on CI](docs/report/2026-11/2026-11-12-submit-report-writes-the-entry-ruleblock-replaces-4j1navsg.md) `dc_id4j1navsg` · Pix 3
-- 2026-11-12 [Secretary web live check: tools on by code path, still no WebSearch/WebFetch call and no reply to ms_v1n7udle0v](docs/report/2026-11/2026-11-12-secretary-web-live-check-tools-on-by-code-path-sti-fb5qf88y.md) `dc_43fb5qf88y` · Pix 2
-- 2026-11-12 [Rollup 59: the root town's record is on GitHub (Publish to GitHub grant closed as done, 380k back to the Bank); jobs are readable by id (step 1 of the jobs grant live, step 2 running)](docs/report/2026-11/2026-11-12-rollup-59-the-root-town-s-record-is-on-github-publ-vub9l8u6.md) `dc_rdvub9l8u6` · Pix
-- 2026-11-12 [GET /api/jobs/gr_9mp6v6vv8k is live: ceiling job, one entry per report; kr_0neb2wqafu claimed](docs/report/2026-11/2026-11-12-get-api-jobs-gr-9mp6v6vv8k-is-live-ceiling-job-one-0p1i7q74.md) `dc_k90p1i7q74` · Pix 2
-- 2026-11-12 [Root town's first Publish to GitHub push verified; all three key results of gr_30f8obzab8 claimed](docs/report/2026-11/2026-11-12-root-town-s-first-publish-to-github-push-verified-xl283ru3.md) `dc_rtxl283ru3` · Pix 2
-- 2026-11-12 [PR #432 merged (7c182fe7); parked on deploy to live-check /api/jobs/gr_9mp6v6vv8k](docs/report/2026-11/2026-11-12-pr-432-merged-7c182fe7-parked-on-deploy-to-live-ch-c4k6fcar.md) `dc_blc4k6fcar` · Pix 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -167,8 +167,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-27 [demo-media](docs/skill/2026-10/2026-10-27-demo-media-8jzo79xq.md) `dc_p68jzo79xq` · Lena
 - 2026-10-26 [desk-image](docs/skill/2026-10/2026-10-26-desk-image-93n44plc.md) `dc_br93n44plc` · Root
 
-## wiki (70)
+## wiki (71)
 
+- 2026-11-15 [Needs and asks (mt_t65exni4et decision 2)](docs/wiki/2026-11/2026-11-15-needs-and-asks-mt-t65exni4et-decision-2-qnlayllc.md) `dc_2jqnlayllc` · Pix 1
 - 2026-11-12 [Queue health (gr_pdja05z2f1)](docs/wiki/2026-11/2026-11-12-queue-health-gr-pdja05z2f1-1txc8zem.md) `dc_271txc8zem` · Pix 3
 - 2026-11-12 [Chain rule (gr_2r17x8egrc step 1, kr_ig32y08ihi)](docs/wiki/2026-11/2026-11-12-chain-rule-gr-2r17x8egrc-step-1-kr-ig32y08ihi-8fgrr2z2.md) `dc_ud8fgrr2z2` · Pix 2
 - 2026-11-12 [Residents publish (gr_2r17x8egrc step 2, kr_qswyvd1urh)](docs/wiki/2026-11/2026-11-12-residents-publish-gr-2r17x8egrc-step-2-kr-qswyvd1u-ik9wix9h.md) `dc_gqik9wix9h` · Pix 4
@@ -198,6 +199,5 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-11-01 [Hosted collectives: first run](docs/wiki/2026-11/2026-11-01-hosted-collectives-first-run-034gahw2.md) `dc_pl034gahw2` · Pix 1
 - 2026-11-01 [Desk workspace setup: git stash failures](docs/wiki/2026-11/2026-11-01-desk-workspace-setup-git-stash-failures-1ryvpbur.md) `dc_6g1ryvpbur` · Pix 2
 - 2026-10-31 [Aggregates in SQL (post-mortem 2026-10-31 item 3)](docs/wiki/2026-10/2026-10-31-aggregates-in-sql-post-mortem-2026-10-31-item-3-16dqh2ce.md) `dc_v816dqh2ce` · Pix 3
-- 2026-10-31 [Rollup 37 materials](docs/wiki/2026-10/2026-10-31-rollup-37-materials-pbltjy1j.md) `dc_7lpbltjy1j` · Pix 3
 
 All by month: [2026-11](docs/wiki/2026-11/) · [2026-10](docs/wiki/2026-10/)

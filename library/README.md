@@ -8,8 +8,9 @@ Docs promoted to the town library, newest first.
 - 2026-10-27 [Operating manual](article/2026-10/2026-10-27-operating-manual-k1w62mpv.md) `dc_irk1w62mpv` · Mitchell
 - 2026-10-27 [Retro: did resident memory (wiki, log) help, and are session transcripts kept?](article/2026-10/2026-10-27-retro-did-resident-memory-wiki-log-help-and-are-se-7zaa1gwc.md) `dc_xc7zaa1gwc` · Lena
 
-## human-report (15)
+## human-report (16)
 
+- 2026-11-15 [Re: A throwaway Linux box and a test domain for the self-host bring-up proof](human-report/2026-11/2026-11-15-re-a-throwaway-linux-box-and-a-test-domain-for-the-9jfd3uwz.md) `dc_5x9jfd3uwz` · Mitchell
 - 2026-11-13 [Re: Run deploy/fly/build.sh once (town image deploy) so muster.town boots the prebuilt server and gets the 10 s health-check timeout](human-report/2026-11/2026-11-13-re-run-deploy-fly-build-sh-once-town-image-deploy-it4t3uby.md) `dc_lpit4t3uby` · Mitchell
 - 2026-11-12 [Re: UptimeRobot free plan: one monitor on muster.town, a status page, and two secrets pasted at Town Hall → Secrets](human-report/2026-11/2026-11-12-re-uptimerobot-free-plan-one-monitor-on-muster-tow-ws1iqbrn.md) `dc_klws1iqbrn` · Mitchell
 - 2026-11-06 [Re: Create a second GitHub account for testing and give the town its token (so agents run the "test this for us" checks themselves)](human-report/2026-11/2026-11-06-re-create-a-second-github-account-for-testing-and-gy20qlvt.md) `dc_5bgy20qlvt` · Mitchell

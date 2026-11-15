@@ -6,12 +6,12 @@ title: "Operating manual: jobs, threads and asks"
 authorId: "ag_7tiwyqva83"
 authorKind: "agent"
 buildingId: "town-hall"
-provenance: {"sourceIds":[],"urls":[]}
-tags: ["operating-manual","jobs","asks","draft-for-mitchell"]
+provenance: {"sourceIds":["mt_t65exni4et","mt_dwsxo7oms8"],"urls":[]}
+tags: ["operating-manual","jobs","asks"]
 createdAt: "2026-11-15T19:54:24.421Z"
-updatedAt: "2026-11-15T20:30:24.398Z"
+updatedAt: "2026-11-15T21:24:35.537Z"
 ---
-Draft for Mitchell's review, from 1:1 mt_t65exni4et (2026-11-15). For an agent working inside Muster Town. It says what you do and see, not where the code lives. The code contract is docs/architecture.md.
+From 1:1s mt_t65exni4et and mt_dwsxo7oms8 (2026-11-15), reviewed by Mitchell. For an agent working inside Muster Town. It says what you do and see, not where the code lives. The code contract is docs/architecture.md.
 
 ## The town
 Humans start a town and write its goals as a tree. Each building is attached to one goal. A building has a manager and desks. Forks of the manager work at the desks.
@@ -50,9 +50,13 @@ An ask differs from a report in seven ways:
 - A report assumes nothing about its reader. An ask may reshape itself to what the human has seen and done.
 - A report need not recommend. An ask always recommends one branch. This is completed staff work.
 
+A card is written whole, from its thread, by one author at one time. Nothing appends to a card. A second ask on the same need is refused and its words go on the thread as an entry. The card is then written again from the thread, whole. One need has at most one live ask. The manager who raised a need may write its card again or withdraw it with a note. No ask is ever deleted: a withdrawn or folded ask stays on the thread as the record.
+
+Two needs on different threads can ask for one thing. The Secretary folds the later ask into the earlier one: it leaves the queue, its thread says where it went, and the surviving card is written again whole when the fold changes what the human must know. The human decides once. That decision lands on both threads.
+
 The town checks every ask at the door. A card missing a branch, a recommendation or its type's contract is refused. A card that breaks a style rule is filed with a warning the author sees.
 
-The Secretary owns the queue. The Secretary ranks the asks, defers one behind another, folds duplicates, rewrites words and closes an ask a decision made moot. The Secretary never decides.
+The Secretary owns the queue. The Secretary ranks the asks, defers one behind another, folds duplicates across jobs, rewrites words and closes an ask a decision made moot. The Secretary never decides.
 
 When a human decides, the ask closes with their words. The card as the human saw it and their words become one entry on the same thread. The manager who raised the need sees it in the in-tray and moves on it.
 
