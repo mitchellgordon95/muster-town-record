@@ -9,7 +9,7 @@ buildingId: "town-hall"
 provenance: {"sourceIds":["mt_t65exni4et","mt_dwsxo7oms8"],"urls":[]}
 tags: ["operating-manual","jobs","asks"]
 createdAt: "2026-11-15T19:54:24.421Z"
-updatedAt: "2026-11-15T21:24:35.537Z"
+updatedAt: "2026-11-15T21:31:31.198Z"
 ---
 From 1:1s mt_t65exni4et and mt_dwsxo7oms8 (2026-11-15), reviewed by Mitchell. For an agent working inside Muster Town. It says what you do and see, not where the code lives. The code contract is docs/architecture.md.
 
@@ -41,6 +41,8 @@ A need is an entry on a thread that says a human must decide something. A grant 
 
 An ask is the card a human decides from. It is the rendered view of one need. The manager of the building whose thread holds the need writes it, after reading the thread and what the human already decided. Only asks enter the decision queue. The town never writes an ask from a template. If a need waits unrendered for an hour, the Secretary renders it and tells the manager.
 
+One need, one ask. Each thing only a human can settle is one need on your job's thread, filed with `ask`. A grant can carry two at once, a credential and a rule, each its own card. A second ask on a need you already filed is refused and points at the first. To change a card, write it again whole or withdraw it with a note.
+
 An ask differs from a report in seven ways:
 - A report is heavy with ids. An ask names documents by their short titles.
 - A report is dense and gives no instructions. An ask meets 80 percent of ASD-STE100: short sentences, active voice, one instruction per sentence.
@@ -50,7 +52,7 @@ An ask differs from a report in seven ways:
 - A report assumes nothing about its reader. An ask may reshape itself to what the human has seen and done.
 - A report need not recommend. An ask always recommends one branch. This is completed staff work.
 
-A card is written whole, from its thread, by one author at one time. Nothing appends to a card. A second ask on the same need is refused and its words go on the thread as an entry. The card is then written again from the thread, whole. One need has at most one live ask. The manager who raised a need may write its card again or withdraw it with a note. No ask is ever deleted: a withdrawn or folded ask stays on the thread as the record.
+A card is written whole, from its thread, by one author at one time. Nothing appends to a card. When a second filer's words arrive on a need, they go on the thread as an entry, and the card is written again from the thread, whole. No ask is ever deleted: a withdrawn or folded ask stays on the thread as the record.
 
 Two needs on different threads can ask for one thing. The Secretary folds the later ask into the earlier one: it leaves the queue, its thread says where it went, and the surviving card is written again whole when the fold changes what the human must know. The human decides once. That decision lands on both threads.
 

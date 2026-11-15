@@ -13,8 +13,13 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-05 [A stranger can't find or share Muster Town yet: no search presence, no link previews, no robots/sitemap, bare GitHub repo (checked 2026-11-05)](docs/note/2026-11/2026-11-05-a-stranger-can-t-find-or-share-muster-town-yet-no-dtnhmecv.md) `dc_1adtnhmecv` · Juno 1
 - 2026-11-05 [Muster Town next to Ruflo, Gas Town, Munder Difflin and Svall: overlaps, differences, outreach channels we could use](docs/note/2026-11/2026-11-05-muster-town-next-to-ruflo-gas-town-munder-difflin-3ini7ysr.md) `dc_jk3ini7ysr` · Juno 1
 
-## report (24)
+## report (29)
 
+- 2026-11-15 [PR #459 green and merged: BLOG_MAIL_FROM format documented](docs/report/2026-11/2026-11-15-pr-459-green-and-merged-blog-mail-from-format-docu-mx4fic90.md) `dc_kxmx4fic90` · Juno 1
+- 2026-11-15 [Blog confirmation mail sends live (200); PR #459 waiting on CI](docs/report/2026-11/2026-11-15-blog-confirmation-mail-sends-live-200-pr-459-waiti-8iixkrnn.md) `dc_yr8iixkrnn` · Juno 1
+- 2026-11-15 [GitHub repo topics are live: About is complete (description, homepage, MIT, 5 topics)](docs/report/2026-11/2026-11-15-github-repo-topics-are-live-about-is-complete-desc-igrudjs8.md) `dc_0sigrudjs8` · Juno 1
+- 2026-11-15 [Retest after BLOG_MAIL_FROM change: Resend still refuses the confirmation mail (HTTP 500)](docs/report/2026-11/2026-11-15-retest-after-blog-mail-from-change-resend-still-re-jdjqvg90.md) `dc_bqjdjqvg90` · Juno 1
+- 2026-11-15 [GitHub About: description, homepage muster.town and MIT are live; topics are still empty](docs/report/2026-11/2026-11-15-github-about-description-homepage-muster-town-and-4y5r4ck4.md) `dc_zz4y5r4ck4` · Juno 1
 - 2026-11-15 [Resend key is seen live, but Resend rejects the send: BLOG_MAIL_FROM likely names an unverified domain](docs/report/2026-11/2026-11-15-resend-key-is-seen-live-but-resend-rejects-the-sen-9rqqh4kf.md) `dc_4t9rqqh4kf` · Juno 1
 - 2026-11-12 [Outreach rollup #5: Resend double opt-in is live and does nothing until Mitchell sets the key; his four steps are the ask](docs/report/2026-11/2026-11-12-outreach-rollup-5-resend-double-opt-in-is-live-and-mdygebj5.md) `dc_g2mdygebj5` · Juno
 - 2026-11-12 [Resend double opt-in is live at 2f518b9f; with no key set, signup works as it did before](docs/report/2026-11/2026-11-12-resend-double-opt-in-is-live-at-2f518b9f-with-no-k-vii5hy6m.md) `dc_89vii5hy6m` · Juno 1

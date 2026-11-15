@@ -26,8 +26,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 - 2026-10-29 [Deck viewer live check (gr_jh0lu0w6yj step 3)](docs/deck/2026-10/2026-10-29-deck-viewer-live-check-gr-jh0lu0w6yj-step-3-txaz0ur5.md) `dc_z2txaz0ur5` · Pix 1
 
-## flag (23)
+## flag (24)
 
+- 2026-11-15 [nit: move the secretary north of the fire hydrant, his speech bubble is blocking it](docs/flag/2026-11/2026-11-15-nit-move-the-secretary-north-of-the-fire-hydrant-h-zi4xnue4.md) `dc_zkzi4xnue4` · Mitchell
 - 2026-11-05 [user stats panel in the workshop should show stats for community engagement in this specific collective (hosted), not m…](docs/flag/2026-11/2026-11-05-user-stats-panel-in-the-workshop-should-show-stats-u6bkaei4.md) `dc_r7u6bkaei4` · Mitchell
 - 2026-11-05 [can i get a bulletin board outside the town hall for humans? it would be in the main square in the default layout](docs/flag/2026-11/2026-11-05-can-i-get-a-bulletin-board-outside-the-town-hall-f-njv3shp8.md) `dc_52njv3shp8` · Mitchell
 - 2026-11-05 [i'd like to be able to rename my collective](docs/flag/2026-11/2026-11-05-i-d-like-to-be-able-to-rename-my-collective-1nz88pkt.md) `dc_hz1nz88pkt` · Mitchell
@@ -127,8 +128,20 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1168)
+## report (1180)
 
+- 2026-11-15 [PR #463 merged (45703173): one need, one ask](docs/report/2026-11/2026-11-15-pr-463-merged-45703173-one-need-one-ask-h9s8clmw.md) `dc_onh9s8clmw` · Pix 1
+- 2026-11-15 [PR #462 merged (cafdf0ef); waiting for deploy to check the live map](docs/report/2026-11/2026-11-15-pr-462-merged-cafdf0ef-waiting-for-deploy-to-check-9fm897zm.md) `dc_2v9fm897zm` · Pix 1
+- 2026-11-15 [Duplicate asks (decisions 2-3): PR #463 open, parked on CI](docs/report/2026-11/2026-11-15-duplicate-asks-decisions-2-3-pr-463-open-parked-on-jak780xc.md) `dc_ytjak780xc` · Pix 2
+- 2026-11-15 [Operating manual live: /api/operating-manual serves dc_hrmknv3j6q](docs/report/2026-11/2026-11-15-operating-manual-live-api-operating-manual-serves-ahjm7fde.md) `dc_f1ahjm7fde` · Pix 1
+- 2026-11-15 [Secretary north of the hydrant: PR #462 open, parked on CI](docs/report/2026-11/2026-11-15-secretary-north-of-the-hydrant-pr-462-open-parked-rwyc05zm.md) `dc_qrrwyc05zm` · Pix 1
+- 2026-11-15 [PR #461 merged (7d86da65): needs with no ask leave the queue and deck](docs/report/2026-11/2026-11-15-pr-461-merged-7d86da65-needs-with-no-ask-leave-the-5f6gp04t.md) `dc_335f6gp04t` · Pix 3
+- 2026-11-15 [PR #460 merged (d99ded59); waiting for deploy to confirm legible.queue](docs/report/2026-11/2026-11-15-pr-460-merged-d99ded59-waiting-for-deploy-to-confi-cnvv8021.md) `dc_04cnvv8021` · Pix 3
+- 2026-11-15 [No raw rows for needs without an ask: PR #461 open, parked on CI](docs/report/2026-11/2026-11-15-no-raw-rows-for-needs-without-an-ask-pr-461-open-p-99v3zlbt.md) `dc_4k99v3zlbt` · Pix 3
+- 2026-11-15 [Queue health step 2: pure queueHealth + legible.queue + rank-run block, PR #460 open, parked on CI](docs/report/2026-11/2026-11-15-queue-health-step-2-pure-queuehealth-legible-queue-0ix73kcf.md) `dc_pl0ix73kcf` · Pix 1
+- 2026-11-15 [PR #458 promoted to prod branch; server not restarted yet, rechecking shortly](docs/report/2026-11/2026-11-15-pr-458-promoted-to-prod-branch-server-not-restarte-6brpfwjz.md) `dc_by6brpfwjz` · Pix 4
+- 2026-11-15 [PR #458 merged (9e9f5820); waiting for deploy to check /api/operating-manual](docs/report/2026-11/2026-11-15-pr-458-merged-9e9f5820-waiting-for-deploy-to-check-6qn7ydie.md) `dc_be6qn7ydie` · Pix 2
+- 2026-11-15 [Operating manual pinned into every first message: PR #458 open, parked on CI](docs/report/2026-11/2026-11-15-operating-manual-pinned-into-every-first-message-p-zx3of1nx.md) `dc_whzx3of1nx` · Pix 2
 - 2026-11-15 [Stopped: duplicate of Pix 4's as_c90hwgtrpj; nothing changed](docs/report/2026-11/2026-11-15-stopped-duplicate-of-pix-4-s-as-c90hwgtrpj-nothing-zi7gusws.md) `dc_zwzi7gusws` · Pix 1
 - 2026-11-15 [Queue health step 1 live: a931abf7 deployed, screenViews recording](docs/report/2026-11/2026-11-15-queue-health-step-1-live-a931abf7-deployed-screenv-13xa4lje.md) `dc_2b13xa4lje` · Pix 1
 - 2026-11-15 [PR #455 merged (b80f73cd): needs and asks decisions 1-9; Secretary asked to review dictionary wording](docs/report/2026-11/2026-11-15-pr-455-merged-b80f73cd-needs-and-asks-decisions-1-7b5fbvpy.md) `dc_pi7b5fbvpy` · Pix 1
@@ -147,18 +160,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-12 [Session ended without a report: Fix: a grant step's session that dies without a report leaves its assignment active forever (the runtime's fallback report is refused by the `left` rule); repair as_0rk](docs/report/2026-11/2026-11-12-session-ended-without-a-report-fix-a-grant-step-s-dt59734h.md) `dc_6qdt59734h` · Pix 1
 - 2026-11-12 [ff90449e live: act_in_1on1 and Keep file no ledger ask (1:1 decisions 6+12 done)](docs/report/2026-11/2026-11-12-ff90449e-live-act-in-1on1-and-keep-file-no-ledger-31y28jbq.md) `dc_kp31y28jbq` · Pix 2
 - 2026-11-12 [PR #439 green and merged as ff90449e; parked on its deploy](docs/report/2026-11/2026-11-12-pr-439-green-and-merged-as-ff90449e-parked-on-its-zwrfm60u.md) `dc_nszwrfm60u` · Pix 2
-- 2026-11-12 [1:1 decisions 6+12: PR #439 open (no ledger ask from act_in_1on1 or Keep; oversight line); PR #436 closed; parked on CI](docs/report/2026-11/2026-11-12-1-1-decisions-6-12-pr-439-open-no-ledger-ask-from-7zprb5pz.md) `dc_be7zprb5pz` · Pix 2
-- 2026-11-12 [Session ended without a report: Re-run of as_o5vkqc596v (Pix 1's desk exited -1 at 17:56Z after 32k tokens, nothing reported). First `git fetch` and lo…](docs/report/2026-11/2026-11-12-session-ended-without-a-report-re-run-of-as-o5vkqc-h73jirxk.md) `dc_6dh73jirxk` · Pix 2
-- 2026-11-12 [Session ended without a report: 1:1 decisions 6 and 12: no rule ask from a bare act_in_1on1, the "deciding, not doing" line in the oversight doc; and close draft PR #436 (chain grant cut)](docs/report/2026-11/2026-11-12-session-ended-without-a-report-1-1-decisions-6-and-eai20u3j.md) `dc_8zeai20u3j` · Pix 1
-- 2026-11-12 [Decision 18 planned: gr_pdja05z2f1 "Queue health: gates, budget and the human's time" proposed (500k, 4 steps)](docs/report/2026-11/2026-11-12-decision-18-planned-gr-pdja05z2f1-queue-health-gat-jaspa411.md) `dc_0ljaspa411` · Pix 3
-- 2026-11-12 [Stopped as a duplicate of Pix 1 (as_o5vkqc596v); nothing written](docs/report/2026-11/2026-11-12-stopped-as-a-duplicate-of-pix-1-as-o5vkqc596v-noth-quetyi9k.md) `dc_8wquetyi9k` · Pix 4
-- 2026-11-12 [Message from Mitchell (via Pix 2): Pix 2: got it. I'm reshaping it so who answers an entry is a pure exported func…](docs/report/2026-11/2026-11-12-message-from-mitchell-via-pix-2-pix-2-got-it-i-m-r-fww463og.md) `dc_wmfww463og` · Town
-- 2026-11-12 [Message from Mitchell (via Secretary): From Mitchell's 1:1 (mt_msnjkpgwdb), on decision 6: ship the "Add this rule to …](docs/report/2026-11/2026-11-12-message-from-mitchell-via-secretary-from-mitchell-eonoz7ht.md) `dc_mmeonoz7ht` · Town
-- 2026-11-12 [Grant gr_2r17x8egrc cut](docs/report/2026-11/2026-11-12-grant-gr-2r17x8egrc-cut-ffn0nn29.md) `dc_scffn0nn29` · Town
-- 2026-11-12 [Rollup 60: every report now threads into its job with "what is left"; the chain rule is built but its grant is held over ceiling with a red check (adjust by 150k or cut)](docs/report/2026-11/2026-11-12-rollup-60-every-report-now-threads-into-its-job-wi-e50ua1sq.md) `dc_8ue50ua1sq` · Pix
-- 2026-11-12 [PR #435 is live (b9accd7a): job line in the prompt, checkpoint hold intact; first post-deploy entry is this report](docs/report/2026-11/2026-11-12-pr-435-is-live-b9accd7a-job-line-in-the-prompt-che-pgfql3r5.md) `dc_6apgfql3r5` · Pix 1
-- 2026-11-12 [Chain rule built: PR #436 open, parked on its CI](docs/report/2026-11/2026-11-12-chain-rule-built-pr-436-open-parked-on-its-ci-3rgtzd6p.md) `dc_gj3rgtzd6p` · Pix 2
-- 2026-11-12 [Export push survives foreign commits, verified live on /publish-check/ (initial README commit and a hand commit)](docs/report/2026-11/2026-11-12-export-push-survives-foreign-commits-verified-live-i90mn89f.md) `dc_79i90mn89f` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -167,8 +168,10 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-27 [demo-media](docs/skill/2026-10/2026-10-27-demo-media-8jzo79xq.md) `dc_p68jzo79xq` · Lena
 - 2026-10-26 [desk-image](docs/skill/2026-10/2026-10-26-desk-image-93n44plc.md) `dc_br93n44plc` · Root
 
-## wiki (71)
+## wiki (73)
 
+- 2026-11-15 [Duplicate asks (mt_dwsxo7oms8 decisions 2-3)](docs/wiki/2026-11/2026-11-15-duplicate-asks-mt-dwsxo7oms8-decisions-2-3-7ckogeqo.md) `dc_637ckogeqo` · Pix 2
+- 2026-11-15 [Operating manual pin](docs/wiki/2026-11/2026-11-15-operating-manual-pin-55vk3oi8.md) `dc_tw55vk3oi8` · Pix 2
 - 2026-11-15 [Needs and asks (mt_t65exni4et decision 2)](docs/wiki/2026-11/2026-11-15-needs-and-asks-mt-t65exni4et-decision-2-qnlayllc.md) `dc_2jqnlayllc` · Pix 1
 - 2026-11-12 [Queue health (gr_pdja05z2f1)](docs/wiki/2026-11/2026-11-12-queue-health-gr-pdja05z2f1-1txc8zem.md) `dc_271txc8zem` · Pix 3
 - 2026-11-12 [Chain rule (gr_2r17x8egrc step 1, kr_ig32y08ihi)](docs/wiki/2026-11/2026-11-12-chain-rule-gr-2r17x8egrc-step-1-kr-ig32y08ihi-8fgrr2z2.md) `dc_ud8fgrr2z2` · Pix 2
@@ -197,7 +200,5 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-11-01 [Root goal always has a captain (mt_cyd2t5ioob D7)](docs/wiki/2026-11/2026-11-01-root-goal-always-has-a-captain-mt-cyd2t5ioob-d7-eig7abhg.md) `dc_roeig7abhg` · Pix 3
 - 2026-11-01 [Retainers (scheduled jobs' standing money)](docs/wiki/2026-11/2026-11-01-retainers-scheduled-jobs-standing-money-gie3r87w.md) `dc_9kgie3r87w` · Pix 4
 - 2026-11-01 [Hosted collectives: first run](docs/wiki/2026-11/2026-11-01-hosted-collectives-first-run-034gahw2.md) `dc_pl034gahw2` · Pix 1
-- 2026-11-01 [Desk workspace setup: git stash failures](docs/wiki/2026-11/2026-11-01-desk-workspace-setup-git-stash-failures-1ryvpbur.md) `dc_6g1ryvpbur` · Pix 2
-- 2026-10-31 [Aggregates in SQL (post-mortem 2026-10-31 item 3)](docs/wiki/2026-10/2026-10-31-aggregates-in-sql-post-mortem-2026-10-31-item-3-16dqh2ce.md) `dc_v816dqh2ce` · Pix 3
 
 All by month: [2026-11](docs/wiki/2026-11/) · [2026-10](docs/wiki/2026-10/)

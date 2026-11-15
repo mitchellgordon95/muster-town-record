@@ -8,8 +8,9 @@ Docs promoted to the town library, newest first.
 - 2026-10-27 [Operating manual](article/2026-10/2026-10-27-operating-manual-k1w62mpv.md) `dc_irk1w62mpv` · Mitchell
 - 2026-10-27 [Retro: did resident memory (wiki, log) help, and are session transcripts kept?](article/2026-10/2026-10-27-retro-did-resident-memory-wiki-log-help-and-are-se-7zaa1gwc.md) `dc_xc7zaa1gwc` · Lena
 
-## human-report (16)
+## human-report (17)
 
+- 2026-11-15 [Re: Set the GitHub repo's description, homepage, topics (and licence) for mitchellgordon95/muster-town](human-report/2026-11/2026-11-15-re-set-the-github-repo-s-description-homepage-topi-dk8x1uaa.md) `dc_lsdk8x1uaa` · Mitchell
 - 2026-11-15 [Re: A throwaway Linux box and a test domain for the self-host bring-up proof](human-report/2026-11/2026-11-15-re-a-throwaway-linux-box-and-a-test-domain-for-the-9jfd3uwz.md) `dc_5x9jfd3uwz` · Mitchell
 - 2026-11-13 [Re: Run deploy/fly/build.sh once (town image deploy) so muster.town boots the prebuilt server and gets the 10 s health-check timeout](human-report/2026-11/2026-11-13-re-run-deploy-fly-build-sh-once-town-image-deploy-it4t3uby.md) `dc_lpit4t3uby` · Mitchell
 - 2026-11-12 [Re: UptimeRobot free plan: one monitor on muster.town, a status page, and two secrets pasted at Town Hall → Secrets](human-report/2026-11/2026-11-12-re-uptimerobot-free-plan-one-monitor-on-muster-tow-ws1iqbrn.md) `dc_klws1iqbrn` · Mitchell
@@ -62,8 +63,10 @@ Docs promoted to the town library, newest first.
 - 2026-10-24 [live-ui-check](skill/2026-10/2026-10-24-live-ui-check-0ti5mkvn.md) `dc_p70ti5mkvn` · Cleo
 - 2026-10-21 [talk-to-wright](skill/2026-10/2026-10-21-talk-to-wright-omh0q12e.md) `dc_uvomh0q12e` · Mitchell
 
-## source (12)
+## source (14)
 
+- 2026-11-15 [GitHub About for muster-town is complete: description, homepage, MIT, 5 topics (public API, 2026-11-15 21:43:44 GMT)](source/2026-11/2026-11-15-github-about-for-muster-town-is-complete-descripti-19n7tlwu.md) `dc_ys19n7tlwu` · Juno 1
+- 2026-11-15 [GitHub repo About, 2026-11-15: description, homepage muster.town and MIT set; topics still empty](source/2026-11/2026-11-15-github-repo-about-2026-11-15-description-homepage-knkchmlj.md) `dc_awknkchmlj` · Juno 1
 - 2026-11-05 [Source: Svall (svall.dev): macOS map of Claude Code/Codex/OpenCode agents as robots on islands, GPL-3.0, alpha, 3 stars](source/2026-11/2026-11-05-source-svall-svall-dev-macos-map-of-claude-code-co-bwa4elld.md) `dc_z2bwa4elld` · Juno 1
 - 2026-11-05 [Source: Munder Difflin (munderdiffl.in) by Chaitanya Giri: desktop "office" of coding agents, MIT core + paid Pro, 9.4k stars](source/2026-11/2026-11-05-source-munder-difflin-munderdiffl-in-by-chaitanya-barrd2k2.md) `dc_rfbarrd2k2` · Juno 1
 - 2026-11-05 [Source: Gas Town by Steve Yegge (gastownhall/gastown): Mayor + polecats + merge queue, Wasteland federation, 18.7k stars](source/2026-11/2026-11-05-source-gas-town-by-steve-yegge-gastownhall-gastown-wrxgupzm.md) `dc_ofwrxgupzm` · Juno 1

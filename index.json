@@ -28492,5 +28492,266 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-15T21:27:09.981Z"
+  },
+  {
+    "id": "dc_tw55vk3oi8",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-15-operating-manual-pin-55vk3oi8.md",
+    "title": "Operating manual pin",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T21:30:46.566Z"
+  },
+  {
+    "id": "dc_whzx3of1nx",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-operating-manual-pinned-into-every-first-message-p-zx3of1nx.md",
+    "title": "Operating manual pinned into every first message: PR #458 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T21:30:55.869Z"
+  },
+  {
+    "id": "dc_lsdk8x1uaa",
+    "path": "library/human-report/2026-11/2026-11-15-re-set-the-github-repo-s-description-homepage-topi-dk8x1uaa.md",
+    "title": "Re: Set the GitHub repo's description, homepage, topics (and licence) for mitchellgordon95/muster-town",
+    "type": "human-report",
+    "state": "library",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-15T21:31:50.485Z"
+  },
+  {
+    "id": "dc_awknkchmlj",
+    "path": "library/source/2026-11/2026-11-15-github-repo-about-2026-11-15-description-homepage-knkchmlj.md",
+    "title": "GitHub repo About, 2026-11-15: description, homepage muster.town and MIT set; topics still empty",
+    "type": "source",
+    "state": "library",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-15T21:33:04.211Z"
+  },
+  {
+    "id": "dc_zz4y5r4ck4",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-15-github-about-description-homepage-muster-town-and-4y5r4ck4.md",
+    "title": "GitHub About: description, homepage muster.town and MIT are live; topics are still empty",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-15T21:33:14.994Z"
+  },
+  {
+    "id": "dc_be6qn7ydie",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-pr-458-merged-9e9f5820-waiting-for-deploy-to-check-6qn7ydie.md",
+    "title": "PR #458 merged (9e9f5820); waiting for deploy to check /api/operating-manual",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T21:36:02.489Z"
+  },
+  {
+    "id": "dc_bqjdjqvg90",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-15-retest-after-blog-mail-from-change-resend-still-re-jdjqvg90.md",
+    "title": "Retest after BLOG_MAIL_FROM change: Resend still refuses the confirmation mail (HTTP 500)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-15T21:40:55.494Z"
+  },
+  {
+    "id": "dc_pugmgb0lpt",
+    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-15-cleared-red-redeploy-failed-redeploy-failed-5-min-gmgb0lpt.md",
+    "title": "[CLEARED] RED redeploy-failed: redeploy failed 5 min ago: main is not live: re-run the redeploy, read the failed step's event output",
+    "type": "fyi",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-15T21:43:53.386Z"
+  },
+  {
+    "id": "dc_ys19n7tlwu",
+    "path": "library/source/2026-11/2026-11-15-github-about-for-muster-town-is-complete-descripti-19n7tlwu.md",
+    "title": "GitHub About for muster-town is complete: description, homepage, MIT, 5 topics (public API, 2026-11-15 21:43:44 GMT)",
+    "type": "source",
+    "state": "library",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-15T21:44:10.803Z"
+  },
+  {
+    "id": "dc_0sigrudjs8",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-15-github-repo-topics-are-live-about-is-complete-desc-igrudjs8.md",
+    "title": "GitHub repo topics are live: About is complete (description, homepage, MIT, 5 topics)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-15T21:44:22.626Z"
+  },
+  {
+    "id": "dc_yr8iixkrnn",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-15-blog-confirmation-mail-sends-live-200-pr-459-waiti-8iixkrnn.md",
+    "title": "Blog confirmation mail sends live (200); PR #459 waiting on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-15T21:47:18.122Z"
+  },
+  {
+    "id": "dc_kxmx4fic90",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-15-pr-459-green-and-merged-blog-mail-from-format-docu-mx4fic90.md",
+    "title": "PR #459 green and merged: BLOG_MAIL_FROM format documented",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-15T21:53:50.078Z"
+  },
+  {
+    "id": "dc_fu5unwj1kr",
+    "path": "buildings/bl_vd69s5a1nh/docs/wiki/2026-11/2026-11-15-fallback-audit-decision-5-5unwj1kr.md",
+    "title": "Fallback audit (decision 5)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-15T21:56:32.581Z"
+  },
+  {
+    "id": "dc_0h2p8oiwy6",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-15-fallback-audit-20-fallbacks-ranked-by-harm-10-to-f-2p8oiwy6.md",
+    "title": "Fallback audit: 20 fallbacks ranked by harm; 10 to fail loudly, fix grant gr_eztubyh7nf proposed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-15T21:57:00.741Z"
+  },
+  {
+    "id": "dc_by6brpfwjz",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-pr-458-promoted-to-prod-branch-server-not-restarte-6brpfwjz.md",
+    "title": "PR #458 promoted to prod branch; server not restarted yet, rechecking shortly",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T21:58:18.025Z"
+  },
+  {
+    "id": "dc_d6wzq89uck",
+    "path": "buildings/bl_vd69s5a1nh/docs/article/2026-11/2026-11-15-policy-avoid-fallbacks-wzq89uck.md",
+    "title": "Policy: avoid fallbacks",
+    "type": "article",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-15T21:58:25.071Z"
+  },
+  {
+    "id": "dc_mbmlzp4tsf",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-15-draft-policy-avoid-fallbacks-filed-as-dc-d6wzq89uc-mlzp4tsf.md",
+    "title": "Draft \"Policy: avoid fallbacks\" filed as dc_d6wzq89uck; Secretary told",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-15T21:58:37.246Z"
+  },
+  {
+    "id": "dc_tflbpe5bx6",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-15-1-1-mitchell-and-secretary-notes-lbpe5bx6.md",
+    "title": "1:1: Mitchell and Secretary — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-15T21:59:22.442Z"
+  },
+  {
+    "id": "dc_pl0ix73kcf",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-queue-health-step-2-pure-queuehealth-legible-queue-0ix73kcf.md",
+    "title": "Queue health step 2: pure queueHealth + legible.queue + rank-run block, PR #460 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T21:59:40.982Z"
+  },
+  {
+    "id": "dc_zkzi4xnue4",
+    "path": "buildings/workshop/docs/flag/2026-11/2026-11-15-nit-move-the-secretary-north-of-the-fire-hydrant-h-zi4xnue4.md",
+    "title": "nit: move the secretary north of the fire hydrant, his speech bubble is blocking it",
+    "type": "flag",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T22:00:01.425Z"
+  },
+  {
+    "id": "dc_4k99v3zlbt",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-no-raw-rows-for-needs-without-an-ask-pr-461-open-p-99v3zlbt.md",
+    "title": "No raw rows for needs without an ask: PR #461 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T22:01:36.524Z"
+  },
+  {
+    "id": "dc_04cnvv8021",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-pr-460-merged-d99ded59-waiting-for-deploy-to-confi-cnvv8021.md",
+    "title": "PR #460 merged (d99ded59); waiting for deploy to confirm legible.queue",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T22:06:10.121Z"
+  },
+  {
+    "id": "dc_335f6gp04t",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-pr-461-merged-7d86da65-needs-with-no-ask-leave-the-5f6gp04t.md",
+    "title": "PR #461 merged (7d86da65): needs with no ask leave the queue and deck",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T22:08:10.774Z"
+  },
+  {
+    "id": "dc_qrrwyc05zm",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-secretary-north-of-the-hydrant-pr-462-open-parked-rwyc05zm.md",
+    "title": "Secretary north of the hydrant: PR #462 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T22:11:04.929Z"
+  },
+  {
+    "id": "dc_f1ahjm7fde",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-operating-manual-live-api-operating-manual-serves-ahjm7fde.md",
+    "title": "Operating manual live: /api/operating-manual serves dc_hrmknv3j6q",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T22:15:18.011Z"
+  },
+  {
+    "id": "dc_637ckogeqo",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-15-duplicate-asks-mt-dwsxo7oms8-decisions-2-3-7ckogeqo.md",
+    "title": "Duplicate asks (mt_dwsxo7oms8 decisions 2-3)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T22:15:32.210Z"
+  },
+  {
+    "id": "dc_ytjak780xc",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-duplicate-asks-decisions-2-3-pr-463-open-parked-on-jak780xc.md",
+    "title": "Duplicate asks (decisions 2-3): PR #463 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T22:15:43.108Z"
+  },
+  {
+    "id": "dc_2v9fm897zm",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-pr-462-merged-cafdf0ef-waiting-for-deploy-to-check-9fm897zm.md",
+    "title": "PR #462 merged (cafdf0ef); waiting for deploy to check the live map",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T22:17:15.834Z"
+  },
+  {
+    "id": "dc_onh9s8clmw",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-15-pr-463-merged-45703173-one-need-one-ask-h9s8clmw.md",
+    "title": "PR #463 merged (45703173): one need, one ask",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-15T22:20:27.876Z"
   }
 ]

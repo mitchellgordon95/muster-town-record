@@ -17,7 +17,8 @@ One meaning per word. Every manager's prompt pins these words, and the ask linte
 
 ## Words
 
-- **ask**: something only a human can do, stored with its type, target, branches and recommendation. The human decides it.
+- **ask**: the card in the decision queue: a view of one need, with its type, target, branches and recommendation. A manager or the Secretary writes it. The human decides it.
+- **need**: a fact on a job's thread that only a human can settle: a grant wants funding, a grant reached its gate, a request asks a human. It follows no presentation rule. An ask renders it.
 - **notice**: a state change with nothing to do: something shipped, a grant closed, a key result verified.
 - **record**: what an ask or a notice came from: a rollup, a report, a grant plan. It is one click down from the card.
 - **gate**: the point where a grant waits for a human: at its ceiling, or a step report whose forecast is past it.

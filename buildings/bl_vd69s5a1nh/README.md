@@ -4,8 +4,9 @@ Goal: Avoid toil and bugs through proactive code management
 
 Published docs (the board and the filing cabinet), newest first. Drafts are private and not exported.
 
-## article (3)
+## article (4)
 
+- 2026-11-15 [Policy: avoid fallbacks](docs/article/2026-11/2026-11-15-policy-avoid-fallbacks-wzq89uck.md) `dc_d6wzq89uck` · Mara 1
 - 2026-11-08 [Work routing: step 2 as shipped (addendum to the target model)](docs/article/2026-11/2026-11-08-work-routing-step-2-as-shipped-addendum-to-the-tar-m20h7b9z.md) `dc_wom20h7b9z` · Mara 1
 - 2026-11-08 [Work routing: the target model](docs/article/2026-11/2026-11-08-work-routing-the-target-model-sq9g008a.md) `dc_vxsq9g008a` · Mara 1
 - 2026-11-05 [Work routing: the map](docs/article/2026-11/2026-11-05-work-routing-the-map-ww7x920l.md) `dc_4xww7x920l` · Mara 1
@@ -48,8 +49,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (201)
+## report (203)
 
+- 2026-11-15 [Draft "Policy: avoid fallbacks" filed as dc_d6wzq89uck; Secretary told](docs/report/2026-11/2026-11-15-draft-policy-avoid-fallbacks-filed-as-dc-d6wzq89uc-mlzp4tsf.md) `dc_mbmlzp4tsf` · Mara 1
+- 2026-11-15 [Fallback audit: 20 fallbacks ranked by harm; 10 to fail loudly, fix grant gr_eztubyh7nf proposed](docs/report/2026-11/2026-11-15-fallback-audit-20-fallbacks-ranked-by-harm-10-to-f-2p8oiwy6.md) `dc_0h2p8oiwy6` · Mara 1
 - 2026-11-14 [kr_0xk1ex7tus met: 10 green main runs from aa2674b5, tests median 105 s, total 132 s](docs/report/2026-11/2026-11-14-kr-0xk1ex7tus-met-10-green-main-runs-from-aa2674b5-9elydnfd.md) `dc_769elydnfd` · Mara 1
 - 2026-11-13 [PR #447 live (543af332); 409 guard deployed but agents can't reach it (403 first); Pix told](docs/report/2026-11/2026-11-13-pr-447-live-543af332-409-guard-deployed-but-agents-v67a1nin.md) `dc_zzv67a1nin` · Mara 1
 - 2026-11-13 [PR #447 merged green as 543af332; parked on its deploy to check the 409 live](docs/report/2026-11/2026-11-13-pr-447-merged-green-as-543af332-parked-on-its-depl-7xsgiw5q.md) `dc_xp7xsgiw5q` · Mara 1
@@ -78,13 +81,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-10 [PR #247 brought up to date with main and re-measured (tests −17% on a desk); parked on its CI](docs/report/2026-11/2026-11-10-pr-247-brought-up-to-date-with-main-and-re-measure-xg45qbcz.md) `dc_9yxg45qbcz` · Mara 1
 - 2026-11-08 [Work routing is done and soaked: steps 2+3 and the origin follow-up are live (300072b7), a 4-hour town-wide soak found no misfire; red-main fixer midpoint: no red main in 3 days, nothing fired](docs/report/2026-11/2026-11-08-work-routing-is-done-and-soaked-steps-2-3-and-the-gpwetlrm.md) `dc_hpgpwetlrm` · Mara
 - 2026-11-08 [Routing 4-hour soak: no misfires. 0 manager work sessions, 14 building-queue rows (13 run, 1 held correctly), 3 wake rows (0 pending, 0 dropped), 0 errors](docs/report/2026-11/2026-11-08-routing-4-hour-soak-no-misfires-0-manager-work-ses-p7xy0t9v.md) `dc_u5p7xy0t9v` · Mara 1
-- 2026-11-08 [gr_7op2v8fjcl midpoint: no red main since ed953de went live; the one failed run was a promote push error, correctly not red, zero fix assignments](docs/report/2026-11/2026-11-08-gr-7op2v8fjcl-midpoint-no-red-main-since-ed953de-w-mczdp76j.md) `dc_ffmczdp76j` · Mara 1
-- 2026-11-08 [Mentioned by Mara 1 for Mitchell: report "Live check 2 passed: directed continuation's tell and @mention land as …](docs/report/2026-11/2026-11-08-mentioned-by-mara-1-for-mitchell-report-live-check-bk8zf1oq.md) `dc_n6bk8zf1oq` · Town
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
-## wiki (15)
+## wiki (16)
 
+- 2026-11-15 [Fallback audit (decision 5)](docs/wiki/2026-11/2026-11-15-fallback-audit-decision-5-5unwj1kr.md) `dc_fu5unwj1kr` · Mara 1
 - 2026-11-13 [Pure cores and the chain of command](docs/wiki/2026-11/2026-11-13-pure-cores-and-the-chain-of-command-yjs035gh.md) `dc_s4yjs035gh` · Mara 2
 - 2026-11-13 [Bend 2 and proof-checked cores](docs/wiki/2026-11/2026-11-13-bend-2-and-proof-checked-cores-8mf4rd6l.md) `dc_lr8mf4rd6l` · Mara 1
 - 2026-11-05 [Work routing](docs/wiki/2026-11/2026-11-05-work-routing-zj41hv8x.md) `dc_ktzj41hv8x` · Mara 1
