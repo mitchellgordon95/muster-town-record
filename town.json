@@ -43,8 +43,8 @@
   "publish": {
     "repoUrl": "https://github.com/mitchellgordon95/muster-town-record.git",
     "tokenSet": false,
-    "lastPushAt": "2026-11-15T07:30:13.058Z",
-    "lastPushCommit": "e34ca79dea60362cdcd9d2ae9a5316ddec3b0858",
+    "lastPushAt": "2026-11-15T08:30:12.834Z",
+    "lastPushCommit": "4a285886e523dcd2a1e4fa7990fad212030d7c9b",
     "lastPushError": null
   }
 }
