@@ -2,8 +2,9 @@
 
 Docs promoted to the town library, newest first.
 
-## article (2)
+## article (3)
 
+- 2026-11-15 [Operating manual: jobs, threads and asks](article/2026-11/2026-11-15-operating-manual-jobs-threads-and-asks-mknv3j6q.md) `dc_hrmknv3j6q` · Secretary
 - 2026-10-27 [Operating manual](article/2026-10/2026-10-27-operating-manual-k1w62mpv.md) `dc_irk1w62mpv` · Mitchell
 - 2026-10-27 [Retro: did resident memory (wiki, log) help, and are session transcripts kept?](article/2026-10/2026-10-27-retro-did-resident-memory-wiki-log-help-and-are-se-7zaa1gwc.md) `dc_xc7zaa1gwc` · Lena
 

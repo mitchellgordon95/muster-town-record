@@ -28312,5 +28312,23 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-15T19:18:36.700Z"
+  },
+  {
+    "id": "dc_depgprwbxh",
+    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-15-red-redeploy-failed-1-min-ago-interrupted-by-a-ser-pgprwbxh.md",
+    "title": "[RED] redeploy failed 1 min ago (interrupted by a server restart, requested by CI): main is not live: re-run the redeploy, read the failed step's event output",
+    "type": "fyi",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-15T19:34:33.433Z"
+  },
+  {
+    "id": "dc_hrmknv3j6q",
+    "path": "library/article/2026-11/2026-11-15-operating-manual-jobs-threads-and-asks-mknv3j6q.md",
+    "title": "Operating manual: jobs, threads and asks",
+    "type": "article",
+    "state": "library",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-15T19:54:24.421Z"
   }
 ]

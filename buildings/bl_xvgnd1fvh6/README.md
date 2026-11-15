@@ -16,8 +16,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 - 2026-10-21 [Brief: Secrets PR 1, scoped grants stored in the DB and managed at the Town Hall (for Dara)](docs/assignment-proposal/2026-10/2026-10-21-brief-secrets-pr-1-scoped-grants-stored-in-the-db-e6u6i7d2.md) `dc_6xe6u6i7d2` · Cleo
 
-## fyi (23)
+## fyi (24)
 
+- 2026-11-15 [RED redeploy failed 1 min ago (interrupted by a server restart, requested by CI): main is not live: re-run the redeploy, read the failed step's event output](docs/fyi/2026-11/2026-11-15-red-redeploy-failed-1-min-ago-interrupted-by-a-ser-pgprwbxh.md) `dc_depgprwbxh` · Town
 - 2026-11-13 [CLEARED RED sessions: 0 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-13-cleared-red-sessions-0-claude-sessions-failed-in-1-xxs7sotf.md) `dc_x6xxs7sotf` · Town
 - 2026-11-12 [CLEARED YELLOW sessions: 2 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-12-cleared-yellow-sessions-2-claude-sessions-failed-i-iqdgguqr.md) `dc_07iqdgguqr` · Town
 - 2026-11-12 [CLEARED RED sessions: 2 Claude sessions failed in 15 min](docs/fyi/2026-11/2026-11-12-cleared-red-sessions-2-claude-sessions-failed-in-1-r7mt0tq3.md) `dc_ljr7mt0tq3` · Town
