@@ -29437,5 +29437,41 @@
     "state": "building",
     "buildingId": "town-hall",
     "createdAt": "2026-11-16T19:30:32.283Z"
+  },
+  {
+    "id": "dc_f5vs6hubmx",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-16-repomode-fix-in-draft-pr-481-migration-118-parked-vs6hubmx.md",
+    "title": "repoMode fix in draft PR #481 (migration 118); parked on its CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-16T19:41:07.163Z"
+  },
+  {
+    "id": "dc_208ks26sti",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-16-pr-481-merged-as-54c8e2bf-repomode-fix-waits-on-a-8ks26sti.md",
+    "title": "PR #481 merged as 54c8e2bf; repoMode fix waits on a redeploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-16T19:47:08.010Z"
+  },
+  {
+    "id": "dc_bzvxazfry8",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-16-ghost-sweep-fix-in-draft-pr-482-parked-on-its-ci-vxazfry8.md",
+    "title": "Ghost sweep fix in draft PR #482; parked on its CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-16T19:48:24.428Z"
+  },
+  {
+    "id": "dc_0qpofs7es1",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-16-pr-482-merged-as-95d91768-ghost-sweep-fix-waits-on-pofs7es1.md",
+    "title": "PR #482 merged as 95d91768; ghost-sweep fix waits on a redeploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-16T19:54:12.975Z"
   }
 ]
