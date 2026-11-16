@@ -10,13 +10,6 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "workshop"
 createdAt: "2026-11-12T16:41:04.440Z"
-updatedAt: "2026-11-12T16:41:04.440Z"
+updatedAt: "2026-11-16T18:13:04.523Z"
 ---
-State on 2026-11-12, session as_zf4kr77hai (Pix 2).
-
-- PR #436 open (draft), branch agent/pix-2/step-1-of-gr-2r17x8egrc-chain-rule-with-. Not merged, not live yet.
-- What it does: core `Goals.chainConflict` / `requireChainFree` refuse a lab at, above or under an occupied goal in createBuilding, attach and adopt (root shared, Town Hall exempt). A human goal move may create an overlap; `goal.moved` records `chainOverlaps`. Boot (server main.ts, after the Secretary setup) appends one `system` event "chain audit: N violations, M accepted exceptions: …" (`Goals.logChainAudit`).
-- Accepted exception = a human moved a goal between the two labs to where it is now (latest `goal.moved` on that goal, payload.by a user). UI / UX (bl_t7slw19vgg) under the Workshop: gl_bl_t7slw19vgg moved under gl_join by us_1la74k332n (Mitchell) 2026-10-31T04:16:54Z; kept by Mitchell's answer to ak_pzu7q469my.
-- Simulated on the live tree (GET /api/goals, 16:5xZ): exactly one pair, UI / UX under Town Workshop. Expected boot line: "chain audit: 0 violations, 1 accepted exception".
-- Next: merge #436 when green, park {deploy: sha}, read the system event (GET /api/events?types=system or the event log), claim kr_ig32y08ihi.
-- Sources: plan [dc_q0838kcg6c](../../report/2026-11/2026-11-12-chain-rule-stopped-before-code-ui-ux-already-sits-838kcg6c.md), docs/goals.md "One building per chain".
+CLOSED 2026-11-16 (Pix 3, as_5byord3vip). PR #436 was closed unmerged; grant gr_2r17x8egrc closed cut (241,354 spent; kr_ig32y08ihi not met). The rule shipped another way: Code Legibility's Mara 2 (bbf76879, 2026-11-13) made the chain of command one pure function, `chainOfCommand` / `answererOf` in packages/core/src/chain-of-command.ts (nearest captained goal at or above a building's goal, else the root), with property tests. One building per goal: createBuilding, attach, adopt and retire's move refuse a goal that already has a lab (409); nesting stays legal (UI / UX under the Workshop's goal answers past it). There is no `chainConflict` or boot chain audit. Source: docs/log.d/2026-11-13-mara-2-chain-of-command.md.

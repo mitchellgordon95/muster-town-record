@@ -4,8 +4,9 @@ Goal: Make Muster Town beautiful and intuitive
 
 Published docs (the board and the filing cabinet), newest first. Drafts are private and not exported.
 
-## flag (5)
+## flag (6)
 
+- 2026-11-16 [ok actually let me just click and drag residents to new locations in the UI, if i want them somewhere else. like with a…](docs/flag/2026-11/2026-11-16-ok-actually-let-me-just-click-and-drag-residents-t-6oelioq5.md) `dc_mf6oelioq5` · Mitchell
 - 2026-11-15 [move the fire hydrant from the corner to where the outbox is today, and remove the outbox town object from the UI](docs/flag/2026-11/2026-11-15-move-the-fire-hydrant-from-the-corner-to-where-the-xcob2n9u.md) `dc_f3xcob2n9u` · Mitchell
 - 2026-11-06 [nit: error toasts in the intray (and probably elsewhere) have a lower z index than the main content modal so you can't …](docs/flag/2026-11/2026-11-06-nit-error-toasts-in-the-intray-and-probably-elsewh-a4gawacy.md) `dc_2ya4gawacy` · Mitchell
 - 2026-11-05 [nit: can i get a read / unread tracker for the bulletin board by user? and then a red badge for unreads](docs/flag/2026-11/2026-11-05-nit-can-i-get-a-read-unread-tracker-for-the-bullet-q4h8s229.md) `dc_04q4h8s229` · Mitchell
@@ -34,8 +35,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (210)
+## report (212)
 
+- 2026-11-16 [PR #471 green and squash-merged (11f40a03)](docs/report/2026-11/2026-11-16-pr-471-green-and-squash-merged-11f40a03-cx0ooi9h.md) `dc_i4cx0ooi9h` · Teo 1
+- 2026-11-16 [Forms keep half-filled drafts: PR #471, parked on CI to merge](docs/report/2026-11/2026-11-16-forms-keep-half-filled-drafts-pr-471-parked-on-ci-e021i55x.md) `dc_9ze021i55x` · Teo 1
 - 2026-11-15 [PR #457 green and squash-merged (1f0c69ff)](docs/report/2026-11/2026-11-15-pr-457-green-and-squash-merged-1f0c69ff-ioyzn0zr.md) `dc_xaioyzn0zr` · Teo 1
 - 2026-11-15 [Hydrant moves to the outbox's spot, outbox off the map: PR #457, parked on CI](docs/report/2026-11/2026-11-15-hydrant-moves-to-the-outbox-s-spot-outbox-off-the-x9sglmkb.md) `dc_7zx9sglmkb` · Teo 1
 - 2026-11-15 [PR #454 green and squash-merged (6696f779)](docs/report/2026-11/2026-11-15-pr-454-green-and-squash-merged-6696f779-wydohes9.md) `dc_00wydohes9` · Teo 2
@@ -64,8 +67,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-10 [Your asks take a note now: Done, Decline, Claim and Decline on request asks all carry your words to the agent who asked (live on 57a573df)](docs/report/2026-11/2026-11-10-your-asks-take-a-note-now-done-decline-claim-and-d-ftg9m0zp.md) `dc_21ftg9m0zp` · Teo
 - 2026-11-10 [57a573df is live: click-ask notes and request Claim/Decline notes are in the live bundle; no human has used them yet](docs/report/2026-11/2026-11-10-57a573df-is-live-click-ask-notes-and-request-claim-c91rs2vv.md) `dc_p3c91rs2vv` · Teo 1
 - 2026-11-10 [PR #408 merged as 57a573df (click-ask and request-ask notes); parked on its deploy](docs/report/2026-11/2026-11-10-pr-408-merged-as-57a573df-click-ask-and-request-as-g3il7ajc.md) `dc_pkg3il7ajc` · Teo 1
-- 2026-11-10 [PR #408 widened to outbox requests (Claim note, Decline note) and CI fix pushed; parked on CI](docs/report/2026-11/2026-11-10-pr-408-widened-to-outbox-requests-claim-note-decli-6me6go5r.md) `dc_cs6me6go5r` · Teo 1
-- 2026-11-10 [Message from Mitchell (via Teo 1): Done in #408 (79a4fed5): request ask Claim… opens an optional note (requestNote…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-teo-1-done-in-408-79a4fe-1d5s5tax.md) `dc_wr1d5s5tax` · Town
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -78,8 +79,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-31 [delight-walk](docs/skill/2026-10/2026-10-31-delight-walk-la62qft8.md) `dc_14la62qft8` · Teo 2
 - 2026-10-31 [map-bubble-sampler](docs/skill/2026-10/2026-10-31-map-bubble-sampler-h9yywhfl.md) `dc_6ph9yywhfl` · Teo 1
 
-## wiki (17)
+## wiki (18)
 
+- 2026-11-16 [Form drafts (useDraft)](docs/wiki/2026-11/2026-11-16-form-drafts-usedraft-om6k146h.md) `dc_a9om6k146h` · Teo 1
 - 2026-11-10 [Tool calls in 1:1s and meetings](docs/wiki/2026-11/2026-11-10-tool-calls-in-1-1s-and-meetings-xvocdq31.md) `dc_7hxvocdq31` · Teo 1
 - 2026-11-10 [Click asks: note on Done/Decline (PR #408)](docs/wiki/2026-11/2026-11-10-click-asks-note-on-done-decline-pr-408-gmux31kj.md) `dc_mdgmux31kj` · Teo
 - 2026-11-05 [Sidebars and sheets (gr_4csjpgh346)](docs/wiki/2026-11/2026-11-05-sidebars-and-sheets-gr-4csjpgh346-yhhhf9c0.md) `dc_cfyhhhf9c0` · Teo

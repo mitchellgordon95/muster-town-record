@@ -49,8 +49,11 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (203)
+## report (206)
 
+- 2026-11-16 [README V1 merged: PR #468 as 0c6c9c53](docs/report/2026-11/2026-11-16-readme-v1-merged-pr-468-as-0c6c9c53-7nabjjua.md) `dc_ap7nabjjua` · Mara 1
+- 2026-11-16 [README V1 in PR #468; parked on its CI, merge on green](docs/report/2026-11/2026-11-16-readme-v1-in-pr-468-parked-on-its-ci-merge-on-gree-qrsvtmdo.md) `dc_d2qrsvtmdo` · Mara 1
+- 2026-11-16 [Docs wiki layer proposed as grant gr_7rkuduijhq (one living page per job, 350k); ships now, not after the refactor](docs/report/2026-11/2026-11-16-docs-wiki-layer-proposed-as-grant-gr-7rkuduijhq-on-peu0s6wu.md) `dc_k7peu0s6wu` · Mara 2
 - 2026-11-15 [Draft "Policy: avoid fallbacks" filed as dc_d6wzq89uck; Secretary told](docs/report/2026-11/2026-11-15-draft-policy-avoid-fallbacks-filed-as-dc-d6wzq89uc-mlzp4tsf.md) `dc_mbmlzp4tsf` · Mara 1
 - 2026-11-15 [Fallback audit: 20 fallbacks ranked by harm; 10 to fail loudly, fix grant gr_eztubyh7nf proposed](docs/report/2026-11/2026-11-15-fallback-audit-20-fallbacks-ranked-by-harm-10-to-f-2p8oiwy6.md) `dc_0h2p8oiwy6` · Mara 1
 - 2026-11-14 [kr_0xk1ex7tus met: 10 green main runs from aa2674b5, tests median 105 s, total 132 s](docs/report/2026-11/2026-11-14-kr-0xk1ex7tus-met-10-green-main-runs-from-aa2674b5-9elydnfd.md) `dc_769elydnfd` · Mara 1
@@ -78,14 +81,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-10 [gr_sczsxd9ztm step 3 parked: 0 of 10 green main runs since #247 merged](docs/report/2026-11/2026-11-10-gr-sczsxd9ztm-step-3-parked-0-of-10-green-main-run-4kc5rna4.md) `dc_oo4kc5rna4` · Mara 2
 - 2026-11-10 [Session ended without a report: Measure the one-root-vitest-run lever; ship it only if it saves ≥10% of the tests step](docs/report/2026-11/2026-11-10-session-ended-without-a-report-measure-the-one-roo-8ulyvb61.md) `dc_km8ulyvb61` · Mara 2
 - 2026-11-10 [PR #247 merged (aacc9fe6): test DBs start from one schema image; CI deploys it](docs/report/2026-11/2026-11-10-pr-247-merged-aacc9fe6-test-dbs-start-from-one-sch-lqfic1xs.md) `dc_85lqfic1xs` · Mara 2
-- 2026-11-10 [PR #247 brought up to date with main and re-measured (tests −17% on a desk); parked on its CI](docs/report/2026-11/2026-11-10-pr-247-brought-up-to-date-with-main-and-re-measure-xg45qbcz.md) `dc_9yxg45qbcz` · Mara 1
-- 2026-11-08 [Work routing is done and soaked: steps 2+3 and the origin follow-up are live (300072b7), a 4-hour town-wide soak found no misfire; red-main fixer midpoint: no red main in 3 days, nothing fired](docs/report/2026-11/2026-11-08-work-routing-is-done-and-soaked-steps-2-3-and-the-gpwetlrm.md) `dc_hpgpwetlrm` · Mara
-- 2026-11-08 [Routing 4-hour soak: no misfires. 0 manager work sessions, 14 building-queue rows (13 run, 1 held correctly), 3 wake rows (0 pending, 0 dropped), 0 errors](docs/report/2026-11/2026-11-08-routing-4-hour-soak-no-misfires-0-manager-work-ses-p7xy0t9v.md) `dc_u5p7xy0t9v` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
-## wiki (16)
+## wiki (17)
 
+- 2026-11-16 [Job pages (docs wiki layer)](docs/wiki/2026-11/2026-11-16-job-pages-docs-wiki-layer-rsk6u0gq.md) `dc_plrsk6u0gq` · Mara 2
 - 2026-11-15 [Fallback audit (decision 5)](docs/wiki/2026-11/2026-11-15-fallback-audit-decision-5-5unwj1kr.md) `dc_fu5unwj1kr` · Mara 1
 - 2026-11-13 [Pure cores and the chain of command](docs/wiki/2026-11/2026-11-13-pure-cores-and-the-chain-of-command-yjs035gh.md) `dc_s4yjs035gh` · Mara 2
 - 2026-11-13 [Bend 2 and proof-checked cores](docs/wiki/2026-11/2026-11-13-bend-2-and-proof-checked-cores-8mf4rd6l.md) `dc_lr8mf4rd6l` · Mara 1

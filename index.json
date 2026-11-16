@@ -28906,5 +28906,311 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-16T08:00:28.716Z"
+  },
+  {
+    "id": "dc_ulkpfqh8ht",
+    "path": "town-hall/outbox/2026-11/2026-11-16-sign-up-to-the-blog-with-your-own-email-and-click-kpfqh8ht.md",
+    "title": "Sign up to the blog with your own email and click the confirm link",
+    "type": "request",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-16T18:09:46.951Z"
+  },
+  {
+    "id": "dc_5m8kr0tf1d",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-16-real-inbox-blog-signup-test-filed-as-do-request-dc-8kr0tf1d.md",
+    "title": "Real-inbox blog signup test filed as do request dc_ulkpfqh8ht; discoverability grant waits for posting go",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-16T18:10:11.261Z"
+  },
+  {
+    "id": "dc_plrsk6u0gq",
+    "path": "buildings/bl_vd69s5a1nh/docs/wiki/2026-11/2026-11-16-job-pages-docs-wiki-layer-rsk6u0gq.md",
+    "title": "Job pages (docs wiki layer)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-16T18:10:27.680Z"
+  },
+  {
+    "id": "dc_k7peu0s6wu",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-16-docs-wiki-layer-proposed-as-grant-gr-7rkuduijhq-on-peu0s6wu.md",
+    "title": "Docs wiki layer proposed as grant gr_7rkuduijhq (one living page per job, 350k); ships now, not after the refactor",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-16T18:10:34.880Z"
+  },
+  {
+    "id": "dc_d2qrsvtmdo",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-16-readme-v1-in-pr-468-parked-on-its-ci-merge-on-gree-qrsvtmdo.md",
+    "title": "README V1 in PR #468; parked on its CI, merge on green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-16T18:10:48.911Z"
+  },
+  {
+    "id": "dc_tng758yl2p",
+    "path": "library/meeting-notes/2026-11/2026-11-16-we-re-about-ready-for-juno-to-start-doing-outreach-g758yl2p.md",
+    "title": "We're about ready for Juno to start doing outreach. but there are still some rough edges to take care of — notes",
+    "type": "meeting-notes",
+    "state": "library",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-16T18:12:21.909Z"
+  },
+  {
+    "id": "dc_uyzhsk60o4",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-16-1-1-mitchell-and-secretary-notes-zhsk60o4.md",
+    "title": "1:1: Mitchell and Secretary — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-16T18:12:31.178Z"
+  },
+  {
+    "id": "dc_hnk2vibp1b",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-16-pause-lifted-desk-1-fix-confirmed-live-the-two-gra-k2vibp1b.md",
+    "title": "Pause lifted: desk -1 fix confirmed live; the two grant last steps need Cleo to queue them (forks can't assign)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-16T18:12:57.102Z"
+  },
+  {
+    "id": "dc_mf6oelioq5",
+    "path": "buildings/bl_t7slw19vgg/docs/flag/2026-11/2026-11-16-ok-actually-let-me-just-click-and-drag-residents-t-6oelioq5.md",
+    "title": "ok actually let me just click and drag residents to new locations in the UI, if i want them somewhere else. like with a…",
+    "type": "flag",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-16T18:13:33.764Z"
+  },
+  {
+    "id": "dc_uukrvprqpx",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-16-jobs-and-entries-page-rewritten-from-the-code-stal-krvprqpx.md",
+    "title": "Jobs and entries page rewritten from the code; stale pause notes closed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-16T18:13:42.645Z"
+  },
+  {
+    "id": "dc_bahxfhgzfa",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-16-weekly-onboarding-sweep-wording-card-branches-conf-hxfhgzfa.md",
+    "title": "Weekly onboarding sweep: wording-card branches confirmed, topic page rewritten",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-16T18:13:58.353Z"
+  },
+  {
+    "id": "dc_do68zacckf",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-16-pr-466-merged-0a674074-parked-to-re-read-queue-hea-68zacckf.md",
+    "title": "PR #466 merged (0a674074); parked to re-read queue health live tonight",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-16T18:15:40.958Z"
+  },
+  {
+    "id": "dc_pel5ilxosm",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-16-dead-session-docs-fix-pr-469-open-parked-on-ci-l5ilxosm.md",
+    "title": "Dead-session docs fix: PR #469 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-16T18:15:58.297Z"
+  },
+  {
+    "id": "dc_ap7nabjjua",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-16-readme-v1-merged-pr-468-as-0c6c9c53-7nabjjua.md",
+    "title": "README V1 merged: PR #468 as 0c6c9c53",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-16T18:16:10.962Z"
+  },
+  {
+    "id": "dc_09av5imdgt",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-16-overlay-names-the-three-doors-pr-470-open-parked-o-av5imdgt.md",
+    "title": "Overlay names the three doors: PR #470 open, parked on its CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-16T18:16:18.913Z"
+  },
+  {
+    "id": "dc_a9om6k146h",
+    "path": "buildings/bl_t7slw19vgg/docs/wiki/2026-11/2026-11-16-form-drafts-usedraft-om6k146h.md",
+    "title": "Form drafts (useDraft)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-16T18:16:38.513Z"
+  },
+  {
+    "id": "dc_9ze021i55x",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-16-forms-keep-half-filled-drafts-pr-471-parked-on-ci-e021i55x.md",
+    "title": "Forms keep half-filled drafts: PR #471, parked on CI to merge",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-16T18:16:49.333Z"
+  },
+  {
+    "id": "dc_tkpg92mn1z",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-16-operating-manual-book-in-the-town-hall-pg92mn1z.md",
+    "title": "Operating manual book in the Town Hall",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-16T18:20:18.155Z"
+  },
+  {
+    "id": "dc_t51ss5grl9",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-16-operating-manual-book-pr-472-open-parked-on-ci-1ss5grl9.md",
+    "title": "Operating manual book: PR #472 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-16T18:20:23.799Z"
+  },
+  {
+    "id": "dc_hhhpvdlpnr",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-16-backup-grant-step-3-health-and-board-clean-parked-hpvdlpnr.md",
+    "title": "Backup grant step 3: health and board clean; parked until 18:58Z to sample the 19:00Z run's lag",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-16T18:20:39.531Z"
+  },
+  {
+    "id": "dc_vrm8d6o50a",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-16-pr-469-merged-5aa5948e-dead-session-docs-fix-m8d6o50a.md",
+    "title": "PR #469 merged (5aa5948e): dead-session docs fix",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-16T18:21:36.658Z"
+  },
+  {
+    "id": "dc_i4cx0ooi9h",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-16-pr-471-green-and-squash-merged-11f40a03-cx0ooi9h.md",
+    "title": "PR #471 green and squash-merged (11f40a03)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-16T18:21:45.123Z"
+  },
+  {
+    "id": "dc_oxslw5vu6f",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-16-ghost-visitors-slw5vu6f.md",
+    "title": "Ghost visitors",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-16T18:21:55.116Z"
+  },
+  {
+    "id": "dc_elecz4vy2h",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-16-ghost-visitors-7-day-retire-rule-in-pr-473-parked-ecz4vy2h.md",
+    "title": "Ghost visitors: 7-day retire rule in PR #473, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-16T18:22:12.949Z"
+  },
+  {
+    "id": "dc_bd671kcejx",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-16-pr-470-squash-merged-as-748c767-parked-on-its-depl-671kcejx.md",
+    "title": "PR #470 squash-merged as 748c767; parked on its deploy for the live overlay check",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-16T18:22:43.109Z"
+  },
+  {
+    "id": "dc_ozqpun7pta",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-16-dead-session-wording-in-code-pr-474-open-parked-on-qpun7pta.md",
+    "title": "Dead-session wording in code: PR #474 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-16T18:24:03.197Z"
+  },
+  {
+    "id": "dc_w7bcw45e1x",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-16-kr-check-mitchell-pressed-accept-so-kr-c2989de971-bcw45e1x.md",
+    "title": "KR check: Mitchell pressed Accept, so kr_c2989de971 carries the daily 48 h words",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-16T18:24:26.373Z"
+  },
+  {
+    "id": "dc_xnofgjydsw",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-16-uptime-block-no-key-wording-pr-475-open-parked-on-ofgjydsw.md",
+    "title": "Uptime block no-key wording: PR #475 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-16T18:24:39.324Z"
+  },
+  {
+    "id": "dc_qm5bgcqffs",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-16-pr-472-merged-78fa17dc-parked-for-the-live-map-che-5bgcqffs.md",
+    "title": "PR #472 merged (78fa17dc); parked for the live map check",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-16T18:26:37.823Z"
+  },
+  {
+    "id": "dc_4ac3pazrih",
+    "path": "buildings/bl_vef3v0oux0/docs/wiki/2026-11/2026-11-16-ledger-cutoff-deleting-pre-adjusted-bank-records-c3pazrih.md",
+    "title": "Ledger cutoff (deleting pre-adjusted Bank records)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-16T18:27:24.189Z"
+  },
+  {
+    "id": "dc_118grvgbwi",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-16-ledger-cutoff-pr-476-open-deletes-bank-records-fro-8grvgbwi.md",
+    "title": "Ledger cutoff: PR #476 open, deletes Bank records from before 2026-10-27 00:00Z with a note; waiting on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-16T18:27:35.231Z"
+  },
+  {
+    "id": "dc_7zkryrzxju",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-16-pr-473-merged-41d02f34-parked-for-the-live-ghost-c-kryrzxju.md",
+    "title": "PR #473 merged (41d02f34); parked for the live ghost count",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-16T18:27:43.594Z"
+  },
+  {
+    "id": "dc_700cb8fhwy",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-16-pr-474-image-job-failed-in-ci-setup-merged-main-to-0cb8fhwy.md",
+    "title": "PR #474: image job failed in CI setup; merged main to retrigger, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-16T18:29:55.768Z"
+  },
+  {
+    "id": "dc_trx2fu8uv1",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-16-pr-475-merged-as-b16c893c-uptime-block-no-key-word-x2fu8uv1.md",
+    "title": "PR #475 merged as b16c893c: Uptime block no-key wording done",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-16T18:30:47.998Z"
   }
 ]

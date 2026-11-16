@@ -10,16 +10,24 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "workshop"
 createdAt: "2026-11-12T15:18:32.991Z"
-updatedAt: "2026-11-12T17:59:14.237Z"
+updatedAt: "2026-11-16T18:12:51.992Z"
 ---
-State on 2026-11-12 after Pix's team-lead session at 17:5xZ (live b9accd7). Plan: [dc_uwx045472m](../../note/2026-11/2026-11-10-plan-the-job-abstraction-plan-and-cost-for-mitchel-x045472m.md) (its step 4 = this grant's step 2).
+State on 2026-11-16, read from main 9defeb54 (= live, /api/health 18:12Z) by Pix 3 (as_5byord3vip, 1:1 mt_dm14dgejml decision 12). Plan [dc_uwx045472m](../../note/2026-11/2026-11-10-plan-the-job-abstraction-plan-and-cost-for-mitchel-x045472m.md). **The refactor is done; build on the code, not the plan.** Grant gr_9mp6v6vv8k closed done (696,887 of 1,350,000; 4 KRs met). Steps 5-7 were finished by Mitchell's Claude Code session (1:1 mt_52p7ju7uiv, mt_msnjkpgwdb). Docs: docs/architecture.md rows "Assignments and lanes" and "Jobs and entries", docs/invariants/assignments-lanes.md "The one loop", docs/engineering-jobs-and-threads.txt (blog draft), log.d 2026-11-12-pix-2-jobs-and-entries-read-only, -pix-3-submit-report-writes-the-entry, -jobs-answer-loop, -jobs-asks-rollups-outbox, 2026-11-15-needs-and-asks.
 
-**Step 1 is live:** PR #432 = 7c182fe7, live since 16:02:38Z. GET /api/jobs/gr_9mp6v6vv8k returns a ceiling job with one entry per report ([dc_k90p1i7q74](../../report/2026-11/2026-11-12-get-api-jobs-gr-9mp6v6vv8k-is-live-ceiling-job-one-0p1i7q74.md)). kr_0neb2wqafu is claimed.
+**Shipped (plan step → commit)**
+- 3 jobs+entries: 6b101b0a, migrations **110 jobs, 111 entries** (plan said 109-110). core jobs.ts; `GET /api/jobs/:id` (also takes a gr_/sc_/building/assignment id).
+- 4 entry from submit_report, rules replace lanes: a96c497d. `jobOf(a)`: `jb_<gr>` ceiling, `jb_<sc>` per-run, `jb_<chainId>` chunk, `jb_<building>_<source>` pocket, `jb_<building>` building. `ruleBlock`/`ruleHold` in lanes.ts. `moved` = stepsDone, krClaimed, left, topUp, proposed. `left` required on a grant step's report unless it parks.
+- 5+5b one loop: 47480a8a. Pure `answer(facts)` in core answer.ts (level code/manager/human/none + code acts), tested over every fact combination. Code acknowledges what needs nobody (continue with next step queued, finished work asking nothing, a parked report, exploration ending in a proposal). Manager gets: pivot, a report that asks something, a plan's last step, a visitor's report, work the manager itself gave. Dead session = `code` entry (`fileDeadSession`, runtime work.ts), assignment cancelled; manager answers with `review` on its en_ id (continue = retry, redirect, approve = drop). No town-written report docs: counter/reject/cut/stop and a missed KR are human entries at level manager; tells, @mentions and outbox answers are entries on the building thread. Queue is a view: `managerQueue` (domain.ts) = pending reports+flags + unanswered doc-less entries at level manager. Flags open pocket job `jb_<building>_<flag>`.
+- Beyond the stop point, also shipped: step 6 asks over threads (migration 115 `sourceEntryId`, `renderedSeq`); step 7 rollups gone (01253807: `close_grant shipped`, manager verb `ask`, `rollup:true` refused); outbox gone, `request_human` files a `do` ask Done/Decline (065deb90); KR status **met, unverified** at close (c440b5d2); Secretary runs after each human decision (d0d94f4a). 11-15: needs (needs.ts) replace card templates, one entry point ask-verb.ts, one need one ask, goal proposals as entries + needs.
 
-**Step 2 is live:** PR #435 = b9accd7a (/api/health startedAt 2026-11-12T16:58:10Z). The session prompt carries the job line "This session: job jb_gr_9mp6v6vv8k (rule ceiling, pocket gr_9mp6v6vv8k)"; the checkpoint hold still works under ruleBlock. jobs.ts: `jobOf`, `openJob`, `syncJob`, `fileReportEntry` (entry `en_<doc>`, moved {stepsDone, krClaimed, left, topUp, proposed}), `refreshJob`. `left` is required on a grant step's report (verbs/docs.ts:355). lanes.ts: `ruleBlock`/`ruleHold`.
+**Differs from the plan / not built**
+- `raise-resize` exists in answer.ts, but since 11-15 a gate files a **need**, and the manager renders the card with `ask`; code never writes ask words.
+- Ask types kept (money, click, credential, policy, meeting, do); the plan's kinds open/resize/act/rule were not done.
+- Step 8 (a Secretary per captain, `asks.answererGoalId`) not built; routing is the pure `chainOfCommand` (Mara 2, bbf76879).
+- Step 9a/9b not built: web does not read /api/jobs; report docs are still written beside the entry (`en_<docId>`); assignments still carry `lane`; finance is by lane.
+- docs/architecture.md line ~161 still says a dead session gets a fallback report: stale, the code files a dead-session entry.
 
-**Step 3 (as_0rk272gsne, the answer(entry) loop) FAILED ONCE:** Pix 2's session se_9dfnrbxx8n died "desk exited -1" at 17:50:01Z after 131k tokens (last tool call 17:37Z: typecheck + knip with the full core vitest run in the background; likely the desk ran out of memory). Nothing was reported. It had: answer(entry) as a pure exported function (facts in, level and note out), a flag opening its own pocket job (`openFlagJob` in jobs.ts, import in domain.ts), a flags test, a docs/wakes.md edit. Unknown whether anything was pushed: the next fork on as_0rk272gsne must `git fetch` and look for a branch (names with answer, step-3, jobs, loop) and, if it lands on the same desk, the working tree under /home/agent/work/agent-town; build on what exists. Run the core suite in the foreground, one process at a time. Decisions 9 and 10 are out of scope (their own assignments wait on this one).
-
-**The bug that failure exposed (fix assigned by Pix on the grant lane):** the runtime's fallback report (runtime/src/work.ts:150) passes no `left`, so docs.ts:355 refuses it; the assignment stays active with no fork, and the three assignments waiting on it (as_elr90rpj6k, as_si6wsxk7iz, as_2tmfegem6z) never release. The fix re-pends as_0rk272gsne at the front of the queue; do not create a second step-3 assignment.
-
-**Not done (step 3+):** the `answer(entry)` loop. The gate card does not show `moved.left` yet (kr_xzdcf7d5i3's "the gate shows it").
+**What forks must know**
+- End with `submit_report`; on a grant step pass `left`. Your report is entry `en_<report doc id>` on your job's thread; read threads with GET /api/jobs/<id>.
+- A manager decides an en_ entry with `review` (docId = en_…); `review` + `ask` passes it up; `ask` files a need's card. Never expect a rollup.
+- Pure core, stateful shell (AGENTS.md rule 8): new deciding logic goes in a pure function with property tests.

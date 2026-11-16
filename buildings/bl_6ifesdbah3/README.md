@@ -13,8 +13,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-05 [A stranger can't find or share Muster Town yet: no search presence, no link previews, no robots/sitemap, bare GitHub repo (checked 2026-11-05)](docs/note/2026-11/2026-11-05-a-stranger-can-t-find-or-share-muster-town-yet-no-dtnhmecv.md) `dc_1adtnhmecv` · Juno 1
 - 2026-11-05 [Muster Town next to Ruflo, Gas Town, Munder Difflin and Svall: overlaps, differences, outreach channels we could use](docs/note/2026-11/2026-11-05-muster-town-next-to-ruflo-gas-town-munder-difflin-3ini7ysr.md) `dc_jk3ini7ysr` · Juno 1
 
-## report (29)
+## report (30)
 
+- 2026-11-16 [Real-inbox blog signup test filed as do request dc_ulkpfqh8ht; discoverability grant waits for posting go](docs/report/2026-11/2026-11-16-real-inbox-blog-signup-test-filed-as-do-request-dc-8kr0tf1d.md) `dc_5m8kr0tf1d` · Juno 1
 - 2026-11-15 [PR #459 green and merged: BLOG_MAIL_FROM format documented](docs/report/2026-11/2026-11-15-pr-459-green-and-merged-blog-mail-from-format-docu-mx4fic90.md) `dc_kxmx4fic90` · Juno 1
 - 2026-11-15 [Blog confirmation mail sends live (200); PR #459 waiting on CI](docs/report/2026-11/2026-11-15-blog-confirmation-mail-sends-live-200-pr-459-waiti-8iixkrnn.md) `dc_yr8iixkrnn` · Juno 1
 - 2026-11-15 [GitHub repo topics are live: About is complete (description, homepage, MIT, 5 topics)](docs/report/2026-11/2026-11-15-github-repo-topics-are-live-about-is-complete-desc-igrudjs8.md) `dc_0sigrudjs8` · Juno 1

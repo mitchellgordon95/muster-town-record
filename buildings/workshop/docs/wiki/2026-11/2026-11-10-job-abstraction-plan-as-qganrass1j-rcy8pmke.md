@@ -10,21 +10,8 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "workshop"
 createdAt: "2026-11-10T20:20:50.960Z"
-updatedAt: "2026-11-10T20:25:31.165Z"
+updatedAt: "2026-11-16T18:13:00.747Z"
 ---
-State on 2026-11-10 after Pix 1's second session (as_kuxyjwh6a3). The plan is complete and filed with verdict pivot. It waits on Mitchell. No code has been written and there is no PR.
+CLOSED 2026-11-16 (Pix 3, as_5byord3vip). The plan [dc_uwx045472m](../../note/2026-11/2026-11-10-plan-the-job-abstraction-plan-and-cost-for-mitchel-x045472m.md) is built through step 7 and the work is done: Mitchell's Claude Code session finished it outside the town (1:1 mt_dm14dgejml decision 10). Grant gr_9mp6v6vv8k closed done. Steps 8 (a Secretary per captain) and 9a/9b (web reads threads, report docs retired) were not built.
 
-- **The plan is [dc_uwx045472m](../../note/2026-11/2026-11-10-plan-the-job-abstraction-plan-and-cost-for-mitchel-x045472m.md).** It stands alone: a one-minute summary, then sections A (the abstraction), B (the full inventory, file:line at b12cc372), C (11 PRs) and D (where each new field lands under the prompt cache).
-- The old draft [dc_ejm1j7m3r8](../../note/2026-11/2026-11-10-plan-the-job-abstraction-draft-inventory-table-unf-m1j7m3r8.md) is superseded. A fork can't update another fork's doc ("You can only update documents you wrote"), so the plan was filed as a new doc.
-- **Cost:** about 3.31M for steps 1-9b, about 3.45M with merges. **Stop point after step 5b: about 1.7M.**
-- **Changes the inventory forced on the draft:**
-  - New step 5b: relay, outbox answer, meeting decision and mention in-tray rows, all in wakes.ts.
-  - Step 9 split into 9a (web) and 9b (clean-up).
-  - Step 4 raised to 400k: `laneBlock` and `resolveLane` in lanes.ts.
-- **Key facts:**
-  - Every ask is created through asks.ts `createAsk`. There are six template writers, plus planner.ts:183 and secretary.ts:221/261/488.
-  - The only chain check today is `adopt` in entities.ts.
-  - No "what is left" field exists today.
-- **Mitchell's question:** fund steps 1-5b now and decide 6-9 at the stop point, or commit to all of it.
-- **Next:** none until Mitchell answers. If he says go, propose a grant for steps 1-5b (steps 1 and 2 can run in parallel).
-- Sources: mt_ewxnhs90cq, mt_db6itzy2br, reports [dc_kft2962dq9](../../report/2026-11/2026-11-10-job-abstraction-plan-draft-filed-dc-ejm1j7m3r8-inv-t2962dq9.md) and this session's report.
+What shipped, what differs from the plan and what forks must know: topic page "Jobs and entries (gr_9mp6v6vv8k)" [dc_skk467jd88](2026-11-12-jobs-and-entries-gr-9mp6v6vv8k-k467jd88.md). This page is history only.

@@ -10,16 +10,14 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_xvgnd1fvh6"
 createdAt: "2026-11-12T18:45:20.529Z"
-updatedAt: "2026-11-12T18:51:12.161Z"
+updatedAt: "2026-11-16T18:12:43.310Z"
 ---
-State 2026-11-12 18:51 UTC (Cleo 1, as_w9f7oxs12c). **PR #440 merged to main as 210b4262** (CI green: check, image). Not yet live at 18:50Z (live was 6185b997); CI deploys it, no redeploy. Once live, forks no longer need `--isolate` for core tests on desks.
+State 2026-11-16 18:1x UTC (Cleo 1, as_zx7jm7mgqi). **Fixed and live.** PR #440 (210b4262, merged 11-12 18:51Z) is an ancestor of live 9defeb54 (health startedAt 2026-11-16T07:42:41Z). Main has `isolate: !process.env.CI` in packages/core and packages/server vitest.config.ts, and `stopFrozen` in runtime index.ts:549 / desk/sandbox.ts:219.
 
-**What -1 means.** packages/runtime/src/desk/fly.ts `run()` returns -1 after five failed exec polls, and sandbox.ts returns it when writeSecretFile or the launch exec throws. A -1 that wasn't a kill makes sandbox.ts `stopNow` the Machine ("Desk X stopped after exec failure").
+**Live outcome.** Events 154400–163205 (2026-11-12 18:50Z → 2026-11-16 18:12Z): 0 work sessions ended "error"; no "exec failure" / "desk exited" events. Work sessions not "done": 9 "interrupted", all "cut by restart" (11-15 20:51Z, 21:37Z, 21:42Z). The 309 manage-session errors are the 11-13 23:19–23:47Z bundle incident ([dc_7wj92es7v4](../../../../town-hall/docs/fyi/2026-11/2026-11-13-resolved-2026-11-13-23-47z-host-sessions-secretary-j92es7v4.md)), not desks. Caveat: Prod was paused 11-12 → 11-16, but the Workshop and other buildings ran desk forks throughout.
 
-**Not the 6 h lifetime.** Fly Machine events on 11-12 show every stop as `requested_stop: true` from the runtime, Machines 35 min to 2.5 h old.
+**What -1 means.** packages/runtime/src/desk/fly.ts `run()` returns -1 after five failed exec polls; sandbox.ts returns it when writeSecretFile or the launch exec throws; a -1 that wasn't a kill stops the Machine.
 
-**Cause 1: memory.** PR #434 set vitest `isolate: false` for core and server; on a 2 GB no-swap desk a core run drops MemAvailable under 350 MB in 67 s and the guest freezes. Fix (#440): `isolate: !process.env.CI`.
+**Causes (fixed in #440).** 1: vitest `isolate: false` on a 2 GB no-swap desk froze the guest. 2: watchAdopted re-queued silent work onto the frozen Machine.
 
-**Cause 2: re-queue onto the frozen desk.** watchAdopted (runtime index.ts) re-queued silent adopted work onto the same frozen Machine; new session died 30 s later with 0 tokens (17:10:16, 18:13:56, 18:33:46). Fix (#440): `DeskBackend.stopFrozen(agentId)` before dropLive; ensure() awaits the stop.
-
-Reports: [dc_2flyb8z736](../../report/2026-11/2026-11-12-desk-exited-1-two-causes-found-vitest-isolate-fals-lyb8z736.md). Script: ~/scripts/memwatch.sh on Cleo 1's desk.
+Reports: [dc_2flyb8z736](../../report/2026-11/2026-11-12-desk-exited-1-two-causes-found-vitest-isolate-fals-lyb8z736.md), [dc_gosea45h48](../../report/2026-11/2026-11-12-440-merged-as-210b4262-desk-1-fixes-parked-until-i-sea45h48.md).

@@ -62,8 +62,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (283)
+## report (285)
 
+- 2026-11-16 [PR #470 squash-merged as 748c767; parked on its deploy for the live overlay check](docs/report/2026-11/2026-11-16-pr-470-squash-merged-as-748c767-parked-on-its-depl-671kcejx.md) `dc_bd671kcejx` · Kelly 1
+- 2026-11-16 [Overlay names the three doors: PR #470 open, parked on its CI](docs/report/2026-11/2026-11-16-overlay-names-the-three-doors-pr-470-open-parked-o-av5imdgt.md) `dc_09av5imdgt` · Kelly 1
 - 2026-11-12 [Onboarding rollup: a stranger's Claude Code grant proven live and closed (328,940 of 400,000; 71,060 returned)](docs/report/2026-11/2026-11-12-onboarding-rollup-a-stranger-s-claude-code-grant-p-gdyucbvy.md) `dc_srgdyucbvy` · Kelly
 - 2026-11-12 [Both remaining gr_uc179zv1xa key results pass live; test account reset, Pix told](docs/report/2026-11/2026-11-12-both-remaining-gr-uc179zv1xa-key-results-pass-live-03v7aujz.md) `dc_0y03v7aujz` · Kelly 1
 - 2026-11-12 [Grant gr_uc179zv1xa adjusted: 400,000 tokens](docs/report/2026-11/2026-11-12-grant-gr-uc179zv1xa-adjusted-400-000-tokens-zqd9xv4v.md) `dc_ehzqd9xv4v` · Town
@@ -92,8 +94,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-06 [Onboarding rollup: never-run collectives grant closed done (all three key results live, 359,723 tokens back to the Bank); the stranger's join round trip finished 30 s after your Let in](docs/report/2026-11/2026-11-06-onboarding-rollup-never-run-collectives-grant-clos-vji4ttsa.md) `dc_ltvji4ttsa` · Kelly
 - 2026-11-06 [Never-run collectives: all three key results pass live on 41c5e7d7; /trauma/ cards now say "hasn't started" (picture mf_rxqa3u2lhz)](docs/report/2026-11/2026-11-06-never-run-collectives-all-three-key-results-pass-l-s1299dho.md) `dc_q9s1299dho` · Kelly 1
 - 2026-11-06 [You're-in card copy for plain members pushed to main (a4f127a8); parked on its deploy to verify as the test account](docs/report/2026-11/2026-11-06-you-re-in-card-copy-for-plain-members-pushed-to-ma-wgybxn08.md) `dc_jpwgybxn08` · Kelly 1
-- 2026-11-06 [Join round trip done: @dungeonrpg99-ops asked at 04:31:58Z, Mitchell let it in 30 s later, it said hello (acted 0→1); its 1:1 is refused without "direct work under"](docs/report/2026-11/2026-11-06-join-round-trip-done-dungeonrpg99-ops-asked-at-04-na71956d.md) `dc_tbna71956d` · Kelly 1
-- 2026-11-06 [Onboarding rollup: the stranger account has asked to join (ar_ogi7no5l2v, your Let in is the next step); never-run collectives read "Not started yet" on the homepage; style guide carries your sidebar-vs-sheet rule](docs/report/2026-11/2026-11-06-onboarding-rollup-the-stranger-account-has-asked-t-e0xnxc2c.md) `dc_uje0xnxc2c` · Kelly
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

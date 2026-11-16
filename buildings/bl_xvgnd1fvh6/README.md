@@ -96,8 +96,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (347)
+## report (351)
 
+- 2026-11-16 [PR #475 merged as b16c893c: Uptime block no-key wording done](docs/report/2026-11/2026-11-16-pr-475-merged-as-b16c893c-uptime-block-no-key-word-x2fu8uv1.md) `dc_trx2fu8uv1` · Cleo 1
+- 2026-11-16 [Uptime block no-key wording: PR #475 open, parked on CI](docs/report/2026-11/2026-11-16-uptime-block-no-key-wording-pr-475-open-parked-on-ofgjydsw.md) `dc_xnofgjydsw` · Cleo 1
+- 2026-11-16 [Backup grant step 3: health and board clean; parked until 18:58Z to sample the 19:00Z run's lag](docs/report/2026-11/2026-11-16-backup-grant-step-3-health-and-board-clean-parked-hpvdlpnr.md) `dc_hhhpvdlpnr` · Cleo 1
+- 2026-11-16 [Pause lifted: desk -1 fix confirmed live; the two grant last steps need Cleo to queue them (forks can't assign)](docs/report/2026-11/2026-11-16-pause-lifted-desk-1-fix-confirmed-live-the-two-gra-k2vibp1b.md) `dc_hnk2vibp1b` · Cleo 1
 - 2026-11-15 [PR #456 merged as a6f7643f: self-host proof chain done](docs/report/2026-11/2026-11-15-pr-456-merged-as-a6f7643f-self-host-proof-chain-do-eko3tjze.md) `dc_c9eko3tjze` · Cleo 1
 - 2026-11-15 [Self-host proof on Fly: live, admin, directory-verified, torn down; docs PR #456 parked on CI](docs/report/2026-11/2026-11-15-self-host-proof-on-fly-live-admin-directory-verifi-z3nnvm1d.md) `dc_2uz3nnvm1d` · Cleo 1
 - 2026-11-14 [Pause check 11-14: still paused](docs/report/2026-11/2026-11-14-pause-check-11-14-still-paused-hdweet2e.md) `dc_j8hdweet2e` · Cleo 1
@@ -124,10 +128,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-12 [Session ended without a report: gr_rcj8nkbkbt replan: a scheduled GitHub Actions workflow probes /api/health and posts to /api/uptime/probes (no Wright, fewest clicks for Mitchell)](docs/report/2026-11/2026-11-12-session-ended-without-a-report-gr-rcj8nkbkbt-repla-4k1e1z1q.md) `dc_ow4k1e1z1q` · Cleo 1
 - 2026-11-12 [Message from Mitchell (via Secretary): Supersedes my message of a few minutes ago (dc_bskxxba2my): Mitchell changed hi…](docs/report/2026-11/2026-11-12-message-from-mitchell-via-secretary-supersedes-my-cwuz1kn3.md) `dc_3xcwuz1kn3` · Town
 - 2026-11-12 [Message from Mitchell (via Secretary): From Mitchell's 1:1 with me (mt_msnjkpgwdb, 14:23 and 14:27 UTC), on your crede…](docs/report/2026-11/2026-11-12-message-from-mitchell-via-secretary-from-mitchell-kxxba2my.md) `dc_bskxxba2my` · Town
-- 2026-11-10 [Deploy card change list confirmed on the d30c6f8 deploy: 2 changes with commit links, payload correct](docs/report/2026-11/2026-11-10-deploy-card-change-list-confirmed-on-the-d30c6f8-d-0z3ykq8r.md) `dc_1n0z3ykq8r` · Cleo 1
-- 2026-11-10 [gr_rcj8nkbkbt live check: /api/uptime, the landing and Bank Uptime block all match on d30c6f8; kr_ay5wb5wfhd claimed](docs/report/2026-11/2026-11-10-gr-rcj8nkbkbt-live-check-api-uptime-the-landing-an-24l7s1dt.md) `dc_lu24l7s1dt` · Cleo 1
-- 2026-11-10 [7f12374 live at 21:46:14Z; its own deploy card shows only the count, as expected. Change list check moves to the aaa749f3 deploy](docs/report/2026-11/2026-11-10-7f12374-live-at-21-46-14z-its-own-deploy-card-show-oqwyov0g.md) `dc_7koqwyov0g` · Cleo 1
-- 2026-11-10 [Prod rollup #46 (gr_8cdix9mpye closed done, 524,619 / 1,500,000): a stranger's box listed a self-hosted town and was delisted when its proof went; public uptime and the redeploy change list are merged and wait on CI's deploy](docs/report/2026-11/2026-11-10-prod-rollup-46-gr-8cdix9mpye-closed-done-524-619-1-pj6mbjhe.md) `dc_zipj6mbjhe` · Cleo
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

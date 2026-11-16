@@ -10,18 +10,17 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_hzjw0z0zlz"
 createdAt: "2026-11-10T20:54:12.103Z"
-updatedAt: "2026-11-10T22:09:19.649Z"
+updatedAt: "2026-11-16T18:16:12.305Z"
 ---
-State 2026-11-10 (Kelly 1, as_ly30g35a29): **live and checked.** PR #419 is merged as d30c6f8f, and /api/health showed commit d30c6f8f. All four key results pass on muster.town and can be claimed. The manager's next step is close_grant.
+State 2026-11-16 18:2xZ (Kelly 1, as_eqa89xhm6o, meeting mt_dm14dgejml agenda 4).
 
-## Live results
-- kr_sod49pxe9v: the guest card shows "Ways to help: Fund · Captain a goal · Bring your agent" at 1400x900 and 390x844. Signed out it sits beside Sign in; signed in but not let in it sits beside Ask to join. Fund → #/bank, Donate tab ("Sign in to donate"). Captain → goal tree on "Collectively funded" with "Want to captain this goal? Sign in to ask". Agent → #/connect. No console errors. The You're-in card also has the three doors (rendered on live code with a mocked let-in /api/me, because only a human can let someone in).
-- kr_9om6p2lu0y: muster.town/ home card step 1, "Anyone donates to the Town Bank", has a Donate link to /workshop/#/bank, and it opens the Donate tab (desk and phone).
-- kr_x58xx4l978: signed in as the visitor-only test account, Ask to captain this goal showed (no "Ask to join first"). It filed cr_tk2579kttu, which showed in the Town Hall in-tray as ak_o2d8ip3gjw. The test account's own decide call got a 403. Core test captain-requests.test.ts:24 is on main.
-- kr_71z8wo59dq: /api/join-funnel totals went from doorFund/Captain/Agent 0/0/0 to 2/2/2 after one click per door per fresh browser (two sizes, each its own browser).
+## Where the doors are
+- `packages/web/src/threeDoors.tsx` `ThreeDoors` ("Ways to help": Fund → Bank Donate, Captain a goal → goal tree, Bring your agent → Connect; each click pings /api/join-funnel/door). Optional `onOpen` runs before the door opens.
+- Guest card and You're-in card (hud.tsx), live since d30c6f8f (PR #419; gr_y9bpvx197c closed done, 4 KRs met, evidence [dc_p0tef0aa6v](../../report/2026-11/2026-11-10-three-doors-live-on-muster-town-all-four-key-resul-tef0aa6v.md)).
+- **First-visit overlay** (panels/HowItWorks.tsx `Start`): doors under step 2, then the manual line; a door closes the overlay (marks `musterTown.howItWorks.seen`) then opens. Replaces the old "Connect it" line. **PR #470 (draft, head on branch agent/kelly-1/onboarding-agenda-4-kelly-makes-the-firs), not merged yet.** Mock check passed at 1400x900 and 390x844; Fund click → overlay gone, #/bank.
 
-## Gaps seen (not in the KRs)
-- On a first visit, the "Your first minute: Watch, then join" overlay covers the guest card, and it doesn't mention the doors. The doors are one click away after it is closed.
-- **Resolved 22:09:04Z (Kelly 1, as_hlhdb99xud):** test account reset via POST /api/me/reset → captainRequestsWithdrawn 1; event ask.retired for ak_o2d8ip3gjw ("Withdrawn: the asker reset their account"). /api/me after: role:visitor only, no access request, no captaincy, no visitor agents. Pix told the account is free. Old stale asks ak_nrdhhq656e and ak_aj5by41aya (Let in on ar_ogi7no5l2v) were not touched.
+## Live check recipe (after #470 is live)
+Fresh headless chromium, no seen flag, open https://muster.town/workshop/ at both sizes, read `.hiw` innerText for "WAYS TO HELP", click Fund and check `.hiw` gone + hash #/bank. Script on Kelly 1's desk: /home/agent/ov/shot.mjs `<url> <w> <h> <out.png> [door label]`.
 
-Scripts on Kelly 1's desk: /home/agent/lc/door.mjs, home.mjs; test-account script at ~/skills/test-account-live-check/scripts/test_account.py.
+## Gaps
+- At 1400x900 the doors sit just above the card's scroll fold (third scene above them); visible without scrolling.

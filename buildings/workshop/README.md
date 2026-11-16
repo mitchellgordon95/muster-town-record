@@ -129,8 +129,20 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1192)
+## report (1204)
 
+- 2026-11-16 [PR #474: image job failed in CI setup; merged main to retrigger, parked on CI](docs/report/2026-11/2026-11-16-pr-474-image-job-failed-in-ci-setup-merged-main-to-0cb8fhwy.md) `dc_700cb8fhwy` · Pix 1
+- 2026-11-16 [PR #473 merged (41d02f34); parked for the live ghost count](docs/report/2026-11/2026-11-16-pr-473-merged-41d02f34-parked-for-the-live-ghost-c-kryrzxju.md) `dc_7zkryrzxju` · Pix 2
+- 2026-11-16 [PR #472 merged (78fa17dc); parked for the live map check](docs/report/2026-11/2026-11-16-pr-472-merged-78fa17dc-parked-for-the-live-map-che-5bgcqffs.md) `dc_qm5bgcqffs` · Pix 1
+- 2026-11-16 [KR check: Mitchell pressed Accept, so kr_c2989de971 carries the daily 48 h words](docs/report/2026-11/2026-11-16-kr-check-mitchell-pressed-accept-so-kr-c2989de971-bcw45e1x.md) `dc_w7bcw45e1x` · Pix 1
+- 2026-11-16 [Dead-session wording in code: PR #474 open, parked on CI](docs/report/2026-11/2026-11-16-dead-session-wording-in-code-pr-474-open-parked-on-qpun7pta.md) `dc_ozqpun7pta` · Pix 3
+- 2026-11-16 [Ghost visitors: 7-day retire rule in PR #473, parked on CI](docs/report/2026-11/2026-11-16-ghost-visitors-7-day-retire-rule-in-pr-473-parked-ecz4vy2h.md) `dc_elecz4vy2h` · Pix 1
+- 2026-11-16 [PR #469 merged (5aa5948e): dead-session docs fix](docs/report/2026-11/2026-11-16-pr-469-merged-5aa5948e-dead-session-docs-fix-m8d6o50a.md) `dc_vrm8d6o50a` · Pix 2
+- 2026-11-16 [Operating manual book: PR #472 open, parked on CI](docs/report/2026-11/2026-11-16-operating-manual-book-pr-472-open-parked-on-ci-1ss5grl9.md) `dc_t51ss5grl9` · Pix 2
+- 2026-11-16 [Dead-session docs fix: PR #469 open, parked on CI](docs/report/2026-11/2026-11-16-dead-session-docs-fix-pr-469-open-parked-on-ci-l5ilxosm.md) `dc_pel5ilxosm` · Pix 4
+- 2026-11-16 [PR #466 merged (0a674074); parked to re-read queue health live tonight](docs/report/2026-11/2026-11-16-pr-466-merged-0a674074-parked-to-re-read-queue-hea-68zacckf.md) `dc_do68zacckf` · Pix 3
+- 2026-11-16 [Weekly onboarding sweep: wording-card branches confirmed, topic page rewritten](docs/report/2026-11/2026-11-16-weekly-onboarding-sweep-wording-card-branches-conf-hxfhgzfa.md) `dc_bahxfhgzfa` · Pix 4
+- 2026-11-16 [Jobs and entries page rewritten from the code; stale pause notes closed](docs/report/2026-11/2026-11-16-jobs-and-entries-page-rewritten-from-the-code-stal-krvprqpx.md) `dc_uukrvprqpx` · Pix 3
 - 2026-11-16 [Secretary rests north-east of the hydrant on the live town (flag dc_ea9wdns25e done)](docs/report/2026-11/2026-11-16-secretary-rests-north-east-of-the-hydrant-on-the-l-sfqr4efl.md) `dc_azsfqr4efl` · Pix 1
 - 2026-11-16 [PR #467 merged (9defeb54); waiting for deploy to check the live map](docs/report/2026-11/2026-11-16-pr-467-merged-9defeb54-waiting-for-deploy-to-check-bcx64rkx.md) `dc_1vbcx64rkx` · Pix 1
 - 2026-11-16 [Secretary moved north-east of the hydrant: PR #467 open, parked on CI](docs/report/2026-11/2026-11-16-secretary-moved-north-east-of-the-hydrant-pr-467-o-hkpz9zaa.md) `dc_tghkpz9zaa` · Pix 1
@@ -149,18 +161,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-15 [Operating manual live: /api/operating-manual serves dc_hrmknv3j6q](docs/report/2026-11/2026-11-15-operating-manual-live-api-operating-manual-serves-ahjm7fde.md) `dc_f1ahjm7fde` · Pix 1
 - 2026-11-15 [Secretary north of the hydrant: PR #462 open, parked on CI](docs/report/2026-11/2026-11-15-secretary-north-of-the-hydrant-pr-462-open-parked-rwyc05zm.md) `dc_qrrwyc05zm` · Pix 1
 - 2026-11-15 [PR #461 merged (7d86da65): needs with no ask leave the queue and deck](docs/report/2026-11/2026-11-15-pr-461-merged-7d86da65-needs-with-no-ask-leave-the-5f6gp04t.md) `dc_335f6gp04t` · Pix 3
-- 2026-11-15 [PR #460 merged (d99ded59); waiting for deploy to confirm legible.queue](docs/report/2026-11/2026-11-15-pr-460-merged-d99ded59-waiting-for-deploy-to-confi-cnvv8021.md) `dc_04cnvv8021` · Pix 3
-- 2026-11-15 [No raw rows for needs without an ask: PR #461 open, parked on CI](docs/report/2026-11/2026-11-15-no-raw-rows-for-needs-without-an-ask-pr-461-open-p-99v3zlbt.md) `dc_4k99v3zlbt` · Pix 3
-- 2026-11-15 [Queue health step 2: pure queueHealth + legible.queue + rank-run block, PR #460 open, parked on CI](docs/report/2026-11/2026-11-15-queue-health-step-2-pure-queuehealth-legible-queue-0ix73kcf.md) `dc_pl0ix73kcf` · Pix 1
-- 2026-11-15 [PR #458 promoted to prod branch; server not restarted yet, rechecking shortly](docs/report/2026-11/2026-11-15-pr-458-promoted-to-prod-branch-server-not-restarte-6brpfwjz.md) `dc_by6brpfwjz` · Pix 4
-- 2026-11-15 [PR #458 merged (9e9f5820); waiting for deploy to check /api/operating-manual](docs/report/2026-11/2026-11-15-pr-458-merged-9e9f5820-waiting-for-deploy-to-check-6qn7ydie.md) `dc_be6qn7ydie` · Pix 2
-- 2026-11-15 [Operating manual pinned into every first message: PR #458 open, parked on CI](docs/report/2026-11/2026-11-15-operating-manual-pinned-into-every-first-message-p-zx3of1nx.md) `dc_whzx3of1nx` · Pix 2
-- 2026-11-15 [Stopped: duplicate of Pix 4's as_c90hwgtrpj; nothing changed](docs/report/2026-11/2026-11-15-stopped-duplicate-of-pix-4-s-as-c90hwgtrpj-nothing-zi7gusws.md) `dc_zwzi7gusws` · Pix 1
-- 2026-11-15 [Queue health step 1 live: a931abf7 deployed, screenViews recording](docs/report/2026-11/2026-11-15-queue-health-step-1-live-a931abf7-deployed-screenv-13xa4lje.md) `dc_2b13xa4lje` · Pix 1
-- 2026-11-15 [PR #455 merged (b80f73cd): needs and asks decisions 1-9; Secretary asked to review dictionary wording](docs/report/2026-11/2026-11-15-pr-455-merged-b80f73cd-needs-and-asks-decisions-1-7b5fbvpy.md) `dc_pi7b5fbvpy` · Pix 1
-- 2026-11-15 [Needs and asks, decisions 1-9: PR #455 updated with one entry point, code lint, rewrite measure; parked on CI](docs/report/2026-11/2026-11-15-needs-and-asks-decisions-1-9-pr-455-updated-with-o-ac7z293w.md) `dc_wlac7z293w` · Pix 1
-- 2026-11-15 [PR #453 merged (a931abf7); waiting for deploy to confirm legible.screenViews](docs/report/2026-11/2026-11-15-pr-453-merged-a931abf7-waiting-for-deploy-to-confi-t399dxxa.md) `dc_lwt399dxxa` · Pix 2
-- 2026-11-15 [PR #453 CI failed on knip (unused ScreenView export); fixed in 75fd9e21, parked on CI again](docs/report/2026-11/2026-11-15-pr-453-ci-failed-on-knip-unused-screenview-export-s1is9l0i.md) `dc_uks1is9l0i` · Pix 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -169,8 +169,10 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-27 [demo-media](docs/skill/2026-10/2026-10-27-demo-media-8jzo79xq.md) `dc_p68jzo79xq` · Lena
 - 2026-10-26 [desk-image](docs/skill/2026-10/2026-10-26-desk-image-93n44plc.md) `dc_br93n44plc` · Root
 
-## wiki (74)
+## wiki (76)
 
+- 2026-11-16 [Ghost visitors](docs/wiki/2026-11/2026-11-16-ghost-visitors-slw5vu6f.md) `dc_oxslw5vu6f` · Pix 1
+- 2026-11-16 [Operating manual book in the Town Hall](docs/wiki/2026-11/2026-11-16-operating-manual-book-in-the-town-hall-pg92mn1z.md) `dc_tkpg92mn1z` · Pix 2
 - 2026-11-15 [Goal proposals on the thread (mt_dwsxo7oms8 decision 4)](docs/wiki/2026-11/2026-11-15-goal-proposals-on-the-thread-mt-dwsxo7oms8-decisio-70f3fmo3.md) `dc_1h70f3fmo3` · Pix 1
 - 2026-11-15 [Duplicate asks (mt_dwsxo7oms8 decisions 2-3)](docs/wiki/2026-11/2026-11-15-duplicate-asks-mt-dwsxo7oms8-decisions-2-3-7ckogeqo.md) `dc_637ckogeqo` · Pix 2
 - 2026-11-15 [Operating manual pin](docs/wiki/2026-11/2026-11-15-operating-manual-pin-55vk3oi8.md) `dc_tw55vk3oi8` · Pix 2
@@ -199,7 +201,5 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-11-03 [In-tray list view (flag dc_2hllscunfx)](docs/wiki/2026-11/2026-11-03-in-tray-list-view-flag-dc-2hllscunfx-bzo6hju0.md) `dc_7rbzo6hju0` · Pix 1
 - 2026-11-03 [Subtree throttles: exploration caps and desks (gr_yu6qw3j9x5)](docs/wiki/2026-11/2026-11-03-subtree-throttles-exploration-caps-and-desks-gr-yu-uikp1rk5.md) `dc_7uuikp1rk5` · Pix 4
 - 2026-11-01 [Captain steering rights](docs/wiki/2026-11/2026-11-01-captain-steering-rights-e47kx4un.md) `dc_ooe47kx4un` · Pix 2
-- 2026-11-01 [Root goal always has a captain (mt_cyd2t5ioob D7)](docs/wiki/2026-11/2026-11-01-root-goal-always-has-a-captain-mt-cyd2t5ioob-d7-eig7abhg.md) `dc_roeig7abhg` · Pix 3
-- 2026-11-01 [Retainers (scheduled jobs' standing money)](docs/wiki/2026-11/2026-11-01-retainers-scheduled-jobs-standing-money-gie3r87w.md) `dc_9kgie3r87w` · Pix 4
 
 All by month: [2026-11](docs/wiki/2026-11/) · [2026-10](docs/wiki/2026-10/)

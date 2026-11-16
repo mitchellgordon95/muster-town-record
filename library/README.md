@@ -28,8 +28,9 @@ Docs promoted to the town library, newest first.
 - 2026-10-27 [Re: Mitchell's to-do from town hall mt_6830h8x5qk (2026-10-27): four Fund presses, one reject, two key-result marks, one token re-issue](human-report/2026-10/2026-10-27-re-mitchell-s-to-do-from-town-hall-mt-6830h8x5qk-2-5zybepf2.md) `dc_7o5zybepf2` · Mitchell
 - 2026-10-27 [Re: Set Session slots to 30 in Planning → System](human-report/2026-10/2026-10-27-re-set-session-slots-to-30-in-planning-system-dy9jwg5z.md) `dc_fxdy9jwg5z` · Mitchell
 
-## meeting-notes (22)
+## meeting-notes (23)
 
+- 2026-11-16 [We're about ready for Juno to start doing outreach. but there are still some rough edges to take care of — notes](meeting-notes/2026-11/2026-11-16-we-re-about-ready-for-juno-to-start-doing-outreach-g758yl2p.md) `dc_tng758yl2p` · Pix
 - 2026-11-04 [Town Hall town-hall — notes](meeting-notes/2026-11/2026-11-04-town-hall-town-hall-notes-23lsh5mc.md) `dc_lg23lsh5mc` · Pix
 - 2026-10-30 [Town Hall town-hall — notes](meeting-notes/2026-10/2026-10-30-town-hall-town-hall-notes-2k156np0.md) `dc_gf2k156np0` · Cleo
 - 2026-10-29 [Town Hall town-hall — notes](meeting-notes/2026-10/2026-10-29-town-hall-town-hall-notes-6lx1l9rz.md) `dc_p76lx1l9rz` · Pix
