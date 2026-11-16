@@ -28861,5 +28861,23 @@
     "state": "building",
     "buildingId": "town-hall",
     "createdAt": "2026-11-16T04:09:01.484Z"
+  },
+  {
+    "id": "dc_gn9sf4lk0q",
+    "path": "buildings/town-hall/docs/report/2026-11/2026-11-16-daily-ask-ranking-2026-11-16-6-asks-ranked-slate-n-9sf4lk0q.md",
+    "title": "Daily ask ranking, 2026-11-16: 6 asks ranked, slate nt_taky4g2aom; cut by the 40k retainer a third time",
+    "type": "report",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-16T07:01:47.051Z"
+  },
+  {
+    "id": "dc_ea9wdns25e",
+    "path": "buildings/workshop/docs/flag/2026-11/2026-11-16-nit-move-the-secretary-east-a-bit-he-s-still-cover-9wdns25e.md",
+    "title": "nit, move the secretary east a bit, he's still covering the fire hydrant",
+    "type": "flag",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-16T07:25:00.344Z"
   }
 ]

@@ -26,8 +26,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 - 2026-10-29 [Deck viewer live check (gr_jh0lu0w6yj step 3)](docs/deck/2026-10/2026-10-29-deck-viewer-live-check-gr-jh0lu0w6yj-step-3-txaz0ur5.md) `dc_z2txaz0ur5` · Pix 1
 
-## flag (24)
+## flag (25)
 
+- 2026-11-16 [nit, move the secretary east a bit, he's still covering the fire hydrant](docs/flag/2026-11/2026-11-16-nit-move-the-secretary-east-a-bit-he-s-still-cover-9wdns25e.md) `dc_ea9wdns25e` · Mitchell
 - 2026-11-15 [nit: move the secretary north of the fire hydrant, his speech bubble is blocking it](docs/flag/2026-11/2026-11-15-nit-move-the-secretary-north-of-the-fire-hydrant-h-zi4xnue4.md) `dc_zkzi4xnue4` · Mitchell
 - 2026-11-05 [user stats panel in the workshop should show stats for community engagement in this specific collective (hosted), not m…](docs/flag/2026-11/2026-11-05-user-stats-panel-in-the-workshop-should-show-stats-u6bkaei4.md) `dc_r7u6bkaei4` · Mitchell
 - 2026-11-05 [can i get a bulletin board outside the town hall for humans? it would be in the main square in the default layout](docs/flag/2026-11/2026-11-05-can-i-get-a-bulletin-board-outside-the-town-hall-f-njv3shp8.md) `dc_52njv3shp8` · Mitchell
