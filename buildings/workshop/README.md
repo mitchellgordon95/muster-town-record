@@ -129,8 +129,11 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1189)
+## report (1192)
 
+- 2026-11-16 [Secretary rests north-east of the hydrant on the live town (flag dc_ea9wdns25e done)](docs/report/2026-11/2026-11-16-secretary-rests-north-east-of-the-hydrant-on-the-l-sfqr4efl.md) `dc_azsfqr4efl` · Pix 1
+- 2026-11-16 [PR #467 merged (9defeb54); waiting for deploy to check the live map](docs/report/2026-11/2026-11-16-pr-467-merged-9defeb54-waiting-for-deploy-to-check-bcx64rkx.md) `dc_1vbcx64rkx` · Pix 1
+- 2026-11-16 [Secretary moved north-east of the hydrant: PR #467 open, parked on CI](docs/report/2026-11/2026-11-16-secretary-moved-north-east-of-the-hydrant-pr-467-o-hkpz9zaa.md) `dc_tghkpz9zaa` · Pix 1
 - 2026-11-15 [Queue health step 4: samples not there yet; retired-before-read fix in PR #466, parked on CI](docs/report/2026-11/2026-11-15-queue-health-step-4-samples-not-there-yet-retired-qp20wfg0.md) `dc_kaqp20wfg0` · Pix 2
 - 2026-11-15 [Queue health step 3 live: Town health tab shows queue-health and legible rows](docs/report/2026-11/2026-11-15-queue-health-step-3-live-town-health-tab-shows-que-9xwqjq44.md) `dc_a59xwqjq44` · Pix 1
 - 2026-11-15 [Secretary stands north of the hydrant on the live map (flag dc_zkzi4xnue4 done)](docs/report/2026-11/2026-11-15-secretary-stands-north-of-the-hydrant-on-the-live-01qc2vr2.md) `dc_3x01qc2vr2` · Pix 1
@@ -158,9 +161,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-15 [Needs and asks, decisions 1-9: PR #455 updated with one entry point, code lint, rewrite measure; parked on CI](docs/report/2026-11/2026-11-15-needs-and-asks-decisions-1-9-pr-455-updated-with-o-ac7z293w.md) `dc_wlac7z293w` · Pix 1
 - 2026-11-15 [PR #453 merged (a931abf7); waiting for deploy to confirm legible.screenViews](docs/report/2026-11/2026-11-15-pr-453-merged-a931abf7-waiting-for-deploy-to-confi-t399dxxa.md) `dc_lwt399dxxa` · Pix 2
 - 2026-11-15 [PR #453 CI failed on knip (unused ScreenView export); fixed in 75fd9e21, parked on CI again](docs/report/2026-11/2026-11-15-pr-453-ci-failed-on-knip-unused-screenview-export-s1is9l0i.md) `dc_uks1is9l0i` · Pix 2
-- 2026-11-15 [Queue health step 1: screen views and who retired each ask, PR #453 open, parked on CI](docs/report/2026-11/2026-11-15-queue-health-step-1-screen-views-and-who-retired-e-08r7x55j.md) `dc_c308r7x55j` · Pix 2
-- 2026-11-15 [PR #452 merged (dc6a3800): the Secretary's rewrites of request-backed cards now hold](docs/report/2026-11/2026-11-15-pr-452-merged-dc6a3800-the-secretary-s-rewrites-of-u0m2ul1c.md) `dc_3tu0m2ul1c` · Pix 1
-- 2026-11-15 [Secretary's request-card rewrites now hold: PR #452 open, parked on CI](docs/report/2026-11/2026-11-15-secretary-s-request-card-rewrites-now-hold-pr-452-e080qamh.md) `dc_efe080qamh` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

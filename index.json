@@ -28879,5 +28879,32 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-16T07:25:00.344Z"
+  },
+  {
+    "id": "dc_tghkpz9zaa",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-16-secretary-moved-north-east-of-the-hydrant-pr-467-o-hkpz9zaa.md",
+    "title": "Secretary moved north-east of the hydrant: PR #467 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-16T07:34:58.493Z"
+  },
+  {
+    "id": "dc_1vbcx64rkx",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-16-pr-467-merged-9defeb54-waiting-for-deploy-to-check-bcx64rkx.md",
+    "title": "PR #467 merged (9defeb54); waiting for deploy to check the live map",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-16T07:40:27.462Z"
+  },
+  {
+    "id": "dc_azsfqr4efl",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-16-secretary-rests-north-east-of-the-hydrant-on-the-l-sfqr4efl.md",
+    "title": "Secretary rests north-east of the hydrant on the live town (flag dc_ea9wdns25e done)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-16T08:00:28.716Z"
   }
 ]
