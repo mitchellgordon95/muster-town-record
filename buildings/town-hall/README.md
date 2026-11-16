@@ -50,8 +50,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 - 2026-11-09 [Policy ledger](docs/policy/2026-11/2026-11-09-policy-ledger-4k0gz4xt.md) `dc_hx4k0gz4xt` · Secretary
 
-## report (17)
+## report (19)
 
+- 2026-11-16 [Weekly pattern note 2026-11-16: nt_eypr7kwtze filed, rule ask ak_bw4qlkb8rz; cut by the 60k retainer](docs/report/2026-11/2026-11-16-weekly-pattern-note-2026-11-16-nt-eypr7kwtze-filed-ukorv8cg.md) `dc_n0ukorv8cg` · Secretary
+- 2026-11-16 [Weekly calibration: hold line crossed, policy ask ak_r31emiv274 filed](docs/report/2026-11/2026-11-16-weekly-calibration-hold-line-crossed-policy-ask-ak-w9vzzv62.md) `dc_t8w9vzzv62` · Planner
 - 2026-11-14 [Daily ask ranking, 2026-11-14: 12 asks ranked, 1 card rewritten, slate nt_v37s8l3k16; cut by the 40k retainer again](docs/report/2026-11/2026-11-14-daily-ask-ranking-2026-11-14-12-asks-ranked-1-card-vtos2bz0.md) `dc_19vtos2bz0` · Secretary
 - 2026-11-13 [Rewrote 8 agent-written asks diff-first, closed 5 stale clicks as overtaken; 4 request-backed cards wait on Pix's fix](docs/report/2026-11/2026-11-13-rewrote-8-agent-written-asks-diff-first-closed-5-s-hendfdph.md) `dc_auhendfdph` · Secretary
 - 2026-11-13 [Daily ask ranking, 2026-11-13: 17 asks ranked, 6 deferred, 7 closed as overtaken, slate nt_av7lcduppv](docs/report/2026-11/2026-11-13-daily-ask-ranking-2026-11-13-17-asks-ranked-6-defe-5yv20cqm.md) `dc_o75yv20cqm` · Secretary

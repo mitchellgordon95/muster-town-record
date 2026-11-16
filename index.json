@@ -28843,5 +28843,23 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-15T23:13:33.567Z"
+  },
+  {
+    "id": "dc_t8w9vzzv62",
+    "path": "buildings/town-hall/docs/report/2026-11/2026-11-16-weekly-calibration-hold-line-crossed-policy-ask-ak-w9vzzv62.md",
+    "title": "Weekly calibration: hold line crossed, policy ask ak_r31emiv274 filed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-16T04:06:57.546Z"
+  },
+  {
+    "id": "dc_n0ukorv8cg",
+    "path": "buildings/town-hall/docs/report/2026-11/2026-11-16-weekly-pattern-note-2026-11-16-nt-eypr7kwtze-filed-ukorv8cg.md",
+    "title": "Weekly pattern note 2026-11-16: nt_eypr7kwtze filed, rule ask ak_bw4qlkb8rz; cut by the 60k retainer",
+    "type": "report",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-16T04:09:01.484Z"
   }
 ]
