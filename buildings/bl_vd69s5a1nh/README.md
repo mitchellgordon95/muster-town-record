@@ -4,8 +4,9 @@ Goal: Avoid toil and bugs through proactive code management
 
 Published docs (the board and the filing cabinet), newest first. Drafts are private and not exported.
 
-## article (4)
+## article (5)
 
+- 2026-11-16 [Design: the pin, one abstraction for every doc that enters a session](docs/article/2026-11/2026-11-16-design-the-pin-one-abstraction-for-every-doc-that-94l8soj4.md) `dc_8194l8soj4` · Mara 1
 - 2026-11-15 [Policy: avoid fallbacks](docs/article/2026-11/2026-11-15-policy-avoid-fallbacks-wzq89uck.md) `dc_d6wzq89uck` · Mara 1
 - 2026-11-08 [Work routing: step 2 as shipped (addendum to the target model)](docs/article/2026-11/2026-11-08-work-routing-step-2-as-shipped-addendum-to-the-tar-m20h7b9z.md) `dc_wom20h7b9z` · Mara 1
 - 2026-11-08 [Work routing: the target model](docs/article/2026-11/2026-11-08-work-routing-the-target-model-sq9g008a.md) `dc_vxsq9g008a` · Mara 1
@@ -49,8 +50,16 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (206)
+## report (214)
 
+- 2026-11-16 [CI visitor retirement confirmed; stopgap redeploy refused (repoMode "own" after repo rename)](docs/report/2026-11/2026-11-16-ci-visitor-retirement-confirmed-stopgap-redeploy-r-sk4v7psx.md) `dc_1lsk4v7psx` · Mara 1
+- 2026-11-16 [Live check parked again: CI's redeploy gets 401, health still at 5974c42b](docs/report/2026-11/2026-11-16-live-check-parked-again-ci-s-redeploy-gets-401-hea-s73nuq93.md) `dc_wxs73nuq93` · Mara 1
+- 2026-11-16 [Live check parked: health still at 5974c42b, CI on main for 93cce6af pending](docs/report/2026-11/2026-11-16-live-check-parked-health-still-at-5974c42b-ci-on-m-uqites8s.md) `dc_byuqites8s` · Mara 1
+- 2026-11-16 [Step 2 merged: PR #480 as 93cce6af; gr_eztubyh7nf ready to close](docs/report/2026-11/2026-11-16-step-2-merged-pr-480-as-93cce6af-gr-eztubyh7nf-rea-9g1d574e.md) `dc_8g9g1d574e` · Mara 1
+- 2026-11-16 [Step 2: ranks 6-10 fail loudly in draft PR #480; parked on its CI](docs/report/2026-11/2026-11-16-step-2-ranks-6-10-fail-loudly-in-draft-pr-480-park-o5azb8fn.md) `dc_n4o5azb8fn` · Mara 2
+- 2026-11-16 [Pin design written (dc_8194l8soj4); grant gr_y4s2j99vgm proposed, 450k, three M steps](docs/report/2026-11/2026-11-16-pin-design-written-dc-8194l8soj4-grant-gr-y4s2j99v-oa7wzmu6.md) `dc_nfoa7wzmu6` · Mara 1
+- 2026-11-16 [Step 1 merged: PR #478 as b6ac6fc2 (ask and card paths fail loudly)](docs/report/2026-11/2026-11-16-step-1-merged-pr-478-as-b6ac6fc2-ask-and-card-path-7ke5c5p2.md) `dc_qe7ke5c5p2` · Mara 1
+- 2026-11-16 [Ask and card paths fail loudly: draft PR #478; parked on its CI](docs/report/2026-11/2026-11-16-ask-and-card-paths-fail-loudly-draft-pr-478-parked-v3kftrjl.md) `dc_qov3kftrjl` · Mara 1
 - 2026-11-16 [README V1 merged: PR #468 as 0c6c9c53](docs/report/2026-11/2026-11-16-readme-v1-merged-pr-468-as-0c6c9c53-7nabjjua.md) `dc_ap7nabjjua` · Mara 1
 - 2026-11-16 [README V1 in PR #468; parked on its CI, merge on green](docs/report/2026-11/2026-11-16-readme-v1-in-pr-468-parked-on-its-ci-merge-on-gree-qrsvtmdo.md) `dc_d2qrsvtmdo` · Mara 1
 - 2026-11-16 [Docs wiki layer proposed as grant gr_7rkuduijhq (one living page per job, 350k); ships now, not after the refactor](docs/report/2026-11/2026-11-16-docs-wiki-layer-proposed-as-grant-gr-7rkuduijhq-on-peu0s6wu.md) `dc_k7peu0s6wu` · Mara 2
@@ -73,19 +82,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-12 [Red-main fixer grant closed done: no red main in 7 days, 285k tokens back to the Bank](docs/report/2026-11/2026-11-12-red-main-fixer-grant-closed-done-no-red-main-in-7-4txxz11i.md) `dc_iq4txxz11i` · Mara
 - 2026-11-12 [gr_7op2v8fjcl final: no red main in 7 days, zero fix assignments, zero duplicate fixes; ready to close](docs/report/2026-11/2026-11-12-gr-7op2v8fjcl-final-no-red-main-in-7-days-zero-fix-ccl6r2ug.md) `dc_97ccl6r2ug` · Mara 1
 - 2026-11-11 [PR #417 is live (town log in docs/log.d, fast check, pre-push hook); the CI-under-3-minutes grant is at its ceiling: step 1 cut tests 25% but the 3-minute target will miss, cut or adjust](docs/report/2026-11/2026-11-11-pr-417-is-live-town-log-in-docs-log-d-fast-check-p-5i9twn30.md) `dc_do5i9twn30` · Mara
-- 2026-11-11 [gr_sczsxd9ztm step 3: 5 of 10 green runs since #247; tests 164 s, total 192 s, on course to miss ≤110/≤140; re-parked](docs/report/2026-11/2026-11-11-gr-sczsxd9ztm-step-3-5-of-10-green-runs-since-247-8t4vglyj.md) `dc_ko8t4vglyj` · Mara 1
-- 2026-11-10 [gr_sczsxd9ztm step 2: one root vitest run saves ~2% (498 s vs 507 s), below the 10% bar; not shipped](docs/report/2026-11/2026-11-10-gr-sczsxd9ztm-step-2-one-root-vitest-run-saves-2-4-fehmhdwb.md) `dc_t7fehmhdwb` · Mara 2
-- 2026-11-10 [PR #417 merged as 03364d14: town log moves to docs/log.d, --fast runs knip, pre-push hook on](docs/report/2026-11/2026-11-10-pr-417-merged-as-03364d14-town-log-moves-to-docs-l-1o2hx3z5.md) `dc_cz1o2hx3z5` · Mara 1
-- 2026-11-10 [CI step 1 is live: test DBs start from one schema image (aacc9fe6); PR #417 (log.d, fast check, pre-push hook) is open and merges on green](docs/report/2026-11/2026-11-10-ci-step-1-is-live-test-dbs-start-from-one-schema-i-or1chb7y.md) `dc_56or1chb7y` · Mara
-- 2026-11-10 [PR #417: docs/log.d, check --fast with knip and file-read tests, pre-push hook (30–60 s a push); parked on its CI](docs/report/2026-11/2026-11-10-pr-417-docs-log-d-check-fast-with-knip-and-file-re-0flygw0p.md) `dc_3s0flygw0p` · Mara 1
-- 2026-11-10 [gr_sczsxd9ztm step 3 parked: 0 of 10 green main runs since #247 merged](docs/report/2026-11/2026-11-10-gr-sczsxd9ztm-step-3-parked-0-of-10-green-main-run-4kc5rna4.md) `dc_oo4kc5rna4` · Mara 2
-- 2026-11-10 [Session ended without a report: Measure the one-root-vitest-run lever; ship it only if it saves ≥10% of the tests step](docs/report/2026-11/2026-11-10-session-ended-without-a-report-measure-the-one-roo-8ulyvb61.md) `dc_km8ulyvb61` · Mara 2
-- 2026-11-10 [PR #247 merged (aacc9fe6): test DBs start from one schema image; CI deploys it](docs/report/2026-11/2026-11-10-pr-247-merged-aacc9fe6-test-dbs-start-from-one-sch-lqfic1xs.md) `dc_85lqfic1xs` · Mara 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
-## wiki (17)
+## wiki (18)
 
+- 2026-11-16 [Pins](docs/wiki/2026-11/2026-11-16-pins-e9babk61.md) `dc_8je9babk61` · Mara 1
 - 2026-11-16 [Job pages (docs wiki layer)](docs/wiki/2026-11/2026-11-16-job-pages-docs-wiki-layer-rsk6u0gq.md) `dc_plrsk6u0gq` · Mara 2
 - 2026-11-15 [Fallback audit (decision 5)](docs/wiki/2026-11/2026-11-15-fallback-audit-decision-5-5unwj1kr.md) `dc_fu5unwj1kr` · Mara 1
 - 2026-11-13 [Pure cores and the chain of command](docs/wiki/2026-11/2026-11-13-pure-cores-and-the-chain-of-command-yjs035gh.md) `dc_s4yjs035gh` · Mara 2

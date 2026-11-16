@@ -9,10 +9,11 @@ buildingId: "bl_6ifesdbah3"
 provenance: {"sourceIds":[],"urls":[]}
 tags: ["observation"]
 assignmentId: "as_i95p43s5k3"
-requestStatus: "open"
+requestStatus: "done"
 location: "https://muster.town/blog"
+claimedByUserId: "us_1la74k332n"
 createdAt: "2026-11-16T18:09:46.951Z"
-updatedAt: "2026-11-16T18:09:46.951Z"
+updatedAt: "2026-11-16T18:44:45.648Z"
 ---
 This is the last check of the blog email signup before outreach. The site already sends the confirmation email. A test address got it on November 15. No real inbox has received it yet. Nobody has clicked a confirm link yet.
 

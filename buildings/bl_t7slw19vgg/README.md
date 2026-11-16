@@ -35,8 +35,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (212)
+## report (214)
 
+- 2026-11-16 [PR #477 green and squash-merged (77c6073c)](docs/report/2026-11/2026-11-16-pr-477-green-and-squash-merged-77c6073c-favbztpg.md) `dc_vbfavbztpg` · Teo 1
+- 2026-11-16 [Drag residents with a grasper hand: PR #477, parked on CI to merge](docs/report/2026-11/2026-11-16-drag-residents-with-a-grasper-hand-pr-477-parked-o-g4u1zha3.md) `dc_71g4u1zha3` · Teo 2
 - 2026-11-16 [PR #471 green and squash-merged (11f40a03)](docs/report/2026-11/2026-11-16-pr-471-green-and-squash-merged-11f40a03-cx0ooi9h.md) `dc_i4cx0ooi9h` · Teo 1
 - 2026-11-16 [Forms keep half-filled drafts: PR #471, parked on CI to merge](docs/report/2026-11/2026-11-16-forms-keep-half-filled-drafts-pr-471-parked-on-ci-e021i55x.md) `dc_9ze021i55x` · Teo 1
 - 2026-11-15 [PR #457 green and squash-merged (1f0c69ff)](docs/report/2026-11/2026-11-15-pr-457-green-and-squash-merged-1f0c69ff-ioyzn0zr.md) `dc_xaioyzn0zr` · Teo 1
@@ -65,8 +67,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-10 [Message from Mitchell (via Teo 1): Understood: building only the retainer Counter form (tokens per run, end date, …](docs/report/2026-11/2026-11-10-message-from-mitchell-via-teo-1-understood-buildin-3erimr9p.md) `dc_183erimr9p` · Town
 - 2026-11-10 [Message from Mitchell (via Secretary): Teo: from Mitchell's 1:1 with me (mt_ewxnhs90cq), decision 3 (as_zpz8oa0ytu) re…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-secretary-teo-from-mitch-aijh8dsy.md) `dc_q4aijh8dsy` · Town
 - 2026-11-10 [Your asks take a note now: Done, Decline, Claim and Decline on request asks all carry your words to the agent who asked (live on 57a573df)](docs/report/2026-11/2026-11-10-your-asks-take-a-note-now-done-decline-claim-and-d-ftg9m0zp.md) `dc_21ftg9m0zp` · Teo
-- 2026-11-10 [57a573df is live: click-ask notes and request Claim/Decline notes are in the live bundle; no human has used them yet](docs/report/2026-11/2026-11-10-57a573df-is-live-click-ask-notes-and-request-claim-c91rs2vv.md) `dc_p3c91rs2vv` · Teo 1
-- 2026-11-10 [PR #408 merged as 57a573df (click-ask and request-ask notes); parked on its deploy](docs/report/2026-11/2026-11-10-pr-408-merged-as-57a573df-click-ask-and-request-as-g3il7ajc.md) `dc_pkg3il7ajc` · Teo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -79,8 +79,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-31 [delight-walk](docs/skill/2026-10/2026-10-31-delight-walk-la62qft8.md) `dc_14la62qft8` · Teo 2
 - 2026-10-31 [map-bubble-sampler](docs/skill/2026-10/2026-10-31-map-bubble-sampler-h9yywhfl.md) `dc_6ph9yywhfl` · Teo 1
 
-## wiki (18)
+## wiki (19)
 
+- 2026-11-16 [Drag residents with the grasper hand](docs/wiki/2026-11/2026-11-16-drag-residents-with-the-grasper-hand-rianpcp1.md) `dc_kmrianpcp1` · Teo 2
 - 2026-11-16 [Form drafts (useDraft)](docs/wiki/2026-11/2026-11-16-form-drafts-usedraft-om6k146h.md) `dc_a9om6k146h` · Teo 1
 - 2026-11-10 [Tool calls in 1:1s and meetings](docs/wiki/2026-11/2026-11-10-tool-calls-in-1-1s-and-meetings-xvocdq31.md) `dc_7hxvocdq31` · Teo 1
 - 2026-11-10 [Click asks: note on Done/Decline (PR #408)](docs/wiki/2026-11/2026-11-10-click-asks-note-on-done-decline-pr-408-gmux31kj.md) `dc_mdgmux31kj` · Teo

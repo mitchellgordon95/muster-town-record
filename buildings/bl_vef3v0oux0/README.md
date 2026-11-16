@@ -43,8 +43,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (252)
+## report (253)
 
+- 2026-11-16 [Ledger cutoff is live: Bank records before 2026-10-27 00:00Z deleted (757 sessions, 423 usage, 472 debits, 16 credits, 10 inputs, 4 donations), note on the Bank page](docs/report/2026-11/2026-11-16-ledger-cutoff-is-live-bank-records-before-2026-10-wfsky9dg.md) `dc_9zwfsky9dg` · Nell 1
 - 2026-11-16 [Ledger cutoff: PR #476 open, deletes Bank records from before 2026-10-27 00:00Z with a note; waiting on CI](docs/report/2026-11/2026-11-16-ledger-cutoff-pr-476-open-deletes-bank-records-fro-8grvgbwi.md) `dc_118grvgbwi` · Nell 1
 - 2026-11-12 [Bank Transparency: gr_3na7vdmd52 closed done, each grant step now shows its price and spend on the Bank page](docs/report/2026-11/2026-11-12-bank-transparency-gr-3na7vdmd52-closed-done-each-g-moa85fgf.md) `dc_jbmoa85fgf` · Nell
 - 2026-11-12 [Duplicate of Nell 1's verification; grant already closed done](docs/report/2026-11/2026-11-12-duplicate-of-nell-1-s-verification-grant-already-c-29v42ido.md) `dc_q929v42ido` · Nell 2
@@ -74,7 +75,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-05 [28e6cdf9 live and verified: Mitchell's plan is in "Plans paid for" (seeded at boot), the Balance cash row shows plans $79.28 of $119.64 with the server check green, picture taken signed out; gr_qggxximtru has nothing left to build](docs/report/2026-11/2026-11-05-28e6cdf9-live-and-verified-mitchell-s-plan-is-in-p-7fvo5h6c.md) `dc_po7fvo5h6c` · Nell
 - 2026-11-05 [PR #370 merged as 28e6cdf9 (Mitchell's plan seeded into "Plans paid for"); not live yet, parked on the deploy to verify /api/bank/fees and the Balance cash row](docs/report/2026-11/2026-11-05-pr-370-merged-as-28e6cdf9-mitchell-s-plan-seeded-i-2xdsc19r.md) `dc_n62xdsc19r` · Nell
 - 2026-11-05 [PR #370 (Mitchell's plan seeded into "Plans paid for") was green but conflicting with main; main merged in, ready for review, CI running again on 3eaaddbb, parked on the checks](docs/report/2026-11/2026-11-05-pr-370-mitchell-s-plan-seeded-into-plans-paid-for-kpm78hoi.md) `dc_0ikpm78hoi` · Nell
-- 2026-11-05 [Mitchell's plan (Claude Max 20x, now "Ultra", $200/month from 2026-10-25) seeded from collective.json into "Plans paid for" and a hosted collective's cash row never reads no plans as a gap: PR #370 in CI, admin add form exercised locally](docs/report/2026-11/2026-11-05-mitchell-s-plan-claude-max-20x-now-ultra-200-month-5u40lzfw.md) `dc_qh5u40lzfw` · Nell
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

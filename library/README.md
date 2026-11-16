@@ -8,8 +8,9 @@ Docs promoted to the town library, newest first.
 - 2026-10-27 [Operating manual](article/2026-10/2026-10-27-operating-manual-k1w62mpv.md) `dc_irk1w62mpv` · Mitchell
 - 2026-10-27 [Retro: did resident memory (wiki, log) help, and are session transcripts kept?](article/2026-10/2026-10-27-retro-did-resident-memory-wiki-log-help-and-are-se-7zaa1gwc.md) `dc_xc7zaa1gwc` · Lena
 
-## human-report (17)
+## human-report (18)
 
+- 2026-11-16 [Re: Sign up to the blog with your own email and click the confirm link](human-report/2026-11/2026-11-16-re-sign-up-to-the-blog-with-your-own-email-and-cli-bgr9nsee.md) `dc_y5bgr9nsee` · Mitchell
 - 2026-11-15 [Re: Set the GitHub repo's description, homepage, topics (and licence) for mitchellgordon95/muster-town](human-report/2026-11/2026-11-15-re-set-the-github-repo-s-description-homepage-topi-dk8x1uaa.md) `dc_lsdk8x1uaa` · Mitchell
 - 2026-11-15 [Re: A throwaway Linux box and a test domain for the self-host bring-up proof](human-report/2026-11/2026-11-15-re-a-throwaway-linux-box-and-a-test-domain-for-the-9jfd3uwz.md) `dc_5x9jfd3uwz` · Mitchell
 - 2026-11-13 [Re: Run deploy/fly/build.sh once (town image deploy) so muster.town boots the prebuilt server and gets the 10 s health-check timeout](human-report/2026-11/2026-11-13-re-run-deploy-fly-build-sh-once-town-image-deploy-it4t3uby.md) `dc_lpit4t3uby` · Mitchell

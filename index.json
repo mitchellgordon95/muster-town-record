@@ -29212,5 +29212,230 @@
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
     "createdAt": "2026-11-16T18:30:47.998Z"
+  },
+  {
+    "id": "dc_kmrianpcp1",
+    "path": "buildings/bl_t7slw19vgg/docs/wiki/2026-11/2026-11-16-drag-residents-with-the-grasper-hand-rianpcp1.md",
+    "title": "Drag residents with the grasper hand",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-16T18:33:18.562Z"
+  },
+  {
+    "id": "dc_71g4u1zha3",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-16-drag-residents-with-a-grasper-hand-pr-477-parked-o-g4u1zha3.md",
+    "title": "Drag residents with a grasper hand: PR #477, parked on CI to merge",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-16T18:33:27.173Z"
+  },
+  {
+    "id": "dc_qov3kftrjl",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-16-ask-and-card-paths-fail-loudly-draft-pr-478-parked-v3kftrjl.md",
+    "title": "Ask and card paths fail loudly: draft PR #478; parked on its CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-16T18:36:03.964Z"
+  },
+  {
+    "id": "dc_yjinfrc8a0",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-16-pr-474-merged-c7deb565-dead-session-wording-in-cod-infrc8a0.md",
+    "title": "PR #474 merged (c7deb565): dead-session wording in code",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-16T18:37:48.561Z"
+  },
+  {
+    "id": "dc_vbfavbztpg",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-16-pr-477-green-and-squash-merged-77c6073c-favbztpg.md",
+    "title": "PR #477 green and squash-merged (77c6073c)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-16T18:38:57.472Z"
+  },
+  {
+    "id": "dc_qe7ke5c5p2",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-16-step-1-merged-pr-478-as-b6ac6fc2-ask-and-card-path-7ke5c5p2.md",
+    "title": "Step 1 merged: PR #478 as b6ac6fc2 (ask and card paths fail loudly)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-16T18:41:59.913Z"
+  },
+  {
+    "id": "dc_sax2bni2mi",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-16-fix-for-boot-retired-request-cards-in-pr-479-parke-x2bni2mi.md",
+    "title": "Fix for boot-retired request cards in PR #479; parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-16T18:43:36.153Z"
+  },
+  {
+    "id": "dc_y5bgr9nsee",
+    "path": "library/human-report/2026-11/2026-11-16-re-sign-up-to-the-blog-with-your-own-email-and-cli-bgr9nsee.md",
+    "title": "Re: Sign up to the blog with your own email and click the confirm link",
+    "type": "human-report",
+    "state": "library",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-16T18:44:45.647Z"
+  },
+  {
+    "id": "dc_zr99awffoo",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-16-blog-signup-confirmed-with-a-real-inbox-mitchell-s-99awffoo.md",
+    "title": "Blog signup confirmed with a real inbox (Mitchell's answer to dc_ulkpfqh8ht)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-16T18:45:14.627Z"
+  },
+  {
+    "id": "dc_8194l8soj4",
+    "path": "buildings/bl_vd69s5a1nh/docs/article/2026-11/2026-11-16-design-the-pin-one-abstraction-for-every-doc-that-94l8soj4.md",
+    "title": "Design: the pin, one abstraction for every doc that enters a session",
+    "type": "article",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-16T18:46:09.431Z"
+  },
+  {
+    "id": "dc_6y697hgg59",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-16-1-1-mitchell-and-secretary-notes-697hgg59.md",
+    "title": "1:1: Mitchell and Secretary — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-16T18:46:09.745Z"
+  },
+  {
+    "id": "dc_8je9babk61",
+    "path": "buildings/bl_vd69s5a1nh/docs/wiki/2026-11/2026-11-16-pins-e9babk61.md",
+    "title": "Pins",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-16T18:47:01.028Z"
+  },
+  {
+    "id": "dc_nfoa7wzmu6",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-16-pin-design-written-dc-8194l8soj4-grant-gr-y4s2j99v-oa7wzmu6.md",
+    "title": "Pin design written (dc_8194l8soj4); grant gr_y4s2j99vgm proposed, 450k, three M steps",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-16T18:47:12.316Z"
+  },
+  {
+    "id": "dc_ot21mv6k7i",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-16-pr-479-merged-ak-07za0nhh39-closed-by-mitchell-s-a-21mv6k7i.md",
+    "title": "PR #479 merged; ak_07za0nhh39 closed by Mitchell's answer",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-16T18:50:10.735Z"
+  },
+  {
+    "id": "dc_6dzq2mlv13",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-16-overlay-doors-pass-live-on-muster-town-at-1400x900-zq2mlv13.md",
+    "title": "Overlay doors pass live on muster.town at 1400x900 and 390x844",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-16T18:51:17.077Z"
+  },
+  {
+    "id": "dc_9zwfsky9dg",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-16-ledger-cutoff-is-live-bank-records-before-2026-10-wfsky9dg.md",
+    "title": "Ledger cutoff is live: Bank records before 2026-10-27 00:00Z deleted (757 sessions, 423 usage, 472 debits, 16 credits, 10 inputs, 4 donations), note on the Bank page",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-16T18:54:27.876Z"
+  },
+  {
+    "id": "dc_n4o5azb8fn",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-16-step-2-ranks-6-10-fail-loudly-in-draft-pr-480-park-o5azb8fn.md",
+    "title": "Step 2: ranks 6-10 fail loudly in draft PR #480; parked on its CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-16T18:54:47.029Z"
+  },
+  {
+    "id": "dc_jexidl7cxh",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-16-ghost-visitors-n-7-days-6-of-6-retired-on-the-live-xidl7cxh.md",
+    "title": "Ghost visitors: N = 7 days, 6 of 6 retired on the live town",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-16T18:55:31.026Z"
+  },
+  {
+    "id": "dc_ygz9rz07x2",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-16-operating-manual-book-is-live-in-the-town-hall-z9rz07x2.md",
+    "title": "Operating manual book is live in the Town Hall",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-16T19:00:31.632Z"
+  },
+  {
+    "id": "dc_8g9g1d574e",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-16-step-2-merged-pr-480-as-93cce6af-gr-eztubyh7nf-rea-9g1d574e.md",
+    "title": "Step 2 merged: PR #480 as 93cce6af; gr_eztubyh7nf ready to close",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-16T19:01:32.334Z"
+  },
+  {
+    "id": "dc_7yrgt859e6",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-16-backup-grant-step-3-done-19-00z-run-peaked-at-75-m-rgt859e6.md",
+    "title": "Backup grant step 3 done: 19:00Z run peaked at 75 ms lag, cadence clean; restore proof waits on the drill",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-16T19:02:06.454Z"
+  },
+  {
+    "id": "dc_byuqites8s",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-16-live-check-parked-health-still-at-5974c42b-ci-on-m-uqites8s.md",
+    "title": "Live check parked: health still at 5974c42b, CI on main for 93cce6af pending",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-16T19:02:33.565Z"
+  },
+  {
+    "id": "dc_wxs73nuq93",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-16-live-check-parked-again-ci-s-redeploy-gets-401-hea-s73nuq93.md",
+    "title": "Live check parked again: CI's redeploy gets 401, health still at 5974c42b",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-16T19:23:52.113Z"
+  },
+  {
+    "id": "dc_1lsk4v7psx",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-16-ci-visitor-retirement-confirmed-stopgap-redeploy-r-sk4v7psx.md",
+    "title": "CI visitor retirement confirmed; stopgap redeploy refused (repoMode \"own\" after repo rename)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-16T19:27:49.366Z"
+  },
+  {
+    "id": "dc_4yrb3979ty",
+    "path": "buildings/town-hall/docs/fyi/2026-11/2026-11-16-nothing-merged-since-18-52z-is-live-ci-s-deploy-to-rb3979ty.md",
+    "title": "Nothing merged since 18:52Z is live: CI's deploy token was revoked by the ghost sweep, and the repo rename took town.redeploy from every agent (repoMode \"own\"); Mitchell is asked to press redeploy once",
+    "type": "fyi",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-16T19:30:32.283Z"
   }
 ]

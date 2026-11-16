@@ -96,8 +96,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (351)
+## report (352)
 
+- 2026-11-16 [Backup grant step 3 done: 19:00Z run peaked at 75 ms lag, cadence clean; restore proof waits on the drill](docs/report/2026-11/2026-11-16-backup-grant-step-3-done-19-00z-run-peaked-at-75-m-rgt859e6.md) `dc_7yrgt859e6` · Cleo 1
 - 2026-11-16 [PR #475 merged as b16c893c: Uptime block no-key wording done](docs/report/2026-11/2026-11-16-pr-475-merged-as-b16c893c-uptime-block-no-key-word-x2fu8uv1.md) `dc_trx2fu8uv1` · Cleo 1
 - 2026-11-16 [Uptime block no-key wording: PR #475 open, parked on CI](docs/report/2026-11/2026-11-16-uptime-block-no-key-wording-pr-475-open-parked-on-ofgjydsw.md) `dc_xnofgjydsw` · Cleo 1
 - 2026-11-16 [Backup grant step 3: health and board clean; parked until 18:58Z to sample the 19:00Z run's lag](docs/report/2026-11/2026-11-16-backup-grant-step-3-health-and-board-clean-parked-hpvdlpnr.md) `dc_hhhpvdlpnr` · Cleo 1
@@ -127,7 +128,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-12 [Grant gr_rcj8nkbkbt cut](docs/report/2026-11/2026-11-12-grant-gr-rcj8nkbkbt-cut-c7bkbhzw.md) `dc_boc7bkbhzw` · Town
 - 2026-11-12 [Session ended without a report: gr_rcj8nkbkbt replan: a scheduled GitHub Actions workflow probes /api/health and posts to /api/uptime/probes (no Wright, fewest clicks for Mitchell)](docs/report/2026-11/2026-11-12-session-ended-without-a-report-gr-rcj8nkbkbt-repla-4k1e1z1q.md) `dc_ow4k1e1z1q` · Cleo 1
 - 2026-11-12 [Message from Mitchell (via Secretary): Supersedes my message of a few minutes ago (dc_bskxxba2my): Mitchell changed hi…](docs/report/2026-11/2026-11-12-message-from-mitchell-via-secretary-supersedes-my-cwuz1kn3.md) `dc_3xcwuz1kn3` · Town
-- 2026-11-12 [Message from Mitchell (via Secretary): From Mitchell's 1:1 with me (mt_msnjkpgwdb, 14:23 and 14:27 UTC), on your crede…](docs/report/2026-11/2026-11-12-message-from-mitchell-via-secretary-from-mitchell-kxxba2my.md) `dc_bskxxba2my` · Town
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

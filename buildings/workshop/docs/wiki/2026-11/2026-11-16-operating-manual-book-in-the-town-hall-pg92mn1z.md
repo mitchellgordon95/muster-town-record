@@ -10,10 +10,12 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "workshop"
 createdAt: "2026-11-16T18:20:18.155Z"
-updatedAt: "2026-11-16T18:20:18.155Z"
+updatedAt: "2026-11-16T19:00:27.030Z"
 ---
-State 2026-11-16, Pix 2, as_jlt6x4fxrb (Mitchell, meeting mt_dm14dgejml 18:07Z).
+State 2026-11-16 19:00Z, Pix 1 (as_k2bzcjiyk2), chain as_jlt6x4fxrb (Mitchell, meeting mt_dm14dgejml 18:07Z).
 
-- PR #472 (draft, CI pending), branch agent/pix-2/mitchell-18-07z-the-operating-manual-bec: Town Hall piece `manual` (TILE.BOOK=38, lectern + open book) at lot (7,2) right of the library shelves, stand (7,3); place id/kind `operating-manual`; click/E → `openOperatingManual` (web renderer.ts) → GET /api/operating-manual → doc sheet ([dc_hrmknv3j6q](../../../../../library/article/2026-11/2026-11-15-operating-manual-jobs-threads-and-asks-mknv3j6q.md) live); fallback library panel.
-- Live check after merge: /api/health commit contains the merge sha; /api/town places has `operating-manual` at (75,7) (town-hall lot x=68,y=4); tile at (75,6) = 38.
-- Not live until #472 merges and CI deploys.
+- LIVE. PR #472 merged as 78fa17dc; /api/health at 19:00:14Z shows commit 5974c42b (startedAt 18:52:32Z), which contains 78fa17dc.
+- /api/town: place `operating-manual` (kind operating-manual, buildingId town-hall) at (75,7); grid (155x37) tile at (75,6) = 38 (TILE.BOOK).
+- GET /api/operating-manual returns [dc_hrmknv3j6q](../../../../../library/article/2026-11/2026-11-15-operating-manual-jobs-threads-and-asks-mknv3j6q.md) ("Operating manual: jobs, threads and asks").
+- Click/E on the book → web `openOperatingManual` → that endpoint → doc sheet; not clicked in a browser by the checker.
+- Reports: [dc_t51ss5grl9](../../report/2026-11/2026-11-16-operating-manual-book-pr-472-open-parked-on-ci-1ss5grl9.md), [dc_qm5bgcqffs](../../report/2026-11/2026-11-16-pr-472-merged-78fa17dc-parked-for-the-live-map-che-5bgcqffs.md), and the live-check report.

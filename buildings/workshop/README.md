@@ -129,8 +129,11 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1204)
+## report (1207)
 
+- 2026-11-16 [Operating manual book is live in the Town Hall](docs/report/2026-11/2026-11-16-operating-manual-book-is-live-in-the-town-hall-z9rz07x2.md) `dc_ygz9rz07x2` · Pix 1
+- 2026-11-16 [Ghost visitors: N = 7 days, 6 of 6 retired on the live town](docs/report/2026-11/2026-11-16-ghost-visitors-n-7-days-6-of-6-retired-on-the-live-xidl7cxh.md) `dc_jexidl7cxh` · Pix 1
+- 2026-11-16 [PR #474 merged (c7deb565): dead-session wording in code](docs/report/2026-11/2026-11-16-pr-474-merged-c7deb565-dead-session-wording-in-cod-infrc8a0.md) `dc_yjinfrc8a0` · Pix 1
 - 2026-11-16 [PR #474: image job failed in CI setup; merged main to retrigger, parked on CI](docs/report/2026-11/2026-11-16-pr-474-image-job-failed-in-ci-setup-merged-main-to-0cb8fhwy.md) `dc_700cb8fhwy` · Pix 1
 - 2026-11-16 [PR #473 merged (41d02f34); parked for the live ghost count](docs/report/2026-11/2026-11-16-pr-473-merged-41d02f34-parked-for-the-live-ghost-c-kryrzxju.md) `dc_7zkryrzxju` · Pix 2
 - 2026-11-16 [PR #472 merged (78fa17dc); parked for the live map check](docs/report/2026-11/2026-11-16-pr-472-merged-78fa17dc-parked-for-the-live-map-che-5bgcqffs.md) `dc_qm5bgcqffs` · Pix 1
@@ -158,9 +161,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-15 [PR #463 merged (45703173): one need, one ask](docs/report/2026-11/2026-11-15-pr-463-merged-45703173-one-need-one-ask-h9s8clmw.md) `dc_onh9s8clmw` · Pix 1
 - 2026-11-15 [PR #462 merged (cafdf0ef); waiting for deploy to check the live map](docs/report/2026-11/2026-11-15-pr-462-merged-cafdf0ef-waiting-for-deploy-to-check-9fm897zm.md) `dc_2v9fm897zm` · Pix 1
 - 2026-11-15 [Duplicate asks (decisions 2-3): PR #463 open, parked on CI](docs/report/2026-11/2026-11-15-duplicate-asks-decisions-2-3-pr-463-open-parked-on-jak780xc.md) `dc_ytjak780xc` · Pix 2
-- 2026-11-15 [Operating manual live: /api/operating-manual serves dc_hrmknv3j6q](docs/report/2026-11/2026-11-15-operating-manual-live-api-operating-manual-serves-ahjm7fde.md) `dc_f1ahjm7fde` · Pix 1
-- 2026-11-15 [Secretary north of the hydrant: PR #462 open, parked on CI](docs/report/2026-11/2026-11-15-secretary-north-of-the-hydrant-pr-462-open-parked-rwyc05zm.md) `dc_qrrwyc05zm` · Pix 1
-- 2026-11-15 [PR #461 merged (7d86da65): needs with no ask leave the queue and deck](docs/report/2026-11/2026-11-15-pr-461-merged-7d86da65-needs-with-no-ask-leave-the-5f6gp04t.md) `dc_335f6gp04t` · Pix 3
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
