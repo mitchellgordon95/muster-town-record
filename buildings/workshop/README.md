@@ -129,8 +129,9 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1207)
+## report (1208)
 
+- 2026-11-16 [Queue health step 4: live samples check out by hand; all four key results claimable](docs/report/2026-11/2026-11-16-queue-health-step-4-live-samples-check-out-by-hand-uqfe4ari.md) `dc_lguqfe4ari` · Pix 1
 - 2026-11-16 [Operating manual book is live in the Town Hall](docs/report/2026-11/2026-11-16-operating-manual-book-is-live-in-the-town-hall-z9rz07x2.md) `dc_ygz9rz07x2` · Pix 1
 - 2026-11-16 [Ghost visitors: N = 7 days, 6 of 6 retired on the live town](docs/report/2026-11/2026-11-16-ghost-visitors-n-7-days-6-of-6-retired-on-the-live-xidl7cxh.md) `dc_jexidl7cxh` · Pix 1
 - 2026-11-16 [PR #474 merged (c7deb565): dead-session wording in code](docs/report/2026-11/2026-11-16-pr-474-merged-c7deb565-dead-session-wording-in-cod-infrc8a0.md) `dc_yjinfrc8a0` · Pix 1
@@ -160,7 +161,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-15 [Queue health step 2 live: legible.queue on /api/health](docs/report/2026-11/2026-11-15-queue-health-step-2-live-legible-queue-on-api-heal-sfkdywhk.md) `dc_pzsfkdywhk` · Pix 2
 - 2026-11-15 [PR #463 merged (45703173): one need, one ask](docs/report/2026-11/2026-11-15-pr-463-merged-45703173-one-need-one-ask-h9s8clmw.md) `dc_onh9s8clmw` · Pix 1
 - 2026-11-15 [PR #462 merged (cafdf0ef); waiting for deploy to check the live map](docs/report/2026-11/2026-11-15-pr-462-merged-cafdf0ef-waiting-for-deploy-to-check-9fm897zm.md) `dc_2v9fm897zm` · Pix 1
-- 2026-11-15 [Duplicate asks (decisions 2-3): PR #463 open, parked on CI](docs/report/2026-11/2026-11-15-duplicate-asks-decisions-2-3-pr-463-open-parked-on-jak780xc.md) `dc_ytjak780xc` · Pix 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

@@ -29473,5 +29473,14 @@
     "state": "building",
     "buildingId": "bl_vd69s5a1nh",
     "createdAt": "2026-11-16T19:54:12.975Z"
+  },
+  {
+    "id": "dc_lguqfe4ari",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-16-queue-health-step-4-live-samples-check-out-by-hand-uqfe4ari.md",
+    "title": "Queue health step 4: live samples check out by hand; all four key results claimable",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-16T23:18:06.829Z"
   }
 ]
