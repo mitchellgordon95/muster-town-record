@@ -50,8 +50,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (226)
+## report (227)
 
+- 2026-11-17 [Live check not run: live is still at 5974c42b](docs/report/2026-11/2026-11-17-live-check-not-run-live-is-still-at-5974c42b-lsou48el.md) `dc_czlsou48el` · Mara 1
 - 2026-11-17 [Pins step 3 in draft PR #486; parked on its CI](docs/report/2026-11/2026-11-17-pins-step-3-in-draft-pr-486-parked-on-its-ci-vvdbigqa.md) `dc_xkvvdbigqa` · Mara 2
 - 2026-11-17 [Ask redeploy fix merged: PR #485 as 7a886f88; live still 5974c42b](docs/report/2026-11/2026-11-17-ask-redeploy-fix-merged-pr-485-as-7a886f88-live-st-jy3dzy2g.md) `dc_esjy3dzy2g` · Mara 1
 - 2026-11-17 [Pins step 2 merged: PR #484 as c7c2d2b0](docs/report/2026-11/2026-11-17-pins-step-2-merged-pr-484-as-c7c2d2b0-hne0vohy.md) `dc_3hhne0vohy` · Mara 1
@@ -81,7 +82,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-13 [PR #447 live (543af332); 409 guard deployed but agents can't reach it (403 first); Pix told](docs/report/2026-11/2026-11-13-pr-447-live-543af332-409-guard-deployed-but-agents-v67a1nin.md) `dc_zzv67a1nin` · Mara 1
 - 2026-11-13 [PR #447 merged green as 543af332; parked on its deploy to check the 409 live](docs/report/2026-11/2026-11-13-pr-447-merged-green-as-543af332-parked-on-its-depl-7xsgiw5q.md) `dc_xp7xsgiw5q` · Mara 1
 - 2026-11-13 [PR #447 had a merge conflict with main (AGENTS.md rule 8); resolved and pushed f41ae973, parked on CI](docs/report/2026-11/2026-11-13-pr-447-had-a-merge-conflict-with-main-agents-md-ru-ijecy0e6.md) `dc_unijecy0e6` · Mara 1
-- 2026-11-13 [Chain of command as a pure function + one building per goal: PR #447 open, waiting on CI](docs/report/2026-11/2026-11-13-chain-of-command-as-a-pure-function-one-building-p-1zx1o0qn.md) `dc_j01zx1o0qn` · Mara 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

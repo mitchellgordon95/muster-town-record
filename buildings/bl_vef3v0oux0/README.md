@@ -24,8 +24,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-30 [1:1: Mitchell and Nell — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-nell-notes-ln43k253.md) `dc_i2ln43k253` · Nell
 - 2026-10-27 [1:1: Mitchell and Nell — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-nell-notes-w5kittck.md) `dc_wjw5kittck` · Nell
 
-## note (16)
+## note (17)
 
+- 2026-11-17 [Findings: the Bank has no picture of spend over time (exploration as_wvcax4hiwu)](docs/note/2026-11/2026-11-17-findings-the-bank-has-no-picture-of-spend-over-tim-04wgtxdm.md) `dc_rg04wgtxdm` · Nell 1
 - 2026-11-10 [Findings: step-priced grants show no per-step spend against the price a funder paid](docs/note/2026-11/2026-11-10-findings-step-priced-grants-show-no-per-step-spend-pfq3e58i.md) `dc_sxpfq3e58i` · Nell 2
 - 2026-11-05 [Findings: half of the last 7 days' spend sits in one "Not under a grant" bucket the Bank doesn't break down](docs/note/2026-11/2026-11-05-findings-half-of-the-last-7-days-spend-sits-in-one-dzr5cua9.md) `dc_k2dzr5cua9` · Nell 1
 - 2026-11-04 [Findings: the Bank prices work at API list price (≈$2,883) but never says what the collective paid in cash (2026-11-04)](docs/note/2026-11/2026-11-04-findings-the-bank-prices-work-at-api-list-price-2-p5ckb48i.md) `dc_qfp5ckb48i` · Nell 1
@@ -43,8 +44,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (253)
+## report (254)
 
+- 2026-11-17 [Exploration: proposed a 30-day day-by-day spend chart for the Bank (gr_epbcgb0hvs)](docs/report/2026-11/2026-11-17-exploration-proposed-a-30-day-day-by-day-spend-cha-xv8zrlxr.md) `dc_gaxv8zrlxr` · Nell 1
 - 2026-11-16 [Ledger cutoff is live: Bank records before 2026-10-27 00:00Z deleted (757 sessions, 423 usage, 472 debits, 16 credits, 10 inputs, 4 donations), note on the Bank page](docs/report/2026-11/2026-11-16-ledger-cutoff-is-live-bank-records-before-2026-10-wfsky9dg.md) `dc_9zwfsky9dg` · Nell 1
 - 2026-11-16 [Ledger cutoff: PR #476 open, deletes Bank records from before 2026-10-27 00:00Z with a note; waiting on CI](docs/report/2026-11/2026-11-16-ledger-cutoff-pr-476-open-deletes-bank-records-fro-8grvgbwi.md) `dc_118grvgbwi` · Nell 1
 - 2026-11-12 [Bank Transparency: gr_3na7vdmd52 closed done, each grant step now shows its price and spend on the Bank page](docs/report/2026-11/2026-11-12-bank-transparency-gr-3na7vdmd52-closed-done-each-g-moa85fgf.md) `dc_jbmoa85fgf` · Nell
@@ -74,7 +76,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-06 [Cache alert false alarm (dc_px0f53iitq): taken now. PR #364 (prefix busting, already drops the share test) merged with main, gains a 5-session floor per purpose, ready and in CI on 98528e5b; parked to squash-merge when green](docs/report/2026-11/2026-11-06-cache-alert-false-alarm-dc-px0f53iitq-taken-now-pr-l0tvasar.md) `dc_pcl0tvasar` · Nell
 - 2026-11-05 [28e6cdf9 live and verified: Mitchell's plan is in "Plans paid for" (seeded at boot), the Balance cash row shows plans $79.28 of $119.64 with the server check green, picture taken signed out; gr_qggxximtru has nothing left to build](docs/report/2026-11/2026-11-05-28e6cdf9-live-and-verified-mitchell-s-plan-is-in-p-7fvo5h6c.md) `dc_po7fvo5h6c` · Nell
 - 2026-11-05 [PR #370 merged as 28e6cdf9 (Mitchell's plan seeded into "Plans paid for"); not live yet, parked on the deploy to verify /api/bank/fees and the Balance cash row](docs/report/2026-11/2026-11-05-pr-370-merged-as-28e6cdf9-mitchell-s-plan-seeded-i-2xdsc19r.md) `dc_n62xdsc19r` · Nell
-- 2026-11-05 [PR #370 (Mitchell's plan seeded into "Plans paid for") was green but conflicting with main; main merged in, ready for review, CI running again on 3eaaddbb, parked on the checks](docs/report/2026-11/2026-11-05-pr-370-mitchell-s-plan-seeded-into-plans-paid-for-kpm78hoi.md) `dc_0ikpm78hoi` · Nell
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

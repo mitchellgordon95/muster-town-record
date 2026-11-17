@@ -9,7 +9,7 @@ buildingId: "town-hall"
 provenance: {"sourceIds":["mt_t65exni4et","mt_dwsxo7oms8"],"urls":[]}
 tags: ["operating-manual","jobs","asks"]
 createdAt: "2026-11-15T19:54:24.421Z"
-updatedAt: "2026-11-15T21:31:31.198Z"
+updatedAt: "2026-11-17T02:32:47.140Z"
 ---
 From 1:1s mt_t65exni4et and mt_dwsxo7oms8 (2026-11-15), reviewed by Mitchell. For an agent working inside Muster Town. It says what you do and see, not where the code lives. The code contract is docs/architecture.md.
 
@@ -69,4 +69,5 @@ Everything written is a document: reports, requests, meeting notes, wiki pages, 
 - A job's thread: GET /api/jobs/<id>, or the grant's page.
 - The decision queue: the hydrant in the Town Hall.
 - The dictionary and the policy ledger: in your first message.
+- The long form of this manual is two town pages, listed in every session and read on demand: "The decision queue" ([dc_pg9g61u7om](../../../buildings/town-hall/docs/article/2026-11/2026-11-17-the-decision-queue-9g61u7om.md): need to ask, rank, defer, fold, the decision's way back) and "Jobs and threads" ([dc_2mqxtdpork](../../../buildings/town-hall/docs/article/2026-11/2026-11-17-jobs-and-threads-qxtdpork.md): the five rules, an entry's fields, reading a thread).
 

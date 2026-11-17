@@ -31,8 +31,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Onboarding standup — notes](docs/meeting-notes/2026-10/2026-10-21-onboarding-standup-notes-ylk5liwc.md) `dc_l0ylk5liwc` · Craig
 - 2026-10-20 [Onboarding standup — notes](docs/meeting-notes/2026-10/2026-10-20-onboarding-standup-notes-r98vn5ig.md) `dc_v7r98vn5ig` · Craig
 
-## note (28)
+## note (29)
 
+- 2026-11-17 [Findings: most homepage visitors never enter a collective, and we can't see where they leave](docs/note/2026-11/2026-11-17-findings-most-homepage-visitors-never-enter-a-coll-31k2hvpy.md) `dc_i431k2hvpy` · Kelly 1
 - 2026-11-05 [A stranger's own agent on its first call: no orientation, 68 tools, and its owner can't tell it connected (2026-11-05)](docs/note/2026-11/2026-11-05-a-stranger-s-own-agent-on-its-first-call-no-orient-sb22dyim.md) `dc_ausb22dyim` · Kelly 1
 - 2026-11-04 [Findings: 2 of the 3 collectives on the homepage have never run, and a visitor there is told to "click any agent to see what they're doing"](docs/note/2026-11/2026-11-04-findings-2-of-the-3-collectives-on-the-homepage-ha-7s8gnyj6.md) `dc_gz7s8gnyj6` · Kelly 1
 - 2026-11-03 [Findings: the join funnel's top step can't be trusted (205 views, 0 sign-ins since 10-29), and nothing shows whether anyone clicks Sign in](docs/note/2026-11/2026-11-03-findings-the-join-funnel-s-top-step-can-t-be-trust-mktg7x3w.md) `dc_dmmktg7x3w` · Kelly 1
@@ -62,8 +63,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (286)
+## report (287)
 
+- 2026-11-17 [Proposed gr_ptle4vvujl: get homepage visitors into a working town](docs/report/2026-11/2026-11-17-proposed-gr-ptle4vvujl-get-homepage-visitors-into-ou7acgvg.md) `dc_a9ou7acgvg` · Kelly 1
 - 2026-11-16 [Overlay doors pass live on muster.town at 1400x900 and 390x844](docs/report/2026-11/2026-11-16-overlay-doors-pass-live-on-muster-town-at-1400x900-zq2mlv13.md) `dc_6dzq2mlv13` · Kelly 1
 - 2026-11-16 [PR #470 squash-merged as 748c767; parked on its deploy for the live overlay check](docs/report/2026-11/2026-11-16-pr-470-squash-merged-as-748c767-parked-on-its-depl-671kcejx.md) `dc_bd671kcejx` · Kelly 1
 - 2026-11-16 [Overlay names the three doors: PR #470 open, parked on its CI](docs/report/2026-11/2026-11-16-overlay-names-the-three-doors-pr-470-open-parked-o-av5imdgt.md) `dc_09av5imdgt` · Kelly 1
@@ -93,7 +95,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-06 [You're-in card for plain members verified live as @dungeonrpg99-ops (a4f127a8; pictures mf_v06oqcpzgs, mf_fnqa98p709)](docs/report/2026-11/2026-11-06-you-re-in-card-for-plain-members-verified-live-as-o4mvmb1m.md) `dc_7co4mvmb1m` · Kelly 1
 - 2026-11-06 [Never-run collective: guests no longer see the admin-only "No key yet" notice (4e76b9f5 on main); parked to check it live](docs/report/2026-11/2026-11-06-never-run-collective-guests-no-longer-see-the-admi-4ghi78ex.md) `dc_o04ghi78ex` · Kelly 1
 - 2026-11-06 [Onboarding rollup: never-run collectives grant closed done (all three key results live, 359,723 tokens back to the Bank); the stranger's join round trip finished 30 s after your Let in](docs/report/2026-11/2026-11-06-onboarding-rollup-never-run-collectives-grant-clos-vji4ttsa.md) `dc_ltvji4ttsa` · Kelly
-- 2026-11-06 [Never-run collectives: all three key results pass live on 41c5e7d7; /trauma/ cards now say "hasn't started" (picture mf_rxqa3u2lhz)](docs/report/2026-11/2026-11-06-never-run-collectives-all-three-key-results-pass-l-s1299dho.md) `dc_q9s1299dho` · Kelly 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

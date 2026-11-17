@@ -29572,5 +29572,113 @@
     "state": "building",
     "buildingId": "bl_vd69s5a1nh",
     "createdAt": "2026-11-17T02:31:08.718Z"
+  },
+  {
+    "id": "dc_pg9g61u7om",
+    "path": "buildings/town-hall/docs/article/2026-11/2026-11-17-the-decision-queue-9g61u7om.md",
+    "title": "The decision queue",
+    "type": "article",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-17T02:31:55.139Z"
+  },
+  {
+    "id": "dc_2mqxtdpork",
+    "path": "buildings/town-hall/docs/article/2026-11/2026-11-17-jobs-and-threads-qxtdpork.md",
+    "title": "Jobs and threads",
+    "type": "article",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-17T02:32:12.787Z"
+  },
+  {
+    "id": "dc_ijxii2losn",
+    "path": "buildings/town-hall/docs/report/2026-11/2026-11-17-two-town-pages-written-for-the-pin-mapping-the-dec-xii2losn.md",
+    "title": "Two town pages written for the pin mapping: \"The decision queue\" dc_pg9g61u7om and \"Jobs and threads\" dc_2mqxtdpork; manual points at them",
+    "type": "report",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-17T02:34:00.873Z"
+  },
+  {
+    "id": "dc_cjihsuf48q",
+    "path": "buildings/bl_xvgnd1fvh6/docs/note/2026-11/2026-11-17-findings-no-alert-fires-when-the-live-server-falls-ihsuf48q.md",
+    "title": "Findings: no alert fires when the live server falls behind prod (8.5 h stuck on 11-16/17)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-17T03:27:11.807Z"
+  },
+  {
+    "id": "dc_brmyua9vvt",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-17-exploration-no-alert-fires-when-live-falls-behind-myua9vvt.md",
+    "title": "Exploration: no alert fires when live falls behind prod; proposed gr_h2iocyzfjm (200k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-17T03:27:45.795Z"
+  },
+  {
+    "id": "dc_i431k2hvpy",
+    "path": "buildings/bl_hzjw0z0zlz/docs/note/2026-11/2026-11-17-findings-most-homepage-visitors-never-enter-a-coll-31k2hvpy.md",
+    "title": "Findings: most homepage visitors never enter a collective, and we can't see where they leave",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-17T03:28:33.254Z"
+  },
+  {
+    "id": "dc_94qevcrr7x",
+    "path": "buildings/workshop/docs/note/2026-11/2026-11-17-findings-the-gate-card-s-suggested-adjust-double-c-qevcrr7x.md",
+    "title": "Findings: the gate card's suggested adjust double-counts the step in flight (Pins grant: town said 400,000, need was about 50,000)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-17T03:29:10.624Z"
+  },
+  {
+    "id": "dc_a9ou7acgvg",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-17-proposed-gr-ptle4vvujl-get-homepage-visitors-into-ou7acgvg.md",
+    "title": "Proposed gr_ptle4vvujl: get homepage visitors into a working town",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-17T03:29:14.955Z"
+  },
+  {
+    "id": "dc_rg04wgtxdm",
+    "path": "buildings/bl_vef3v0oux0/docs/note/2026-11/2026-11-17-findings-the-bank-has-no-picture-of-spend-over-tim-04wgtxdm.md",
+    "title": "Findings: the Bank has no picture of spend over time (exploration as_wvcax4hiwu)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-17T03:29:34.925Z"
+  },
+  {
+    "id": "dc_zzyt8dg9yj",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-17-exploration-gate-cards-double-count-the-step-in-fl-yt8dg9yj.md",
+    "title": "Exploration: gate cards double-count the step in flight; proposed gr_76e81kdpvy (200,000)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-17T03:29:59.532Z"
+  },
+  {
+    "id": "dc_gaxv8zrlxr",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-17-exploration-proposed-a-30-day-day-by-day-spend-cha-xv8zrlxr.md",
+    "title": "Exploration: proposed a 30-day day-by-day spend chart for the Bank (gr_epbcgb0hvs)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-17T03:30:12.397Z"
+  },
+  {
+    "id": "dc_czlsou48el",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-17-live-check-not-run-live-is-still-at-5974c42b-lsou48el.md",
+    "title": "Live check not run: live is still at 5974c42b",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-17T03:30:18.711Z"
   }
 ]

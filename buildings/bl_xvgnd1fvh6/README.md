@@ -65,8 +65,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-25 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-25-1-1-mitchell-and-cleo-notes-c1nhkipz.md) `dc_5tc1nhkipz` · Cleo
 - 2026-10-21 [Prod standup — notes](docs/meeting-notes/2026-10/2026-10-21-prod-standup-notes-zkt5nqkf.md) `dc_78zkt5nqkf` · Dara
 
-## note (28)
+## note (29)
 
+- 2026-11-17 [Findings: no alert fires when the live server falls behind prod (8.5 h stuck on 11-16/17)](docs/note/2026-11/2026-11-17-findings-no-alert-fires-when-the-live-server-falls-ihsuf48q.md) `dc_cjihsuf48q` · Cleo 1
 - 2026-11-12 [Findings: a week of merge-to-live timings on muster.town, per phase (the 15-min debounce holds most of the minutes)](docs/note/2026-11/2026-11-12-findings-a-week-of-merge-to-live-timings-on-muster-evy5m5fn.md) `dc_7uevy5m5fn` · Cleo 1
 - 2026-11-05 [Findings: nobody outside can see whether muster.town stays up (2026-11-05 explore, Prod)](docs/note/2026-11/2026-11-05-findings-nobody-outside-can-see-whether-muster-tow-9axzw0qo.md) `dc_g09axzw0qo` · Cleo 1
 - 2026-11-04 [Findings: one in three muster.town restarts brings no new code, and it delays the real deploy by up to 15 min](docs/note/2026-11/2026-11-04-findings-one-in-three-muster-town-restarts-brings-yhrunhjo.md) `dc_abyhrunhjo` · Cleo 1
@@ -96,8 +97,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (352)
+## report (353)
 
+- 2026-11-17 [Exploration: no alert fires when live falls behind prod; proposed gr_h2iocyzfjm (200k)](docs/report/2026-11/2026-11-17-exploration-no-alert-fires-when-live-falls-behind-myua9vvt.md) `dc_brmyua9vvt` · Cleo 1
 - 2026-11-16 [Backup grant step 3 done: 19:00Z run peaked at 75 ms lag, cadence clean; restore proof waits on the drill](docs/report/2026-11/2026-11-16-backup-grant-step-3-done-19-00z-run-peaked-at-75-m-rgt859e6.md) `dc_7yrgt859e6` · Cleo 1
 - 2026-11-16 [PR #475 merged as b16c893c: Uptime block no-key wording done](docs/report/2026-11/2026-11-16-pr-475-merged-as-b16c893c-uptime-block-no-key-word-x2fu8uv1.md) `dc_trx2fu8uv1` · Cleo 1
 - 2026-11-16 [Uptime block no-key wording: PR #475 open, parked on CI](docs/report/2026-11/2026-11-16-uptime-block-no-key-wording-pr-475-open-parked-on-ofgjydsw.md) `dc_xnofgjydsw` · Cleo 1
@@ -127,7 +129,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-12 [UptimeRobot plan for a fresh uptime grant: Mitchell's clicks, remove the probe path, 3 steps](docs/report/2026-11/2026-11-12-uptimerobot-plan-for-a-fresh-uptime-grant-mitchell-ru1yhb9a.md) `dc_t5ru1yhb9a` · Cleo 1
 - 2026-11-12 [Grant gr_rcj8nkbkbt cut](docs/report/2026-11/2026-11-12-grant-gr-rcj8nkbkbt-cut-c7bkbhzw.md) `dc_boc7bkbhzw` · Town
 - 2026-11-12 [Session ended without a report: gr_rcj8nkbkbt replan: a scheduled GitHub Actions workflow probes /api/health and posts to /api/uptime/probes (no Wright, fewest clicks for Mitchell)](docs/report/2026-11/2026-11-12-session-ended-without-a-report-gr-rcj8nkbkbt-repla-4k1e1z1q.md) `dc_ow4k1e1z1q` · Cleo 1
-- 2026-11-12 [Message from Mitchell (via Secretary): Supersedes my message of a few minutes ago (dc_bskxxba2my): Mitchell changed hi…](docs/report/2026-11/2026-11-12-message-from-mitchell-via-secretary-supersedes-my-cwuz1kn3.md) `dc_3xcwuz1kn3` · Town
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
