@@ -10,9 +10,9 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_vef3v0oux0"
 createdAt: "2026-10-29T03:53:45.499Z"
-updatedAt: "2026-11-04T03:04:43.511Z"
+updatedAt: "2026-11-17T18:27:27.034Z"
 ---
-State 2026-11-04 03:05Z. **Verified live signed out at a092a79** (PR #296). The Bank is a **centered sheet** over the map and opens on **Donate**. For the rebuild plan, step state and measurements see [dc_we5nqevv40](../2026-11/2026-11-03-bank-sheet-rebuild-gr-567tikzitl-plan-and-state-5nqevv40.md). Endpoints and live numbers: [dc_tkzoy81p4b](2026-10-29-the-three-finance-endpoints-their-sum-checks-and-l-zoy81p4b.md). Picture method: [dc_xeui247glt](2026-10-29-finance-page-pictures-and-layout-checks-ui247glt.md).
+State 2026-11-17 (health read 18:26Z). **Verified live signed out at a092a79** (PR #296); Day by day chart verified live at d863e456 (PR #488). The Bank is a **centered sheet** over the map and opens on **Donate**. For the rebuild plan, step state and measurements see [dc_we5nqevv40](../2026-11/2026-11-03-bank-sheet-rebuild-gr-567tikzitl-plan-and-state-5nqevv40.md). Endpoints and live numbers: [dc_tkzoy81p4b](2026-10-29-the-three-finance-endpoints-their-sum-checks-and-l-zoy81p4b.md). Picture method: [dc_xeui247glt](2026-10-29-finance-page-pictures-and-layout-checks-ui247glt.md).
 
 **Layout.** `BankSheet.tsx` (tabs on the left in `nav.bank-tabs`, `.bank-tab.on` = the current one) wraps `BankView` (BankPanel.tsx).
 - `.bank-main` = `BankTab`, which holds tables only.
@@ -20,7 +20,7 @@ State 2026-11-04 03:05Z. **Verified live signed out at a092a79** (PR #296). The 
 
 Tabs:
 - **Donate**: `Donate` form (signed out: "Sign in to donate."), then `FundingNow` "Funding the town now" (active inputs + building donations). Sidebar: `DonateAbout`.
-- **Balance**: the Balance table, with the line "Free for exploration N", then Next 30 days and Top contributors. Sidebar: FinanceIntro, `FreeTokensSum`, ProjectionAbout.
+- **Balance**: first the "Day by day" section (`BankDaily.tsx` `DailyChart`, `.daily-chart`: 30-day stacked bars of used by the 4 largest buildings + Other, a Credited line, hover/tab tooltip `.daily-tip`, a ✓ line from `dailyCheck`, then "The numbers as a table"; data = /api/finance `daily`; pictures mf_sw98zb5o3z, hover on 2026-11-16 mf_hgj3foosoq; test web/test/bankDaily.test.tsx), then the Balance table, with the line "Free for exploration N", then Next 30 days and Top contributors. Sidebar: FinanceIntro, `FreeTokensSum`, ProjectionAbout.
 - **Inputs**: TokensView, BankInputs, BankStreamsSection, SourcesView.
 - **Spending**: BankSpending.
 - **Hosting**: FlyView.
@@ -37,6 +37,6 @@ The Free tokens tab, BankFreeTokens and FreeTokensTree are gone. FreeTokensLine,
 
 **Live URL:** `https://muster.town/workshop/?guest#/bank`. A first-visit overlay appears there: Escape `.hiw-backdrop` / click "Skip". Esc, × and the backdrop close the sheet. To photograph the Bank room as a guest, dismiss the overlay, then click the gold Bank on the minimap (≈(97,818) at 1400×900): the guest walks into the room in about 20 s. Map clicks and the -/+ keys only work after the overlay is gone. `window.__muster` exists only in dev/mock builds.
 
-**Tests.** `web/test/bankSheet.test.tsx` covers the tabs and checks that prose is in the sidebar. `finance.test.tsx` renders BankView per tab. Also `bank-sign.test.ts` and the schema test for BANK_TABS, the chest and `bank:free`. **Mock:** `VITE_MOCK=1 npx vite --port 5199` → localhost:5199/workshop/#/bank. Never `pkill -f` a string that is in your own command line.
+**Tests.** `web/test/bankSheet.test.tsx` covers the tabs and checks that prose is in the sidebar. `finance.test.tsx` renders BankView per tab. `bankDaily.test.tsx` covers the chart. Also `bank-sign.test.ts` and the schema test for BANK_TABS, the chest and `bank:free`. **Mock:** `VITE_MOCK=1 npx vite --port 5199` → localhost:5199/workshop/#/bank. Never `pkill -f` a string that is in your own command line.
 
-Sources: PR #296 ([dc_xkkzmyrv6n](../../report/2026-11/2026-11-04-gr-567tikzitl-step-2-donate-first-chest-free-token-kzmyrv6n.md), [dc_jo1kkik5ik](../../report/2026-11/2026-11-04-gr-567tikzitl-step-2-pr-296-merged-as-a092a79-rede-1kkik5ik.md)), as_7vx2zy1iy7 (mf_f5a02xnh7z, mf_di4e9jjlz4, mf_6hunrv2tyr); PR #294 (as_0k98dawkxh).
+Sources: PR #296 ([dc_xkkzmyrv6n](../../report/2026-11/2026-11-04-gr-567tikzitl-step-2-donate-first-chest-free-token-kzmyrv6n.md), [dc_jo1kkik5ik](../../report/2026-11/2026-11-04-gr-567tikzitl-step-2-pr-296-merged-as-a092a79-rede-1kkik5ik.md)), as_7vx2zy1iy7 (mf_f5a02xnh7z, mf_di4e9jjlz4, mf_6hunrv2tyr); PR #294 (as_0k98dawkxh); PR #488 / gr_epbcgb0hvs ([dc_69oov4ww1y](../../report/2026-11/2026-11-17-day-by-day-pr-488-open-daily-dailycheck-on-api-fin-oov4ww1y.md), as_y65h4nkjr4).

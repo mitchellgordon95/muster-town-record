@@ -30076,5 +30076,41 @@
     "state": "building",
     "buildingId": "town-hall",
     "createdAt": "2026-11-17T07:00:52.147Z"
+  },
+  {
+    "id": "dc_sqcs70fe5a",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-17-1-1-mitchell-and-secretary-notes-cs70fe5a.md",
+    "title": "1:1: Mitchell and Secretary — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-17T18:25:57.552Z"
+  },
+  {
+    "id": "dc_f1ex6z35gm",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-17-1-1-fix-f83b8f50-is-live-live-screenshot-needs-a-h-ex6z35gm.md",
+    "title": "1:1 fix f83b8f50 is live; live screenshot needs a human-opened 1:1",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-17T18:27:21.279Z"
+  },
+  {
+    "id": "dc_qr8lxbkfwo",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-17-day-by-day-chart-is-live-and-verified-signed-out-c-8lxbkfwo.md",
+    "title": "Day by day chart is live and verified signed out; check:finance 60/60; both key results claimable",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-17T18:27:39.001Z"
+  },
+  {
+    "id": "dc_w1n9c1x9jk",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-17-gate-facts-are-live-the-replay-suggests-100-000-no-n9c1x9jk.md",
+    "title": "Gate facts are live: the replay suggests 100,000, not 150,000, and names the step in flight",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-17T18:27:48.808Z"
   }
 ]

@@ -10,11 +10,10 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "workshop"
 createdAt: "2026-11-17T03:51:28.753Z"
-updatedAt: "2026-11-17T03:51:28.753Z"
+updatedAt: "2026-11-17T18:28:28.718Z"
 ---
-State on 2026-11-17 after step 1 (Pix 1, as_zvpqy40xa1). Findings [dc_94qevcrr7x](../../note/2026-11/2026-11-17-findings-the-gate-card-s-suggested-adjust-double-c-qevcrr7x.md), exploration report [dc_zzyt8dg9yj](../../report/2026-11/2026-11-17-exploration-gate-cards-double-count-the-step-in-fl-yt8dg9yj.md).
-- **Step 1 = PR #489** (draft, branch agent/pix-1/price-the-in-flight-step-at-gates-and-in), parked on its CI. Merge when green; no redeploy.
-- Change: core `expectedLeft` (grant-estimate.ts) prices a step in flight (spend booked, not done) at size × ratio − its spend, floor half the smallest size (25,000 at the seeded table), top-up as floor of the whole. It is used by fileForecast, gateFacts and expectedRemaining (the free-tokens earmark). gateFacts recomputes from step states. roundUpToStep now rounds to whole smallest sizes. New line "Step N is in flight: \"<latest report on that step>\". It has spent X tokens against its Y-token size…". Held projection wording: "At what its steps have left, it is projected to spend…".
-- Floor choice: the approach said the smallest size (50k). With round-up that would give 100,000 for the Pins case, not the KR's 50,000. Half the smallest gives 28,179 → 50,000. The real merge session cost 38,600.
-- Pins in test: 453,179 spent → projected 478,179 → suggests 50,000.
-- Step 2 (live check): once #489 is live, read the next gate need's Suggested and in-flight lines, or replay from live numbers.
+**CLOSED AS DONE 2026-11-17 18:3xZ** by Pix (manager): 184,066 of 200,000 spent, 15,934 returned; both KRs (kr_2twaqxsgem, kr_o1hqfjrqs6) met. Reports: step 1 [dc_94qevcrr7x](../../note/2026-11/2026-11-17-findings-the-gate-card-s-suggested-adjust-double-c-qevcrr7x.md), step 2 [dc_w1n9c1x9jk](../../report/2026-11/2026-11-17-gate-facts-are-live-the-replay-suggests-100-000-no-n9c1x9jk.md) (closing evidence). Two shipped notices filed.
+- **PR #489 (21c9c3ff) live** at d863e456 (health startedAt 2026-11-17T18:26:02Z).
+- Change: core `expectedLeft` (grant-estimate.ts) prices a step in flight at size × ratio − its spend, floor half the smallest size (25,000 at the seeded table). Used by fileForecast, gateFacts and expectedRemaining (free-tokens earmark). roundUpToStep rounds to whole smallest sizes. Gate body line: "Step N is in flight: \"<latest report on that step>\". It has spent X tokens against its Y-token size…".
+- Evidence: forecast-asks.test.ts (16 pass) prices the Pins case at 50,000 (was 400,000). By hand on gr_epbcgb0hvs at 18:27Z: step 2 (S) in flight at 15,510, S ratio 1.63 (n=3), 65,990 left, projected 254,937 of 200,000, suggests 100,000 (old code 150,000). The next real gate need on that thread (GET /api/jobs/gr_epbcgb0hvs) should show these lines.
+- Mitchell's open questions on gate cards (1:1 mt_vdu3iqhasi 2026-11-17 18:18Z, with another agent): why gates fire at a small share of spend (115k of 400k), and what Adjust does when clicked. Not answered by this grant; watch for a directed ask.

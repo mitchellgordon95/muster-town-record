@@ -129,8 +129,9 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1214)
+## report (1215)
 
+- 2026-11-17 [Gate facts are live: the replay suggests 100,000, not 150,000, and names the step in flight](docs/report/2026-11/2026-11-17-gate-facts-are-live-the-replay-suggests-100-000-no-n9c1x9jk.md) `dc_w1n9c1x9jk` · Pix 1
 - 2026-11-17 [Why Outreach ran no exploration: root explore off for 6 days, then the town cap filled before its turn](docs/report/2026-11/2026-11-17-why-outreach-ran-no-exploration-root-explore-off-f-8pbvg0td.md) `dc_q48pbvg0td` · Pix 1
 - 2026-11-17 [Gate facts live check: parked until 21c9c3ff is live](docs/report/2026-11/2026-11-17-gate-facts-live-check-parked-until-21c9c3ff-is-liv-q9p2nmeo.md) `dc_h0q9p2nmeo` · Pix 2
 - 2026-11-17 [PR #489 merged (21c9c3ff): gate step-in-flight pricing](docs/report/2026-11/2026-11-17-pr-489-merged-21c9c3ff-gate-step-in-flight-pricing-qpl53mbx.md) `dc_vqqpl53mbx` · Pix 1
@@ -160,7 +161,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-15 [Queue health step 3 live: Town health tab shows queue-health and legible rows](docs/report/2026-11/2026-11-15-queue-health-step-3-live-town-health-tab-shows-que-9xwqjq44.md) `dc_a59xwqjq44` · Pix 1
 - 2026-11-15 [Secretary stands north of the hydrant on the live map (flag dc_zkzi4xnue4 done)](docs/report/2026-11/2026-11-15-secretary-stands-north-of-the-hydrant-on-the-live-01qc2vr2.md) `dc_3x01qc2vr2` · Pix 1
 - 2026-11-15 [PR #465 merged (8d85244a): goal proposals on the thread](docs/report/2026-11/2026-11-15-pr-465-merged-8d85244a-goal-proposals-on-the-threa-bq91wmyw.md) `dc_dobq91wmyw` · Pix 2
-- 2026-11-15 [PR #464 merged (7e1a38aa); waiting for deploy to check the Town health tab](docs/report/2026-11/2026-11-15-pr-464-merged-7e1a38aa-waiting-for-deploy-to-check-l7i3yfjd.md) `dc_nml7i3yfjd` · Pix 3
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

@@ -38,8 +38,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (221)
+## report (222)
 
+- 2026-11-17 [1:1 fix f83b8f50 is live; live screenshot needs a human-opened 1:1](docs/report/2026-11/2026-11-17-1-1-fix-f83b8f50-is-live-live-screenshot-needs-a-h-ex6z35gm.md) `dc_f1ex6z35gm` · Teo 1
 - 2026-11-17 [PR #494 green and squash-merged (d863e456)](docs/report/2026-11/2026-11-17-pr-494-green-and-squash-merged-d863e456-irbuts8t.md) `dc_9airbuts8t` · Teo 2
 - 2026-11-17 [PR #492 green and squash-merged (f83b8f50); parked until it is live for the 1:1 screenshot](docs/report/2026-11/2026-11-17-pr-492-green-and-squash-merged-f83b8f50-parked-unt-e8oxiqyu.md) `dc_oge8oxiqyu` · Teo 1
 - 2026-11-17 [PR #493 green and squash-merged (46669b9d)](docs/report/2026-11/2026-11-17-pr-493-green-and-squash-merged-46669b9d-ijnvk01z.md) `dc_a1ijnvk01z` · Teo 1
@@ -69,7 +70,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-10 [327109bf is live: hydrant draws one water-blue ask stream](docs/report/2026-11/2026-11-10-327109bf-is-live-hydrant-draws-one-water-blue-ask-ttiyeks3.md) `dc_3wttiyeks3` · Teo 1
 - 2026-11-10 [Message from Mitchell (via Secretary): Teo: Mitchell rejected gr_irjtu6tknu ("Guests read reports and grants by name")…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-secretary-teo-mitchell-r-i4pti3nl.md) `dc_pxi4pti3nl` · Town
 - 2026-11-10 [PR #414 merged as 327109bf (hydrant: one water-blue ask stream); parked on its deploy](docs/report/2026-11/2026-11-10-pr-414-merged-as-327109bf-hydrant-one-water-blue-a-uva310iu.md) `dc_piuva310iu` · Teo 1
-- 2026-11-10 [Grant gr_irjtu6tknu rejected: read the note](docs/report/2026-11/2026-11-10-grant-gr-irjtu6tknu-rejected-read-the-note-s9y6made.md) `dc_6ds9y6made` · Town
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

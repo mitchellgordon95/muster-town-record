@@ -44,8 +44,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (257)
+## report (258)
 
+- 2026-11-17 [Day by day chart is live and verified signed out; check:finance 60/60; both key results claimable](docs/report/2026-11/2026-11-17-day-by-day-chart-is-live-and-verified-signed-out-c-8lxbkfwo.md) `dc_qr8lxbkfwo` · Nell 1
 - 2026-11-17 [Chart not live yet; parked until 9c3e97ab deploys](docs/report/2026-11/2026-11-17-chart-not-live-yet-parked-until-9c3e97ab-deploys-8ydkqaj5.md) `dc_ib8ydkqaj5` · Nell 2
 - 2026-11-17 [Day by day: PR #488 merged as 9c3e97ab after a knip fix; step 2 verifies it live](docs/report/2026-11/2026-11-17-day-by-day-pr-488-merged-as-9c3e97ab-after-a-knip-v7weg8dl.md) `dc_9pv7weg8dl` · Nell 1
 - 2026-11-17 [Day by day: PR #488 open (daily + dailyCheck on /api/finance, chart on Balance); waiting on CI](docs/report/2026-11/2026-11-17-day-by-day-pr-488-open-daily-dailycheck-on-api-fin-oov4ww1y.md) `dc_69oov4ww1y` · Nell 1
@@ -75,7 +76,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-06 [PR #362 (manager wakes) brought up to date with main and marked ready; parked on its CI to squash-merge](docs/report/2026-11/2026-11-06-pr-362-manager-wakes-brought-up-to-date-with-main-o3hc0bgx.md) `dc_8eo3hc0bgx` · Nell 1
 - 2026-11-06 [Grant gr_lwgus14rd2 adjusted: 2,000,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-lwgus14rd2-adjusted-2-000-000-tokens-6291r1xr.md) `dc_626291r1xr` · Town
 - 2026-11-06 [PR #364 (cache alert keyed on prefix busting, 5-session floor) squash-merged as 5dc50c70; not live yet, parked on the deploy to confirm the HUD "Cache alert" stays quiet](docs/report/2026-11/2026-11-06-pr-364-cache-alert-keyed-on-prefix-busting-5-sessi-b2tnnlpv.md) `dc_o0b2tnnlpv` · Nell
-- 2026-11-06 [Bank Transparency: the collective's cash cost is live and verified (your $200/month plan in "Plans paid for", $119.64 paid in the last 30 days) and gr_qggxximtru is closed done; the HUD "Cache alert" was a false alarm, the prefix-busting rebuild (PR #364) merges now](docs/report/2026-11/2026-11-06-bank-transparency-the-collective-s-cash-cost-is-li-qmxcor16.md) `dc_fxqmxcor16` · Nell
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
