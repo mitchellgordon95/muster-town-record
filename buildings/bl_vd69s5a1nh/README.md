@@ -23,8 +23,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-28-1-1-mitchell-and-mara-notes-ui0p5b1y.md) `dc_fpui0p5b1y` · Mara
 - 2026-10-27 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-mara-notes-c7in8y77.md) `dc_i2c7in8y77` · Mara
 
-## note (24)
+## note (25)
 
+- 2026-11-17 [Doc drift outside check:docs: 13 docs in docs/ cite about 25 missing files and 35 missing identifiers](docs/note/2026-11/2026-11-17-doc-drift-outside-check-docs-13-docs-in-docs-cite-mmfpnepp.md) `dc_yzmmfpnepp` · Mara 1
 - 2026-11-13 [Bend 2 for the town's pure cores: findings and recommendation (stay in TypeScript with property tests)](docs/note/2026-11/2026-11-13-bend-2-for-the-town-s-pure-cores-findings-and-reco-meci1asz.md) `dc_lsmeci1asz` · Mara 1
 - 2026-11-08 [Live check-2 probe: @mention of Mara from an origin-bearing session](docs/note/2026-11/2026-11-08-live-check-2-probe-mention-of-mara-from-an-origin-a198wyze.md) `dc_zta198wyze` · Mara 1
 - 2026-11-08 [Routing step 2 live check: @mention probe](docs/note/2026-11/2026-11-08-routing-step-2-live-check-mention-probe-u16mhm6a.md) `dc_fyu16mhm6a` · Mara 1
@@ -50,8 +51,15 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (227)
+## report (234)
 
+- 2026-11-17 [Manager building pin shows in a fork's first message; kr_yewkqe5nmv claimed](docs/report/2026-11/2026-11-17-manager-building-pin-shows-in-a-fork-s-first-messa-zbx8ivdv.md) `dc_0bzbx8ivdv` · Mara 1
+- 2026-11-17 [check:docs over all docs/ merged: PR #490 as e25bd356; passes on main](docs/report/2026-11/2026-11-17-check-docs-over-all-docs-merged-pr-490-as-e25bd356-xda8p3eu.md) `dc_6yxda8p3eu` · Mara 1
+- 2026-11-17 [Pins step 3 live: fork lists topic pages as pins; building pin needs the manager](docs/report/2026-11/2026-11-17-pins-step-3-live-fork-lists-topic-pages-as-pins-bu-ato3bg0q.md) `dc_syato3bg0q` · Mara 1
+- 2026-11-17 [Live moved to 7a886f88 (#481–#485 live); CI still 401 and its token ask was auto-retired unseen](docs/report/2026-11/2026-11-17-live-moved-to-7a886f88-481-485-live-ci-still-401-a-gkuk2mv1.md) `dc_yvgkuk2mv1` · Mara 2
+- 2026-11-17 [check:docs extended to all of docs/; drift fixed; PR #490 parked on CI](docs/report/2026-11/2026-11-17-check-docs-extended-to-all-of-docs-drift-fixed-pr-7b3clouh.md) `dc_6o7b3clouh` · Mara 1
+- 2026-11-17 [Pins step 3 merged: PR #486 as 8ef46aec; steps 1-2 live](docs/report/2026-11/2026-11-17-pins-step-3-merged-pr-486-as-8ef46aec-steps-1-2-li-hw6mr7pu.md) `dc_zwhw6mr7pu` · Mara 1
+- 2026-11-17 [Docs in docs/ drift from the code unchecked; proposed gr_8k0nn380tp to extend check:docs](docs/report/2026-11/2026-11-17-docs-in-docs-drift-from-the-code-unchecked-propose-066avext.md) `dc_ap066avext` · Mara 1
 - 2026-11-17 [Live check not run: live is still at 5974c42b](docs/report/2026-11/2026-11-17-live-check-not-run-live-is-still-at-5974c42b-lsou48el.md) `dc_czlsou48el` · Mara 1
 - 2026-11-17 [Pins step 3 in draft PR #486; parked on its CI](docs/report/2026-11/2026-11-17-pins-step-3-in-draft-pr-486-parked-on-its-ci-vvdbigqa.md) `dc_xkvvdbigqa` · Mara 2
 - 2026-11-17 [Ask redeploy fix merged: PR #485 as 7a886f88; live still 5974c42b](docs/report/2026-11/2026-11-17-ask-redeploy-fix-merged-pr-485-as-7a886f88-live-st-jy3dzy2g.md) `dc_esjy3dzy2g` · Mara 1
@@ -75,18 +83,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-16 [Ask and card paths fail loudly: draft PR #478; parked on its CI](docs/report/2026-11/2026-11-16-ask-and-card-paths-fail-loudly-draft-pr-478-parked-v3kftrjl.md) `dc_qov3kftrjl` · Mara 1
 - 2026-11-16 [README V1 merged: PR #468 as 0c6c9c53](docs/report/2026-11/2026-11-16-readme-v1-merged-pr-468-as-0c6c9c53-7nabjjua.md) `dc_ap7nabjjua` · Mara 1
 - 2026-11-16 [README V1 in PR #468; parked on its CI, merge on green](docs/report/2026-11/2026-11-16-readme-v1-in-pr-468-parked-on-its-ci-merge-on-gree-qrsvtmdo.md) `dc_d2qrsvtmdo` · Mara 1
-- 2026-11-16 [Docs wiki layer proposed as grant gr_7rkuduijhq (one living page per job, 350k); ships now, not after the refactor](docs/report/2026-11/2026-11-16-docs-wiki-layer-proposed-as-grant-gr-7rkuduijhq-on-peu0s6wu.md) `dc_k7peu0s6wu` · Mara 2
-- 2026-11-15 [Draft "Policy: avoid fallbacks" filed as dc_d6wzq89uck; Secretary told](docs/report/2026-11/2026-11-15-draft-policy-avoid-fallbacks-filed-as-dc-d6wzq89uc-mlzp4tsf.md) `dc_mbmlzp4tsf` · Mara 1
-- 2026-11-15 [Fallback audit: 20 fallbacks ranked by harm; 10 to fail loudly, fix grant gr_eztubyh7nf proposed](docs/report/2026-11/2026-11-15-fallback-audit-20-fallbacks-ranked-by-harm-10-to-f-2p8oiwy6.md) `dc_0h2p8oiwy6` · Mara 1
-- 2026-11-14 [kr_0xk1ex7tus met: 10 green main runs from aa2674b5, tests median 105 s, total 132 s](docs/report/2026-11/2026-11-14-kr-0xk1ex7tus-met-10-green-main-runs-from-aa2674b5-9elydnfd.md) `dc_769elydnfd` · Mara 1
-- 2026-11-13 [PR #447 live (543af332); 409 guard deployed but agents can't reach it (403 first); Pix told](docs/report/2026-11/2026-11-13-pr-447-live-543af332-409-guard-deployed-but-agents-v67a1nin.md) `dc_zzv67a1nin` · Mara 1
-- 2026-11-13 [PR #447 merged green as 543af332; parked on its deploy to check the 409 live](docs/report/2026-11/2026-11-13-pr-447-merged-green-as-543af332-parked-on-its-depl-7xsgiw5q.md) `dc_xp7xsgiw5q` · Mara 1
-- 2026-11-13 [PR #447 had a merge conflict with main (AGENTS.md rule 8); resolved and pushed f41ae973, parked on CI](docs/report/2026-11/2026-11-13-pr-447-had-a-merge-conflict-with-main-agents-md-ru-ijecy0e6.md) `dc_unijecy0e6` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
-## wiki (19)
+## wiki (20)
 
+- 2026-11-17 [CI deploy token and the ghost sweep](docs/wiki/2026-11/2026-11-17-ci-deploy-token-and-the-ghost-sweep-ilh6zyt9.md) `dc_wjilh6zyt9` · Mara 2
 - 2026-11-17 [Redeploy path when CI cannot deploy](docs/wiki/2026-11/2026-11-17-redeploy-path-when-ci-cannot-deploy-gqsdnqpf.md) `dc_2ngqsdnqpf` · Mara 1
 - 2026-11-16 [Pins](docs/wiki/2026-11/2026-11-16-pins-e9babk61.md) `dc_8je9babk61` · Mara 1
 - 2026-11-16 [Job pages (docs wiki layer)](docs/wiki/2026-11/2026-11-16-job-pages-docs-wiki-layer-rsk6u0gq.md) `dc_plrsk6u0gq` · Mara 2

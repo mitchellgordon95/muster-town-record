@@ -4,8 +4,11 @@ Goal: Make Muster Town beautiful and intuitive
 
 Published docs (the board and the filing cabinet), newest first. Drafts are private and not exported.
 
-## flag (6)
+## flag (9)
 
+- 2026-11-17 [also nit: uncollapse the quick action buttons on the building's overview page. we've taken progressive disclosure a tou…](docs/flag/2026-11/2026-11-17-also-nit-uncollapse-the-quick-action-buttons-on-th-yij2euj6.md) `dc_7jyij2euj6` · Mitchell
+- 2026-11-17 [in progress tool calls in a 1:1 with a manager aren't showing up. sometimes it shows a "Working..." progress text (i fo…](docs/flag/2026-11/2026-11-17-in-progress-tool-calls-in-a-1-1-with-a-manager-are-duwk2af8.md) `dc_1nduwk2af8` · Mitchell
+- 2026-11-17 [the drag and drop residents only kind of works? why does the desk come with the resident? i'm literally just asking for…](docs/flag/2026-11/2026-11-17-the-drag-and-drop-residents-only-kind-of-works-why-wkuhoh1l.md) `dc_d2wkuhoh1l` · Mitchell
 - 2026-11-16 [ok actually let me just click and drag residents to new locations in the UI, if i want them somewhere else. like with a…](docs/flag/2026-11/2026-11-16-ok-actually-let-me-just-click-and-drag-residents-t-6oelioq5.md) `dc_mf6oelioq5` · Mitchell
 - 2026-11-15 [move the fire hydrant from the corner to where the outbox is today, and remove the outbox town object from the UI](docs/flag/2026-11/2026-11-15-move-the-fire-hydrant-from-the-corner-to-where-the-xcob2n9u.md) `dc_f3xcob2n9u` · Mitchell
 - 2026-11-06 [nit: error toasts in the intray (and probably elsewhere) have a lower z index than the main content modal so you can't …](docs/flag/2026-11/2026-11-06-nit-error-toasts-in-the-intray-and-probably-elsewh-a4gawacy.md) `dc_2ya4gawacy` · Mitchell
@@ -35,8 +38,15 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (214)
+## report (221)
 
+- 2026-11-17 [PR #494 green and squash-merged (d863e456)](docs/report/2026-11/2026-11-17-pr-494-green-and-squash-merged-d863e456-irbuts8t.md) `dc_9airbuts8t` · Teo 2
+- 2026-11-17 [PR #492 green and squash-merged (f83b8f50); parked until it is live for the 1:1 screenshot](docs/report/2026-11/2026-11-17-pr-492-green-and-squash-merged-f83b8f50-parked-unt-e8oxiqyu.md) `dc_oge8oxiqyu` · Teo 1
+- 2026-11-17 [PR #493 green and squash-merged (46669b9d)](docs/report/2026-11/2026-11-17-pr-493-green-and-squash-merged-46669b9d-ijnvk01z.md) `dc_a1ijnvk01z` · Teo 1
+- 2026-11-17 [PR #492 was red on a fast-map check; fixed (42c2d3b2), parked on CI](docs/report/2026-11/2026-11-17-pr-492-was-red-on-a-fast-map-check-fixed-42c2d3b2-udn038f0.md) `dc_jqudn038f0` · Teo 1
+- 2026-11-17 [Walk-to buttons always shown on Overview: PR #494, parked on CI to merge](docs/report/2026-11/2026-11-17-walk-to-buttons-always-shown-on-overview-pr-494-pa-13gltact.md) `dc_dh13gltact` · Teo 2
+- 2026-11-17 [Drag moves only the body: PR #493, parked on CI to merge](docs/report/2026-11/2026-11-17-drag-moves-only-the-body-pr-493-parked-on-ci-to-me-ni1daetw.md) `dc_q8ni1daetw` · Teo 1
+- 2026-11-17 [1:1 "is writing…" and live tool calls: cause found, fix in PR #492, parked on CI](docs/report/2026-11/2026-11-17-1-1-is-writing-and-live-tool-calls-cause-found-fix-2w3871ym.md) `dc_y42w3871ym` · Teo 2
 - 2026-11-16 [PR #477 green and squash-merged (77c6073c)](docs/report/2026-11/2026-11-16-pr-477-green-and-squash-merged-77c6073c-favbztpg.md) `dc_vbfavbztpg` · Teo 1
 - 2026-11-16 [Drag residents with a grasper hand: PR #477, parked on CI to merge](docs/report/2026-11/2026-11-16-drag-residents-with-a-grasper-hand-pr-477-parked-o-g4u1zha3.md) `dc_71g4u1zha3` · Teo 2
 - 2026-11-16 [PR #471 green and squash-merged (11f40a03)](docs/report/2026-11/2026-11-16-pr-471-green-and-squash-merged-11f40a03-cx0ooi9h.md) `dc_i4cx0ooi9h` · Teo 1
@@ -60,13 +70,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-10 [Message from Mitchell (via Secretary): Teo: Mitchell rejected gr_irjtu6tknu ("Guests read reports and grants by name")…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-secretary-teo-mitchell-r-i4pti3nl.md) `dc_pxi4pti3nl` · Town
 - 2026-11-10 [PR #414 merged as 327109bf (hydrant: one water-blue ask stream); parked on its deploy](docs/report/2026-11/2026-11-10-pr-414-merged-as-327109bf-hydrant-one-water-blue-a-uva310iu.md) `dc_piuva310iu` · Teo 1
 - 2026-11-10 [Grant gr_irjtu6tknu rejected: read the note](docs/report/2026-11/2026-11-10-grant-gr-irjtu6tknu-rejected-read-the-note-s9y6made.md) `dc_6ds9y6made` · Town
-- 2026-11-10 [Hydrant: one water-blue stream of asks, no straight jet (PR #414, parked on CI)](docs/report/2026-11/2026-11-10-hydrant-one-water-blue-stream-of-asks-no-straight-810rll04.md) `dc_47810rll04` · Teo 1
-- 2026-11-10 [b144a65e is live: retainer Counter form ("Tokens per run", "Ends") is in the live bundle](docs/report/2026-11/2026-11-10-b144a65e-is-live-retainer-counter-form-tokens-per-xjkdvdx0.md) `dc_y2xjkdvdx0` · Teo 1
-- 2026-11-10 [PR #410 merged as b144a65e (retainer Counter form); parked on its deploy](docs/report/2026-11/2026-11-10-pr-410-merged-as-b144a65e-retainer-counter-form-pa-b9bwzk69.md) `dc_e5b9bwzk69` · Teo 1
-- 2026-11-10 [Retainer Counter on the ask card takes tokens per run, end date and note (PR #410, parked on CI)](docs/report/2026-11/2026-11-10-retainer-counter-on-the-ask-card-takes-tokens-per-8f9btiqr.md) `dc_gb8f9btiqr` · Teo 1
-- 2026-11-10 [Message from Mitchell (via Teo 1): Understood: building only the retainer Counter form (tokens per run, end date, …](docs/report/2026-11/2026-11-10-message-from-mitchell-via-teo-1-understood-buildin-3erimr9p.md) `dc_183erimr9p` · Town
-- 2026-11-10 [Message from Mitchell (via Secretary): Teo: from Mitchell's 1:1 with me (mt_ewxnhs90cq), decision 3 (as_zpz8oa0ytu) re…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-secretary-teo-from-mitch-aijh8dsy.md) `dc_q4aijh8dsy` · Town
-- 2026-11-10 [Your asks take a note now: Done, Decline, Claim and Decline on request asks all carry your words to the agent who asked (live on 57a573df)](docs/report/2026-11/2026-11-10-your-asks-take-a-note-now-done-decline-claim-and-d-ftg9m0zp.md) `dc_21ftg9m0zp` · Teo
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -79,8 +82,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-31 [delight-walk](docs/skill/2026-10/2026-10-31-delight-walk-la62qft8.md) `dc_14la62qft8` · Teo 2
 - 2026-10-31 [map-bubble-sampler](docs/skill/2026-10/2026-10-31-map-bubble-sampler-h9yywhfl.md) `dc_6ph9yywhfl` · Teo 1
 
-## wiki (19)
+## wiki (20)
 
+- 2026-11-17 [1:1 live progress (writing line and tool calls)](docs/wiki/2026-11/2026-11-17-1-1-live-progress-writing-line-and-tool-calls-3sxczr6d.md) `dc_pm3sxczr6d` · Teo 2
 - 2026-11-16 [Drag residents with the grasper hand](docs/wiki/2026-11/2026-11-16-drag-residents-with-the-grasper-hand-rianpcp1.md) `dc_kmrianpcp1` · Teo 2
 - 2026-11-16 [Form drafts (useDraft)](docs/wiki/2026-11/2026-11-16-form-drafts-usedraft-om6k146h.md) `dc_a9om6k146h` · Teo 1
 - 2026-11-10 [Tool calls in 1:1s and meetings](docs/wiki/2026-11/2026-11-10-tool-calls-in-1-1s-and-meetings-xvocdq31.md) `dc_7hxvocdq31` · Teo 1

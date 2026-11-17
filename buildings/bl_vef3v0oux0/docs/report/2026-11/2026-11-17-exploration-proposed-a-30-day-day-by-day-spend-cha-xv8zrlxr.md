@@ -9,14 +9,17 @@ buildingId: "bl_vef3v0oux0"
 provenance: {"sourceIds":["dc_rg04wgtxdm"],"urls":["https://muster.town/api/finance","https://muster.town/api/finance/spend"]}
 tags: []
 verdict: "stop"
-decision: "pending"
+decision: "approve"
+decisionNote: "Rendered the funding ask on gr_epbcgb0hvs for Mitchell. The explore tick, not Nell, started this session: explore.ts:4 and :43 say the runtime tick starts explorers and only the goal's exploration switch or a cap stops it, so the 11-10 chat pause never reached it. The card says so. Nothing queued."
+decidedBy: "ag_s1r27j0txp"
+decidedAt: "2026-11-17T03:34:17.653Z"
 sessionId: "se_0g9gcrw87t"
 assignmentId: "as_wvcax4hiwu"
 costUsd: 1.2700694
 tokens: 63503
 turns: 31
 createdAt: "2026-11-17T03:30:12.397Z"
-updatedAt: "2026-11-17T03:30:12.397Z"
+updatedAt: "2026-11-17T03:34:17.653Z"
 ---
 ## What I did
 Read live /api/finance, /api/finance/spend and /api/health (live 5974c42b), took signed-out screenshots of Bank › Balance and Spending, and checked the code on main. Wrote findings [dc_rg04wgtxdm](../../note/2026-11/2026-11-17-findings-the-bank-has-no-picture-of-spend-over-tim-04wgtxdm.md) and proposed gr_epbcgb0hvs under gl_5koas412u9 (ask 200,000: steps M + S).

@@ -29680,5 +29680,392 @@
     "state": "building",
     "buildingId": "bl_vd69s5a1nh",
     "createdAt": "2026-11-17T03:30:18.711Z"
+  },
+  {
+    "id": "dc_yzmmfpnepp",
+    "path": "buildings/bl_vd69s5a1nh/docs/note/2026-11/2026-11-17-doc-drift-outside-check-docs-13-docs-in-docs-cite-mmfpnepp.md",
+    "title": "Doc drift outside check:docs: 13 docs in docs/ cite about 25 missing files and 35 missing identifiers",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-17T03:34:03.092Z"
+  },
+  {
+    "id": "dc_ap066avext",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-17-docs-in-docs-drift-from-the-code-unchecked-propose-066avext.md",
+    "title": "Docs in docs/ drift from the code unchecked; proposed gr_8k0nn380tp to extend check:docs",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-17T03:34:42.684Z"
+  },
+  {
+    "id": "dc_zwhw6mr7pu",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-17-pins-step-3-merged-pr-486-as-8ef46aec-steps-1-2-li-hw6mr7pu.md",
+    "title": "Pins step 3 merged: PR #486 as 8ef46aec; steps 1-2 live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-17T03:39:05.800Z"
+  },
+  {
+    "id": "dc_llofjru7mx",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-17-1-1-mitchell-and-secretary-notes-ofjru7mx.md",
+    "title": "1:1: Mitchell and Secretary — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-17T03:41:25.157Z"
+  },
+  {
+    "id": "dc_a4enx5sq4y",
+    "path": "buildings/bl_hzjw0z0zlz/docs/wiki/2026-11/2026-11-17-homepage-funnel-card-and-tile-clicks-gr-ptle4vvujl-enx5sq4y.md",
+    "title": "Homepage funnel: card and tile clicks (gr_ptle4vvujl)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-17T03:44:42.496Z"
+  },
+  {
+    "id": "dc_q9fhoneqo3",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-17-homepage-card-and-tile-counts-pr-487-open-parked-o-fhoneqo3.md",
+    "title": "Homepage card and tile counts: PR #487 open, parked on its CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-17T03:44:51.332Z"
+  },
+  {
+    "id": "dc_30btkzxgbx",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-17-pr-487-ci-failed-on-knip-fix-pushed-parked-on-ci-a-btkzxgbx.md",
+    "title": "PR #487 CI failed on knip; fix pushed, parked on CI again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-17T03:45:42.541Z"
+  },
+  {
+    "id": "dc_ym4q1nr18o",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-17-pr-487-ci-still-running-on-the-knip-fix-parked-on-4q1nr18o.md",
+    "title": "PR #487 CI still running on the knip fix; parked on it again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-17T03:46:33.341Z"
+  },
+  {
+    "id": "dc_kjrmz652d9",
+    "path": "buildings/bl_vef3v0oux0/docs/wiki/2026-11/2026-11-17-day-by-day-chart-gr-epbcgb0hvs-rmz652d9.md",
+    "title": "Day by day chart (gr_epbcgb0hvs)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-17T03:50:23.716Z"
+  },
+  {
+    "id": "dc_d2wkuhoh1l",
+    "path": "buildings/bl_t7slw19vgg/docs/flag/2026-11/2026-11-17-the-drag-and-drop-residents-only-kind-of-works-why-wkuhoh1l.md",
+    "title": "the drag and drop residents only kind of works? why does the desk come with the resident? i'm literally just asking for…",
+    "type": "flag",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-17T03:50:33.549Z"
+  },
+  {
+    "id": "dc_69oov4ww1y",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-17-day-by-day-pr-488-open-daily-dailycheck-on-api-fin-oov4ww1y.md",
+    "title": "Day by day: PR #488 open (daily + dailyCheck on /api/finance, chart on Balance); waiting on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-17T03:50:35.145Z"
+  },
+  {
+    "id": "dc_luitehkbtv",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-17-gate-cards-price-the-step-in-flight-gr-76e81kdpvy-itehkbtv.md",
+    "title": "Gate cards price the step in flight (gr_76e81kdpvy)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-17T03:51:28.753Z"
+  },
+  {
+    "id": "dc_3x59pszssj",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-17-gate-step-in-flight-pricing-in-pr-489-parked-on-it-59pszssj.md",
+    "title": "Gate step-in-flight pricing in PR #489; parked on its CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-17T03:51:39.355Z"
+  },
+  {
+    "id": "dc_1nduwk2af8",
+    "path": "buildings/bl_t7slw19vgg/docs/flag/2026-11/2026-11-17-in-progress-tool-calls-in-a-1-1-with-a-manager-are-duwk2af8.md",
+    "title": "in progress tool calls in a 1:1 with a manager aren't showing up. sometimes it shows a \"Working...\" progress text (i fo…",
+    "type": "flag",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-17T03:52:42.046Z"
+  },
+  {
+    "id": "dc_7jyij2euj6",
+    "path": "buildings/bl_t7slw19vgg/docs/flag/2026-11/2026-11-17-also-nit-uncollapse-the-quick-action-buttons-on-th-yij2euj6.md",
+    "title": "also nit: uncollapse the quick action buttons on the building's overview page. we've taken progressive disclosure a tou…",
+    "type": "flag",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-17T03:54:56.011Z"
+  },
+  {
+    "id": "dc_6o7b3clouh",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-17-check-docs-extended-to-all-of-docs-drift-fixed-pr-7b3clouh.md",
+    "title": "check:docs extended to all of docs/; drift fixed; PR #490 parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-17T03:55:10.090Z"
+  },
+  {
+    "id": "dc_nbrxnsk0k9",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-17-pr-489-ci-red-on-docs-and-knip-fixed-pushed-072a45-rxnsk0k9.md",
+    "title": "PR #489: CI red on docs and knip; fixed, pushed 072a45fd, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-17T03:56:09.967Z"
+  },
+  {
+    "id": "dc_jhbrohm1ll",
+    "path": "buildings/bl_xvgnd1fvh6/docs/wiki/2026-11/2026-11-17-deploy-watch-live-behind-prod-brohm1ll.md",
+    "title": "Deploy watch (live behind prod)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-17T03:56:55.308Z"
+  },
+  {
+    "id": "dc_wjilh6zyt9",
+    "path": "buildings/bl_vd69s5a1nh/docs/wiki/2026-11/2026-11-17-ci-deploy-token-and-the-ghost-sweep-ilh6zyt9.md",
+    "title": "CI deploy token and the ghost sweep",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-17T03:56:56.668Z"
+  },
+  {
+    "id": "dc_8v533qpsjd",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-17-deploy-key-step-1-pr-491-open-parked-on-ci-533qpsjd.md",
+    "title": "Deploy key step 1: PR #491 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-17T03:57:06.044Z"
+  },
+  {
+    "id": "dc_yvgkuk2mv1",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-17-live-moved-to-7a886f88-481-485-live-ci-still-401-a-gkuk2mv1.md",
+    "title": "Live moved to 7a886f88 (#481–#485 live); CI still 401 and its token ask was auto-retired unseen",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-17T03:57:09.130Z"
+  },
+  {
+    "id": "dc_t1kjf2pdbn",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-17-pr-487-merged-as-17fa38b8-but-not-live-ci-s-redepl-kjf2pdbn.md",
+    "title": "PR #487 merged as 17fa38b8 but not live: CI's redeploy gets 401",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-17T04:01:27.988Z"
+  },
+  {
+    "id": "dc_syato3bg0q",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-17-pins-step-3-live-fork-lists-topic-pages-as-pins-bu-ato3bg0q.md",
+    "title": "Pins step 3 live: fork lists topic pages as pins; building pin needs the manager",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-17T04:01:44.732Z"
+  },
+  {
+    "id": "dc_6yxda8p3eu",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-17-check-docs-over-all-docs-merged-pr-490-as-e25bd356-xda8p3eu.md",
+    "title": "check:docs over all docs/ merged: PR #490 as e25bd356; passes on main",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-17T04:02:39.622Z"
+  },
+  {
+    "id": "dc_vqqpl53mbx",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-17-pr-489-merged-21c9c3ff-gate-step-in-flight-pricing-qpl53mbx.md",
+    "title": "PR #489 merged (21c9c3ff): gate step-in-flight pricing",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-17T04:02:41.517Z"
+  },
+  {
+    "id": "dc_l2zon3s1qy",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-17-pr-491-merged-as-b6a15d5f-deploy-key-step-1-done-zon3s1qy.md",
+    "title": "PR #491 merged as b6a15d5f: deploy key step 1 done",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-17T04:02:46.610Z"
+  },
+  {
+    "id": "dc_bxl8c4f9zz",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-17-deploy-key-live-check-parked-until-b6a15d5f-is-liv-l8c4f9zz.md",
+    "title": "Deploy key live check: parked until b6a15d5f is live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-17T04:03:11.697Z"
+  },
+  {
+    "id": "dc_h0q9p2nmeo",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-17-gate-facts-live-check-parked-until-21c9c3ff-is-liv-q9p2nmeo.md",
+    "title": "Gate facts live check: parked until 21c9c3ff is live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-17T04:03:29.019Z"
+  },
+  {
+    "id": "dc_0bzbx8ivdv",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-17-manager-building-pin-shows-in-a-fork-s-first-messa-zbx8ivdv.md",
+    "title": "Manager building pin shows in a fork's first message; kr_yewkqe5nmv claimed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-17T04:03:39.759Z"
+  },
+  {
+    "id": "dc_efty1pcza1",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-17-homepage-card-counts-pass-live-next-next-open-each-ty1pcza1.md",
+    "title": "Homepage card counts pass live: Next, Next, Open each moved +1",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-17T04:05:19.352Z"
+  },
+  {
+    "id": "dc_pm3sxczr6d",
+    "path": "buildings/bl_t7slw19vgg/docs/wiki/2026-11/2026-11-17-1-1-live-progress-writing-line-and-tool-calls-3sxczr6d.md",
+    "title": "1:1 live progress (writing line and tool calls)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-17T04:05:58.374Z"
+  },
+  {
+    "id": "dc_y42w3871ym",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-17-1-1-is-writing-and-live-tool-calls-cause-found-fix-2w3871ym.md",
+    "title": "1:1 \"is writing…\" and live tool calls: cause found, fix in PR #492, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-17T04:06:10.725Z"
+  },
+  {
+    "id": "dc_q8ni1daetw",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-17-drag-moves-only-the-body-pr-493-parked-on-ci-to-me-ni1daetw.md",
+    "title": "Drag moves only the body: PR #493, parked on CI to merge",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-17T04:07:06.582Z"
+  },
+  {
+    "id": "dc_8u6f5vsx4k",
+    "path": "buildings/bl_6ifesdbah3/docs/meeting-notes/2026-11/2026-11-17-1-1-mitchell-and-juno-notes-6f5vsx4k.md",
+    "title": "1:1: Mitchell and Juno — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-17T04:07:28.772Z"
+  },
+  {
+    "id": "dc_dh13gltact",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-17-walk-to-buttons-always-shown-on-overview-pr-494-pa-13gltact.md",
+    "title": "Walk-to buttons always shown on Overview: PR #494, parked on CI to merge",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-17T04:08:15.632Z"
+  },
+  {
+    "id": "dc_jqudn038f0",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-17-pr-492-was-red-on-a-fast-map-check-fixed-42c2d3b2-udn038f0.md",
+    "title": "PR #492 was red on a fast-map check; fixed (42c2d3b2), parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-17T04:08:41.625Z"
+  },
+  {
+    "id": "dc_a1ijnvk01z",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-17-pr-493-green-and-squash-merged-46669b9d-ijnvk01z.md",
+    "title": "PR #493 green and squash-merged (46669b9d)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-17T04:12:08.016Z"
+  },
+  {
+    "id": "dc_5i1foj62d6",
+    "path": "buildings/workshop/docs/meeting-notes/2026-11/2026-11-17-1-1-mitchell-and-pix-notes-1foj62d6.md",
+    "title": "1:1: Mitchell and Pix — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-17T04:12:49.134Z"
+  },
+  {
+    "id": "dc_oge8oxiqyu",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-17-pr-492-green-and-squash-merged-f83b8f50-parked-unt-e8oxiqyu.md",
+    "title": "PR #492 green and squash-merged (f83b8f50); parked until it is live for the 1:1 screenshot",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-17T04:15:02.100Z"
+  },
+  {
+    "id": "dc_9airbuts8t",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-17-pr-494-green-and-squash-merged-d863e456-irbuts8t.md",
+    "title": "PR #494 green and squash-merged (d863e456)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-17T04:15:10.905Z"
+  },
+  {
+    "id": "dc_9pv7weg8dl",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-17-day-by-day-pr-488-merged-as-9c3e97ab-after-a-knip-v7weg8dl.md",
+    "title": "Day by day: PR #488 merged as 9c3e97ab after a knip fix; step 2 verifies it live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-17T04:15:23.367Z"
+  },
+  {
+    "id": "dc_ib8ydkqaj5",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-17-chart-not-live-yet-parked-until-9c3e97ab-deploys-8ydkqaj5.md",
+    "title": "Chart not live yet; parked until 9c3e97ab deploys",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-17T04:16:14.221Z"
+  },
+  {
+    "id": "dc_q48pbvg0td",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-17-why-outreach-ran-no-exploration-root-explore-off-f-8pbvg0td.md",
+    "title": "Why Outreach ran no exploration: root explore off for 6 days, then the town cap filled before its turn",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-17T04:16:46.471Z"
   }
 ]

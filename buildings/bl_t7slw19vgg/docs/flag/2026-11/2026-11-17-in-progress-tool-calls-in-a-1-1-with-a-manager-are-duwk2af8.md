@@ -1,0 +1,21 @@
+---
+id: "dc_1nduwk2af8"
+type: "flag"
+state: "building"
+title: "in progress tool calls in a 1:1 with a manager aren't showing up. sometimes it shows a \"Working...\" progress text (i fo…"
+authorId: "us_1la74k332n"
+authorKind: "user"
+buildingId: "bl_t7slw19vgg"
+provenance: {"sourceIds":[],"urls":[]}
+tags: []
+decision: "redirect"
+decisionNote: "Mitchell's flag dc_1nduwk2af8 (planted at (37,10) in the UI / UX just now): \"in progress tool calls in a 1:1 with a manager aren't showing up. sometimes it shows a \"Working...\" progress text (i forget what it actually says) but most of the time it doesn't. please figure out how to test this! like use the site and take screenshot if you have to\".\n\nGoal: reproduce it on the live site with screenshots, find the cause in the code, fix it in one PR (merge on green, no redeploy), and prove the fix with a before/after screenshot in the report. Testing it is part of the job: do not stop at a code reading.\n\nHow it works today (read first): packages/web/src/panels/MeetingPanel.tsx:169-170 and 200-249. Two separate mechanisms: (1) the \"<Name> is writing…\" line (writingLine, line 251) comes from useDrafting, which polls GET /api/meetings/:id/drafting every 4 s while the meeting is live (DRAFTING_POLL_MS); the server side is a heuristic in packages/server/src/routes/docs.ts:176 (\"they heard something and haven't spoken yet\"). (2) LiveToolCalls (line 241) shows \"<Name>: N tool calls so far\" built purely from the client's own events feed (useTown s.events): events with type \"agent.tool\", agentId = the manager, ts > the manager's last line in the transcript, tool != mcp__town__meeting. It renders only while that agent is in the drafting list, so if (1) says nobody is writing, (2) never shows either.\n\nSuspects to check, in order: (a) the drafting heuristic returns empty for a manager in a 1:1 (what does it key on: status \"in-meeting\", a heard-utterance timestamp, the host session, the facilitator role? a manager answering a 1:1 runs a host session: is it ever marked as having \"heard\" the human's line?); (b) the client's events feed does not contain the manager's agent.tool events (is the feed bounded to N events, filtered by building/room, or are host-session tool events emitted with a different agentId or type? check the server events route and the runtime's tool-call event emission for host sessions vs desk forks); (c) the `e.ts > since` comparison (ISO string formats, since falling back to m.startedAt). Also note the panel re-renders LiveToolCalls only when the events store changes.\n\nHow to test on live: use the test account (skill \"test-account-live-check\", dc_11e758uhzj; MUSTER_TEST_GH_TOKEN, login dungeonrpg99-ops, say in your report which roles it picked up) or your own agent credentials for the API checks. Open a 1:1 with a manager on muster.town (a building manager who is idle; a 1:1 with Teo is fine), send a line that makes the manager do several tool calls (e.g. \"read the last report in your cabinet and tell me its title\"), and while it works: screenshot the meeting panel every few seconds (playwright or the site in a headless browser; upload with the media upload so you can attach /api/media/<id>.png in the report), and in parallel GET /api/meetings/:id/drafting and the events feed to see what the client has to work with. Then fix, re-test the same way, attach the after-screenshot. If a live test is impossible from the desk, say exactly why and what you checked instead; still ship the fix for the cause you found.\n\nReport: what Mitchell sees now vs after, what the \"writing\" text actually says, which commit should be live. Park on the PR's CI with resumeWhen {pr: N} and squash-merge on green. Write a topic page \"1:1 live progress (writing line and tool calls)\" with what you learned."
+decidedBy: "ag_s1kuuuo54b"
+decidedAt: "2026-11-17T03:53:44.195Z"
+flagPos: {"x":37,"y":10}
+pickedUpAt: "2026-11-17T03:52:49.793Z"
+pickedUpBy: "ag_s1kuuuo54b"
+createdAt: "2026-11-17T03:52:42.046Z"
+updatedAt: "2026-11-17T03:53:44.195Z"
+---
+in progress tool calls in a 1:1 with a manager aren't showing up. sometimes it shows a "Working..." progress text (i forget what it actually says) but most of the time it doesn't. please figure out how to test this! like use the site and take screenshot if you have to

@@ -59,8 +59,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-09 [Legible Delegation: the vision doc and the new in-tray, grant and ask rules](docs/fyi/2026-11/2026-11-09-legible-delegation-the-vision-doc-and-the-new-in-t-hule9k3p.md) `dc_jbhule9k3p` · Mitchell
 - 2026-10-31 [RESOLVED 02:41Z 10-31: `tell` and `stop_fork` to a live Workshop fork are safe again (desk-death fix 1df29a4 live-checked)](docs/fyi/2026-10/2026-10-31-resolved-02-41z-10-31-tell-and-stop-fork-to-a-live-37yf719x.md) `dc_2337yf719x` · Pix
 
-## meeting-notes (92)
+## meeting-notes (93)
 
+- 2026-11-17 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-17-1-1-mitchell-and-pix-notes-1foj62d6.md) `dc_5i1foj62d6` · Pix
 - 2026-11-12 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-12-1-1-mitchell-and-pix-notes-p3lfvp2d.md) `dc_rbp3lfvp2d` · Pix
 - 2026-11-12 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-12-1-1-mitchell-and-pix-notes-jyobp1v7.md) `dc_bzjyobp1v7` · Pix
 - 2026-11-10 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-11/2026-11-10-1-1-mitchell-and-pix-notes-70j9k6e9.md) `dc_7l70j9k6e9` · Pix
@@ -90,7 +91,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-pix-notes-jusc4w9s.md) `dc_eijusc4w9s` · Pix
 - 2026-10-31 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-pix-notes-2aazai2p.md) `dc_6k2aazai2p` · Pix
 - 2026-10-31 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-pix-notes-x7ux5al3.md) `dc_1tx7ux5al3` · Pix
-- 2026-10-31 [1:1: Mitchell and Pix — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-pix-notes-vwbdzorc.md) `dc_gavwbdzorc` · Pix
 
 All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-notes/2026-10/)
 
@@ -129,8 +129,13 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1209)
+## report (1214)
 
+- 2026-11-17 [Why Outreach ran no exploration: root explore off for 6 days, then the town cap filled before its turn](docs/report/2026-11/2026-11-17-why-outreach-ran-no-exploration-root-explore-off-f-8pbvg0td.md) `dc_q48pbvg0td` · Pix 1
+- 2026-11-17 [Gate facts live check: parked until 21c9c3ff is live](docs/report/2026-11/2026-11-17-gate-facts-live-check-parked-until-21c9c3ff-is-liv-q9p2nmeo.md) `dc_h0q9p2nmeo` · Pix 2
+- 2026-11-17 [PR #489 merged (21c9c3ff): gate step-in-flight pricing](docs/report/2026-11/2026-11-17-pr-489-merged-21c9c3ff-gate-step-in-flight-pricing-qpl53mbx.md) `dc_vqqpl53mbx` · Pix 1
+- 2026-11-17 [PR #489: CI red on docs and knip; fixed, pushed 072a45fd, parked on CI](docs/report/2026-11/2026-11-17-pr-489-ci-red-on-docs-and-knip-fixed-pushed-072a45-rxnsk0k9.md) `dc_nbrxnsk0k9` · Pix 1
+- 2026-11-17 [Gate step-in-flight pricing in PR #489; parked on its CI](docs/report/2026-11/2026-11-17-gate-step-in-flight-pricing-in-pr-489-parked-on-it-59pszssj.md) `dc_3x59pszssj` · Pix 1
 - 2026-11-17 [Exploration: gate cards double-count the step in flight; proposed gr_76e81kdpvy (200,000)](docs/report/2026-11/2026-11-17-exploration-gate-cards-double-count-the-step-in-fl-yt8dg9yj.md) `dc_zzyt8dg9yj` · Pix 1
 - 2026-11-16 [Queue health step 4: live samples check out by hand; all four key results claimable](docs/report/2026-11/2026-11-16-queue-health-step-4-live-samples-check-out-by-hand-uqfe4ari.md) `dc_lguqfe4ari` · Pix 1
 - 2026-11-16 [Operating manual book is live in the Town Hall](docs/report/2026-11/2026-11-16-operating-manual-book-is-live-in-the-town-hall-z9rz07x2.md) `dc_ygz9rz07x2` · Pix 1
@@ -156,11 +161,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-15 [Secretary stands north of the hydrant on the live map (flag dc_zkzi4xnue4 done)](docs/report/2026-11/2026-11-15-secretary-stands-north-of-the-hydrant-on-the-live-01qc2vr2.md) `dc_3x01qc2vr2` · Pix 1
 - 2026-11-15 [PR #465 merged (8d85244a): goal proposals on the thread](docs/report/2026-11/2026-11-15-pr-465-merged-8d85244a-goal-proposals-on-the-threa-bq91wmyw.md) `dc_dobq91wmyw` · Pix 2
 - 2026-11-15 [PR #464 merged (7e1a38aa); waiting for deploy to check the Town health tab](docs/report/2026-11/2026-11-15-pr-464-merged-7e1a38aa-waiting-for-deploy-to-check-l7i3yfjd.md) `dc_nml7i3yfjd` · Pix 3
-- 2026-11-15 [Goal proposals on the thread (decision 4): PR #465 open, parked on CI](docs/report/2026-11/2026-11-15-goal-proposals-on-the-thread-decision-4-pr-465-ope-19s7fa22.md) `dc_yh19s7fa22` · Pix 1
-- 2026-11-15 [PR #464 CI failed (manual over cap, knip); fixed in 04d01c61, parked on CI](docs/report/2026-11/2026-11-15-pr-464-ci-failed-manual-over-cap-knip-fixed-in-04d-es12e0xx.md) `dc_fwes12e0xx` · Pix 2
-- 2026-11-15 [Queue health step 3: Town health tab rows, PR #464 open, parked on CI](docs/report/2026-11/2026-11-15-queue-health-step-3-town-health-tab-rows-pr-464-op-q0gkq041.md) `dc_gkq0gkq041` · Pix 3
-- 2026-11-15 [Queue health step 2 live: legible.queue on /api/health](docs/report/2026-11/2026-11-15-queue-health-step-2-live-legible-queue-on-api-heal-sfkdywhk.md) `dc_pzsfkdywhk` · Pix 2
-- 2026-11-15 [PR #463 merged (45703173): one need, one ask](docs/report/2026-11/2026-11-15-pr-463-merged-45703173-one-need-one-ask-h9s8clmw.md) `dc_onh9s8clmw` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -169,8 +169,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-27 [demo-media](docs/skill/2026-10/2026-10-27-demo-media-8jzo79xq.md) `dc_p68jzo79xq` · Lena
 - 2026-10-26 [desk-image](docs/skill/2026-10/2026-10-26-desk-image-93n44plc.md) `dc_br93n44plc` · Root
 
-## wiki (76)
+## wiki (77)
 
+- 2026-11-17 [Gate cards price the step in flight (gr_76e81kdpvy)](docs/wiki/2026-11/2026-11-17-gate-cards-price-the-step-in-flight-gr-76e81kdpvy-itehkbtv.md) `dc_luitehkbtv` · Pix 1
 - 2026-11-16 [Ghost visitors](docs/wiki/2026-11/2026-11-16-ghost-visitors-slw5vu6f.md) `dc_oxslw5vu6f` · Pix 1
 - 2026-11-16 [Operating manual book in the Town Hall](docs/wiki/2026-11/2026-11-16-operating-manual-book-in-the-town-hall-pg92mn1z.md) `dc_tkpg92mn1z` · Pix 2
 - 2026-11-15 [Goal proposals on the thread (mt_dwsxo7oms8 decision 4)](docs/wiki/2026-11/2026-11-15-goal-proposals-on-the-thread-mt-dwsxo7oms8-decisio-70f3fmo3.md) `dc_1h70f3fmo3` · Pix 1
@@ -200,6 +201,5 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-11-04 [The Secretary (gr_kdlogzzo5s)](docs/wiki/2026-11/2026-11-04-the-secretary-gr-kdlogzzo5s-0pm17xh1.md) `dc_t20pm17xh1` · Pix 1
 - 2026-11-03 [In-tray list view (flag dc_2hllscunfx)](docs/wiki/2026-11/2026-11-03-in-tray-list-view-flag-dc-2hllscunfx-bzo6hju0.md) `dc_7rbzo6hju0` · Pix 1
 - 2026-11-03 [Subtree throttles: exploration caps and desks (gr_yu6qw3j9x5)](docs/wiki/2026-11/2026-11-03-subtree-throttles-exploration-caps-and-desks-gr-yu-uikp1rk5.md) `dc_7uuikp1rk5` · Pix 4
-- 2026-11-01 [Captain steering rights](docs/wiki/2026-11/2026-11-01-captain-steering-rights-e47kx4un.md) `dc_ooe47kx4un` · Pix 2
 
 All by month: [2026-11](docs/wiki/2026-11/) · [2026-10](docs/wiki/2026-10/)

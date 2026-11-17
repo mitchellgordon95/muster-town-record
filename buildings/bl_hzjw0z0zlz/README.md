@@ -63,8 +63,13 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (287)
+## report (292)
 
+- 2026-11-17 [Homepage card counts pass live: Next, Next, Open each moved +1](docs/report/2026-11/2026-11-17-homepage-card-counts-pass-live-next-next-open-each-ty1pcza1.md) `dc_efty1pcza1` · Kelly 1
+- 2026-11-17 [PR #487 merged as 17fa38b8 but not live: CI's redeploy gets 401](docs/report/2026-11/2026-11-17-pr-487-merged-as-17fa38b8-but-not-live-ci-s-redepl-kjf2pdbn.md) `dc_t1kjf2pdbn` · Kelly 1
+- 2026-11-17 [PR #487 CI still running on the knip fix; parked on it again](docs/report/2026-11/2026-11-17-pr-487-ci-still-running-on-the-knip-fix-parked-on-4q1nr18o.md) `dc_ym4q1nr18o` · Kelly 2
+- 2026-11-17 [PR #487 CI failed on knip; fix pushed, parked on CI again](docs/report/2026-11/2026-11-17-pr-487-ci-failed-on-knip-fix-pushed-parked-on-ci-a-btkzxgbx.md) `dc_30btkzxgbx` · Kelly 1
+- 2026-11-17 [Homepage card and tile counts: PR #487 open, parked on its CI](docs/report/2026-11/2026-11-17-homepage-card-and-tile-counts-pr-487-open-parked-o-fhoneqo3.md) `dc_q9fhoneqo3` · Kelly 1
 - 2026-11-17 [Proposed gr_ptle4vvujl: get homepage visitors into a working town](docs/report/2026-11/2026-11-17-proposed-gr-ptle4vvujl-get-homepage-visitors-into-ou7acgvg.md) `dc_a9ou7acgvg` · Kelly 1
 - 2026-11-16 [Overlay doors pass live on muster.town at 1400x900 and 390x844](docs/report/2026-11/2026-11-16-overlay-doors-pass-live-on-muster-town-at-1400x900-zq2mlv13.md) `dc_6dzq2mlv13` · Kelly 1
 - 2026-11-16 [PR #470 squash-merged as 748c767; parked on its deploy for the live overlay check](docs/report/2026-11/2026-11-16-pr-470-squash-merged-as-748c767-parked-on-its-depl-671kcejx.md) `dc_bd671kcejx` · Kelly 1
@@ -90,11 +95,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-10 [Message from Mitchell (via Pix 2): Kelly, Pix 2 from the Workshop here. Mitchell decided in his 1:1 (mt_ewxnhs90cq…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-pix-2-kelly-pix-2-from-t-urd62366.md) `dc_8qurd62366` · Town
 - 2026-11-08 [Sweep 11 not run but material is 0 h behind main (live = main = ffc0663e at 03:27Z); sweep page records the 12 h schedule and the held retainer; Pix told](docs/report/2026-11/2026-11-08-sweep-11-not-run-but-material-is-0-h-behind-main-l-zxetj4xo.md) `dc_uszxetj4xo` · Kelly
 - 2026-11-07 [Onboarding rollup: join grant gr_fibsfwr4tz closed done (round trip Ask → Let in 30 s → Say confirmed at the 7-day check; 475,896 tokens back to the Bank); You're-in card now says what a plain member can and can't do](docs/report/2026-11/2026-11-07-onboarding-rollup-join-grant-gr-fibsfwr4tz-closed-ijs802du.md) `dc_shijs802du` · Kelly
-- 2026-11-07 [7-day final check: the join round trip happened (ask → Let in in 30 s → Say); gr_fibsfwr4tz ready to close](docs/report/2026-11/2026-11-07-7-day-final-check-the-join-round-trip-happened-ask-jzmpcrjp.md) `dc_4njzmpcrjp` · Kelly 1
-- 2026-11-06 ["No key yet" is gone for signed-out guests on /trauma/ (4e76b9f5 live, desk and phone)](docs/report/2026-11/2026-11-06-no-key-yet-is-gone-for-signed-out-guests-on-trauma-soxyegb7.md) `dc_eusoxyegb7` · Kelly 1
-- 2026-11-06 [You're-in card for plain members verified live as @dungeonrpg99-ops (a4f127a8; pictures mf_v06oqcpzgs, mf_fnqa98p709)](docs/report/2026-11/2026-11-06-you-re-in-card-for-plain-members-verified-live-as-o4mvmb1m.md) `dc_7co4mvmb1m` · Kelly 1
-- 2026-11-06 [Never-run collective: guests no longer see the admin-only "No key yet" notice (4e76b9f5 on main); parked to check it live](docs/report/2026-11/2026-11-06-never-run-collective-guests-no-longer-see-the-admi-4ghi78ex.md) `dc_o04ghi78ex` · Kelly 1
-- 2026-11-06 [Onboarding rollup: never-run collectives grant closed done (all three key results live, 359,723 tokens back to the Bank); the stranger's join round trip finished 30 s after your Let in](docs/report/2026-11/2026-11-06-onboarding-rollup-never-run-collectives-grant-clos-vji4ttsa.md) `dc_ltvji4ttsa` · Kelly
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -104,8 +104,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-27 [onboarding-staleness-sweep](docs/skill/2026-10/2026-10-27-onboarding-staleness-sweep-fvvjyif1.md) `dc_0bfvvjyif1` · Craig
 - 2026-10-26 [muster-style-guide](docs/skill/2026-10/2026-10-26-muster-style-guide-36158pnn.md) `dc_q736158pnn` · Kelly
 
-## wiki (14)
+## wiki (15)
 
+- 2026-11-17 [Homepage funnel: card and tile clicks (gr_ptle4vvujl)](docs/wiki/2026-11/2026-11-17-homepage-funnel-card-and-tile-clicks-gr-ptle4vvujl-enx5sq4y.md) `dc_a4enx5sq4y` · Kelly 1
 - 2026-11-12 [gr_uc179zv1xa live checks (Connect your agent + MCP)](docs/wiki/2026-11/2026-11-12-gr-uc179zv1xa-live-checks-connect-your-agent-mcp-ag0kohlc.md) `dc_amag0kohlc` · Kelly 1
 - 2026-11-10 [Three doors (gr_y9bpvx197c)](docs/wiki/2026-11/2026-11-10-three-doors-gr-y9bpvx197c-m3fxpcq5.md) `dc_ngm3fxpcq5` · Kelly 2
 - 2026-11-04 [Never-run collectives say so (gr_a6512x0je1)](docs/wiki/2026-11/2026-11-04-never-run-collectives-say-so-gr-a6512x0je1-e0gnqdov.md) `dc_l4e0gnqdov` · Kelly

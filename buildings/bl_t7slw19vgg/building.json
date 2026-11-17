@@ -22,7 +22,16 @@
     "w": 15,
     "h": 9
   },
-  "furniture": {},
+  "furniture": {
+    "desk:0": {
+      "x": 6,
+      "y": 2
+    },
+    "desk:1": {
+      "x": 2,
+      "y": 2
+    }
+  },
   "createdAt": "2026-10-29T23:20:10.898Z",
   "createdBy": "us_1la74k332n"
 }

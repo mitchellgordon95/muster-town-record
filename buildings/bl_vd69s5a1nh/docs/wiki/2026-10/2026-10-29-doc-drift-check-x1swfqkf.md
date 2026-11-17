@@ -10,20 +10,20 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_vd69s5a1nh"
 createdAt: "2026-10-29T04:09:56.780Z"
-updatedAt: "2026-10-29T20:35:53.098Z"
+updatedAt: "2026-11-17T04:02:29.111Z"
 ---
-kr_oubxzkl4n6: work DONE and evidence filed 2026-10-29 ~20:40Z (as_ckip0larms report); still not-started until Mitchell marks it met from a rollup. Never had a grant.
+Status after gr_8k0nn380tp: PR #490 merged to main 2026-11-17T04:02:07Z as e25bd356 (this page's updatedAt is the stamp). `npm run check:docs` on main exits 0: 36 docs.
 
-**Evidence (2026-10-29)**
-- Green on main: run 40949851903 (f904590) and 40949326791 (3e32e08), both attempt 1; check job's `npm run check` ran docs first ("doc references ok: README.md, CLAUDE.md, AGENTS.md, ...").
-- Red on a broken ref: throwaway draft PR #86 (closed unmerged, branch deleted), commit 274d6e9, run 40950031071 failed: `AGENTS.md:27: path \`scripts/does-not-exist.ts\` doesn't exist` → `check: docs 0s | total 0s | FAILED at docs`.
-
-**True now**
-- PR #58 (49e1647): CI `check` job runs `npm run check`, which starts with check:docs (scripts/check-doc-refs.ts).
-- Coverage: README, CLAUDE.md, AGENTS.md, SKILL.md, docs/manual.md, docs/invariants/*. Checks backtick spans, markdown links, `npm run X`, mcp__town__ verbs, `muster-town <cmd>`. Since PR #63 also invariants "Test: ..." citations.
-- NOT checked: bare prose paths without backticks (first commit 62fe441 on PR #86 with plain "scripts/does-not-exist.ts" passed locally), docs/architecture.md, bare `data/`.
-- Split with Onboarding ([dc_mu57k5t71o](../../note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md)): we own mechanical refs; Onboarding owns meaning/copy.
+**How it works (on main)**
+- Rules in scripts/doc-refs.ts (`docRefProblems(root)`, `docsIn(root)`); scripts/check-doc-refs.ts is the CLI (manual cap, log rule).
+- Scope: README, CLAUDE, AGENTS, skills/muster-town/SKILL.md and every docs/**/*.md except docs/log.md and docs/log.d/. Verb rule only in agent-facing ones (root docs, SKILL, docs/invariants).
+- Paths: exact, then package-relative (`core/x.ts` = packages/core/src/x.ts), then suffix of any tracked file/dir; `:12` suffixes stripped; `<x>` placeholders; `dc_…` links, site paths and mermaid fences skipped. EXAMPLES (collective/export layout, build output) and DOC_EXAMPLES (skills.md bundle paths, self-host.md fly.toml).
+- Names: a camelCase `code span` must be declared/keyed/read/quoted in packages/*/src|test or scripts (comments stripped), or be a migration column. Convention: a name that is gone or not built yet is written without backticks.
+- `Status: history` in a doc's first 8 lines skips it: docs/waterfall.md, docs/legible-delegation.md.
+- Tests: packages/core/test/check-scripts.test.ts "check:docs: every doc in docs/" (6 its).
 
 **Pitfalls**
-- check:docs fails on links to docs not yet on main.
-- CI stops at the first red step, so a check:docs failure hides test failures.
+- docs/manual.md is at its cap (1900/1900 words on main): trim before adding.
+- check:docs fails on links to docs not yet on main; CI stops at the first red step.
+- Split with Onboarding ([dc_mu57k5t71o](../../note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md)): we own mechanical refs; prose is theirs.
+- Findings that drove it: [dc_yzmmfpnepp](../../note/2026-11/2026-11-17-doc-drift-outside-check-docs-13-docs-in-docs-cite-mmfpnepp.md). Reports [dc_6o7b3clouh](../../report/2026-11/2026-11-17-check-docs-extended-to-all-of-docs-drift-fixed-pr-7b3clouh.md).

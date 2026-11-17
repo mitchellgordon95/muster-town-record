@@ -10,11 +10,12 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_t7slw19vgg"
 createdAt: "2026-11-16T18:33:18.562Z"
-updatedAt: "2026-11-16T18:38:53.749Z"
+updatedAt: "2026-11-17T04:06:55.706Z"
 ---
-Mitchell's flag [dc_mf6oelioq5](../../flag/2026-11/2026-11-16-ok-actually-let-me-just-click-and-drag-residents-t-6oelioq5.md). Built in PR #477, CI green, squash-merged to main as 77c6073c (2026-11-16). CI deploys it; no redeploy called. Not yet checked on live.
-- Client: packages/web/src/map/residentDrag.ts (press → drag after 5 px, grab/grabbing cursor, the body hangs from a pixel fist `drawGrasp` in renderer.ts, dashed drop tile). Gate: a human with building.manage on the agent's home building, or admin; never human avatars.
-- Server: POST /api/agents/:id/desk-drop {x,y} → ops.dropAgent → entities.dropAgent → pure core world/desk-drop.ts `deskDrop`. Drop on another desk: the desk pieces swap. Drop on free floor: the desk piece moves so the agent stands on the tile. Anything else: 400 with the reason (toast, snap back). Town Hall seats are fixed.
-- The desks rows never change, because a desk n is a fork's sandbox slot.
-- Fixed with it: resolveFurniture accepts the whole stored set first when it is legal, so an A↔B exchange survives a rebuild.
+Flags [dc_mf6oelioq5](../../flag/2026-11/2026-11-16-ok-actually-let-me-just-click-and-drag-residents-t-6oelioq5.md) (first build, PR #477, 77c6073c: moved the desk) and [dc_d2wkuhoh1l](../../flag/2026-11/2026-11-17-the-drag-and-drop-residents-only-kind-of-works-why-wkuhoh1l.md) (Mitchell: "move just the character"). Now **body only**: PR #493 (open, parked on CI to squash-merge; not live yet).
+- A drop saves the tile in table `rest_spots` (migration 123): relative to the building lot it is in, else absolute. Pure rule: packages/core/src/world/rest-spot.ts `restDrop` / `restTile`.
+- Allowed: any walkable tile (floor, grass, path, paving), inside or outside buildings. Refused with a toast: wall, furniture, water, a doorway, off the map. Another agent's tile is allowed.
+- Dropping on its own default tile (desk stand, or the Town Hall rest by hydrant / goal tree) deletes the row.
+- computeLayout moves the `desk:<agentId>` place to the spot (named "X's spot"). Every walk home reads that place (home.ts walkHome, runtime walkToDesk, presence homeSpot), so the agent comes back there. The desk slot keeps the default (`WorldMap.defaultHomeOf`). If the spot stops being standable (furniture moved onto it), the default holds.
+- Endpoint: POST /api/agents/:id/drop {x,y} → {pos, home}. Gate: building.manage on the agent's building, or admin. The Secretary and the Planner are draggable by an admin. Human avatars never. /desk-drop and world/desk-drop.ts are gone. Edit layout is the only way to move furniture.
 - Not built: touch long-press (mouse only).

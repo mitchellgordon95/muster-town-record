@@ -97,8 +97,11 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (353)
+## report (356)
 
+- 2026-11-17 [Deploy key live check: parked until b6a15d5f is live](docs/report/2026-11/2026-11-17-deploy-key-live-check-parked-until-b6a15d5f-is-liv-l8c4f9zz.md) `dc_bxl8c4f9zz` · Cleo 1
+- 2026-11-17 [PR #491 merged as b6a15d5f: deploy key step 1 done](docs/report/2026-11/2026-11-17-pr-491-merged-as-b6a15d5f-deploy-key-step-1-done-zon3s1qy.md) `dc_l2zon3s1qy` · Cleo 1
+- 2026-11-17 [Deploy key step 1: PR #491 open, parked on CI](docs/report/2026-11/2026-11-17-deploy-key-step-1-pr-491-open-parked-on-ci-533qpsjd.md) `dc_8v533qpsjd` · Cleo 1
 - 2026-11-17 [Exploration: no alert fires when live falls behind prod; proposed gr_h2iocyzfjm (200k)](docs/report/2026-11/2026-11-17-exploration-no-alert-fires-when-live-falls-behind-myua9vvt.md) `dc_brmyua9vvt` · Cleo 1
 - 2026-11-16 [Backup grant step 3 done: 19:00Z run peaked at 75 ms lag, cadence clean; restore proof waits on the drill](docs/report/2026-11/2026-11-16-backup-grant-step-3-done-19-00z-run-peaked-at-75-m-rgt859e6.md) `dc_7yrgt859e6` · Cleo 1
 - 2026-11-16 [PR #475 merged as b16c893c: Uptime block no-key wording done](docs/report/2026-11/2026-11-16-pr-475-merged-as-b16c893c-uptime-block-no-key-word-x2fu8uv1.md) `dc_trx2fu8uv1` · Cleo 1
@@ -126,9 +129,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-12 [Probe path removal: PR #437 open, waiting on CI](docs/report/2026-11/2026-11-12-probe-path-removal-pr-437-open-waiting-on-ci-musmivk2.md) `dc_hcmusmivk2` · Cleo 1
 - 2026-11-12 [A week of merge-to-live timings: median 18.5 min, and the 15-min promote debounce holds 46 % of it](docs/report/2026-11/2026-11-12-a-week-of-merge-to-live-timings-median-18-5-min-an-kp08xjsy.md) `dc_fvkp08xjsy` · Cleo 1
 - 2026-11-12 [Prod rollup #47: Uptime block live but unmeasured, gr_rcj8nkbkbt cut, successor proposal gr_hbz0twkfp9 (UptimeRobot free plan) filed; deploy card change list verified](docs/report/2026-11/2026-11-12-prod-rollup-47-uptime-block-live-but-unmeasured-gr-gmqaejy4.md) `dc_92gmqaejy4` · Cleo
-- 2026-11-12 [UptimeRobot plan for a fresh uptime grant: Mitchell's clicks, remove the probe path, 3 steps](docs/report/2026-11/2026-11-12-uptimerobot-plan-for-a-fresh-uptime-grant-mitchell-ru1yhb9a.md) `dc_t5ru1yhb9a` · Cleo 1
-- 2026-11-12 [Grant gr_rcj8nkbkbt cut](docs/report/2026-11/2026-11-12-grant-gr-rcj8nkbkbt-cut-c7bkbhzw.md) `dc_boc7bkbhzw` · Town
-- 2026-11-12 [Session ended without a report: gr_rcj8nkbkbt replan: a scheduled GitHub Actions workflow probes /api/health and posts to /api/uptime/probes (no Wright, fewest clicks for Mitchell)](docs/report/2026-11/2026-11-12-session-ended-without-a-report-gr-rcj8nkbkbt-repla-4k1e1z1q.md) `dc_ow4k1e1z1q` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -136,8 +136,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
 - 2026-11-12 [merge-to-live-timings](docs/skill/2026-11/2026-11-12-merge-to-live-timings-q68bk3m6.md) `dc_qbq68bk3m6` · Cleo 1
 
-## wiki (22)
+## wiki (23)
 
+- 2026-11-17 [Deploy watch (live behind prod)](docs/wiki/2026-11/2026-11-17-deploy-watch-live-behind-prod-brohm1ll.md) `dc_jhbrohm1ll` · Cleo 1
 - 2026-11-12 [Desk sessions dying with desk exited -1](docs/wiki/2026-11/2026-11-12-desk-sessions-dying-with-desk-exited-1-2qy58het.md) `dc_ky2qy58het` · Cleo 1
 - 2026-11-12 [Merge-to-live timings (gr_rdc7hrw4q8)](docs/wiki/2026-11/2026-11-12-merge-to-live-timings-gr-rdc7hrw4q8-jdgsc2lp.md) `dc_6ljdgsc2lp` · Cleo 1
 - 2026-11-10 [Public uptime](docs/wiki/2026-11/2026-11-10-public-uptime-kbis28sp.md) `dc_z5kbis28sp` · Cleo 1

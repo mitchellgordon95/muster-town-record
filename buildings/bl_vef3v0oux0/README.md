@@ -44,8 +44,11 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (254)
+## report (257)
 
+- 2026-11-17 [Chart not live yet; parked until 9c3e97ab deploys](docs/report/2026-11/2026-11-17-chart-not-live-yet-parked-until-9c3e97ab-deploys-8ydkqaj5.md) `dc_ib8ydkqaj5` · Nell 2
+- 2026-11-17 [Day by day: PR #488 merged as 9c3e97ab after a knip fix; step 2 verifies it live](docs/report/2026-11/2026-11-17-day-by-day-pr-488-merged-as-9c3e97ab-after-a-knip-v7weg8dl.md) `dc_9pv7weg8dl` · Nell 1
+- 2026-11-17 [Day by day: PR #488 open (daily + dailyCheck on /api/finance, chart on Balance); waiting on CI](docs/report/2026-11/2026-11-17-day-by-day-pr-488-open-daily-dailycheck-on-api-fin-oov4ww1y.md) `dc_69oov4ww1y` · Nell 1
 - 2026-11-17 [Exploration: proposed a 30-day day-by-day spend chart for the Bank (gr_epbcgb0hvs)](docs/report/2026-11/2026-11-17-exploration-proposed-a-30-day-day-by-day-spend-cha-xv8zrlxr.md) `dc_gaxv8zrlxr` · Nell 1
 - 2026-11-16 [Ledger cutoff is live: Bank records before 2026-10-27 00:00Z deleted (757 sessions, 423 usage, 472 debits, 16 credits, 10 inputs, 4 donations), note on the Bank page](docs/report/2026-11/2026-11-16-ledger-cutoff-is-live-bank-records-before-2026-10-wfsky9dg.md) `dc_9zwfsky9dg` · Nell 1
 - 2026-11-16 [Ledger cutoff: PR #476 open, deletes Bank records from before 2026-10-27 00:00Z with a note; waiting on CI](docs/report/2026-11/2026-11-16-ledger-cutoff-pr-476-open-deletes-bank-records-fro-8grvgbwi.md) `dc_118grvgbwi` · Nell 1
@@ -73,9 +76,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-06 [Grant gr_lwgus14rd2 adjusted: 2,000,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-lwgus14rd2-adjusted-2-000-000-tokens-6291r1xr.md) `dc_626291r1xr` · Town
 - 2026-11-06 [PR #364 (cache alert keyed on prefix busting, 5-session floor) squash-merged as 5dc50c70; not live yet, parked on the deploy to confirm the HUD "Cache alert" stays quiet](docs/report/2026-11/2026-11-06-pr-364-cache-alert-keyed-on-prefix-busting-5-sessi-b2tnnlpv.md) `dc_o0b2tnnlpv` · Nell
 - 2026-11-06 [Bank Transparency: the collective's cash cost is live and verified (your $200/month plan in "Plans paid for", $119.64 paid in the last 30 days) and gr_qggxximtru is closed done; the HUD "Cache alert" was a false alarm, the prefix-busting rebuild (PR #364) merges now](docs/report/2026-11/2026-11-06-bank-transparency-the-collective-s-cash-cost-is-li-qmxcor16.md) `dc_fxqmxcor16` · Nell
-- 2026-11-06 [Cache alert false alarm (dc_px0f53iitq): taken now. PR #364 (prefix busting, already drops the share test) merged with main, gains a 5-session floor per purpose, ready and in CI on 98528e5b; parked to squash-merge when green](docs/report/2026-11/2026-11-06-cache-alert-false-alarm-dc-px0f53iitq-taken-now-pr-l0tvasar.md) `dc_pcl0tvasar` · Nell
-- 2026-11-05 [28e6cdf9 live and verified: Mitchell's plan is in "Plans paid for" (seeded at boot), the Balance cash row shows plans $79.28 of $119.64 with the server check green, picture taken signed out; gr_qggxximtru has nothing left to build](docs/report/2026-11/2026-11-05-28e6cdf9-live-and-verified-mitchell-s-plan-is-in-p-7fvo5h6c.md) `dc_po7fvo5h6c` · Nell
-- 2026-11-05 [PR #370 merged as 28e6cdf9 (Mitchell's plan seeded into "Plans paid for"); not live yet, parked on the deploy to verify /api/bank/fees and the Balance cash row](docs/report/2026-11/2026-11-05-pr-370-merged-as-28e6cdf9-mitchell-s-plan-seeded-i-2xdsc19r.md) `dc_n62xdsc19r` · Nell
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -83,8 +83,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
 - 2026-10-29 [screenshot-live-town](docs/skill/2026-10/2026-10-29-screenshot-live-town-qgqqeqho.md) `dc_hzqgqqeqho` · Nell
 
-## wiki (24)
+## wiki (25)
 
+- 2026-11-17 [Day by day chart (gr_epbcgb0hvs)](docs/wiki/2026-11/2026-11-17-day-by-day-chart-gr-epbcgb0hvs-rmz652d9.md) `dc_kjrmz652d9` · Nell 1
 - 2026-11-16 [Ledger cutoff (deleting pre-adjusted Bank records)](docs/wiki/2026-11/2026-11-16-ledger-cutoff-deleting-pre-adjusted-bank-records-c3pazrih.md) `dc_4ac3pazrih` · Nell 1
 - 2026-11-12 [Step spend on Bank Spending (gr_3na7vdmd52): plan and state](docs/wiki/2026-11/2026-11-12-step-spend-on-bank-spending-gr-3na7vdmd52-plan-and-kibd1khe.md) `dc_ywkibd1khe` · Nell 1
 - 2026-11-10 [Non-grant spend by lane (gr_utygatbi85): plan and state](docs/wiki/2026-11/2026-11-10-non-grant-spend-by-lane-gr-utygatbi85-plan-and-sta-s63qwiov.md) `dc_cds63qwiov` · Nell 1

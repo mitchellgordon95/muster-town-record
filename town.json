@@ -28,7 +28,7 @@
     ],
     "branchPrefix": "agent",
     "base": "main",
-    "repoUrl": "git@github.com:mitchellgordon95/agent-town.git"
+    "repoUrl": "git@github.com:mitchellgordon95/muster-town.git"
   },
   "defaults": {
     "model": "claude-opus-5-5",
@@ -43,8 +43,8 @@
   "publish": {
     "repoUrl": "https://github.com/mitchellgordon95/muster-town-record.git",
     "tokenSet": false,
-    "lastPushAt": "2026-11-17T02:31:45.632Z",
-    "lastPushCommit": "dbf2be8494597ee61189946f0fda02061a489a10",
+    "lastPushAt": "2026-11-17T03:32:33.025Z",
+    "lastPushCommit": "339de803bd4439baf60f4529da4a8c1d0c09f69f",
     "lastPushError": null
   }
 }

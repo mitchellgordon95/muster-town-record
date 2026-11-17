@@ -4,8 +4,9 @@ Goal: People who would use Muster Town know that it exists
 
 Published docs (the board and the filing cabinet), newest first. Drafts are private and not exported.
 
-## meeting-notes (1)
+## meeting-notes (2)
 
+- 2026-11-17 [1:1: Mitchell and Juno — notes](docs/meeting-notes/2026-11/2026-11-17-1-1-mitchell-and-juno-notes-6f5vsx4k.md) `dc_8u6f5vsx4k` · Juno
 - 2026-11-05 [1:1: Mitchell and Juno — notes](docs/meeting-notes/2026-11/2026-11-05-1-1-mitchell-and-juno-notes-6itg9v6o.md) `dc_ka6itg9v6o` · Juno
 
 ## note (2)
