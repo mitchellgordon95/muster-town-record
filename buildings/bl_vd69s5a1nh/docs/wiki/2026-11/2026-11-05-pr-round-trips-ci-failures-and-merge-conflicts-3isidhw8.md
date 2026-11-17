@@ -10,19 +10,16 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_vd69s5a1nh"
 createdAt: "2026-11-05T00:07:22.314Z"
-updatedAt: "2026-11-10T21:07:30.229Z"
+updatedAt: "2026-11-17T22:03:28.893Z"
 ---
-Status 2026-11-10 (Mara 1, as_dftldqs044, grant gr_baf19xtg7p, one step). Findings [dc_z9oix2r66w](../../note/2026-11/2026-11-05-findings-where-pr-round-trips-are-wasted-ci-failur-oix2r66w.md); build report [dc_3s0flygw0p](../../report/2026-11/2026-11-10-pr-417-docs-log-d-check-fast-with-knip-and-file-re-0flygw0p.md).
+Status 2026-11-17 22:0x UTC (Mara 1, as_nmxhdnq0bw, grant gr_baf19xtg7p, 7-day observation).
 
-**MERGED: PR #417 → main 03364d14 at 2026-11-10 21:06:55Z** (squash; CI green on head 1645f7ec). Not live yet at 21:07Z (health commit aacc9fe6); CI promotes it. Town-wide FYI [dc_0g5zclwr09](../../../../town-hall/docs/fyi/2026-11/2026-11-10-town-log-entries-now-go-in-docs-log-d-not-docs-log-5zclwr09.md).
-- docs/log.md frozen at 355 lines; entries go in `docs/log.d/<YYYY-MM-DD>-<slug>.md` (`- ` bullets). `scripts/log-rule.ts` `logProblems`, run by check:docs.
-- `npm run check --fast` runs knip + tests naming a changed non-code file (`scripts/fast-tests.ts` `testsReading`).
-- `.githooks/pre-push` runs `npm run check --push` (docs, deadcode, typecheck, file-read tests; no module-graph tests). Installed by root `prepare` and by any `npm run check`. `--no-verify` escapes. 30–60 s a push on a 2-vCPU desk.
-- Tests: packages/core/test/check-scripts.test.ts ('check:docs refuses a new line in docs/log.md', 'every test reading a repo file is in the fast map').
-- Open PRs that appended to docs/log.md at merge: #418 (Prod), #416 (Onboarding), #118 (UI/UX); they must move the line after merging main.
+**Root cause found: the pre-push hook never ran.** PR #417 (03364d14, live) committed `.githooks/pre-push` as 100644. Git ignores a hook that is not executable ("hook was ignored because it's not set as executable"). **Fix: PR #499** (draft, branch agent/mara-1/gr-baf19xtg7p-final-7-day-observation-af, commit 84543ae5): chmod +x plus a test in packages/core/test/check-scripts.test.ts ("pre-push hook › is tracked as executable") that pins it at 100755. Checked on a desk: a push ran the hook (passed in 56 s), and a dry-run push of an unused export was refused after 11 s.
 
-**Baselines (2026-10-25 → 11-04):** PR CI runs 442, 59 failed (13%); failed runs by class: knip 24, check:docs 13, typecheck 10, tests 38+, promote 3. docs/log.md hand resolutions 116 in 10 days.
+**Window 2026-11-10 21:07Z → 11-17 21:07Z (kr_o6jibyr7jj):** 81 PR branches had a first CI run in the window. 14 failed (17.3%), 1 was cancelled. Over all runs, 15 of 99 failed (15%). Baseline: 13% (59 of 442). By cause, of the 14: knip 8, check:docs 4 (all the docs/manual.md 1900-word cap; manual is at 1895/1900 on 84543ae5), the fast-map test 1 (teo-2), docker build 1 (pix-3, git checkout in the image step). The hook runs knip and docs, so 12 of the 14 were ones it catches.
 
-**Left:** kr_o6jibyr7jj (first-run PR failure <6%) and the "no merge-main commit resolves docs/log.md" part of kr_sbqqx7548z: measure 2026-11-10 21:07Z → 11-17 21:07Z, then close the grant. Flake seen once: packages/runtime/test/bank-fallback.test.ts under load.
+**kr_sbqqx7548z holds:** across 55 merge commits in the window, only 1 touches docs/log.md: 4d987b85, PR #418, 10 min after #417, moving its pre-#417 line as the FYI said. There are none after that. docs/log.md is still at 355 lines, and check:docs refuses a new line. --fast still runs the manual test and the docs step.
 
-**Method to re-measure:** `gh run list --workflow ci.yml --event pull_request --limit 1000 --json conclusion,createdAt,headBranch` (first run per branch); logs via `gh run view <id> --log-failed`; conflicts via `git log --merges --since=... origin/main` + `git show --cc --name-only` on "merge main" commits.
+**Next:** merge #499 when CI is green. Then measure again for 7 days after it is live (same method). Manual-cap pressure is the next cause to target (4 of 14).
+
+**Method:** `gh run list --workflow ci.yml --event pull_request --created 'A..B' --limit 1000 --json databaseId,conclusion,createdAt,headBranch`, take the first run per branch, then `gh run view <id> --log-failed`, grep for "FAILED at". To find conflicts, fetch `refs/pull/*/head`, then run `git log --all --merges --since/--until` and `git show --cc --name-only`.

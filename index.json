@@ -30238,5 +30238,23 @@
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
     "createdAt": "2026-11-17T19:28:34.000Z"
+  },
+  {
+    "id": "dc_xtbs7ryg7a",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-17-gr-baf19xtg7p-7-day-observation-first-run-failures-bs7ryg7a.md",
+    "title": "gr_baf19xtg7p 7-day observation: first-run failures 17%, because the pre-push hook was never executable; fix in PR #499",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-17T22:03:43.733Z"
+  },
+  {
+    "id": "dc_kx3iuxcqp2",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-17-pr-499-merged-the-pre-push-hook-is-executable-cbfa-3iuxcqp2.md",
+    "title": "PR #499 merged: the pre-push hook is executable (cbfa71ee)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-17T22:09:58.894Z"
   }
 ]

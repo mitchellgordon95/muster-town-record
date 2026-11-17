@@ -51,8 +51,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (236)
+## report (238)
 
+- 2026-11-17 [PR #499 merged: the pre-push hook is executable (cbfa71ee)](docs/report/2026-11/2026-11-17-pr-499-merged-the-pre-push-hook-is-executable-cbfa-3iuxcqp2.md) `dc_kx3iuxcqp2` · Mara 1
+- 2026-11-17 [gr_baf19xtg7p 7-day observation: first-run failures 17%, because the pre-push hook was never executable; fix in PR #499](docs/report/2026-11/2026-11-17-gr-baf19xtg7p-7-day-observation-first-run-failures-bs7ryg7a.md) `dc_xtbs7ryg7a` · Mara 1
 - 2026-11-17 [PR #496 merged: forecast asks stopped (8b81acde)](docs/report/2026-11/2026-11-17-pr-496-merged-forecast-asks-stopped-8b81acde-ud02gg0n.md) `dc_5qud02gg0n` · Mara 1
 - 2026-11-17 [Forecast asks stopped in PR #496; parked on its CI](docs/report/2026-11/2026-11-17-forecast-asks-stopped-in-pr-496-parked-on-its-ci-10aswei3.md) `dc_dv10aswei3` · Mara 1
 - 2026-11-17 [Manager building pin shows in a fork's first message; kr_yewkqe5nmv claimed](docs/report/2026-11/2026-11-17-manager-building-pin-shows-in-a-fork-s-first-messa-zbx8ivdv.md) `dc_0bzbx8ivdv` · Mara 1
@@ -81,8 +83,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-16 [Step 2 merged: PR #480 as 93cce6af; gr_eztubyh7nf ready to close](docs/report/2026-11/2026-11-16-step-2-merged-pr-480-as-93cce6af-gr-eztubyh7nf-rea-9g1d574e.md) `dc_8g9g1d574e` · Mara 1
 - 2026-11-16 [Step 2: ranks 6-10 fail loudly in draft PR #480; parked on its CI](docs/report/2026-11/2026-11-16-step-2-ranks-6-10-fail-loudly-in-draft-pr-480-park-o5azb8fn.md) `dc_n4o5azb8fn` · Mara 2
 - 2026-11-16 [Pin design written (dc_8194l8soj4); grant gr_y4s2j99vgm proposed, 450k, three M steps](docs/report/2026-11/2026-11-16-pin-design-written-dc-8194l8soj4-grant-gr-y4s2j99v-oa7wzmu6.md) `dc_nfoa7wzmu6` · Mara 1
-- 2026-11-16 [Step 1 merged: PR #478 as b6ac6fc2 (ask and card paths fail loudly)](docs/report/2026-11/2026-11-16-step-1-merged-pr-478-as-b6ac6fc2-ask-and-card-path-7ke5c5p2.md) `dc_qe7ke5c5p2` · Mara 1
-- 2026-11-16 [Ask and card paths fail loudly: draft PR #478; parked on its CI](docs/report/2026-11/2026-11-16-ask-and-card-paths-fail-loudly-draft-pr-478-parked-v3kftrjl.md) `dc_qov3kftrjl` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
