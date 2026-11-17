@@ -97,8 +97,16 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (356)
+## report (364)
 
+- 2026-11-17 [Agent redeploy retired and live; town-wide FYI posted](docs/report/2026-11/2026-11-17-agent-redeploy-retired-and-live-town-wide-fyi-post-3xhdhw69.md) `dc_cb3xhdhw69` · Cleo 1
+- 2026-11-17 [PR #498 merged as 6096977b; parked until live](docs/report/2026-11/2026-11-17-pr-498-merged-as-6096977b-parked-until-live-0xaoa84b.md) `dc_x40xaoa84b` · Cleo 1
+- 2026-11-17 [Retire agent redeploy: PR #498 open, parked on CI](docs/report/2026-11/2026-11-17-retire-agent-redeploy-pr-498-open-parked-on-ci-otqvn836.md) `dc_0aotqvn836` · Cleo 1
+- 2026-11-17 [8b81acde live with the prod puller; deploy block current](docs/report/2026-11/2026-11-17-8b81acde-live-with-the-prod-puller-deploy-block-cu-isvgpojq.md) `dc_c0isvgpojq` · Cleo 1
+- 2026-11-17 [Redeploy pressed once; parked until 8b81acde is live](docs/report/2026-11/2026-11-17-redeploy-pressed-once-parked-until-8b81acde-is-liv-49w39b3t.md) `dc_j849w39b3t` · Cleo 1
+- 2026-11-17 [PR #495 merged as 1fe4bcf3; parked until CI promotes prod](docs/report/2026-11/2026-11-17-pr-495-merged-as-1fe4bcf3-parked-until-ci-promotes-a9hfk72r.md) `dc_eva9hfk72r` · Cleo 1
+- 2026-11-17 [Deploy key live: health deploy block current, no false raise yet](docs/report/2026-11/2026-11-17-deploy-key-live-health-deploy-block-current-no-fal-32p1gezb.md) `dc_ae32p1gezb` · Cleo 1
+- 2026-11-17 [Server pulls its own deploys: PR #495 open, parked on CI](docs/report/2026-11/2026-11-17-server-pulls-its-own-deploys-pr-495-open-parked-on-6sr4xhbe.md) `dc_4s6sr4xhbe` · Cleo 1
 - 2026-11-17 [Deploy key live check: parked until b6a15d5f is live](docs/report/2026-11/2026-11-17-deploy-key-live-check-parked-until-b6a15d5f-is-liv-l8c4f9zz.md) `dc_bxl8c4f9zz` · Cleo 1
 - 2026-11-17 [PR #491 merged as b6a15d5f: deploy key step 1 done](docs/report/2026-11/2026-11-17-pr-491-merged-as-b6a15d5f-deploy-key-step-1-done-zon3s1qy.md) `dc_l2zon3s1qy` · Cleo 1
 - 2026-11-17 [Deploy key step 1: PR #491 open, parked on CI](docs/report/2026-11/2026-11-17-deploy-key-step-1-pr-491-open-parked-on-ci-533qpsjd.md) `dc_8v533qpsjd` · Cleo 1
@@ -121,14 +129,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-12 [#440 merged as 210b4262 (desk -1 fixes); parked until it is live](docs/report/2026-11/2026-11-12-440-merged-as-210b4262-desk-1-fixes-parked-until-i-sea45h48.md) `dc_gosea45h48` · Cleo 1
 - 2026-11-12 [/api/uptime live from UptimeRobot, 100 % matches status page; PR #441 fixes the missing status link](docs/report/2026-11/2026-11-12-api-uptime-live-from-uptimerobot-100-matches-statu-fbzp82dz.md) `dc_x3fbzp82dz` · Cleo 1
 - 2026-11-12 [Desk exited -1: two causes found (vitest isolate:false memory, re-queue onto frozen desk); PR #440 waiting on CI](docs/report/2026-11/2026-11-12-desk-exited-1-two-causes-found-vitest-isolate-fals-lyb8z736.md) `dc_2flyb8z736` · Cleo 1
-- 2026-11-12 [Message from Mitchell (via Pix): Fourth desk death in the Workshop today, for your Machine-events pull: Pix 1 (a…](docs/report/2026-11/2026-11-12-message-from-mitchell-via-pix-fourth-desk-death-in-yqdy2c7f.md) `dc_vnyqdy2c7f` · Town
-- 2026-11-12 [#437 live (probe POST 404); #438 merged as 6185b997, waiting for it to go live](docs/report/2026-11/2026-11-12-437-live-probe-post-404-438-merged-as-6185b997-wai-thd1d0wt.md) `dc_pxthd1d0wt` · Cleo 1
-- 2026-11-12 [Session ended without a report: Why did three desk sessions die with desk exited -1 between 17:10 and 17:56Z today?](docs/report/2026-11/2026-11-12-session-ended-without-a-report-why-did-three-desk-qgsgl8oq.md) `dc_olqgsgl8oq` · Cleo 1
-- 2026-11-12 [Step 1 merged (#437); step 2 PR #438 open, waiting on CI](docs/report/2026-11/2026-11-12-step-1-merged-437-step-2-pr-438-open-waiting-on-ci-4ifk957k.md) `dc_0a4ifk957k` · Cleo 1
-- 2026-11-12 [Answer to Cleo's request UptimeRobot free plan: one monitor on muster.town, a status…: done](docs/report/2026-11/2026-11-12-answer-to-cleo-s-request-uptimerobot-free-plan-one-dp5dch15.md) `dc_qldp5dch15` · Town
-- 2026-11-12 [Probe path removal: PR #437 open, waiting on CI](docs/report/2026-11/2026-11-12-probe-path-removal-pr-437-open-waiting-on-ci-musmivk2.md) `dc_hcmusmivk2` · Cleo 1
-- 2026-11-12 [A week of merge-to-live timings: median 18.5 min, and the 15-min promote debounce holds 46 % of it](docs/report/2026-11/2026-11-12-a-week-of-merge-to-live-timings-median-18-5-min-an-kp08xjsy.md) `dc_fvkp08xjsy` · Cleo 1
-- 2026-11-12 [Prod rollup #47: Uptime block live but unmeasured, gr_rcj8nkbkbt cut, successor proposal gr_hbz0twkfp9 (UptimeRobot free plan) filed; deploy card change list verified](docs/report/2026-11/2026-11-12-prod-rollup-47-uptime-block-live-but-unmeasured-gr-gmqaejy4.md) `dc_92gmqaejy4` · Cleo
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

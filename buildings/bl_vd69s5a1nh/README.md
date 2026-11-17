@@ -51,8 +51,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (234)
+## report (236)
 
+- 2026-11-17 [PR #496 merged: forecast asks stopped (8b81acde)](docs/report/2026-11/2026-11-17-pr-496-merged-forecast-asks-stopped-8b81acde-ud02gg0n.md) `dc_5qud02gg0n` · Mara 1
+- 2026-11-17 [Forecast asks stopped in PR #496; parked on its CI](docs/report/2026-11/2026-11-17-forecast-asks-stopped-in-pr-496-parked-on-its-ci-10aswei3.md) `dc_dv10aswei3` · Mara 1
 - 2026-11-17 [Manager building pin shows in a fork's first message; kr_yewkqe5nmv claimed](docs/report/2026-11/2026-11-17-manager-building-pin-shows-in-a-fork-s-first-messa-zbx8ivdv.md) `dc_0bzbx8ivdv` · Mara 1
 - 2026-11-17 [check:docs over all docs/ merged: PR #490 as e25bd356; passes on main](docs/report/2026-11/2026-11-17-check-docs-over-all-docs-merged-pr-490-as-e25bd356-xda8p3eu.md) `dc_6yxda8p3eu` · Mara 1
 - 2026-11-17 [Pins step 3 live: fork lists topic pages as pins; building pin needs the manager](docs/report/2026-11/2026-11-17-pins-step-3-live-fork-lists-topic-pages-as-pins-bu-ato3bg0q.md) `dc_syato3bg0q` · Mara 1
@@ -81,8 +83,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-16 [Pin design written (dc_8194l8soj4); grant gr_y4s2j99vgm proposed, 450k, three M steps](docs/report/2026-11/2026-11-16-pin-design-written-dc-8194l8soj4-grant-gr-y4s2j99v-oa7wzmu6.md) `dc_nfoa7wzmu6` · Mara 1
 - 2026-11-16 [Step 1 merged: PR #478 as b6ac6fc2 (ask and card paths fail loudly)](docs/report/2026-11/2026-11-16-step-1-merged-pr-478-as-b6ac6fc2-ask-and-card-path-7ke5c5p2.md) `dc_qe7ke5c5p2` · Mara 1
 - 2026-11-16 [Ask and card paths fail loudly: draft PR #478; parked on its CI](docs/report/2026-11/2026-11-16-ask-and-card-paths-fail-loudly-draft-pr-478-parked-v3kftrjl.md) `dc_qov3kftrjl` · Mara 1
-- 2026-11-16 [README V1 merged: PR #468 as 0c6c9c53](docs/report/2026-11/2026-11-16-readme-v1-merged-pr-468-as-0c6c9c53-7nabjjua.md) `dc_ap7nabjjua` · Mara 1
-- 2026-11-16 [README V1 in PR #468; parked on its CI, merge on green](docs/report/2026-11/2026-11-16-readme-v1-in-pr-468-parked-on-its-ci-merge-on-gree-qrsvtmdo.md) `dc_d2qrsvtmdo` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

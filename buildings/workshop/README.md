@@ -129,8 +129,11 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1215)
+## report (1218)
 
+- 2026-11-17 [Onboarding sweep week 1 done: PR #497 merged as 67dd6a73, lag 0 h](docs/report/2026-11/2026-11-17-onboarding-sweep-week-1-done-pr-497-merged-as-67dd-6ointzs1.md) `dc_ox6ointzs1` · Pix 1
+- 2026-11-17 [Onboarding sweep week 1: PR #497 CI failed on manual word cap, fixed, parked again](docs/report/2026-11/2026-11-17-onboarding-sweep-week-1-pr-497-ci-failed-on-manual-1xv3xh01.md) `dc_301xv3xh01` · Pix 1
+- 2026-11-17 [Onboarding sweep week 1: PR #497 open, parked on its CI](docs/report/2026-11/2026-11-17-onboarding-sweep-week-1-pr-497-open-parked-on-its-s2h85p2j.md) `dc_0gs2h85p2j` · Pix 1
 - 2026-11-17 [Gate facts are live: the replay suggests 100,000, not 150,000, and names the step in flight](docs/report/2026-11/2026-11-17-gate-facts-are-live-the-replay-suggests-100-000-no-n9c1x9jk.md) `dc_w1n9c1x9jk` · Pix 1
 - 2026-11-17 [Why Outreach ran no exploration: root explore off for 6 days, then the town cap filled before its turn](docs/report/2026-11/2026-11-17-why-outreach-ran-no-exploration-root-explore-off-f-8pbvg0td.md) `dc_q48pbvg0td` · Pix 1
 - 2026-11-17 [Gate facts live check: parked until 21c9c3ff is live](docs/report/2026-11/2026-11-17-gate-facts-live-check-parked-until-21c9c3ff-is-liv-q9p2nmeo.md) `dc_h0q9p2nmeo` · Pix 2
@@ -158,9 +161,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-16 [PR #467 merged (9defeb54); waiting for deploy to check the live map](docs/report/2026-11/2026-11-16-pr-467-merged-9defeb54-waiting-for-deploy-to-check-bcx64rkx.md) `dc_1vbcx64rkx` · Pix 1
 - 2026-11-16 [Secretary moved north-east of the hydrant: PR #467 open, parked on CI](docs/report/2026-11/2026-11-16-secretary-moved-north-east-of-the-hydrant-pr-467-o-hkpz9zaa.md) `dc_tghkpz9zaa` · Pix 1
 - 2026-11-15 [Queue health step 4: samples not there yet; retired-before-read fix in PR #466, parked on CI](docs/report/2026-11/2026-11-15-queue-health-step-4-samples-not-there-yet-retired-qp20wfg0.md) `dc_kaqp20wfg0` · Pix 2
-- 2026-11-15 [Queue health step 3 live: Town health tab shows queue-health and legible rows](docs/report/2026-11/2026-11-15-queue-health-step-3-live-town-health-tab-shows-que-9xwqjq44.md) `dc_a59xwqjq44` · Pix 1
-- 2026-11-15 [Secretary stands north of the hydrant on the live map (flag dc_zkzi4xnue4 done)](docs/report/2026-11/2026-11-15-secretary-stands-north-of-the-hydrant-on-the-live-01qc2vr2.md) `dc_3x01qc2vr2` · Pix 1
-- 2026-11-15 [PR #465 merged (8d85244a): goal proposals on the thread](docs/report/2026-11/2026-11-15-pr-465-merged-8d85244a-goal-proposals-on-the-threa-bq91wmyw.md) `dc_dobq91wmyw` · Pix 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

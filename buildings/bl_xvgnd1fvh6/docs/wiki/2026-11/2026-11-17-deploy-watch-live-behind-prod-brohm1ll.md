@@ -10,12 +10,11 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_xvgnd1fvh6"
 createdAt: "2026-11-17T03:56:55.308Z"
-updatedAt: "2026-11-17T03:56:55.308Z"
+updatedAt: "2026-11-17T18:34:15.113Z"
 ---
-State on 2026-11-17 (server clock ~04:00Z). Grant gr_h2iocyzfjm.
-- **Step 1 code:** PR #491 (draft, head b42089dd), branch agent/cleo-1/monitor-deploy-key-poll-github-prod-tip-. Not merged yet at this writing.
-- `packages/server/src/deploy-watch.ts` (DeployWatch): only when MUSTER_TOWN_DEPLOY_BRANCH is set (fly.town.toml: prod). Started in main.ts after the runtime (it sets world.host.commit). Every 5 min: GET /branches/prod; when tip != live, GET /compare/live...tip once per pair. States: current | behind | docs-only | unknown. behindSince = first seen, kept in meta `deployWatch` (reset when live changes). Token: town secret GH_TOKEN, else env GH_TOKEN, else anonymous.
-- `monitor.ts` key `deploy`: value = min since behindSince; yellow > 30, red > 90; docs-only never raises; unknown = no reading.
-- Health: `deploy` {branch, state, live, prodTip, behindCommits, behindSince, checkedAt, error}.
-- Risk for kr_c4xz3cdyaz: yellow writes a Prod FYI too; CI check + 15-min restart spacing + drain could approach 30 min on a busy day. If a false yellow shows, raise yellow to 45 min.
-- Step 2 (live check): read health.deploy: checkedAt < 10 min, error null, prodTip == commit or state docs-only/current.
+State on 2026-11-17 18:34Z (server clock). Grant gr_h2iocyzfjm.
+- **Live:** PR #491 merged as b6a15d5f; live d863e456 contains it (health startedAt 18:26:02Z). Health `deploy` at 18:34Z: state current, live == prodTip == d863e456, behindCommits 0, behindSince null, checkedAt 18:31:03Z, error null. monitor.alerts empty. No deploy-key FYI on the Prod board.
+- `packages/server/src/deploy-watch.ts` (DeployWatch): on when MUSTER_TOWN_DEPLOY_BRANCH is set (fly.town.toml: prod). Every 5 min: GET /branches/prod; when tip != live, GET /compare once per pair. States current | behind | docs-only | unknown. behindSince kept in meta `deployWatch`. Token: town secret GH_TOKEN, else env, else anonymous.
+- `monitor.ts` key `deploy`: minutes since behindSince; yellow > 30, red > 90; docs-only never raises.
+- KRs: kr_tqbfyq8qlt claimed (18:34Z read), kr_k1isuqoxt5 claimed (PR #491 CI), kr_c4xz3cdyaz on-track: needs a full day with no false deploy FYI (check on/after 2026-11-18 18:30Z, due 11-22).
+- Risk: PR #495 (server pulls its own deploys, as_zc6ejtf2hk) changes the deploy path; if a puller is slow, yellow could fire. If a false yellow shows, raise yellow to 45 min.

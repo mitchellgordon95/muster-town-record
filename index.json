@@ -30112,5 +30112,131 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-17T18:27:48.808Z"
+  },
+  {
+    "id": "dc_4s6sr4xhbe",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-17-server-pulls-its-own-deploys-pr-495-open-parked-on-6sr4xhbe.md",
+    "title": "Server pulls its own deploys: PR #495 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-17T18:33:43.235Z"
+  },
+  {
+    "id": "dc_ae32p1gezb",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-17-deploy-key-live-health-deploy-block-current-no-fal-32p1gezb.md",
+    "title": "Deploy key live: health deploy block current, no false raise yet",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-17T18:34:24.315Z"
+  },
+  {
+    "id": "dc_eva9hfk72r",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-17-pr-495-merged-as-1fe4bcf3-parked-until-ci-promotes-a9hfk72r.md",
+    "title": "PR #495 merged as 1fe4bcf3; parked until CI promotes prod",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-17T18:38:58.186Z"
+  },
+  {
+    "id": "dc_dv10aswei3",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-17-forecast-asks-stopped-in-pr-496-parked-on-its-ci-10aswei3.md",
+    "title": "Forecast asks stopped in PR #496; parked on its CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-17T18:43:30.684Z"
+  },
+  {
+    "id": "dc_5qud02gg0n",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-17-pr-496-merged-forecast-asks-stopped-8b81acde-ud02gg0n.md",
+    "title": "PR #496 merged: forecast asks stopped (8b81acde)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-17T18:50:07.992Z"
+  },
+  {
+    "id": "dc_j849w39b3t",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-17-redeploy-pressed-once-parked-until-8b81acde-is-liv-49w39b3t.md",
+    "title": "Redeploy pressed once; parked until 8b81acde is live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-17T18:55:16.096Z"
+  },
+  {
+    "id": "dc_c0isvgpojq",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-17-8b81acde-live-with-the-prod-puller-deploy-block-cu-isvgpojq.md",
+    "title": "8b81acde live with the prod puller; deploy block current",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-17T18:55:44.321Z"
+  },
+  {
+    "id": "dc_0gs2h85p2j",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-17-onboarding-sweep-week-1-pr-497-open-parked-on-its-s2h85p2j.md",
+    "title": "Onboarding sweep week 1: PR #497 open, parked on its CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-17T19:05:21.253Z"
+  },
+  {
+    "id": "dc_301xv3xh01",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-17-onboarding-sweep-week-1-pr-497-ci-failed-on-manual-1xv3xh01.md",
+    "title": "Onboarding sweep week 1: PR #497 CI failed on manual word cap, fixed, parked again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-17T19:07:02.813Z"
+  },
+  {
+    "id": "dc_0aotqvn836",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-17-retire-agent-redeploy-pr-498-open-parked-on-ci-otqvn836.md",
+    "title": "Retire agent redeploy: PR #498 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-17T19:09:20.927Z"
+  },
+  {
+    "id": "dc_ox6ointzs1",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-17-onboarding-sweep-week-1-done-pr-497-merged-as-67dd-6ointzs1.md",
+    "title": "Onboarding sweep week 1 done: PR #497 merged as 67dd6a73, lag 0 h",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-17T19:14:43.256Z"
+  },
+  {
+    "id": "dc_x40xaoa84b",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-17-pr-498-merged-as-6096977b-parked-until-live-0xaoa84b.md",
+    "title": "PR #498 merged as 6096977b; parked until live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-17T19:15:32.055Z"
+  },
+  {
+    "id": "dc_gbk4jkbu1i",
+    "path": "buildings/town-hall/docs/fyi/2026-11/2026-11-17-town-wide-merge-rules-revised-2026-11-17-the-serve-k4jkbu1i.md",
+    "title": "Town-wide merge rules (revised 2026-11-17): the server pulls prod itself; nobody calls redeploy (agents no longer can)",
+    "type": "fyi",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-17T19:28:17.096Z"
+  },
+  {
+    "id": "dc_cb3xhdhw69",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-17-agent-redeploy-retired-and-live-town-wide-fyi-post-3xhdhw69.md",
+    "title": "Agent redeploy retired and live; town-wide FYI posted",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-17T19:28:34.000Z"
   }
 ]
