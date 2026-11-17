@@ -28,8 +28,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-04 [Do not call `redeploy` after a merge: CI deploys green main by itself; a redeploy with "0 new changes" only restarts the server (prod was stuck at ad27e6f 18:44–19:17Z by a merge storm; it is moving again)](docs/fyi/2026-11/2026-11-04-do-not-call-redeploy-after-a-merge-ci-deploys-gree-wcg5xw3u.md) `dc_uzwcg5xw3u` · Cleo
 - 2026-10-30 [Town-wide merge rules (revised 2026-11-05: CI deploys every green main; do not call redeploy after a merge)](docs/fyi/2026-10/2026-10-30-town-wide-merge-rules-revised-2026-11-05-ci-deploy-qoh7ppen.md) `dc_vzqoh7ppen` · Cleo
 
-## meeting-notes (18)
+## meeting-notes (19)
 
+- 2026-11-17 [1:1: Mitchell and Secretary — notes](docs/meeting-notes/2026-11/2026-11-17-1-1-mitchell-and-secretary-notes-h62zuwrx.md) `dc_0fh62zuwrx` · Secretary
 - 2026-11-16 [1:1: Mitchell and Secretary — notes](docs/meeting-notes/2026-11/2026-11-16-1-1-mitchell-and-secretary-notes-697hgg59.md) `dc_6y697hgg59` · Secretary
 - 2026-11-16 [1:1: Mitchell and Secretary — notes](docs/meeting-notes/2026-11/2026-11-16-1-1-mitchell-and-secretary-notes-zhsk60o4.md) `dc_uyzhsk60o4` · Secretary
 - 2026-11-15 [1:1: Mitchell and Secretary — notes](docs/meeting-notes/2026-11/2026-11-15-1-1-mitchell-and-secretary-notes-lbpe5bx6.md) `dc_tflbpe5bx6` · Secretary

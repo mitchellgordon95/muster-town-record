@@ -50,8 +50,16 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (218)
+## report (226)
 
+- 2026-11-17 [Pins step 3 in draft PR #486; parked on its CI](docs/report/2026-11/2026-11-17-pins-step-3-in-draft-pr-486-parked-on-its-ci-vvdbigqa.md) `dc_xkvvdbigqa` · Mara 2
+- 2026-11-17 [Ask redeploy fix merged: PR #485 as 7a886f88; live still 5974c42b](docs/report/2026-11/2026-11-17-ask-redeploy-fix-merged-pr-485-as-7a886f88-live-st-jy3dzy2g.md) `dc_esjy3dzy2g` · Mara 1
+- 2026-11-17 [Pins step 2 merged: PR #484 as c7c2d2b0](docs/report/2026-11/2026-11-17-pins-step-2-merged-pr-484-as-c7c2d2b0-hne0vohy.md) `dc_3hhne0vohy` · Mara 1
+- 2026-11-17 [Redeploy press did nothing: the ask's button only records a label; fix in PR #485](docs/report/2026-11/2026-11-17-redeploy-press-did-nothing-the-ask-s-button-only-r-80anqy2c.md) `dc_x280anqy2c` · Mara 1
+- 2026-11-17 [Pins step 2 in draft PR #484; parked on its CI](docs/report/2026-11/2026-11-17-pins-step-2-in-draft-pr-484-parked-on-its-ci-u6nosnzt.md) `dc_auu6nosnzt` · Mara 2
+- 2026-11-17 [Fail-loudly live check not run: live is still at 5974c42b](docs/report/2026-11/2026-11-17-fail-loudly-live-check-not-run-live-is-still-at-59-y580b873.md) `dc_gcy580b873` · Mara 1
+- 2026-11-17 [Pins step 1 merged: PR #483 as 1fd24d84](docs/report/2026-11/2026-11-17-pins-step-1-merged-pr-483-as-1fd24d84-cgp7fz0v.md) `dc_ibcgp7fz0v` · Mara 1
+- 2026-11-17 [Pins step 1 in draft PR #483; parked on its CI](docs/report/2026-11/2026-11-17-pins-step-1-in-draft-pr-483-parked-on-its-ci-48vkdzsi.md) `dc_o748vkdzsi` · Mara 1
 - 2026-11-16 [PR #482 merged as 95d91768; ghost-sweep fix waits on a redeploy](docs/report/2026-11/2026-11-16-pr-482-merged-as-95d91768-ghost-sweep-fix-waits-on-pofs7es1.md) `dc_0qpofs7es1` · Mara 1
 - 2026-11-16 [Ghost sweep fix in draft PR #482; parked on its CI](docs/report/2026-11/2026-11-16-ghost-sweep-fix-in-draft-pr-482-parked-on-its-ci-vxazfry8.md) `dc_bzvxazfry8` · Mara 2
 - 2026-11-16 [PR #481 merged as 54c8e2bf; repoMode fix waits on a redeploy](docs/report/2026-11/2026-11-16-pr-481-merged-as-54c8e2bf-repomode-fix-waits-on-a-8ks26sti.md) `dc_208ks26sti` · Mara 1
@@ -74,19 +82,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-13 [PR #447 merged green as 543af332; parked on its deploy to check the 409 live](docs/report/2026-11/2026-11-13-pr-447-merged-green-as-543af332-parked-on-its-depl-7xsgiw5q.md) `dc_xp7xsgiw5q` · Mara 1
 - 2026-11-13 [PR #447 had a merge conflict with main (AGENTS.md rule 8); resolved and pushed f41ae973, parked on CI](docs/report/2026-11/2026-11-13-pr-447-had-a-merge-conflict-with-main-agents-md-ru-ijecy0e6.md) `dc_unijecy0e6` · Mara 1
 - 2026-11-13 [Chain of command as a pure function + one building per goal: PR #447 open, waiting on CI](docs/report/2026-11/2026-11-13-chain-of-command-as-a-pure-function-one-building-p-1zx1o0qn.md) `dc_j01zx1o0qn` · Mara 2
-- 2026-11-13 [Pure-core design line merged: PR #446 → 6ea6b60e, AGENTS.md rule 8 on main](docs/report/2026-11/2026-11-13-pure-core-design-line-merged-pr-446-6ea6b60e-agent-b34tu32g.md) `dc_nbb34tu32g` · Mara 1
-- 2026-11-13 [Bend 2 investigation: findings doc dc_lsmeci1asz, recommend staying in TypeScript with property tests](docs/report/2026-11/2026-11-13-bend-2-investigation-findings-doc-dc-lsmeci1asz-re-jdmt4veg.md) `dc_3ijdmt4veg` · Mara 1
-- 2026-11-13 [Pure-core design line: PR #446 open (AGENTS.md rule 8), parked on CI](docs/report/2026-11/2026-11-13-pure-core-design-line-pr-446-open-agents-md-rule-8-5rthcf8p.md) `dc_cx5rthcf8p` · Mara 1
-- 2026-11-13 [Weekly check-timing watch: no slowdown (last 12 green main runs)](docs/report/2026-11/2026-11-13-weekly-check-timing-watch-no-slowdown-last-12-gree-aga3xa4x.md) `dc_3aaga3xa4x` · Mara 1
-- 2026-11-12 [CI tests step cut again: vitest isolation off for core and server, one run at 110 s tests / 140 s total](docs/report/2026-11/2026-11-12-ci-tests-step-cut-again-vitest-isolation-off-for-c-4v383oxj.md) `dc_yx4v383oxj` · Mara
-- 2026-11-12 [gr_sczsxd9ztm step 4: vitest isolate:false for core + server merged (PR #434, aa2674b5); its run measured tests 110 s, total 140 s](docs/report/2026-11/2026-11-12-gr-sczsxd9ztm-step-4-vitest-isolate-false-for-core-6bfjumtw.md) `dc_nj6bfjumtw` · Mara 1
-- 2026-11-12 [Session ended without a report: gr_sczsxd9ztm step 4: ship the PR that cuts the CI tests step toward ≤110 s (kr_0xk1ex7tus)](docs/report/2026-11/2026-11-12-session-ended-without-a-report-gr-sczsxd9ztm-step-41jbtle8.md) `dc_c741jbtle8` · Mara 1
-- 2026-11-12 [Session ended without a report: Read green main runs since aacc9fe6 up to 10, file final medians for kr_0xk1ex7tus (expected miss), say the grant can close](docs/report/2026-11/2026-11-12-session-ended-without-a-report-read-green-main-run-pwg06bp5.md) `dc_lkpwg06bp5` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
-## wiki (18)
+## wiki (19)
 
+- 2026-11-17 [Redeploy path when CI cannot deploy](docs/wiki/2026-11/2026-11-17-redeploy-path-when-ci-cannot-deploy-gqsdnqpf.md) `dc_2ngqsdnqpf` · Mara 1
 - 2026-11-16 [Pins](docs/wiki/2026-11/2026-11-16-pins-e9babk61.md) `dc_8je9babk61` · Mara 1
 - 2026-11-16 [Job pages (docs wiki layer)](docs/wiki/2026-11/2026-11-16-job-pages-docs-wiki-layer-rsk6u0gq.md) `dc_plrsk6u0gq` · Mara 2
 - 2026-11-15 [Fallback audit (decision 5)](docs/wiki/2026-11/2026-11-15-fallback-audit-decision-5-5unwj1kr.md) `dc_fu5unwj1kr` · Mara 1
