@@ -37276,21 +37276,21 @@
       "y": 9
     },
     "status": "idle",
-    "activity": "In the meeting: Back after the restart. Honest answer: we are not sure, and the card on your sc…",
+    "activity": "Submitting report: Daily ask ranking, 2026-11-17: 6 asks ranked, slate nt_dpag…",
     "model": "claude-fable-5-1",
-    "spentTokensToday": 294347,
-    "spentTokensTotal": 5937406,
-    "spentUsdTotal": 67.44454156000002,
+    "spentTokensToday": 387713,
+    "spentTokensTotal": 6030772,
+    "spentUsdTotal": 69.31186731000003,
     "currentAssignmentId": null,
     "currentMeetingId": null,
     "createdAt": "2026-11-04T17:01:17.053Z",
-    "lastActiveAt": "2026-11-17T03:38:37.500Z",
-    "lastSeenAt": "2026-11-17T03:38:37.527Z",
+    "lastActiveAt": "2026-11-17T07:00:52.475Z",
+    "lastSeenAt": "2026-11-17T07:00:51.928Z",
     "inheritsOwner": false,
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 294347
+    "familySpentToday": 387713
   },
   {
     "id": "ag_ejguq8medm",
