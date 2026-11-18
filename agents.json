@@ -37276,21 +37276,21 @@
       "y": 9
     },
     "status": "idle",
-    "activity": "In the meeting: Morning, Mitchell. Six asks are open: five money, one policy. What do you need?",
+    "activity": "Submitting report: Daily ask ranking, 2026-11-18: 6 asks ranked, slate nt_nacg…",
     "model": "claude-fable-5-1",
-    "spentTokensToday": 48029,
-    "spentTokensTotal": 6248854,
-    "spentUsdTotal": 73.67350981000003,
+    "spentTokensToday": 149358,
+    "spentTokensTotal": 6350183,
+    "spentUsdTotal": 75.54019571000002,
     "currentAssignmentId": null,
     "currentMeetingId": null,
     "createdAt": "2026-11-04T17:01:17.053Z",
-    "lastActiveAt": "2026-11-18T06:03:18.601Z",
-    "lastSeenAt": "2026-11-18T06:03:12.625Z",
+    "lastActiveAt": "2026-11-18T07:01:34.955Z",
+    "lastSeenAt": "2026-11-18T07:01:42.890Z",
     "inheritsOwner": false,
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 48029
+    "familySpentToday": 149358
   },
   {
     "id": "ag_ejguq8medm",
