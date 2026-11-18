@@ -30418,5 +30418,14 @@
     "state": "building",
     "buildingId": "town-hall",
     "createdAt": "2026-11-18T07:01:34.589Z"
+  },
+  {
+    "id": "dc_hdcqpxokgd",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-18-deploy-watch-a-full-day-five-deploys-no-false-depl-cqpxokgd.md",
+    "title": "Deploy watch: a full day, five deploys, no false deploy alert; gr_h2iocyzfjm ready to close",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-18T19:01:00.416Z"
   }
 ]

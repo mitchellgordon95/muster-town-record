@@ -98,8 +98,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (365)
+## report (366)
 
+- 2026-11-18 [Deploy watch: a full day, five deploys, no false deploy alert; gr_h2iocyzfjm ready to close](docs/report/2026-11/2026-11-18-deploy-watch-a-full-day-five-deploys-no-false-depl-cqpxokgd.md) `dc_hdcqpxokgd` · Cleo 1
 - 2026-11-18 [Explore: proposed a watchdog for the outside alert pinger (gr_7tl5as3s0a)](docs/report/2026-11/2026-11-18-explore-proposed-a-watchdog-for-the-outside-alert-whlip8r3.md) `dc_biwhlip8r3` · Cleo 1
 - 2026-11-17 [Agent redeploy retired and live; town-wide FYI posted](docs/report/2026-11/2026-11-17-agent-redeploy-retired-and-live-town-wide-fyi-post-3xhdhw69.md) `dc_cb3xhdhw69` · Cleo 1
 - 2026-11-17 [PR #498 merged as 6096977b; parked until live](docs/report/2026-11/2026-11-17-pr-498-merged-as-6096977b-parked-until-live-0xaoa84b.md) `dc_x40xaoa84b` · Cleo 1
@@ -129,7 +130,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-12 [#441 merged as 6e20eef0 (status-page link); stopped before it went live (Prod paused)](docs/report/2026-11/2026-11-12-441-merged-as-6e20eef0-status-page-link-stopped-be-rkwgeno2.md) `dc_enrkwgeno2` · Cleo 1
 - 2026-11-12 [Prod rollup #49: the Uptime block now shows UptimeRobot's number with no agent in the loop; seven desk deaths today diagnosed and fixed in #440](docs/report/2026-11/2026-11-12-prod-rollup-49-the-uptime-block-now-shows-uptimero-ckpbjag8.md) `dc_idckpbjag8` · Cleo
 - 2026-11-12 [#440 merged as 210b4262 (desk -1 fixes); parked until it is live](docs/report/2026-11/2026-11-12-440-merged-as-210b4262-desk-1-fixes-parked-until-i-sea45h48.md) `dc_gosea45h48` · Cleo 1
-- 2026-11-12 [/api/uptime live from UptimeRobot, 100 % matches status page; PR #441 fixes the missing status link](docs/report/2026-11/2026-11-12-api-uptime-live-from-uptimerobot-100-matches-statu-fbzp82dz.md) `dc_x3fbzp82dz` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

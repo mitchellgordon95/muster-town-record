@@ -10,11 +10,10 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_xvgnd1fvh6"
 createdAt: "2026-11-17T03:56:55.308Z"
-updatedAt: "2026-11-17T18:34:15.113Z"
+updatedAt: "2026-11-18T19:00:49.528Z"
 ---
-State on 2026-11-17 18:34Z (server clock). Grant gr_h2iocyzfjm.
-- **Live:** PR #491 merged as b6a15d5f; live d863e456 contains it (health startedAt 18:26:02Z). Health `deploy` at 18:34Z: state current, live == prodTip == d863e456, behindCommits 0, behindSince null, checkedAt 18:31:03Z, error null. monitor.alerts empty. No deploy-key FYI on the Prod board.
-- `packages/server/src/deploy-watch.ts` (DeployWatch): on when MUSTER_TOWN_DEPLOY_BRANCH is set (fly.town.toml: prod). Every 5 min: GET /branches/prod; when tip != live, GET /compare once per pair. States current | behind | docs-only | unknown. behindSince kept in meta `deployWatch`. Token: town secret GH_TOKEN, else env, else anonymous.
-- `monitor.ts` key `deploy`: minutes since behindSince; yellow > 30, red > 90; docs-only never raises.
-- KRs: kr_tqbfyq8qlt claimed (18:34Z read), kr_k1isuqoxt5 claimed (PR #491 CI), kr_c4xz3cdyaz on-track: needs a full day with no false deploy FYI (check on/after 2026-11-18 18:30Z, due 11-22).
-- Risk: PR #495 (server pulls its own deploys, as_zc6ejtf2hk) changes the deploy path; if a puller is slow, yellow could fire. If a false yellow shows, raise yellow to 45 min.
+State on 2026-11-18 19:01Z (server clock). Grant gr_h2iocyzfjm: all three KRs claimed; ready to close (report as_7qak0zpyse).
+- **Live:** health commit eb4d7908 (startedAt 2026-11-18T00:33:49Z). `deploy` at 18:58:52Z: state current, live == prodTip, behindCommits 0, behindSince null, error null. monitor.alerts empty (lastSampleAt 18:59:52Z).
+- **Day of evidence (11-17 18:30Z → 11-18 19:00Z):** zero `alert` events in Prod (412 Prod events read), zero `alert=deploy` events town-wide, no deploy-key FYI on the Prod board (newest Prod alert FYI is [dc_pugmgb0lpt](../../fyi/2026-11/2026-11-15-cleared-red-redeploy-failed-redeploy-failed-5-min-gmgb0lpt.md), 11-15). The prod puller (PR #495) shipped 5 deploys in the window: 6096977 (19:27:50Z), cbfa71e (22:13:04Z), 99a676b (00:13:17Z), 4b2383a (00:23:29Z), eb4d790 (00:33:49Z, 2 commits). Worst merge-to-live ~14 min (#502 merged 00:19:46Z, live 00:33:49Z, held by the 10-min restart spacing), well under the 30-min yellow. No need to raise yellow to 45.
+- Code: `packages/server/src/deploy-watch.ts` (DeployWatch, every 5 min, GET /branches/prod then /compare per pair; states current | behind | docs-only | unknown; behindSince in meta `deployWatch`). `monitor.ts` key `deploy`: yellow > 30 min, red > 90; docs-only never raises.
+- If a burst of merges ever queues behind the 10-min restart spacing, behind could approach 30 min; raise yellow to 45 only if a false yellow is actually seen.
