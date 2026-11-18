@@ -39,8 +39,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (225)
+## report (226)
 
+- 2026-11-18 [Live: goal detail shows "Key results" above "✓ 3 done" (PR #503, eb4d7908)](docs/report/2026-11/2026-11-18-live-goal-detail-shows-key-results-above-3-done-pr-h8phiqje.md) `dc_2eh8phiqje` · Teo 1
 - 2026-11-18 [PR #503 green and squash-merged (eb4d7908); parked until live](docs/report/2026-11/2026-11-18-pr-503-green-and-squash-merged-eb4d7908-parked-unt-i5p45lgf.md) `dc_doi5p45lgf` · Teo 1
 - 2026-11-18 [Goal detail heading fix: PR #503, parked on CI](docs/report/2026-11/2026-11-18-goal-detail-heading-fix-pr-503-parked-on-ci-jicdwg8j.md) `dc_7sjicdwg8j` · Teo 1
 - 2026-11-18 [Explored disclosure on live; proposed gr_nhayb7s9bd: goal tree readable at first look (350k)](docs/report/2026-11/2026-11-18-explored-disclosure-on-live-proposed-gr-nhayb7s9bd-wtki76yq.md) `dc_5kwtki76yq` · Teo 1
@@ -70,7 +71,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-10 [Session ended without a report: PR #423 CI done: if green squash-merge (no redeploy), park on its deploy](docs/report/2026-11/2026-11-10-session-ended-without-a-report-pr-423-ci-done-if-g-w699zxep.md) `dc_uuw699zxep` · Teo 1
 - 2026-11-10 [PR #423 CI still running on 90c79b95: re-parked on its checks](docs/report/2026-11/2026-11-10-pr-423-ci-still-running-on-90c79b95-re-parked-on-i-o5ic936t.md) `dc_ovo5ic936t` · Teo 2
 - 2026-11-10 [PR #423 had a conflict with main: merged, log line moved to docs/log.d, re-parked on CI](docs/report/2026-11/2026-11-10-pr-423-had-a-conflict-with-main-merged-log-line-mo-3so59wbl.md) `dc_xc3so59wbl` · Teo 1
-- 2026-11-10 [1:1 lines show their tool calls, folded (PR #423 draft, parked on CI)](docs/report/2026-11/2026-11-10-1-1-lines-show-their-tool-calls-folded-pr-423-draf-47hpjxu8.md) `dc_gj47hpjxu8` · Teo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

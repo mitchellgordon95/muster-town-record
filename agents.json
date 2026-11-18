@@ -14629,7 +14629,7 @@
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 171152
+    "familySpentToday": 197048
   },
   {
     "id": "ag_7kh2edojrr",
@@ -59327,6 +59327,37 @@
     "createdAt": "2026-11-18T00:24:45.084Z",
     "lastActiveAt": "2026-11-18T00:25:10.636Z",
     "lastSeenAt": "2026-11-18T00:25:10.547Z",
+    "inheritsOwner": false,
+    "deniedPermissions": [],
+    "forkOf": "ag_s1kuuuo54b",
+    "forkN": 1,
+    "familySpentToday": 0
+  },
+  {
+    "id": "ag_4jw5so4sat",
+    "name": "Teo 1",
+    "kind": "resident",
+    "buildingId": "bl_t7slw19vgg",
+    "homeBuildingId": "bl_t7slw19vgg",
+    "ownerUserId": "us_1la74k332n",
+    "title": "",
+    "direction": "",
+    "sprite": 1,
+    "pos": {
+      "x": 46,
+      "y": 10
+    },
+    "status": "retired",
+    "activity": "",
+    "model": "claude-opus-5-5",
+    "spentTokensToday": 25896,
+    "spentTokensTotal": 25896,
+    "spentUsdTotal": 0.5179273,
+    "currentAssignmentId": null,
+    "currentMeetingId": null,
+    "createdAt": "2026-11-18T00:33:55.766Z",
+    "lastActiveAt": "2026-11-18T00:35:46.950Z",
+    "lastSeenAt": "2026-11-18T00:35:42.446Z",
     "inheritsOwner": false,
     "deniedPermissions": [],
     "forkOf": "ag_s1kuuuo54b",

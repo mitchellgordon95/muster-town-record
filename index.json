@@ -30391,5 +30391,14 @@
     "state": "building",
     "buildingId": "bl_t7slw19vgg",
     "createdAt": "2026-11-18T00:25:10.552Z"
+  },
+  {
+    "id": "dc_2eh8phiqje",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-18-live-goal-detail-shows-key-results-above-3-done-pr-h8phiqje.md",
+    "title": "Live: goal detail shows \"Key results\" above \"✓ 3 done\" (PR #503, eb4d7908)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-18T00:35:46.888Z"
   }
 ]
