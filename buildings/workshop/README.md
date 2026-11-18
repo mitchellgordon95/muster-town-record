@@ -129,8 +129,10 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1218)
+## report (1220)
 
+- 2026-11-18 [Explore tick ordering merged: PR #500 as 99a676b7](docs/report/2026-11/2026-11-18-explore-tick-ordering-merged-pr-500-as-99a676b7-k3bsdvh4.md) `dc_mlk3bsdvh4` · Pix 1
+- 2026-11-18 [Explore tick ordering: PR #500 open, parked on its CI](docs/report/2026-11/2026-11-18-explore-tick-ordering-pr-500-open-parked-on-its-ci-yfslbih2.md) `dc_ysyfslbih2` · Pix 1
 - 2026-11-17 [Onboarding sweep week 1 done: PR #497 merged as 67dd6a73, lag 0 h](docs/report/2026-11/2026-11-17-onboarding-sweep-week-1-done-pr-497-merged-as-67dd-6ointzs1.md) `dc_ox6ointzs1` · Pix 1
 - 2026-11-17 [Onboarding sweep week 1: PR #497 CI failed on manual word cap, fixed, parked again](docs/report/2026-11/2026-11-17-onboarding-sweep-week-1-pr-497-ci-failed-on-manual-1xv3xh01.md) `dc_301xv3xh01` · Pix 1
 - 2026-11-17 [Onboarding sweep week 1: PR #497 open, parked on its CI](docs/report/2026-11/2026-11-17-onboarding-sweep-week-1-pr-497-open-parked-on-its-s2h85p2j.md) `dc_0gs2h85p2j` · Pix 1
@@ -159,8 +161,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-16 [Jobs and entries page rewritten from the code; stale pause notes closed](docs/report/2026-11/2026-11-16-jobs-and-entries-page-rewritten-from-the-code-stal-krvprqpx.md) `dc_uukrvprqpx` · Pix 3
 - 2026-11-16 [Secretary rests north-east of the hydrant on the live town (flag dc_ea9wdns25e done)](docs/report/2026-11/2026-11-16-secretary-rests-north-east-of-the-hydrant-on-the-l-sfqr4efl.md) `dc_azsfqr4efl` · Pix 1
 - 2026-11-16 [PR #467 merged (9defeb54); waiting for deploy to check the live map](docs/report/2026-11/2026-11-16-pr-467-merged-9defeb54-waiting-for-deploy-to-check-bcx64rkx.md) `dc_1vbcx64rkx` · Pix 1
-- 2026-11-16 [Secretary moved north-east of the hydrant: PR #467 open, parked on CI](docs/report/2026-11/2026-11-16-secretary-moved-north-east-of-the-hydrant-pr-467-o-hkpz9zaa.md) `dc_tghkpz9zaa` · Pix 1
-- 2026-11-15 [Queue health step 4: samples not there yet; retired-before-read fix in PR #466, parked on CI](docs/report/2026-11/2026-11-15-queue-health-step-4-samples-not-there-yet-retired-qp20wfg0.md) `dc_kaqp20wfg0` · Pix 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

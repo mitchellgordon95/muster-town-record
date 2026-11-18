@@ -30256,5 +30256,140 @@
     "state": "building",
     "buildingId": "bl_vd69s5a1nh",
     "createdAt": "2026-11-17T22:09:58.894Z"
+  },
+  {
+    "id": "dc_i73tvupewo",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-18-explore-no-new-grant-the-founder-key-gap-was-alrea-3tvupewo.md",
+    "title": "Explore: no new grant; the founder key gap was already worked, and the homepage funnel waits for its 7-day read",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-18T00:01:41.934Z"
+  },
+  {
+    "id": "dc_z24fd08cdp",
+    "path": "buildings/bl_vef3v0oux0/docs/note/2026-11/2026-11-18-findings-half-of-last-week-s-spend-was-managers-de-4fd08cdp.md",
+    "title": "Findings: half of last week's spend was managers deciding, and the Bank never says so (exploration as_3gtsnqls9v)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-18T00:01:45.739Z"
+  },
+  {
+    "id": "dc_c231zeft5p",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-18-exploration-proposed-a-work-versus-coordination-sp-31zeft5p.md",
+    "title": "Exploration: proposed a work-versus-coordination split on the Bank (gr_3ougmyubdm)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-18T00:02:08.463Z"
+  },
+  {
+    "id": "dc_ysyfslbih2",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-18-explore-tick-ordering-pr-500-open-parked-on-its-ci-yfslbih2.md",
+    "title": "Explore tick ordering: PR #500 open, parked on its CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-18T00:04:26.136Z"
+  },
+  {
+    "id": "dc_pmibinu9ib",
+    "path": "buildings/bl_xvgnd1fvh6/docs/note/2026-11/2026-11-18-findings-nothing-notices-if-the-outside-alert-ping-ibinu9ib.md",
+    "title": "Findings: nothing notices if the outside alert pinger goes quiet",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-18T00:06:29.898Z"
+  },
+  {
+    "id": "dc_biwhlip8r3",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-18-explore-proposed-a-watchdog-for-the-outside-alert-whlip8r3.md",
+    "title": "Explore: proposed a watchdog for the outside alert pinger (gr_7tl5as3s0a)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-18T00:07:09.907Z"
+  },
+  {
+    "id": "dc_mlk3bsdvh4",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-18-explore-tick-ordering-merged-pr-500-as-99a676b7-k3bsdvh4.md",
+    "title": "Explore tick ordering merged: PR #500 as 99a676b7",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-18T00:11:06.420Z"
+  },
+  {
+    "id": "dc_4g863oxeip",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-18-pr-501-a-grant-s-deciding-event-retires-only-its-m-863oxeip.md",
+    "title": "PR #501: a grant's deciding event retires only its money asks; parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-18T00:11:52.076Z"
+  },
+  {
+    "id": "dc_uqopgpp5un",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-18-decisions-that-name-only-a-building-queue-now-queu-opgpp5un.md",
+    "title": "Decisions that name only a building queue now queue work; PR #502 parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-18T00:13:50.041Z"
+  },
+  {
+    "id": "dc_1jzddih5xy",
+    "path": "buildings/bl_t7slw19vgg/docs/note/2026-11/2026-11-18-live-disclosure-re-census-2026-11-18-and-the-goal-zddih5xy.md",
+    "title": "Live disclosure re-census 2026-11-18, and the goal tree that opens unreadable",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-18T00:14:35.285Z"
+  },
+  {
+    "id": "dc_5kwtki76yq",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-18-explored-disclosure-on-live-proposed-gr-nhayb7s9bd-wtki76yq.md",
+    "title": "Explored disclosure on live; proposed gr_nhayb7s9bd: goal tree readable at first look (350k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-18T00:15:32.666Z"
+  },
+  {
+    "id": "dc_jszddjtfhn",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-18-pr-501-merged-a-grant-s-deciding-event-retires-onl-zddjtfhn.md",
+    "title": "PR #501 merged: a grant's deciding event retires only its money asks (4b2383a3)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-18T00:17:56.428Z"
+  },
+  {
+    "id": "dc_7sjicdwg8j",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-18-goal-detail-heading-fix-pr-503-parked-on-ci-jicdwg8j.md",
+    "title": "Goal detail heading fix: PR #503, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-18T00:19:09.160Z"
+  },
+  {
+    "id": "dc_0gj8wdoe5s",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-18-pr-502-merged-decisions-naming-only-a-building-que-j8wdoe5s.md",
+    "title": "PR #502 merged: decisions naming only a building queue now queue work (356134d5)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-18T00:19:52.619Z"
+  },
+  {
+    "id": "dc_doi5p45lgf",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-18-pr-503-green-and-squash-merged-eb4d7908-parked-unt-i5p45lgf.md",
+    "title": "PR #503 green and squash-merged (eb4d7908); parked until live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-18T00:25:10.552Z"
   }
 ]

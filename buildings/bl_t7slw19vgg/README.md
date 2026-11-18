@@ -26,8 +26,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [1:1: Mitchell and Teo — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-teo-notes-tuy9g1zf.md) `dc_0ltuy9g1zf` · Teo
 - 2026-10-29 [1:1: Mitchell and Teo — notes](docs/meeting-notes/2026-10/2026-10-29-1-1-mitchell-and-teo-notes-nji0boyh.md) `dc_bqnji0boyh` · Teo
 
-## note (9)
+## note (10)
 
+- 2026-11-18 [Live disclosure re-census 2026-11-18, and the goal tree that opens unreadable](docs/note/2026-11/2026-11-18-live-disclosure-re-census-2026-11-18-and-the-goal-zddih5xy.md) `dc_1jzddih5xy` · Teo 1
 - 2026-11-05 [Findings: reports and grant pages still show a guest ~2 raw ids for every name (live aa6f4fbc)](docs/note/2026-11/2026-11-05-findings-reports-and-grant-pages-still-show-a-gues-2t8agkzf.md) `dc_3e2t8agkzf` · Teo 1
 - 2026-11-04 [Disclosure census baseline (gr_zak30564zh step 1): live a84ed22 6 of 34 rows pass, mock 62 of 84; grant pages 9–12 screens](docs/note/2026-11/2026-11-04-disclosure-census-baseline-gr-zak30564zh-step-1-li-suylx6zd.md) `dc_3nsuylx6zd` · Teo 2
 - 2026-11-04 [Type and contrast census (live a84ed22): dim text fails 4.5:1 on 6 of 8 laptop views; each screen mixes 7–13 font sizes](docs/note/2026-11/2026-11-04-type-and-contrast-census-live-a84ed22-dim-text-fai-yxaapw3w.md) `dc_xbyxaapw3w` · Teo 1
@@ -38,8 +39,11 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (222)
+## report (225)
 
+- 2026-11-18 [PR #503 green and squash-merged (eb4d7908); parked until live](docs/report/2026-11/2026-11-18-pr-503-green-and-squash-merged-eb4d7908-parked-unt-i5p45lgf.md) `dc_doi5p45lgf` · Teo 1
+- 2026-11-18 [Goal detail heading fix: PR #503, parked on CI](docs/report/2026-11/2026-11-18-goal-detail-heading-fix-pr-503-parked-on-ci-jicdwg8j.md) `dc_7sjicdwg8j` · Teo 1
+- 2026-11-18 [Explored disclosure on live; proposed gr_nhayb7s9bd: goal tree readable at first look (350k)](docs/report/2026-11/2026-11-18-explored-disclosure-on-live-proposed-gr-nhayb7s9bd-wtki76yq.md) `dc_5kwtki76yq` · Teo 1
 - 2026-11-17 [1:1 fix f83b8f50 is live; live screenshot needs a human-opened 1:1](docs/report/2026-11/2026-11-17-1-1-fix-f83b8f50-is-live-live-screenshot-needs-a-h-ex6z35gm.md) `dc_f1ex6z35gm` · Teo 1
 - 2026-11-17 [PR #494 green and squash-merged (d863e456)](docs/report/2026-11/2026-11-17-pr-494-green-and-squash-merged-d863e456-irbuts8t.md) `dc_9airbuts8t` · Teo 2
 - 2026-11-17 [PR #492 green and squash-merged (f83b8f50); parked until it is live for the 1:1 screenshot](docs/report/2026-11/2026-11-17-pr-492-green-and-squash-merged-f83b8f50-parked-unt-e8oxiqyu.md) `dc_oge8oxiqyu` · Teo 1
@@ -67,9 +71,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-10 [PR #423 CI still running on 90c79b95: re-parked on its checks](docs/report/2026-11/2026-11-10-pr-423-ci-still-running-on-90c79b95-re-parked-on-i-o5ic936t.md) `dc_ovo5ic936t` · Teo 2
 - 2026-11-10 [PR #423 had a conflict with main: merged, log line moved to docs/log.d, re-parked on CI](docs/report/2026-11/2026-11-10-pr-423-had-a-conflict-with-main-merged-log-line-mo-3so59wbl.md) `dc_xc3so59wbl` · Teo 1
 - 2026-11-10 [1:1 lines show their tool calls, folded (PR #423 draft, parked on CI)](docs/report/2026-11/2026-11-10-1-1-lines-show-their-tool-calls-folded-pr-423-draf-47hpjxu8.md) `dc_gj47hpjxu8` · Teo 1
-- 2026-11-10 [327109bf is live: hydrant draws one water-blue ask stream](docs/report/2026-11/2026-11-10-327109bf-is-live-hydrant-draws-one-water-blue-ask-ttiyeks3.md) `dc_3wttiyeks3` · Teo 1
-- 2026-11-10 [Message from Mitchell (via Secretary): Teo: Mitchell rejected gr_irjtu6tknu ("Guests read reports and grants by name")…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-secretary-teo-mitchell-r-i4pti3nl.md) `dc_pxi4pti3nl` · Town
-- 2026-11-10 [PR #414 merged as 327109bf (hydrant: one water-blue ask stream); parked on its deploy](docs/report/2026-11/2026-11-10-pr-414-merged-as-327109bf-hydrant-one-water-blue-a-uva310iu.md) `dc_piuva310iu` · Teo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

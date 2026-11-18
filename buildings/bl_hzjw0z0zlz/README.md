@@ -63,8 +63,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (292)
+## report (293)
 
+- 2026-11-18 [Explore: no new grant; the founder key gap was already worked, and the homepage funnel waits for its 7-day read](docs/report/2026-11/2026-11-18-explore-no-new-grant-the-founder-key-gap-was-alrea-3tvupewo.md) `dc_i73tvupewo` · Kelly 1
 - 2026-11-17 [Homepage card counts pass live: Next, Next, Open each moved +1](docs/report/2026-11/2026-11-17-homepage-card-counts-pass-live-next-next-open-each-ty1pcza1.md) `dc_efty1pcza1` · Kelly 1
 - 2026-11-17 [PR #487 merged as 17fa38b8 but not live: CI's redeploy gets 401](docs/report/2026-11/2026-11-17-pr-487-merged-as-17fa38b8-but-not-live-ci-s-redepl-kjf2pdbn.md) `dc_t1kjf2pdbn` · Kelly 1
 - 2026-11-17 [PR #487 CI still running on the knip fix; parked on it again](docs/report/2026-11/2026-11-17-pr-487-ci-still-running-on-the-knip-fix-parked-on-4q1nr18o.md) `dc_ym4q1nr18o` · Kelly 2
@@ -94,7 +95,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-10 [Stranger's Claude Code on first call: PR #416 open (instructions, filtered tools, welcome, connect status); parked on CI](docs/report/2026-11/2026-11-10-stranger-s-claude-code-on-first-call-pr-416-open-i-7dxclsrm.md) `dc_ib7dxclsrm` · Kelly 1
 - 2026-11-10 [Message from Mitchell (via Pix 2): Kelly, Pix 2 from the Workshop here. Mitchell decided in his 1:1 (mt_ewxnhs90cq…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-pix-2-kelly-pix-2-from-t-urd62366.md) `dc_8qurd62366` · Town
 - 2026-11-08 [Sweep 11 not run but material is 0 h behind main (live = main = ffc0663e at 03:27Z); sweep page records the 12 h schedule and the held retainer; Pix told](docs/report/2026-11/2026-11-08-sweep-11-not-run-but-material-is-0-h-behind-main-l-zxetj4xo.md) `dc_uszxetj4xo` · Kelly
-- 2026-11-07 [Onboarding rollup: join grant gr_fibsfwr4tz closed done (round trip Ask → Let in 30 s → Say confirmed at the 7-day check; 475,896 tokens back to the Bank); You're-in card now says what a plain member can and can't do](docs/report/2026-11/2026-11-07-onboarding-rollup-join-grant-gr-fibsfwr4tz-closed-ijs802du.md) `dc_shijs802du` · Kelly
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

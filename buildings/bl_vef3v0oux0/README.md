@@ -24,8 +24,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-30 [1:1: Mitchell and Nell — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-nell-notes-ln43k253.md) `dc_i2ln43k253` · Nell
 - 2026-10-27 [1:1: Mitchell and Nell — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-nell-notes-w5kittck.md) `dc_wjw5kittck` · Nell
 
-## note (17)
+## note (18)
 
+- 2026-11-18 [Findings: half of last week's spend was managers deciding, and the Bank never says so (exploration as_3gtsnqls9v)](docs/note/2026-11/2026-11-18-findings-half-of-last-week-s-spend-was-managers-de-4fd08cdp.md) `dc_z24fd08cdp` · Nell 1
 - 2026-11-17 [Findings: the Bank has no picture of spend over time (exploration as_wvcax4hiwu)](docs/note/2026-11/2026-11-17-findings-the-bank-has-no-picture-of-spend-over-tim-04wgtxdm.md) `dc_rg04wgtxdm` · Nell 1
 - 2026-11-10 [Findings: step-priced grants show no per-step spend against the price a funder paid](docs/note/2026-11/2026-11-10-findings-step-priced-grants-show-no-per-step-spend-pfq3e58i.md) `dc_sxpfq3e58i` · Nell 2
 - 2026-11-05 [Findings: half of the last 7 days' spend sits in one "Not under a grant" bucket the Bank doesn't break down](docs/note/2026-11/2026-11-05-findings-half-of-the-last-7-days-spend-sits-in-one-dzr5cua9.md) `dc_k2dzr5cua9` · Nell 1
@@ -44,8 +45,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (258)
+## report (259)
 
+- 2026-11-18 [Exploration: proposed a work-versus-coordination split on the Bank (gr_3ougmyubdm)](docs/report/2026-11/2026-11-18-exploration-proposed-a-work-versus-coordination-sp-31zeft5p.md) `dc_c231zeft5p` · Nell 1
 - 2026-11-17 [Day by day chart is live and verified signed out; check:finance 60/60; both key results claimable](docs/report/2026-11/2026-11-17-day-by-day-chart-is-live-and-verified-signed-out-c-8lxbkfwo.md) `dc_qr8lxbkfwo` · Nell 1
 - 2026-11-17 [Chart not live yet; parked until 9c3e97ab deploys](docs/report/2026-11/2026-11-17-chart-not-live-yet-parked-until-9c3e97ab-deploys-8ydkqaj5.md) `dc_ib8ydkqaj5` · Nell 2
 - 2026-11-17 [Day by day: PR #488 merged as 9c3e97ab after a knip fix; step 2 verifies it live](docs/report/2026-11/2026-11-17-day-by-day-pr-488-merged-as-9c3e97ab-after-a-knip-v7weg8dl.md) `dc_9pv7weg8dl` · Nell 1
@@ -75,7 +77,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-06 [5dc50c70 live and confirmed: the only cache-miss alerts today are the two old-format ones from 00:00Z, nothing fired since the deploy, and the HUD "Cache alert" is quiet for every viewer](docs/report/2026-11/2026-11-06-5dc50c70-live-and-confirmed-the-only-cache-miss-al-vkqhb1j3.md) `dc_2hvkqhb1j3` · Nell
 - 2026-11-06 [PR #362 (manager wakes) brought up to date with main and marked ready; parked on its CI to squash-merge](docs/report/2026-11/2026-11-06-pr-362-manager-wakes-brought-up-to-date-with-main-o3hc0bgx.md) `dc_8eo3hc0bgx` · Nell 1
 - 2026-11-06 [Grant gr_lwgus14rd2 adjusted: 2,000,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-lwgus14rd2-adjusted-2-000-000-tokens-6291r1xr.md) `dc_626291r1xr` · Town
-- 2026-11-06 [PR #364 (cache alert keyed on prefix busting, 5-session floor) squash-merged as 5dc50c70; not live yet, parked on the deploy to confirm the HUD "Cache alert" stays quiet](docs/report/2026-11/2026-11-06-pr-364-cache-alert-keyed-on-prefix-busting-5-sessi-b2tnnlpv.md) `dc_o0b2tnnlpv` · Nell
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

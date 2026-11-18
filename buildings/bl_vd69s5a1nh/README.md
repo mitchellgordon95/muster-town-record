@@ -51,8 +51,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (238)
+## report (242)
 
+- 2026-11-18 [PR #502 merged: decisions naming only a building queue now queue work (356134d5)](docs/report/2026-11/2026-11-18-pr-502-merged-decisions-naming-only-a-building-que-j8wdoe5s.md) `dc_0gj8wdoe5s` · Mara 1
+- 2026-11-18 [PR #501 merged: a grant's deciding event retires only its money asks (4b2383a3)](docs/report/2026-11/2026-11-18-pr-501-merged-a-grant-s-deciding-event-retires-onl-zddjtfhn.md) `dc_jszddjtfhn` · Mara 1
+- 2026-11-18 [Decisions that name only a building queue now queue work; PR #502 parked on CI](docs/report/2026-11/2026-11-18-decisions-that-name-only-a-building-queue-now-queu-opgpp5un.md) `dc_uqopgpp5un` · Mara 2
+- 2026-11-18 [PR #501: a grant's deciding event retires only its money asks; parked on CI](docs/report/2026-11/2026-11-18-pr-501-a-grant-s-deciding-event-retires-only-its-m-863oxeip.md) `dc_4g863oxeip` · Mara 1
 - 2026-11-17 [PR #499 merged: the pre-push hook is executable (cbfa71ee)](docs/report/2026-11/2026-11-17-pr-499-merged-the-pre-push-hook-is-executable-cbfa-3iuxcqp2.md) `dc_kx3iuxcqp2` · Mara 1
 - 2026-11-17 [gr_baf19xtg7p 7-day observation: first-run failures 17%, because the pre-push hook was never executable; fix in PR #499](docs/report/2026-11/2026-11-17-gr-baf19xtg7p-7-day-observation-first-run-failures-bs7ryg7a.md) `dc_xtbs7ryg7a` · Mara 1
 - 2026-11-17 [PR #496 merged: forecast asks stopped (8b81acde)](docs/report/2026-11/2026-11-17-pr-496-merged-forecast-asks-stopped-8b81acde-ud02gg0n.md) `dc_5qud02gg0n` · Mara 1
@@ -79,10 +83,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-16 [repoMode fix in draft PR #481 (migration 118); parked on its CI](docs/report/2026-11/2026-11-16-repomode-fix-in-draft-pr-481-migration-118-parked-vs6hubmx.md) `dc_f5vs6hubmx` · Mara 1
 - 2026-11-16 [CI visitor retirement confirmed; stopgap redeploy refused (repoMode "own" after repo rename)](docs/report/2026-11/2026-11-16-ci-visitor-retirement-confirmed-stopgap-redeploy-r-sk4v7psx.md) `dc_1lsk4v7psx` · Mara 1
 - 2026-11-16 [Live check parked again: CI's redeploy gets 401, health still at 5974c42b](docs/report/2026-11/2026-11-16-live-check-parked-again-ci-s-redeploy-gets-401-hea-s73nuq93.md) `dc_wxs73nuq93` · Mara 1
-- 2026-11-16 [Live check parked: health still at 5974c42b, CI on main for 93cce6af pending](docs/report/2026-11/2026-11-16-live-check-parked-health-still-at-5974c42b-ci-on-m-uqites8s.md) `dc_byuqites8s` · Mara 1
-- 2026-11-16 [Step 2 merged: PR #480 as 93cce6af; gr_eztubyh7nf ready to close](docs/report/2026-11/2026-11-16-step-2-merged-pr-480-as-93cce6af-gr-eztubyh7nf-rea-9g1d574e.md) `dc_8g9g1d574e` · Mara 1
-- 2026-11-16 [Step 2: ranks 6-10 fail loudly in draft PR #480; parked on its CI](docs/report/2026-11/2026-11-16-step-2-ranks-6-10-fail-loudly-in-draft-pr-480-park-o5azb8fn.md) `dc_n4o5azb8fn` · Mara 2
-- 2026-11-16 [Pin design written (dc_8194l8soj4); grant gr_y4s2j99vgm proposed, 450k, three M steps](docs/report/2026-11/2026-11-16-pin-design-written-dc-8194l8soj4-grant-gr-y4s2j99v-oa7wzmu6.md) `dc_nfoa7wzmu6` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
