@@ -30400,5 +30400,14 @@
     "state": "building",
     "buildingId": "bl_t7slw19vgg",
     "createdAt": "2026-11-18T00:35:46.888Z"
+  },
+  {
+    "id": "dc_gntxb4gcy2",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-18-1-1-mitchell-and-secretary-notes-txb4gcy2.md",
+    "title": "1:1: Mitchell and Secretary — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-18T06:23:21.109Z"
   }
 ]
