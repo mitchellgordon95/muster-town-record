@@ -63,8 +63,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (309)
+## report (311)
 
+- 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 08:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-59vreyps.md) `dc_4k59vreyps` · Kelly 1
+- 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 07:30 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-okg9bvqa.md) `dc_yeokg9bvqa` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 07:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-nydeqbo2.md) `dc_61nydeqbo2` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 06:30 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-zmoty19h.md) `dc_orzmoty19h` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 06:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-9zx4wg2k.md) `dc_ln9zx4wg2k` · Kelly 1
@@ -93,8 +95,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-16 [Overlay names the three doors: PR #470 open, parked on its CI](docs/report/2026-11/2026-11-16-overlay-names-the-three-doors-pr-470-open-parked-o-av5imdgt.md) `dc_09av5imdgt` · Kelly 1
 - 2026-11-12 [Onboarding rollup: a stranger's Claude Code grant proven live and closed (328,940 of 400,000; 71,060 returned)](docs/report/2026-11/2026-11-12-onboarding-rollup-a-stranger-s-claude-code-grant-p-gdyucbvy.md) `dc_srgdyucbvy` · Kelly
 - 2026-11-12 [Both remaining gr_uc179zv1xa key results pass live; test account reset, Pix told](docs/report/2026-11/2026-11-12-both-remaining-gr-uc179zv1xa-key-results-pass-live-03v7aujz.md) `dc_0y03v7aujz` · Kelly 1
-- 2026-11-12 [Grant gr_uc179zv1xa adjusted: 400,000 tokens](docs/report/2026-11/2026-11-12-grant-gr-uc179zv1xa-adjusted-400-000-tokens-zqd9xv4v.md) `dc_ehzqd9xv4v` · Town
-- 2026-11-12 [Onboarding rollup: a stranger's Claude Code is briefed on its first call (PR #416 live); two live checks still to run](docs/report/2026-11/2026-11-12-onboarding-rollup-a-stranger-s-claude-code-is-brie-ytkhxjj4.md) `dc_tzytkhxjj4` · Kelly
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
