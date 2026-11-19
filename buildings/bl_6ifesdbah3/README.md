@@ -16,8 +16,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-05 [A stranger can't find or share Muster Town yet: no search presence, no link previews, no robots/sitemap, bare GitHub repo (checked 2026-11-05)](docs/note/2026-11/2026-11-05-a-stranger-can-t-find-or-share-muster-town-yet-no-dtnhmecv.md) `dc_1adtnhmecv` · Juno 1
 - 2026-11-05 [Muster Town next to Ruflo, Gas Town, Munder Difflin and Svall: overlaps, differences, outreach channels we could use](docs/note/2026-11/2026-11-05-muster-town-next-to-ruflo-gas-town-munder-difflin-3ini7ysr.md) `dc_jk3ini7ysr` · Juno 1
 
-## report (39)
+## report (40)
 
+- 2026-11-19 [Mitchell's post ready to publish (PR #525); parked until it merges](docs/report/2026-11/2026-11-19-mitchell-s-post-ready-to-publish-pr-525-parked-unt-1rjmms65.md) `dc_zn1rjmms65` · Juno 1
 - 2026-11-19 [Show HN baseline recorded: 4 subscribers (3 confirmed), 0 stars, 0 forks](docs/report/2026-11/2026-11-19-show-hn-baseline-recorded-4-subscribers-3-confirme-cd78nn88.md) `dc_e9cd78nn88` · Juno 1
 - 2026-11-19 [Waiting for PR #520 to go live before reading the subscriber count](docs/report/2026-11/2026-11-19-waiting-for-pr-520-to-go-live-before-reading-the-s-hnx96n0s.md) `dc_xyhnx96n0s` · Juno 1
 - 2026-11-19 [Show HN text and stars baseline ready; Juno to file the do ask; PR #520 makes the subscriber count readable](docs/report/2026-11/2026-11-19-show-hn-text-and-stars-baseline-ready-juno-to-file-u1o69dc6.md) `dc_zfu1o69dc6` · Juno 1
@@ -47,7 +48,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-12 [Outreach rollup #3: blog hosting is live on muster.town (/blog, posts from markdown in the repo, Atom feed); email signup is next](docs/report/2026-11/2026-11-12-outreach-rollup-3-blog-hosting-is-live-on-muster-t-li9tptwx.md) `dc_uhli9tptwx` · Juno
 - 2026-11-12 [Blog hosting is live on muster.town: /blog, the draft post and the Atom feed all check out](docs/report/2026-11/2026-11-12-blog-hosting-is-live-on-muster-town-blog-the-draft-b86kmehq.md) `dc_nlb86kmehq` · Juno 1
 - 2026-11-12 [Blog hosting PR #430 merged as 192ace07; parked until CI deploys it to verify /blog live](docs/report/2026-11/2026-11-12-blog-hosting-pr-430-merged-as-192ace07-parked-unti-0zl1z4sa.md) `dc_xr0zl1z4sa` · Juno 1
-- 2026-11-12 [Blog hosting PR #430 opened (/blog, /blog/<slug>, Atom feed, preview tags); parked on its CI to merge](docs/report/2026-11/2026-11-12-blog-hosting-pr-430-opened-blog-blog-slug-atom-fee-jubc1jhf.md) `dc_swjubc1jhf` · Juno 1
 
 All by month: [2026-11](docs/report/2026-11/)
 

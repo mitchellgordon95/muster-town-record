@@ -41,8 +41,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (240)
+## report (241)
 
+- 2026-11-19 [Steer button on every ask card: PR #526, parked to merge when green](docs/report/2026-11/2026-11-19-steer-button-on-every-ask-card-pr-526-parked-to-me-nfh62vv8.md) `dc_dpnfh62vv8` · Teo 1
 - 2026-11-19 [Census leaves the queue's front ask card uncounted: PR #519; goal tree and queue pass at both sizes live](docs/report/2026-11/2026-11-19-census-leaves-the-queue-s-front-ask-card-uncounted-4v4x4no7.md) `dc_9q4v4x4no7` · Teo 1
 - 2026-11-19 [Live census: goal tree passes at both sizes; queue row prints but fails on its front card's words](docs/report/2026-11/2026-11-19-live-census-goal-tree-passes-at-both-sizes-queue-r-3s34jwd3.md) `dc_9u3s34jwd3` · Teo 1
 - 2026-11-19 [PR #516 green and squash-merged (d5735b17); parked until live](docs/report/2026-11/2026-11-19-pr-516-green-and-squash-merged-d5735b17-parked-unt-pnix8vk8.md) `dc_y6pnix8vk8` · Teo 1
@@ -72,7 +73,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-16 [PR #477 green and squash-merged (77c6073c)](docs/report/2026-11/2026-11-16-pr-477-green-and-squash-merged-77c6073c-favbztpg.md) `dc_vbfavbztpg` · Teo 1
 - 2026-11-16 [Drag residents with a grasper hand: PR #477, parked on CI to merge](docs/report/2026-11/2026-11-16-drag-residents-with-a-grasper-hand-pr-477-parked-o-g4u1zha3.md) `dc_71g4u1zha3` · Teo 2
 - 2026-11-16 [PR #471 green and squash-merged (11f40a03)](docs/report/2026-11/2026-11-16-pr-471-green-and-squash-merged-11f40a03-cx0ooi9h.md) `dc_i4cx0ooi9h` · Teo 1
-- 2026-11-16 [Forms keep half-filled drafts: PR #471, parked on CI to merge](docs/report/2026-11/2026-11-16-forms-keep-half-filled-drafts-pr-471-parked-on-ci-e021i55x.md) `dc_9ze021i55x` · Teo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -85,8 +85,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-31 [delight-walk](docs/skill/2026-10/2026-10-31-delight-walk-la62qft8.md) `dc_14la62qft8` · Teo 2
 - 2026-10-31 [map-bubble-sampler](docs/skill/2026-10/2026-10-31-map-bubble-sampler-h9yywhfl.md) `dc_6ph9yywhfl` · Teo 1
 
-## wiki (21)
+## wiki (22)
 
+- 2026-11-19 [Steer from an ask card](docs/wiki/2026-11/2026-11-19-steer-from-an-ask-card-quk4uxfh.md) `dc_ylquk4uxfh` · Teo 1
 - 2026-11-19 [Goal tree readable at first look (gr_nhayb7s9bd)](docs/wiki/2026-11/2026-11-19-goal-tree-readable-at-first-look-gr-nhayb7s9bd-5fhlkrq7.md) `dc_7z5fhlkrq7` · Teo 1
 - 2026-11-17 [1:1 live progress (writing line and tool calls)](docs/wiki/2026-11/2026-11-17-1-1-live-progress-writing-line-and-tool-calls-3sxczr6d.md) `dc_pm3sxczr6d` · Teo 2
 - 2026-11-16 [Drag residents with the grasper hand](docs/wiki/2026-11/2026-11-16-drag-residents-with-the-grasper-hand-rianpcp1.md) `dc_kmrianpcp1` · Teo 2

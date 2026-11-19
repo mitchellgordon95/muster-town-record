@@ -129,8 +129,10 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1227)
+## report (1229)
 
+- 2026-11-19 [Rank asks by the goal tree, rank on filing: PR #527, merges when green](docs/report/2026-11/2026-11-19-rank-asks-by-the-goal-tree-rank-on-filing-pr-527-m-zryao2aq.md) `dc_rfzryao2aq` · Pix 1
+- 2026-11-19 [One goal tree: Workshop panel checked live on 96ff0bd4, kr_4ee59lp0m2 claimed](docs/report/2026-11/2026-11-19-one-goal-tree-workshop-panel-checked-live-on-96ff0-l4pljea4.md) `dc_k7l4pljea4` · Pix 2
 - 2026-11-19 [Building Overview and Goals tab read the one tree: PR #523 open (draft)](docs/report/2026-11/2026-11-19-building-overview-and-goals-tab-read-the-one-tree-fy99b8d2.md) `dc_upfy99b8d2` · Pix 1
 - 2026-11-19 [Grants route by goalId: PR #522 open, merges when green](docs/report/2026-11/2026-11-19-grants-route-by-goalid-pr-522-open-merges-when-gre-r20y1cv8.md) `dc_hcr20y1cv8` · Pix 1
 - 2026-11-19 [A key result has one parent and one status: PR #521 open, merges when green](docs/report/2026-11/2026-11-19-a-key-result-has-one-parent-and-one-status-pr-521-c8jrw1in.md) `dc_7ac8jrw1in` · Pix 2
@@ -159,8 +161,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-16 [PR #472 merged (78fa17dc); parked for the live map check](docs/report/2026-11/2026-11-16-pr-472-merged-78fa17dc-parked-for-the-live-map-che-5bgcqffs.md) `dc_qm5bgcqffs` · Pix 1
 - 2026-11-16 [KR check: Mitchell pressed Accept, so kr_c2989de971 carries the daily 48 h words](docs/report/2026-11/2026-11-16-kr-check-mitchell-pressed-accept-so-kr-c2989de971-bcw45e1x.md) `dc_w7bcw45e1x` · Pix 1
 - 2026-11-16 [Dead-session wording in code: PR #474 open, parked on CI](docs/report/2026-11/2026-11-16-dead-session-wording-in-code-pr-474-open-parked-on-qpun7pta.md) `dc_ozqpun7pta` · Pix 3
-- 2026-11-16 [Ghost visitors: 7-day retire rule in PR #473, parked on CI](docs/report/2026-11/2026-11-16-ghost-visitors-7-day-retire-rule-in-pr-473-parked-ecz4vy2h.md) `dc_elecz4vy2h` · Pix 1
-- 2026-11-16 [PR #469 merged (5aa5948e): dead-session docs fix](docs/report/2026-11/2026-11-16-pr-469-merged-5aa5948e-dead-session-docs-fix-m8d6o50a.md) `dc_vrm8d6o50a` · Pix 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

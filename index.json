@@ -31192,5 +31192,68 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-19T17:40:46.541Z"
+  },
+  {
+    "id": "dc_jhswr1u8jm",
+    "path": "library/human-report/2026-11/2026-11-19-re-run-the-hourly-copy-restore-drill-once-on-a-thr-swr1u8jm.md",
+    "title": "Re: Run the hourly-copy restore drill once on a throwaway app (~20-25 min): deploy/recover.sh --yes recover-drill",
+    "type": "human-report",
+    "state": "library",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-19T18:36:54.582Z"
+  },
+  {
+    "id": "dc_3ddymq3lz7",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-19-restore-drill-row-filed-pr-524-match-2-min-5-s-rec-dymq3lz7.md",
+    "title": "Restore drill row filed: PR #524 (MATCH, 2 min 5 s); recover.sh executable",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-19T18:43:33.082Z"
+  },
+  {
+    "id": "dc_k7l4pljea4",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-19-one-goal-tree-workshop-panel-checked-live-on-96ff0-l4pljea4.md",
+    "title": "One goal tree: Workshop panel checked live on 96ff0bd4, kr_4ee59lp0m2 claimed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-19T18:51:43.266Z"
+  },
+  {
+    "id": "dc_zn1rjmms65",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-19-mitchell-s-post-ready-to-publish-pr-525-parked-unt-1rjmms65.md",
+    "title": "Mitchell's post ready to publish (PR #525); parked until it merges",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-19T18:57:28.907Z"
+  },
+  {
+    "id": "dc_ylquk4uxfh",
+    "path": "buildings/bl_t7slw19vgg/docs/wiki/2026-11/2026-11-19-steer-from-an-ask-card-quk4uxfh.md",
+    "title": "Steer from an ask card",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-19T18:58:00.793Z"
+  },
+  {
+    "id": "dc_dpnfh62vv8",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-19-steer-button-on-every-ask-card-pr-526-parked-to-me-nfh62vv8.md",
+    "title": "Steer button on every ask card: PR #526, parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-19T18:58:08.854Z"
+  },
+  {
+    "id": "dc_rfzryao2aq",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-19-rank-asks-by-the-goal-tree-rank-on-filing-pr-527-m-zryao2aq.md",
+    "title": "Rank asks by the goal tree, rank on filing: PR #527, merges when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-19T19:16:48.081Z"
   }
 ]

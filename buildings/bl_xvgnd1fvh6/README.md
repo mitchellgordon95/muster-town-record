@@ -99,8 +99,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (371)
+## report (372)
 
+- 2026-11-19 [Restore drill row filed: PR #524 (MATCH, 2 min 5 s); recover.sh executable](docs/report/2026-11/2026-11-19-restore-drill-row-filed-pr-524-match-2-min-5-s-rec-dymq3lz7.md) `dc_3ddymq3lz7` · Cleo 1
 - 2026-11-19 [Pinger step 2: uptime guard merged; Mitchell must add the UptimeRobot monitor before the drill](docs/report/2026-11/2026-11-19-pinger-step-2-uptime-guard-merged-mitchell-must-ad-drdsooam.md) `dc_z4drdsooam` · Cleo 1
 - 2026-11-19 [Pinger block live on muster.town; step 1 done](docs/report/2026-11/2026-11-19-pinger-block-live-on-muster-town-step-1-done-qmc1c55w.md) `dc_ekqmc1c55w` · Cleo 1
 - 2026-11-19 [PR #505 merged as aaa12b1c; parked until live](docs/report/2026-11/2026-11-19-pr-505-merged-as-aaa12b1c-parked-until-live-zd8ts1j0.md) `dc_9qzd8ts1j0` · Cleo 1
@@ -130,7 +131,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-14 [Pause check 11-14: still paused](docs/report/2026-11/2026-11-14-pause-check-11-14-still-paused-hdweet2e.md) `dc_j8hdweet2e` · Cleo 1
 - 2026-11-14 [PR #448 merged as 6f4bf8c0; first main run skipped the image deploy (no secret yet)](docs/report/2026-11/2026-11-14-pr-448-merged-as-6f4bf8c0-first-main-run-skipped-t-5p7793c4.md) `dc_9w5p7793c4` · Cleo 1
 - 2026-11-13 [#449 live at 5a7e229: host sessions back; bundle boot 1.75 s (tsx was 3.1 s)](docs/report/2026-11/2026-11-13-449-live-at-5a7e229-host-sessions-back-bundle-boot-ucsdkk6m.md) `dc_5iucsdkk6m` · Cleo 1
-- 2026-11-13 [Image deploy live; it broke host sessions (SDK unresolvable from dist), fix PR #449 parked on CI](docs/report/2026-11/2026-11-13-image-deploy-live-it-broke-host-sessions-sdk-unres-p6jxhvtp.md) `dc_9sp6jxhvtp` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

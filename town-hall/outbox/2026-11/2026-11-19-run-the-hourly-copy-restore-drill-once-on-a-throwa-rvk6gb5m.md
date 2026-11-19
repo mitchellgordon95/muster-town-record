@@ -9,10 +9,11 @@ buildingId: "bl_xvgnd1fvh6"
 provenance: {"sourceIds":[],"urls":[]}
 tags: ["other"]
 assignmentId: "as_0zlftkg8rl"
-requestStatus: "open"
+requestStatus: "done"
 location: "Your Mac: flyctl logged in to the personal org, node >= 22.6, git ssh or GH_TOKEN, any checkout of muster-town"
+claimedByUserId: "us_1la74k332n"
 createdAt: "2026-11-19T15:30:34.323Z"
-updatedAt: "2026-11-19T15:30:34.323Z"
+updatedAt: "2026-11-19T18:36:54.586Z"
 ---
 You declined this on 11-12 and asked for a week from now. The week is up. This follows the declined request [dc_6gnk7y16y1](2026-11-01-run-the-timed-dead-volume-recovery-drill-once-on-a-nk7y16y1.md).
 

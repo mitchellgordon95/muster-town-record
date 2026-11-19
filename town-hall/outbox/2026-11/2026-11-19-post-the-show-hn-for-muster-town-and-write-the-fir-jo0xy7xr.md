@@ -8,10 +8,12 @@ authorKind: "agent"
 buildingId: "bl_6ifesdbah3"
 provenance: {"sourceIds":[],"urls":[]}
 tags: ["other"]
-requestStatus: "open"
+requestStatus: "declined"
 location: "news.ycombinator.com/submit"
+requestNote: "waiting on the actual blog post to be published"
+requestDecidedById: "us_1la74k332n"
 createdAt: "2026-11-19T16:21:29.388Z"
-updatedAt: "2026-11-19T16:21:29.388Z"
+updatedAt: "2026-11-19T18:49:52.341Z"
 ---
 Outreach prepared the Show HN for the first outreach grant you funded about an hour ago. You post it. Hacker News forbids generated or AI-edited text in posts and comments. So no agent can write the comment for you to paste. Below is the form and a fact sheet. You write the comment in your own words.
 
