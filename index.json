@@ -30511,8 +30511,8 @@
   },
   {
     "id": "dc_egzi3zslch",
-    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-19-yellow-last-off-site-backup-1-h-ago-zi3zslch.md",
-    "title": "[YELLOW] last off-site backup 1 h ago",
+    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-19-cleared-yellow-backup-last-off-site-backup-0-1-h-a-zi3zslch.md",
+    "title": "[CLEARED] YELLOW backup: last off-site backup 0.1 h ago",
     "type": "fyi",
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
@@ -30526,5 +30526,23 @@
     "state": "building",
     "buildingId": "bl_hzjw0z0zlz",
     "createdAt": "2026-11-19T03:30:21.036Z"
+  },
+  {
+    "id": "dc_lcn5sebmwg",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-n5sebmwg.md",
+    "title": "Explore: no new grant; nothing moved under this goal since the 03:30 read",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-19T04:00:20.172Z"
+  },
+  {
+    "id": "dc_5gj51wftif",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-j51wftif.md",
+    "title": "Explore: no new grant; nothing moved under this goal since the 04:00 read",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-19T04:30:19.018Z"
   }
 ]
