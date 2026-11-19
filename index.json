@@ -31255,5 +31255,14 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-19T19:16:48.081Z"
+  },
+  {
+    "id": "dc_0mwjb6fffj",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-19-1-1-mitchell-and-secretary-notes-wjb6fffj.md",
+    "title": "1:1: Mitchell and Secretary — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-19T19:53:40.684Z"
   }
 ]

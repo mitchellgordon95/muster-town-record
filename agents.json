@@ -37275,12 +37275,12 @@
       "x": 71,
       "y": 7
     },
-    "status": "working",
+    "status": "idle",
     "activity": "In the meeting: Back. Fourth deploy restart in an hour, each a green merge landing on main; the…",
     "model": "claude-fable-5-1",
-    "spentTokensToday": 246744,
-    "spentTokensTotal": 6596927,
-    "spentUsdTotal": 76.50133101000002,
+    "spentTokensToday": 263413,
+    "spentTokensTotal": 6613596,
+    "spentUsdTotal": 76.83470481000002,
     "currentAssignmentId": null,
     "currentMeetingId": null,
     "createdAt": "2026-11-04T17:01:17.053Z",
@@ -37290,7 +37290,7 @@
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 246744
+    "familySpentToday": 263413
   },
   {
     "id": "ag_ejguq8medm",
