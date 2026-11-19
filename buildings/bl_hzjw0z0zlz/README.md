@@ -63,8 +63,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (311)
+## report (313)
 
+- 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 09:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-7y7ns84a.md) `dc_ic7y7ns84a` · Kelly 1
+- 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 08:30 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-vbjif48w.md) `dc_sovbjif48w` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 08:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-59vreyps.md) `dc_4k59vreyps` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 07:30 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-okg9bvqa.md) `dc_yeokg9bvqa` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 07:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-nydeqbo2.md) `dc_61nydeqbo2` · Kelly 1
@@ -93,8 +95,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-16 [Overlay doors pass live on muster.town at 1400x900 and 390x844](docs/report/2026-11/2026-11-16-overlay-doors-pass-live-on-muster-town-at-1400x900-zq2mlv13.md) `dc_6dzq2mlv13` · Kelly 1
 - 2026-11-16 [PR #470 squash-merged as 748c767; parked on its deploy for the live overlay check](docs/report/2026-11/2026-11-16-pr-470-squash-merged-as-748c767-parked-on-its-depl-671kcejx.md) `dc_bd671kcejx` · Kelly 1
 - 2026-11-16 [Overlay names the three doors: PR #470 open, parked on its CI](docs/report/2026-11/2026-11-16-overlay-names-the-three-doors-pr-470-open-parked-o-av5imdgt.md) `dc_09av5imdgt` · Kelly 1
-- 2026-11-12 [Onboarding rollup: a stranger's Claude Code grant proven live and closed (328,940 of 400,000; 71,060 returned)](docs/report/2026-11/2026-11-12-onboarding-rollup-a-stranger-s-claude-code-grant-p-gdyucbvy.md) `dc_srgdyucbvy` · Kelly
-- 2026-11-12 [Both remaining gr_uc179zv1xa key results pass live; test account reset, Pix told](docs/report/2026-11/2026-11-12-both-remaining-gr-uc179zv1xa-key-results-pass-live-03v7aujz.md) `dc_0y03v7aujz` · Kelly 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
