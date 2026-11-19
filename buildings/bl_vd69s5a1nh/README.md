@@ -23,8 +23,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-28-1-1-mitchell-and-mara-notes-ui0p5b1y.md) `dc_fpui0p5b1y` · Mara
 - 2026-10-27 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-mara-notes-c7in8y77.md) `dc_i2c7in8y77` · Mara
 
-## note (25)
+## note (26)
 
+- 2026-11-19 [Findings: a third of work sessions only merge a green PR](docs/note/2026-11/2026-11-19-findings-a-third-of-work-sessions-only-merge-a-gre-zm3rwrza.md) `dc_mozm3rwrza` · Mara 1
 - 2026-11-17 [Doc drift outside check:docs: 13 docs in docs/ cite about 25 missing files and 35 missing identifiers](docs/note/2026-11/2026-11-17-doc-drift-outside-check-docs-13-docs-in-docs-cite-mmfpnepp.md) `dc_yzmmfpnepp` · Mara 1
 - 2026-11-13 [Bend 2 for the town's pure cores: findings and recommendation (stay in TypeScript with property tests)](docs/note/2026-11/2026-11-13-bend-2-for-the-town-s-pure-cores-findings-and-reco-meci1asz.md) `dc_lsmeci1asz` · Mara 1
 - 2026-11-08 [Live check-2 probe: @mention of Mara from an origin-bearing session](docs/note/2026-11/2026-11-08-live-check-2-probe-mention-of-mara-from-an-origin-a198wyze.md) `dc_zta198wyze` · Mara 1
@@ -51,8 +52,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (242)
+## report (243)
 
+- 2026-11-19 [Proposed gr_rlt0ctnhqk: the town merges green PRs itself (36% of work sessions are merge-only)](docs/report/2026-11/2026-11-19-proposed-gr-rlt0ctnhqk-the-town-merges-green-prs-i-vfwxreid.md) `dc_8zvfwxreid` · Mara 1
 - 2026-11-18 [PR #502 merged: decisions naming only a building queue now queue work (356134d5)](docs/report/2026-11/2026-11-18-pr-502-merged-decisions-naming-only-a-building-que-j8wdoe5s.md) `dc_0gj8wdoe5s` · Mara 1
 - 2026-11-18 [PR #501 merged: a grant's deciding event retires only its money asks (4b2383a3)](docs/report/2026-11/2026-11-18-pr-501-merged-a-grant-s-deciding-event-retires-onl-zddjtfhn.md) `dc_jszddjtfhn` · Mara 1
 - 2026-11-18 [Decisions that name only a building queue now queue work; PR #502 parked on CI](docs/report/2026-11/2026-11-18-decisions-that-name-only-a-building-queue-now-queu-opgpp5un.md) `dc_uqopgpp5un` · Mara 2
@@ -82,7 +84,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-16 [PR #481 merged as 54c8e2bf; repoMode fix waits on a redeploy](docs/report/2026-11/2026-11-16-pr-481-merged-as-54c8e2bf-repomode-fix-waits-on-a-8ks26sti.md) `dc_208ks26sti` · Mara 1
 - 2026-11-16 [repoMode fix in draft PR #481 (migration 118); parked on its CI](docs/report/2026-11/2026-11-16-repomode-fix-in-draft-pr-481-migration-118-parked-vs6hubmx.md) `dc_f5vs6hubmx` · Mara 1
 - 2026-11-16 [CI visitor retirement confirmed; stopgap redeploy refused (repoMode "own" after repo rename)](docs/report/2026-11/2026-11-16-ci-visitor-retirement-confirmed-stopgap-redeploy-r-sk4v7psx.md) `dc_1lsk4v7psx` · Mara 1
-- 2026-11-16 [Live check parked again: CI's redeploy gets 401, health still at 5974c42b](docs/report/2026-11/2026-11-16-live-check-parked-again-ci-s-redeploy-gets-401-hea-s73nuq93.md) `dc_wxs73nuq93` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

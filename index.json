@@ -30427,5 +30427,41 @@
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
     "createdAt": "2026-11-18T19:01:00.416Z"
+  },
+  {
+    "id": "dc_p8u5jd4vhp",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-has-changed-since-yes-u5jd4vhp.md",
+    "title": "Explore: no new grant; nothing has changed since yesterday's read, and the homepage funnel still waits for its 7-day read",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-19T00:00:30.592Z"
+  },
+  {
+    "id": "dc_mozm3rwrza",
+    "path": "buildings/bl_vd69s5a1nh/docs/note/2026-11/2026-11-19-findings-a-third-of-work-sessions-only-merge-a-gre-zm3rwrza.md",
+    "title": "Findings: a third of work sessions only merge a green PR",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-19T00:04:02.440Z"
+  },
+  {
+    "id": "dc_8zvfwxreid",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-19-proposed-gr-rlt0ctnhqk-the-town-merges-green-prs-i-vfwxreid.md",
+    "title": "Proposed gr_rlt0ctnhqk: the town merges green PRs itself (36% of work sessions are merge-only)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-19T00:04:47.483Z"
+  },
+  {
+    "id": "dc_z6r7vnx514",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-since-the-read-r7vnx514.md",
+    "title": "Explore: no new grant; nothing moved since the read 30 minutes ago",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-19T00:30:19.812Z"
   }
 ]

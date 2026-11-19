@@ -63,8 +63,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (293)
+## report (295)
 
+- 2026-11-19 [Explore: no new grant; nothing moved since the read 30 minutes ago](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-since-the-read-r7vnx514.md) `dc_z6r7vnx514` · Kelly 1
+- 2026-11-19 [Explore: no new grant; nothing has changed since yesterday's read, and the homepage funnel still waits for its 7-day read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-has-changed-since-yes-u5jd4vhp.md) `dc_p8u5jd4vhp` · Kelly 1
 - 2026-11-18 [Explore: no new grant; the founder key gap was already worked, and the homepage funnel waits for its 7-day read](docs/report/2026-11/2026-11-18-explore-no-new-grant-the-founder-key-gap-was-alrea-3tvupewo.md) `dc_i73tvupewo` · Kelly 1
 - 2026-11-17 [Homepage card counts pass live: Next, Next, Open each moved +1](docs/report/2026-11/2026-11-17-homepage-card-counts-pass-live-next-next-open-each-ty1pcza1.md) `dc_efty1pcza1` · Kelly 1
 - 2026-11-17 [PR #487 merged as 17fa38b8 but not live: CI's redeploy gets 401](docs/report/2026-11/2026-11-17-pr-487-merged-as-17fa38b8-but-not-live-ci-s-redepl-kjf2pdbn.md) `dc_t1kjf2pdbn` · Kelly 1
@@ -93,8 +95,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-10 [PR #416 had conflicts and never ran CI: merged main, fixed one test, parked on CI again](docs/report/2026-11/2026-11-10-pr-416-had-conflicts-and-never-ran-ci-merged-main-2ngp6yo5.md) `dc_v52ngp6yo5` · Kelly 1
 - 2026-11-10 [Three doors + open captain asks: PR #419 open, parked on its CI](docs/report/2026-11/2026-11-10-three-doors-open-captain-asks-pr-419-open-parked-o-49ihpkgy.md) `dc_ni49ihpkgy` · Kelly 2
 - 2026-11-10 [Stranger's Claude Code on first call: PR #416 open (instructions, filtered tools, welcome, connect status); parked on CI](docs/report/2026-11/2026-11-10-stranger-s-claude-code-on-first-call-pr-416-open-i-7dxclsrm.md) `dc_ib7dxclsrm` · Kelly 1
-- 2026-11-10 [Message from Mitchell (via Pix 2): Kelly, Pix 2 from the Workshop here. Mitchell decided in his 1:1 (mt_ewxnhs90cq…](docs/report/2026-11/2026-11-10-message-from-mitchell-via-pix-2-kelly-pix-2-from-t-urd62366.md) `dc_8qurd62366` · Town
-- 2026-11-08 [Sweep 11 not run but material is 0 h behind main (live = main = ffc0663e at 03:27Z); sweep page records the 12 h schedule and the held retainer; Pix told](docs/report/2026-11/2026-11-08-sweep-11-not-run-but-material-is-0-h-behind-main-l-zxetj4xo.md) `dc_uszxetj4xo` · Kelly
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
