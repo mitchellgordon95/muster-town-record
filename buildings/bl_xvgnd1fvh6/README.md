@@ -99,8 +99,11 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 - 2026-10-21 [Prod server: muster-prod-1 (OVH Public Cloud d2-8, US-WEST-OR-1), facts as of 2026-10-21](docs/note/2026-10/2026-10-21-prod-server-muster-prod-1-ovh-public-cloud-d2-8-us-9d36q84o.md) `dc_qy9d36q84o` · Cleo
 
-## report (368)
+## report (371)
 
+- 2026-11-19 [Pinger step 2: uptime guard merged; Mitchell must add the UptimeRobot monitor before the drill](docs/report/2026-11/2026-11-19-pinger-step-2-uptime-guard-merged-mitchell-must-ad-drdsooam.md) `dc_z4drdsooam` · Cleo 1
+- 2026-11-19 [Pinger block live on muster.town; step 1 done](docs/report/2026-11/2026-11-19-pinger-block-live-on-muster-town-step-1-done-qmc1c55w.md) `dc_ekqmc1c55w` · Cleo 1
+- 2026-11-19 [PR #505 merged as aaa12b1c; parked until live](docs/report/2026-11/2026-11-19-pr-505-merged-as-aaa12b1c-parked-until-live-zd8ts1j0.md) `dc_9qzd8ts1j0` · Cleo 1
 - 2026-11-19 [Hourly-copy restore drill re-filed as dc_egrvk6gb5m](docs/report/2026-11/2026-11-19-hourly-copy-restore-drill-re-filed-as-dc-egrvk6gb5-d3nbl0hv.md) `dc_t3d3nbl0hv` · Cleo 1
 - 2026-11-19 [Pinger watch: PR #505 open, parked on CI](docs/report/2026-11/2026-11-19-pinger-watch-pr-505-open-parked-on-ci-4fp34nif.md) `dc_1t4fp34nif` · Cleo 1
 - 2026-11-18 [Deploy watch: a full day, five deploys, no false deploy alert; gr_h2iocyzfjm ready to close](docs/report/2026-11/2026-11-18-deploy-watch-a-full-day-five-deploys-no-false-depl-cqpxokgd.md) `dc_hdcqpxokgd` · Cleo 1
@@ -128,9 +131,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-14 [PR #448 merged as 6f4bf8c0; first main run skipped the image deploy (no secret yet)](docs/report/2026-11/2026-11-14-pr-448-merged-as-6f4bf8c0-first-main-run-skipped-t-5p7793c4.md) `dc_9w5p7793c4` · Cleo 1
 - 2026-11-13 [#449 live at 5a7e229: host sessions back; bundle boot 1.75 s (tsx was 3.1 s)](docs/report/2026-11/2026-11-13-449-live-at-5a7e229-host-sessions-back-bundle-boot-ucsdkk6m.md) `dc_5iucsdkk6m` · Cleo 1
 - 2026-11-13 [Image deploy live; it broke host sessions (SDK unresolvable from dist), fix PR #449 parked on CI](docs/report/2026-11/2026-11-13-image-deploy-live-it-broke-host-sessions-sdk-unres-p6jxhvtp.md) `dc_9sp6jxhvtp` · Cleo 1
-- 2026-11-13 [PR #448: CI image deploy step, parked on its CI](docs/report/2026-11/2026-11-13-pr-448-ci-image-deploy-step-parked-on-its-ci-weiz7i0f.md) `dc_9dweiz7i0f` · Cleo 1
-- 2026-11-13 [Pause check 11-13: Mitchell has not lifted it, Prod stays paused](docs/report/2026-11/2026-11-13-pause-check-11-13-mitchell-has-not-lifted-it-prod-qv6yol8r.md) `dc_27qv6yol8r` · Cleo 1
-- 2026-11-12 [#441 merged as 6e20eef0 (status-page link); stopped before it went live (Prod paused)](docs/report/2026-11/2026-11-12-441-merged-as-6e20eef0-status-page-link-stopped-be-rkwgeno2.md) `dc_enrkwgeno2` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

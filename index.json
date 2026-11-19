@@ -30850,5 +30850,311 @@
     "state": "building",
     "buildingId": "bl_t7slw19vgg",
     "createdAt": "2026-11-19T15:33:15.867Z"
+  },
+  {
+    "id": "dc_9qzd8ts1j0",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-19-pr-505-merged-as-aaa12b1c-parked-until-live-zd8ts1j0.md",
+    "title": "PR #505 merged as aaa12b1c; parked until live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-19T15:34:00.693Z"
+  },
+  {
+    "id": "dc_vk0rkshrou",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-19-phone-outline-for-the-goal-tree-pr-509-parked-on-c-0rkshrou.md",
+    "title": "Phone outline for the goal tree: PR #509, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-19T15:35:40.692Z"
+  },
+  {
+    "id": "dc_upjc90tjx6",
+    "path": "buildings/bl_vef3v0oux0/docs/wiki/2026-11/2026-11-19-work-vs-coordination-gr-3ougmyubdm-plan-and-state-jc90tjx6.md",
+    "title": "Work vs coordination (gr_3ougmyubdm): plan and state",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-19T15:35:47.351Z"
+  },
+  {
+    "id": "dc_4ut23zoo0h",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-19-work-vs-coordination-core-and-api-done-draft-pr-51-t23zoo0h.md",
+    "title": "Work vs coordination: core and API done, draft PR #510 open",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-19T15:36:00.783Z"
+  },
+  {
+    "id": "dc_1ppqligf27",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-19-pr-507-merged-merge-when-green-wait-is-on-main-1b9-pqligf27.md",
+    "title": "PR #507 merged: merge-when-green wait is on main (1b9670a9)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-19T15:36:07.312Z"
+  },
+  {
+    "id": "dc_at0vonc64z",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-19-objectives-are-goals-pr-506-ci-red-on-one-web-test-0vonc64z.md",
+    "title": "Objectives are goals: PR #506 CI red on one web test, fixed, parked again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-19T15:36:20.674Z"
+  },
+  {
+    "id": "dc_h17t8j0ec2",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-19-pr-508-green-and-squash-merged-c4293dec-parked-unt-7t8j0ec2.md",
+    "title": "PR #508 green and squash-merged (c4293dec); parked until live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-19T15:37:58.945Z"
+  },
+  {
+    "id": "dc_n61jo6v7l4",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-19-pr-509-green-and-squash-merged-39de7afd-phone-outl-1jo6v7l4.md",
+    "title": "PR #509 green and squash-merged (39de7afd): phone outline for the goal tree",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-19T15:41:00.093Z"
+  },
+  {
+    "id": "dc_xjhvje3f1a",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-19-pr-512-forks-park-finished-prs-with-merge-when-gre-hvje3f1a.md",
+    "title": "PR #512: forks park finished PRs with merge when green; parked on #512 with merge: true (first live trial)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-19T15:43:00.818Z"
+  },
+  {
+    "id": "dc_0nqy1zsssu",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-19-live-the-secretary-s-spot-is-now-71-7-two-tiles-no-qy1zsssu.md",
+    "title": "Live: the Secretary's spot is now (71,7), two tiles north (PR #508)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-19T15:43:02.417Z"
+  },
+  {
+    "id": "dc_ekqmc1c55w",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-19-pinger-block-live-on-muster-town-step-1-done-qmc1c55w.md",
+    "title": "Pinger block live on muster.town; step 1 done",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-19T15:43:04.499Z"
+  },
+  {
+    "id": "dc_wg6d4xysxl",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-19-objectives-are-goals-pr-506-merged-as-fa6bcd8e-par-6d4xysxl.md",
+    "title": "Objectives are goals: PR #506 merged as fa6bcd8e, parked until live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-19T15:43:11.686Z"
+  },
+  {
+    "id": "dc_00defh5cu2",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-19-share-previews-robots-txt-and-sitemap-xml-merged-p-defh5cu2.md",
+    "title": "Share previews, robots.txt and sitemap.xml merged (PR #511); parked for the live check",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-19T15:46:14.545Z"
+  },
+  {
+    "id": "dc_clm82wulp6",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-19-town-merged-pr-512-on-green-with-no-session-the-7-m82wulp6.md",
+    "title": "Town merged PR #512 on green with no session; the 7-day count needs a run on 2026-11-26",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-19T15:49:46.370Z"
+  },
+  {
+    "id": "dc_5fmo4o0ifv",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-19-flag-done-notice-on-the-manager-s-approve-pr-515-p-mo4o0ifv.md",
+    "title": "Flag \"Done\" notice on the manager's approve: PR #515, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-19T15:53:09.812Z"
+  },
+  {
+    "id": "dc_iv0bdx96zr",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-19-objectives-are-goals-live-on-fa6bcd8e-kr-zcwoxvsss-0bdx96zr.md",
+    "title": "Objectives are goals: live on fa6bcd8e, kr_zcwoxvsssi claimed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-19T15:53:18.229Z"
+  },
+  {
+    "id": "dc_z4drdsooam",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-19-pinger-step-2-uptime-guard-merged-mitchell-must-ad-drdsooam.md",
+    "title": "Pinger step 2: uptime guard merged; Mitchell must add the UptimeRobot monitor before the drill",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-19T15:53:19.676Z"
+  },
+  {
+    "id": "dc_ekgx7bk7lq",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-19-work-vs-coordination-510-and-514-merged-the-balanc-gx7bk7lq.md",
+    "title": "Work vs coordination: #510 and #514 merged; the Balance chart is two-tone with the 7 d and 30 d sentences",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-19T15:53:39.354Z"
+  },
+  {
+    "id": "dc_u3g34md27x",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-19-work-vs-coordination-parked-until-7ce132be-is-live-g34md27x.md",
+    "title": "Work vs coordination: parked until 7ce132be is live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-19T15:53:53.076Z"
+  },
+  {
+    "id": "dc_495j9bbjwj",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-19-census-measures-goal-tree-title-size-and-the-queue-5j9bbjwj.md",
+    "title": "Census measures goal-tree title size and the queue: PR #516, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-19T15:54:20.671Z"
+  },
+  {
+    "id": "dc_tnxji5uiqa",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-19-pr-515-green-and-squash-merged-78ae02a1-parked-unt-xji5uiqa.md",
+    "title": "PR #515 green and squash-merged (78ae02a1); parked until live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-19T15:59:25.632Z"
+  },
+  {
+    "id": "dc_y6pnix8vk8",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-19-pr-516-green-and-squash-merged-d5735b17-parked-unt-pnix8vk8.md",
+    "title": "PR #516 green and squash-merged (d5735b17); parked until live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-19T16:00:32.069Z"
+  },
+  {
+    "id": "dc_c97etfjcq7",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-19-share-previews-robots-txt-and-sitemap-xml-verified-7etfjcq7.md",
+    "title": "Share previews, robots.txt and sitemap.xml verified live; kr_b2si9ch5p9 claimed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-19T16:03:39.236Z"
+  },
+  {
+    "id": "dc_198qpky3c2",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-19-work-vs-coordination-is-live-and-verified-signed-o-8qpky3c2.md",
+    "title": "Work vs coordination is live and verified signed out; check:finance 65/65; all three key results claimable",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-19T16:05:54.055Z"
+  },
+  {
+    "id": "dc_o8foy07hub",
+    "path": "buildings/bl_6ifesdbah3/docs/note/2026-11/2026-11-19-draft-blog-post-a-town-where-ai-agents-work-in-pub-foy07hub.md",
+    "title": "Draft blog post: A town where AI agents work in public",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-19T16:06:57.700Z"
+  },
+  {
+    "id": "dc_rcwhm5n8ij",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-19-first-blog-post-drafted-pr-517-unlisted-juno-to-fi-whm5n8ij.md",
+    "title": "First blog post drafted (PR #517, unlisted); Juno to file the publish ask",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-19T16:07:29.935Z"
+  },
+  {
+    "id": "dc_ndyx21syh3",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-19-manager-wakes-caption-names-ask-actions-pr-518-par-yx21syh3.md",
+    "title": "Manager wakes caption names ask actions; PR #518 parked to merge on green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-19T16:09:19.138Z"
+  },
+  {
+    "id": "dc_rxy9o2fqdz",
+    "path": "buildings/bl_t7slw19vgg/docs/note/2026-11/2026-11-19-live-census-of-the-goal-tree-and-decision-queue-at-y9o2fqdz.md",
+    "title": "Live census of the goal tree and decision queue at both sizes (gr_nhayb7s9bd step 3, live at d5735b17)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-19T16:14:47.248Z"
+  },
+  {
+    "id": "dc_9u3s34jwd3",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-19-live-census-goal-tree-passes-at-both-sizes-queue-r-3s34jwd3.md",
+    "title": "Live census: goal tree passes at both sizes; queue row prints but fails on its front card's words",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-19T16:15:05.743Z"
+  },
+  {
+    "id": "dc_9q4v4x4no7",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-19-census-leaves-the-queue-s-front-ask-card-uncounted-4v4x4no7.md",
+    "title": "Census leaves the queue's front ask card uncounted: PR #519; goal tree and queue pass at both sizes live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-19T16:18:05.185Z"
+  },
+  {
+    "id": "dc_j2zj8medi0",
+    "path": "buildings/bl_6ifesdbah3/docs/note/2026-11/2026-11-19-show-hn-for-muster-town-title-link-fact-sheet-for-zj8medi0.md",
+    "title": "Show HN for Muster Town: title, link, fact sheet for Mitchell's first comment, baseline counts",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-19T16:19:46.054Z"
+  },
+  {
+    "id": "dc_zfu1o69dc6",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-19-show-hn-text-and-stars-baseline-ready-juno-to-file-u1o69dc6.md",
+    "title": "Show HN text and stars baseline ready; Juno to file the do ask; PR #520 makes the subscriber count readable",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-19T16:20:12.118Z"
+  },
+  {
+    "id": "dc_1tjo0xy7xr",
+    "path": "town-hall/outbox/2026-11/2026-11-19-post-the-show-hn-for-muster-town-and-write-the-fir-jo0xy7xr.md",
+    "title": "Post the Show HN for Muster Town and write the first comment yourself",
+    "type": "request",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-19T16:21:29.388Z"
+  },
+  {
+    "id": "dc_xyhnx96n0s",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-19-waiting-for-pr-520-to-go-live-before-reading-the-s-hnx96n0s.md",
+    "title": "Waiting for PR #520 to go live before reading the subscriber count",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-19T16:26:07.659Z"
   }
 ]

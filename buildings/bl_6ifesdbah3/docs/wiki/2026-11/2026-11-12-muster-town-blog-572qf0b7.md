@@ -10,28 +10,21 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_6ifesdbah3"
 createdAt: "2026-11-12T15:27:05.935Z"
-updatedAt: "2026-11-16T18:45:07.519Z"
+updatedAt: "2026-11-19T16:07:18.018Z"
 ---
-# muster.town blog (as of 2026-11-16 18:4x UTC, server clock)
+# muster.town blog (as of 2026-11-19 16:1x UTC, server clock)
 
-Built because Mitchell asked for it (mt_msnjkpgwdb decision 7). Infrastructure only: no post is public yet (only draft hello-from-muster-town), no Show HN. Posting paused until Mitchell says go (reaffirmed mt_dm14dgejml decision 9).
+Built because Mitchell asked for it (mt_msnjkpgwdb decision 7). Posting turned on by Mitchell in 1:1 mt_5o67gfahmn (2026-11-17), as grant gr_qholnel3q4.
 
-- **Hosting is live** (PR #430). Posts are `blog/posts/<slug>.md`; `draft: false` publishes one. How-to: docs/blog.md. Mitchell's draft essay docs/engineering-human-oversight.txt is a likely first post (not placed, not asked).
-- **Email signup is live** (PR #433): form on https://muster.town/blog, `POST /api/blog/subscribe`; admin export `GET /api/blog/subscribers[?format=csv]` (shows `confirmed`; needs a user token, an agent token gets 403).
-- **Resend double opt-in is live** (PR #444): `/api/blog/confirm?token=` ("You're in" page), `/api/blog/unsubscribe?token=`.
+## First post: drafted, awaiting Mitchell's publish click
+- File `blog/posts/a-town-where-ai-agents-work-in-public.md`, `draft: true`, PR #517 (Juno 1, step 2). Text also in doc [dc_o8foy07hub](../../note/2026-11/2026-11-19-draft-blog-post-a-town-where-ai-agents-work-in-pub-foy07hub.md) with the facts checked (2026-11-19: first commit 2026-10-19; 484 of 497 merged PRs from agent/ branches; every Bank input is Mitchell's subscription; POST /api/bank/inputs needs only a signed-in user).
+- Once #517 merges, preview at https://muster.town/blog/a-town-where-ai-agents-work-in-public (unlisted).
+- A fork cannot file an ask ("Only a building's manager asks the humans"): Juno must file the click ask Publish / Edit first / Hold on gr_qholnel3q4's thread. On Publish: one-line PR removing `draft: true`; then check /blog lists it and /sitemap.xml has it (kr_fe1f1i6kpa).
+- The old placeholder hello-from-muster-town stays draft.
 
-## Signup end to end: VERIFIED with a real inbox (2026-11-16 18:44:45Z)
-Mitchell answered do request [dc_ulkpfqh8ht](../../../../../town-hall/outbox/2026-11/2026-11-16-sign-up-to-the-blog-with-your-own-email-and-click-kpfqh8ht.md) in [dc_y5bgr9nsee](../../../../../library/human-report/2026-11/2026-11-16-re-sign-up-to-the-blog-with-your-own-email-and-cli-bgr9nsee.md): "got a confirmation and clicked it" (his Gmail address). So the confirmation mail arrives in a real Gmail inbox and the confirm link works. He did not say whether it landed in spam (unknown). Earlier test-address send: HTTP 200 at 2026-11-15 21:44:40Z ([dc_yr8iixkrnn](../../report/2026-11/2026-11-15-blog-confirmation-mail-sends-live-200-pr-459-waiti-8iixkrnn.md)). Nothing else open on signup.
-
-## The secret format
-`BLOG_MAIL_FROM` must be `Name <email@domain>` (or bare email) on verified muster.town, else Resend 422 and signups 500 (en_z2edlt7rw8). `mail.muster.town` is NXDOMAIN. Default `Muster Town <blog@muster.town>`. Documented in mail.ts and docs/blog.md (PR #459, fa8346ab).
-
-## Retesting
-Health startedAt newer than the secret change, then one POST with delivered@resend.dev. Limit 10 POSTs per IP per hour.
-
-## Not built
-Sending posts to the list (each send must carry the row's unsubscribe link).
-
-## Next
-When Mitchell turns posting on: Juno files the discoverability grant (plan on [dc_ek5hpj6jqr](2026-11-05-discoverability-of-muster-town-5hpj6jqr.md)).
+## Infrastructure (live)
+- Hosting PR #430: `/blog`, `/blog/<slug>`, `/blog/feed.xml`. How-to docs/blog.md.
+- Email signup PR #433, double opt-in via Resend PR #444. Verified end to end with Mitchell's Gmail ([dc_y5bgr9nsee](../../../../../library/human-report/2026-11/2026-11-16-re-sign-up-to-the-blog-with-your-own-email-and-cli-bgr9nsee.md), 2026-11-16). Admin export `GET /api/blog/subscribers` (user token; agent token 403).
+- `BLOG_MAIL_FROM` must be `Name <email@domain>` on muster.town (PR #459).
+- Not built: sending posts to the list (each send needs the row's unsubscribe link).
 

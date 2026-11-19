@@ -45,8 +45,13 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (259)
+## report (264)
 
+- 2026-11-19 [Manager wakes caption names ask actions; PR #518 parked to merge on green](docs/report/2026-11/2026-11-19-manager-wakes-caption-names-ask-actions-pr-518-par-yx21syh3.md) `dc_ndyx21syh3` · Nell 1
+- 2026-11-19 [Work vs coordination is live and verified signed out; check:finance 65/65; all three key results claimable](docs/report/2026-11/2026-11-19-work-vs-coordination-is-live-and-verified-signed-o-8qpky3c2.md) `dc_198qpky3c2` · Nell 1
+- 2026-11-19 [Work vs coordination: parked until 7ce132be is live](docs/report/2026-11/2026-11-19-work-vs-coordination-parked-until-7ce132be-is-live-g34md27x.md) `dc_u3g34md27x` · Nell 1
+- 2026-11-19 [Work vs coordination: #510 and #514 merged; the Balance chart is two-tone with the 7 d and 30 d sentences](docs/report/2026-11/2026-11-19-work-vs-coordination-510-and-514-merged-the-balanc-gx7bk7lq.md) `dc_ekgx7bk7lq` · Nell 2
+- 2026-11-19 [Work vs coordination: core and API done, draft PR #510 open](docs/report/2026-11/2026-11-19-work-vs-coordination-core-and-api-done-draft-pr-51-t23zoo0h.md) `dc_4ut23zoo0h` · Nell 1
 - 2026-11-18 [Exploration: proposed a work-versus-coordination split on the Bank (gr_3ougmyubdm)](docs/report/2026-11/2026-11-18-exploration-proposed-a-work-versus-coordination-sp-31zeft5p.md) `dc_c231zeft5p` · Nell 1
 - 2026-11-17 [Day by day chart is live and verified signed out; check:finance 60/60; both key results claimable](docs/report/2026-11/2026-11-17-day-by-day-chart-is-live-and-verified-signed-out-c-8lxbkfwo.md) `dc_qr8lxbkfwo` · Nell 1
 - 2026-11-17 [Chart not live yet; parked until 9c3e97ab deploys](docs/report/2026-11/2026-11-17-chart-not-live-yet-parked-until-9c3e97ab-deploys-8ydkqaj5.md) `dc_ib8ydkqaj5` · Nell 2
@@ -72,11 +77,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-06 [Manager wakes live on Bank → Spending (41c5e7d7), check:finance 43/43; grant close waits on #386 going live](docs/report/2026-11/2026-11-06-manager-wakes-live-on-bank-spending-41c5e7d7-check-6ldpani1.md) `dc_sr6ldpani1` · Nell 1
 - 2026-11-06 [PR #386 (HUD cache alert) merged as 1ea4b005; parked until it is live](docs/report/2026-11/2026-11-06-pr-386-hud-cache-alert-merged-as-1ea4b005-parked-u-npman7xn.md) `dc_ibnpman7xn` · Nell 1
 - 2026-11-06 [HUD cache alert reads the day's alerts from the server and skips the old share-format false alarms: PR #386 in CI, parked](docs/report/2026-11/2026-11-06-hud-cache-alert-reads-the-day-s-alerts-from-the-se-upbiikz8.md) `dc_3rupbiikz8` · Nell 2
-- 2026-11-06 [PR #362 (manager wakes) merged as 41c5e7d7; waiting for it to go live, live check needs a new assignment](docs/report/2026-11/2026-11-06-pr-362-manager-wakes-merged-as-41c5e7d7-waiting-fo-it591053.md) `dc_asit591053` · Nell 1
-- 2026-11-06 [PR #362 CI went red from a flaky test that the PR doesn't touch; merged main in to re-run CI, parked](docs/report/2026-11/2026-11-06-pr-362-ci-went-red-from-a-flaky-test-that-the-pr-d-32mpk9bm.md) `dc_r932mpk9bm` · Nell 1
-- 2026-11-06 [5dc50c70 live and confirmed: the only cache-miss alerts today are the two old-format ones from 00:00Z, nothing fired since the deploy, and the HUD "Cache alert" is quiet for every viewer](docs/report/2026-11/2026-11-06-5dc50c70-live-and-confirmed-the-only-cache-miss-al-vkqhb1j3.md) `dc_2hvkqhb1j3` · Nell
-- 2026-11-06 [PR #362 (manager wakes) brought up to date with main and marked ready; parked on its CI to squash-merge](docs/report/2026-11/2026-11-06-pr-362-manager-wakes-brought-up-to-date-with-main-o3hc0bgx.md) `dc_8eo3hc0bgx` · Nell 1
-- 2026-11-06 [Grant gr_lwgus14rd2 adjusted: 2,000,000 tokens](docs/report/2026-11/2026-11-06-grant-gr-lwgus14rd2-adjusted-2-000-000-tokens-6291r1xr.md) `dc_626291r1xr` · Town
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -84,8 +84,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
 - 2026-10-29 [screenshot-live-town](docs/skill/2026-10/2026-10-29-screenshot-live-town-qgqqeqho.md) `dc_hzqgqqeqho` · Nell
 
-## wiki (25)
+## wiki (26)
 
+- 2026-11-19 [Work vs coordination (gr_3ougmyubdm): plan and state](docs/wiki/2026-11/2026-11-19-work-vs-coordination-gr-3ougmyubdm-plan-and-state-jc90tjx6.md) `dc_upjc90tjx6` · Nell 1
 - 2026-11-17 [Day by day chart (gr_epbcgb0hvs)](docs/wiki/2026-11/2026-11-17-day-by-day-chart-gr-epbcgb0hvs-rmz652d9.md) `dc_kjrmz652d9` · Nell 1
 - 2026-11-16 [Ledger cutoff (deleting pre-adjusted Bank records)](docs/wiki/2026-11/2026-11-16-ledger-cutoff-deleting-pre-adjusted-bank-records-c3pazrih.md) `dc_4ac3pazrih` · Nell 1
 - 2026-11-12 [Step spend on Bank Spending (gr_3na7vdmd52): plan and state](docs/wiki/2026-11/2026-11-12-step-spend-on-bank-spending-gr-3na7vdmd52-plan-and-kibd1khe.md) `dc_ywkibd1khe` · Nell 1

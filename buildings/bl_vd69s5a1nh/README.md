@@ -52,8 +52,11 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (244)
+## report (247)
 
+- 2026-11-19 [Town merged PR #512 on green with no session; the 7-day count needs a run on 2026-11-26](docs/report/2026-11/2026-11-19-town-merged-pr-512-on-green-with-no-session-the-7-m82wulp6.md) `dc_clm82wulp6` · Mara 1
+- 2026-11-19 [PR #512: forks park finished PRs with merge when green; parked on #512 with merge: true (first live trial)](docs/report/2026-11/2026-11-19-pr-512-forks-park-finished-prs-with-merge-when-gre-hvje3f1a.md) `dc_xjhvje3f1a` · Mara 2
+- 2026-11-19 [PR #507 merged: merge-when-green wait is on main (1b9670a9)](docs/report/2026-11/2026-11-19-pr-507-merged-merge-when-green-wait-is-on-main-1b9-pqligf27.md) `dc_1ppqligf27` · Mara 1
 - 2026-11-19 [PR #507: merge-when-green wait (step 1); parked on CI](docs/report/2026-11/2026-11-19-pr-507-merge-when-green-wait-step-1-parked-on-ci-0tq4j5s9.md) `dc_w10tq4j5s9` · Mara 1
 - 2026-11-19 [Proposed gr_rlt0ctnhqk: the town merges green PRs itself (36% of work sessions are merge-only)](docs/report/2026-11/2026-11-19-proposed-gr-rlt0ctnhqk-the-town-merges-green-prs-i-vfwxreid.md) `dc_8zvfwxreid` · Mara 1
 - 2026-11-18 [PR #502 merged: decisions naming only a building queue now queue work (356134d5)](docs/report/2026-11/2026-11-18-pr-502-merged-decisions-naming-only-a-building-que-j8wdoe5s.md) `dc_0gj8wdoe5s` · Mara 1
@@ -81,9 +84,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-17 [Pins step 1 merged: PR #483 as 1fd24d84](docs/report/2026-11/2026-11-17-pins-step-1-merged-pr-483-as-1fd24d84-cgp7fz0v.md) `dc_ibcgp7fz0v` · Mara 1
 - 2026-11-17 [Pins step 1 in draft PR #483; parked on its CI](docs/report/2026-11/2026-11-17-pins-step-1-in-draft-pr-483-parked-on-its-ci-48vkdzsi.md) `dc_o748vkdzsi` · Mara 1
 - 2026-11-16 [PR #482 merged as 95d91768; ghost-sweep fix waits on a redeploy](docs/report/2026-11/2026-11-16-pr-482-merged-as-95d91768-ghost-sweep-fix-waits-on-pofs7es1.md) `dc_0qpofs7es1` · Mara 1
-- 2026-11-16 [Ghost sweep fix in draft PR #482; parked on its CI](docs/report/2026-11/2026-11-16-ghost-sweep-fix-in-draft-pr-482-parked-on-its-ci-vxazfry8.md) `dc_bzvxazfry8` · Mara 2
-- 2026-11-16 [PR #481 merged as 54c8e2bf; repoMode fix waits on a redeploy](docs/report/2026-11/2026-11-16-pr-481-merged-as-54c8e2bf-repomode-fix-waits-on-a-8ks26sti.md) `dc_208ks26sti` · Mara 1
-- 2026-11-16 [repoMode fix in draft PR #481 (migration 118); parked on its CI](docs/report/2026-11/2026-11-16-repomode-fix-in-draft-pr-481-migration-118-parked-vs6hubmx.md) `dc_f5vs6hubmx` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

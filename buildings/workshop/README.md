@@ -129,8 +129,11 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1221)
+## report (1224)
 
+- 2026-11-19 [Objectives are goals: live on fa6bcd8e, kr_zcwoxvsssi claimed](docs/report/2026-11/2026-11-19-objectives-are-goals-live-on-fa6bcd8e-kr-zcwoxvsss-0bdx96zr.md) `dc_iv0bdx96zr` · Pix 1
+- 2026-11-19 [Objectives are goals: PR #506 merged as fa6bcd8e, parked until live](docs/report/2026-11/2026-11-19-objectives-are-goals-pr-506-merged-as-fa6bcd8e-par-6d4xysxl.md) `dc_wg6d4xysxl` · Pix 1
+- 2026-11-19 [Objectives are goals: PR #506 CI red on one web test, fixed, parked again](docs/report/2026-11/2026-11-19-objectives-are-goals-pr-506-ci-red-on-one-web-test-0vonc64z.md) `dc_at0vonc64z` · Pix 1
 - 2026-11-19 [Objectives are goals: PR #506 open, parked on its CI](docs/report/2026-11/2026-11-19-objectives-are-goals-pr-506-open-parked-on-its-ci-q5ygm92b.md) `dc_7zq5ygm92b` · Pix 1
 - 2026-11-18 [Explore tick ordering merged: PR #500 as 99a676b7](docs/report/2026-11/2026-11-18-explore-tick-ordering-merged-pr-500-as-99a676b7-k3bsdvh4.md) `dc_mlk3bsdvh4` · Pix 1
 - 2026-11-18 [Explore tick ordering: PR #500 open, parked on its CI](docs/report/2026-11/2026-11-18-explore-tick-ordering-pr-500-open-parked-on-its-ci-yfslbih2.md) `dc_ysyfslbih2` · Pix 1
@@ -158,9 +161,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-16 [Operating manual book: PR #472 open, parked on CI](docs/report/2026-11/2026-11-16-operating-manual-book-pr-472-open-parked-on-ci-1ss5grl9.md) `dc_t51ss5grl9` · Pix 2
 - 2026-11-16 [Dead-session docs fix: PR #469 open, parked on CI](docs/report/2026-11/2026-11-16-dead-session-docs-fix-pr-469-open-parked-on-ci-l5ilxosm.md) `dc_pel5ilxosm` · Pix 4
 - 2026-11-16 [PR #466 merged (0a674074); parked to re-read queue health live tonight](docs/report/2026-11/2026-11-16-pr-466-merged-0a674074-parked-to-re-read-queue-hea-68zacckf.md) `dc_do68zacckf` · Pix 3
-- 2026-11-16 [Weekly onboarding sweep: wording-card branches confirmed, topic page rewritten](docs/report/2026-11/2026-11-16-weekly-onboarding-sweep-wording-card-branches-conf-hxfhgzfa.md) `dc_bahxfhgzfa` · Pix 4
-- 2026-11-16 [Jobs and entries page rewritten from the code; stale pause notes closed](docs/report/2026-11/2026-11-16-jobs-and-entries-page-rewritten-from-the-code-stal-krvprqpx.md) `dc_uukrvprqpx` · Pix 3
-- 2026-11-16 [Secretary rests north-east of the hydrant on the live town (flag dc_ea9wdns25e done)](docs/report/2026-11/2026-11-16-secretary-rests-north-east-of-the-hydrant-on-the-l-sfqr4efl.md) `dc_azsfqr4efl` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

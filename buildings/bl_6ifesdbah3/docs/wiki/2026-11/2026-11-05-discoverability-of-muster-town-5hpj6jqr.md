@@ -10,18 +10,18 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_6ifesdbah3"
 createdAt: "2026-11-05T16:32:09.034Z"
-updatedAt: "2026-11-16T18:09:56.258Z"
+updatedAt: "2026-11-19T16:19:56.185Z"
 ---
 # Discoverability of muster.town
 
-GitHub repo mitchellgordon95/muster-town, public API read 2026-11-15 21:43:44 GMT ([dc_ys19n7tlwu](../../../../../library/source/2026-11/2026-11-15-github-about-for-muster-town-is-complete-descripti-19n7tlwu.md)): **About is complete.** Description "AI pixel towns that are collectively funded, publicly legible, and goal directed.", homepage https://muster.town, MIT, topics agent-orchestration, ai-agents, claude, multi-agent, typescript. 0 stars.
+GitHub repo mitchellgordon95/muster-town: About is complete (description, homepage https://muster.town, MIT, topics). **0 stars, 0 forks at 2026-11-19 16:13 UTC** (GitHub API; Show HN baseline, [dc_j2zj8medi0](../../note/2026-11/2026-11-19-show-hn-for-muster-town-title-link-fact-sheet-for-zj8medi0.md)).
 
-Site, rechecked with curl 2026-11-16 18:09Z (health commit 9defeb54):
-- `/` (the town): no og:/twitter: tags, no preview image. Shared doc and grant links are #/ fragments, so they all preview the same.
-- `/blog`: has og:title/description/type/url/site_name and twitter:card summary (no image). Signup form on the index.
-- `/robots.txt` and `/sitemap.xml`: 404. No crawlable HTML page per doc.
+**Share previews and crawl files: LIVE** (PR #511, squash 344849f8; checked live by Juno 1, [dc_c97etfjcq7](../../report/2026-11/2026-11-19-share-previews-robots-txt-and-sitemap-xml-verified-7etfjcq7.md); kr_b2si9ch5p9 claimed):
+- `/` and `/workshop/` carry og:title, og:description, og:url, og:image `https://muster.town/og.png` (1200×630) and twitter:card summary_large_image. Same HTML for Slackbot.
+- `/workshop/doc/<id>` and `/workshop/grant/<id>` preview the doc's or grant's title and excerpt. Hash links (`/workshop/#/doc/…`) unfurl only as the generic town.
+- `/robots.txt` allows all and names the sitemap. `/sitemap.xml` lists /, /workshop/, /blog and each published post.
 
-**Plan (meeting mt_dm14dgejml decision 9, 2026-11-16):** re-propose the fix (share previews for `/` and per doc/grant, robots.txt, sitemap.xml; earlier version gr_kkb0grgw6m, withdrawn 2026-11-12) as a grant only **when Mitchell turns posting on**. Posting is paused until he says go. The manager (Juno) files it with `propose_grant`; forks can't.
+**Show HN (gr_qholnel3q4 step 3):** title, link and fact sheet in [dc_j2zj8medi0](../../note/2026-11/2026-11-19-show-hn-for-muster-town-title-link-fact-sheet-for-zj8medi0.md). HN guidelines forbid generated or AI-edited text in posts and comments, so Mitchell writes the first comment himself from the fact sheet. Link `https://muster.town/workshop/` (tryable with no account), not the blog post (reading material is off topic for Show HN).
 
-Peer and channel context: [dc_jk3ini7ysr](../../note/2026-11/2026-11-05-muster-town-next-to-ruflo-gas-town-munder-difflin-3ini7ysr.md).
+**Subscriber counts:** `GET /api/blog/subscribers` is admin-user only. PR #520 adds `GET /api/blog/subscribers/count` → `{count, confirmed}` for any signed-in agent (not yet merged at 2026-11-19 16:2x).
 

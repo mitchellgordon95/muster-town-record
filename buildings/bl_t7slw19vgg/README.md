@@ -27,8 +27,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [1:1: Mitchell and Teo — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-teo-notes-tuy9g1zf.md) `dc_0ltuy9g1zf` · Teo
 - 2026-10-29 [1:1: Mitchell and Teo — notes](docs/meeting-notes/2026-10/2026-10-29-1-1-mitchell-and-teo-notes-nji0boyh.md) `dc_bqnji0boyh` · Teo
 
-## note (10)
+## note (11)
 
+- 2026-11-19 [Live census of the goal tree and decision queue at both sizes (gr_nhayb7s9bd step 3, live at d5735b17)](docs/note/2026-11/2026-11-19-live-census-of-the-goal-tree-and-decision-queue-at-y9o2fqdz.md) `dc_rxy9o2fqdz` · Teo 1
 - 2026-11-18 [Live disclosure re-census 2026-11-18, and the goal tree that opens unreadable](docs/note/2026-11/2026-11-18-live-disclosure-re-census-2026-11-18-and-the-goal-zddih5xy.md) `dc_1jzddih5xy` · Teo 1
 - 2026-11-05 [Findings: reports and grant pages still show a guest ~2 raw ids for every name (live aa6f4fbc)](docs/note/2026-11/2026-11-05-findings-reports-and-grant-pages-still-show-a-gues-2t8agkzf.md) `dc_3e2t8agkzf` · Teo 1
 - 2026-11-04 [Disclosure census baseline (gr_zak30564zh step 1): live a84ed22 6 of 34 rows pass, mock 62 of 84; grant pages 9–12 screens](docs/note/2026-11/2026-11-04-disclosure-census-baseline-gr-zak30564zh-step-1-li-suylx6zd.md) `dc_3nsuylx6zd` · Teo 2
@@ -40,8 +41,18 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (230)
+## report (240)
 
+- 2026-11-19 [Census leaves the queue's front ask card uncounted: PR #519; goal tree and queue pass at both sizes live](docs/report/2026-11/2026-11-19-census-leaves-the-queue-s-front-ask-card-uncounted-4v4x4no7.md) `dc_9q4v4x4no7` · Teo 1
+- 2026-11-19 [Live census: goal tree passes at both sizes; queue row prints but fails on its front card's words](docs/report/2026-11/2026-11-19-live-census-goal-tree-passes-at-both-sizes-queue-r-3s34jwd3.md) `dc_9u3s34jwd3` · Teo 1
+- 2026-11-19 [PR #516 green and squash-merged (d5735b17); parked until live](docs/report/2026-11/2026-11-19-pr-516-green-and-squash-merged-d5735b17-parked-unt-pnix8vk8.md) `dc_y6pnix8vk8` · Teo 1
+- 2026-11-19 [PR #515 green and squash-merged (78ae02a1); parked until live](docs/report/2026-11/2026-11-19-pr-515-green-and-squash-merged-78ae02a1-parked-unt-xji5uiqa.md) `dc_tnxji5uiqa` · Teo 1
+- 2026-11-19 [Census measures goal-tree title size and the queue: PR #516, parked on CI](docs/report/2026-11/2026-11-19-census-measures-goal-tree-title-size-and-the-queue-5j9bbjwj.md) `dc_495j9bbjwj` · Teo 2
+- 2026-11-19 [Flag "Done" notice on the manager's approve: PR #515, parked on CI](docs/report/2026-11/2026-11-19-flag-done-notice-on-the-manager-s-approve-pr-515-p-mo4o0ifv.md) `dc_5fmo4o0ifv` · Teo 1
+- 2026-11-19 [Live: the Secretary's spot is now (71,7), two tiles north (PR #508)](docs/report/2026-11/2026-11-19-live-the-secretary-s-spot-is-now-71-7-two-tiles-no-qy1zsssu.md) `dc_0nqy1zsssu` · Teo 1
+- 2026-11-19 [PR #509 green and squash-merged (39de7afd): phone outline for the goal tree](docs/report/2026-11/2026-11-19-pr-509-green-and-squash-merged-39de7afd-phone-outl-1jo6v7l4.md) `dc_n61jo6v7l4` · Teo 1
+- 2026-11-19 [PR #508 green and squash-merged (c4293dec); parked until live](docs/report/2026-11/2026-11-19-pr-508-green-and-squash-merged-c4293dec-parked-unt-7t8j0ec2.md) `dc_h17t8j0ec2` · Teo 1
+- 2026-11-19 [Phone outline for the goal tree: PR #509, parked on CI](docs/report/2026-11/2026-11-19-phone-outline-for-the-goal-tree-pr-509-parked-on-c-0rkshrou.md) `dc_vk0rkshrou` · Teo 1
 - 2026-11-19 [Secretary rest tile moved 2 north: PR #508, parked on CI](docs/report/2026-11/2026-11-19-secretary-rest-tile-moved-2-north-pr-508-parked-on-qqrlqqut.md) `dc_a9qqrlqqut` · Teo 2
 - 2026-11-19 [PR #504 green and squash-merged (af9c279d): goal canvas opens readable](docs/report/2026-11/2026-11-19-pr-504-green-and-squash-merged-af9c279d-goal-canva-rdh0emtv.md) `dc_m0rdh0emtv` · Teo 1
 - 2026-11-19 [Goal canvas opens readable: PR #504, parked on CI](docs/report/2026-11/2026-11-19-goal-canvas-opens-readable-pr-504-parked-on-ci-j07vl3jf.md) `dc_4vj07vl3jf` · Teo 1
@@ -62,16 +73,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-16 [Drag residents with a grasper hand: PR #477, parked on CI to merge](docs/report/2026-11/2026-11-16-drag-residents-with-a-grasper-hand-pr-477-parked-o-g4u1zha3.md) `dc_71g4u1zha3` · Teo 2
 - 2026-11-16 [PR #471 green and squash-merged (11f40a03)](docs/report/2026-11/2026-11-16-pr-471-green-and-squash-merged-11f40a03-cx0ooi9h.md) `dc_i4cx0ooi9h` · Teo 1
 - 2026-11-16 [Forms keep half-filled drafts: PR #471, parked on CI to merge](docs/report/2026-11/2026-11-16-forms-keep-half-filled-drafts-pr-471-parked-on-ci-e021i55x.md) `dc_9ze021i55x` · Teo 1
-- 2026-11-15 [PR #457 green and squash-merged (1f0c69ff)](docs/report/2026-11/2026-11-15-pr-457-green-and-squash-merged-1f0c69ff-ioyzn0zr.md) `dc_xaioyzn0zr` · Teo 1
-- 2026-11-15 [Hydrant moves to the outbox's spot, outbox off the map: PR #457, parked on CI](docs/report/2026-11/2026-11-15-hydrant-moves-to-the-outbox-s-spot-outbox-off-the-x9sglmkb.md) `dc_7zx9sglmkb` · Teo 1
-- 2026-11-15 [PR #454 green and squash-merged (6696f779)](docs/report/2026-11/2026-11-15-pr-454-green-and-squash-merged-6696f779-wydohes9.md) `dc_00wydohes9` · Teo 2
-- 2026-11-15 [Money ask reads "is asking for tokens": PR #454, parked on CI](docs/report/2026-11/2026-11-15-money-ask-reads-is-asking-for-tokens-pr-454-parked-vp1enedd.md) `dc_zkvp1enedd` · Teo 1
-- 2026-11-15 [PR #451 green and squash-merged (a2108f10)](docs/report/2026-11/2026-11-15-pr-451-green-and-squash-merged-a2108f10-d7tnxpx5.md) `dc_s6d7tnxpx5` · Teo 1
-- 2026-11-15 [Ask card leads with "<Building> is asking for …": PR #451, parked on CI](docs/report/2026-11/2026-11-15-ask-card-leads-with-building-is-asking-for-pr-451-8mlpmc5q.md) `dc_oa8mlpmc5q` · Teo 1
-- 2026-11-14 [PR #450 green and squash-merged (56bbc37e); kr_nokx342ovj claimed](docs/report/2026-11/2026-11-14-pr-450-green-and-squash-merged-56bbc37e-kr-nokx342-qeqixm5l.md) `dc_b4qeqixm5l` · Teo 1
-- 2026-11-14 [Style-guide skill has the sheet rule; docs/ copy in PR #450, parked on its CI](docs/report/2026-11/2026-11-14-style-guide-skill-has-the-sheet-rule-docs-copy-in-06vwoduk.md) `dc_kw06vwoduk` · Teo 1
-- 2026-11-10 [Tool-call lines (f9682825) are live; no 1:1 reply since the deploy to see them on](docs/report/2026-11/2026-11-10-tool-call-lines-f9682825-are-live-no-1-1-reply-sin-j1j0ezoq.md) `dc_t8j1j0ezoq` · Teo 1
-- 2026-11-10 [PR #423 green and squash-merged (f9682825); parked on its deploy](docs/report/2026-11/2026-11-10-pr-423-green-and-squash-merged-f9682825-parked-on-ptu9hhpx.md) `dc_fyptu9hhpx` · Teo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
