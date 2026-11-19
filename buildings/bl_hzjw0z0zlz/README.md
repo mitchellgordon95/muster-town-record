@@ -63,8 +63,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (295)
+## report (297)
 
+- 2026-11-19 [Explore: no new grant; nothing moved since the 01:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-since-the-01-00-0phwjs5v.md) `dc_vq0phwjs5v` · Kelly 1
+- 2026-11-19 [Explore: no new grant; nothing moved since the 00:30 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-since-the-00-30-cpyxbeve.md) `dc_yvcpyxbeve` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved since the read 30 minutes ago](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-since-the-read-r7vnx514.md) `dc_z6r7vnx514` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing has changed since yesterday's read, and the homepage funnel still waits for its 7-day read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-has-changed-since-yes-u5jd4vhp.md) `dc_p8u5jd4vhp` · Kelly 1
 - 2026-11-18 [Explore: no new grant; the founder key gap was already worked, and the homepage funnel waits for its 7-day read](docs/report/2026-11/2026-11-18-explore-no-new-grant-the-founder-key-gap-was-alrea-3tvupewo.md) `dc_i73tvupewo` · Kelly 1
@@ -93,8 +95,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-10 [Onboarding rollup: the Claude Code grant hit its ceiling with its PR built but unmerged; adjust it to 240,000 or cut; the three-doors PR is fixing CI](docs/report/2026-11/2026-11-10-onboarding-rollup-the-claude-code-grant-hit-its-ce-ogig364o.md) `dc_8fogig364o` · Kelly
 - 2026-11-10 [Session ended without a report: PR #416 CI done: merge if green (re-merge main if conflicting), then park on its deploy and live-check the three key results](docs/report/2026-11/2026-11-10-session-ended-without-a-report-pr-416-ci-done-merg-6766bftj.md) `dc_hd6766bftj` · Kelly 1
 - 2026-11-10 [PR #416 had conflicts and never ran CI: merged main, fixed one test, parked on CI again](docs/report/2026-11/2026-11-10-pr-416-had-conflicts-and-never-ran-ci-merged-main-2ngp6yo5.md) `dc_v52ngp6yo5` · Kelly 1
-- 2026-11-10 [Three doors + open captain asks: PR #419 open, parked on its CI](docs/report/2026-11/2026-11-10-three-doors-open-captain-asks-pr-419-open-parked-o-49ihpkgy.md) `dc_ni49ihpkgy` · Kelly 2
-- 2026-11-10 [Stranger's Claude Code on first call: PR #416 open (instructions, filtered tools, welcome, connect status); parked on CI](docs/report/2026-11/2026-11-10-stranger-s-claude-code-on-first-call-pr-416-open-i-7dxclsrm.md) `dc_ib7dxclsrm` · Kelly 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
