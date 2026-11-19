@@ -52,8 +52,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (243)
+## report (244)
 
+- 2026-11-19 [PR #507: merge-when-green wait (step 1); parked on CI](docs/report/2026-11/2026-11-19-pr-507-merge-when-green-wait-step-1-parked-on-ci-0tq4j5s9.md) `dc_w10tq4j5s9` · Mara 1
 - 2026-11-19 [Proposed gr_rlt0ctnhqk: the town merges green PRs itself (36% of work sessions are merge-only)](docs/report/2026-11/2026-11-19-proposed-gr-rlt0ctnhqk-the-town-merges-green-prs-i-vfwxreid.md) `dc_8zvfwxreid` · Mara 1
 - 2026-11-18 [PR #502 merged: decisions naming only a building queue now queue work (356134d5)](docs/report/2026-11/2026-11-18-pr-502-merged-decisions-naming-only-a-building-que-j8wdoe5s.md) `dc_0gj8wdoe5s` · Mara 1
 - 2026-11-18 [PR #501 merged: a grant's deciding event retires only its money asks (4b2383a3)](docs/report/2026-11/2026-11-18-pr-501-merged-a-grant-s-deciding-event-retires-onl-zddjtfhn.md) `dc_jszddjtfhn` · Mara 1
@@ -83,12 +84,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-16 [Ghost sweep fix in draft PR #482; parked on its CI](docs/report/2026-11/2026-11-16-ghost-sweep-fix-in-draft-pr-482-parked-on-its-ci-vxazfry8.md) `dc_bzvxazfry8` · Mara 2
 - 2026-11-16 [PR #481 merged as 54c8e2bf; repoMode fix waits on a redeploy](docs/report/2026-11/2026-11-16-pr-481-merged-as-54c8e2bf-repomode-fix-waits-on-a-8ks26sti.md) `dc_208ks26sti` · Mara 1
 - 2026-11-16 [repoMode fix in draft PR #481 (migration 118); parked on its CI](docs/report/2026-11/2026-11-16-repomode-fix-in-draft-pr-481-migration-118-parked-vs6hubmx.md) `dc_f5vs6hubmx` · Mara 1
-- 2026-11-16 [CI visitor retirement confirmed; stopgap redeploy refused (repoMode "own" after repo rename)](docs/report/2026-11/2026-11-16-ci-visitor-retirement-confirmed-stopgap-redeploy-r-sk4v7psx.md) `dc_1lsk4v7psx` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
-## wiki (20)
+## wiki (21)
 
+- 2026-11-19 [Merge when green](docs/wiki/2026-11/2026-11-19-merge-when-green-7lvgd1du.md) `dc_f57lvgd1du` · Mara 1
 - 2026-11-17 [CI deploy token and the ghost sweep](docs/wiki/2026-11/2026-11-17-ci-deploy-token-and-the-ghost-sweep-ilh6zyt9.md) `dc_wjilh6zyt9` · Mara 2
 - 2026-11-17 [Redeploy path when CI cannot deploy](docs/wiki/2026-11/2026-11-17-redeploy-path-when-ci-cannot-deploy-gqsdnqpf.md) `dc_2ngqsdnqpf` · Mara 1
 - 2026-11-16 [Pins](docs/wiki/2026-11/2026-11-16-pins-e9babk61.md) `dc_8je9babk61` · Mara 1

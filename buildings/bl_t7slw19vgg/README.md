@@ -4,8 +4,9 @@ Goal: Make Muster Town beautiful and intuitive
 
 Published docs (the board and the filing cabinet), newest first. Drafts are private and not exported.
 
-## flag (9)
+## flag (10)
 
+- 2026-11-19 [nit: move the secretary's default position north a few tiles](docs/flag/2026-11/2026-11-19-nit-move-the-secretary-s-default-position-north-a-m72814k5.md) `dc_hrm72814k5` · Mitchell
 - 2026-11-17 [also nit: uncollapse the quick action buttons on the building's overview page. we've taken progressive disclosure a tou…](docs/flag/2026-11/2026-11-17-also-nit-uncollapse-the-quick-action-buttons-on-th-yij2euj6.md) `dc_7jyij2euj6` · Mitchell
 - 2026-11-17 [in progress tool calls in a 1:1 with a manager aren't showing up. sometimes it shows a "Working..." progress text (i fo…](docs/flag/2026-11/2026-11-17-in-progress-tool-calls-in-a-1-1-with-a-manager-are-duwk2af8.md) `dc_1nduwk2af8` · Mitchell
 - 2026-11-17 [the drag and drop residents only kind of works? why does the desk come with the resident? i'm literally just asking for…](docs/flag/2026-11/2026-11-17-the-drag-and-drop-residents-only-kind-of-works-why-wkuhoh1l.md) `dc_d2wkuhoh1l` · Mitchell
@@ -39,8 +40,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (226)
+## report (230)
 
+- 2026-11-19 [Secretary rest tile moved 2 north: PR #508, parked on CI](docs/report/2026-11/2026-11-19-secretary-rest-tile-moved-2-north-pr-508-parked-on-qqrlqqut.md) `dc_a9qqrlqqut` · Teo 2
+- 2026-11-19 [PR #504 green and squash-merged (af9c279d): goal canvas opens readable](docs/report/2026-11/2026-11-19-pr-504-green-and-squash-merged-af9c279d-goal-canva-rdh0emtv.md) `dc_m0rdh0emtv` · Teo 1
+- 2026-11-19 [Goal canvas opens readable: PR #504, parked on CI](docs/report/2026-11/2026-11-19-goal-canvas-opens-readable-pr-504-parked-on-ci-j07vl3jf.md) `dc_4vj07vl3jf` · Teo 1
+- 2026-11-19 [Body-only drag is live (46669b9d in eb4d790); live checks covered only the gates, not a real drag](docs/report/2026-11/2026-11-19-body-only-drag-is-live-46669b9d-in-eb4d790-live-ch-lcbwswxg.md) `dc_85lcbwswxg` · Teo 2
 - 2026-11-18 [Live: goal detail shows "Key results" above "✓ 3 done" (PR #503, eb4d7908)](docs/report/2026-11/2026-11-18-live-goal-detail-shows-key-results-above-3-done-pr-h8phiqje.md) `dc_2eh8phiqje` · Teo 1
 - 2026-11-18 [PR #503 green and squash-merged (eb4d7908); parked until live](docs/report/2026-11/2026-11-18-pr-503-green-and-squash-merged-eb4d7908-parked-unt-i5p45lgf.md) `dc_doi5p45lgf` · Teo 1
 - 2026-11-18 [Goal detail heading fix: PR #503, parked on CI](docs/report/2026-11/2026-11-18-goal-detail-heading-fix-pr-503-parked-on-ci-jicdwg8j.md) `dc_7sjicdwg8j` · Teo 1
@@ -67,10 +72,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-14 [Style-guide skill has the sheet rule; docs/ copy in PR #450, parked on its CI](docs/report/2026-11/2026-11-14-style-guide-skill-has-the-sheet-rule-docs-copy-in-06vwoduk.md) `dc_kw06vwoduk` · Teo 1
 - 2026-11-10 [Tool-call lines (f9682825) are live; no 1:1 reply since the deploy to see them on](docs/report/2026-11/2026-11-10-tool-call-lines-f9682825-are-live-no-1-1-reply-sin-j1j0ezoq.md) `dc_t8j1j0ezoq` · Teo 1
 - 2026-11-10 [PR #423 green and squash-merged (f9682825); parked on its deploy](docs/report/2026-11/2026-11-10-pr-423-green-and-squash-merged-f9682825-parked-on-ptu9hhpx.md) `dc_fyptu9hhpx` · Teo 1
-- 2026-11-10 [PR #423 knip fix pushed (03649b61); parked on its CI](docs/report/2026-11/2026-11-10-pr-423-knip-fix-pushed-03649b61-parked-on-its-ci-ixz78oee.md) `dc_e0ixz78oee` · Teo 1
-- 2026-11-10 [Session ended without a report: PR #423 CI done: if green squash-merge (no redeploy), park on its deploy](docs/report/2026-11/2026-11-10-session-ended-without-a-report-pr-423-ci-done-if-g-w699zxep.md) `dc_uuw699zxep` · Teo 1
-- 2026-11-10 [PR #423 CI still running on 90c79b95: re-parked on its checks](docs/report/2026-11/2026-11-10-pr-423-ci-still-running-on-90c79b95-re-parked-on-i-o5ic936t.md) `dc_ovo5ic936t` · Teo 2
-- 2026-11-10 [PR #423 had a conflict with main: merged, log line moved to docs/log.d, re-parked on CI](docs/report/2026-11/2026-11-10-pr-423-had-a-conflict-with-main-merged-log-line-mo-3so59wbl.md) `dc_xc3so59wbl` · Teo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -83,8 +84,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-31 [delight-walk](docs/skill/2026-10/2026-10-31-delight-walk-la62qft8.md) `dc_14la62qft8` · Teo 2
 - 2026-10-31 [map-bubble-sampler](docs/skill/2026-10/2026-10-31-map-bubble-sampler-h9yywhfl.md) `dc_6ph9yywhfl` · Teo 1
 
-## wiki (20)
+## wiki (21)
 
+- 2026-11-19 [Goal tree readable at first look (gr_nhayb7s9bd)](docs/wiki/2026-11/2026-11-19-goal-tree-readable-at-first-look-gr-nhayb7s9bd-5fhlkrq7.md) `dc_7z5fhlkrq7` · Teo 1
 - 2026-11-17 [1:1 live progress (writing line and tool calls)](docs/wiki/2026-11/2026-11-17-1-1-live-progress-writing-line-and-tool-calls-3sxczr6d.md) `dc_pm3sxczr6d` · Teo 2
 - 2026-11-16 [Drag residents with the grasper hand](docs/wiki/2026-11/2026-11-16-drag-residents-with-the-grasper-hand-rianpcp1.md) `dc_kmrianpcp1` · Teo 2
 - 2026-11-16 [Form drafts (useDraft)](docs/wiki/2026-11/2026-11-16-form-drafts-usedraft-om6k146h.md) `dc_a9om6k146h` · Teo 1

@@ -129,8 +129,9 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1220)
+## report (1221)
 
+- 2026-11-19 [Objectives are goals: PR #506 open, parked on its CI](docs/report/2026-11/2026-11-19-objectives-are-goals-pr-506-open-parked-on-its-ci-q5ygm92b.md) `dc_7zq5ygm92b` · Pix 1
 - 2026-11-18 [Explore tick ordering merged: PR #500 as 99a676b7](docs/report/2026-11/2026-11-18-explore-tick-ordering-merged-pr-500-as-99a676b7-k3bsdvh4.md) `dc_mlk3bsdvh4` · Pix 1
 - 2026-11-18 [Explore tick ordering: PR #500 open, parked on its CI](docs/report/2026-11/2026-11-18-explore-tick-ordering-pr-500-open-parked-on-its-ci-yfslbih2.md) `dc_ysyfslbih2` · Pix 1
 - 2026-11-17 [Onboarding sweep week 1 done: PR #497 merged as 67dd6a73, lag 0 h](docs/report/2026-11/2026-11-17-onboarding-sweep-week-1-done-pr-497-merged-as-67dd-6ointzs1.md) `dc_ox6ointzs1` · Pix 1
@@ -160,7 +161,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-16 [Weekly onboarding sweep: wording-card branches confirmed, topic page rewritten](docs/report/2026-11/2026-11-16-weekly-onboarding-sweep-wording-card-branches-conf-hxfhgzfa.md) `dc_bahxfhgzfa` · Pix 4
 - 2026-11-16 [Jobs and entries page rewritten from the code; stale pause notes closed](docs/report/2026-11/2026-11-16-jobs-and-entries-page-rewritten-from-the-code-stal-krvprqpx.md) `dc_uukrvprqpx` · Pix 3
 - 2026-11-16 [Secretary rests north-east of the hydrant on the live town (flag dc_ea9wdns25e done)](docs/report/2026-11/2026-11-16-secretary-rests-north-east-of-the-hydrant-on-the-l-sfqr4efl.md) `dc_azsfqr4efl` · Pix 1
-- 2026-11-16 [PR #467 merged (9defeb54); waiting for deploy to check the live map](docs/report/2026-11/2026-11-16-pr-467-merged-9defeb54-waiting-for-deploy-to-check-bcx64rkx.md) `dc_1vbcx64rkx` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -169,8 +169,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-27 [demo-media](docs/skill/2026-10/2026-10-27-demo-media-8jzo79xq.md) `dc_p68jzo79xq` · Lena
 - 2026-10-26 [desk-image](docs/skill/2026-10/2026-10-26-desk-image-93n44plc.md) `dc_br93n44plc` · Root
 
-## wiki (77)
+## wiki (78)
 
+- 2026-11-19 [One goal tree (gr_h4m0lyhb1f)](docs/wiki/2026-11/2026-11-19-one-goal-tree-gr-h4m0lyhb1f-cw3lrclv.md) `dc_xpcw3lrclv` · Pix 1
 - 2026-11-17 [Gate cards price the step in flight (gr_76e81kdpvy)](docs/wiki/2026-11/2026-11-17-gate-cards-price-the-step-in-flight-gr-76e81kdpvy-itehkbtv.md) `dc_luitehkbtv` · Pix 1
 - 2026-11-16 [Ghost visitors](docs/wiki/2026-11/2026-11-16-ghost-visitors-slw5vu6f.md) `dc_oxslw5vu6f` · Pix 1
 - 2026-11-16 [Operating manual book in the Town Hall](docs/wiki/2026-11/2026-11-16-operating-manual-book-in-the-town-hall-pg92mn1z.md) `dc_tkpg92mn1z` · Pix 2
@@ -200,6 +201,5 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-11-04 [Publish to GitHub (gr_30f8obzab8)](docs/wiki/2026-11/2026-11-04-publish-to-github-gr-30f8obzab8-b741sboo.md) `dc_0ub741sboo` · Pix
 - 2026-11-04 [The Secretary (gr_kdlogzzo5s)](docs/wiki/2026-11/2026-11-04-the-secretary-gr-kdlogzzo5s-0pm17xh1.md) `dc_t20pm17xh1` · Pix 1
 - 2026-11-03 [In-tray list view (flag dc_2hllscunfx)](docs/wiki/2026-11/2026-11-03-in-tray-list-view-flag-dc-2hllscunfx-bzo6hju0.md) `dc_7rbzo6hju0` · Pix 1
-- 2026-11-03 [Subtree throttles: exploration caps and desks (gr_yu6qw3j9x5)](docs/wiki/2026-11/2026-11-03-subtree-throttles-exploration-caps-and-desks-gr-yu-uikp1rk5.md) `dc_7uuikp1rk5` · Pix 4
 
 All by month: [2026-11](docs/wiki/2026-11/) · [2026-10](docs/wiki/2026-10/)

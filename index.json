@@ -30724,5 +30724,131 @@
     "state": "building",
     "buildingId": "bl_hzjw0z0zlz",
     "createdAt": "2026-11-19T14:30:23.497Z"
+  },
+  {
+    "id": "dc_hrm72814k5",
+    "path": "buildings/bl_t7slw19vgg/docs/flag/2026-11/2026-11-19-nit-move-the-secretary-s-default-position-north-a-m72814k5.md",
+    "title": "nit: move the secretary's default position north a few tiles",
+    "type": "flag",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-19T15:18:39.354Z"
+  },
+  {
+    "id": "dc_85lcbwswxg",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-19-body-only-drag-is-live-46669b9d-in-eb4d790-live-ch-lcbwswxg.md",
+    "title": "Body-only drag is live (46669b9d in eb4d790); live checks covered only the gates, not a real drag",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-19T15:19:40.566Z"
+  },
+  {
+    "id": "dc_7z5fhlkrq7",
+    "path": "buildings/bl_t7slw19vgg/docs/wiki/2026-11/2026-11-19-goal-tree-readable-at-first-look-gr-nhayb7s9bd-5fhlkrq7.md",
+    "title": "Goal tree readable at first look (gr_nhayb7s9bd)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-19T15:22:39.827Z"
+  },
+  {
+    "id": "dc_4vj07vl3jf",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-19-goal-canvas-opens-readable-pr-504-parked-on-ci-j07vl3jf.md",
+    "title": "Goal canvas opens readable: PR #504, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-19T15:22:48.204Z"
+  },
+  {
+    "id": "dc_1t4fp34nif",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-19-pinger-watch-pr-505-open-parked-on-ci-4fp34nif.md",
+    "title": "Pinger watch: PR #505 open, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-19T15:27:16.710Z"
+  },
+  {
+    "id": "dc_m0rdh0emtv",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-19-pr-504-green-and-squash-merged-af9c279d-goal-canva-rdh0emtv.md",
+    "title": "PR #504 green and squash-merged (af9c279d): goal canvas opens readable",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-19T15:28:44.351Z"
+  },
+  {
+    "id": "dc_delvte4dgn",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-19-1-1-mitchell-and-secretary-notes-lvte4dgn.md",
+    "title": "1:1: Mitchell and Secretary — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-19T15:29:42.694Z"
+  },
+  {
+    "id": "dc_xpcw3lrclv",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-19-one-goal-tree-gr-h4m0lyhb1f-cw3lrclv.md",
+    "title": "One goal tree (gr_h4m0lyhb1f)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-19T15:30:06.236Z"
+  },
+  {
+    "id": "dc_7zq5ygm92b",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-19-objectives-are-goals-pr-506-open-parked-on-its-ci-q5ygm92b.md",
+    "title": "Objectives are goals: PR #506 open, parked on its CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-19T15:30:17.139Z"
+  },
+  {
+    "id": "dc_f57lvgd1du",
+    "path": "buildings/bl_vd69s5a1nh/docs/wiki/2026-11/2026-11-19-merge-when-green-7lvgd1du.md",
+    "title": "Merge when green",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-19T15:30:31.287Z"
+  },
+  {
+    "id": "dc_egrvk6gb5m",
+    "path": "town-hall/outbox/2026-11/2026-11-19-run-the-hourly-copy-restore-drill-once-on-a-throwa-rvk6gb5m.md",
+    "title": "Run the hourly-copy restore drill once on a throwaway app (~20-25 min): deploy/recover.sh --yes recover-drill",
+    "type": "request",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-19T15:30:34.323Z"
+  },
+  {
+    "id": "dc_w10tq4j5s9",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-19-pr-507-merge-when-green-wait-step-1-parked-on-ci-0tq4j5s9.md",
+    "title": "PR #507: merge-when-green wait (step 1); parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-19T15:30:40.561Z"
+  },
+  {
+    "id": "dc_t3d3nbl0hv",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-19-hourly-copy-restore-drill-re-filed-as-dc-egrvk6gb5-d3nbl0hv.md",
+    "title": "Hourly-copy restore drill re-filed as dc_egrvk6gb5m",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-19T15:30:53.306Z"
+  },
+  {
+    "id": "dc_a9qqrlqqut",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-19-secretary-rest-tile-moved-2-north-pr-508-parked-on-qqrlqqut.md",
+    "title": "Secretary rest tile moved 2 north: PR #508, parked on CI",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-19T15:33:15.867Z"
   }
 ]
