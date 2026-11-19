@@ -30544,5 +30544,23 @@
     "state": "building",
     "buildingId": "bl_hzjw0z0zlz",
     "createdAt": "2026-11-19T04:30:19.018Z"
+  },
+  {
+    "id": "dc_vzu0qs0nuo",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-u0qs0nuo.md",
+    "title": "Explore: no new grant; nothing moved under this goal since the 04:30 read",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-19T05:00:20.060Z"
+  },
+  {
+    "id": "dc_3m9f9lvm5x",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-9f9lvm5x.md",
+    "title": "Explore: no new grant; nothing moved under this goal since the 05:00 read",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-19T05:30:19.452Z"
   }
 ]

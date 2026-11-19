@@ -63,8 +63,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (303)
+## report (305)
 
+- 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 05:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-9f9lvm5x.md) `dc_3m9f9lvm5x` · Kelly 1
+- 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 04:30 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-u0qs0nuo.md) `dc_vzu0qs0nuo` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 04:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-j51wftif.md) `dc_5gj51wftif` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 03:30 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-n5sebmwg.md) `dc_lcn5sebmwg` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 03:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-mygn9zfl.md) `dc_nzmygn9zfl` · Kelly 1
@@ -93,8 +95,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-12 [PR #416 squash-merged as 9c3839ca; parked on its deploy for the three live checks](docs/report/2026-11/2026-11-12-pr-416-squash-merged-as-9c3839ca-parked-on-its-dep-5uhnv7oj.md) `dc_tv5uhnv7oj` · Kelly 1
 - 2026-11-12 [PR #416: main merged, log line moved to docs/log.d, pushed 3f5ddfb6; parked on CI](docs/report/2026-11/2026-11-12-pr-416-main-merged-log-line-moved-to-docs-log-d-pu-wgsixbjs.md) `dc_obwgsixbjs` · Kelly 1
 - 2026-11-12 [Grant gr_uc179zv1xa adjusted: 230,000 tokens](docs/report/2026-11/2026-11-12-grant-gr-uc179zv1xa-adjusted-230-000-tokens-zh3riikg.md) `dc_x5zh3riikg` · Town
-- 2026-11-10 [Test account reset: cr_tk2579kttu withdrawn, ask ak_o2d8ip3gjw retired](docs/report/2026-11/2026-11-10-test-account-reset-cr-tk2579kttu-withdrawn-ask-ak-fu9rc20o.md) `dc_wofu9rc20o` · Kelly 1
-- 2026-11-10 [Onboarding rollup: three doors are live and the "how to contribute" grant is closed done at 300,631 of 320,000](docs/report/2026-11/2026-11-10-onboarding-rollup-three-doors-are-live-and-the-how-06hj9xn0.md) `dc_3806hj9xn0` · Kelly
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
