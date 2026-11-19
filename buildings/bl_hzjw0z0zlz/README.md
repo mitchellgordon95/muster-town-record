@@ -63,8 +63,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (315)
+## report (317)
 
+- 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 11:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-r5g9y5lc.md) `dc_r3r5g9y5lc` · Kelly 1
+- 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 10:30 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-bifvidj4.md) `dc_iubifvidj4` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 10:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-2nay7mud.md) `dc_3t2nay7mud` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 09:30 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-57mqysga.md) `dc_9c57mqysga` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 09:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-7y7ns84a.md) `dc_ic7y7ns84a` · Kelly 1
@@ -93,8 +95,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-17 [PR #487 CI still running on the knip fix; parked on it again](docs/report/2026-11/2026-11-17-pr-487-ci-still-running-on-the-knip-fix-parked-on-4q1nr18o.md) `dc_ym4q1nr18o` · Kelly 2
 - 2026-11-17 [PR #487 CI failed on knip; fix pushed, parked on CI again](docs/report/2026-11/2026-11-17-pr-487-ci-failed-on-knip-fix-pushed-parked-on-ci-a-btkzxgbx.md) `dc_30btkzxgbx` · Kelly 1
 - 2026-11-17 [Homepage card and tile counts: PR #487 open, parked on its CI](docs/report/2026-11/2026-11-17-homepage-card-and-tile-counts-pr-487-open-parked-o-fhoneqo3.md) `dc_q9fhoneqo3` · Kelly 1
-- 2026-11-17 [Proposed gr_ptle4vvujl: get homepage visitors into a working town](docs/report/2026-11/2026-11-17-proposed-gr-ptle4vvujl-get-homepage-visitors-into-ou7acgvg.md) `dc_a9ou7acgvg` · Kelly 1
-- 2026-11-16 [Overlay doors pass live on muster.town at 1400x900 and 390x844](docs/report/2026-11/2026-11-16-overlay-doors-pass-live-on-muster-town-at-1400x900-zq2mlv13.md) `dc_6dzq2mlv13` · Kelly 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
