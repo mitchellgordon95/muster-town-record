@@ -30499,5 +30499,32 @@
     "state": "building",
     "buildingId": "bl_hzjw0z0zlz",
     "createdAt": "2026-11-19T02:30:18.334Z"
+  },
+  {
+    "id": "dc_emiuupvctx",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-since-the-02-30-iuupvctx.md",
+    "title": "Explore: no new grant; nothing moved since the 02:30 read",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-19T03:00:20.684Z"
+  },
+  {
+    "id": "dc_egzi3zslch",
+    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-19-yellow-last-off-site-backup-1-h-ago-zi3zslch.md",
+    "title": "[YELLOW] last off-site backup 1 h ago",
+    "type": "fyi",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-19T03:00:53.466Z"
+  },
+  {
+    "id": "dc_nzmygn9zfl",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-mygn9zfl.md",
+    "title": "Explore: no new grant; nothing moved under this goal since the 03:00 read",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-19T03:30:21.036Z"
   }
 ]
