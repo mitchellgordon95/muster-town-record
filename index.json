@@ -31183,5 +31183,14 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-19T17:19:48.275Z"
+  },
+  {
+    "id": "dc_upfy99b8d2",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-19-building-overview-and-goals-tab-read-the-one-tree-fy99b8d2.md",
+    "title": "Building Overview and Goals tab read the one tree: PR #523 open (draft)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-19T17:40:46.541Z"
   }
 ]

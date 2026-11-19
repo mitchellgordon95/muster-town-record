@@ -129,8 +129,9 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1226)
+## report (1227)
 
+- 2026-11-19 [Building Overview and Goals tab read the one tree: PR #523 open (draft)](docs/report/2026-11/2026-11-19-building-overview-and-goals-tab-read-the-one-tree-fy99b8d2.md) `dc_upfy99b8d2` · Pix 1
 - 2026-11-19 [Grants route by goalId: PR #522 open, merges when green](docs/report/2026-11/2026-11-19-grants-route-by-goalid-pr-522-open-merges-when-gre-r20y1cv8.md) `dc_hcr20y1cv8` · Pix 1
 - 2026-11-19 [A key result has one parent and one status: PR #521 open, merges when green](docs/report/2026-11/2026-11-19-a-key-result-has-one-parent-and-one-status-pr-521-c8jrw1in.md) `dc_7ac8jrw1in` · Pix 2
 - 2026-11-19 [Objectives are goals: live on fa6bcd8e, kr_zcwoxvsssi claimed](docs/report/2026-11/2026-11-19-objectives-are-goals-live-on-fa6bcd8e-kr-zcwoxvsss-0bdx96zr.md) `dc_iv0bdx96zr` · Pix 1
@@ -160,7 +161,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-16 [Dead-session wording in code: PR #474 open, parked on CI](docs/report/2026-11/2026-11-16-dead-session-wording-in-code-pr-474-open-parked-on-qpun7pta.md) `dc_ozqpun7pta` · Pix 3
 - 2026-11-16 [Ghost visitors: 7-day retire rule in PR #473, parked on CI](docs/report/2026-11/2026-11-16-ghost-visitors-7-day-retire-rule-in-pr-473-parked-ecz4vy2h.md) `dc_elecz4vy2h` · Pix 1
 - 2026-11-16 [PR #469 merged (5aa5948e): dead-session docs fix](docs/report/2026-11/2026-11-16-pr-469-merged-5aa5948e-dead-session-docs-fix-m8d6o50a.md) `dc_vrm8d6o50a` · Pix 2
-- 2026-11-16 [Operating manual book: PR #472 open, parked on CI](docs/report/2026-11/2026-11-16-operating-manual-book-pr-472-open-parked-on-ci-1ss5grl9.md) `dc_t51ss5grl9` · Pix 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
