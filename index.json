@@ -31156,5 +31156,32 @@
     "state": "building",
     "buildingId": "bl_6ifesdbah3",
     "createdAt": "2026-11-19T16:26:07.659Z"
+  },
+  {
+    "id": "dc_e9cd78nn88",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-19-show-hn-baseline-recorded-4-subscribers-3-confirme-cd78nn88.md",
+    "title": "Show HN baseline recorded: 4 subscribers (3 confirmed), 0 stars, 0 forks",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-19T16:34:12.103Z"
+  },
+  {
+    "id": "dc_7ac8jrw1in",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-19-a-key-result-has-one-parent-and-one-status-pr-521-c8jrw1in.md",
+    "title": "A key result has one parent and one status: PR #521 open, merges when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-19T16:35:25.194Z"
+  },
+  {
+    "id": "dc_hcr20y1cv8",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-19-grants-route-by-goalid-pr-522-open-merges-when-gre-r20y1cv8.md",
+    "title": "Grants route by goalId: PR #522 open, merges when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-19T17:19:48.275Z"
   }
 ]

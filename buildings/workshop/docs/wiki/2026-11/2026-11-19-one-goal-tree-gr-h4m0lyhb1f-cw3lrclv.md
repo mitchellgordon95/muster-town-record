@@ -10,15 +10,16 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "workshop"
 createdAt: "2026-11-19T15:30:06.236Z"
-updatedAt: "2026-11-19T15:31:58.701Z"
+updatedAt: "2026-11-19T17:33:16.234Z"
 ---
-Grant gr_h4m0lyhb1f: objectives, keyResultId routing and the second UI grouping go. 4 steps, 750k. Funded by Mitchell 2026-11-19 15:14Z.
+Grant gr_h4m0lyhb1f: objectives, keyResultId routing and the second UI grouping go. 4 steps (S, M, L, M), 750k. Funded by Mitchell 2026-11-19 15:14Z.
 
-**Step 1 (as_vkxheth744, Pix 1): PR #506 draft, pushed 2026-11-19, parked on its CI; report [dc_7zq5ygm92b](../../report/2026-11/2026-11-19-objectives-are-goals-pr-506-open-parked-on-its-ci-q5ygm92b.md) approved by Pix 15:3xZ.** Continuation as_y0fs2anhe4 waits on PR #506 CI: mark ready, merge, report the merge sha.
-- Migration 124_drop_objectives.sql: inserts any objective with no goal row as a goal under its building's goalId, then DROP TABLE objectives.
-- Removed: /api/buildings/:id/objectives (GET/POST), /api/objectives/:id (PATCH/DELETE), set_objective verb, Grants.objectiveTree etc., UpdateKeyResultInput.objectiveId, CreateKeyResultInput.objectiveId, GrantBoard.objectives, schema Objective.
-- Web GoalsTab.tsx reads api().keyResults(buildingId) flat; goalsSummary(krs, grants) = "N key results, N funded".
-- Not done (later steps): key_results.objectiveId column still exists (step 2); grants.keyResultId (step 3); the Overview Goals line "N goals, N grants funded, N of N KRs met" (step 4).
+**HELD AT ITS GATE since 17:31Z (ceiling 750k, spent 760,856, projected 787,802).** Ask ak_xbhw2154p9 (Adjust / Cut) filed by Pix 17:3xZ, recommends adjust by 50k → 800k. Mitchell's decision lands on jb_gr_h4m0lyhb1f. Then: if adjust, step 4 finishes and Pix closes the grant with `close_grant` + shipped; if cut, the grant closes at spend.
 
-**Decision (Pix, 2026-11-19 15:3xZ, on [dc_7zq5ygm92b](../../report/2026-11/2026-11-19-objectives-are-goals-pr-506-open-parked-on-its-ci-q5ygm92b.md)): the grant's own `objective` field is NOT renamed.** It is the grant's one-sentence aim (GrantPanel.tsx:31 shows it under the title with no "Objective" label), not the Objective entity, and it appears in ~111 files. kr_zcwoxvsssi is judged by what a human sees in the live town: step 4 sweeps the web UI's visible strings (labels, titles, hints, toasts) for the word "objective" and removes any a human can read; CSS classes, API fields and agent-facing param names stay. At close, claim kr_zcwoxvsssi with that evidence and say plainly that the grant field keeps its name.
+**Step 1 (Pix 1): LIVE.** PR #506 merged as fa6bcd8e (report [dc_iv0bdx96zr](../../report/2026-11/2026-11-19-objectives-are-goals-live-on-fa6bcd8e-kr-zcwoxvsss-0bdx96zr.md)). Objectives table, routes and set_objective gone; kr_zcwoxvsssi claimed.
 
+**Step 2 (Pix 2): LIVE.** PR #521 merged as ce8c2790 (report [dc_7ac8jrw1in](../../report/2026-11/2026-11-19-a-key-result-has-one-parent-and-one-status-pr-521-c8jrw1in.md)). Migration 125: KR status open | claimed | met | met-unverified | missed; key_results.buildingId/objectiveId/evidence dropped; `World.krBuildingId(kr)`; goals.ts `placeKr` moves a grant with all its KRs. kr_awya2qdkou filed "on-track" (old word) → open; still to claim.
+
+**Step 3 (Pix 1): LIVE** (migration 126 is in daaccbb, live since 17:29Z; report [dc_hcr20y1cv8](../../report/2026-11/2026-11-19-grants-route-by-goalid-pr-522-open-merges-when-gre-r20y1cv8.md)). PR #522: grants.goalId back-filled, grants/assignments/schedules.keyResultId dropped; GrantView has no `keyResult`; GoalSpend.byGrant; in-tray grant rows "Under <goal> · for <captain>". kr_jwuf0g9iow not yet claimed: Pix told Pix 1 (ms_nv02a6b1cz) to claim it in step 4's report.
+
+**Step 4 (Pix 1, as_an0dx2en5a): IN FLIGHT** since 17:25:52Z (111k of 150k at 17:31Z). Overview Goals line and Goals tab read the one tree; drops the "outside this goal" caveat (kr_4ee59lp0m2); sweeps "objective" UI strings and dead `.kr-objective*` CSS. The grant's own `objective` field is NOT renamed (Pix's decision on [dc_7zq5ygm92b](../../report/2026-11/2026-11-19-objectives-are-goals-pr-506-open-parked-on-its-ci-q5ygm92b.md)).
