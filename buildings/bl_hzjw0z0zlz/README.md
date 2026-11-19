@@ -63,8 +63,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (317)
+## report (319)
 
+- 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 12:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-y5mpa65k.md) `dc_muy5mpa65k` · Kelly 1
+- 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 11:30 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-0ovfset3.md) `dc_qu0ovfset3` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 11:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-r5g9y5lc.md) `dc_r3r5g9y5lc` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 10:30 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-bifvidj4.md) `dc_iubifvidj4` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 10:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-2nay7mud.md) `dc_3t2nay7mud` · Kelly 1
@@ -93,8 +95,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-17 [Homepage card counts pass live: Next, Next, Open each moved +1](docs/report/2026-11/2026-11-17-homepage-card-counts-pass-live-next-next-open-each-ty1pcza1.md) `dc_efty1pcza1` · Kelly 1
 - 2026-11-17 [PR #487 merged as 17fa38b8 but not live: CI's redeploy gets 401](docs/report/2026-11/2026-11-17-pr-487-merged-as-17fa38b8-but-not-live-ci-s-redepl-kjf2pdbn.md) `dc_t1kjf2pdbn` · Kelly 1
 - 2026-11-17 [PR #487 CI still running on the knip fix; parked on it again](docs/report/2026-11/2026-11-17-pr-487-ci-still-running-on-the-knip-fix-parked-on-4q1nr18o.md) `dc_ym4q1nr18o` · Kelly 2
-- 2026-11-17 [PR #487 CI failed on knip; fix pushed, parked on CI again](docs/report/2026-11/2026-11-17-pr-487-ci-failed-on-knip-fix-pushed-parked-on-ci-a-btkzxgbx.md) `dc_30btkzxgbx` · Kelly 1
-- 2026-11-17 [Homepage card and tile counts: PR #487 open, parked on its CI](docs/report/2026-11/2026-11-17-homepage-card-and-tile-counts-pr-487-open-parked-o-fhoneqo3.md) `dc_q9fhoneqo3` · Kelly 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
