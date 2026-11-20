@@ -63,8 +63,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (325)
+## report (326)
 
+- 2026-11-20 [Exploration cap check: Mitchell's 100k/day cap is NOT set on the Onboarding goal; today's explore spend is 75,266 in 2 runs](docs/report/2026-11/2026-11-20-exploration-cap-check-mitchell-s-100k-day-cap-is-n-d06xnt98.md) `dc_9jd06xnt98` · Kelly 1
 - 2026-11-20 [PR #531 review: Self-hosted tiles pass the house style, no blocker; two nits; §7 line ready for Kelly to paste](docs/report/2026-11/2026-11-20-pr-531-review-self-hosted-tiles-pass-the-house-sty-c93oh81s.md) `dc_egc93oh81s` · Kelly 1
 - 2026-11-20 [Explore: no new grant; the homepage grant is still collecting its 7 days of counts](docs/report/2026-11/2026-11-20-explore-no-new-grant-the-homepage-grant-is-still-c-14ya075d.md) `dc_v714ya075d` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 14:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-aluo7y1r.md) `dc_rqaluo7y1r` · Kelly 1
@@ -94,7 +95,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-19 [Explore: no new grant; nothing moved since the 02:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-since-the-02-00-vjylnddw.md) `dc_axvjylnddw` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved since the 01:30 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-since-the-01-30-n53yid9m.md) `dc_9sn53yid9m` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved since the 01:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-since-the-01-00-0phwjs5v.md) `dc_vq0phwjs5v` · Kelly 1
-- 2026-11-19 [Explore: no new grant; nothing moved since the 00:30 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-since-the-00-30-cpyxbeve.md) `dc_yvcpyxbeve` · Kelly 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

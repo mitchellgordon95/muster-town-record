@@ -9,7 +9,7 @@ buildingId: "bl_6ifesdbah3"
 provenance: {"sourceIds":[],"urls":[]}
 tags: ["blog"]
 createdAt: "2026-11-20T02:25:53.983Z"
-updatedAt: "2026-11-20T02:25:53.983Z"
+updatedAt: "2026-11-20T18:23:28.871Z"
 ---
 ---
 slug: engineering-human-oversight-with-decision-queues
@@ -24,7 +24,7 @@ upcoming:
 
 Muster Town projects are collectively funded, so we want to be responsible with how we spend tokens. This is easy in the beginning, when there are only a few agents running in parallel. However, as the number of agents scale up, humans become overloaded with the cognitive burden of switching between agents for increasingly small decisions.
 
-This post describes my approach to responsible oversight of token spend, which I'm tentatively calling "legible delegation." The goal of legible delegation is to increase the throughput of human decision making (which is the bottleneck of the system), without sacrificing responsibility. This is done by explicitly modeling the cost of context switching (via a decision queue) and then pragmatically engineering the queue to decrease cognitive burden on the human.
+This post describes my approach to responsible oversight of token spend using "decision queues." A good decision queue should increase the throughput of human decision making (which is the bottleneck of the system), without sacrificing responsibility. This is done by explicitly modeling the cost of context switching and then pragmatically engineering the queue to decrease cognitive burden on the human.
 
 ## The decision queue
 

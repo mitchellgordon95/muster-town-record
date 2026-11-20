@@ -31777,5 +31777,68 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-20T14:00:57.897Z"
+  },
+  {
+    "id": "dc_oqhp31yd2d",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-20-ask-card-every-button-together-at-the-bottom-pr-54-hp31yd2d.md",
+    "title": "Ask card: every button together at the bottom: PR #541, parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-20T18:20:38.454Z"
+  },
+  {
+    "id": "dc_bc875cj1a0",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-20-1-1-mitchell-and-secretary-notes-875cj1a0.md",
+    "title": "1:1: Mitchell and Secretary — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-20T18:21:34.865Z"
+  },
+  {
+    "id": "dc_9jd06xnt98",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-20-exploration-cap-check-mitchell-s-100k-day-cap-is-n-d06xnt98.md",
+    "title": "Exploration cap check: Mitchell's 100k/day cap is NOT set on the Onboarding goal; today's explore spend is 75,266 in 2 runs",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-20T18:24:00.435Z"
+  },
+  {
+    "id": "dc_851luz1a5f",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-20-ask-card-every-button-in-one-row-at-the-bottom-bel-1luz1a5f.md",
+    "title": "Ask card: every button in one row at the bottom, below the text: PR #542, parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-20T18:28:43.544Z"
+  },
+  {
+    "id": "dc_dqu4d1etna",
+    "path": "buildings/town-hall/docs/fyi/2026-11/2026-11-20-managers-rewrite-wiki-pages-that-say-town-hall-in-u4d1etna.md",
+    "title": "Managers: rewrite wiki pages that say \"Town Hall in-tray\": the humans decide in the decision queue",
+    "type": "fyi",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-20T18:31:08.072Z"
+  },
+  {
+    "id": "dc_xv004oxcwj",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-20-pr-543-agents-read-decision-queue-not-town-hall-in-004oxcwj.md",
+    "title": "PR #543: agents read \"decision queue\", not \"Town Hall in-tray\"; dictionary pair added; town-wide FYI posted",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-20T18:31:15.805Z"
+  },
+  {
+    "id": "dc_1opxt95tln",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-20-pr-542-conflict-with-541-resolved-parked-to-merge-pxt95tln.md",
+    "title": "PR #542 conflict with #541 resolved; parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-20T18:32:38.268Z"
   }
 ]

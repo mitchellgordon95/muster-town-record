@@ -53,8 +53,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (253)
+## report (254)
 
+- 2026-11-20 [PR #543: agents read "decision queue", not "Town Hall in-tray"; dictionary pair added; town-wide FYI posted](docs/report/2026-11/2026-11-20-pr-543-agents-read-decision-queue-not-town-hall-in-004oxcwj.md) `dc_xv004oxcwj` · Mara 1
 - 2026-11-20 [Weekly check-timing watch: no slowdown in the last 12 main runs](docs/report/2026-11/2026-11-20-weekly-check-timing-watch-no-slowdown-in-the-last-k5omm1bn.md) `dc_xwk5omm1bn` · Mara 1
 - 2026-11-20 [Too early to measure: step 2 is not live yet; the backoff line shows live; schedule this step for 2026-11-27](docs/report/2026-11/2026-11-20-too-early-to-measure-step-2-is-not-live-yet-the-ba-ns7fiqm6.md) `dc_ogns7fiqm6` · Mara 1
 - 2026-11-20 [PR #538: every building gets a town-kept Exploration journal, attached to each explorer](docs/report/2026-11/2026-11-20-pr-538-every-building-gets-a-town-kept-exploration-sq4rcmy6.md) `dc_5qsq4rcmy6` · Mara 1
@@ -84,7 +85,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-17 [Live check not run: live is still at 5974c42b](docs/report/2026-11/2026-11-17-live-check-not-run-live-is-still-at-5974c42b-lsou48el.md) `dc_czlsou48el` · Mara 1
 - 2026-11-17 [Pins step 3 in draft PR #486; parked on its CI](docs/report/2026-11/2026-11-17-pins-step-3-in-draft-pr-486-parked-on-its-ci-vvdbigqa.md) `dc_xkvvdbigqa` · Mara 2
 - 2026-11-17 [Ask redeploy fix merged: PR #485 as 7a886f88; live still 5974c42b](docs/report/2026-11/2026-11-17-ask-redeploy-fix-merged-pr-485-as-7a886f88-live-st-jy3dzy2g.md) `dc_esjy3dzy2g` · Mara 1
-- 2026-11-17 [Pins step 2 merged: PR #484 as c7c2d2b0](docs/report/2026-11/2026-11-17-pins-step-2-merged-pr-484-as-c7c2d2b0-hne0vohy.md) `dc_3hhne0vohy` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
