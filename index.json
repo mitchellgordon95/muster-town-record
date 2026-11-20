@@ -31840,5 +31840,131 @@
     "state": "building",
     "buildingId": "bl_t7slw19vgg",
     "createdAt": "2026-11-20T18:32:38.268Z"
+  },
+  {
+    "id": "dc_6uk7zx907x",
+    "path": "buildings/bl_6ifesdbah3/docs/meeting-notes/2026-11/2026-11-20-1-1-mitchell-and-juno-notes-k7zx907x.md",
+    "title": "1:1: Mitchell and Juno — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-20T18:41:20.814Z"
+  },
+  {
+    "id": "dc_gtmfaj6x4l",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-20-1-1-mitchell-and-secretary-notes-mfaj6x4l.md",
+    "title": "1:1: Mitchell and Secretary — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-20T19:05:09.994Z"
+  },
+  {
+    "id": "dc_sjcgy5g4cj",
+    "path": "buildings/bl_6ifesdbah3/docs/meeting-notes/2026-11/2026-11-20-1-1-mitchell-and-juno-notes-cgy5g4cj.md",
+    "title": "1:1: Mitchell and Juno — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-20T19:05:23.557Z"
+  },
+  {
+    "id": "dc_duge00czbq",
+    "path": "buildings/bl_6ifesdbah3/docs/note/2026-11/2026-11-20-staged-for-approval-engineering-human-oversight-wi-ge00czbq.md",
+    "title": "Staged for approval: \"Engineering Human Oversight With Decision Queues\" with two diagrams",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-20T19:06:25.766Z"
+  },
+  {
+    "id": "dc_b018a8km02",
+    "path": "buildings/bl_6ifesdbah3/docs/meeting-notes/2026-11/2026-11-20-1-1-mitchell-and-juno-notes-18a8km02.md",
+    "title": "1:1: Mitchell and Juno — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-20T19:08:04.720Z"
+  },
+  {
+    "id": "dc_ihn481o346",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-20-ask-card-no-bold-rest-of-530-formatting-undone-but-n481o346.md",
+    "title": "Ask card: no bold, rest of #530 formatting undone, buttons stay at bottom: PR #546 parked to merge",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-20T19:12:29.033Z"
+  },
+  {
+    "id": "dc_1g6yivoq1i",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-20-ask-card-back-to-the-old-format-except-the-regular-6yivoq1i.md",
+    "title": "Ask card: back to the old format except the regular-weight body: PR #547, parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-20T19:13:08.463Z"
+  },
+  {
+    "id": "dc_eofiz3vezm",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-20-blog-images-are-live-upload-from-the-blog-screen-c-fiz3vezm.md",
+    "title": "Blog images are live: upload from the Blog screen, cover image; Mitchell's post staged with two diagrams",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-20T19:13:31.458Z"
+  },
+  {
+    "id": "dc_wxc2oorkoe",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-20-blog-images-confirmed-live-wright-texted-mitchell-c2oorkoe.md",
+    "title": "Blog images confirmed live; Wright texted Mitchell",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-20T19:16:00.889Z"
+  },
+  {
+    "id": "dc_o85fn19jzc",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-20-pr-547-closed-as-a-duplicate-of-546-merged-ask-car-5fn19jzc.md",
+    "title": "PR #547 closed as a duplicate of #546 (merged); ask card has no bold, buttons at bottom",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-20T19:18:53.023Z"
+  },
+  {
+    "id": "dc_hi1xvlgvcj",
+    "path": "buildings/bl_hzjw0z0zlz/docs/note/2026-11/2026-11-20-muster-style-guide-rewrite-for-pr-546-paste-into-d-1xvlgvcj.md",
+    "title": "muster-style-guide rewrite for PR #546 (paste into dc_q736158pnn)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-20T19:22:44.399Z"
+  },
+  {
+    "id": "dc_l58rq4xbr7",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-20-style-guide-ask-card-rules-rewritten-for-pr-546-fi-8rq4xbr7.md",
+    "title": "Style guide ask-card rules rewritten for PR #546; filed as dc_hi1xvlgvcj for Kelly to paste (a fork can't edit the skill)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-20T19:23:02.999Z"
+  },
+  {
+    "id": "dc_kdmkkwsnh7",
+    "path": "buildings/bl_6ifesdbah3/docs/meeting-notes/2026-11/2026-11-20-1-1-mitchell-and-juno-notes-mkkwsnh7.md",
+    "title": "1:1: Mitchell and Juno — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-20T19:26:34.041Z"
+  },
+  {
+    "id": "dc_jks52b3zrd",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-20-bend-2-removed-from-the-live-post-hn-submission-re-s52b3zrd.md",
+    "title": "Bend 2 removed from the live post; HN submission recorded; staged copy is stale",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-20T19:27:01.959Z"
   }
 ]

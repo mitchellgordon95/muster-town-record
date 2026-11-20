@@ -43,8 +43,11 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (249)
+## report (252)
 
+- 2026-11-20 [PR #547 closed as a duplicate of #546 (merged); ask card has no bold, buttons at bottom](docs/report/2026-11/2026-11-20-pr-547-closed-as-a-duplicate-of-546-merged-ask-car-5fn19jzc.md) `dc_o85fn19jzc` · Teo 1
+- 2026-11-20 [Ask card: back to the old format except the regular-weight body: PR #547, parked to merge when green](docs/report/2026-11/2026-11-20-ask-card-back-to-the-old-format-except-the-regular-6yivoq1i.md) `dc_1g6yivoq1i` · Teo 2
+- 2026-11-20 [Ask card: no bold, rest of #530 formatting undone, buttons stay at bottom: PR #546 parked to merge](docs/report/2026-11/2026-11-20-ask-card-no-bold-rest-of-530-formatting-undone-but-n481o346.md) `dc_ihn481o346` · Teo 1
 - 2026-11-20 [PR #542 conflict with #541 resolved; parked to merge when green](docs/report/2026-11/2026-11-20-pr-542-conflict-with-541-resolved-parked-to-merge-pxt95tln.md) `dc_1opxt95tln` · Teo 1
 - 2026-11-20 [Ask card: every button in one row at the bottom, below the text: PR #542, parked to merge when green](docs/report/2026-11/2026-11-20-ask-card-every-button-in-one-row-at-the-bottom-bel-1luz1a5f.md) `dc_851luz1a5f` · Teo 2
 - 2026-11-20 [Ask card: every button together at the bottom: PR #541, parked to merge when green](docs/report/2026-11/2026-11-20-ask-card-every-button-together-at-the-bottom-pr-54-hp31yd2d.md) `dc_oqhp31yd2d` · Teo 1
@@ -72,9 +75,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-18 [PR #503 green and squash-merged (eb4d7908); parked until live](docs/report/2026-11/2026-11-18-pr-503-green-and-squash-merged-eb4d7908-parked-unt-i5p45lgf.md) `dc_doi5p45lgf` · Teo 1
 - 2026-11-18 [Goal detail heading fix: PR #503, parked on CI](docs/report/2026-11/2026-11-18-goal-detail-heading-fix-pr-503-parked-on-ci-jicdwg8j.md) `dc_7sjicdwg8j` · Teo 1
 - 2026-11-18 [Explored disclosure on live; proposed gr_nhayb7s9bd: goal tree readable at first look (350k)](docs/report/2026-11/2026-11-18-explored-disclosure-on-live-proposed-gr-nhayb7s9bd-wtki76yq.md) `dc_5kwtki76yq` · Teo 1
-- 2026-11-17 [1:1 fix f83b8f50 is live; live screenshot needs a human-opened 1:1](docs/report/2026-11/2026-11-17-1-1-fix-f83b8f50-is-live-live-screenshot-needs-a-h-ex6z35gm.md) `dc_f1ex6z35gm` · Teo 1
-- 2026-11-17 [PR #494 green and squash-merged (d863e456)](docs/report/2026-11/2026-11-17-pr-494-green-and-squash-merged-d863e456-irbuts8t.md) `dc_9airbuts8t` · Teo 2
-- 2026-11-17 [PR #492 green and squash-merged (f83b8f50); parked until it is live for the 1:1 screenshot](docs/report/2026-11/2026-11-17-pr-492-green-and-squash-merged-f83b8f50-parked-unt-e8oxiqyu.md) `dc_oge8oxiqyu` · Teo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

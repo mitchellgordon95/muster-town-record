@@ -41,4 +41,5 @@ One meaning per word. Every manager's prompt pins these words, and the ask linte
 - approve the grant → fund
 - kill the grant → cut
 - decision card → ask
+- Town Hall in-tray → decision queue
 

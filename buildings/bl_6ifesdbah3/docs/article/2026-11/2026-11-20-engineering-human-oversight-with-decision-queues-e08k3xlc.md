@@ -9,7 +9,7 @@ buildingId: "bl_6ifesdbah3"
 provenance: {"sourceIds":[],"urls":[]}
 tags: ["blog"]
 createdAt: "2026-11-20T02:25:53.983Z"
-updatedAt: "2026-11-20T18:23:28.871Z"
+updatedAt: "2026-11-20T19:26:09.047Z"
 ---
 ---
 slug: engineering-human-oversight-with-decision-queues
@@ -18,15 +18,16 @@ author: Mitchell Gordon
 summary: The goal of legible delegation is to increase the throughput of human decision making (which is the bottleneck of the system), without sacrificing responsibility.
 upcoming:
   - the operating layers (jobs + decision queues for work as normal, crons, meetings for real time debugging)
-  - using Bend 2
   - Adjusted output tokens and cost forecasting
 ---
 
 Muster Town projects are collectively funded, so we want to be responsible with how we spend tokens. This is easy in the beginning, when there are only a few agents running in parallel. However, as the number of agents scale up, humans become overloaded with the cognitive burden of switching between agents for increasingly small decisions.
 
-This post describes my approach to responsible oversight of token spend using "decision queues." A good decision queue should increase the throughput of human decision making (which is the bottleneck of the system), without sacrificing responsibility. This is done by explicitly modeling the cost of context switching and then pragmatically engineering the queue to decrease cognitive burden on the human.
+This post describes Muster Town's approach to responsible oversight of token spend using "decision queues." A good decision queue should increase the throughput of human decision making (which is the bottleneck of the system), without sacrificing responsibility.
 
 ## The decision queue
+
+![Decision queue at a glance@1x](/api/media/mf_nnadyz0qyv.png)
 
 In Muster Town, every autonomously running agent produces a stream of events. Each event is a request for human input that gets appended to a single channel called the "decision queue." Agents are blocked until their request is answered by the human.
 
@@ -43,6 +44,8 @@ The decision queue abstraction is useful because it explicitly models context sw
 Managing these aspects of the queue becomes the job of a meta agent, which I've been calling the "secretary." The rest of this post will explain what some of these optimizations look like in Muster Town. But the list is non-exhaustive... the interesting thing about this abstraction is that it leaves open many angles of attack.
 
 ## The grant lifecycle
+
+![Grant lifecycle@1x](/api/media/mf_d4liqrjaq2.png)
 
 Agents in Muster Town run semi-autonomously. The "captain" of the project assigns agents to open-ended goals. Rather than ask the user for input on every agent turn, like Claude Code, Muster Town agents ask for steering at a few important points in their lifecycle. The lifecycle looks like this:
 
@@ -61,6 +64,8 @@ Grants are useful because they allow the human to steer right before risky actio
 If we see too many grant checkpoints on the queue (because they went over budget), that becomes a health signal we can monitor and respond to by updating token budget estimation procedures.
 
 ## Decoupling reporting from requesting
+
+![Report vs ask view@1x](/api/media/mf_qt390pkngr.png)
 
 In the previous section you might notice that we don't submit the grants to the decision queue. Instead, we submit the corresponding decision events. This is an important distinction, since each document serves a different purpose.
 

@@ -31,8 +31,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Onboarding standup — notes](docs/meeting-notes/2026-10/2026-10-21-onboarding-standup-notes-ylk5liwc.md) `dc_l0ylk5liwc` · Craig
 - 2026-10-20 [Onboarding standup — notes](docs/meeting-notes/2026-10/2026-10-20-onboarding-standup-notes-r98vn5ig.md) `dc_v7r98vn5ig` · Craig
 
-## note (29)
+## note (30)
 
+- 2026-11-20 [muster-style-guide rewrite for PR #546 (paste into dc_q736158pnn)](docs/note/2026-11/2026-11-20-muster-style-guide-rewrite-for-pr-546-paste-into-d-1xvlgvcj.md) `dc_hi1xvlgvcj` · Kelly 1
 - 2026-11-17 [Findings: most homepage visitors never enter a collective, and we can't see where they leave](docs/note/2026-11/2026-11-17-findings-most-homepage-visitors-never-enter-a-coll-31k2hvpy.md) `dc_i431k2hvpy` · Kelly 1
 - 2026-11-05 [A stranger's own agent on its first call: no orientation, 68 tools, and its owner can't tell it connected (2026-11-05)](docs/note/2026-11/2026-11-05-a-stranger-s-own-agent-on-its-first-call-no-orient-sb22dyim.md) `dc_ausb22dyim` · Kelly 1
 - 2026-11-04 [Findings: 2 of the 3 collectives on the homepage have never run, and a visitor there is told to "click any agent to see what they're doing"](docs/note/2026-11/2026-11-04-findings-2-of-the-3-collectives-on-the-homepage-ha-7s8gnyj6.md) `dc_gz7s8gnyj6` · Kelly 1
@@ -63,8 +64,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (326)
+## report (327)
 
+- 2026-11-20 [Style guide ask-card rules rewritten for PR #546; filed as dc_hi1xvlgvcj for Kelly to paste (a fork can't edit the skill)](docs/report/2026-11/2026-11-20-style-guide-ask-card-rules-rewritten-for-pr-546-fi-8rq4xbr7.md) `dc_l58rq4xbr7` · Kelly 1
 - 2026-11-20 [Exploration cap check: Mitchell's 100k/day cap is NOT set on the Onboarding goal; today's explore spend is 75,266 in 2 runs](docs/report/2026-11/2026-11-20-exploration-cap-check-mitchell-s-100k-day-cap-is-n-d06xnt98.md) `dc_9jd06xnt98` · Kelly 1
 - 2026-11-20 [PR #531 review: Self-hosted tiles pass the house style, no blocker; two nits; §7 line ready for Kelly to paste](docs/report/2026-11/2026-11-20-pr-531-review-self-hosted-tiles-pass-the-house-sty-c93oh81s.md) `dc_egc93oh81s` · Kelly 1
 - 2026-11-20 [Explore: no new grant; the homepage grant is still collecting its 7 days of counts](docs/report/2026-11/2026-11-20-explore-no-new-grant-the-homepage-grant-is-still-c-14ya075d.md) `dc_v714ya075d` · Kelly 1
@@ -94,7 +96,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-19 [Explore: no new grant; nothing moved since the 02:30 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-since-the-02-30-iuupvctx.md) `dc_emiuupvctx` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved since the 02:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-since-the-02-00-vjylnddw.md) `dc_axvjylnddw` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved since the 01:30 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-since-the-01-30-n53yid9m.md) `dc_9sn53yid9m` · Kelly 1
-- 2026-11-19 [Explore: no new grant; nothing moved since the 01:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-since-the-01-00-0phwjs5v.md) `dc_vq0phwjs5v` · Kelly 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
