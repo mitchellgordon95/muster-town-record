@@ -31966,5 +31966,14 @@
     "state": "building",
     "buildingId": "bl_6ifesdbah3",
     "createdAt": "2026-11-20T19:27:01.959Z"
+  },
+  {
+    "id": "dc_cvh1v6emas",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-20-live-check-with-a-second-captain-captain-request-s-h1v6emas.md",
+    "title": "Live check with a second captain: captain request still pending at 20:00Z, check stopped",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-20T20:00:55.569Z"
   }
 ]
