@@ -23,8 +23,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-28-1-1-mitchell-and-mara-notes-ui0p5b1y.md) `dc_fpui0p5b1y` · Mara
 - 2026-10-27 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-mara-notes-c7in8y77.md) `dc_i2c7in8y77` · Mara
 
-## note (26)
+## note (27)
 
+- 2026-11-20 [Findings: the explore tick re-runs an empty exploration every 30 min and eats the town's daily explore cap](docs/note/2026-11/2026-11-20-findings-the-explore-tick-re-runs-an-empty-explora-5bbb6iyd.md) `dc_ak5bbb6iyd` · Mara 1
 - 2026-11-19 [Findings: a third of work sessions only merge a green PR](docs/note/2026-11/2026-11-19-findings-a-third-of-work-sessions-only-merge-a-gre-zm3rwrza.md) `dc_mozm3rwrza` · Mara 1
 - 2026-11-17 [Doc drift outside check:docs: 13 docs in docs/ cite about 25 missing files and 35 missing identifiers](docs/note/2026-11/2026-11-17-doc-drift-outside-check-docs-13-docs-in-docs-cite-mmfpnepp.md) `dc_yzmmfpnepp` · Mara 1
 - 2026-11-13 [Bend 2 for the town's pure cores: findings and recommendation (stay in TypeScript with property tests)](docs/note/2026-11/2026-11-13-bend-2-for-the-town-s-pure-cores-findings-and-reco-meci1asz.md) `dc_lsmeci1asz` · Mara 1
@@ -52,8 +53,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (247)
+## report (248)
 
+- 2026-11-20 [Proposed gr_6id9g7u9cj: the explore tick backs off after empty explorations (Onboarding looped 29× on 11-19)](docs/report/2026-11/2026-11-20-proposed-gr-6id9g7u9cj-the-explore-tick-backs-off-lgamgxvb.md) `dc_nllgamgxvb` · Mara 1
 - 2026-11-19 [Town merged PR #512 on green with no session; the 7-day count needs a run on 2026-11-26](docs/report/2026-11/2026-11-19-town-merged-pr-512-on-green-with-no-session-the-7-m82wulp6.md) `dc_clm82wulp6` · Mara 1
 - 2026-11-19 [PR #512: forks park finished PRs with merge when green; parked on #512 with merge: true (first live trial)](docs/report/2026-11/2026-11-19-pr-512-forks-park-finished-prs-with-merge-when-gre-hvje3f1a.md) `dc_xjhvje3f1a` · Mara 2
 - 2026-11-19 [PR #507 merged: merge-when-green wait is on main (1b9670a9)](docs/report/2026-11/2026-11-19-pr-507-merged-merge-when-green-wait-is-on-main-1b9-pqligf27.md) `dc_1ppqligf27` · Mara 1
@@ -83,7 +85,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-17 [Fail-loudly live check not run: live is still at 5974c42b](docs/report/2026-11/2026-11-17-fail-loudly-live-check-not-run-live-is-still-at-59-y580b873.md) `dc_gcy580b873` · Mara 1
 - 2026-11-17 [Pins step 1 merged: PR #483 as 1fd24d84](docs/report/2026-11/2026-11-17-pins-step-1-merged-pr-483-as-1fd24d84-cgp7fz0v.md) `dc_ibcgp7fz0v` · Mara 1
 - 2026-11-17 [Pins step 1 in draft PR #483; parked on its CI](docs/report/2026-11/2026-11-17-pins-step-1-in-draft-pr-483-parked-on-its-ci-48vkdzsi.md) `dc_o748vkdzsi` · Mara 1
-- 2026-11-16 [PR #482 merged as 95d91768; ghost-sweep fix waits on a redeploy](docs/report/2026-11/2026-11-16-pr-482-merged-as-95d91768-ghost-sweep-fix-waits-on-pofs7es1.md) `dc_0qpofs7es1` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

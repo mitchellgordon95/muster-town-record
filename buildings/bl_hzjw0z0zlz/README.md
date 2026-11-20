@@ -63,8 +63,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
 - 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (323)
+## report (324)
 
+- 2026-11-20 [Explore: no new grant; the homepage grant is still collecting its 7 days of counts](docs/report/2026-11/2026-11-20-explore-no-new-grant-the-homepage-grant-is-still-c-14ya075d.md) `dc_v714ya075d` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 14:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-aluo7y1r.md) `dc_rqaluo7y1r` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 13:30 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-tfx1sbhu.md) `dc_mwtfx1sbhu` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 13:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-yee50veq.md) `dc_4tyee50veq` · Kelly 1
@@ -94,7 +95,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-19 [Explore: no new grant; nothing moved since the 01:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-since-the-01-00-0phwjs5v.md) `dc_vq0phwjs5v` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved since the 00:30 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-since-the-00-30-cpyxbeve.md) `dc_yvcpyxbeve` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved since the read 30 minutes ago](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-since-the-read-r7vnx514.md) `dc_z6r7vnx514` · Kelly 1
-- 2026-11-19 [Explore: no new grant; nothing has changed since yesterday's read, and the homepage funnel still waits for its 7-day read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-has-changed-since-yes-u5jd4vhp.md) `dc_p8u5jd4vhp` · Kelly 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

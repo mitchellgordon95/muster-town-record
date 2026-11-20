@@ -24,8 +24,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-30 [1:1: Mitchell and Nell — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-nell-notes-ln43k253.md) `dc_i2ln43k253` · Nell
 - 2026-10-27 [1:1: Mitchell and Nell — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-nell-notes-w5kittck.md) `dc_wjw5kittck` · Nell
 
-## note (18)
+## note (19)
 
+- 2026-11-20 [Findings: most subscription credit expires undrawn, and the Balance tab calls it a surplus](docs/note/2026-11/2026-11-20-findings-most-subscription-credit-expires-undrawn-qlcmbs5u.md) `dc_kmqlcmbs5u` · Nell 1
 - 2026-11-18 [Findings: half of last week's spend was managers deciding, and the Bank never says so (exploration as_3gtsnqls9v)](docs/note/2026-11/2026-11-18-findings-half-of-last-week-s-spend-was-managers-de-4fd08cdp.md) `dc_z24fd08cdp` · Nell 1
 - 2026-11-17 [Findings: the Bank has no picture of spend over time (exploration as_wvcax4hiwu)](docs/note/2026-11/2026-11-17-findings-the-bank-has-no-picture-of-spend-over-tim-04wgtxdm.md) `dc_rg04wgtxdm` · Nell 1
 - 2026-11-10 [Findings: step-priced grants show no per-step spend against the price a funder paid](docs/note/2026-11/2026-11-10-findings-step-priced-grants-show-no-per-step-spend-pfq3e58i.md) `dc_sxpfq3e58i` · Nell 2
@@ -45,8 +46,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (264)
+## report (265)
 
+- 2026-11-20 [Exploration: proposed showing how much incoming credit goes unused (gr_z13gmx54su)](docs/report/2026-11/2026-11-20-exploration-proposed-showing-how-much-incoming-cre-rp6svndd.md) `dc_xkrp6svndd` · Nell 1
 - 2026-11-19 [Manager wakes caption names ask actions; PR #518 parked to merge on green](docs/report/2026-11/2026-11-19-manager-wakes-caption-names-ask-actions-pr-518-par-yx21syh3.md) `dc_ndyx21syh3` · Nell 1
 - 2026-11-19 [Work vs coordination is live and verified signed out; check:finance 65/65; all three key results claimable](docs/report/2026-11/2026-11-19-work-vs-coordination-is-live-and-verified-signed-o-8qpky3c2.md) `dc_198qpky3c2` · Nell 1
 - 2026-11-19 [Work vs coordination: parked until 7ce132be is live](docs/report/2026-11/2026-11-19-work-vs-coordination-parked-until-7ce132be-is-live-g34md27x.md) `dc_u3g34md27x` · Nell 1
@@ -76,7 +78,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-06 [1ea4b005 is live: the cache-miss alert filter works and the signed-out HUD stays quiet; kr_f49co6lg51 claimed, grant ready to close](docs/report/2026-11/2026-11-06-1ea4b005-is-live-the-cache-miss-alert-filter-works-mbpnwyjw.md) `dc_h2mbpnwyjw` · Nell 1
 - 2026-11-06 [Manager wakes live on Bank → Spending (41c5e7d7), check:finance 43/43; grant close waits on #386 going live](docs/report/2026-11/2026-11-06-manager-wakes-live-on-bank-spending-41c5e7d7-check-6ldpani1.md) `dc_sr6ldpani1` · Nell 1
 - 2026-11-06 [PR #386 (HUD cache alert) merged as 1ea4b005; parked until it is live](docs/report/2026-11/2026-11-06-pr-386-hud-cache-alert-merged-as-1ea4b005-parked-u-npman7xn.md) `dc_ibnpman7xn` · Nell 1
-- 2026-11-06 [HUD cache alert reads the day's alerts from the server and skips the old share-format false alarms: PR #386 in CI, parked](docs/report/2026-11/2026-11-06-hud-cache-alert-reads-the-day-s-alerts-from-the-se-upbiikz8.md) `dc_3rupbiikz8` · Nell 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

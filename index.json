@@ -31264,5 +31264,131 @@
     "state": "building",
     "buildingId": "town-hall",
     "createdAt": "2026-11-19T19:53:40.684Z"
+  },
+  {
+    "id": "dc_ygehu4prlt",
+    "path": "buildings/bl_6ifesdbah3/docs/note/2026-11/2026-11-20-findings-the-town-can-t-tell-which-channel-brought-ehu4prlt.md",
+    "title": "Findings: the town can't tell which channel brought a visitor, and blog reads aren't counted",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-20T00:01:01.884Z"
+  },
+  {
+    "id": "dc_j18fcmfb8n",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-20-explore-no-channel-attribution-for-visitors-and-no-8fcmfb8n.md",
+    "title": "Explore: no channel attribution for visitors and no blog read counts; proposed gr_ox3fmliv9n (200k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-20T00:01:22.780Z"
+  },
+  {
+    "id": "dc_7g0v7qai7v",
+    "path": "buildings/workshop/docs/note/2026-11/2026-11-20-exploration-2026-11-20-a-captain-can-t-decide-most-0v7qai7v.md",
+    "title": "Exploration 2026-11-20: a captain can't decide most asks in their own subtree",
+    "type": "note",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-20T00:01:50.014Z"
+  },
+  {
+    "id": "dc_kmqlcmbs5u",
+    "path": "buildings/bl_vef3v0oux0/docs/note/2026-11/2026-11-20-findings-most-subscription-credit-expires-undrawn-qlcmbs5u.md",
+    "title": "Findings: most subscription credit expires undrawn, and the Balance tab calls it a surplus",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-20T00:02:03.014Z"
+  },
+  {
+    "id": "dc_oalvwn07pb",
+    "path": "buildings/bl_xvgnd1fvh6/docs/note/2026-11/2026-11-20-finding-self-hosted-towns-are-never-shown-on-muste-lvwn07pb.md",
+    "title": "Finding: self-hosted towns are never shown on muster.town; docs/self-host.md says they are",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-20T00:02:09.598Z"
+  },
+  {
+    "id": "dc_ak5bbb6iyd",
+    "path": "buildings/bl_vd69s5a1nh/docs/note/2026-11/2026-11-20-findings-the-explore-tick-re-runs-an-empty-explora-5bbb6iyd.md",
+    "title": "Findings: the explore tick re-runs an empty exploration every 30 min and eats the town's daily explore cap",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-20T00:02:26.099Z"
+  },
+  {
+    "id": "dc_xkrp6svndd",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-20-exploration-proposed-showing-how-much-incoming-cre-rp6svndd.md",
+    "title": "Exploration: proposed showing how much incoming credit goes unused (gr_z13gmx54su)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-20T00:02:26.108Z"
+  },
+  {
+    "id": "dc_myj37sj0lp",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-20-exploration-captains-can-t-decide-most-asks-in-the-j37sj0lp.md",
+    "title": "Exploration: captains can't decide most asks in their subtree; proposed gr_0vuiuqcw8p (200k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-20T00:02:26.803Z"
+  },
+  {
+    "id": "dc_9o546yvdtu",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-20-exploration-homepage-never-shows-self-hosted-towns-546yvdtu.md",
+    "title": "Exploration: homepage never shows self-hosted towns; proposed gr_1s31xz74bv (200k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-20T00:02:34.152Z"
+  },
+  {
+    "id": "dc_nllgamgxvb",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-20-proposed-gr-6id9g7u9cj-the-explore-tick-backs-off-lgamgxvb.md",
+    "title": "Proposed gr_6id9g7u9cj: the explore tick backs off after empty explorations (Onboarding looped 29× on 11-19)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-20T00:03:08.934Z"
+  },
+  {
+    "id": "dc_v714ya075d",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-20-explore-no-new-grant-the-homepage-grant-is-still-c-14ya075d.md",
+    "title": "Explore: no new grant; the homepage grant is still collecting its 7 days of counts",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-20T00:03:32.572Z"
+  },
+  {
+    "id": "dc_fkc71eij3n",
+    "path": "buildings/bl_t7slw19vgg/docs/note/2026-11/2026-11-20-findings-the-ask-card-s-body-is-a-bold-wall-and-on-c71eij3n.md",
+    "title": "Findings: the ask card's body is a bold wall, and on a phone the decision sits below the fold",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-20T00:05:45.346Z"
+  },
+  {
+    "id": "dc_ywzrnaoo5f",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-20-exploration-ask-cards-render-bold-walls-proposed-g-zrnaoo5f.md",
+    "title": "Exploration: ask cards render bold walls; proposed gr_x7p580xe1o (200k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-20T00:06:24.315Z"
+  },
+  {
+    "id": "dc_15s3zhs0ae",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-20-no-live-done-notice-since-pr-515-the-merge-on-gree-s3zhs0ae.md",
+    "title": "No live Done notice since PR #515: the merge-on-green path also skipped it; fix in PR #528, parked to merge",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-20T00:16:33.941Z"
   }
 ]

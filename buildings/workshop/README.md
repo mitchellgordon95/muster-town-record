@@ -94,8 +94,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-notes/2026-10/)
 
-## note (40)
+## note (41)
 
+- 2026-11-20 [Exploration 2026-11-20: a captain can't decide most asks in their own subtree](docs/note/2026-11/2026-11-20-exploration-2026-11-20-a-captain-can-t-decide-most-0v7qai7v.md) `dc_7g0v7qai7v` · Pix 1
 - 2026-11-17 [Findings: the gate card's suggested adjust double-counts the step in flight (Pins grant: town said 400,000, need was about 50,000)](docs/note/2026-11/2026-11-17-findings-the-gate-card-s-suggested-adjust-double-c-qevcrr7x.md) `dc_94qevcrr7x` · Pix 1
 - 2026-11-10 [Plan: the job abstraction (plan and cost, for Mitchell before any code)](docs/note/2026-11/2026-11-10-plan-the-job-abstraction-plan-and-cost-for-mitchel-x045472m.md) `dc_uwx045472m` · Pix 1
 - 2026-11-10 [Plan: the job abstraction (draft, inventory table unfinished)](docs/note/2026-11/2026-11-10-plan-the-job-abstraction-draft-inventory-table-unf-m1j7m3r8.md) `dc_ejm1j7m3r8` · Pix 1
@@ -125,12 +126,12 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 - 2026-10-28 [Topic page draft: Session transcripts and who can read agent memory](docs/note/2026-10/2026-10-28-topic-page-draft-session-transcripts-and-who-can-r-kvgp14rq.md) `dc_49kvgp14rq` · Lena
 - 2026-10-28 [Topic page text: Bank and token accounting](docs/note/2026-10/2026-10-28-topic-page-text-bank-and-token-accounting-4ketree0.md) `dc_up4ketree0` · Root
 - 2026-10-28 [Topic page draft: Media and attachments in reports and meetings](docs/note/2026-10/2026-10-28-topic-page-draft-media-and-attachments-in-reports-4da0xgyq.md) `dc_u64da0xgyq` · Lena
-- 2026-10-28 [Topic page draft: Fork memory and fork rendering](docs/note/2026-10/2026-10-28-topic-page-draft-fork-memory-and-fork-rendering-nzikgmh9.md) `dc_z5nzikgmh9` · Lena
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1229)
+## report (1230)
 
+- 2026-11-20 [Exploration: captains can't decide most asks in their subtree; proposed gr_0vuiuqcw8p (200k)](docs/report/2026-11/2026-11-20-exploration-captains-can-t-decide-most-asks-in-the-j37sj0lp.md) `dc_myj37sj0lp` · Pix 1
 - 2026-11-19 [Rank asks by the goal tree, rank on filing: PR #527, merges when green](docs/report/2026-11/2026-11-19-rank-asks-by-the-goal-tree-rank-on-filing-pr-527-m-zryao2aq.md) `dc_rfzryao2aq` · Pix 1
 - 2026-11-19 [One goal tree: Workshop panel checked live on 96ff0bd4, kr_4ee59lp0m2 claimed](docs/report/2026-11/2026-11-19-one-goal-tree-workshop-panel-checked-live-on-96ff0-l4pljea4.md) `dc_k7l4pljea4` · Pix 2
 - 2026-11-19 [Building Overview and Goals tab read the one tree: PR #523 open (draft)](docs/report/2026-11/2026-11-19-building-overview-and-goals-tab-read-the-one-tree-fy99b8d2.md) `dc_upfy99b8d2` · Pix 1
@@ -160,7 +161,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-16 [PR #473 merged (41d02f34); parked for the live ghost count](docs/report/2026-11/2026-11-16-pr-473-merged-41d02f34-parked-for-the-live-ghost-c-kryrzxju.md) `dc_7zkryrzxju` · Pix 2
 - 2026-11-16 [PR #472 merged (78fa17dc); parked for the live map check](docs/report/2026-11/2026-11-16-pr-472-merged-78fa17dc-parked-for-the-live-map-che-5bgcqffs.md) `dc_qm5bgcqffs` · Pix 1
 - 2026-11-16 [KR check: Mitchell pressed Accept, so kr_c2989de971 carries the daily 48 h words](docs/report/2026-11/2026-11-16-kr-check-mitchell-pressed-accept-so-kr-c2989de971-bcw45e1x.md) `dc_w7bcw45e1x` · Pix 1
-- 2026-11-16 [Dead-session wording in code: PR #474 open, parked on CI](docs/report/2026-11/2026-11-16-dead-session-wording-in-code-pr-474-open-parked-on-qpun7pta.md) `dc_ozqpun7pta` · Pix 3
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

@@ -27,8 +27,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [1:1: Mitchell and Teo — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-teo-notes-tuy9g1zf.md) `dc_0ltuy9g1zf` · Teo
 - 2026-10-29 [1:1: Mitchell and Teo — notes](docs/meeting-notes/2026-10/2026-10-29-1-1-mitchell-and-teo-notes-nji0boyh.md) `dc_bqnji0boyh` · Teo
 
-## note (11)
+## note (12)
 
+- 2026-11-20 [Findings: the ask card's body is a bold wall, and on a phone the decision sits below the fold](docs/note/2026-11/2026-11-20-findings-the-ask-card-s-body-is-a-bold-wall-and-on-c71eij3n.md) `dc_fkc71eij3n` · Teo 2
 - 2026-11-19 [Live census of the goal tree and decision queue at both sizes (gr_nhayb7s9bd step 3, live at d5735b17)](docs/note/2026-11/2026-11-19-live-census-of-the-goal-tree-and-decision-queue-at-y9o2fqdz.md) `dc_rxy9o2fqdz` · Teo 1
 - 2026-11-18 [Live disclosure re-census 2026-11-18, and the goal tree that opens unreadable](docs/note/2026-11/2026-11-18-live-disclosure-re-census-2026-11-18-and-the-goal-zddih5xy.md) `dc_1jzddih5xy` · Teo 1
 - 2026-11-05 [Findings: reports and grant pages still show a guest ~2 raw ids for every name (live aa6f4fbc)](docs/note/2026-11/2026-11-05-findings-reports-and-grant-pages-still-show-a-gues-2t8agkzf.md) `dc_3e2t8agkzf` · Teo 1
@@ -41,8 +42,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (241)
+## report (243)
 
+- 2026-11-20 [No live Done notice since PR #515: the merge-on-green path also skipped it; fix in PR #528, parked to merge](docs/report/2026-11/2026-11-20-no-live-done-notice-since-pr-515-the-merge-on-gree-s3zhs0ae.md) `dc_15s3zhs0ae` · Teo 1
+- 2026-11-20 [Exploration: ask cards render bold walls; proposed gr_x7p580xe1o (200k)](docs/report/2026-11/2026-11-20-exploration-ask-cards-render-bold-walls-proposed-g-zrnaoo5f.md) `dc_ywzrnaoo5f` · Teo 2
 - 2026-11-19 [Steer button on every ask card: PR #526, parked to merge when green](docs/report/2026-11/2026-11-19-steer-button-on-every-ask-card-pr-526-parked-to-me-nfh62vv8.md) `dc_dpnfh62vv8` · Teo 1
 - 2026-11-19 [Census leaves the queue's front ask card uncounted: PR #519; goal tree and queue pass at both sizes live](docs/report/2026-11/2026-11-19-census-leaves-the-queue-s-front-ask-card-uncounted-4v4x4no7.md) `dc_9q4v4x4no7` · Teo 1
 - 2026-11-19 [Live census: goal tree passes at both sizes; queue row prints but fails on its front card's words](docs/report/2026-11/2026-11-19-live-census-goal-tree-passes-at-both-sizes-queue-r-3s34jwd3.md) `dc_9u3s34jwd3` · Teo 1
@@ -71,8 +74,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-17 [Drag moves only the body: PR #493, parked on CI to merge](docs/report/2026-11/2026-11-17-drag-moves-only-the-body-pr-493-parked-on-ci-to-me-ni1daetw.md) `dc_q8ni1daetw` · Teo 1
 - 2026-11-17 [1:1 "is writing…" and live tool calls: cause found, fix in PR #492, parked on CI](docs/report/2026-11/2026-11-17-1-1-is-writing-and-live-tool-calls-cause-found-fix-2w3871ym.md) `dc_y42w3871ym` · Teo 2
 - 2026-11-16 [PR #477 green and squash-merged (77c6073c)](docs/report/2026-11/2026-11-16-pr-477-green-and-squash-merged-77c6073c-favbztpg.md) `dc_vbfavbztpg` · Teo 1
-- 2026-11-16 [Drag residents with a grasper hand: PR #477, parked on CI to merge](docs/report/2026-11/2026-11-16-drag-residents-with-a-grasper-hand-pr-477-parked-o-g4u1zha3.md) `dc_71g4u1zha3` · Teo 2
-- 2026-11-16 [PR #471 green and squash-merged (11f40a03)](docs/report/2026-11/2026-11-16-pr-471-green-and-squash-merged-11f40a03-cx0ooi9h.md) `dc_i4cx0ooi9h` · Teo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
