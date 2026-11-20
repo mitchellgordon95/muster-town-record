@@ -31768,5 +31768,14 @@
     "state": "building",
     "buildingId": "bl_vd69s5a1nh",
     "createdAt": "2026-11-20T06:01:15.304Z"
+  },
+  {
+    "id": "dc_sxbdlw4vu1",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-20-live-check-with-a-second-captain-534-live-captain-bdlw4vu1.md",
+    "title": "Live check with a second captain: #534 live, captain request still unanswered (no card in the queue); parked to 20:00Z",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-20T14:00:57.897Z"
   }
 ]

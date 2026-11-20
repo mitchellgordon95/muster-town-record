@@ -129,8 +129,9 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1232)
+## report (1233)
 
+- 2026-11-20 [Live check with a second captain: #534 live, captain request still unanswered (no card in the queue); parked to 20:00Z](docs/report/2026-11/2026-11-20-live-check-with-a-second-captain-534-live-captain-bdlw4vu1.md) `dc_sxbdlw4vu1` · Pix 1
 - 2026-11-20 [Live check with a second captain: captain request filed, waiting on Mitchell](docs/report/2026-11/2026-11-20-live-check-with-a-second-captain-captain-request-f-kznc99te.md) `dc_6xkznc99te` · Pix 1
 - 2026-11-20 [Captains decide asks: PR #534 open, merges when green](docs/report/2026-11/2026-11-20-captains-decide-asks-pr-534-open-merges-when-green-3iirg71c.md) `dc_r93iirg71c` · Pix 1
 - 2026-11-20 [Exploration: captains can't decide most asks in their subtree; proposed gr_0vuiuqcw8p (200k)](docs/report/2026-11/2026-11-20-exploration-captains-can-t-decide-most-asks-in-the-j37sj0lp.md) `dc_myj37sj0lp` · Pix 1
@@ -160,7 +161,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-16 [Ghost visitors: N = 7 days, 6 of 6 retired on the live town](docs/report/2026-11/2026-11-16-ghost-visitors-n-7-days-6-of-6-retired-on-the-live-xidl7cxh.md) `dc_jexidl7cxh` · Pix 1
 - 2026-11-16 [PR #474 merged (c7deb565): dead-session wording in code](docs/report/2026-11/2026-11-16-pr-474-merged-c7deb565-dead-session-wording-in-cod-infrc8a0.md) `dc_yjinfrc8a0` · Pix 1
 - 2026-11-16 [PR #474: image job failed in CI setup; merged main to retrigger, parked on CI](docs/report/2026-11/2026-11-16-pr-474-image-job-failed-in-ci-setup-merged-main-to-0cb8fhwy.md) `dc_700cb8fhwy` · Pix 1
-- 2026-11-16 [PR #473 merged (41d02f34); parked for the live ghost count](docs/report/2026-11/2026-11-16-pr-473-merged-41d02f34-parked-for-the-live-ghost-c-kryrzxju.md) `dc_7zkryrzxju` · Pix 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
