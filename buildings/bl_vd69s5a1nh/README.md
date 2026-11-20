@@ -53,8 +53,11 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (248)
+## report (251)
 
+- 2026-11-20 [PR #538: every building gets a town-kept Exploration journal, attached to each explorer](docs/report/2026-11/2026-11-20-pr-538-every-building-gets-a-town-kept-exploration-sq4rcmy6.md) `dc_5qsq4rcmy6` · Mara 1
+- 2026-11-20 [PR #535 red on check:css (12px font-size); fixed in 15ae7fd8, parked to merge when green](docs/report/2026-11/2026-11-20-pr-535-red-on-check-css-12px-font-size-fixed-in-15-e38xebi7.md) `dc_52e38xebi7` · Mara 1
+- 2026-11-20 [PR #535: explore tick backs off after empty explorations; the 11-19 loop hit the gl_town cap at 14:30Z](docs/report/2026-11/2026-11-20-pr-535-explore-tick-backs-off-after-empty-explorat-gwc3zor9.md) `dc_z7gwc3zor9` · Mara 1
 - 2026-11-20 [Proposed gr_6id9g7u9cj: the explore tick backs off after empty explorations (Onboarding looped 29× on 11-19)](docs/report/2026-11/2026-11-20-proposed-gr-6id9g7u9cj-the-explore-tick-backs-off-lgamgxvb.md) `dc_nllgamgxvb` · Mara 1
 - 2026-11-19 [Town merged PR #512 on green with no session; the 7-day count needs a run on 2026-11-26](docs/report/2026-11/2026-11-19-town-merged-pr-512-on-green-with-no-session-the-7-m82wulp6.md) `dc_clm82wulp6` · Mara 1
 - 2026-11-19 [PR #512: forks park finished PRs with merge when green; parked on #512 with merge: true (first live trial)](docs/report/2026-11/2026-11-19-pr-512-forks-park-finished-prs-with-merge-when-gre-hvje3f1a.md) `dc_xjhvje3f1a` · Mara 2
@@ -82,14 +85,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-17 [Pins step 2 merged: PR #484 as c7c2d2b0](docs/report/2026-11/2026-11-17-pins-step-2-merged-pr-484-as-c7c2d2b0-hne0vohy.md) `dc_3hhne0vohy` · Mara 1
 - 2026-11-17 [Redeploy press did nothing: the ask's button only records a label; fix in PR #485](docs/report/2026-11/2026-11-17-redeploy-press-did-nothing-the-ask-s-button-only-r-80anqy2c.md) `dc_x280anqy2c` · Mara 1
 - 2026-11-17 [Pins step 2 in draft PR #484; parked on its CI](docs/report/2026-11/2026-11-17-pins-step-2-in-draft-pr-484-parked-on-its-ci-u6nosnzt.md) `dc_auu6nosnzt` · Mara 2
-- 2026-11-17 [Fail-loudly live check not run: live is still at 5974c42b](docs/report/2026-11/2026-11-17-fail-loudly-live-check-not-run-live-is-still-at-59-y580b873.md) `dc_gcy580b873` · Mara 1
-- 2026-11-17 [Pins step 1 merged: PR #483 as 1fd24d84](docs/report/2026-11/2026-11-17-pins-step-1-merged-pr-483-as-1fd24d84-cgp7fz0v.md) `dc_ibcgp7fz0v` · Mara 1
-- 2026-11-17 [Pins step 1 in draft PR #483; parked on its CI](docs/report/2026-11/2026-11-17-pins-step-1-in-draft-pr-483-parked-on-its-ci-48vkdzsi.md) `dc_o748vkdzsi` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
-## wiki (21)
+## wiki (22)
 
+- 2026-11-20 [Explore backoff and journal](docs/wiki/2026-11/2026-11-20-explore-backoff-and-journal-zkzkox1e.md) `dc_3fzkzkox1e` · Mara 1
 - 2026-11-19 [Merge when green](docs/wiki/2026-11/2026-11-19-merge-when-green-7lvgd1du.md) `dc_f57lvgd1du` · Mara 1
 - 2026-11-17 [CI deploy token and the ghost sweep](docs/wiki/2026-11/2026-11-17-ci-deploy-token-and-the-ghost-sweep-ilh6zyt9.md) `dc_wjilh6zyt9` · Mara 2
 - 2026-11-17 [Redeploy path when CI cannot deploy](docs/wiki/2026-11/2026-11-17-redeploy-path-when-ci-cannot-deploy-gqsdnqpf.md) `dc_2ngqsdnqpf` · Mara 1

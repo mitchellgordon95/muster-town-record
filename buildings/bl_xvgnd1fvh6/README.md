@@ -101,8 +101,11 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (373)
+## report (376)
 
+- 2026-11-20 [Self-hosted tile seen live; proof town torn down; parked for the delist](docs/report/2026-11/2026-11-20-self-hosted-tile-seen-live-proof-town-torn-down-pa-ucte6jdn.md) `dc_moucte6jdn` · Cleo 1
+- 2026-11-20 [Proof town listed on the directory; parked until the tile code is live](docs/report/2026-11/2026-11-20-proof-town-listed-on-the-directory-parked-until-th-0si7u9ce.md) `dc_yc0si7u9ce` · Cleo 1
+- 2026-11-20 [Self-hosted homepage tiles: PR #531 parked merge-when-green](docs/report/2026-11/2026-11-20-self-hosted-homepage-tiles-pr-531-parked-merge-whe-12xmieo3.md) `dc_i512xmieo3` · Cleo 1
 - 2026-11-20 [Exploration: homepage never shows self-hosted towns; proposed gr_1s31xz74bv (200k)](docs/report/2026-11/2026-11-20-exploration-homepage-never-shows-self-hosted-towns-546yvdtu.md) `dc_9o546yvdtu` · Cleo 1
 - 2026-11-19 [Restore drill row filed: PR #524 (MATCH, 2 min 5 s); recover.sh executable](docs/report/2026-11/2026-11-19-restore-drill-row-filed-pr-524-match-2-min-5-s-rec-dymq3lz7.md) `dc_3ddymq3lz7` · Cleo 1
 - 2026-11-19 [Pinger step 2: uptime guard merged; Mitchell must add the UptimeRobot monitor before the drill](docs/report/2026-11/2026-11-19-pinger-step-2-uptime-guard-merged-mitchell-must-ad-drdsooam.md) `dc_z4drdsooam` · Cleo 1
@@ -130,9 +133,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-16 [Backup grant step 3: health and board clean; parked until 18:58Z to sample the 19:00Z run's lag](docs/report/2026-11/2026-11-16-backup-grant-step-3-health-and-board-clean-parked-hpvdlpnr.md) `dc_hhhpvdlpnr` · Cleo 1
 - 2026-11-16 [Pause lifted: desk -1 fix confirmed live; the two grant last steps need Cleo to queue them (forks can't assign)](docs/report/2026-11/2026-11-16-pause-lifted-desk-1-fix-confirmed-live-the-two-gra-k2vibp1b.md) `dc_hnk2vibp1b` · Cleo 1
 - 2026-11-15 [PR #456 merged as a6f7643f: self-host proof chain done](docs/report/2026-11/2026-11-15-pr-456-merged-as-a6f7643f-self-host-proof-chain-do-eko3tjze.md) `dc_c9eko3tjze` · Cleo 1
-- 2026-11-15 [Self-host proof on Fly: live, admin, directory-verified, torn down; docs PR #456 parked on CI](docs/report/2026-11/2026-11-15-self-host-proof-on-fly-live-admin-directory-verifi-z3nnvm1d.md) `dc_2uz3nnvm1d` · Cleo 1
-- 2026-11-14 [Pause check 11-14: still paused](docs/report/2026-11/2026-11-14-pause-check-11-14-still-paused-hdweet2e.md) `dc_j8hdweet2e` · Cleo 1
-- 2026-11-14 [PR #448 merged as 6f4bf8c0; first main run skipped the image deploy (no secret yet)](docs/report/2026-11/2026-11-14-pr-448-merged-as-6f4bf8c0-first-main-run-skipped-t-5p7793c4.md) `dc_9w5p7793c4` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

@@ -4,6 +4,14 @@ Goal: People who would use Muster Town know that it exists
 
 Published docs (the board and the filing cabinet), newest first. Drafts are private and not exported.
 
+## article (1)
+
+- 2026-11-20 [Engineering Human Oversight With Decision Queues](docs/article/2026-11/2026-11-20-engineering-human-oversight-with-decision-queues-e08k3xlc.md) `dc_awe08k3xlc` · Juno 1
+
+## flag (1)
+
+- 2026-11-20 [can i get a blog affordance on the town somewhere? i want to be able to see drafts and published articles, and edit them](docs/flag/2026-11/2026-11-20-can-i-get-a-blog-affordance-on-the-town-somewhere-oq48hqr6.md) `dc_4boq48hqr6` · Mitchell
+
 ## meeting-notes (2)
 
 - 2026-11-17 [1:1: Mitchell and Juno — notes](docs/meeting-notes/2026-11/2026-11-17-1-1-mitchell-and-juno-notes-6f5vsx4k.md) `dc_8u6f5vsx4k` · Juno
@@ -17,8 +25,16 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-05 [A stranger can't find or share Muster Town yet: no search presence, no link previews, no robots/sitemap, bare GitHub repo (checked 2026-11-05)](docs/note/2026-11/2026-11-05-a-stranger-can-t-find-or-share-muster-town-yet-no-dtnhmecv.md) `dc_1adtnhmecv` · Juno 1
 - 2026-11-05 [Muster Town next to Ruflo, Gas Town, Munder Difflin and Svall: overlaps, differences, outreach channels we could use](docs/note/2026-11/2026-11-05-muster-town-next-to-ruflo-gas-town-munder-difflin-3ini7ysr.md) `dc_jk3ini7ysr` · Juno 1
 
-## report (41)
+## plugin (2)
 
+- 2026-11-20 [Blog](docs/plugin/2026-11/2026-11-20-blog-io0e0i6q.md) `dc_24io0e0i6q` · Juno 1
+- 2026-11-20 [Notes](docs/plugin/2026-11/2026-11-20-notes-dyryo2jm.md) `dc_lhdyryo2jm` · Juno 1
+
+## report (44)
+
+- 2026-11-20 [Channel counts checked live: both counts move, bots excluded; grant can close](docs/report/2026-11/2026-11-20-channel-counts-checked-live-both-counts-move-bots-b3x92dab.md) `dc_s9b3x92dab` · Juno 1
+- 2026-11-20 [Plugins prototype ready (PR #536); skill make-a-town-plugin written; parked to merge when green](docs/report/2026-11/2026-11-20-plugins-prototype-ready-pr-536-skill-make-a-town-p-umh4hlyx.md) `dc_l3umh4hlyx` · Juno 1
+- 2026-11-20 [Visitors and blog reads counted by source (PR #532); parked to merge when green](docs/report/2026-11/2026-11-20-visitors-and-blog-reads-counted-by-source-pr-532-p-c4dppyld.md) `dc_j6c4dppyld` · Juno 1
 - 2026-11-20 [Explore: no channel attribution for visitors and no blog read counts; proposed gr_ox3fmliv9n (200k)](docs/report/2026-11/2026-11-20-explore-no-channel-attribution-for-visitors-and-no-8fcmfb8n.md) `dc_j18fcmfb8n` · Juno 1
 - 2026-11-19 [Mitchell's post ready to publish (PR #525); parked until it merges](docs/report/2026-11/2026-11-19-mitchell-s-post-ready-to-publish-pr-525-parked-unt-1rjmms65.md) `dc_zn1rjmms65` · Juno 1
 - 2026-11-19 [Show HN baseline recorded: 4 subscribers (3 confirmed), 0 stars, 0 forks](docs/report/2026-11/2026-11-19-show-hn-baseline-recorded-4-subscribers-3-confirme-cd78nn88.md) `dc_e9cd78nn88` · Juno 1
@@ -46,14 +62,13 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-12 [Blog email signup is live; the only thing left to check is Mitchell's own read of the subscriber list](docs/report/2026-11/2026-11-12-blog-email-signup-is-live-the-only-thing-left-to-c-ostt95ta.md) `dc_1gostt95ta` · Juno 1
 - 2026-11-12 [Email signup PR #433 merged as 0a682c67; parked until CI deploys it to verify live](docs/report/2026-11/2026-11-12-email-signup-pr-433-merged-as-0a682c67-parked-unti-8g7wfr01.md) `dc_3d8g7wfr01` · Juno 1
 - 2026-11-12 [PR #433 CI failed on knip (3 unused exports); fixed in e197f2b4, parked on CI again](docs/report/2026-11/2026-11-12-pr-433-ci-failed-on-knip-3-unused-exports-fixed-in-xtr8qluj.md) `dc_z3xtr8qluj` · Juno 1
-- 2026-11-12 [Blog email signup PR #433 opened (form at the foot of each post, subscribe API, admin CSV export); parked on its CI to merge](docs/report/2026-11/2026-11-12-blog-email-signup-pr-433-opened-form-at-the-foot-o-xk3t2xre.md) `dc_ptxk3t2xre` · Juno 1
-- 2026-11-12 [Outreach rollup #3: blog hosting is live on muster.town (/blog, posts from markdown in the repo, Atom feed); email signup is next](docs/report/2026-11/2026-11-12-outreach-rollup-3-blog-hosting-is-live-on-muster-t-li9tptwx.md) `dc_uhli9tptwx` · Juno
-- 2026-11-12 [Blog hosting is live on muster.town: /blog, the draft post and the Atom feed all check out](docs/report/2026-11/2026-11-12-blog-hosting-is-live-on-muster-town-blog-the-draft-b86kmehq.md) `dc_nlb86kmehq` · Juno 1
 
 All by month: [2026-11](docs/report/2026-11/)
 
-## wiki (3)
+## wiki (5)
 
+- 2026-11-20 [Town plugins](docs/wiki/2026-11/2026-11-20-town-plugins-n7b5hviv.md) `dc_8an7b5hviv` · Juno 1
+- 2026-11-20 [Channel counts (sources and blog reads)](docs/wiki/2026-11/2026-11-20-channel-counts-sources-and-blog-reads-588vt65h.md) `dc_th588vt65h` · Juno 1
 - 2026-11-12 [muster.town blog](docs/wiki/2026-11/2026-11-12-muster-town-blog-572qf0b7.md) `dc_6c572qf0b7` · Juno 1
 - 2026-11-05 [Discoverability of muster.town](docs/wiki/2026-11/2026-11-05-discoverability-of-muster-town-5hpj6jqr.md) `dc_ek5hpj6jqr` · Juno 1
 - 2026-11-05 [Peer agent-orchestration projects](docs/wiki/2026-11/2026-11-05-peer-agent-orchestration-projects-2sv8vg7x.md) `dc_fx2sv8vg7x` · Juno 1

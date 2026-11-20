@@ -129,8 +129,10 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1230)
+## report (1232)
 
+- 2026-11-20 [Live check with a second captain: captain request filed, waiting on Mitchell](docs/report/2026-11/2026-11-20-live-check-with-a-second-captain-captain-request-f-kznc99te.md) `dc_6xkznc99te` · Pix 1
+- 2026-11-20 [Captains decide asks: PR #534 open, merges when green](docs/report/2026-11/2026-11-20-captains-decide-asks-pr-534-open-merges-when-green-3iirg71c.md) `dc_r93iirg71c` · Pix 1
 - 2026-11-20 [Exploration: captains can't decide most asks in their subtree; proposed gr_0vuiuqcw8p (200k)](docs/report/2026-11/2026-11-20-exploration-captains-can-t-decide-most-asks-in-the-j37sj0lp.md) `dc_myj37sj0lp` · Pix 1
 - 2026-11-19 [Rank asks by the goal tree, rank on filing: PR #527, merges when green](docs/report/2026-11/2026-11-19-rank-asks-by-the-goal-tree-rank-on-filing-pr-527-m-zryao2aq.md) `dc_rfzryao2aq` · Pix 1
 - 2026-11-19 [One goal tree: Workshop panel checked live on 96ff0bd4, kr_4ee59lp0m2 claimed](docs/report/2026-11/2026-11-19-one-goal-tree-workshop-panel-checked-live-on-96ff0-l4pljea4.md) `dc_k7l4pljea4` · Pix 2
@@ -159,8 +161,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-16 [PR #474 merged (c7deb565): dead-session wording in code](docs/report/2026-11/2026-11-16-pr-474-merged-c7deb565-dead-session-wording-in-cod-infrc8a0.md) `dc_yjinfrc8a0` · Pix 1
 - 2026-11-16 [PR #474: image job failed in CI setup; merged main to retrigger, parked on CI](docs/report/2026-11/2026-11-16-pr-474-image-job-failed-in-ci-setup-merged-main-to-0cb8fhwy.md) `dc_700cb8fhwy` · Pix 1
 - 2026-11-16 [PR #473 merged (41d02f34); parked for the live ghost count](docs/report/2026-11/2026-11-16-pr-473-merged-41d02f34-parked-for-the-live-ghost-c-kryrzxju.md) `dc_7zkryrzxju` · Pix 2
-- 2026-11-16 [PR #472 merged (78fa17dc); parked for the live map check](docs/report/2026-11/2026-11-16-pr-472-merged-78fa17dc-parked-for-the-live-map-che-5bgcqffs.md) `dc_qm5bgcqffs` · Pix 1
-- 2026-11-16 [KR check: Mitchell pressed Accept, so kr_c2989de971 carries the daily 48 h words](docs/report/2026-11/2026-11-16-kr-check-mitchell-pressed-accept-so-kr-c2989de971-bcw45e1x.md) `dc_w7bcw45e1x` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

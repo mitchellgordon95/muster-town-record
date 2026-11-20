@@ -4,8 +4,9 @@ Goal: Make Muster Town beautiful and intuitive
 
 Published docs (the board and the filing cabinet), newest first. Drafts are private and not exported.
 
-## flag (10)
+## flag (11)
 
+- 2026-11-20 [i don't understand why the water coming out of the fire hydrant is always pointing at the secretary? just make it do a …](docs/flag/2026-11/2026-11-20-i-don-t-understand-why-the-water-coming-out-of-the-ioej89iy.md) `dc_umioej89iy` · Mitchell
 - 2026-11-19 [nit: move the secretary's default position north a few tiles](docs/flag/2026-11/2026-11-19-nit-move-the-secretary-s-default-position-north-a-m72814k5.md) `dc_hrm72814k5` · Mitchell
 - 2026-11-17 [also nit: uncollapse the quick action buttons on the building's overview page. we've taken progressive disclosure a tou…](docs/flag/2026-11/2026-11-17-also-nit-uncollapse-the-quick-action-buttons-on-th-yij2euj6.md) `dc_7jyij2euj6` · Mitchell
 - 2026-11-17 [in progress tool calls in a 1:1 with a manager aren't showing up. sometimes it shows a "Working..." progress text (i fo…](docs/flag/2026-11/2026-11-17-in-progress-tool-calls-in-a-1-1-with-a-manager-are-duwk2af8.md) `dc_1nduwk2af8` · Mitchell
@@ -42,8 +43,11 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (243)
+## report (246)
 
+- 2026-11-20 [Ask cards pass the live census at both sizes (2/2 live, 18/18 mock); "If you" split fixed for labels unlike the sentence: PR #533 live](docs/report/2026-11/2026-11-20-ask-cards-pass-the-live-census-at-both-sizes-2-2-l-j2f0hapx.md) `dc_r3j2f0hapx` · Teo 1
+- 2026-11-20 [Ask card: regular body at 56ch, one bold lead, consequences under buttons: PR #530 parked to merge](docs/report/2026-11/2026-11-20-ask-card-regular-body-at-56ch-one-bold-lead-conseq-zris8yfv.md) `dc_nnzris8yfv` · Teo 2
+- 2026-11-20 [Hydrant water arcs into a small pool, not at the Secretary: PR #529, parked to merge when green](docs/report/2026-11/2026-11-20-hydrant-water-arcs-into-a-small-pool-not-at-the-se-mohfvfdm.md) `dc_k5mohfvfdm` · Teo 1
 - 2026-11-20 [No live Done notice since PR #515: the merge-on-green path also skipped it; fix in PR #528, parked to merge](docs/report/2026-11/2026-11-20-no-live-done-notice-since-pr-515-the-merge-on-gree-s3zhs0ae.md) `dc_15s3zhs0ae` · Teo 1
 - 2026-11-20 [Exploration: ask cards render bold walls; proposed gr_x7p580xe1o (200k)](docs/report/2026-11/2026-11-20-exploration-ask-cards-render-bold-walls-proposed-g-zrnaoo5f.md) `dc_ywzrnaoo5f` · Teo 2
 - 2026-11-19 [Steer button on every ask card: PR #526, parked to merge when green](docs/report/2026-11/2026-11-19-steer-button-on-every-ask-card-pr-526-parked-to-me-nfh62vv8.md) `dc_dpnfh62vv8` · Teo 1
@@ -71,9 +75,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-17 [PR #493 green and squash-merged (46669b9d)](docs/report/2026-11/2026-11-17-pr-493-green-and-squash-merged-46669b9d-ijnvk01z.md) `dc_a1ijnvk01z` · Teo 1
 - 2026-11-17 [PR #492 was red on a fast-map check; fixed (42c2d3b2), parked on CI](docs/report/2026-11/2026-11-17-pr-492-was-red-on-a-fast-map-check-fixed-42c2d3b2-udn038f0.md) `dc_jqudn038f0` · Teo 1
 - 2026-11-17 [Walk-to buttons always shown on Overview: PR #494, parked on CI to merge](docs/report/2026-11/2026-11-17-walk-to-buttons-always-shown-on-overview-pr-494-pa-13gltact.md) `dc_dh13gltact` · Teo 2
-- 2026-11-17 [Drag moves only the body: PR #493, parked on CI to merge](docs/report/2026-11/2026-11-17-drag-moves-only-the-body-pr-493-parked-on-ci-to-me-ni1daetw.md) `dc_q8ni1daetw` · Teo 1
-- 2026-11-17 [1:1 "is writing…" and live tool calls: cause found, fix in PR #492, parked on CI](docs/report/2026-11/2026-11-17-1-1-is-writing-and-live-tool-calls-cause-found-fix-2w3871ym.md) `dc_y42w3871ym` · Teo 2
-- 2026-11-16 [PR #477 green and squash-merged (77c6073c)](docs/report/2026-11/2026-11-16-pr-477-green-and-squash-merged-77c6073c-favbztpg.md) `dc_vbfavbztpg` · Teo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -86,8 +87,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-31 [delight-walk](docs/skill/2026-10/2026-10-31-delight-walk-la62qft8.md) `dc_14la62qft8` · Teo 2
 - 2026-10-31 [map-bubble-sampler](docs/skill/2026-10/2026-10-31-map-bubble-sampler-h9yywhfl.md) `dc_6ph9yywhfl` · Teo 1
 
-## wiki (22)
+## wiki (23)
 
+- 2026-11-20 [Ask cards readable at a glance (gr_x7p580xe1o)](docs/wiki/2026-11/2026-11-20-ask-cards-readable-at-a-glance-gr-x7p580xe1o-rr4gdlp9.md) `dc_vfrr4gdlp9` · Teo 2
 - 2026-11-19 [Steer from an ask card](docs/wiki/2026-11/2026-11-19-steer-from-an-ask-card-quk4uxfh.md) `dc_ylquk4uxfh` · Teo 1
 - 2026-11-19 [Goal tree readable at first look (gr_nhayb7s9bd)](docs/wiki/2026-11/2026-11-19-goal-tree-readable-at-first-look-gr-nhayb7s9bd-5fhlkrq7.md) `dc_7z5fhlkrq7` · Teo 1
 - 2026-11-17 [1:1 live progress (writing line and tool calls)](docs/wiki/2026-11/2026-11-17-1-1-live-progress-writing-line-and-tool-calls-3sxczr6d.md) `dc_pm3sxczr6d` · Teo 2

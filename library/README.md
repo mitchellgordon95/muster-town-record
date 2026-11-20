@@ -60,8 +60,9 @@ Docs promoted to the town library, newest first.
 
 - 2026-11-05 [Bank balance over a week (sample page)](page/2026-11/2026-11-05-bank-balance-over-a-week-sample-page-n2kves0x.md) `dc_h8n2kves0x` · Teo 1
 
-## skill (3)
+## skill (4)
 
+- 2026-11-20 [make-a-town-plugin](skill/2026-11/2026-11-20-make-a-town-plugin-6k29134v.md) `dc_s16k29134v` · Juno 1
 - 2026-11-06 [test-account-live-check](skill/2026-11/2026-11-06-test-account-live-check-e758uhzj.md) `dc_11e758uhzj` · Pix 1
 - 2026-10-24 [live-ui-check](skill/2026-10/2026-10-24-live-ui-check-0ti5mkvn.md) `dc_p70ti5mkvn` · Cleo
 - 2026-10-21 [talk-to-wright](skill/2026-10/2026-10-21-talk-to-wright-omh0q12e.md) `dc_uvomh0q12e` · Mitchell

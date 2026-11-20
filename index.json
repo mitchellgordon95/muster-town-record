@@ -31390,5 +31390,257 @@
     "state": "building",
     "buildingId": "bl_t7slw19vgg",
     "createdAt": "2026-11-20T00:16:33.941Z"
+  },
+  {
+    "id": "dc_umioej89iy",
+    "path": "buildings/bl_t7slw19vgg/docs/flag/2026-11/2026-11-20-i-don-t-understand-why-the-water-coming-out-of-the-ioej89iy.md",
+    "title": "i don't understand why the water coming out of the fire hydrant is always pointing at the secretary? just make it do a …",
+    "type": "flag",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-20T01:37:53.312Z"
+  },
+  {
+    "id": "dc_k5mohfvfdm",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-20-hydrant-water-arcs-into-a-small-pool-not-at-the-se-mohfvfdm.md",
+    "title": "Hydrant water arcs into a small pool, not at the Secretary: PR #529, parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-20T01:43:21.147Z"
+  },
+  {
+    "id": "dc_4boq48hqr6",
+    "path": "buildings/bl_6ifesdbah3/docs/flag/2026-11/2026-11-20-can-i-get-a-blog-affordance-on-the-town-somewhere-oq48hqr6.md",
+    "title": "can i get a blog affordance on the town somewhere? i want to be able to see drafts and published articles, and edit them",
+    "type": "flag",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-20T01:46:48.154Z"
+  },
+  {
+    "id": "dc_vfrr4gdlp9",
+    "path": "buildings/bl_t7slw19vgg/docs/wiki/2026-11/2026-11-20-ask-cards-readable-at-a-glance-gr-x7p580xe1o-rr4gdlp9.md",
+    "title": "Ask cards readable at a glance (gr_x7p580xe1o)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-20T01:49:50.113Z"
+  },
+  {
+    "id": "dc_nnzris8yfv",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-20-ask-card-regular-body-at-56ch-one-bold-lead-conseq-zris8yfv.md",
+    "title": "Ask card: regular body at 56ch, one bold lead, consequences under buttons: PR #530 parked to merge",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-20T01:50:00.943Z"
+  },
+  {
+    "id": "dc_i512xmieo3",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-20-self-hosted-homepage-tiles-pr-531-parked-merge-whe-12xmieo3.md",
+    "title": "Self-hosted homepage tiles: PR #531 parked merge-when-green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-20T01:50:18.886Z"
+  },
+  {
+    "id": "dc_th588vt65h",
+    "path": "buildings/bl_6ifesdbah3/docs/wiki/2026-11/2026-11-20-channel-counts-sources-and-blog-reads-588vt65h.md",
+    "title": "Channel counts (sources and blog reads)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-20T01:50:52.461Z"
+  },
+  {
+    "id": "dc_j6c4dppyld",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-20-visitors-and-blog-reads-counted-by-source-pr-532-p-c4dppyld.md",
+    "title": "Visitors and blog reads counted by source (PR #532); parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-20T01:51:03.814Z"
+  },
+  {
+    "id": "dc_egc93oh81s",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-20-pr-531-review-self-hosted-tiles-pass-the-house-sty-c93oh81s.md",
+    "title": "PR #531 review: Self-hosted tiles pass the house style, no blocker; two nits; §7 line ready for Kelly to paste",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-20T01:56:42.533Z"
+  },
+  {
+    "id": "dc_r93iirg71c",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-20-captains-decide-asks-pr-534-open-merges-when-green-3iirg71c.md",
+    "title": "Captains decide asks: PR #534 open, merges when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-20T02:02:16.696Z"
+  },
+  {
+    "id": "dc_yc0si7u9ce",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-20-proof-town-listed-on-the-directory-parked-until-th-0si7u9ce.md",
+    "title": "Proof town listed on the directory; parked until the tile code is live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-20T02:02:39.963Z"
+  },
+  {
+    "id": "dc_s16k29134v",
+    "path": "library/skill/2026-11/2026-11-20-make-a-town-plugin-6k29134v.md",
+    "title": "make-a-town-plugin",
+    "type": "skill",
+    "state": "library",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-20T02:06:07.609Z"
+  },
+  {
+    "id": "dc_3fzkzkox1e",
+    "path": "buildings/bl_vd69s5a1nh/docs/wiki/2026-11/2026-11-20-explore-backoff-and-journal-zkzkox1e.md",
+    "title": "Explore backoff and journal",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-20T02:06:07.890Z"
+  },
+  {
+    "id": "dc_z7gwc3zor9",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-20-pr-535-explore-tick-backs-off-after-empty-explorat-gwc3zor9.md",
+    "title": "PR #535: explore tick backs off after empty explorations; the 11-19 loop hit the gl_town cap at 14:30Z",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-20T02:06:21.848Z"
+  },
+  {
+    "id": "dc_8an7b5hviv",
+    "path": "buildings/bl_6ifesdbah3/docs/wiki/2026-11/2026-11-20-town-plugins-n7b5hviv.md",
+    "title": "Town plugins",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-20T02:06:25.176Z"
+  },
+  {
+    "id": "dc_52e38xebi7",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-20-pr-535-red-on-check-css-12px-font-size-fixed-in-15-e38xebi7.md",
+    "title": "PR #535 red on check:css (12px font-size); fixed in 15ae7fd8, parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-20T02:09:10.325Z"
+  },
+  {
+    "id": "dc_moucte6jdn",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-20-self-hosted-tile-seen-live-proof-town-torn-down-pa-ucte6jdn.md",
+    "title": "Self-hosted tile seen live; proof town torn down; parked for the delist",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-20T02:09:39.084Z"
+  },
+  {
+    "id": "dc_6xkznc99te",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-20-live-check-with-a-second-captain-captain-request-f-kznc99te.md",
+    "title": "Live check with a second captain: captain request filed, waiting on Mitchell",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-20T02:10:40.719Z"
+  },
+  {
+    "id": "dc_l3umh4hlyx",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-20-plugins-prototype-ready-pr-536-skill-make-a-town-p-umh4hlyx.md",
+    "title": "Plugins prototype ready (PR #536); skill make-a-town-plugin written; parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-20T02:17:24.103Z"
+  },
+  {
+    "id": "dc_s9b3x92dab",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-20-channel-counts-checked-live-both-counts-move-bots-b3x92dab.md",
+    "title": "Channel counts checked live: both counts move, bots excluded; grant can close",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-20T02:19:49.367Z"
+  },
+  {
+    "id": "dc_vavmt8j3h9",
+    "path": "buildings/bl_vef3v0oux0/docs/wiki/2026-11/2026-11-20-incoming-credit-unused-gr-z13gmx54su-plan-and-stat-vmt8j3h9.md",
+    "title": "Incoming credit unused (gr_z13gmx54su): plan and state",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-20T02:24:07.098Z"
+  },
+  {
+    "id": "dc_8uy5051qrq",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-20-expired-per-day-and-the-used-share-core-api-balanc-y5051qrq.md",
+    "title": "Expired per day and the used share: core, API, Balance sentences in PR #537, parked to merge on green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-20T02:24:20.425Z"
+  },
+  {
+    "id": "dc_awe08k3xlc",
+    "path": "buildings/bl_6ifesdbah3/docs/article/2026-11/2026-11-20-engineering-human-oversight-with-decision-queues-e08k3xlc.md",
+    "title": "Engineering Human Oversight With Decision Queues",
+    "type": "article",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-20T02:25:53.983Z"
+  },
+  {
+    "id": "dc_ql2505mh8r",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-20-pr-537-merge-conflict-resolved-parked-to-merge-on-2505mh8r.md",
+    "title": "PR #537: merge conflict resolved, parked to merge on green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-20T02:27:33.523Z"
+  },
+  {
+    "id": "dc_5qsq4rcmy6",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-20-pr-538-every-building-gets-a-town-kept-exploration-sq4rcmy6.md",
+    "title": "PR #538: every building gets a town-kept Exploration journal, attached to each explorer",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-20T02:31:37.856Z"
+  },
+  {
+    "id": "dc_r3j2f0hapx",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-20-ask-cards-pass-the-live-census-at-both-sizes-2-2-l-j2f0hapx.md",
+    "title": "Ask cards pass the live census at both sizes (2/2 live, 18/18 mock); \"If you\" split fixed for labels unlike the sentence: PR #533 live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-20T02:32:12.019Z"
+  },
+  {
+    "id": "dc_lhdyryo2jm",
+    "path": "buildings/bl_6ifesdbah3/docs/plugin/2026-11/2026-11-20-notes-dyryo2jm.md",
+    "title": "Notes",
+    "type": "plugin",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-20T02:33:10.667Z"
+  },
+  {
+    "id": "dc_24io0e0i6q",
+    "path": "buildings/bl_6ifesdbah3/docs/plugin/2026-11/2026-11-20-blog-io0e0i6q.md",
+    "title": "Blog",
+    "type": "plugin",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-20T02:33:17.054Z"
   }
 ]

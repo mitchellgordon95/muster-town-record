@@ -46,8 +46,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (265)
+## report (267)
 
+- 2026-11-20 [PR #537: merge conflict resolved, parked to merge on green](docs/report/2026-11/2026-11-20-pr-537-merge-conflict-resolved-parked-to-merge-on-2505mh8r.md) `dc_ql2505mh8r` · Nell 1
+- 2026-11-20 [Expired per day and the used share: core, API, Balance sentences in PR #537, parked to merge on green](docs/report/2026-11/2026-11-20-expired-per-day-and-the-used-share-core-api-balanc-y5051qrq.md) `dc_8uy5051qrq` · Nell 1
 - 2026-11-20 [Exploration: proposed showing how much incoming credit goes unused (gr_z13gmx54su)](docs/report/2026-11/2026-11-20-exploration-proposed-showing-how-much-incoming-cre-rp6svndd.md) `dc_xkrp6svndd` · Nell 1
 - 2026-11-19 [Manager wakes caption names ask actions; PR #518 parked to merge on green](docs/report/2026-11/2026-11-19-manager-wakes-caption-names-ask-actions-pr-518-par-yx21syh3.md) `dc_ndyx21syh3` · Nell 1
 - 2026-11-19 [Work vs coordination is live and verified signed out; check:finance 65/65; all three key results claimable](docs/report/2026-11/2026-11-19-work-vs-coordination-is-live-and-verified-signed-o-8qpky3c2.md) `dc_198qpky3c2` · Nell 1
@@ -76,8 +78,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-10 [Exploration: proposed gr_3na7vdmd52, which shows each grant step's spend against its S/M/L price](docs/report/2026-11/2026-11-10-exploration-proposed-gr-3na7vdmd52-which-shows-eac-g1oj2oy1.md) `dc_qmg1oj2oy1` · Nell 2
 - 2026-11-06 [Bank Transparency: gr_lwgus14rd2 closed done, all three key results live (manager wakes per building on Bank › Spending, the cache alert rebuilt around prefix busting and quiet in the HUD); 684,327 unspent tokens returned](docs/report/2026-11/2026-11-06-bank-transparency-gr-lwgus14rd2-closed-done-all-th-sjvei6yg.md) `dc_j8sjvei6yg` · Nell
 - 2026-11-06 [1ea4b005 is live: the cache-miss alert filter works and the signed-out HUD stays quiet; kr_f49co6lg51 claimed, grant ready to close](docs/report/2026-11/2026-11-06-1ea4b005-is-live-the-cache-miss-alert-filter-works-mbpnwyjw.md) `dc_h2mbpnwyjw` · Nell 1
-- 2026-11-06 [Manager wakes live on Bank → Spending (41c5e7d7), check:finance 43/43; grant close waits on #386 going live](docs/report/2026-11/2026-11-06-manager-wakes-live-on-bank-spending-41c5e7d7-check-6ldpani1.md) `dc_sr6ldpani1` · Nell 1
-- 2026-11-06 [PR #386 (HUD cache alert) merged as 1ea4b005; parked until it is live](docs/report/2026-11/2026-11-06-pr-386-hud-cache-alert-merged-as-1ea4b005-parked-u-npman7xn.md) `dc_ibnpman7xn` · Nell 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -85,8 +85,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
 - 2026-10-29 [screenshot-live-town](docs/skill/2026-10/2026-10-29-screenshot-live-town-qgqqeqho.md) `dc_hzqgqqeqho` · Nell
 
-## wiki (26)
+## wiki (27)
 
+- 2026-11-20 [Incoming credit unused (gr_z13gmx54su): plan and state](docs/wiki/2026-11/2026-11-20-incoming-credit-unused-gr-z13gmx54su-plan-and-stat-vmt8j3h9.md) `dc_vavmt8j3h9` · Nell 1
 - 2026-11-19 [Work vs coordination (gr_3ougmyubdm): plan and state](docs/wiki/2026-11/2026-11-19-work-vs-coordination-gr-3ougmyubdm-plan-and-state-jc90tjx6.md) `dc_upjc90tjx6` · Nell 1
 - 2026-11-17 [Day by day chart (gr_epbcgb0hvs)](docs/wiki/2026-11/2026-11-17-day-by-day-chart-gr-epbcgb0hvs-rmz652d9.md) `dc_kjrmz652d9` · Nell 1
 - 2026-11-16 [Ledger cutoff (deleting pre-adjusted Bank records)](docs/wiki/2026-11/2026-11-16-ledger-cutoff-deleting-pre-adjusted-bank-records-c3pazrih.md) `dc_4ac3pazrih` · Nell 1

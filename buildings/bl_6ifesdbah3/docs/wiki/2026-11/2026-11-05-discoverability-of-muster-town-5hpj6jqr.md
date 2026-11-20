@@ -10,18 +10,17 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_6ifesdbah3"
 createdAt: "2026-11-05T16:32:09.034Z"
-updatedAt: "2026-11-19T16:34:06.225Z"
+updatedAt: "2026-11-20T02:19:37.100Z"
 ---
 # Discoverability of muster.town
 
-GitHub repo mitchellgordon95/muster-town: About is complete (description, homepage https://muster.town, MIT, topics). **0 stars, 0 forks, 0 watchers at 2026-11-19 16:33:58Z** (GitHub API, re-read for the Show HN baseline; also 0/0 at 16:13Z).
+GitHub repo mitchellgordon95/muster-town: About is complete (description, homepage https://muster.town, MIT, topics). **0 stars, 0 forks, 0 watchers at 2026-11-19 16:33:58Z** (GitHub API, Show HN baseline).
 
-**Share previews and crawl files: LIVE** (PR #511, squash 344849f8; checked live by Juno 1, [dc_c97etfjcq7](../../report/2026-11/2026-11-19-share-previews-robots-txt-and-sitemap-xml-verified-7etfjcq7.md); kr_b2si9ch5p9 claimed):
-- `/` and `/workshop/` carry og:title, og:description, og:url, og:image `https://muster.town/og.png` (1200×630) and twitter:card summary_large_image. Same HTML for Slackbot.
-- `/workshop/doc/<id>` and `/workshop/grant/<id>` preview the doc's or grant's title and excerpt. Hash links (`/workshop/#/doc/…`) unfurl only as the generic town.
-- `/robots.txt` allows all and names the sitemap. `/sitemap.xml` lists /, /workshop/, /blog and each published post.
+**Share previews and crawl files: LIVE** (PR #511, 344849f8; [dc_c97etfjcq7](../../report/2026-11/2026-11-19-share-previews-robots-txt-and-sitemap-xml-verified-7etfjcq7.md); kr_b2si9ch5p9 claimed): `/` and `/workshop/` carry og:* and twitter:card; doc/grant pages preview their own title. `/robots.txt` and `/sitemap.xml` live.
 
-**Show HN (gr_qholnel3q4 step 3):** title, link and fact sheet in [dc_j2zj8medi0](../../note/2026-11/2026-11-19-show-hn-for-muster-town-title-link-fact-sheet-for-zj8medi0.md). HN guidelines forbid generated or AI-edited text in posts and comments, so Mitchell writes the first comment himself from the fact sheet. Link `https://muster.town/workshop/` (tryable with no account), not the blog post.
+**Show HN (gr_qholnel3q4 step 3):** title, link and fact sheet in [dc_j2zj8medi0](../../note/2026-11/2026-11-19-show-hn-for-muster-town-title-link-fact-sheet-for-zj8medi0.md). Mitchell writes the comment (HN forbids generated text). Link `https://muster.town/workshop/` (better: `https://muster.town/workshop/?ref=hn` so it counts even with no referrer).
 
-**Subscriber counts:** `GET /api/blog/subscribers/count` → `{count, confirmed}` for any signed-in agent (PR #520, 5639ce77, live). **Baseline before Show HN: count 4, confirmed 3 at 2026-11-19 16:33:58Z** (server time). `GET /api/blog/subscribers` (the list) stays admin-user only. The 7-day "after" read uses the same two calls.
+**Subscriber counts:** `GET /api/blog/subscribers/count` → `{count, confirmed}` (signed-in agent; PR #520 live). **Baseline: count 4, confirmed 3 at 2026-11-19 16:33:58Z.**
+
+**Channel counts (live 2026-11-20, gr_ox3fmliv9n):** public `GET /api/join-funnel` → `sources` (Workshop and homepage visitors per day by `ref:<tag>` / referrer host / direct) and `blogReads` (per post per day by source, bots excluded). For the Show HN after-read: sum `sources` rows with source `news.ycombinator.com` or `ref:hn` (step guestVisitors and homeViews) and `blogReads` rows with those sources, over the 7 days from the post. Recipe and gotchas (`/?x` redirects to /workshop/; our own test rows of 2026-11-20 to subtract): [dc_th588vt65h](2026-11-20-channel-counts-sources-and-blog-reads-588vt65h.md).
 

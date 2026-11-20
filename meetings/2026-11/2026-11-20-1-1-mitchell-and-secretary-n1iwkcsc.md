@@ -1,0 +1,33 @@
+---
+id: "mt_q4n1iwkcsc"
+kind: "one-on-one"
+buildingId: "town-hall"
+title: "1:1: Mitchell and Secretary"
+scheduledAt: "2026-11-20T01:37:58.015Z"
+phase: "discussing"
+facilitatorId: "ag_7tiwyqva83"
+attendeeIds: ["ag_7tiwyqva83"]
+agenda: ""
+brings: {"mode":"status","text":""}
+askHumans: false
+deck: null
+summaries: {}
+transcript: [{"speakerId":"ag_7tiwyqva83","speakerKind":"agent","text":"Hi Mitchell. Six money asks are open, all at 200k, channel counts for visitors and blog reads ranked first. What do you need?","at":"2026-11-20T01:38:05.997Z"},{"speakerId":"system","speakerKind":"system","text":"Secretary's reply is waiting on a redeploy (commit c940370); the server is restarting and the meeting resumes after the restart.","at":"2026-11-20T01:53:41.263Z"},{"speakerId":"ag_7tiwyqva83","speakerKind":"agent","text":"Back after the restart. While it was down you cleared the queue: six grants funded at 200k each, and the explore backoff funded at 350k with the journal you asked for. One ask is open now, from Onboarding, filed 1 minute ago: cap its exploration at 0.1 million a day until the homepage funnel read on Monday. Its explorer ran 29 times on Wednesday and found nothing, about 306k tokens. Kelly recommends the cap. I agree: nothing moves under that goal before Monday, and the cap is one field you clear later. Note the backoff grant you just funded fixes the same waste town-wide, so the cap is a bridge until it ships. Say \"cap it\" or \"leave it\" and I'll do it from here.","at":"2026-11-20T01:54:10.344Z","tools":[{"what":"Reading the open asks","result":"{\"inputs\":\"The root goal of this collective (rank by how directly each ask moves it, then the rest of the tree): Make Muster Town something strangers can fund,…"}]},{"speakerId":"system","speakerKind":"system","text":"Secretary's reply is waiting on a redeploy (commit ba81dd6); the server is restarting and the meeting resumes after the restart.","at":"2026-11-20T02:05:54.509Z"},{"speakerId":"ag_7tiwyqva83","speakerKind":"agent","text":"Back again after a second restart, about 12 minutes later. Nothing changed while it was down: the Onboarding cap is still the only open ask, and nothing new arrived. Still waiting on your word: \"cap it\" or \"leave it\".","at":"2026-11-20T02:06:16.972Z"},{"speakerId":"system","speakerKind":"system","text":"Secretary's reply is waiting on a redeploy (commit 9712c69); the server is restarting and the meeting resumes after the restart.","at":"2026-11-20T02:18:06.899Z"},{"speakerId":"ag_7tiwyqva83","speakerKind":"agent","text":"Third restart, about 12 minutes after the last. Still here. Nothing new arrived: the Onboarding cap is the only open ask. Your word when you're ready: \"cap it\" or \"leave it\".","at":"2026-11-20T02:18:30.251Z"},{"speakerId":"system","speakerKind":"system","text":"Secretary's reply is waiting on a redeploy (commit b71d602); the server is restarting and the meeting resumes after the restart.","at":"2026-11-20T02:30:28.638Z"},{"speakerId":"ag_7tiwyqva83","speakerKind":"agent","text":"Fourth restart, about 12 minutes after the last. Nothing new: the Onboarding cap is still the only open ask. Your word when you're ready: \"cap it\" or \"leave it\".","at":"2026-11-20T02:30:45.055Z"}]
+decisions: []
+notesDocId: null
+withUserId: "us_1la74k332n"
+createdAt: "2026-11-20T01:37:58.015Z"
+startedAt: "2026-11-20T01:37:58.015Z"
+endedAt: null
+---
+# 1:1: Mitchell and Secretary
+
+- **Secretary** (2026-11-20T01:38:05.997Z): Hi Mitchell. Six money asks are open, all at 200k, channel counts for visitors and blog reads ranked first. What do you need?
+- **Town** (2026-11-20T01:53:41.263Z): Secretary's reply is waiting on a redeploy (commit c940370); the server is restarting and the meeting resumes after the restart.
+- **Secretary** (2026-11-20T01:54:10.344Z): Back after the restart. While it was down you cleared the queue: six grants funded at 200k each, and the explore backoff funded at 350k with the journal you asked for. One ask is open now, from Onboarding, filed 1 minute ago: cap its exploration at 0.1 million a day until the homepage funnel read on Monday. Its explorer ran 29 times on Wednesday and found nothing, about 306k tokens. Kelly recommends the cap. I agree: nothing moves under that goal before Monday, and the cap is one field you clear later. Note the backoff grant you just funded fixes the same waste town-wide, so the cap is a bridge until it ships. Say "cap it" or "leave it" and I'll do it from here.
+- **Town** (2026-11-20T02:05:54.509Z): Secretary's reply is waiting on a redeploy (commit ba81dd6); the server is restarting and the meeting resumes after the restart.
+- **Secretary** (2026-11-20T02:06:16.972Z): Back again after a second restart, about 12 minutes later. Nothing changed while it was down: the Onboarding cap is still the only open ask, and nothing new arrived. Still waiting on your word: "cap it" or "leave it".
+- **Town** (2026-11-20T02:18:06.899Z): Secretary's reply is waiting on a redeploy (commit 9712c69); the server is restarting and the meeting resumes after the restart.
+- **Secretary** (2026-11-20T02:18:30.251Z): Third restart, about 12 minutes after the last. Still here. Nothing new arrived: the Onboarding cap is the only open ask. Your word when you're ready: "cap it" or "leave it".
+- **Town** (2026-11-20T02:30:28.638Z): Secretary's reply is waiting on a redeploy (commit b71d602); the server is restarting and the meeting resumes after the restart.
+- **Secretary** (2026-11-20T02:30:45.055Z): Fourth restart, about 12 minutes after the last. Nothing new: the Onboarding cap is still the only open ask. Your word when you're ready: "cap it" or "leave it".
