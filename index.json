@@ -31750,5 +31750,14 @@
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
     "createdAt": "2026-11-20T03:25:40.411Z"
+  },
+  {
+    "id": "dc_fu77ghumej",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-20-self-hosted-tiles-order-host-line-pr-540-parked-me-77ghumej.md",
+    "title": "Self-hosted tiles order + host line: PR #540 parked merge-when-green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-20T03:41:30.860Z"
   }
 ]

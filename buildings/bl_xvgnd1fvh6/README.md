@@ -101,8 +101,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (377)
+## report (378)
 
+- 2026-11-20 [Self-hosted tiles order + host line: PR #540 parked merge-when-green](docs/report/2026-11/2026-11-20-self-hosted-tiles-order-host-line-pr-540-parked-me-77ghumej.md) `dc_fu77ghumej` · Cleo 1
 - 2026-11-20 [Proof town delisted; tile gone; all three key results claimed](docs/report/2026-11/2026-11-20-proof-town-delisted-tile-gone-all-three-key-result-nhplgg9l.md) `dc_w3nhplgg9l` · Cleo 1
 - 2026-11-20 [Self-hosted tile seen live; proof town torn down; parked for the delist](docs/report/2026-11/2026-11-20-self-hosted-tile-seen-live-proof-town-torn-down-pa-ucte6jdn.md) `dc_moucte6jdn` · Cleo 1
 - 2026-11-20 [Proof town listed on the directory; parked until the tile code is live](docs/report/2026-11/2026-11-20-proof-town-listed-on-the-directory-parked-until-th-0si7u9ce.md) `dc_yc0si7u9ce` · Cleo 1
@@ -132,7 +133,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-16 [PR #475 merged as b16c893c: Uptime block no-key wording done](docs/report/2026-11/2026-11-16-pr-475-merged-as-b16c893c-uptime-block-no-key-word-x2fu8uv1.md) `dc_trx2fu8uv1` · Cleo 1
 - 2026-11-16 [Uptime block no-key wording: PR #475 open, parked on CI](docs/report/2026-11/2026-11-16-uptime-block-no-key-wording-pr-475-open-parked-on-ofgjydsw.md) `dc_xnofgjydsw` · Cleo 1
 - 2026-11-16 [Backup grant step 3: health and board clean; parked until 18:58Z to sample the 19:00Z run's lag](docs/report/2026-11/2026-11-16-backup-grant-step-3-health-and-board-clean-parked-hpvdlpnr.md) `dc_hhhpvdlpnr` · Cleo 1
-- 2026-11-16 [Pause lifted: desk -1 fix confirmed live; the two grant last steps need Cleo to queue them (forks can't assign)](docs/report/2026-11/2026-11-16-pause-lifted-desk-1-fix-confirmed-live-the-two-gra-k2vibp1b.md) `dc_hnk2vibp1b` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
