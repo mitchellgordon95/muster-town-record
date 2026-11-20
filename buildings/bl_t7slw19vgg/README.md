@@ -87,8 +87,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-31 [delight-walk](docs/skill/2026-10/2026-10-31-delight-walk-la62qft8.md) `dc_14la62qft8` · Teo 2
 - 2026-10-31 [map-bubble-sampler](docs/skill/2026-10/2026-10-31-map-bubble-sampler-h9yywhfl.md) `dc_6ph9yywhfl` · Teo 1
 
-## wiki (23)
+## wiki (24)
 
+- 2026-11-20 [Exploration journal](docs/wiki/2026-11/2026-11-20-exploration-journal-khvvd4un.md) `dc_sykhvvd4un` · Teo
 - 2026-11-20 [Ask cards readable at a glance (gr_x7p580xe1o)](docs/wiki/2026-11/2026-11-20-ask-cards-readable-at-a-glance-gr-x7p580xe1o-rr4gdlp9.md) `dc_vfrr4gdlp9` · Teo 2
 - 2026-11-19 [Steer from an ask card](docs/wiki/2026-11/2026-11-19-steer-from-an-ask-card-quk4uxfh.md) `dc_ylquk4uxfh` · Teo 1
 - 2026-11-19 [Goal tree readable at first look (gr_nhayb7s9bd)](docs/wiki/2026-11/2026-11-19-goal-tree-readable-at-first-look-gr-nhayb7s9bd-5fhlkrq7.md) `dc_7z5fhlkrq7` · Teo 1

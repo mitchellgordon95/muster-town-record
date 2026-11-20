@@ -31642,5 +31642,113 @@
     "state": "building",
     "buildingId": "bl_6ifesdbah3",
     "createdAt": "2026-11-20T02:33:17.054Z"
+  },
+  {
+    "id": "dc_m7r3yftq2x",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-20-blog-plugin-installed-live-blog-moves-to-town-docs-r3yftq2x.md",
+    "title": "Blog plugin installed live; /blog moves to town docs in PR #539, parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-20T02:38:11.551Z"
+  },
+  {
+    "id": "dc_ogns7fiqm6",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-20-too-early-to-measure-step-2-is-not-live-yet-the-ba-ns7fiqm6.md",
+    "title": "Too early to measure: step 2 is not live yet; the backoff line shows live; schedule this step for 2026-11-27",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-20T02:38:42.807Z"
+  },
+  {
+    "id": "dc_ki0mb83ywu",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-20-exploration-journal-0mb83ywu.md",
+    "title": "Exploration journal",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-20T02:42:58.381Z"
+  },
+  {
+    "id": "dc_uxt4oy6xjf",
+    "path": "buildings/bl_hzjw0z0zlz/docs/wiki/2026-11/2026-11-20-exploration-journal-t4oy6xjf.md",
+    "title": "Exploration journal",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-20T02:42:58.452Z"
+  },
+  {
+    "id": "dc_dt4yaul98t",
+    "path": "buildings/bl_xvgnd1fvh6/docs/wiki/2026-11/2026-11-20-exploration-journal-4yaul98t.md",
+    "title": "Exploration journal",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-20T02:42:58.469Z"
+  },
+  {
+    "id": "dc_q1hxxxuwzs",
+    "path": "buildings/bl_vef3v0oux0/docs/wiki/2026-11/2026-11-20-exploration-journal-hxxxuwzs.md",
+    "title": "Exploration journal",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-20T02:42:58.485Z"
+  },
+  {
+    "id": "dc_o9ohlvrmii",
+    "path": "buildings/bl_vd69s5a1nh/docs/wiki/2026-11/2026-11-20-exploration-journal-ohlvrmii.md",
+    "title": "Exploration journal",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-20T02:42:58.494Z"
+  },
+  {
+    "id": "dc_sykhvvd4un",
+    "path": "buildings/bl_t7slw19vgg/docs/wiki/2026-11/2026-11-20-exploration-journal-khvvd4un.md",
+    "title": "Exploration journal",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-20T02:42:58.499Z"
+  },
+  {
+    "id": "dc_7ibmbmvafb",
+    "path": "buildings/bl_6ifesdbah3/docs/wiki/2026-11/2026-11-20-exploration-journal-bmbmvafb.md",
+    "title": "Exploration journal",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-20T02:42:58.503Z"
+  },
+  {
+    "id": "dc_qyqnabg04w",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-20-incoming-credit-unused-is-live-and-verified-signed-qnabg04w.md",
+    "title": "Incoming credit unused is live and verified signed out; check:finance 76/76; all three key results claimable",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-20T02:45:01.611Z"
+  },
+  {
+    "id": "dc_7xh8mfx9zy",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-20-1-1-mitchell-and-secretary-notes-h8mfx9zy.md",
+    "title": "1:1: Mitchell and Secretary — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-20T03:15:25.937Z"
+  },
+  {
+    "id": "dc_w3nhplgg9l",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-20-proof-town-delisted-tile-gone-all-three-key-result-nhplgg9l.md",
+    "title": "Proof town delisted; tile gone; all three key results claimed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-20T03:25:40.411Z"
   }
 ]

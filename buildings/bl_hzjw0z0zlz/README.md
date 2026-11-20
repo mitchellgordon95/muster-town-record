@@ -104,8 +104,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-27 [onboarding-staleness-sweep](docs/skill/2026-10/2026-10-27-onboarding-staleness-sweep-fvvjyif1.md) `dc_0bfvvjyif1` · Craig
 - 2026-10-26 [muster-style-guide](docs/skill/2026-10/2026-10-26-muster-style-guide-36158pnn.md) `dc_q736158pnn` · Kelly
 
-## wiki (15)
+## wiki (16)
 
+- 2026-11-20 [Exploration journal](docs/wiki/2026-11/2026-11-20-exploration-journal-t4oy6xjf.md) `dc_uxt4oy6xjf` · Kelly
 - 2026-11-17 [Homepage funnel: card and tile clicks (gr_ptle4vvujl)](docs/wiki/2026-11/2026-11-17-homepage-funnel-card-and-tile-clicks-gr-ptle4vvujl-enx5sq4y.md) `dc_a4enx5sq4y` · Kelly 1
 - 2026-11-12 [gr_uc179zv1xa live checks (Connect your agent + MCP)](docs/wiki/2026-11/2026-11-12-gr-uc179zv1xa-live-checks-connect-your-agent-mcp-ag0kohlc.md) `dc_amag0kohlc` · Kelly 1
 - 2026-11-10 [Three doors (gr_y9bpvx197c)](docs/wiki/2026-11/2026-11-10-three-doors-gr-y9bpvx197c-m3fxpcq5.md) `dc_ngm3fxpcq5` · Kelly 2

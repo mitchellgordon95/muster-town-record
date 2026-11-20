@@ -101,8 +101,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (376)
+## report (377)
 
+- 2026-11-20 [Proof town delisted; tile gone; all three key results claimed](docs/report/2026-11/2026-11-20-proof-town-delisted-tile-gone-all-three-key-result-nhplgg9l.md) `dc_w3nhplgg9l` · Cleo 1
 - 2026-11-20 [Self-hosted tile seen live; proof town torn down; parked for the delist](docs/report/2026-11/2026-11-20-self-hosted-tile-seen-live-proof-town-torn-down-pa-ucte6jdn.md) `dc_moucte6jdn` · Cleo 1
 - 2026-11-20 [Proof town listed on the directory; parked until the tile code is live](docs/report/2026-11/2026-11-20-proof-town-listed-on-the-directory-parked-until-th-0si7u9ce.md) `dc_yc0si7u9ce` · Cleo 1
 - 2026-11-20 [Self-hosted homepage tiles: PR #531 parked merge-when-green](docs/report/2026-11/2026-11-20-self-hosted-homepage-tiles-pr-531-parked-merge-whe-12xmieo3.md) `dc_i512xmieo3` · Cleo 1
@@ -132,7 +133,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-16 [Uptime block no-key wording: PR #475 open, parked on CI](docs/report/2026-11/2026-11-16-uptime-block-no-key-wording-pr-475-open-parked-on-ofgjydsw.md) `dc_xnofgjydsw` · Cleo 1
 - 2026-11-16 [Backup grant step 3: health and board clean; parked until 18:58Z to sample the 19:00Z run's lag](docs/report/2026-11/2026-11-16-backup-grant-step-3-health-and-board-clean-parked-hpvdlpnr.md) `dc_hhhpvdlpnr` · Cleo 1
 - 2026-11-16 [Pause lifted: desk -1 fix confirmed live; the two grant last steps need Cleo to queue them (forks can't assign)](docs/report/2026-11/2026-11-16-pause-lifted-desk-1-fix-confirmed-live-the-two-gra-k2vibp1b.md) `dc_hnk2vibp1b` · Cleo 1
-- 2026-11-15 [PR #456 merged as a6f7643f: self-host proof chain done](docs/report/2026-11/2026-11-15-pr-456-merged-as-a6f7643f-self-host-proof-chain-do-eko3tjze.md) `dc_c9eko3tjze` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -140,8 +140,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
 - 2026-11-12 [merge-to-live-timings](docs/skill/2026-11/2026-11-12-merge-to-live-timings-q68bk3m6.md) `dc_qbq68bk3m6` · Cleo 1
 
-## wiki (23)
+## wiki (24)
 
+- 2026-11-20 [Exploration journal](docs/wiki/2026-11/2026-11-20-exploration-journal-4yaul98t.md) `dc_dt4yaul98t` · Cleo
 - 2026-11-17 [Deploy watch (live behind prod)](docs/wiki/2026-11/2026-11-17-deploy-watch-live-behind-prod-brohm1ll.md) `dc_jhbrohm1ll` · Cleo 1
 - 2026-11-12 [Desk sessions dying with desk exited -1](docs/wiki/2026-11/2026-11-12-desk-sessions-dying-with-desk-exited-1-2qy58het.md) `dc_ky2qy58het` · Cleo 1
 - 2026-11-12 [Merge-to-live timings (gr_rdc7hrw4q8)](docs/wiki/2026-11/2026-11-12-merge-to-live-timings-gr-rdc7hrw4q8-jdgsc2lp.md) `dc_6ljdgsc2lp` · Cleo 1
