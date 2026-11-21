@@ -32110,5 +32110,14 @@
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
     "createdAt": "2026-11-21T00:11:46.829Z"
+  },
+  {
+    "id": "dc_atbux39zyh",
+    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-21-yellow-last-off-site-backup-1-h-ago-bux39zyh.md",
+    "title": "[YELLOW] last off-site backup 1 h ago",
+    "type": "fyi",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-21T01:00:34.813Z"
   }
 ]
