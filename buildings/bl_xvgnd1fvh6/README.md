@@ -18,7 +18,7 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 ## fyi (27)
 
-- 2026-11-21 [YELLOW last off-site backup 1 h ago](docs/fyi/2026-11/2026-11-21-yellow-last-off-site-backup-1-h-ago-bux39zyh.md) `dc_atbux39zyh` · Town
+- 2026-11-21 [CLEARED YELLOW backup: last off-site backup 0.1 h ago](docs/fyi/2026-11/2026-11-21-cleared-yellow-backup-last-off-site-backup-0-1-h-a-bux39zyh.md) `dc_atbux39zyh` · Town
 - 2026-11-19 [CLEARED YELLOW backup: last off-site backup 0.1 h ago](docs/fyi/2026-11/2026-11-19-cleared-yellow-backup-last-off-site-backup-0-1-h-a-zi3zslch.md) `dc_egzi3zslch` · Town
 - 2026-11-15 [CLEARED RED redeploy-failed: redeploy failed 5 min ago: main is not live: re-run the redeploy, read the failed step's event output](docs/fyi/2026-11/2026-11-15-cleared-red-redeploy-failed-redeploy-failed-5-min-gmgb0lpt.md) `dc_pugmgb0lpt` · Town
 - 2026-11-15 [CLEARED RED redeploy-failed: redeploy failed 5 min ago: main is not live: re-run the redeploy, read the failed step's event output](docs/fyi/2026-11/2026-11-15-cleared-red-redeploy-failed-redeploy-failed-5-min-pgprwbxh.md) `dc_depgprwbxh` · Town
