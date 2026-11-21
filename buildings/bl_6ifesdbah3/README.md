@@ -21,8 +21,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-17 [1:1: Mitchell and Juno — notes](docs/meeting-notes/2026-11/2026-11-17-1-1-mitchell-and-juno-notes-6f5vsx4k.md) `dc_8u6f5vsx4k` · Juno
 - 2026-11-05 [1:1: Mitchell and Juno — notes](docs/meeting-notes/2026-11/2026-11-05-1-1-mitchell-and-juno-notes-6itg9v6o.md) `dc_ka6itg9v6o` · Juno
 
-## note (6)
+## note (7)
 
+- 2026-11-21 [Explore: blog readers don't reach the town or the repo (238 reads, ~8 home views, 0 stars)](docs/note/2026-11/2026-11-21-explore-blog-readers-don-t-reach-the-town-or-the-r-4tn9u7p1.md) `dc_dl4tn9u7p1` · Juno 1
 - 2026-11-20 [Staged for approval: "Engineering Human Oversight With Decision Queues" with two diagrams](docs/note/2026-11/2026-11-20-staged-for-approval-engineering-human-oversight-wi-ge00czbq.md) `dc_duge00czbq` · Juno 1
 - 2026-11-20 [Findings: the town can't tell which channel brought a visitor, and blog reads aren't counted](docs/note/2026-11/2026-11-20-findings-the-town-can-t-tell-which-channel-brought-ehu4prlt.md) `dc_ygehu4prlt` · Juno 1
 - 2026-11-19 [Show HN for Muster Town: title, link, fact sheet for Mitchell's first comment, baseline counts](docs/note/2026-11/2026-11-19-show-hn-for-muster-town-title-link-fact-sheet-for-zj8medi0.md) `dc_j2zj8medi0` · Juno 1
@@ -35,8 +36,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-20 [Blog](docs/plugin/2026-11/2026-11-20-blog-io0e0i6q.md) `dc_24io0e0i6q` · Juno 1
 - 2026-11-20 [Notes](docs/plugin/2026-11/2026-11-20-notes-dyryo2jm.md) `dc_lhdyryo2jm` · Juno 1
 
-## report (48)
+## report (49)
 
+- 2026-11-21 [Explore: blog readers don't reach the town or repo; proposed gr_y8buqgpata (200k)](docs/report/2026-11/2026-11-21-explore-blog-readers-don-t-reach-the-town-or-repo-6jidhsrh.md) `dc_mc6jidhsrh` · Juno 1
 - 2026-11-20 [Bend 2 removed from the live post; HN submission recorded; staged copy is stale](docs/report/2026-11/2026-11-20-bend-2-removed-from-the-live-post-hn-submission-re-s52b3zrd.md) `dc_jks52b3zrd` · Juno 1
 - 2026-11-20 [Blog images confirmed live; Wright texted Mitchell](docs/report/2026-11/2026-11-20-blog-images-confirmed-live-wright-texted-mitchell-c2oorkoe.md) `dc_wxc2oorkoe` · Juno 1
 - 2026-11-20 [Blog images are live: upload from the Blog screen, cover image; Mitchell's post staged with two diagrams](docs/report/2026-11/2026-11-20-blog-images-are-live-upload-from-the-blog-screen-c-fiz3vezm.md) `dc_eofiz3vezm` · Juno 1
@@ -66,7 +68,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-12 [Resend double opt-in is live at 2f518b9f; with no key set, signup works as it did before](docs/report/2026-11/2026-11-12-resend-double-opt-in-is-live-at-2f518b9f-with-no-k-vii5hy6m.md) `dc_89vii5hy6m` · Juno 1
 - 2026-11-12 [PR #444 (Resend double opt-in) merged as 2f518b9f; parked until it is live](docs/report/2026-11/2026-11-12-pr-444-resend-double-opt-in-merged-as-2f518b9f-par-gtdrq6r6.md) `dc_pcgtdrq6r6` · Juno 1
 - 2026-11-12 [Resend double opt-in for the blog list: PR #444 open, does nothing until the key is set; Mitchell's Resend steps written](docs/report/2026-11/2026-11-12-resend-double-opt-in-for-the-blog-list-pr-444-open-b6tfiwuu.md) `dc_inb6tfiwuu` · Juno 1
-- 2026-11-12 [Outreach rollup #4: the blog email signup is live; Mitchell's "set up resend" is queued and needs his Resend account and key](docs/report/2026-11/2026-11-12-outreach-rollup-4-the-blog-email-signup-is-live-mi-817ul86y.md) `dc_cm817ul86y` · Juno
 
 All by month: [2026-11](docs/report/2026-11/)
 

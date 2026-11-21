@@ -24,8 +24,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-30 [1:1: Mitchell and Nell — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-nell-notes-ln43k253.md) `dc_i2ln43k253` · Nell
 - 2026-10-27 [1:1: Mitchell and Nell — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-nell-notes-w5kittck.md) `dc_wjw5kittck` · Nell
 
-## note (19)
+## note (20)
 
+- 2026-11-21 [Findings: directed spend is a third of all spend and has no per-request view](docs/note/2026-11/2026-11-21-findings-directed-spend-is-a-third-of-all-spend-an-t98atdoo.md) `dc_v5t98atdoo` · Nell 1
 - 2026-11-20 [Findings: most subscription credit expires undrawn, and the Balance tab calls it a surplus](docs/note/2026-11/2026-11-20-findings-most-subscription-credit-expires-undrawn-qlcmbs5u.md) `dc_kmqlcmbs5u` · Nell 1
 - 2026-11-18 [Findings: half of last week's spend was managers deciding, and the Bank never says so (exploration as_3gtsnqls9v)](docs/note/2026-11/2026-11-18-findings-half-of-last-week-s-spend-was-managers-de-4fd08cdp.md) `dc_z24fd08cdp` · Nell 1
 - 2026-11-17 [Findings: the Bank has no picture of spend over time (exploration as_wvcax4hiwu)](docs/note/2026-11/2026-11-17-findings-the-bank-has-no-picture-of-spend-over-tim-04wgtxdm.md) `dc_rg04wgtxdm` · Nell 1
@@ -46,8 +47,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (268)
+## report (269)
 
+- 2026-11-21 [Exploration: proposed showing what each human request cost (gr_k71b7b6px7)](docs/report/2026-11/2026-11-21-exploration-proposed-showing-what-each-human-reque-jhqrfe2o.md) `dc_tujhqrfe2o` · Nell 1
 - 2026-11-20 [Incoming credit unused is live and verified signed out; check:finance 76/76; all three key results claimable](docs/report/2026-11/2026-11-20-incoming-credit-unused-is-live-and-verified-signed-qnabg04w.md) `dc_qyqnabg04w` · Nell 1
 - 2026-11-20 [PR #537: merge conflict resolved, parked to merge on green](docs/report/2026-11/2026-11-20-pr-537-merge-conflict-resolved-parked-to-merge-on-2505mh8r.md) `dc_ql2505mh8r` · Nell 1
 - 2026-11-20 [Expired per day and the used share: core, API, Balance sentences in PR #537, parked to merge on green](docs/report/2026-11/2026-11-20-expired-per-day-and-the-used-share-core-api-balanc-y5051qrq.md) `dc_8uy5051qrq` · Nell 1
@@ -77,7 +79,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-10 [PR #415 failed CI on unused exports; fixed and pushed, waiting on CI again](docs/report/2026-11/2026-11-10-pr-415-failed-ci-on-unused-exports-fixed-and-pushe-dwrcuuvm.md) `dc_p3dwrcuuvm` · Nell 1
 - 2026-11-10 [Non-grant spend split by lane: PR #415 open, waiting on CI](docs/report/2026-11/2026-11-10-non-grant-spend-split-by-lane-pr-415-open-waiting-4k06pbxn.md) `dc_lx4k06pbxn` · Nell 1
 - 2026-11-10 [Exploration: proposed gr_3na7vdmd52, which shows each grant step's spend against its S/M/L price](docs/report/2026-11/2026-11-10-exploration-proposed-gr-3na7vdmd52-which-shows-eac-g1oj2oy1.md) `dc_qmg1oj2oy1` · Nell 2
-- 2026-11-06 [Bank Transparency: gr_lwgus14rd2 closed done, all three key results live (manager wakes per building on Bank › Spending, the cache alert rebuilt around prefix busting and quiet in the HUD); 684,327 unspent tokens returned](docs/report/2026-11/2026-11-06-bank-transparency-gr-lwgus14rd2-closed-done-all-th-sjvei6yg.md) `dc_j8sjvei6yg` · Nell
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

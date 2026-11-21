@@ -28,8 +28,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [1:1: Mitchell and Teo — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-teo-notes-tuy9g1zf.md) `dc_0ltuy9g1zf` · Teo
 - 2026-10-29 [1:1: Mitchell and Teo — notes](docs/meeting-notes/2026-10/2026-10-29-1-1-mitchell-and-teo-notes-nji0boyh.md) `dc_bqnji0boyh` · Teo
 
-## note (12)
+## note (13)
 
+- 2026-11-21 [Findings: a closed grant's page hides what it shipped and shows a stale spend](docs/note/2026-11/2026-11-21-findings-a-closed-grant-s-page-hides-what-it-shipp-vu6pho44.md) `dc_o3vu6pho44` · Teo 1
 - 2026-11-20 [Findings: the ask card's body is a bold wall, and on a phone the decision sits below the fold](docs/note/2026-11/2026-11-20-findings-the-ask-card-s-body-is-a-bold-wall-and-on-c71eij3n.md) `dc_fkc71eij3n` · Teo 2
 - 2026-11-19 [Live census of the goal tree and decision queue at both sizes (gr_nhayb7s9bd step 3, live at d5735b17)](docs/note/2026-11/2026-11-19-live-census-of-the-goal-tree-and-decision-queue-at-y9o2fqdz.md) `dc_rxy9o2fqdz` · Teo 1
 - 2026-11-18 [Live disclosure re-census 2026-11-18, and the goal tree that opens unreadable](docs/note/2026-11/2026-11-18-live-disclosure-re-census-2026-11-18-and-the-goal-zddih5xy.md) `dc_1jzddih5xy` · Teo 1
@@ -43,8 +44,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (252)
+## report (253)
 
+- 2026-11-21 [Exploration: closed grant pages hide what shipped and show stale spend; proposed gr_hwxc1lwi2e (200k)](docs/report/2026-11/2026-11-21-exploration-closed-grant-pages-hide-what-shipped-a-b98z1nrk.md) `dc_hpb98z1nrk` · Teo 1
 - 2026-11-20 [PR #547 closed as a duplicate of #546 (merged); ask card has no bold, buttons at bottom](docs/report/2026-11/2026-11-20-pr-547-closed-as-a-duplicate-of-546-merged-ask-car-5fn19jzc.md) `dc_o85fn19jzc` · Teo 1
 - 2026-11-20 [Ask card: back to the old format except the regular-weight body: PR #547, parked to merge when green](docs/report/2026-11/2026-11-20-ask-card-back-to-the-old-format-except-the-regular-6yivoq1i.md) `dc_1g6yivoq1i` · Teo 2
 - 2026-11-20 [Ask card: no bold, rest of #530 formatting undone, buttons stay at bottom: PR #546 parked to merge](docs/report/2026-11/2026-11-20-ask-card-no-bold-rest-of-530-formatting-undone-but-n481o346.md) `dc_ihn481o346` · Teo 1
@@ -74,7 +76,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-18 [Live: goal detail shows "Key results" above "✓ 3 done" (PR #503, eb4d7908)](docs/report/2026-11/2026-11-18-live-goal-detail-shows-key-results-above-3-done-pr-h8phiqje.md) `dc_2eh8phiqje` · Teo 1
 - 2026-11-18 [PR #503 green and squash-merged (eb4d7908); parked until live](docs/report/2026-11/2026-11-18-pr-503-green-and-squash-merged-eb4d7908-parked-unt-i5p45lgf.md) `dc_doi5p45lgf` · Teo 1
 - 2026-11-18 [Goal detail heading fix: PR #503, parked on CI](docs/report/2026-11/2026-11-18-goal-detail-heading-fix-pr-503-parked-on-ci-jicdwg8j.md) `dc_7sjicdwg8j` · Teo 1
-- 2026-11-18 [Explored disclosure on live; proposed gr_nhayb7s9bd: goal tree readable at first look (350k)](docs/report/2026-11/2026-11-18-explored-disclosure-on-live-proposed-gr-nhayb7s9bd-wtki76yq.md) `dc_5kwtki76yq` · Teo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

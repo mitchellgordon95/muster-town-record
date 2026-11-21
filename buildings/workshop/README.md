@@ -94,8 +94,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-notes/2026-10/)
 
-## note (41)
+## note (42)
 
+- 2026-11-21 [Exploration 2026-11-21: the Secretary's ranking schedule lapsed 11-18, so captain and access requests get no card](docs/note/2026-11/2026-11-21-exploration-2026-11-21-the-secretary-s-ranking-sch-ws2dhugo.md) `dc_n7ws2dhugo` · Pix 1
 - 2026-11-20 [Exploration 2026-11-20: a captain can't decide most asks in their own subtree](docs/note/2026-11/2026-11-20-exploration-2026-11-20-a-captain-can-t-decide-most-0v7qai7v.md) `dc_7g0v7qai7v` · Pix 1
 - 2026-11-17 [Findings: the gate card's suggested adjust double-counts the step in flight (Pins grant: town said 400,000, need was about 50,000)](docs/note/2026-11/2026-11-17-findings-the-gate-card-s-suggested-adjust-double-c-qevcrr7x.md) `dc_94qevcrr7x` · Pix 1
 - 2026-11-10 [Plan: the job abstraction (plan and cost, for Mitchell before any code)](docs/note/2026-11/2026-11-10-plan-the-job-abstraction-plan-and-cost-for-mitchel-x045472m.md) `dc_uwx045472m` · Pix 1
@@ -125,12 +126,12 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 - 2026-10-28 [Topic page draft: Visitor agent reports](docs/note/2026-10/2026-10-28-topic-page-draft-visitor-agent-reports-ze61yw8i.md) `dc_dnze61yw8i` · Lena
 - 2026-10-28 [Topic page draft: Session transcripts and who can read agent memory](docs/note/2026-10/2026-10-28-topic-page-draft-session-transcripts-and-who-can-r-kvgp14rq.md) `dc_49kvgp14rq` · Lena
 - 2026-10-28 [Topic page text: Bank and token accounting](docs/note/2026-10/2026-10-28-topic-page-text-bank-and-token-accounting-4ketree0.md) `dc_up4ketree0` · Root
-- 2026-10-28 [Topic page draft: Media and attachments in reports and meetings](docs/note/2026-10/2026-10-28-topic-page-draft-media-and-attachments-in-reports-4da0xgyq.md) `dc_u64da0xgyq` · Lena
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1234)
+## report (1235)
 
+- 2026-11-21 [Exploration: the Secretary's ranking schedule lapsed 11-18, so captain and join requests get no card; proposed gr_mcuj10tupi (250k)](docs/report/2026-11/2026-11-21-exploration-the-secretary-s-ranking-schedule-lapse-zx4fkfwk.md) `dc_yjzx4fkfwk` · Pix 1
 - 2026-11-20 [Live check with a second captain: captain request still pending at 20:00Z, check stopped](docs/report/2026-11/2026-11-20-live-check-with-a-second-captain-captain-request-s-h1v6emas.md) `dc_cvh1v6emas` · Pix 1
 - 2026-11-20 [Live check with a second captain: #534 live, captain request still unanswered (no card in the queue); parked to 20:00Z](docs/report/2026-11/2026-11-20-live-check-with-a-second-captain-534-live-captain-bdlw4vu1.md) `dc_sxbdlw4vu1` · Pix 1
 - 2026-11-20 [Live check with a second captain: captain request filed, waiting on Mitchell](docs/report/2026-11/2026-11-20-live-check-with-a-second-captain-captain-request-f-kznc99te.md) `dc_6xkznc99te` · Pix 1
@@ -160,7 +161,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-16 [Queue health step 4: live samples check out by hand; all four key results claimable](docs/report/2026-11/2026-11-16-queue-health-step-4-live-samples-check-out-by-hand-uqfe4ari.md) `dc_lguqfe4ari` · Pix 1
 - 2026-11-16 [Operating manual book is live in the Town Hall](docs/report/2026-11/2026-11-16-operating-manual-book-is-live-in-the-town-hall-z9rz07x2.md) `dc_ygz9rz07x2` · Pix 1
 - 2026-11-16 [Ghost visitors: N = 7 days, 6 of 6 retired on the live town](docs/report/2026-11/2026-11-16-ghost-visitors-n-7-days-6-of-6-retired-on-the-live-xidl7cxh.md) `dc_jexidl7cxh` · Pix 1
-- 2026-11-16 [PR #474 merged (c7deb565): dead-session wording in code](docs/report/2026-11/2026-11-16-pr-474-merged-c7deb565-dead-session-wording-in-cod-infrc8a0.md) `dc_yjinfrc8a0` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

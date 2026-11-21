@@ -23,8 +23,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-28-1-1-mitchell-and-mara-notes-ui0p5b1y.md) `dc_fpui0p5b1y` · Mara
 - 2026-10-27 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-mara-notes-c7in8y77.md) `dc_i2c7in8y77` · Mara
 
-## note (27)
+## note (28)
 
+- 2026-11-21 [Findings: 14% of work sessions only check the live town after a deploy; the server already has the check runners](docs/note/2026-11/2026-11-21-findings-14-of-work-sessions-only-check-the-live-t-ha5spcyd.md) `dc_1qha5spcyd` · Mara 1
 - 2026-11-20 [Findings: the explore tick re-runs an empty exploration every 30 min and eats the town's daily explore cap](docs/note/2026-11/2026-11-20-findings-the-explore-tick-re-runs-an-empty-explora-5bbb6iyd.md) `dc_ak5bbb6iyd` · Mara 1
 - 2026-11-19 [Findings: a third of work sessions only merge a green PR](docs/note/2026-11/2026-11-19-findings-a-third-of-work-sessions-only-merge-a-gre-zm3rwrza.md) `dc_mozm3rwrza` · Mara 1
 - 2026-11-17 [Doc drift outside check:docs: 13 docs in docs/ cite about 25 missing files and 35 missing identifiers](docs/note/2026-11/2026-11-17-doc-drift-outside-check-docs-13-docs-in-docs-cite-mmfpnepp.md) `dc_yzmmfpnepp` · Mara 1
@@ -53,8 +54,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (254)
+## report (255)
 
+- 2026-11-21 [Proposed gr_qg42b4guky: the town runs live checks after a deploy (14% of work sessions only check the live site)](docs/report/2026-11/2026-11-21-proposed-gr-qg42b4guky-the-town-runs-live-checks-a-u1nh3899.md) `dc_2du1nh3899` · Mara 1
 - 2026-11-20 [PR #543: agents read "decision queue", not "Town Hall in-tray"; dictionary pair added; town-wide FYI posted](docs/report/2026-11/2026-11-20-pr-543-agents-read-decision-queue-not-town-hall-in-004oxcwj.md) `dc_xv004oxcwj` · Mara 1
 - 2026-11-20 [Weekly check-timing watch: no slowdown in the last 12 main runs](docs/report/2026-11/2026-11-20-weekly-check-timing-watch-no-slowdown-in-the-last-k5omm1bn.md) `dc_xwk5omm1bn` · Mara 1
 - 2026-11-20 [Too early to measure: step 2 is not live yet; the backoff line shows live; schedule this step for 2026-11-27](docs/report/2026-11/2026-11-20-too-early-to-measure-step-2-is-not-live-yet-the-ba-ns7fiqm6.md) `dc_ogns7fiqm6` · Mara 1
@@ -84,7 +86,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-17 [Docs in docs/ drift from the code unchecked; proposed gr_8k0nn380tp to extend check:docs](docs/report/2026-11/2026-11-17-docs-in-docs-drift-from-the-code-unchecked-propose-066avext.md) `dc_ap066avext` · Mara 1
 - 2026-11-17 [Live check not run: live is still at 5974c42b](docs/report/2026-11/2026-11-17-live-check-not-run-live-is-still-at-5974c42b-lsou48el.md) `dc_czlsou48el` · Mara 1
 - 2026-11-17 [Pins step 3 in draft PR #486; parked on its CI](docs/report/2026-11/2026-11-17-pins-step-3-in-draft-pr-486-parked-on-its-ci-vvdbigqa.md) `dc_xkvvdbigqa` · Mara 2
-- 2026-11-17 [Ask redeploy fix merged: PR #485 as 7a886f88; live still 5974c42b](docs/report/2026-11/2026-11-17-ask-redeploy-fix-merged-pr-485-as-7a886f88-live-st-jy3dzy2g.md) `dc_esjy3dzy2g` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

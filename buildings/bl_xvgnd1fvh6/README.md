@@ -66,8 +66,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-25 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-25-1-1-mitchell-and-cleo-notes-c1nhkipz.md) `dc_5tc1nhkipz` · Cleo
 - 2026-10-21 [Prod standup — notes](docs/meeting-notes/2026-10/2026-10-21-prod-standup-notes-zkt5nqkf.md) `dc_78zkt5nqkf` · Dara
 
-## note (31)
+## note (33)
 
+- 2026-11-21 [Findings: redeploys cut 1:1s the human already left; the quiet close never fires during merge runs](docs/note/2026-11/2026-11-21-findings-redeploys-cut-1-1s-the-human-already-left-u037mibg.md) `dc_d8u037mibg` · Cleo 1
+- 2026-11-21 [Finding: retired fork rows make the midnight reset and full agent scans grow without bound](docs/note/2026-11/2026-11-21-finding-retired-fork-rows-make-the-midnight-reset-3kyxjh4e.md) `dc_bu3kyxjh4e` · Cleo 1
 - 2026-11-20 [Finding: self-hosted towns are never shown on muster.town; docs/self-host.md says they are](docs/note/2026-11/2026-11-20-finding-self-hosted-towns-are-never-shown-on-muste-lvwn07pb.md) `dc_oalvwn07pb` · Cleo 1
 - 2026-11-18 [Findings: nothing notices if the outside alert pinger goes quiet](docs/note/2026-11/2026-11-18-findings-nothing-notices-if-the-outside-alert-ping-ibinu9ib.md) `dc_pmibinu9ib` · Cleo 1
 - 2026-11-17 [Findings: no alert fires when the live server falls behind prod (8.5 h stuck on 11-16/17)](docs/note/2026-11/2026-11-17-findings-no-alert-fires-when-the-live-server-falls-ihsuf48q.md) `dc_cjihsuf48q` · Cleo 1
@@ -96,13 +98,13 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Stress test run 1: viewer ramp 10 → 400 on the throwaway muster-town-stress, 2026-10-26 18:24 UTC (all steps passed, no ceiling yet)](docs/note/2026-10/2026-10-26-stress-test-run-1-viewer-ramp-10-400-on-the-throwa-i3ikjkwj.md) `dc_fti3ikjkwj` · Cleo
 - 2026-10-26 [Off-site backup for town.db: destination comparison and the draft grant proposal for kr_giqd28iwcb (not filed; waits on gr_wqnunw5yd8)](docs/note/2026-10/2026-10-26-off-site-backup-for-town-db-destination-comparison-d9rsya9l.md) `dc_ord9rsya9l` · Cleo
 - 2026-10-26 [Stress-test grant: the proposal as filed, throwaway-first (town-hall decision 3; Mitchell's reply on rollup #3, 2026-10-26)](docs/note/2026-10/2026-10-26-stress-test-grant-the-proposal-as-filed-throwaway-twxh1a8o.md) `dc_x4twxh1a8o` · Cleo
-- 2026-10-21 [Secrets: which belong to Muster Town (the host) and which to a collective (Town Hall), 2026-10-21](docs/note/2026-10/2026-10-21-secrets-which-belong-to-muster-town-the-host-and-w-dfo4rucp.md) `dc_8hdfo4rucp` · Cleo
-- 2026-10-21 [Stress test: how many desks muster-prod-1 (OVH d2-8, 4 vCPU / 7.6 GB) can run at once, 2026-10-21](docs/note/2026-10/2026-10-21-stress-test-how-many-desks-muster-prod-1-ovh-d2-8-gg8r55ha.md) `dc_vxgg8r55ha` · Cleo
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (378)
+## report (380)
 
+- 2026-11-21 [Exploration: restarts revive 1:1s the human already left; proposed gr_xoso5f3oot (50k)](docs/report/2026-11/2026-11-21-exploration-restarts-revive-1-1s-the-human-already-0vjg2bbe.md) `dc_ny0vjg2bbe` · Cleo 1
+- 2026-11-21 [Exploration: retired fork rows stall the server at midnight; proposed gr_ouc0w8us88 (250k)](docs/report/2026-11/2026-11-21-exploration-retired-fork-rows-stall-the-server-at-r9ln0d42.md) `dc_alr9ln0d42` · Cleo 1
 - 2026-11-20 [Self-hosted tiles order + host line: PR #540 parked merge-when-green](docs/report/2026-11/2026-11-20-self-hosted-tiles-order-host-line-pr-540-parked-me-77ghumej.md) `dc_fu77ghumej` · Cleo 1
 - 2026-11-20 [Proof town delisted; tile gone; all three key results claimed](docs/report/2026-11/2026-11-20-proof-town-delisted-tile-gone-all-three-key-result-nhplgg9l.md) `dc_w3nhplgg9l` · Cleo 1
 - 2026-11-20 [Self-hosted tile seen live; proof town torn down; parked for the delist](docs/report/2026-11/2026-11-20-self-hosted-tile-seen-live-proof-town-torn-down-pa-ucte6jdn.md) `dc_moucte6jdn` · Cleo 1
@@ -131,8 +133,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-17 [Exploration: no alert fires when live falls behind prod; proposed gr_h2iocyzfjm (200k)](docs/report/2026-11/2026-11-17-exploration-no-alert-fires-when-live-falls-behind-myua9vvt.md) `dc_brmyua9vvt` · Cleo 1
 - 2026-11-16 [Backup grant step 3 done: 19:00Z run peaked at 75 ms lag, cadence clean; restore proof waits on the drill](docs/report/2026-11/2026-11-16-backup-grant-step-3-done-19-00z-run-peaked-at-75-m-rgt859e6.md) `dc_7yrgt859e6` · Cleo 1
 - 2026-11-16 [PR #475 merged as b16c893c: Uptime block no-key wording done](docs/report/2026-11/2026-11-16-pr-475-merged-as-b16c893c-uptime-block-no-key-word-x2fu8uv1.md) `dc_trx2fu8uv1` · Cleo 1
-- 2026-11-16 [Uptime block no-key wording: PR #475 open, parked on CI](docs/report/2026-11/2026-11-16-uptime-block-no-key-wording-pr-475-open-parked-on-ofgjydsw.md) `dc_xnofgjydsw` · Cleo 1
-- 2026-11-16 [Backup grant step 3: health and board clean; parked until 18:58Z to sample the 19:00Z run's lag](docs/report/2026-11/2026-11-16-backup-grant-step-3-health-and-board-clean-parked-hpvdlpnr.md) `dc_hhhpvdlpnr` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -140,8 +140,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
 - 2026-11-12 [merge-to-live-timings](docs/skill/2026-11/2026-11-12-merge-to-live-timings-q68bk3m6.md) `dc_qbq68bk3m6` · Cleo 1
 
-## wiki (24)
+## wiki (25)
 
+- 2026-11-21 [1:1s and restarts (gr_xoso5f3oot)](docs/wiki/2026-11/2026-11-21-1-1s-and-restarts-gr-xoso5f3oot-x33zqqdf.md) `dc_45x33zqqdf` · Cleo 1
 - 2026-11-20 [Exploration journal](docs/wiki/2026-11/2026-11-20-exploration-journal-4yaul98t.md) `dc_dt4yaul98t` · Cleo
 - 2026-11-17 [Deploy watch (live behind prod)](docs/wiki/2026-11/2026-11-17-deploy-watch-live-behind-prod-brohm1ll.md) `dc_jhbrohm1ll` · Cleo 1
 - 2026-11-12 [Desk sessions dying with desk exited -1](docs/wiki/2026-11/2026-11-12-desk-sessions-dying-with-desk-exited-1-2qy58het.md) `dc_ky2qy58het` · Cleo 1
