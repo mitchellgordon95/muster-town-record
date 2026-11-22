@@ -47,7 +47,7 @@
     "status": "idle",
     "activity": "Writing a log line",
     "model": "claude-fable-5-1",
-    "spentTokensToday": 128281,
+    "spentTokensToday": 0,
     "spentTokensTotal": 33432375,
     "spentUsdTotal": 973.785086109999,
     "currentAssignmentId": null,
@@ -59,7 +59,7 @@
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 194930
+    "familySpentToday": 0
   },
   {
     "id": "ag_oycvqt9sa6",
@@ -307,7 +307,7 @@
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 0
+    "familySpentToday": 47204
   },
   {
     "id": "ag_8uq6fnjis4",
@@ -357,7 +357,7 @@
     "status": "idle",
     "activity": "Writing a log line",
     "model": "claude-fable-5-1",
-    "spentTokensToday": 79489,
+    "spentTokensToday": 0,
     "spentTokensTotal": 13185257,
     "spentUsdTotal": 404.77326476999957,
     "currentAssignmentId": null,
@@ -369,7 +369,7 @@
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 243244
+    "familySpentToday": 0
   },
   {
     "id": "ag_r9xzrbz8tj",
@@ -481,7 +481,7 @@
     "status": "idle",
     "activity": "Writing a log line",
     "model": "claude-fable-5-1",
-    "spentTokensToday": 65970,
+    "spentTokensToday": 0,
     "spentTokensTotal": 9060694,
     "spentUsdTotal": 275.8039513999998,
     "currentAssignmentId": null,
@@ -493,7 +493,7 @@
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 111648
+    "familySpentToday": 0
   },
   {
     "id": "ag_t5p8jfp9fk",
@@ -543,7 +543,7 @@
     "status": "idle",
     "activity": "Writing a log line",
     "model": "claude-fable-5-1",
-    "spentTokensToday": 31865,
+    "spentTokensToday": 0,
     "spentTokensTotal": 8643014,
     "spentUsdTotal": 223.32418990000002,
     "currentAssignmentId": null,
@@ -555,7 +555,7 @@
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 129718
+    "familySpentToday": 0
   },
   {
     "id": "ag_ehvfty1gx3",
@@ -14617,7 +14617,7 @@
     "status": "idle",
     "activity": "Asking the humans: Fund the closed grant page fix at 200k",
     "model": "claude-fable-5-1",
-    "spentTokensToday": 44360,
+    "spentTokensToday": 0,
     "spentTokensTotal": 6589226,
     "spentUsdTotal": 131.65939694999997,
     "currentAssignmentId": null,
@@ -14629,7 +14629,7 @@
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 115150
+    "familySpentToday": 0
   },
   {
     "id": "ag_7kh2edojrr",
@@ -30179,7 +30179,7 @@
     "status": "idle",
     "activity": "Updating page \"Outreach: state and next channels\"",
     "model": "claude-fable-5-1",
-    "spentTokensToday": 53540,
+    "spentTokensToday": 0,
     "spentTokensTotal": 2212651,
     "spentUsdTotal": 42.106226,
     "currentAssignmentId": null,
@@ -30191,7 +30191,7 @@
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 101638
+    "familySpentToday": 0
   },
   {
     "id": "ag_ps45qff351",
@@ -63194,7 +63194,7 @@
     "status": "retired",
     "activity": "",
     "model": "claude-opus-5-5",
-    "spentTokensToday": 66649,
+    "spentTokensToday": 0,
     "spentTokensTotal": 66649,
     "spentUsdTotal": 1.3329805,
     "currentAssignmentId": null,
@@ -63225,7 +63225,7 @@
     "status": "retired",
     "activity": "",
     "model": "claude-opus-5-5",
-    "spentTokensToday": 99019,
+    "spentTokensToday": 0,
     "spentTokensTotal": 99019,
     "spentUsdTotal": 1.9803745000000001,
     "currentAssignmentId": null,
@@ -63256,7 +63256,7 @@
     "status": "retired",
     "activity": "",
     "model": "claude-opus-5-5",
-    "spentTokensToday": 45678,
+    "spentTokensToday": 0,
     "spentTokensTotal": 45678,
     "spentUsdTotal": 0.9135580999999999,
     "currentAssignmentId": null,
@@ -63287,7 +63287,7 @@
     "status": "retired",
     "activity": "",
     "model": "claude-opus-5-5",
-    "spentTokensToday": 97853,
+    "spentTokensToday": 0,
     "spentTokensTotal": 97853,
     "spentUsdTotal": 1.9570645999999996,
     "currentAssignmentId": null,
@@ -63318,7 +63318,7 @@
     "status": "retired",
     "activity": "",
     "model": "claude-opus-5-5",
-    "spentTokensToday": 48098,
+    "spentTokensToday": 0,
     "spentTokensTotal": 48098,
     "spentUsdTotal": 0.961963,
     "currentAssignmentId": null,
@@ -63349,7 +63349,7 @@
     "status": "retired",
     "activity": "",
     "model": "claude-opus-5-5",
-    "spentTokensToday": 70790,
+    "spentTokensToday": 0,
     "spentTokensTotal": 70790,
     "spentUsdTotal": 1.4157951000000002,
     "currentAssignmentId": null,
@@ -63380,7 +63380,7 @@
     "status": "retired",
     "activity": "",
     "model": "claude-opus-5-5",
-    "spentTokensToday": 64736,
+    "spentTokensToday": 0,
     "spentTokensTotal": 64736,
     "spentUsdTotal": 1.2947156000000002,
     "currentAssignmentId": null,
@@ -63391,6 +63391,37 @@
     "inheritsOwner": false,
     "deniedPermissions": [],
     "forkOf": "ag_imxsagd9cj",
+    "forkN": 1,
+    "familySpentToday": 0
+  },
+  {
+    "id": "ag_bsr0m91qta",
+    "name": "Kelly 1",
+    "kind": "resident",
+    "buildingId": "bl_hzjw0z0zlz",
+    "homeBuildingId": "bl_hzjw0z0zlz",
+    "ownerUserId": "us_1la74k332n",
+    "title": "",
+    "direction": "",
+    "sprite": 3,
+    "pos": {
+      "x": 118,
+      "y": 25
+    },
+    "status": "retired",
+    "activity": "",
+    "model": "claude-opus-5-5",
+    "spentTokensToday": 47204,
+    "spentTokensTotal": 47204,
+    "spentUsdTotal": 0.9440882,
+    "currentAssignmentId": null,
+    "currentMeetingId": null,
+    "createdAt": "2026-11-22T00:00:07.618Z",
+    "lastActiveAt": "2026-11-22T00:01:08.143Z",
+    "lastSeenAt": "2026-11-22T00:01:12.293Z",
+    "inheritsOwner": false,
+    "deniedPermissions": [],
+    "forkOf": "ag_s1n1xknj8n",
     "forkN": 1,
     "familySpentToday": 0
   }

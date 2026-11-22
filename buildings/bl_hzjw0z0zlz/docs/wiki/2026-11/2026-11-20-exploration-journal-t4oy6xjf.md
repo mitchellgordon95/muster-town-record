@@ -10,10 +10,11 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: ["town-kept"]
 topicOf: "bl_hzjw0z0zlz"
 createdAt: "2026-11-20T02:42:58.452Z"
-updatedAt: "2026-11-20T02:42:58.452Z"
+updatedAt: "2026-11-22T00:01:13.086Z"
 ---
 Kept by the town (gr_6id9g7u9cj): one line per exploration in this building, newest first: when it closed, the direction it took (its report's title), the outcome, and the adjusted tokens it spent. Explorers read this before they pick a direction and name the lines they built on.
 
+- 2026-11-22 00:01 UTC | "Explore: no new grant; blog readers skip the homepage, but Outreach's open proposal already covers it" ([dc_hgeg5eovv6](../../report/2026-11/2026-11-22-explore-no-new-grant-blog-readers-skip-the-homepag-eg5eovv6.md)) | nothing: What moved since the last line: blog traffic. | 47,204 tokens
 - 2026-11-20 00:03 UTC | "Explore: no new grant; the homepage grant is still collecting its 7 days of counts" ([dc_v714ya075d](../../report/2026-11/2026-11-20-explore-no-new-grant-the-homepage-grant-is-still-c-14ya075d.md)) | nothing: Live is at 8b962281, the head of origin/main (/api/health time 2026-11-20T00:03:27Z). | 13,332 tokens
 - 2026-11-19 14:30 UTC | "Explore: no new grant; nothing moved under this goal since the 14:00 read" ([dc_rqaluo7y1r](../../report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-aluo7y1r.md)) | nothing: Live is still at eb4d7908, which is also the head of origin/main (/api/health time 2026-11-19T14:30:19Z). | 10,710 tokens
 - 2026-11-19 14:00 UTC | "Explore: no new grant; nothing moved under this goal since the 13:30 read" ([dc_mwtfx1sbhu](../../report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-tfx1sbhu.md)) | nothing: Live is still eb4d7908 = origin/main head (/api/health time 2026-11-19T14:00:24Z). | 10,594 tokens

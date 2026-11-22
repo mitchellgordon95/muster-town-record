@@ -32119,5 +32119,14 @@
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
     "createdAt": "2026-11-21T01:00:34.813Z"
+  },
+  {
+    "id": "dc_hgeg5eovv6",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-22-explore-no-new-grant-blog-readers-skip-the-homepag-eg5eovv6.md",
+    "title": "Explore: no new grant; blog readers skip the homepage, but Outreach's open proposal already covers it",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-22T00:01:07.956Z"
   }
 ]
