@@ -32128,5 +32128,14 @@
     "state": "building",
     "buildingId": "bl_hzjw0z0zlz",
     "createdAt": "2026-11-22T00:01:07.956Z"
+  },
+  {
+    "id": "dc_i48s358mol",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-22-explore-no-new-grant-nothing-moved-since-the-00-01-8s358mol.md",
+    "title": "Explore: no new grant; nothing moved since the 00:01 read",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-22T01:00:28.011Z"
   }
 ]
