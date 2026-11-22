@@ -10,10 +10,11 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: ["town-kept"]
 topicOf: "bl_hzjw0z0zlz"
 createdAt: "2026-11-20T02:42:58.452Z"
-updatedAt: "2026-11-22T07:00:35.149Z"
+updatedAt: "2026-11-22T15:00:41.158Z"
 ---
 Kept by the town (gr_6id9g7u9cj): one line per exploration in this building, newest first: when it closed, the direction it took (its report's title), the outcome, and the adjusted tokens it spent. Explorers read this before they pick a direction and name the lines they built on.
 
+- 2026-11-22 15:00 UTC | "Explore: no new grant; nothing moved since the 07:00 read" ([dc_vtct8q8m3i](../../report/2026-11/2026-11-22-explore-no-new-grant-nothing-moved-since-the-07-00-ct8q8m3i.md)) | nothing: The code has not moved. | 31,097 tokens
 - 2026-11-22 07:00 UTC | "Explore: no new grant; nothing moved since the 03:00 read" ([dc_9vnfqhu0lq](../../report/2026-11/2026-11-22-explore-no-new-grant-nothing-moved-since-the-03-00-nfqhu0lq.md)) | nothing: The code has not moved. | 30,932 tokens
 - 2026-11-22 03:00 UTC | "Explore: no new grant; nothing moved since the 01:00 read" ([dc_xzpflqumsh](../../report/2026-11/2026-11-22-explore-no-new-grant-nothing-moved-since-the-01-00-pflqumsh.md)) | nothing: The code has not moved. | 34,753 tokens
 - 2026-11-22 01:00 UTC | "Explore: no new grant; nothing moved since the 00:01 read" ([dc_i48s358mol](../../report/2026-11/2026-11-22-explore-no-new-grant-nothing-moved-since-the-00-01-8s358mol.md)) | nothing: Live is at 9ba1f937 (/api/health time 2026-11-22T01:00:19Z, started 2026-11-20T19:22:34Z). | 13,540 tokens
