@@ -307,7 +307,7 @@
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 60744
+    "familySpentToday": 95497
   },
   {
     "id": "ag_8uq6fnjis4",
@@ -63450,6 +63450,37 @@
     "createdAt": "2026-11-22T01:00:03.746Z",
     "lastActiveAt": "2026-11-22T01:00:28.089Z",
     "lastSeenAt": "2026-11-22T01:00:31.495Z",
+    "inheritsOwner": false,
+    "deniedPermissions": [],
+    "forkOf": "ag_s1n1xknj8n",
+    "forkN": 1,
+    "familySpentToday": 0
+  },
+  {
+    "id": "ag_5qxw9n7q8d",
+    "name": "Kelly 1",
+    "kind": "resident",
+    "buildingId": "bl_hzjw0z0zlz",
+    "homeBuildingId": "bl_hzjw0z0zlz",
+    "ownerUserId": "us_1la74k332n",
+    "title": "",
+    "direction": "",
+    "sprite": 3,
+    "pos": {
+      "x": 118,
+      "y": 25
+    },
+    "status": "retired",
+    "activity": "",
+    "model": "claude-opus-5-5",
+    "spentTokensToday": 34753,
+    "spentTokensTotal": 34753,
+    "spentUsdTotal": 0.6950674,
+    "currentAssignmentId": null,
+    "currentMeetingId": null,
+    "createdAt": "2026-11-22T03:00:05.000Z",
+    "lastActiveAt": "2026-11-22T03:00:37.035Z",
+    "lastSeenAt": "2026-11-22T03:00:40.084Z",
     "inheritsOwner": false,
     "deniedPermissions": [],
     "forkOf": "ag_s1n1xknj8n",
