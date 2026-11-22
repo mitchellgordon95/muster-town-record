@@ -24,8 +24,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-30 [1:1: Mitchell and Nell — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-nell-notes-ln43k253.md) `dc_i2ln43k253` · Nell
 - 2026-10-27 [1:1: Mitchell and Nell — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-nell-notes-w5kittck.md) `dc_wjw5kittck` · Nell
 
-## note (20)
+## note (21)
 
+- 2026-11-22 [Findings: what limits spend when most credit expires (exploration cap binds, desks idle)](docs/note/2026-11/2026-11-22-findings-what-limits-spend-when-most-credit-expire-w1abz9xk.md) `dc_kmw1abz9xk` · Nell 2
 - 2026-11-21 [Findings: directed spend is a third of all spend and has no per-request view](docs/note/2026-11/2026-11-21-findings-directed-spend-is-a-third-of-all-spend-an-t98atdoo.md) `dc_v5t98atdoo` · Nell 1
 - 2026-11-20 [Findings: most subscription credit expires undrawn, and the Balance tab calls it a surplus](docs/note/2026-11/2026-11-20-findings-most-subscription-credit-expires-undrawn-qlcmbs5u.md) `dc_kmqlcmbs5u` · Nell 1
 - 2026-11-18 [Findings: half of last week's spend was managers deciding, and the Bank never says so (exploration as_3gtsnqls9v)](docs/note/2026-11/2026-11-18-findings-half-of-last-week-s-spend-was-managers-de-4fd08cdp.md) `dc_z24fd08cdp` · Nell 1
@@ -47,8 +48,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (269)
+## report (271)
 
+- 2026-11-22 [Directed spend by request: API, check:finance lines and "Asked for by humans" section in PR #550, parked to merge on green](docs/report/2026-11/2026-11-22-directed-spend-by-request-api-check-finance-lines-a3j7bkog.md) `dc_pwa3j7bkog` · Nell 1
+- 2026-11-22 [Exploration: proposed saying what held spending back each day (gr_6c24p5uy01)](docs/report/2026-11/2026-11-22-exploration-proposed-saying-what-held-spending-bac-2fq03hqi.md) `dc_ni2fq03hqi` · Nell 2
 - 2026-11-21 [Exploration: proposed showing what each human request cost (gr_k71b7b6px7)](docs/report/2026-11/2026-11-21-exploration-proposed-showing-what-each-human-reque-jhqrfe2o.md) `dc_tujhqrfe2o` · Nell 1
 - 2026-11-20 [Incoming credit unused is live and verified signed out; check:finance 76/76; all three key results claimable](docs/report/2026-11/2026-11-20-incoming-credit-unused-is-live-and-verified-signed-qnabg04w.md) `dc_qyqnabg04w` · Nell 1
 - 2026-11-20 [PR #537: merge conflict resolved, parked to merge on green](docs/report/2026-11/2026-11-20-pr-537-merge-conflict-resolved-parked-to-merge-on-2505mh8r.md) `dc_ql2505mh8r` · Nell 1
@@ -77,8 +80,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-10 [Non-grant spend by lane is live and verified; both key results claimed, grant ready to close](docs/report/2026-11/2026-11-10-non-grant-spend-by-lane-is-live-and-verified-both-mufhdi7d.md) `dc_2dmufhdi7d` · Nell 1
 - 2026-11-10 [PR #415 conflicted with main: merged main, pushed 339f311c, waiting on CI](docs/report/2026-11/2026-11-10-pr-415-conflicted-with-main-merged-main-pushed-339-d6d0zqk4.md) `dc_k9d6d0zqk4` · Nell 1
 - 2026-11-10 [PR #415 failed CI on unused exports; fixed and pushed, waiting on CI again](docs/report/2026-11/2026-11-10-pr-415-failed-ci-on-unused-exports-fixed-and-pushe-dwrcuuvm.md) `dc_p3dwrcuuvm` · Nell 1
-- 2026-11-10 [Non-grant spend split by lane: PR #415 open, waiting on CI](docs/report/2026-11/2026-11-10-non-grant-spend-split-by-lane-pr-415-open-waiting-4k06pbxn.md) `dc_lx4k06pbxn` · Nell 1
-- 2026-11-10 [Exploration: proposed gr_3na7vdmd52, which shows each grant step's spend against its S/M/L price](docs/report/2026-11/2026-11-10-exploration-proposed-gr-3na7vdmd52-which-shows-eac-g1oj2oy1.md) `dc_qmg1oj2oy1` · Nell 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -86,8 +87,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
 - 2026-10-29 [screenshot-live-town](docs/skill/2026-10/2026-10-29-screenshot-live-town-qgqqeqho.md) `dc_hzqgqqeqho` · Nell
 
-## wiki (28)
+## wiki (29)
 
+- 2026-11-22 [Directed spend by request (gr_k71b7b6px7): plan and state](docs/wiki/2026-11/2026-11-22-directed-spend-by-request-gr-k71b7b6px7-plan-and-s-wbc4x5z8.md) `dc_uowbc4x5z8` · Nell 1
 - 2026-11-20 [Exploration journal](docs/wiki/2026-11/2026-11-20-exploration-journal-hxxxuwzs.md) `dc_q1hxxxuwzs` · Nell
 - 2026-11-20 [Incoming credit unused (gr_z13gmx54su): plan and state](docs/wiki/2026-11/2026-11-20-incoming-credit-unused-gr-z13gmx54su-plan-and-stat-vmt8j3h9.md) `dc_vavmt8j3h9` · Nell 1
 - 2026-11-19 [Work vs coordination (gr_3ougmyubdm): plan and state](docs/wiki/2026-11/2026-11-19-work-vs-coordination-gr-3ougmyubdm-plan-and-state-jc90tjx6.md) `dc_upjc90tjx6` · Nell 1

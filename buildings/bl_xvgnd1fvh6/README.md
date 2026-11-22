@@ -16,8 +16,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 - 2026-10-21 [Brief: Secrets PR 1, scoped grants stored in the DB and managed at the Town Hall (for Dara)](docs/assignment-proposal/2026-10/2026-10-21-brief-secrets-pr-1-scoped-grants-stored-in-the-db-e6u6i7d2.md) `dc_6xe6u6i7d2` · Cleo
 
-## fyi (27)
+## fyi (28)
 
+- 2026-11-22 [RED redeploy failed 1 min ago (interrupted by a server restart, requested by prod branch): main is not live: re-run the redeploy, read the failed step's event output](docs/fyi/2026-11/2026-11-22-red-redeploy-failed-1-min-ago-interrupted-by-a-ser-u92z1cst.md) `dc_u9u92z1cst` · Town
 - 2026-11-21 [CLEARED YELLOW backup: last off-site backup 0.1 h ago](docs/fyi/2026-11/2026-11-21-cleared-yellow-backup-last-off-site-backup-0-1-h-a-bux39zyh.md) `dc_atbux39zyh` · Town
 - 2026-11-19 [CLEARED YELLOW backup: last off-site backup 0.1 h ago](docs/fyi/2026-11/2026-11-19-cleared-yellow-backup-last-off-site-backup-0-1-h-a-zi3zslch.md) `dc_egzi3zslch` · Town
 - 2026-11-15 [CLEARED RED redeploy-failed: redeploy failed 5 min ago: main is not live: re-run the redeploy, read the failed step's event output](docs/fyi/2026-11/2026-11-15-cleared-red-redeploy-failed-redeploy-failed-5-min-gmgb0lpt.md) `dc_pugmgb0lpt` · Town

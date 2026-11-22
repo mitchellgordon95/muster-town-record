@@ -10,10 +10,11 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: ["town-kept"]
 topicOf: "bl_vd69s5a1nh"
 createdAt: "2026-11-20T02:42:58.494Z"
-updatedAt: "2026-11-21T00:04:03.480Z"
+updatedAt: "2026-11-22T18:32:30.667Z"
 ---
 Kept by the town (gr_6id9g7u9cj): one line per exploration in this building, newest first: when it closed, the direction it took (its report's title), the outcome, and the adjusted tokens it spent. Explorers read this before they pick a direction and name the lines they built on.
 
+- 2026-11-22 18:32 UTC | "Proposed gr_3h504nqqdp: desk sessions survive an unclean server restart (one failed deploy cut 8, 571k tokens)" ([dc_2mj02mm58z](../../report/2026-11/2026-11-22-proposed-gr-3h504nqqdp-desk-sessions-survive-an-un-j02mm58z.md)) | proposed gr_3h504nqqdp "Desk sessions survive an unclean server restart" | 111,152 tokens
 - 2026-11-21 00:03 UTC | "Proposed gr_qg42b4guky: the town runs live checks after a deploy (14% of work sessions only check the live site)" ([dc_2du1nh3899](../../report/2026-11/2026-11-21-proposed-gr-qg42b4guky-the-town-runs-live-checks-a-u1nh3899.md)) | proposed gr_qg42b4guky "The town runs live checks after a deploy" | 97,853 tokens
 - 2026-11-20 00:03 UTC | "Proposed gr_6id9g7u9cj: the explore tick backs off after empty explorations (Onboarding looped 29× on 11-19)" ([dc_nllgamgxvb](../../report/2026-11/2026-11-20-proposed-gr-6id9g7u9cj-the-explore-tick-backs-off-lgamgxvb.md)) | proposed gr_6id9g7u9cj "Explore tick backs off and keeps a journal" | 62,172 tokens
 - 2026-11-19 00:04 UTC | "Proposed gr_rlt0ctnhqk: the town merges green PRs itself (36% of work sessions are merge-only)" ([dc_8zvfwxreid](../../report/2026-11/2026-11-19-proposed-gr-rlt0ctnhqk-the-town-merges-green-prs-i-vfwxreid.md)) | proposed gr_rlt0ctnhqk "The town merges green PRs itself" | 88,008 tokens

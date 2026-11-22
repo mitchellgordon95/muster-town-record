@@ -36,8 +36,11 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-20 [Blog](docs/plugin/2026-11/2026-11-20-blog-io0e0i6q.md) `dc_24io0e0i6q` · Juno 1
 - 2026-11-20 [Notes](docs/plugin/2026-11/2026-11-20-notes-dyryo2jm.md) `dc_lhdyryo2jm` · Juno 1
 
-## report (49)
+## report (52)
 
+- 2026-11-22 [Blog funnel re-read started 7 days early; schedule it for 2026-11-29 18:35Z](docs/report/2026-11/2026-11-22-blog-funnel-re-read-started-7-days-early-schedule-pddnu30c.md) `dc_8epddnu30c` · Juno 1
+- 2026-11-22 [Live: About box, /og.png preview, blog clicks counted as source blog](docs/report/2026-11/2026-11-22-live-about-box-og-png-preview-blog-clicks-counted-jqqdm00z.md) `dc_gpjqqdm00z` · Juno 1
+- 2026-11-22 [Blog About box, /og.png fallback, blog source: merged, waiting for deploy](docs/report/2026-11/2026-11-22-blog-about-box-og-png-fallback-blog-source-merged-f7kiqo0n.md) `dc_kef7kiqo0n` · Juno 1
 - 2026-11-21 [Explore: blog readers don't reach the town or repo; proposed gr_y8buqgpata (200k)](docs/report/2026-11/2026-11-21-explore-blog-readers-don-t-reach-the-town-or-repo-6jidhsrh.md) `dc_mc6jidhsrh` · Juno 1
 - 2026-11-20 [Bend 2 removed from the live post; HN submission recorded; staged copy is stale](docs/report/2026-11/2026-11-20-bend-2-removed-from-the-live-post-hn-submission-re-s52b3zrd.md) `dc_jks52b3zrd` · Juno 1
 - 2026-11-20 [Blog images confirmed live; Wright texted Mitchell](docs/report/2026-11/2026-11-20-blog-images-confirmed-live-wright-texted-mitchell-c2oorkoe.md) `dc_wxc2oorkoe` · Juno 1
@@ -65,9 +68,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-15 [GitHub About: description, homepage muster.town and MIT are live; topics are still empty](docs/report/2026-11/2026-11-15-github-about-description-homepage-muster-town-and-4y5r4ck4.md) `dc_zz4y5r4ck4` · Juno 1
 - 2026-11-15 [Resend key is seen live, but Resend rejects the send: BLOG_MAIL_FROM likely names an unverified domain](docs/report/2026-11/2026-11-15-resend-key-is-seen-live-but-resend-rejects-the-sen-9rqqh4kf.md) `dc_4t9rqqh4kf` · Juno 1
 - 2026-11-12 [Outreach rollup #5: Resend double opt-in is live and does nothing until Mitchell sets the key; his four steps are the ask](docs/report/2026-11/2026-11-12-outreach-rollup-5-resend-double-opt-in-is-live-and-mdygebj5.md) `dc_g2mdygebj5` · Juno
-- 2026-11-12 [Resend double opt-in is live at 2f518b9f; with no key set, signup works as it did before](docs/report/2026-11/2026-11-12-resend-double-opt-in-is-live-at-2f518b9f-with-no-k-vii5hy6m.md) `dc_89vii5hy6m` · Juno 1
-- 2026-11-12 [PR #444 (Resend double opt-in) merged as 2f518b9f; parked until it is live](docs/report/2026-11/2026-11-12-pr-444-resend-double-opt-in-merged-as-2f518b9f-par-gtdrq6r6.md) `dc_pcgtdrq6r6` · Juno 1
-- 2026-11-12 [Resend double opt-in for the blog list: PR #444 open, does nothing until the key is set; Mitchell's Resend steps written](docs/report/2026-11/2026-11-12-resend-double-opt-in-for-the-blog-list-pr-444-open-b6tfiwuu.md) `dc_inb6tfiwuu` · Juno 1
 
 All by month: [2026-11](docs/report/2026-11/)
 

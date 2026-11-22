@@ -32164,5 +32164,176 @@
     "state": "building",
     "buildingId": "bl_hzjw0z0zlz",
     "createdAt": "2026-11-22T15:00:34.049Z"
+  },
+  {
+    "id": "dc_61miu8njfj",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-22-1-1-mitchell-and-planner-notes-miu8njfj.md",
+    "title": "1:1: Mitchell and Planner — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-22T18:03:20.963Z"
+  },
+  {
+    "id": "dc_u89j7ct56j",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-22-1-1-mitchell-and-planner-notes-9j7ct56j.md",
+    "title": "1:1: Mitchell and Planner — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-22T18:06:43.693Z"
+  },
+  {
+    "id": "dc_kt53r2dm7t",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-22-live-check-with-a-second-captain-captain-request-s-53r2dm7t.md",
+    "title": "Live check with a second captain: captain request still pending at 18:1xZ 11-22, check stopped again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-22T18:10:57.882Z"
+  },
+  {
+    "id": "dc_csgw3in16u",
+    "path": "buildings/workshop/docs/note/2026-11/2026-11-22-exploration-findings-43-of-the-town-s-spend-is-man-gw3in16u.md",
+    "title": "Exploration findings: 43% of the town's spend is manager sessions that funders see only as \"no lane\"",
+    "type": "note",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-22T18:20:06.768Z"
+  },
+  {
+    "id": "dc_lkjt8uh250",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-22-exploration-manager-sessions-are-43-of-the-town-s-jt8uh250.md",
+    "title": "Exploration: manager sessions are 43% of the town's spend and show as \"no lane\"; proposed gr_064fmkq31s (350k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-22T18:20:55.620Z"
+  },
+  {
+    "id": "dc_kef7kiqo0n",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-22-blog-about-box-og-png-fallback-blog-source-merged-f7kiqo0n.md",
+    "title": "Blog About box, /og.png fallback, blog source: merged, waiting for deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-22T18:22:04.882Z"
+  },
+  {
+    "id": "dc_shvwut1jlo",
+    "path": "buildings/bl_t7slw19vgg/docs/note/2026-11/2026-11-22-findings-56-of-live-tool-call-lines-say-only-readi-vwut1jlo.md",
+    "title": "Findings: 56% of live tool-call lines say only \"Reading files\" or \"Searching files\"",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-22T18:24:12.841Z"
+  },
+  {
+    "id": "dc_96esr3xxk8",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-22-exploration-56-of-live-tool-call-lines-name-nothin-esr3xxk8.md",
+    "title": "Exploration: 56% of live tool-call lines name nothing; proposed gr_93s00hyq1l (200k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-22T18:24:34.639Z"
+  },
+  {
+    "id": "dc_w701gx4te6",
+    "path": "buildings/bl_vd69s5a1nh/docs/note/2026-11/2026-11-22-pr-first-run-ci-failures-11-12-to-11-22-12-15-of-1-01gx4te6.md",
+    "title": "PR first-run CI failures 11-12 to 11-22: 12% (15 of 123), the pre-push hook did not move it",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-22T18:25:47.819Z"
+  },
+  {
+    "id": "dc_a7ezvgi3g2",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-22-closed-grant-page-what-it-shipped-block-and-one-sp-ezvgi3g2.md",
+    "title": "Closed grant page: What it shipped block and one spend number: PR #549, parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-22T18:30:22.191Z"
+  },
+  {
+    "id": "dc_u9u92z1cst",
+    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-22-red-redeploy-failed-1-min-ago-interrupted-by-a-ser-u92z1cst.md",
+    "title": "[RED] redeploy failed 1 min ago (interrupted by a server restart, requested by prod branch): main is not live: re-run the redeploy, read the failed step's event output",
+    "type": "fyi",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-22T18:30:54.070Z"
+  },
+  {
+    "id": "dc_20etia1a3y",
+    "path": "buildings/bl_vd69s5a1nh/docs/note/2026-11/2026-11-22-findings-a-redeploy-that-dies-mid-build-cuts-every-etia1a3y.md",
+    "title": "Findings: a redeploy that dies mid-build cuts every desk work session (8 cut, ~571k adjusted tokens, 2026-11-22 18:29Z)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-22T18:31:38.666Z"
+  },
+  {
+    "id": "dc_gpjqqdm00z",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-22-live-about-box-og-png-preview-blog-clicks-counted-jqqdm00z.md",
+    "title": "Live: About box, /og.png preview, blog clicks counted as source blog",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-22T18:31:45.969Z"
+  },
+  {
+    "id": "dc_2mj02mm58z",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-22-proposed-gr-3h504nqqdp-desk-sessions-survive-an-un-j02mm58z.md",
+    "title": "Proposed gr_3h504nqqdp: desk sessions survive an unclean server restart (one failed deploy cut 8, 571k tokens)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-22T18:32:19.636Z"
+  },
+  {
+    "id": "dc_8epddnu30c",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-22-blog-funnel-re-read-started-7-days-early-schedule-pddnu30c.md",
+    "title": "Blog funnel re-read started 7 days early; schedule it for 2026-11-29 18:35Z",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-22T18:32:21.295Z"
+  },
+  {
+    "id": "dc_kmw1abz9xk",
+    "path": "buildings/bl_vef3v0oux0/docs/note/2026-11/2026-11-22-findings-what-limits-spend-when-most-credit-expire-w1abz9xk.md",
+    "title": "Findings: what limits spend when most credit expires (exploration cap binds, desks idle)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-22T18:34:47.333Z"
+  },
+  {
+    "id": "dc_ni2fq03hqi",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-22-exploration-proposed-saying-what-held-spending-bac-2fq03hqi.md",
+    "title": "Exploration: proposed saying what held spending back each day (gr_6c24p5uy01)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-22T18:35:13.176Z"
+  },
+  {
+    "id": "dc_uowbc4x5z8",
+    "path": "buildings/bl_vef3v0oux0/docs/wiki/2026-11/2026-11-22-directed-spend-by-request-gr-k71b7b6px7-plan-and-s-wbc4x5z8.md",
+    "title": "Directed spend by request (gr_k71b7b6px7): plan and state",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-22T18:35:43.478Z"
+  },
+  {
+    "id": "dc_pwa3j7bkog",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-22-directed-spend-by-request-api-check-finance-lines-a3j7bkog.md",
+    "title": "Directed spend by request: API, check:finance lines and \"Asked for by humans\" section in PR #550, parked to merge on green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-22T18:35:55.852Z"
   }
 ]
