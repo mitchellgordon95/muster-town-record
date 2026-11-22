@@ -18,7 +18,7 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 ## fyi (29)
 
-- 2026-11-22 [YELLOW live server 31 min behind prod (6 commits, live 167cf54, prod 5812ba6): CI's redeploy did not land; see deploy/README.md "Live behind prod"](docs/fyi/2026-11/2026-11-22-yellow-live-server-31-min-behind-prod-6-commits-li-lnql6blm.md) `dc_wplnql6blm` · Town
+- 2026-11-22 [RED live server 91 min behind prod (12 commits, live 167cf54, prod ae5fd33): CI's redeploy did not land; see deploy/README.md "Live behind prod"](docs/fyi/2026-11/2026-11-22-red-live-server-91-min-behind-prod-12-commits-live-lnql6blm.md) `dc_wplnql6blm` · Town
 - 2026-11-22 [RED redeploy failed 1 min ago (interrupted by a server restart, requested by prod branch): main is not live: re-run the redeploy, read the failed step's event output](docs/fyi/2026-11/2026-11-22-red-redeploy-failed-1-min-ago-interrupted-by-a-ser-u92z1cst.md) `dc_u9u92z1cst` · Town
 - 2026-11-21 [CLEARED YELLOW backup: last off-site backup 0.1 h ago](docs/fyi/2026-11/2026-11-21-cleared-yellow-backup-last-off-site-backup-0-1-h-a-bux39zyh.md) `dc_atbux39zyh` · Town
 - 2026-11-19 [CLEARED YELLOW backup: last off-site backup 0.1 h ago](docs/fyi/2026-11/2026-11-19-cleared-yellow-backup-last-off-site-backup-0-1-h-a-zi3zslch.md) `dc_egzi3zslch` · Town
@@ -104,8 +104,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (383)
+## report (385)
 
+- 2026-11-22 [Verify live: neither PR is live yet and midnight has not passed; parked until 00:10Z](docs/report/2026-11/2026-11-22-verify-live-neither-pr-is-live-yet-and-midnight-ha-lhzg26fr.md) `dc_rrlhzg26fr` · Cleo 1
+- 2026-11-22 [18:25Z redeploy death: server froze mid build (likely memory); the killed run also wedged every deploy (PR #561); proposed gr_xgr8j2f9ao](docs/report/2026-11/2026-11-22-18-25z-redeploy-death-server-froze-mid-build-likel-p8owphy8.md) `dc_7lp8owphy8` · Cleo 1
 - 2026-11-22 [Finance and goal spend read agents by column: PR #559 parked merge-when-green](docs/report/2026-11/2026-11-22-finance-and-goal-spend-read-agents-by-column-pr-55-1w31qmjm.md) `dc_3c1w31qmjm` · Cleo 1
 - 2026-11-22 [1:1 quiet clock and restart wake count only the human: PR #556 parked merge-when-green](docs/report/2026-11/2026-11-22-1-1-quiet-clock-and-restart-wake-count-only-the-hu-d3my87zo.md) `dc_5sd3my87zo` · Cleo 1
 - 2026-11-22 [Daily reset touches only agents with spend: PR #553 parked merge-when-green](docs/report/2026-11/2026-11-22-daily-reset-touches-only-agents-with-spend-pr-553-7vf87t12.md) `dc_zu7vf87t12` · Cleo 1
@@ -134,8 +136,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-17 [Deploy key live: health deploy block current, no false raise yet](docs/report/2026-11/2026-11-17-deploy-key-live-health-deploy-block-current-no-fal-32p1gezb.md) `dc_ae32p1gezb` · Cleo 1
 - 2026-11-17 [Server pulls its own deploys: PR #495 open, parked on CI](docs/report/2026-11/2026-11-17-server-pulls-its-own-deploys-pr-495-open-parked-on-6sr4xhbe.md) `dc_4s6sr4xhbe` · Cleo 1
 - 2026-11-17 [Deploy key live check: parked until b6a15d5f is live](docs/report/2026-11/2026-11-17-deploy-key-live-check-parked-until-b6a15d5f-is-liv-l8c4f9zz.md) `dc_bxl8c4f9zz` · Cleo 1
-- 2026-11-17 [PR #491 merged as b6a15d5f: deploy key step 1 done](docs/report/2026-11/2026-11-17-pr-491-merged-as-b6a15d5f-deploy-key-step-1-done-zon3s1qy.md) `dc_l2zon3s1qy` · Cleo 1
-- 2026-11-17 [Deploy key step 1: PR #491 open, parked on CI](docs/report/2026-11/2026-11-17-deploy-key-step-1-pr-491-open-parked-on-ci-533qpsjd.md) `dc_8v533qpsjd` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

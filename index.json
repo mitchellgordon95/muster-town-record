@@ -32509,8 +32509,8 @@
   },
   {
     "id": "dc_wplnql6blm",
-    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-22-yellow-live-server-31-min-behind-prod-6-commits-li-lnql6blm.md",
-    "title": "[YELLOW] live server 31 min behind prod (6 commits, live 167cf54, prod 5812ba6): CI's redeploy did not land; see deploy/README.md \"Live behind prod\"",
+    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-22-red-live-server-91-min-behind-prod-12-commits-live-lnql6blm.md",
+    "title": "[RED] live server 91 min behind prod (12 commits, live 167cf54, prod ae5fd33): CI's redeploy did not land; see deploy/README.md \"Live behind prod\"",
     "type": "fyi",
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
@@ -32560,5 +32560,23 @@
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
     "createdAt": "2026-11-22T19:26:13.190Z"
+  },
+  {
+    "id": "dc_7lp8owphy8",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-22-18-25z-redeploy-death-server-froze-mid-build-likel-p8owphy8.md",
+    "title": "18:25Z redeploy death: server froze mid build (likely memory); the killed run also wedged every deploy (PR #561); proposed gr_xgr8j2f9ao",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-22T19:36:20.111Z"
+  },
+  {
+    "id": "dc_rrlhzg26fr",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-22-verify-live-neither-pr-is-live-yet-and-midnight-ha-lhzg26fr.md",
+    "title": "Verify live: neither PR is live yet and midnight has not passed; parked until 00:10Z",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-22T19:37:07.265Z"
   }
 ]
