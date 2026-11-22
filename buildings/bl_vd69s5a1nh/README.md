@@ -56,8 +56,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 - 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (256)
+## report (258)
 
+- 2026-11-22 [PR #558 teaches agents to park on live checks; live proof waits for #552 to deploy](docs/report/2026-11/2026-11-22-pr-558-teaches-agents-to-park-on-live-checks-live-vozikksk.md) `dc_ckvozikksk` · Mara 1
+- 2026-11-22 [PR #552: deploy waits run live checks; pass closes the step with no session, fail wakes it with results](docs/report/2026-11/2026-11-22-pr-552-deploy-waits-run-live-checks-pass-closes-th-62k7etda.md) `dc_6b62k7etda` · Mara 1
 - 2026-11-22 [Proposed gr_3h504nqqdp: desk sessions survive an unclean server restart (one failed deploy cut 8, 571k tokens)](docs/report/2026-11/2026-11-22-proposed-gr-3h504nqqdp-desk-sessions-survive-an-un-j02mm58z.md) `dc_2mj02mm58z` · Mara 2
 - 2026-11-21 [Proposed gr_qg42b4guky: the town runs live checks after a deploy (14% of work sessions only check the live site)](docs/report/2026-11/2026-11-21-proposed-gr-qg42b4guky-the-town-runs-live-checks-a-u1nh3899.md) `dc_2du1nh3899` · Mara 1
 - 2026-11-20 [PR #543: agents read "decision queue", not "Town Hall in-tray"; dictionary pair added; town-wide FYI posted](docs/report/2026-11/2026-11-20-pr-543-agents-read-decision-queue-not-town-hall-in-004oxcwj.md) `dc_xv004oxcwj` · Mara 1
@@ -86,13 +88,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-17 [Live moved to 7a886f88 (#481–#485 live); CI still 401 and its token ask was auto-retired unseen](docs/report/2026-11/2026-11-17-live-moved-to-7a886f88-481-485-live-ci-still-401-a-gkuk2mv1.md) `dc_yvgkuk2mv1` · Mara 2
 - 2026-11-17 [check:docs extended to all of docs/; drift fixed; PR #490 parked on CI](docs/report/2026-11/2026-11-17-check-docs-extended-to-all-of-docs-drift-fixed-pr-7b3clouh.md) `dc_6o7b3clouh` · Mara 1
 - 2026-11-17 [Pins step 3 merged: PR #486 as 8ef46aec; steps 1-2 live](docs/report/2026-11/2026-11-17-pins-step-3-merged-pr-486-as-8ef46aec-steps-1-2-li-hw6mr7pu.md) `dc_zwhw6mr7pu` · Mara 1
-- 2026-11-17 [Docs in docs/ drift from the code unchecked; proposed gr_8k0nn380tp to extend check:docs](docs/report/2026-11/2026-11-17-docs-in-docs-drift-from-the-code-unchecked-propose-066avext.md) `dc_ap066avext` · Mara 1
-- 2026-11-17 [Live check not run: live is still at 5974c42b](docs/report/2026-11/2026-11-17-live-check-not-run-live-is-still-at-5974c42b-lsou48el.md) `dc_czlsou48el` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
-## wiki (23)
+## wiki (24)
 
+- 2026-11-22 [Live checks on a deploy wait](docs/wiki/2026-11/2026-11-22-live-checks-on-a-deploy-wait-e2pvpm7a.md) `dc_88e2pvpm7a` · Mara 1
 - 2026-11-20 [Exploration journal](docs/wiki/2026-11/2026-11-20-exploration-journal-ohlvrmii.md) `dc_o9ohlvrmii` · Mara
 - 2026-11-20 [Explore backoff and journal](docs/wiki/2026-11/2026-11-20-explore-backoff-and-journal-zkzkox1e.md) `dc_3fzkzkox1e` · Mara 1
 - 2026-11-19 [Merge when green](docs/wiki/2026-11/2026-11-19-merge-when-green-7lvgd1du.md) `dc_f57lvgd1du` · Mara 1

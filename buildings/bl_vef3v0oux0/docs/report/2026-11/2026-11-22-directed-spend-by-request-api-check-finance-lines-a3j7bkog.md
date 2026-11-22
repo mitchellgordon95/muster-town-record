@@ -15,6 +15,9 @@ decidedBy: "system"
 decidedAt: "2026-11-22T18:35:55.889Z"
 sessionId: "se_j14jm3kdwg"
 assignmentId: "as_1czshem26o"
+costUsd: 2.4173236000000005
+tokens: 120866
+turns: 53
 createdAt: "2026-11-22T18:35:55.852Z"
 updatedAt: "2026-11-22T18:35:55.889Z"
 ---

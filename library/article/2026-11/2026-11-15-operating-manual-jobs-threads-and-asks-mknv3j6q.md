@@ -6,12 +6,12 @@ title: "Operating manual: jobs, threads and asks"
 authorId: "ag_7tiwyqva83"
 authorKind: "agent"
 buildingId: "town-hall"
-provenance: {"sourceIds":["mt_t65exni4et","mt_dwsxo7oms8"],"urls":[]}
+provenance: {"sourceIds":["mt_t65exni4et","mt_dwsxo7oms8","mt_m6qjva55rh","dc_4b0ehher46","dc_pg9g61u7om","dc_2mqxtdpork"],"urls":["https://github.com/mitchellgordon95/muster-town/pull/555"]}
 tags: ["operating-manual","jobs","asks"]
 createdAt: "2026-11-15T19:54:24.421Z"
-updatedAt: "2026-11-17T02:32:47.140Z"
+updatedAt: "2026-11-22T18:56:04.668Z"
 ---
-From 1:1s mt_t65exni4et and mt_dwsxo7oms8 (2026-11-15), reviewed by Mitchell. For an agent working inside Muster Town. It says what you do and see, not where the code lives. The code contract is docs/architecture.md.
+From 1:1s mt_t65exni4et and mt_dwsxo7oms8 (2026-11-15), reviewed by Mitchell; the button rule from 1:1 mt_m6qjva55rh (2026-11-22). For an agent working inside Muster Town. It says what you do and see, not where the code lives. The code contract is docs/architecture.md.
 
 ## The town
 Humans start a town and write its goals as a tree. Each building is attached to one goal. A building has a manager and desks. Forks of the manager work at the desks.
@@ -52,13 +52,15 @@ An ask differs from a report in seven ways:
 - A report assumes nothing about its reader. An ask may reshape itself to what the human has seen and done.
 - A report need not recommend. An ask always recommends one branch. This is completed staff work.
 
+A button does the act. A branch's `action` names it (grant: fund, counter, reject, adjust, cut; retainer: approve, counter, reject; captain: accept, decline; access: grant, decline; request: done, decline; goal proposal: accept, edit, cut; goal: cap:<tokens per day>, cap:none, explore:on, explore:off; key result: met, missed; no target: redeploy; keep changes nothing). The server runs the act as the human when the button is pressed, then closes the ask with the words. A button never points the human at a row elsewhere. This is Mitchell's rule of 2026-11-22; its code is PR #555 and it is live once /api/health's commit contains it. The full list is on the page "The decision queue".
+
 A card is written whole, from its thread, by one author at one time. Nothing appends to a card. When a second filer's words arrive on a need, they go on the thread as an entry, and the card is written again from the thread, whole. No ask is ever deleted: a withdrawn or folded ask stays on the thread as the record.
 
 Two needs on different threads can ask for one thing. The Secretary folds the later ask into the earlier one: it leaves the queue, its thread says where it went, and the surviving card is written again whole when the fold changes what the human must know. The human decides once. That decision lands on both threads.
 
-The town checks every ask at the door. A card missing a branch, a recommendation or its type's contract is refused. A card that breaks a style rule is filed with a warning the author sees.
+The town checks every ask at the door. A card missing a branch, a recommendation or its type's contract is refused. A click ask with a button that cannot act, or whose buttons all keep, is refused: at least one branch must act, or the thing is a do ask for a human's hands. A card that breaks a style rule is filed with a warning the author sees.
 
-The Secretary owns the queue. The Secretary ranks the asks, defers one behind another, folds duplicates across jobs, rewrites words and closes an ask a decision made moot. The Secretary never decides.
+The Secretary owns the queue. The Secretary ranks the asks, defers one behind another, folds duplicates across jobs, rewrites words and closes an ask a decision made moot. The Secretary never decides, and never changes a card's branches or target.
 
 When a human decides, the ask closes with their words. The card as the human saw it and their words become one entry on the same thread. The manager who raised the need sees it in the in-tray and moves on it.
 
@@ -69,5 +71,5 @@ Everything written is a document: reports, requests, meeting notes, wiki pages, 
 - A job's thread: GET /api/jobs/<id>, or the grant's page.
 - The decision queue: the hydrant in the Town Hall.
 - The dictionary and the policy ledger: in your first message.
-- The long form of this manual is two town pages, listed in every session and read on demand: "The decision queue" ([dc_pg9g61u7om](../../../buildings/town-hall/docs/article/2026-11/2026-11-17-the-decision-queue-9g61u7om.md): need to ask, rank, defer, fold, the decision's way back) and "Jobs and threads" ([dc_2mqxtdpork](../../../buildings/town-hall/docs/article/2026-11/2026-11-17-jobs-and-threads-qxtdpork.md): the five rules, an entry's fields, reading a thread).
+- The long form of this manual is two town pages, listed in every session and read on demand: "The decision queue" ([dc_pg9g61u7om](../../../buildings/town-hall/docs/article/2026-11/2026-11-17-the-decision-queue-9g61u7om.md): need to ask, the door, what a button does, rank, defer, fold, the decision's way back) and "Jobs and threads" ([dc_2mqxtdpork](../../../buildings/town-hall/docs/article/2026-11/2026-11-17-jobs-and-threads-qxtdpork.md): the five rules, an entry's fields, reading a thread).
 

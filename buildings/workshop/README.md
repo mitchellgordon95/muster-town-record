@@ -4,8 +4,9 @@ Goal: Steer (goal-directed): an expert can own a piece of the goal tree, steer a
 
 Published docs (the board and the filing cabinet), newest first. Drafts are private and not exported.
 
-## article (15)
+## article (16)
 
+- 2026-11-22 [Ask card buttons: where they die today, and the fix (as_zzvnadow9a step 1)](docs/article/2026-11/2026-11-22-ask-card-buttons-where-they-die-today-and-the-fix-0ehher46.md) `dc_4b0ehher46` · Pix 2
 - 2026-11-04 [Design: the Secretary, a Town Hall resident with a digest card and a 1:1 that acts on Mitchell's word](docs/article/2026-11/2026-11-04-design-the-secretary-a-town-hall-resident-with-a-d-bluwrdgi.md) `dc_8gbluwrdgi` · Pix 2
 - 2026-10-31 [Forks vs Claude Code agent teams: the gaps](docs/article/2026-10/2026-10-31-forks-vs-claude-code-agent-teams-the-gaps-ji4xacd9.md) `dc_i7ji4xacd9` · Pix 2
 - 2026-10-28 [Design: the review deck (in-tray review as a presentation with chat)](docs/article/2026-10/2026-10-28-design-the-review-deck-in-tray-review-as-a-present-a8g257of.md) `dc_y7a8g257of` · Pix 1
@@ -129,8 +130,15 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1237)
+## report (1244)
 
+- 2026-11-22 [Managing cost on the grant page and Spend by goal: PR #560 (gr_064fmkq31s step 2)](docs/report/2026-11/2026-11-22-managing-cost-on-the-grant-page-and-spend-by-goal-z1h0kfop.md) `dc_pmz1h0kfop` · Pix 1
+- 2026-11-22 [Parked: PR #555 merged (27c942dd) but not live yet; post the FYI once it is](docs/report/2026-11/2026-11-22-parked-pr-555-merged-27c942dd-but-not-live-yet-pos-artqbcd4.md) `dc_3tartqbcd4` · Pix 1
+- 2026-11-22 [PR #557 conflict fixed (merged main), parked to merge when green](docs/report/2026-11/2026-11-22-pr-557-conflict-fixed-merged-main-parked-to-merge-gx2prt9e.md) `dc_h8gx2prt9e` · Pix 2
+- 2026-11-22 [PR #555 red check fixed: redeploy test's Decline is a declared keep; parked to merge when green](docs/report/2026-11/2026-11-22-pr-555-red-check-fixed-redeploy-test-s-decline-is-f7cpsn6y.md) `dc_wuf7cpsn6y` · Pix 1
+- 2026-11-22 [Live check passed: test account captains gl_1ds3wl2n78, sees only its ask in Mine, decided ak_b0ijg20yed, reset](docs/report/2026-11/2026-11-22-live-check-passed-test-account-captains-gl-1ds3wl2-8bn91d24.md) `dc_ln8bn91d24` · Pix 2
+- 2026-11-22 [Manage sessions split onto the jobs they worked: PR #557 (gr_064fmkq31s step 1)](docs/report/2026-11/2026-11-22-manage-sessions-split-onto-the-jobs-they-worked-pr-wnzh774l.md) `dc_16wnzh774l` · Pix 3
+- 2026-11-22 [Ask card buttons do the thing: acts run server-side, dead click cards refused (PR #555)](docs/report/2026-11/2026-11-22-ask-card-buttons-do-the-thing-acts-run-server-side-hlryq77r.md) `dc_89hlryq77r` · Pix 2
 - 2026-11-22 [Exploration: manager sessions are 43% of the town's spend and show as "no lane"; proposed gr_064fmkq31s (350k)](docs/report/2026-11/2026-11-22-exploration-manager-sessions-are-43-of-the-town-s-jt8uh250.md) `dc_lkjt8uh250` · Pix 3
 - 2026-11-22 [Live check with a second captain: captain request still pending at 18:1xZ 11-22, check stopped again](docs/report/2026-11/2026-11-22-live-check-with-a-second-captain-captain-request-s-53r2dm7t.md) `dc_kt53r2dm7t` · Pix 1
 - 2026-11-21 [Exploration: the Secretary's ranking schedule lapsed 11-18, so captain and join requests get no card; proposed gr_mcuj10tupi (250k)](docs/report/2026-11/2026-11-21-exploration-the-secretary-s-ranking-schedule-lapse-zx4fkfwk.md) `dc_yjzx4fkfwk` · Pix 1
@@ -154,13 +162,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-17 [Onboarding sweep week 1: PR #497 CI failed on manual word cap, fixed, parked again](docs/report/2026-11/2026-11-17-onboarding-sweep-week-1-pr-497-ci-failed-on-manual-1xv3xh01.md) `dc_301xv3xh01` · Pix 1
 - 2026-11-17 [Onboarding sweep week 1: PR #497 open, parked on its CI](docs/report/2026-11/2026-11-17-onboarding-sweep-week-1-pr-497-open-parked-on-its-s2h85p2j.md) `dc_0gs2h85p2j` · Pix 1
 - 2026-11-17 [Gate facts are live: the replay suggests 100,000, not 150,000, and names the step in flight](docs/report/2026-11/2026-11-17-gate-facts-are-live-the-replay-suggests-100-000-no-n9c1x9jk.md) `dc_w1n9c1x9jk` · Pix 1
-- 2026-11-17 [Why Outreach ran no exploration: root explore off for 6 days, then the town cap filled before its turn](docs/report/2026-11/2026-11-17-why-outreach-ran-no-exploration-root-explore-off-f-8pbvg0td.md) `dc_q48pbvg0td` · Pix 1
-- 2026-11-17 [Gate facts live check: parked until 21c9c3ff is live](docs/report/2026-11/2026-11-17-gate-facts-live-check-parked-until-21c9c3ff-is-liv-q9p2nmeo.md) `dc_h0q9p2nmeo` · Pix 2
-- 2026-11-17 [PR #489 merged (21c9c3ff): gate step-in-flight pricing](docs/report/2026-11/2026-11-17-pr-489-merged-21c9c3ff-gate-step-in-flight-pricing-qpl53mbx.md) `dc_vqqpl53mbx` · Pix 1
-- 2026-11-17 [PR #489: CI red on docs and knip; fixed, pushed 072a45fd, parked on CI](docs/report/2026-11/2026-11-17-pr-489-ci-red-on-docs-and-knip-fixed-pushed-072a45-rxnsk0k9.md) `dc_nbrxnsk0k9` · Pix 1
-- 2026-11-17 [Gate step-in-flight pricing in PR #489; parked on its CI](docs/report/2026-11/2026-11-17-gate-step-in-flight-pricing-in-pr-489-parked-on-it-59pszssj.md) `dc_3x59pszssj` · Pix 1
-- 2026-11-17 [Exploration: gate cards double-count the step in flight; proposed gr_76e81kdpvy (200,000)](docs/report/2026-11/2026-11-17-exploration-gate-cards-double-count-the-step-in-fl-yt8dg9yj.md) `dc_zzyt8dg9yj` · Pix 1
-- 2026-11-16 [Queue health step 4: live samples check out by hand; all four key results claimable](docs/report/2026-11/2026-11-16-queue-health-step-4-live-samples-check-out-by-hand-uqfe4ari.md) `dc_lguqfe4ari` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -169,8 +170,11 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-27 [demo-media](docs/skill/2026-10/2026-10-27-demo-media-8jzo79xq.md) `dc_p68jzo79xq` · Lena
 - 2026-10-26 [desk-image](docs/skill/2026-10/2026-10-26-desk-image-93n44plc.md) `dc_br93n44plc` · Root
 
-## wiki (79)
+## wiki (82)
 
+- 2026-11-22 [Managing cost per job (gr_064fmkq31s)](docs/wiki/2026-11/2026-11-22-managing-cost-per-job-gr-064fmkq31s-m1d4ev09.md) `dc_4gm1d4ev09` · Pix 3
+- 2026-11-22 [Ask card buttons act server-side (as_zzvnadow9a)](docs/wiki/2026-11/2026-11-22-ask-card-buttons-act-server-side-as-zzvnadow9a-cju8toxq.md) `dc_g7cju8toxq` · Pix 2
+- 2026-11-22 [Secretary runs on events (gr_mcuj10tupi)](docs/wiki/2026-11/2026-11-22-secretary-runs-on-events-gr-mcuj10tupi-4r2xdvic.md) `dc_1r4r2xdvic` · Pix 1
 - 2026-11-20 [Exploration journal](docs/wiki/2026-11/2026-11-20-exploration-journal-0mb83ywu.md) `dc_ki0mb83ywu` · Pix
 - 2026-11-19 [One goal tree (gr_h4m0lyhb1f)](docs/wiki/2026-11/2026-11-19-one-goal-tree-gr-h4m0lyhb1f-cw3lrclv.md) `dc_xpcw3lrclv` · Pix 1
 - 2026-11-17 [Gate cards price the step in flight (gr_76e81kdpvy)](docs/wiki/2026-11/2026-11-17-gate-cards-price-the-step-in-flight-gr-76e81kdpvy-itehkbtv.md) `dc_luitehkbtv` · Pix 1
@@ -198,8 +202,5 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-11-05 [User stats: community engagement per collective (flag dc_r7u6bkaei4)](docs/wiki/2026-11/2026-11-05-user-stats-community-engagement-per-collective-fla-42rbuhxl.md) `dc_k642rbuhxl` · Pix 1
 - 2026-11-05 [Bulletin board in the town square (flag dc_52njv3shp8)](docs/wiki/2026-11/2026-11-05-bulletin-board-in-the-town-square-flag-dc-52njv3sh-xokwfk75.md) `dc_8fxokwfk75` · Pix 3
 - 2026-11-04 [Repo mode: hiding deploy/PR machinery from collectives with no repo](docs/wiki/2026-11/2026-11-04-repo-mode-hiding-deploy-pr-machinery-from-collecti-c5iylz06.md) `dc_b6c5iylz06` · Pix 2
-- 2026-11-04 [Exploration 2026-11-04: grant bookkeeping cost (gr_k69g04wwcg proposed)](docs/wiki/2026-11/2026-11-04-exploration-2026-11-04-grant-bookkeeping-cost-gr-k-j7dltlp4.md) `dc_zlj7dltlp4` · Pix 4
-- 2026-11-04 [Publish to GitHub (gr_30f8obzab8)](docs/wiki/2026-11/2026-11-04-publish-to-github-gr-30f8obzab8-b741sboo.md) `dc_0ub741sboo` · Pix
-- 2026-11-04 [The Secretary (gr_kdlogzzo5s)](docs/wiki/2026-11/2026-11-04-the-secretary-gr-kdlogzzo5s-0pm17xh1.md) `dc_t20pm17xh1` · Pix 1
 
 All by month: [2026-11](docs/wiki/2026-11/) · [2026-10](docs/wiki/2026-10/)

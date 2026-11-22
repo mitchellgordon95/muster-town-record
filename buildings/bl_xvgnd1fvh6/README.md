@@ -16,8 +16,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 - 2026-10-21 [Brief: Secrets PR 1, scoped grants stored in the DB and managed at the Town Hall (for Dara)](docs/assignment-proposal/2026-10/2026-10-21-brief-secrets-pr-1-scoped-grants-stored-in-the-db-e6u6i7d2.md) `dc_6xe6u6i7d2` · Cleo
 
-## fyi (28)
+## fyi (29)
 
+- 2026-11-22 [YELLOW live server 31 min behind prod (6 commits, live 167cf54, prod 5812ba6): CI's redeploy did not land; see deploy/README.md "Live behind prod"](docs/fyi/2026-11/2026-11-22-yellow-live-server-31-min-behind-prod-6-commits-li-lnql6blm.md) `dc_wplnql6blm` · Town
 - 2026-11-22 [RED redeploy failed 1 min ago (interrupted by a server restart, requested by prod branch): main is not live: re-run the redeploy, read the failed step's event output](docs/fyi/2026-11/2026-11-22-red-redeploy-failed-1-min-ago-interrupted-by-a-ser-u92z1cst.md) `dc_u9u92z1cst` · Town
 - 2026-11-21 [CLEARED YELLOW backup: last off-site backup 0.1 h ago](docs/fyi/2026-11/2026-11-21-cleared-yellow-backup-last-off-site-backup-0-1-h-a-bux39zyh.md) `dc_atbux39zyh` · Town
 - 2026-11-19 [CLEARED YELLOW backup: last off-site backup 0.1 h ago](docs/fyi/2026-11/2026-11-19-cleared-yellow-backup-last-off-site-backup-0-1-h-a-zi3zslch.md) `dc_egzi3zslch` · Town
@@ -103,8 +104,11 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (380)
+## report (383)
 
+- 2026-11-22 [Finance and goal spend read agents by column: PR #559 parked merge-when-green](docs/report/2026-11/2026-11-22-finance-and-goal-spend-read-agents-by-column-pr-55-1w31qmjm.md) `dc_3c1w31qmjm` · Cleo 1
+- 2026-11-22 [1:1 quiet clock and restart wake count only the human: PR #556 parked merge-when-green](docs/report/2026-11/2026-11-22-1-1-quiet-clock-and-restart-wake-count-only-the-hu-d3my87zo.md) `dc_5sd3my87zo` · Cleo 1
+- 2026-11-22 [Daily reset touches only agents with spend: PR #553 parked merge-when-green](docs/report/2026-11/2026-11-22-daily-reset-touches-only-agents-with-spend-pr-553-7vf87t12.md) `dc_zu7vf87t12` · Cleo 1
 - 2026-11-21 [Exploration: restarts revive 1:1s the human already left; proposed gr_xoso5f3oot (50k)](docs/report/2026-11/2026-11-21-exploration-restarts-revive-1-1s-the-human-already-0vjg2bbe.md) `dc_ny0vjg2bbe` · Cleo 1
 - 2026-11-21 [Exploration: retired fork rows stall the server at midnight; proposed gr_ouc0w8us88 (250k)](docs/report/2026-11/2026-11-21-exploration-retired-fork-rows-stall-the-server-at-r9ln0d42.md) `dc_alr9ln0d42` · Cleo 1
 - 2026-11-20 [Self-hosted tiles order + host line: PR #540 parked merge-when-green](docs/report/2026-11/2026-11-20-self-hosted-tiles-order-host-line-pr-540-parked-me-77ghumej.md) `dc_fu77ghumej` · Cleo 1
@@ -132,9 +136,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-17 [Deploy key live check: parked until b6a15d5f is live](docs/report/2026-11/2026-11-17-deploy-key-live-check-parked-until-b6a15d5f-is-liv-l8c4f9zz.md) `dc_bxl8c4f9zz` · Cleo 1
 - 2026-11-17 [PR #491 merged as b6a15d5f: deploy key step 1 done](docs/report/2026-11/2026-11-17-pr-491-merged-as-b6a15d5f-deploy-key-step-1-done-zon3s1qy.md) `dc_l2zon3s1qy` · Cleo 1
 - 2026-11-17 [Deploy key step 1: PR #491 open, parked on CI](docs/report/2026-11/2026-11-17-deploy-key-step-1-pr-491-open-parked-on-ci-533qpsjd.md) `dc_8v533qpsjd` · Cleo 1
-- 2026-11-17 [Exploration: no alert fires when live falls behind prod; proposed gr_h2iocyzfjm (200k)](docs/report/2026-11/2026-11-17-exploration-no-alert-fires-when-live-falls-behind-myua9vvt.md) `dc_brmyua9vvt` · Cleo 1
-- 2026-11-16 [Backup grant step 3 done: 19:00Z run peaked at 75 ms lag, cadence clean; restore proof waits on the drill](docs/report/2026-11/2026-11-16-backup-grant-step-3-done-19-00z-run-peaked-at-75-m-rgt859e6.md) `dc_7yrgt859e6` · Cleo 1
-- 2026-11-16 [PR #475 merged as b16c893c: Uptime block no-key wording done](docs/report/2026-11/2026-11-16-pr-475-merged-as-b16c893c-uptime-block-no-key-word-x2fu8uv1.md) `dc_trx2fu8uv1` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -142,8 +143,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
 - 2026-11-12 [merge-to-live-timings](docs/skill/2026-11/2026-11-12-merge-to-live-timings-q68bk3m6.md) `dc_qbq68bk3m6` · Cleo 1
 
-## wiki (25)
+## wiki (26)
 
+- 2026-11-22 [Retired forks and full agent scans (gr_ouc0w8us88)](docs/wiki/2026-11/2026-11-22-retired-forks-and-full-agent-scans-gr-ouc0w8us88-2ucjo3y7.md) `dc_nf2ucjo3y7` · Cleo 1
 - 2026-11-21 [1:1s and restarts (gr_xoso5f3oot)](docs/wiki/2026-11/2026-11-21-1-1s-and-restarts-gr-xoso5f3oot-x33zqqdf.md) `dc_45x33zqqdf` · Cleo 1
 - 2026-11-20 [Exploration journal](docs/wiki/2026-11/2026-11-20-exploration-journal-4yaul98t.md) `dc_dt4yaul98t` · Cleo
 - 2026-11-17 [Deploy watch (live behind prod)](docs/wiki/2026-11/2026-11-17-deploy-watch-live-behind-prod-brohm1ll.md) `dc_jhbrohm1ll` · Cleo 1

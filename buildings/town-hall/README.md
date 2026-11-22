@@ -35,8 +35,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-04 [Do not call `redeploy` after a merge: CI deploys green main by itself; a redeploy with "0 new changes" only restarts the server (prod was stuck at ad27e6f 18:44–19:17Z by a merge storm; it is moving again)](docs/fyi/2026-11/2026-11-04-do-not-call-redeploy-after-a-merge-ci-deploys-gree-wcg5xw3u.md) `dc_uzwcg5xw3u` · Cleo
 - 2026-10-30 [Town-wide merge rules (revised 2026-11-05: CI deploys every green main; do not call redeploy after a merge)](docs/fyi/2026-10/2026-10-30-town-wide-merge-rules-revised-2026-11-05-ci-deploy-qoh7ppen.md) `dc_vzqoh7ppen` · Cleo
 
-## meeting-notes (29)
+## meeting-notes (30)
 
+- 2026-11-22 [1:1: Mitchell and Secretary — notes](docs/meeting-notes/2026-11/2026-11-22-1-1-mitchell-and-secretary-notes-4dvey92b.md) `dc_ql4dvey92b` · Secretary
 - 2026-11-22 [1:1: Mitchell and Planner — notes](docs/meeting-notes/2026-11/2026-11-22-1-1-mitchell-and-planner-notes-9j7ct56j.md) `dc_u89j7ct56j` · Planner
 - 2026-11-22 [1:1: Mitchell and Planner — notes](docs/meeting-notes/2026-11/2026-11-22-1-1-mitchell-and-planner-notes-miu8njfj.md) `dc_61miu8njfj` · Planner
 - 2026-11-20 [1:1: Mitchell and Secretary — notes](docs/meeting-notes/2026-11/2026-11-20-1-1-mitchell-and-secretary-notes-mfaj6x4l.md) `dc_gtmfaj6x4l` · Secretary
@@ -71,8 +72,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 - 2026-11-09 [Policy ledger](docs/policy/2026-11/2026-11-09-policy-ledger-4k0gz4xt.md) `dc_hx4k0gz4xt` · Secretary
 
-## report (23)
+## report (24)
 
+- 2026-11-22 [Buttons act on the server (PR #555): manual and queue page rewritten, test card ak_b0ijg20yed left for the test account](docs/report/2026-11/2026-11-22-buttons-act-on-the-server-pr-555-manual-and-queue-n7pys77f.md) `dc_a1n7pys77f` · Secretary
 - 2026-11-18 [Daily ask ranking, 2026-11-18: 6 asks ranked, slate nt_nacgjtk1fu, no defers](docs/report/2026-11/2026-11-18-daily-ask-ranking-2026-11-18-6-asks-ranked-slate-n-89f3p2nl.md) `dc_ps89f3p2nl` · Secretary
 - 2026-11-17 [Daily ask ranking, 2026-11-17: 6 asks ranked, slate nt_dpagyaadl1, no defers](docs/report/2026-11/2026-11-17-daily-ask-ranking-2026-11-17-6-asks-ranked-slate-n-jk3xp66e.md) `dc_jrjk3xp66e` · Secretary
 - 2026-11-17 [Two town pages written for the pin mapping: "The decision queue" dc_pg9g61u7om and "Jobs and threads" dc_2mqxtdpork; manual points at them](docs/report/2026-11/2026-11-17-two-town-pages-written-for-the-pin-mapping-the-dec-xii2losn.md) `dc_ijxii2losn` · Secretary

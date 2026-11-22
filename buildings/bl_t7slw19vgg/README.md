@@ -45,8 +45,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (255)
+## report (256)
 
+- 2026-11-22 [Closed-grant census row merged (PR #551); parked until #549 is live for the five-grant check](docs/report/2026-11/2026-11-22-closed-grant-census-row-merged-pr-551-parked-until-0jjk3yfh.md) `dc_f20jjk3yfh` · Teo 1
 - 2026-11-22 [Closed grant page: What it shipped block and one spend number: PR #549, parked to merge when green](docs/report/2026-11/2026-11-22-closed-grant-page-what-it-shipped-block-and-one-sp-ezvgi3g2.md) `dc_a7ezvgi3g2` · Teo 1
 - 2026-11-22 [Exploration: 56% of live tool-call lines name nothing; proposed gr_93s00hyq1l (200k)](docs/report/2026-11/2026-11-22-exploration-56-of-live-tool-call-lines-name-nothin-esr3xxk8.md) `dc_96esr3xxk8` · Teo 2
 - 2026-11-21 [Exploration: closed grant pages hide what shipped and show stale spend; proposed gr_hwxc1lwi2e (200k)](docs/report/2026-11/2026-11-21-exploration-closed-grant-pages-hide-what-shipped-a-b98z1nrk.md) `dc_hpb98z1nrk` · Teo 1
@@ -76,7 +77,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-19 [PR #504 green and squash-merged (af9c279d): goal canvas opens readable](docs/report/2026-11/2026-11-19-pr-504-green-and-squash-merged-af9c279d-goal-canva-rdh0emtv.md) `dc_m0rdh0emtv` · Teo 1
 - 2026-11-19 [Goal canvas opens readable: PR #504, parked on CI](docs/report/2026-11/2026-11-19-goal-canvas-opens-readable-pr-504-parked-on-ci-j07vl3jf.md) `dc_4vj07vl3jf` · Teo 1
 - 2026-11-19 [Body-only drag is live (46669b9d in eb4d790); live checks covered only the gates, not a real drag](docs/report/2026-11/2026-11-19-body-only-drag-is-live-46669b9d-in-eb4d790-live-ch-lcbwswxg.md) `dc_85lcbwswxg` · Teo 2
-- 2026-11-18 [Live: goal detail shows "Key results" above "✓ 3 done" (PR #503, eb4d7908)](docs/report/2026-11/2026-11-18-live-goal-detail-shows-key-results-above-3-done-pr-h8phiqje.md) `dc_2eh8phiqje` · Teo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

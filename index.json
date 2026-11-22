@@ -32335,5 +32335,230 @@
     "state": "building",
     "buildingId": "bl_vef3v0oux0",
     "createdAt": "2026-11-22T18:35:55.852Z"
+  },
+  {
+    "id": "dc_qm7knu7qej",
+    "path": "buildings/bl_vef3v0oux0/docs/wiki/2026-11/2026-11-22-what-held-spending-back-each-day-gr-6c24p5uy01-pla-7knu7qej.md",
+    "title": "What held spending back each day (gr_6c24p5uy01): plan and state",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-22T18:36:22.940Z"
+  },
+  {
+    "id": "dc_4b0ehher46",
+    "path": "buildings/workshop/docs/article/2026-11/2026-11-22-ask-card-buttons-where-they-die-today-and-the-fix-0ehher46.md",
+    "title": "Ask card buttons: where they die today, and the fix (as_zzvnadow9a step 1)",
+    "type": "article",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-22T18:37:53.188Z"
+  },
+  {
+    "id": "dc_1r4r2xdvic",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-22-secretary-runs-on-events-gr-mcuj10tupi-4r2xdvic.md",
+    "title": "Secretary runs on events (gr_mcuj10tupi)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-22T18:39:00.654Z"
+  },
+  {
+    "id": "dc_bi1go8oern",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-22-pr-550-image-job-flaked-empty-commit-pushed-to-ret-1go8oern.md",
+    "title": "PR #550: image job flaked; empty commit pushed to retrigger, parked to merge on green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-22T18:40:39.510Z"
+  },
+  {
+    "id": "dc_88e2pvpm7a",
+    "path": "buildings/bl_vd69s5a1nh/docs/wiki/2026-11/2026-11-22-live-checks-on-a-deploy-wait-e2pvpm7a.md",
+    "title": "Live checks on a deploy wait",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-22T18:42:15.895Z"
+  },
+  {
+    "id": "dc_6b62k7etda",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-22-pr-552-deploy-waits-run-live-checks-pass-closes-th-62k7etda.md",
+    "title": "PR #552: deploy waits run live checks; pass closes the step with no session, fail wakes it with results",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-22T18:42:28.838Z"
+  },
+  {
+    "id": "dc_nf2ucjo3y7",
+    "path": "buildings/bl_xvgnd1fvh6/docs/wiki/2026-11/2026-11-22-retired-forks-and-full-agent-scans-gr-ouc0w8us88-2ucjo3y7.md",
+    "title": "Retired forks and full agent scans (gr_ouc0w8us88)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-22T18:44:43.057Z"
+  },
+  {
+    "id": "dc_zu7vf87t12",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-22-daily-reset-touches-only-agents-with-spend-pr-553-7vf87t12.md",
+    "title": "Daily reset touches only agents with spend: PR #553 parked merge-when-green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-22T18:44:56.929Z"
+  },
+  {
+    "id": "dc_f20jjk3yfh",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-22-closed-grant-census-row-merged-pr-551-parked-until-0jjk3yfh.md",
+    "title": "Closed-grant census row merged (PR #551); parked until #549 is live for the five-grant check",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-22T18:48:44.638Z"
+  },
+  {
+    "id": "dc_ql4dvey92b",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-22-1-1-mitchell-and-secretary-notes-4dvey92b.md",
+    "title": "1:1: Mitchell and Secretary — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-22T18:50:42.187Z"
+  },
+  {
+    "id": "dc_8w3r0ghwb8",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-22-meeting-panel-cost-line-get-api-meetings-id-cost-a-3r0ghwb8.md",
+    "title": "Meeting panel cost line: GET /api/meetings/:id/cost and \"Work asked for here\" in PR #554, parked to merge on green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-22T18:51:56.330Z"
+  },
+  {
+    "id": "dc_g7cju8toxq",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-22-ask-card-buttons-act-server-side-as-zzvnadow9a-cju8toxq.md",
+    "title": "Ask card buttons act server-side (as_zzvnadow9a)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-22T18:52:31.178Z"
+  },
+  {
+    "id": "dc_5sd3my87zo",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-22-1-1-quiet-clock-and-restart-wake-count-only-the-hu-d3my87zo.md",
+    "title": "1:1 quiet clock and restart wake count only the human: PR #556 parked merge-when-green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-22T18:52:37.898Z"
+  },
+  {
+    "id": "dc_89hlryq77r",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-22-ask-card-buttons-do-the-thing-acts-run-server-side-hlryq77r.md",
+    "title": "Ask card buttons do the thing: acts run server-side, dead click cards refused (PR #555)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-22T18:52:47.013Z"
+  },
+  {
+    "id": "dc_a1n7pys77f",
+    "path": "buildings/town-hall/docs/report/2026-11/2026-11-22-buttons-act-on-the-server-pr-555-manual-and-queue-n7pys77f.md",
+    "title": "Buttons act on the server (PR #555): manual and queue page rewritten, test card ak_b0ijg20yed left for the test account",
+    "type": "report",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-22T18:57:24.579Z"
+  },
+  {
+    "id": "dc_4gm1d4ev09",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-22-managing-cost-per-job-gr-064fmkq31s-m1d4ev09.md",
+    "title": "Managing cost per job (gr_064fmkq31s)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-22T18:59:41.304Z"
+  },
+  {
+    "id": "dc_16wnzh774l",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-22-manage-sessions-split-onto-the-jobs-they-worked-pr-wnzh774l.md",
+    "title": "Manage sessions split onto the jobs they worked: PR #557 (gr_064fmkq31s step 1)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-22T18:59:56.333Z"
+  },
+  {
+    "id": "dc_ln8bn91d24",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-22-live-check-passed-test-account-captains-gl-1ds3wl2-8bn91d24.md",
+    "title": "Live check passed: test account captains gl_1ds3wl2n78, sees only its ask in Mine, decided ak_b0ijg20yed, reset",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-22T19:00:29.683Z"
+  },
+  {
+    "id": "dc_ckvozikksk",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-22-pr-558-teaches-agents-to-park-on-live-checks-live-vozikksk.md",
+    "title": "PR #558 teaches agents to park on live checks; live proof waits for #552 to deploy",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-22T19:01:22.575Z"
+  },
+  {
+    "id": "dc_wplnql6blm",
+    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-22-yellow-live-server-31-min-behind-prod-6-commits-li-lnql6blm.md",
+    "title": "[YELLOW] live server 31 min behind prod (6 commits, live 167cf54, prod 5812ba6): CI's redeploy did not land; see deploy/README.md \"Live behind prod\"",
+    "type": "fyi",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-22T19:05:54.173Z"
+  },
+  {
+    "id": "dc_wuf7cpsn6y",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-22-pr-555-red-check-fixed-redeploy-test-s-decline-is-f7cpsn6y.md",
+    "title": "PR #555 red check fixed: redeploy test's Decline is a declared keep; parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-22T19:10:08.473Z"
+  },
+  {
+    "id": "dc_h8gx2prt9e",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-22-pr-557-conflict-fixed-merged-main-parked-to-merge-gx2prt9e.md",
+    "title": "PR #557 conflict fixed (merged main), parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-22T19:14:31.351Z"
+  },
+  {
+    "id": "dc_3tartqbcd4",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-22-parked-pr-555-merged-27c942dd-but-not-live-yet-pos-artqbcd4.md",
+    "title": "Parked: PR #555 merged (27c942dd) but not live yet; post the FYI once it is",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-22T19:16:21.278Z"
+  },
+  {
+    "id": "dc_pmz1h0kfop",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-22-managing-cost-on-the-grant-page-and-spend-by-goal-z1h0kfop.md",
+    "title": "Managing cost on the grant page and Spend by goal: PR #560 (gr_064fmkq31s step 2)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-22T19:26:09.637Z"
+  },
+  {
+    "id": "dc_3c1w31qmjm",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-22-finance-and-goal-spend-read-agents-by-column-pr-55-1w31qmjm.md",
+    "title": "Finance and goal spend read agents by column: PR #559 parked merge-when-green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-22T19:26:13.190Z"
   }
 ]

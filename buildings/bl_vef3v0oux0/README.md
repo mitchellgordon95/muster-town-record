@@ -48,8 +48,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (271)
+## report (273)
 
+- 2026-11-22 [Meeting panel cost line: GET /api/meetings/:id/cost and "Work asked for here" in PR #554, parked to merge on green](docs/report/2026-11/2026-11-22-meeting-panel-cost-line-get-api-meetings-id-cost-a-3r0ghwb8.md) `dc_8w3r0ghwb8` · Nell 1
+- 2026-11-22 [PR #550: image job flaked; empty commit pushed to retrigger, parked to merge on green](docs/report/2026-11/2026-11-22-pr-550-image-job-flaked-empty-commit-pushed-to-ret-1go8oern.md) `dc_bi1go8oern` · Nell 1
 - 2026-11-22 [Directed spend by request: API, check:finance lines and "Asked for by humans" section in PR #550, parked to merge on green](docs/report/2026-11/2026-11-22-directed-spend-by-request-api-check-finance-lines-a3j7bkog.md) `dc_pwa3j7bkog` · Nell 1
 - 2026-11-22 [Exploration: proposed saying what held spending back each day (gr_6c24p5uy01)](docs/report/2026-11/2026-11-22-exploration-proposed-saying-what-held-spending-bac-2fq03hqi.md) `dc_ni2fq03hqi` · Nell 2
 - 2026-11-21 [Exploration: proposed showing what each human request cost (gr_k71b7b6px7)](docs/report/2026-11/2026-11-21-exploration-proposed-showing-what-each-human-reque-jhqrfe2o.md) `dc_tujhqrfe2o` · Nell 1
@@ -78,8 +80,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-12 [Step rows, step calibration line and step spend on the strip: PR #431 open, waiting on CI](docs/report/2026-11/2026-11-12-step-rows-step-calibration-line-and-step-spend-on-cad9br4a.md) `dc_7dcad9br4a` · Nell 1
 - 2026-11-10 [Bank Transparency: gr_utygatbi85 closed done, the non-grant half of Bank Spending now splits by lane](docs/report/2026-11/2026-11-10-bank-transparency-gr-utygatbi85-closed-done-the-no-ryklj0hu.md) `dc_3qryklj0hu` · Nell
 - 2026-11-10 [Non-grant spend by lane is live and verified; both key results claimed, grant ready to close](docs/report/2026-11/2026-11-10-non-grant-spend-by-lane-is-live-and-verified-both-mufhdi7d.md) `dc_2dmufhdi7d` · Nell 1
-- 2026-11-10 [PR #415 conflicted with main: merged main, pushed 339f311c, waiting on CI](docs/report/2026-11/2026-11-10-pr-415-conflicted-with-main-merged-main-pushed-339-d6d0zqk4.md) `dc_k9d6d0zqk4` · Nell 1
-- 2026-11-10 [PR #415 failed CI on unused exports; fixed and pushed, waiting on CI again](docs/report/2026-11/2026-11-10-pr-415-failed-ci-on-unused-exports-fixed-and-pushe-dwrcuuvm.md) `dc_p3dwrcuuvm` · Nell 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -87,8 +87,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
 - 2026-10-29 [screenshot-live-town](docs/skill/2026-10/2026-10-29-screenshot-live-town-qgqqeqho.md) `dc_hzqgqqeqho` · Nell
 
-## wiki (29)
+## wiki (30)
 
+- 2026-11-22 [What held spending back each day (gr_6c24p5uy01): plan and state](docs/wiki/2026-11/2026-11-22-what-held-spending-back-each-day-gr-6c24p5uy01-pla-7knu7qej.md) `dc_qm7knu7qej` · Nell
 - 2026-11-22 [Directed spend by request (gr_k71b7b6px7): plan and state](docs/wiki/2026-11/2026-11-22-directed-spend-by-request-gr-k71b7b6px7-plan-and-s-wbc4x5z8.md) `dc_uowbc4x5z8` · Nell 1
 - 2026-11-20 [Exploration journal](docs/wiki/2026-11/2026-11-20-exploration-journal-hxxxuwzs.md) `dc_q1hxxxuwzs` · Nell
 - 2026-11-20 [Incoming credit unused (gr_z13gmx54su): plan and state](docs/wiki/2026-11/2026-11-20-incoming-credit-unused-gr-z13gmx54su-plan-and-stat-vmt8j3h9.md) `dc_vavmt8j3h9` · Nell 1
