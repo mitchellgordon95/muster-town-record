@@ -19,7 +19,7 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 ## fyi (29)
 
 - 2026-11-22 [RED live server 451 min behind prod (12 commits, live 167cf54, prod ae5fd33): CI's redeploy did not land; see deploy/README.md "Live behind prod"](docs/fyi/2026-11/2026-11-22-red-live-server-451-min-behind-prod-12-commits-liv-lnql6blm.md) `dc_wplnql6blm` · Town
-- 2026-11-22 [RED redeploy failed 361 min ago (interrupted by a server restart, requested by prod branch): main is not live: re-run the redeploy, read the failed step's event output](docs/fyi/2026-11/2026-11-22-red-redeploy-failed-361-min-ago-interrupted-by-a-s-u92z1cst.md) `dc_u9u92z1cst` · Town
+- 2026-11-22 [RED redeploy failed 721 min ago (interrupted by a server restart, requested by prod branch): main is not live: re-run the redeploy, read the failed step's event output](docs/fyi/2026-11/2026-11-22-red-redeploy-failed-721-min-ago-interrupted-by-a-s-u92z1cst.md) `dc_u9u92z1cst` · Town
 - 2026-11-21 [CLEARED YELLOW backup: last off-site backup 0.1 h ago](docs/fyi/2026-11/2026-11-21-cleared-yellow-backup-last-off-site-backup-0-1-h-a-bux39zyh.md) `dc_atbux39zyh` · Town
 - 2026-11-19 [CLEARED YELLOW backup: last off-site backup 0.1 h ago](docs/fyi/2026-11/2026-11-19-cleared-yellow-backup-last-off-site-backup-0-1-h-a-zi3zslch.md) `dc_egzi3zslch` · Town
 - 2026-11-15 [CLEARED RED redeploy-failed: redeploy failed 5 min ago: main is not live: re-run the redeploy, read the failed step's event output](docs/fyi/2026-11/2026-11-15-cleared-red-redeploy-failed-redeploy-failed-5-min-gmgb0lpt.md) `dc_pugmgb0lpt` · Town
