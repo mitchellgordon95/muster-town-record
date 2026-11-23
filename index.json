@@ -32257,8 +32257,8 @@
   },
   {
     "id": "dc_u9u92z1cst",
-    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-22-red-redeploy-failed-1-min-ago-interrupted-by-a-ser-u92z1cst.md",
-    "title": "[RED] redeploy failed 1 min ago (interrupted by a server restart, requested by prod branch): main is not live: re-run the redeploy, read the failed step's event output",
+    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-22-red-redeploy-failed-361-min-ago-interrupted-by-a-s-u92z1cst.md",
+    "title": "[RED] redeploy failed 361 min ago (interrupted by a server restart, requested by prod branch): main is not live: re-run the redeploy, read the failed step's event output",
     "type": "fyi",
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
@@ -32578,5 +32578,59 @@
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
     "createdAt": "2026-11-22T19:37:07.265Z"
+  },
+  {
+    "id": "dc_troskimw79",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-23-exploration-cap-check-100-000-tokens-day-is-saved-oskimw79.md",
+    "title": "Exploration cap check: 100,000 tokens/day is saved on the Onboarding goal (set by Mitchell 18:19:29Z)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-23T00:00:47.176Z"
+  },
+  {
+    "id": "dc_w5hqe5lnao",
+    "path": "buildings/bl_6ifesdbah3/docs/note/2026-11/2026-11-23-explore-2026-11-23-hooks-goal-has-no-list-and-no-t-hqe5lnao.md",
+    "title": "Explore 2026-11-23: Hooks goal has no list and no test; blog traffic does not reach the town",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-23T00:01:37.407Z"
+  },
+  {
+    "id": "dc_495dvh2o9w",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-23-explore-hooks-and-segment-test-goals-have-no-work-5dvh2o9w.md",
+    "title": "Explore: Hooks and segment-test goals have no work; proposed gr_lnv1ofetbu (400k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-23T00:02:21.211Z"
+  },
+  {
+    "id": "dc_yufcsixc8z",
+    "path": "buildings/workshop/docs/note/2026-11/2026-11-23-exploration-2026-11-23-two-in-three-grants-hold-at-fcsixc8z.md",
+    "title": "Exploration 2026-11-23: two in three grants hold at their ceiling and the Planner's calibration is off",
+    "type": "note",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-23T00:03:37.729Z"
+  },
+  {
+    "id": "dc_n5q37e4726",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-23-exploration-two-in-three-grants-hold-at-their-ceil-q37e4726.md",
+    "title": "Exploration: two in three grants hold at their ceiling and the calibration loop is off; proposed gr_1ilvotnzta (250k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-23T00:04:25.841Z"
+  },
+  {
+    "id": "dc_94x02ublgq",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-23-pr-559-reviewed-no-output-difference-found-live-st-x02ublgq.md",
+    "title": "PR #559 reviewed: no output difference found; live still pre-merge, before-numbers recorded",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-23T00:08:33.700Z"
   }
 ]

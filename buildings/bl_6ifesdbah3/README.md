@@ -21,8 +21,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-17 [1:1: Mitchell and Juno — notes](docs/meeting-notes/2026-11/2026-11-17-1-1-mitchell-and-juno-notes-6f5vsx4k.md) `dc_8u6f5vsx4k` · Juno
 - 2026-11-05 [1:1: Mitchell and Juno — notes](docs/meeting-notes/2026-11/2026-11-05-1-1-mitchell-and-juno-notes-6itg9v6o.md) `dc_ka6itg9v6o` · Juno
 
-## note (7)
+## note (8)
 
+- 2026-11-23 [Explore 2026-11-23: Hooks goal has no list and no test; blog traffic does not reach the town](docs/note/2026-11/2026-11-23-explore-2026-11-23-hooks-goal-has-no-list-and-no-t-hqe5lnao.md) `dc_w5hqe5lnao` · Juno 1
 - 2026-11-21 [Explore: blog readers don't reach the town or the repo (238 reads, ~8 home views, 0 stars)](docs/note/2026-11/2026-11-21-explore-blog-readers-don-t-reach-the-town-or-the-r-4tn9u7p1.md) `dc_dl4tn9u7p1` · Juno 1
 - 2026-11-20 [Staged for approval: "Engineering Human Oversight With Decision Queues" with two diagrams](docs/note/2026-11/2026-11-20-staged-for-approval-engineering-human-oversight-wi-ge00czbq.md) `dc_duge00czbq` · Juno 1
 - 2026-11-20 [Findings: the town can't tell which channel brought a visitor, and blog reads aren't counted](docs/note/2026-11/2026-11-20-findings-the-town-can-t-tell-which-channel-brought-ehu4prlt.md) `dc_ygehu4prlt` · Juno 1
@@ -36,8 +37,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-20 [Blog](docs/plugin/2026-11/2026-11-20-blog-io0e0i6q.md) `dc_24io0e0i6q` · Juno 1
 - 2026-11-20 [Notes](docs/plugin/2026-11/2026-11-20-notes-dyryo2jm.md) `dc_lhdyryo2jm` · Juno 1
 
-## report (52)
+## report (53)
 
+- 2026-11-23 [Explore: Hooks and segment-test goals have no work; proposed gr_lnv1ofetbu (400k)](docs/report/2026-11/2026-11-23-explore-hooks-and-segment-test-goals-have-no-work-5dvh2o9w.md) `dc_495dvh2o9w` · Juno 1
 - 2026-11-22 [Blog funnel re-read started 7 days early; schedule it for 2026-11-29 18:35Z](docs/report/2026-11/2026-11-22-blog-funnel-re-read-started-7-days-early-schedule-pddnu30c.md) `dc_8epddnu30c` · Juno 1
 - 2026-11-22 [Live: About box, /og.png preview, blog clicks counted as source blog](docs/report/2026-11/2026-11-22-live-about-box-og-png-preview-blog-clicks-counted-jqqdm00z.md) `dc_gpjqqdm00z` · Juno 1
 - 2026-11-22 [Blog About box, /og.png fallback, blog source: merged, waiting for deploy](docs/report/2026-11/2026-11-22-blog-about-box-og-png-fallback-blog-source-merged-f7kiqo0n.md) `dc_kef7kiqo0n` · Juno 1
@@ -67,7 +69,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-15 [Retest after BLOG_MAIL_FROM change: Resend still refuses the confirmation mail (HTTP 500)](docs/report/2026-11/2026-11-15-retest-after-blog-mail-from-change-resend-still-re-jdjqvg90.md) `dc_bqjdjqvg90` · Juno 1
 - 2026-11-15 [GitHub About: description, homepage muster.town and MIT are live; topics are still empty](docs/report/2026-11/2026-11-15-github-about-description-homepage-muster-town-and-4y5r4ck4.md) `dc_zz4y5r4ck4` · Juno 1
 - 2026-11-15 [Resend key is seen live, but Resend rejects the send: BLOG_MAIL_FROM likely names an unverified domain](docs/report/2026-11/2026-11-15-resend-key-is-seen-live-but-resend-rejects-the-sen-9rqqh4kf.md) `dc_4t9rqqh4kf` · Juno 1
-- 2026-11-12 [Outreach rollup #5: Resend double opt-in is live and does nothing until Mitchell sets the key; his four steps are the ask](docs/report/2026-11/2026-11-12-outreach-rollup-5-resend-double-opt-in-is-live-and-mdygebj5.md) `dc_g2mdygebj5` · Juno
 
 All by month: [2026-11](docs/report/2026-11/)
 

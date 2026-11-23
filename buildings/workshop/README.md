@@ -95,8 +95,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-notes/2026-10/)
 
-## note (43)
+## note (44)
 
+- 2026-11-23 [Exploration 2026-11-23: two in three grants hold at their ceiling and the Planner's calibration is off](docs/note/2026-11/2026-11-23-exploration-2026-11-23-two-in-three-grants-hold-at-fcsixc8z.md) `dc_yufcsixc8z` · Pix 1
 - 2026-11-22 [Exploration findings: 43% of the town's spend is manager sessions that funders see only as "no lane"](docs/note/2026-11/2026-11-22-exploration-findings-43-of-the-town-s-spend-is-man-gw3in16u.md) `dc_csgw3in16u` · Pix 3
 - 2026-11-21 [Exploration 2026-11-21: the Secretary's ranking schedule lapsed 11-18, so captain and access requests get no card](docs/note/2026-11/2026-11-21-exploration-2026-11-21-the-secretary-s-ranking-sch-ws2dhugo.md) `dc_n7ws2dhugo` · Pix 1
 - 2026-11-20 [Exploration 2026-11-20: a captain can't decide most asks in their own subtree](docs/note/2026-11/2026-11-20-exploration-2026-11-20-a-captain-can-t-decide-most-0v7qai7v.md) `dc_7g0v7qai7v` · Pix 1
@@ -126,12 +127,12 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 - 2026-10-28 [Topic page draft: Objectives, key results and KPIs (code)](docs/note/2026-10/2026-10-28-topic-page-draft-objectives-key-results-and-kpis-c-y3fulqce.md) `dc_fby3fulqce` · Lena
 - 2026-10-28 [Topic page text: Grants, key results and the Town Hall in-tray](docs/note/2026-10/2026-10-28-topic-page-text-grants-key-results-and-the-town-ha-cfa3vw0n.md) `dc_mucfa3vw0n` · Root
 - 2026-10-28 [Topic page draft: Visitor agent reports](docs/note/2026-10/2026-10-28-topic-page-draft-visitor-agent-reports-ze61yw8i.md) `dc_dnze61yw8i` · Lena
-- 2026-10-28 [Topic page draft: Session transcripts and who can read agent memory](docs/note/2026-10/2026-10-28-topic-page-draft-session-transcripts-and-who-can-r-kvgp14rq.md) `dc_49kvgp14rq` · Lena
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1244)
+## report (1245)
 
+- 2026-11-23 [Exploration: two in three grants hold at their ceiling and the calibration loop is off; proposed gr_1ilvotnzta (250k)](docs/report/2026-11/2026-11-23-exploration-two-in-three-grants-hold-at-their-ceil-q37e4726.md) `dc_n5q37e4726` · Pix 1
 - 2026-11-22 [Managing cost on the grant page and Spend by goal: PR #560 (gr_064fmkq31s step 2)](docs/report/2026-11/2026-11-22-managing-cost-on-the-grant-page-and-spend-by-goal-z1h0kfop.md) `dc_pmz1h0kfop` · Pix 1
 - 2026-11-22 [Parked: PR #555 merged (27c942dd) but not live yet; post the FYI once it is](docs/report/2026-11/2026-11-22-parked-pr-555-merged-27c942dd-but-not-live-yet-pos-artqbcd4.md) `dc_3tartqbcd4` · Pix 1
 - 2026-11-22 [PR #557 conflict fixed (merged main), parked to merge when green](docs/report/2026-11/2026-11-22-pr-557-conflict-fixed-merged-main-parked-to-merge-gx2prt9e.md) `dc_h8gx2prt9e` · Pix 2
@@ -161,7 +162,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-17 [Onboarding sweep week 1 done: PR #497 merged as 67dd6a73, lag 0 h](docs/report/2026-11/2026-11-17-onboarding-sweep-week-1-done-pr-497-merged-as-67dd-6ointzs1.md) `dc_ox6ointzs1` · Pix 1
 - 2026-11-17 [Onboarding sweep week 1: PR #497 CI failed on manual word cap, fixed, parked again](docs/report/2026-11/2026-11-17-onboarding-sweep-week-1-pr-497-ci-failed-on-manual-1xv3xh01.md) `dc_301xv3xh01` · Pix 1
 - 2026-11-17 [Onboarding sweep week 1: PR #497 open, parked on its CI](docs/report/2026-11/2026-11-17-onboarding-sweep-week-1-pr-497-open-parked-on-its-s2h85p2j.md) `dc_0gs2h85p2j` · Pix 1
-- 2026-11-17 [Gate facts are live: the replay suggests 100,000, not 150,000, and names the step in flight](docs/report/2026-11/2026-11-17-gate-facts-are-live-the-replay-suggests-100-000-no-n9c1x9jk.md) `dc_w1n9c1x9jk` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
