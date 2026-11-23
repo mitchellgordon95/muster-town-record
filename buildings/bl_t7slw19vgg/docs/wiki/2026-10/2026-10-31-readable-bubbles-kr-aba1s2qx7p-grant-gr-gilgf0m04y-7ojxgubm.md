@@ -10,18 +10,12 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_t7slw19vgg"
 createdAt: "2026-10-31T20:52:30.432Z"
-updatedAt: "2026-10-31T21:48:27.357Z"
+updatedAt: "2026-11-23T16:46:20.115Z"
 ---
 Goal: every map bubble is fully on screen, covers no other bubble, and is in plain words. Baseline: [dc_ycvjogelnw](../../note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md). Sampler skill: [dc_6ph9yywhfl](../../skill/2026-10/2026-10-31-map-bubble-sampler-h9yywhfl.md).
 
-**Verified live 2026-10-31 (server a10095d, which contains step 1 63ed49e and step 2 36a8a86):** sampler as a guest, 2 runs, 23 samples per size, 4 s apart.
-- 390×844: 32 agent bubbles; 0 cut at the edge, 0 under `.hud`/`.minimap`, 0 overlapping, 0 raw commands.
-- 1280×720: 44 agent bubbles; 0 / 0 / 0 / 0.
-- Mock-mode check from step 1 (agents placed close together): 73 bubble draws, 0 violations.
-- One path leak seen: "Writing packages/server/src/backup/restore.ts". Fixed in PR #207 (merged b68c4ed): Read/Write/Edit bubbles show the file name only. Redeploy queued; not yet seen live.
+**Layout, verified live 2026-10-31 (server a10095d):** 390×844 and 1280×720, 0 bubbles cut at the edge, under `.hud`/`.minimap`, overlapping or raw. `layoutBubbles` (web `map/overlay.ts`) places each bubble every frame.
 
-**How it works:** `layoutBubbles` (web `map/overlay.ts`) places every bubble each frame inside the visible canvas, off `.hud`/`.minimap`, off earlier bubbles; the tail wedge points back at the agent. Text comes from runtime `describe.ts` (unit test `describe.test.ts`).
+**Words (2026-11-23, grant gr_93s00hyq1l, topic page [dc_20hbau9n0v](../2026-11/2026-11-23-tool-call-lines-name-what-they-touch-gr-93s00hyq1l-hbau9n0v.md)).** Bubble and Talk text come from runtime `describe.ts` (tests `describe.test.ts`, 160-command fixture `test/fixtures/bash-commands.json`). A tool line names the file's own name or a cleaned search term, never a folder, a slash, NAME=value or `$VAR` (`LEAK` in describe.ts); an API route reads "jobs API route". Live after PR #563 (c95dbd02): 4.9% of 203 lines generic, 1 leak from a Grep-tool line that PR #572 fixes. Census: `node scripts/tool-label-census.mjs --since=<deploy startedAt>`.
 
-**Not covered by this KR:** the plaza goal sign text (same 11 px font) is cut at the phone's left edge and sits under the HUD card. That's a sign, not a bubble; it falls under kr_c3c7651d18 ("no map sign is hidden", grant gr_ukrou4zjha). Bubbles may also cover name labels. The sampler counts sign lines as bubbles, so filter them out by text.
-
-Sampler v2 with the HUD check is at /home/agent/skills/bub/bub2.mjs on Teo 1's desk (a cache; the logic is the skill's plus a `.hud, .minimap` rect intersect).
+**Not covered:** plaza goal sign text is cut on a phone (a sign, kr_c3c7651d18). Bubbles may cover name labels. The sampler counts sign lines as bubbles; filter by text.

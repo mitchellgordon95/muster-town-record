@@ -58,8 +58,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (266)
+## report (268)
 
+- 2026-11-23 [PR #579 hit a known flaky timing test; merged main in to rerun; kr_ky260b3xlu needs 5 green main runs (none yet)](docs/report/2026-11/2026-11-23-pr-579-hit-a-known-flaky-timing-test-merged-main-i-ahcv89um.md) `dc_suahcv89um` · Mara 1
+- 2026-11-23 [PR #579: weekly audit fails on dev advisories too; throwaway #580 proved it; parked merge-when-green](docs/report/2026-11/2026-11-23-pr-579-weekly-audit-fails-on-dev-advisories-too-th-adieq14q.md) `dc_40adieq14q` · Mara 1
 - 2026-11-23 [PR #574: vitest 5.1.1, happy-dom 21.0.4, npm audit 9 → 0; parked merge-when-green](docs/report/2026-11/2026-11-23-pr-574-vitest-5-1-1-happy-dom-21-0-4-npm-audit-9-0-k0txdjx8.md) `dc_ydk0txdjx8` · Mara 1
 - 2026-11-23 [Step 2 cannot measure yet: PR #564 merged 16:25 UTC, not live; schedule the 7-day count](docs/report/2026-11/2026-11-23-step-2-cannot-measure-yet-pr-564-merged-16-25-utc-vowuv2gl.md) `dc_63vowuv2gl` · Mara 1
 - 2026-11-23 [Step 3 cannot measure yet; scheduled for 2026-11-30 (sc_0p8ntix25h)](docs/report/2026-11/2026-11-23-step-3-cannot-measure-yet-scheduled-for-2026-11-30-qc1iwm1f.md) `dc_iuqc1iwm1f` · Mara 1
@@ -88,8 +90,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-18 [PR #501 merged: a grant's deciding event retires only its money asks (4b2383a3)](docs/report/2026-11/2026-11-18-pr-501-merged-a-grant-s-deciding-event-retires-onl-zddjtfhn.md) `dc_jszddjtfhn` · Mara 1
 - 2026-11-18 [Decisions that name only a building queue now queue work; PR #502 parked on CI](docs/report/2026-11/2026-11-18-decisions-that-name-only-a-building-queue-now-queu-opgpp5un.md) `dc_uqopgpp5un` · Mara 2
 - 2026-11-18 [PR #501: a grant's deciding event retires only its money asks; parked on CI](docs/report/2026-11/2026-11-18-pr-501-a-grant-s-deciding-event-retires-only-its-m-863oxeip.md) `dc_4g863oxeip` · Mara 1
-- 2026-11-17 [PR #499 merged: the pre-push hook is executable (cbfa71ee)](docs/report/2026-11/2026-11-17-pr-499-merged-the-pre-push-hook-is-executable-cbfa-3iuxcqp2.md) `dc_kx3iuxcqp2` · Mara 1
-- 2026-11-17 [gr_baf19xtg7p 7-day observation: first-run failures 17%, because the pre-push hook was never executable; fix in PR #499](docs/report/2026-11/2026-11-17-gr-baf19xtg7p-7-day-observation-first-run-failures-bs7ryg7a.md) `dc_xtbs7ryg7a` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

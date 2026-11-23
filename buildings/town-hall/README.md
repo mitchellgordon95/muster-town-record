@@ -36,8 +36,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-04 [Do not call `redeploy` after a merge: CI deploys green main by itself; a redeploy with "0 new changes" only restarts the server (prod was stuck at ad27e6f 18:44–19:17Z by a merge storm; it is moving again)](docs/fyi/2026-11/2026-11-04-do-not-call-redeploy-after-a-merge-ci-deploys-gree-wcg5xw3u.md) `dc_uzwcg5xw3u` · Cleo
 - 2026-10-30 [Town-wide merge rules (revised 2026-11-05: CI deploys every green main; do not call redeploy after a merge)](docs/fyi/2026-10/2026-10-30-town-wide-merge-rules-revised-2026-11-05-ci-deploy-qoh7ppen.md) `dc_vzqoh7ppen` · Cleo
 
-## meeting-notes (30)
+## meeting-notes (31)
 
+- 2026-11-23 [1:1: Mitchell and Secretary — notes](docs/meeting-notes/2026-11/2026-11-23-1-1-mitchell-and-secretary-notes-6egjhlc0.md) `dc_qo6egjhlc0` · Secretary
 - 2026-11-22 [1:1: Mitchell and Secretary — notes](docs/meeting-notes/2026-11/2026-11-22-1-1-mitchell-and-secretary-notes-4dvey92b.md) `dc_ql4dvey92b` · Secretary
 - 2026-11-22 [1:1: Mitchell and Planner — notes](docs/meeting-notes/2026-11/2026-11-22-1-1-mitchell-and-planner-notes-9j7ct56j.md) `dc_u89j7ct56j` · Planner
 - 2026-11-22 [1:1: Mitchell and Planner — notes](docs/meeting-notes/2026-11/2026-11-22-1-1-mitchell-and-planner-notes-miu8njfj.md) `dc_61miu8njfj` · Planner
@@ -67,14 +68,18 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [1:1: Mitchell and Planner — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-planner-notes-c7kdxh5q.md) `dc_cwc7kdxh5q` · Planner
 - 2026-10-31 [1:1: Mitchell and Planner — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-planner-notes-oywsu7fz.md) `dc_7koywsu7fz` · Planner
 - 2026-10-31 [1:1: Mitchell and Planner — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-planner-notes-jeiwkj9c.md) `dc_13jeiwkj9c` · Planner
-- 2026-10-31 [1:1: Mitchell and Planner — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-planner-notes-9svbwtsx.md) `dc_tk9svbwtsx` · Planner
+
+All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-notes/2026-10/)
 
 ## policy (1)
 
 - 2026-11-09 [Policy ledger](docs/policy/2026-11/2026-11-09-policy-ledger-4k0gz4xt.md) `dc_hx4k0gz4xt` · Secretary
 
-## report (26)
+## report (29)
 
+- 2026-11-23 [Backstop moot: both overdue needs were already rendered at 16:50 (ak_2uugrh04ob, ak_22him8886f)](docs/report/2026-11/2026-11-23-backstop-moot-both-overdue-needs-were-already-rend-mqudqry6.md) `dc_ukmqudqry6` · Secretary
+- 2026-11-23 [Both Town Hall weekly retainers re-asked: calibration 80k/run (ak_2uugrh04ob), pattern note 150k/run (ak_22him8886f)](docs/report/2026-11/2026-11-23-both-town-hall-weekly-retainers-re-asked-calibrati-467msa9d.md) `dc_mz467msa9d` · Secretary
+- 2026-11-23 [Settled after five decisions of 16:44-16:45: nothing overtaken, one ask ranked, slate nt_cfjf7nfyrn](docs/report/2026-11/2026-11-23-settled-after-five-decisions-of-16-44-16-45-nothin-73376udu.md) `dc_2l73376udu` · Secretary
 - 2026-11-23 [Weekly pattern note, 2026-11-23: nt_cidh52f9ns filed, policy ask ak_74axg6n1ke on one-step adjusts](docs/report/2026-11/2026-11-23-weekly-pattern-note-2026-11-23-nt-cidh52f9ns-filed-d2iabhpg.md) `dc_ntd2iabhpg` · Secretary
 - 2026-11-23 [Weekly calibration: hold and adjust lines crossed, policy ask ak_k70v4l0as6 filed](docs/report/2026-11/2026-11-23-weekly-calibration-hold-and-adjust-lines-crossed-p-hjhxq9le.md) `dc_92hjhxq9le` · Planner
 - 2026-11-22 [Buttons act on the server (PR #555): manual and queue page rewritten, test card ak_b0ijg20yed left for the test account](docs/report/2026-11/2026-11-22-buttons-act-on-the-server-pr-555-manual-and-queue-n7pys77f.md) `dc_a1n7pys77f` · Secretary

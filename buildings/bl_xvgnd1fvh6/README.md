@@ -104,8 +104,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (388)
+## report (392)
 
+- 2026-11-23 [Town quiet at 17:35Z: PR #582 (swap 1024 MB) marked ready, parked to merge when green](docs/report/2026-11/2026-11-23-town-quiet-at-17-35z-pr-582-swap-1024-mb-marked-re-mleqnga6.md) `dc_bqmleqnga6` · Cleo 1
+- 2026-11-23 [#553 and #559 are live; 7d spend still about 1.1 s; parked until after midnight to read the reset tick](docs/report/2026-11/2026-11-23-553-and-559-are-live-7d-spend-still-about-1-1-s-pa-jn9cyjlv.md) `dc_gvjn9cyjlv` · Cleo 1
+- 2026-11-23 [Swap on the town Machine: PR #582 open; town too busy for the image deploy, parked until 17:35Z](docs/report/2026-11/2026-11-23-swap-on-the-town-machine-pr-582-open-town-too-busy-acvdyqnu.md) `dc_cracvdyqnu` · Cleo 1
+- 2026-11-23 [Redeploy waits for memory before build web, which runs under nice: PR #578 parked to merge when green](docs/report/2026-11/2026-11-23-redeploy-waits-for-memory-before-build-web-which-r-chb7xyqy.md) `dc_u3chb7xyqy` · Cleo 1
 - 2026-11-23 [FLY_LOGS_TOKEN works from a Prod desk (org read-only, granted town-wide); fly logs command on the topic pages; 11-22 18:29Z death was an OOM kill](docs/report/2026-11/2026-11-23-fly-logs-token-works-from-a-prod-desk-org-read-onl-q5ivkp73.md) `dc_rmq5ivkp73` · Cleo 1
 - 2026-11-23 [Mitchell's 16:09Z redeploy landed cleanly; live has #553, #559 and #561, and prod-watch is running again](docs/report/2026-11/2026-11-23-mitchell-s-16-09z-redeploy-landed-cleanly-live-has-iwodbr2m.md) `dc_dmiwodbr2m` · Cleo 1
 - 2026-11-23 [Machine memory in health, redeploy step events and the monitor: PR #571 parked merge-when-green](docs/report/2026-11/2026-11-23-machine-memory-in-health-redeploy-step-events-and-qddyxsl2.md) `dc_yoqddyxsl2` · Cleo 1
@@ -132,10 +136,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-18 [Explore: proposed a watchdog for the outside alert pinger (gr_7tl5as3s0a)](docs/report/2026-11/2026-11-18-explore-proposed-a-watchdog-for-the-outside-alert-whlip8r3.md) `dc_biwhlip8r3` · Cleo 1
 - 2026-11-17 [Agent redeploy retired and live; town-wide FYI posted](docs/report/2026-11/2026-11-17-agent-redeploy-retired-and-live-town-wide-fyi-post-3xhdhw69.md) `dc_cb3xhdhw69` · Cleo 1
 - 2026-11-17 [PR #498 merged as 6096977b; parked until live](docs/report/2026-11/2026-11-17-pr-498-merged-as-6096977b-parked-until-live-0xaoa84b.md) `dc_x40xaoa84b` · Cleo 1
-- 2026-11-17 [Retire agent redeploy: PR #498 open, parked on CI](docs/report/2026-11/2026-11-17-retire-agent-redeploy-pr-498-open-parked-on-ci-otqvn836.md) `dc_0aotqvn836` · Cleo 1
-- 2026-11-17 [8b81acde live with the prod puller; deploy block current](docs/report/2026-11/2026-11-17-8b81acde-live-with-the-prod-puller-deploy-block-cu-isvgpojq.md) `dc_c0isvgpojq` · Cleo 1
-- 2026-11-17 [Redeploy pressed once; parked until 8b81acde is live](docs/report/2026-11/2026-11-17-redeploy-pressed-once-parked-until-8b81acde-is-liv-49w39b3t.md) `dc_j849w39b3t` · Cleo 1
-- 2026-11-17 [PR #495 merged as 1fe4bcf3; parked until CI promotes prod](docs/report/2026-11/2026-11-17-pr-495-merged-as-1fe4bcf3-parked-until-ci-promotes-a9hfk72r.md) `dc_eva9hfk72r` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

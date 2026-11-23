@@ -21,8 +21,11 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-17 [1:1: Mitchell and Juno — notes](docs/meeting-notes/2026-11/2026-11-17-1-1-mitchell-and-juno-notes-6f5vsx4k.md) `dc_8u6f5vsx4k` · Juno
 - 2026-11-05 [1:1: Mitchell and Juno — notes](docs/meeting-notes/2026-11/2026-11-05-1-1-mitchell-and-juno-notes-6itg9v6o.md) `dc_ka6itg9v6o` · Juno
 
-## note (9)
+## note (12)
 
+- 2026-11-23 [Cheap test 1: 20 emails to climate adaptation researchers (draft, list, pass threshold)](docs/note/2026-11/2026-11-23-cheap-test-1-20-emails-to-climate-adaptation-resea-k40ejxwz.md) `dc_izk40ejxwz` · Juno 1
+- 2026-11-23 [A climate adaptation data collective for one region](docs/note/2026-11/2026-11-23-a-climate-adaptation-data-collective-for-one-regio-xbmqlwni.md) `dc_anxbmqlwni` · Juno 1
+- 2026-11-23 [A research collective for complex PTSD and dissociation](docs/note/2026-11/2026-11-23-a-research-collective-for-complex-ptsd-and-dissoci-it4kgvky.md) `dc_erit4kgvky` · Juno 1
 - 2026-11-23 [Causes we'll test: 15 collectives that could exist](docs/note/2026-11/2026-11-23-causes-we-ll-test-15-collectives-that-could-exist-mxxm4cdb.md) `dc_v1mxxm4cdb` · Juno 1
 - 2026-11-23 [Explore 2026-11-23: Hooks goal has no list and no test; blog traffic does not reach the town](docs/note/2026-11/2026-11-23-explore-2026-11-23-hooks-goal-has-no-list-and-no-t-hqe5lnao.md) `dc_w5hqe5lnao` · Juno 1
 - 2026-11-21 [Explore: blog readers don't reach the town or the repo (238 reads, ~8 home views, 0 stars)](docs/note/2026-11/2026-11-21-explore-blog-readers-don-t-reach-the-town-or-the-r-4tn9u7p1.md) `dc_dl4tn9u7p1` · Juno 1
@@ -38,8 +41,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-20 [Blog](docs/plugin/2026-11/2026-11-20-blog-io0e0i6q.md) `dc_24io0e0i6q` · Juno 1
 - 2026-11-20 [Notes](docs/plugin/2026-11/2026-11-20-notes-dyryo2jm.md) `dc_lhdyryo2jm` · Juno 1
 
-## report (54)
+## report (56)
 
+- 2026-11-23 [Test 1 drafted: 20 emails to climate adaptation researchers, pass at 3 replies; sent to Mitchell](docs/report/2026-11/2026-11-23-test-1-drafted-20-emails-to-climate-adaptation-res-32rnyiiw.md) `dc_kf32rnyiiw` · Juno 1
+- 2026-11-23 [Landing pages for the top two causes are live with their own signups and view counts](docs/report/2026-11/2026-11-23-landing-pages-for-the-top-two-causes-are-live-with-hamr7tpr.md) `dc_rihamr7tpr` · Juno 1
 - 2026-11-23 [Hooks: 15 ranked causes published as a doc; /hooks route in PR #570](docs/report/2026-11/2026-11-23-hooks-15-ranked-causes-published-as-a-doc-hooks-ro-uwy9nksr.md) `dc_lquwy9nksr` · Juno 1
 - 2026-11-23 [Explore: Hooks and segment-test goals have no work; proposed gr_lnv1ofetbu (400k)](docs/report/2026-11/2026-11-23-explore-hooks-and-segment-test-goals-have-no-work-5dvh2o9w.md) `dc_495dvh2o9w` · Juno 1
 - 2026-11-22 [Blog funnel re-read started 7 days early; schedule it for 2026-11-29 18:35Z](docs/report/2026-11/2026-11-22-blog-funnel-re-read-started-7-days-early-schedule-pddnu30c.md) `dc_8epddnu30c` · Juno 1
@@ -68,8 +73,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-15 [PR #459 green and merged: BLOG_MAIL_FROM format documented](docs/report/2026-11/2026-11-15-pr-459-green-and-merged-blog-mail-from-format-docu-mx4fic90.md) `dc_kxmx4fic90` · Juno 1
 - 2026-11-15 [Blog confirmation mail sends live (200); PR #459 waiting on CI](docs/report/2026-11/2026-11-15-blog-confirmation-mail-sends-live-200-pr-459-waiti-8iixkrnn.md) `dc_yr8iixkrnn` · Juno 1
 - 2026-11-15 [GitHub repo topics are live: About is complete (description, homepage, MIT, 5 topics)](docs/report/2026-11/2026-11-15-github-repo-topics-are-live-about-is-complete-desc-igrudjs8.md) `dc_0sigrudjs8` · Juno 1
-- 2026-11-15 [Retest after BLOG_MAIL_FROM change: Resend still refuses the confirmation mail (HTTP 500)](docs/report/2026-11/2026-11-15-retest-after-blog-mail-from-change-resend-still-re-jdjqvg90.md) `dc_bqjdjqvg90` · Juno 1
-- 2026-11-15 [GitHub About: description, homepage muster.town and MIT are live; topics are still empty](docs/report/2026-11/2026-11-15-github-about-description-homepage-muster-town-and-4y5r4ck4.md) `dc_zz4y5r4ck4` · Juno 1
 
 All by month: [2026-11](docs/report/2026-11/)
 

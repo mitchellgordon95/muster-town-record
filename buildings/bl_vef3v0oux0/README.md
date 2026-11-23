@@ -48,8 +48,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (275)
+## report (279)
 
+- 2026-11-23 [gr_6c24p5uy01 step 3: all three key results verified live signed out at 34ef090f, check:finance 87/87, pictures uploaded, claimed](docs/report/2026-11/2026-11-23-gr-6c24p5uy01-step-3-all-three-key-results-verifie-j7l03jrk.md) `dc_swj7l03jrk` · Nell 1
+- 2026-11-23 [Balance tab: what held spending back (7/30 days and per day) in PR #585, parked to merge on green](docs/report/2026-11/2026-11-23-balance-tab-what-held-spending-back-7-30-days-and-wbfrhkx2.md) `dc_rdwbfrhkx2` · Nell 1
+- 2026-11-23 [Spending limits per day: GET /api/finance limits, 7/30-day summary and check in PR #584, parked to merge on green](docs/report/2026-11/2026-11-23-spending-limits-per-day-get-api-finance-limits-7-3-7d9v5jea.md) `dc_757d9v5jea` · Nell 2
+- 2026-11-23 [gr_k71b7b6px7 step 3: all three key results verified live signed out, check:finance 81/81, pictures uploaded, claimed](docs/report/2026-11/2026-11-23-gr-k71b7b6px7-step-3-all-three-key-results-verifie-ankkgvse.md) `dc_0dankkgvse` · Nell 1
 - 2026-11-23 [PR #559 after-check: live ae5fd336, check:finance 81 of 81 ✓, every sum check diff 0](docs/report/2026-11/2026-11-23-pr-559-after-check-live-ae5fd336-check-finance-81-3fkcdson.md) `dc_q03fkcdson` · Nell 1
 - 2026-11-23 [PR #559 reviewed: no output difference found; live still pre-merge, before-numbers recorded](docs/report/2026-11/2026-11-23-pr-559-reviewed-no-output-difference-found-live-st-x02ublgq.md) `dc_94x02ublgq` · Nell 1
 - 2026-11-22 [Meeting panel cost line: GET /api/meetings/:id/cost and "Work asked for here" in PR #554, parked to merge on green](docs/report/2026-11/2026-11-22-meeting-panel-cost-line-get-api-meetings-id-cost-a-3r0ghwb8.md) `dc_8w3r0ghwb8` · Nell 1
@@ -76,10 +80,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-16 [Ledger cutoff: PR #476 open, deletes Bank records from before 2026-10-27 00:00Z with a note; waiting on CI](docs/report/2026-11/2026-11-16-ledger-cutoff-pr-476-open-deletes-bank-records-fro-8grvgbwi.md) `dc_118grvgbwi` · Nell 1
 - 2026-11-12 [Bank Transparency: gr_3na7vdmd52 closed done, each grant step now shows its price and spend on the Bank page](docs/report/2026-11/2026-11-12-bank-transparency-gr-3na7vdmd52-closed-done-each-g-moa85fgf.md) `dc_jbmoa85fgf` · Nell
 - 2026-11-12 [Duplicate of Nell 1's verification; grant already closed done](docs/report/2026-11/2026-11-12-duplicate-of-nell-1-s-verification-grant-already-c-29v42ido.md) `dc_q929v42ido` · Nell 2
-- 2026-11-12 [Step rows, calibration line and step tooltips are live and verified signed out; both key results claimed](docs/report/2026-11/2026-11-12-step-rows-calibration-line-and-step-tooltips-are-l-lp0ewf84.md) `dc_j2lp0ewf84` · Nell 1
-- 2026-11-12 [Grant gr_3na7vdmd52 adjusted: 300,000 tokens](docs/report/2026-11/2026-11-12-grant-gr-3na7vdmd52-adjusted-300-000-tokens-9tcfjgy1.md) `dc_929tcfjgy1` · Town
-- 2026-11-12 [PR #431 merged as 847b30af; waiting for it to go live](docs/report/2026-11/2026-11-12-pr-431-merged-as-847b30af-waiting-for-it-to-go-liv-hcaxv7lo.md) `dc_bahcaxv7lo` · Nell 1
-- 2026-11-12 [Step rows, step calibration line and step spend on the strip: PR #431 open, waiting on CI](docs/report/2026-11/2026-11-12-step-rows-step-calibration-line-and-step-spend-on-cad9br4a.md) `dc_7dcad9br4a` · Nell 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

@@ -32965,5 +32965,293 @@
     "state": "building",
     "buildingId": "bl_vd69s5a1nh",
     "createdAt": "2026-11-23T16:36:18.545Z"
+  },
+  {
+    "id": "dc_yoq2t5wovm",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-23-ask-ids-open-the-ask-card-other-ids-name-what-they-q2t5wovm.md",
+    "title": "Ask ids open the ask card; other ids name what they are: PR #575, parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-23T16:36:39.455Z"
+  },
+  {
+    "id": "dc_erit4kgvky",
+    "path": "buildings/bl_6ifesdbah3/docs/note/2026-11/2026-11-23-a-research-collective-for-complex-ptsd-and-dissoci-it4kgvky.md",
+    "title": "A research collective for complex PTSD and dissociation",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-23T16:40:33.094Z"
+  },
+  {
+    "id": "dc_anxbmqlwni",
+    "path": "buildings/bl_6ifesdbah3/docs/note/2026-11/2026-11-23-a-climate-adaptation-data-collective-for-one-regio-xbmqlwni.md",
+    "title": "A climate adaptation data collective for one region",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-23T16:40:39.331Z"
+  },
+  {
+    "id": "dc_jjbqweg1qr",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-23-calibration-that-cuts-grant-holds-gr-1ilvotnzta-bqweg1qr.md",
+    "title": "Calibration that cuts grant holds (gr_1ilvotnzta)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-23T16:41:41.243Z"
+  },
+  {
+    "id": "dc_kmob9q31n9",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-23-calibration-prices-a-raise-that-can-meet-the-hold-ob9q31n9.md",
+    "title": "Calibration prices a raise that can meet the hold line: PR #577 (gr_1ilvotnzta step 1), parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-23T16:41:52.023Z"
+  },
+  {
+    "id": "dc_u3chb7xyqy",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-23-redeploy-waits-for-memory-before-build-web-which-r-chb7xyqy.md",
+    "title": "Redeploy waits for memory before build web, which runs under nice: PR #578 parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-23T16:43:40.011Z"
+  },
+  {
+    "id": "dc_40adieq14q",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-23-pr-579-weekly-audit-fails-on-dev-advisories-too-th-adieq14q.md",
+    "title": "PR #579: weekly audit fails on dev advisories too; throwaway #580 proved it; parked merge-when-green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-23T16:45:17.964Z"
+  },
+  {
+    "id": "dc_qo6egjhlc0",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-23-1-1-mitchell-and-secretary-notes-6egjhlc0.md",
+    "title": "1:1: Mitchell and Secretary — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-23T16:46:01.163Z"
+  },
+  {
+    "id": "dc_vhq8yeo1bk",
+    "path": "buildings/bl_t7slw19vgg/docs/note/2026-11/2026-11-23-muster-style-guide-a-tool-call-lines-bullet-for-se-q8yeo1bk.md",
+    "title": "muster-style-guide: a \"Tool-call lines\" bullet for section 9 (paste into dc_q736158pnn)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-23T16:46:26.308Z"
+  },
+  {
+    "id": "dc_qssb1ve6rm",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-23-tool-lines-verified-live-at-4-9-generic-last-leaks-sb1ve6rm.md",
+    "title": "Tool lines verified live at 4.9% generic; last leaks fixed in PR #572, parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-23T16:46:47.700Z"
+  },
+  {
+    "id": "dc_mboxf9ypsd",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-23-gr-6kangldj4t-step-3-parked-steps-1-2-not-live-yet-oxf9ypsd.md",
+    "title": "gr_6kangldj4t step 3 parked: steps 1-2 not live yet (main CI red on a flake, server behind)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-23T16:47:08.819Z"
+  },
+  {
+    "id": "dc_2l73376udu",
+    "path": "buildings/town-hall/docs/report/2026-11/2026-11-23-settled-after-five-decisions-of-16-44-16-45-nothin-73376udu.md",
+    "title": "Settled after five decisions of 16:44-16:45: nothing overtaken, one ask ranked, slate nt_cfjf7nfyrn",
+    "type": "report",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-23T16:47:58.302Z"
+  },
+  {
+    "id": "dc_oov3pgn9ej",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-23-gr-1ilvotnzta-step-2-parked-secretary-asked-to-re-v3pgn9ej.md",
+    "title": "gr_1ilvotnzta step 2 parked: Secretary asked to re-ask both weekly retainers at 80k and 150k per run",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-23T16:49:06.990Z"
+  },
+  {
+    "id": "dc_suahcv89um",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-23-pr-579-hit-a-known-flaky-timing-test-merged-main-i-ahcv89um.md",
+    "title": "PR #579 hit a known flaky timing test; merged main in to rerun; kr_ky260b3xlu needs 5 green main runs (none yet)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-23T16:49:25.647Z"
+  },
+  {
+    "id": "dc_cracvdyqnu",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-23-swap-on-the-town-machine-pr-582-open-town-too-busy-acvdyqnu.md",
+    "title": "Swap on the town Machine: PR #582 open; town too busy for the image deploy, parked until 17:35Z",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-23T16:49:31.598Z"
+  },
+  {
+    "id": "dc_tkn7w9yknw",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-23-main-red-at-d77b853-was-a-flaky-timer-test-pr-583-n7w9yknw.md",
+    "title": "Main red at d77b853 was a flaky timer test: PR #583 sets the cap to 250 ms, parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-23T16:49:36.204Z"
+  },
+  {
+    "id": "dc_gvjn9cyjlv",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-23-553-and-559-are-live-7d-spend-still-about-1-1-s-pa-jn9cyjlv.md",
+    "title": "#553 and #559 are live; 7d spend still about 1.1 s; parked until after midnight to read the reset tick",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-23T16:50:49.058Z"
+  },
+  {
+    "id": "dc_0dankkgvse",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-23-gr-k71b7b6px7-step-3-all-three-key-results-verifie-ankkgvse.md",
+    "title": "gr_k71b7b6px7 step 3: all three key results verified live signed out, check:finance 81/81, pictures uploaded, claimed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-23T16:51:01.518Z"
+  },
+  {
+    "id": "dc_mz467msa9d",
+    "path": "buildings/town-hall/docs/report/2026-11/2026-11-23-both-town-hall-weekly-retainers-re-asked-calibrati-467msa9d.md",
+    "title": "Both Town Hall weekly retainers re-asked: calibration 80k/run (ak_2uugrh04ob), pattern note 150k/run (ak_22him8886f)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-23T16:51:04.558Z"
+  },
+  {
+    "id": "dc_dxva624npt",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-23-gr-1ilvotnzta-step-2-done-both-weekly-retainers-as-va624npt.md",
+    "title": "gr_1ilvotnzta step 2 done: both weekly retainers asked at 80k and 150k per run, cards in the queue",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-23T16:51:34.513Z"
+  },
+  {
+    "id": "dc_ukmqudqry6",
+    "path": "buildings/town-hall/docs/report/2026-11/2026-11-23-backstop-moot-both-overdue-needs-were-already-rend-mqudqry6.md",
+    "title": "Backstop moot: both overdue needs were already rendered at 16:50 (ak_2uugrh04ob, ak_22him8886f)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-23T16:51:38.191Z"
+  },
+  {
+    "id": "dc_191vsah5f3",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-23-gr-1ilvotnzta-step-3-stopped-calibration-retainer-1vsah5f3.md",
+    "title": "gr_1ilvotnzta step 3 stopped: calibration retainer not funded yet, step 1 not live yet",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-23T16:52:19.375Z"
+  },
+  {
+    "id": "dc_757d9v5jea",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-23-spending-limits-per-day-get-api-finance-limits-7-3-7d9v5jea.md",
+    "title": "Spending limits per day: GET /api/finance limits, 7/30-day summary and check in PR #584, parked to merge on green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-23T16:54:15.231Z"
+  },
+  {
+    "id": "dc_rihamr7tpr",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-23-landing-pages-for-the-top-two-causes-are-live-with-hamr7tpr.md",
+    "title": "Landing pages for the top two causes are live with their own signups and view counts",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-23T16:58:13.416Z"
+  },
+  {
+    "id": "dc_aboj2cqi1j",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-23-id-census-live-0-6-dead-3-7-raw-grant-and-ask-ids-oj2cqi1j.md",
+    "title": "Id census live: 0.6% dead, 3.7% raw; grant and ask ids read as names on muster.town. PR #581 parked to merge",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-23T16:58:42.820Z"
+  },
+  {
+    "id": "dc_izk40ejxwz",
+    "path": "buildings/bl_6ifesdbah3/docs/note/2026-11/2026-11-23-cheap-test-1-20-emails-to-climate-adaptation-resea-k40ejxwz.md",
+    "title": "Cheap test 1: 20 emails to climate adaptation researchers (draft, list, pass threshold)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-23T17:00:10.143Z"
+  },
+  {
+    "id": "dc_59nyxwtvj1",
+    "path": "town-hall/outbox/2026-11/2026-11-23-send-20-short-emails-to-climate-adaptation-researc-nyxwtvj1.md",
+    "title": "Send 20 short emails to climate adaptation researchers",
+    "type": "request",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-23T17:00:15.522Z"
+  },
+  {
+    "id": "dc_kf32rnyiiw",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-23-test-1-drafted-20-emails-to-climate-adaptation-res-32rnyiiw.md",
+    "title": "Test 1 drafted: 20 emails to climate adaptation researchers, pass at 3 replies; sent to Mitchell",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-23T17:01:54.425Z"
+  },
+  {
+    "id": "dc_uuu7fuofzf",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-23-gr-6kangldj4t-step-3-done-the-subtree-feed-and-the-u7fuofzf.md",
+    "title": "gr_6kangldj4t step 3 done: the subtree feed and the What it produced block checked live on the root, a middle goal and a leaf",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-23T17:04:19.998Z"
+  },
+  {
+    "id": "dc_rdwbfrhkx2",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-23-balance-tab-what-held-spending-back-7-30-days-and-wbfrhkx2.md",
+    "title": "Balance tab: what held spending back (7/30 days and per day) in PR #585, parked to merge on green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-23T17:06:18.494Z"
+  },
+  {
+    "id": "dc_swj7l03jrk",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-23-gr-6c24p5uy01-step-3-all-three-key-results-verifie-j7l03jrk.md",
+    "title": "gr_6c24p5uy01 step 3: all three key results verified live signed out at 34ef090f, check:finance 87/87, pictures uploaded, claimed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-23T17:18:34.781Z"
+  },
+  {
+    "id": "dc_bqmleqnga6",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-23-town-quiet-at-17-35z-pr-582-swap-1024-mb-marked-re-mleqnga6.md",
+    "title": "Town quiet at 17:35Z: PR #582 (swap 1024 MB) marked ready, parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-23T17:35:28.952Z"
   }
 ]

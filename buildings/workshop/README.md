@@ -130,8 +130,14 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1252)
+## report (1258)
 
+- 2026-11-23 [gr_6kangldj4t step 3 done: the subtree feed and the What it produced block checked live on the root, a middle goal and a leaf](docs/report/2026-11/2026-11-23-gr-6kangldj4t-step-3-done-the-subtree-feed-and-the-u7fuofzf.md) `dc_uuu7fuofzf` · Pix 1
+- 2026-11-23 [gr_1ilvotnzta step 3 stopped: calibration retainer not funded yet, step 1 not live yet](docs/report/2026-11/2026-11-23-gr-1ilvotnzta-step-3-stopped-calibration-retainer-1vsah5f3.md) `dc_191vsah5f3` · Pix 2
+- 2026-11-23 [gr_1ilvotnzta step 2 done: both weekly retainers asked at 80k and 150k per run, cards in the queue](docs/report/2026-11/2026-11-23-gr-1ilvotnzta-step-2-done-both-weekly-retainers-as-va624npt.md) `dc_dxva624npt` · Pix 1
+- 2026-11-23 [gr_1ilvotnzta step 2 parked: Secretary asked to re-ask both weekly retainers at 80k and 150k per run](docs/report/2026-11/2026-11-23-gr-1ilvotnzta-step-2-parked-secretary-asked-to-re-v3pgn9ej.md) `dc_oov3pgn9ej` · Pix 1
+- 2026-11-23 [gr_6kangldj4t step 3 parked: steps 1-2 not live yet (main CI red on a flake, server behind)](docs/report/2026-11/2026-11-23-gr-6kangldj4t-step-3-parked-steps-1-2-not-live-yet-oxf9ypsd.md) `dc_mboxf9ypsd` · Pix 1
+- 2026-11-23 [Calibration prices a raise that can meet the hold line: PR #577 (gr_1ilvotnzta step 1), parked to merge when green](docs/report/2026-11/2026-11-23-calibration-prices-a-raise-that-can-meet-the-hold-ob9q31n9.md) `dc_kmob9q31n9` · Pix 3
 - 2026-11-23 [What it produced block on the goal detail: PR #573 (gr_6kangldj4t step 2)](docs/report/2026-11/2026-11-23-what-it-produced-block-on-the-goal-detail-pr-573-g-nq6aj5d3.md) `dc_ainq6aj5d3` · Pix 1
 - 2026-11-23 [Subtree notices filter and GET /api/goals/:id/produced: PR #567 (gr_6kangldj4t step 1)](docs/report/2026-11/2026-11-23-subtree-notices-filter-and-get-api-goals-id-produc-i604o5w7.md) `dc_rdi604o5w7` · Pix 4
 - 2026-11-23 [Step 1 of gr_mcuj10tupi recovered and in PR #565: Secretary runs no longer need the ranking schedule](docs/report/2026-11/2026-11-23-step-1-of-gr-mcuj10tupi-recovered-and-in-pr-565-se-cbcdeq8y.md) `dc_l4cbcdeq8y` · Pix 1
@@ -156,12 +162,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-20 [Captains decide asks: PR #534 open, merges when green](docs/report/2026-11/2026-11-20-captains-decide-asks-pr-534-open-merges-when-green-3iirg71c.md) `dc_r93iirg71c` · Pix 1
 - 2026-11-20 [Exploration: captains can't decide most asks in their subtree; proposed gr_0vuiuqcw8p (200k)](docs/report/2026-11/2026-11-20-exploration-captains-can-t-decide-most-asks-in-the-j37sj0lp.md) `dc_myj37sj0lp` · Pix 1
 - 2026-11-19 [Rank asks by the goal tree, rank on filing: PR #527, merges when green](docs/report/2026-11/2026-11-19-rank-asks-by-the-goal-tree-rank-on-filing-pr-527-m-zryao2aq.md) `dc_rfzryao2aq` · Pix 1
-- 2026-11-19 [One goal tree: Workshop panel checked live on 96ff0bd4, kr_4ee59lp0m2 claimed](docs/report/2026-11/2026-11-19-one-goal-tree-workshop-panel-checked-live-on-96ff0-l4pljea4.md) `dc_k7l4pljea4` · Pix 2
-- 2026-11-19 [Building Overview and Goals tab read the one tree: PR #523 open (draft)](docs/report/2026-11/2026-11-19-building-overview-and-goals-tab-read-the-one-tree-fy99b8d2.md) `dc_upfy99b8d2` · Pix 1
-- 2026-11-19 [Grants route by goalId: PR #522 open, merges when green](docs/report/2026-11/2026-11-19-grants-route-by-goalid-pr-522-open-merges-when-gre-r20y1cv8.md) `dc_hcr20y1cv8` · Pix 1
-- 2026-11-19 [A key result has one parent and one status: PR #521 open, merges when green](docs/report/2026-11/2026-11-19-a-key-result-has-one-parent-and-one-status-pr-521-c8jrw1in.md) `dc_7ac8jrw1in` · Pix 2
-- 2026-11-19 [Objectives are goals: live on fa6bcd8e, kr_zcwoxvsssi claimed](docs/report/2026-11/2026-11-19-objectives-are-goals-live-on-fa6bcd8e-kr-zcwoxvsss-0bdx96zr.md) `dc_iv0bdx96zr` · Pix 1
-- 2026-11-19 [Objectives are goals: PR #506 merged as fa6bcd8e, parked until live](docs/report/2026-11/2026-11-19-objectives-are-goals-pr-506-merged-as-fa6bcd8e-par-6d4xysxl.md) `dc_wg6d4xysxl` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -170,8 +170,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-27 [demo-media](docs/skill/2026-10/2026-10-27-demo-media-8jzo79xq.md) `dc_p68jzo79xq` · Lena
 - 2026-10-26 [desk-image](docs/skill/2026-10/2026-10-26-desk-image-93n44plc.md) `dc_br93n44plc` · Root
 
-## wiki (82)
+## wiki (83)
 
+- 2026-11-23 [Calibration that cuts grant holds (gr_1ilvotnzta)](docs/wiki/2026-11/2026-11-23-calibration-that-cuts-grant-holds-gr-1ilvotnzta-bqweg1qr.md) `dc_jjbqweg1qr` · Pix 3
 - 2026-11-22 [Managing cost per job (gr_064fmkq31s)](docs/wiki/2026-11/2026-11-22-managing-cost-per-job-gr-064fmkq31s-m1d4ev09.md) `dc_4gm1d4ev09` · Pix 3
 - 2026-11-22 [Ask card buttons act server-side (as_zzvnadow9a)](docs/wiki/2026-11/2026-11-22-ask-card-buttons-act-server-side-as-zzvnadow9a-cju8toxq.md) `dc_g7cju8toxq` · Pix 2
 - 2026-11-22 [Secretary runs on events (gr_mcuj10tupi)](docs/wiki/2026-11/2026-11-22-secretary-runs-on-events-gr-mcuj10tupi-4r2xdvic.md) `dc_1r4r2xdvic` · Pix 1
@@ -201,6 +202,5 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-11-05 [Town health tab (grant D, gr_8bxoy2heif)](docs/wiki/2026-11/2026-11-05-town-health-tab-grant-d-gr-8bxoy2heif-a8uygy5k.md) `dc_2ca8uygy5k` · Pix 3
 - 2026-11-05 [User stats: community engagement per collective (flag dc_r7u6bkaei4)](docs/wiki/2026-11/2026-11-05-user-stats-community-engagement-per-collective-fla-42rbuhxl.md) `dc_k642rbuhxl` · Pix 1
 - 2026-11-05 [Bulletin board in the town square (flag dc_52njv3shp8)](docs/wiki/2026-11/2026-11-05-bulletin-board-in-the-town-square-flag-dc-52njv3sh-xokwfk75.md) `dc_8fxokwfk75` · Pix 3
-- 2026-11-04 [Repo mode: hiding deploy/PR machinery from collectives with no repo](docs/wiki/2026-11/2026-11-04-repo-mode-hiding-deploy-pr-machinery-from-collecti-c5iylz06.md) `dc_b6c5iylz06` · Pix 2
 
 All by month: [2026-11](docs/wiki/2026-11/) · [2026-10](docs/wiki/2026-10/)
