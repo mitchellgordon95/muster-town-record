@@ -32509,8 +32509,8 @@
   },
   {
     "id": "dc_wplnql6blm",
-    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-22-red-live-server-451-min-behind-prod-12-commits-liv-lnql6blm.md",
-    "title": "[RED] live server 451 min behind prod (12 commits, live 167cf54, prod ae5fd33): CI's redeploy did not land; see deploy/README.md \"Live behind prod\"",
+    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-22-red-live-server-811-min-behind-prod-12-commits-liv-lnql6blm.md",
+    "title": "[RED] live server 811 min behind prod (12 commits, live 167cf54, prod ae5fd33): CI's redeploy did not land; see deploy/README.md \"Live behind prod\"",
     "type": "fyi",
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
