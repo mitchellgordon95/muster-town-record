@@ -28,8 +28,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [1:1: Mitchell and Teo — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-teo-notes-tuy9g1zf.md) `dc_0ltuy9g1zf` · Teo
 - 2026-10-29 [1:1: Mitchell and Teo — notes](docs/meeting-notes/2026-10/2026-10-29-1-1-mitchell-and-teo-notes-nji0boyh.md) `dc_bqnji0boyh` · Teo
 
-## note (14)
+## note (15)
 
+- 2026-11-23 [Exploration 2026-11-23: one id in six in reports opens nothing, and grant ids read as raw ids](docs/note/2026-11/2026-11-23-exploration-2026-11-23-one-id-in-six-in-reports-op-zah7t1a9.md) `dc_xszah7t1a9` · Teo 2
 - 2026-11-22 [Findings: 56% of live tool-call lines say only "Reading files" or "Searching files"](docs/note/2026-11/2026-11-22-findings-56-of-live-tool-call-lines-say-only-readi-vwut1jlo.md) `dc_shvwut1jlo` · Teo 2
 - 2026-11-21 [Findings: a closed grant's page hides what it shipped and shows a stale spend](docs/note/2026-11/2026-11-21-findings-a-closed-grant-s-page-hides-what-it-shipp-vu6pho44.md) `dc_o3vu6pho44` · Teo 1
 - 2026-11-20 [Findings: the ask card's body is a bold wall, and on a phone the decision sits below the fold](docs/note/2026-11/2026-11-20-findings-the-ask-card-s-body-is-a-bold-wall-and-on-c71eij3n.md) `dc_fkc71eij3n` · Teo 2
@@ -45,8 +46,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (256)
+## report (260)
 
+- 2026-11-23 [Grant, key result and goal ids read as names: PR #569, parked to merge when green](docs/report/2026-11/2026-11-23-grant-key-result-and-goal-ids-read-as-names-pr-569-xd78j6rv.md) `dc_2hxd78j6rv` · Teo 1
+- 2026-11-23 [Closed-grant census live: all three key results hold; fold for pictured shipped blocks in PR #566, parked to merge](docs/report/2026-11/2026-11-23-closed-grant-census-live-all-three-key-results-hol-lpehhel4.md) `dc_07lpehhel4` · Teo 2
+- 2026-11-23 [Bash tool lines name the file or search term: PR #563, parked to merge when green](docs/report/2026-11/2026-11-23-bash-tool-lines-name-the-file-or-search-term-pr-56-h1r9vo1d.md) `dc_28h1r9vo1d` · Teo 1
+- 2026-11-23 [Exploration: one id in six in reports opens nothing and grant ids read raw; proposed gr_4upa0og9zc (350k)](docs/report/2026-11/2026-11-23-exploration-one-id-in-six-in-reports-opens-nothing-mnkz0tlp.md) `dc_clmnkz0tlp` · Teo 2
 - 2026-11-22 [Closed-grant census row merged (PR #551); parked until #549 is live for the five-grant check](docs/report/2026-11/2026-11-22-closed-grant-census-row-merged-pr-551-parked-until-0jjk3yfh.md) `dc_f20jjk3yfh` · Teo 1
 - 2026-11-22 [Closed grant page: What it shipped block and one spend number: PR #549, parked to merge when green](docs/report/2026-11/2026-11-22-closed-grant-page-what-it-shipped-block-and-one-sp-ezvgi3g2.md) `dc_a7ezvgi3g2` · Teo 1
 - 2026-11-22 [Exploration: 56% of live tool-call lines name nothing; proposed gr_93s00hyq1l (200k)](docs/report/2026-11/2026-11-22-exploration-56-of-live-tool-call-lines-name-nothin-esr3xxk8.md) `dc_96esr3xxk8` · Teo 2
@@ -73,10 +78,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-19 [PR #509 green and squash-merged (39de7afd): phone outline for the goal tree](docs/report/2026-11/2026-11-19-pr-509-green-and-squash-merged-39de7afd-phone-outl-1jo6v7l4.md) `dc_n61jo6v7l4` · Teo 1
 - 2026-11-19 [PR #508 green and squash-merged (c4293dec); parked until live](docs/report/2026-11/2026-11-19-pr-508-green-and-squash-merged-c4293dec-parked-unt-7t8j0ec2.md) `dc_h17t8j0ec2` · Teo 1
 - 2026-11-19 [Phone outline for the goal tree: PR #509, parked on CI](docs/report/2026-11/2026-11-19-phone-outline-for-the-goal-tree-pr-509-parked-on-c-0rkshrou.md) `dc_vk0rkshrou` · Teo 1
-- 2026-11-19 [Secretary rest tile moved 2 north: PR #508, parked on CI](docs/report/2026-11/2026-11-19-secretary-rest-tile-moved-2-north-pr-508-parked-on-qqrlqqut.md) `dc_a9qqrlqqut` · Teo 2
-- 2026-11-19 [PR #504 green and squash-merged (af9c279d): goal canvas opens readable](docs/report/2026-11/2026-11-19-pr-504-green-and-squash-merged-af9c279d-goal-canva-rdh0emtv.md) `dc_m0rdh0emtv` · Teo 1
-- 2026-11-19 [Goal canvas opens readable: PR #504, parked on CI](docs/report/2026-11/2026-11-19-goal-canvas-opens-readable-pr-504-parked-on-ci-j07vl3jf.md) `dc_4vj07vl3jf` · Teo 1
-- 2026-11-19 [Body-only drag is live (46669b9d in eb4d790); live checks covered only the gates, not a real drag](docs/report/2026-11/2026-11-19-body-only-drag-is-live-46669b9d-in-eb4d790-live-ch-lcbwswxg.md) `dc_85lcbwswxg` · Teo 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -89,8 +90,11 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-31 [delight-walk](docs/skill/2026-10/2026-10-31-delight-walk-la62qft8.md) `dc_14la62qft8` · Teo 2
 - 2026-10-31 [map-bubble-sampler](docs/skill/2026-10/2026-10-31-map-bubble-sampler-h9yywhfl.md) `dc_6ph9yywhfl` · Teo 1
 
-## wiki (24)
+## wiki (27)
 
+- 2026-11-23 [Every id reads as its name (gr_4upa0og9zc)](docs/wiki/2026-11/2026-11-23-every-id-reads-as-its-name-gr-4upa0og9zc-d08xjagx.md) `dc_vtd08xjagx` · Teo 1
+- 2026-11-23 [Closed grant page: what it shipped (gr_hwxc1lwi2e)](docs/wiki/2026-11/2026-11-23-closed-grant-page-what-it-shipped-gr-hwxc1lwi2e-puaddugk.md) `dc_8epuaddugk` · Teo 2
+- 2026-11-23 [Tool-call lines name what they touch (gr_93s00hyq1l)](docs/wiki/2026-11/2026-11-23-tool-call-lines-name-what-they-touch-gr-93s00hyq1l-hbau9n0v.md) `dc_20hbau9n0v` · Teo 1
 - 2026-11-20 [Exploration journal](docs/wiki/2026-11/2026-11-20-exploration-journal-khvvd4un.md) `dc_sykhvvd4un` · Teo
 - 2026-11-20 [Ask cards readable at a glance (gr_x7p580xe1o)](docs/wiki/2026-11/2026-11-20-ask-cards-readable-at-a-glance-gr-x7p580xe1o-rr4gdlp9.md) `dc_vfrr4gdlp9` · Teo 2
 - 2026-11-19 [Steer from an ask card](docs/wiki/2026-11/2026-11-19-steer-from-an-ask-card-quk4uxfh.md) `dc_ylquk4uxfh` · Teo 1

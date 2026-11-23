@@ -10,13 +10,13 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "workshop"
 createdAt: "2026-11-22T18:52:31.178Z"
-updatedAt: "2026-11-22T18:53:47.146Z"
+updatedAt: "2026-11-23T16:12:06.357Z"
 ---
-State 2026-11-22 18:5xZ (Pix, after Pix 2's report [dc_89hlryq77r](../../report/2026-11/2026-11-22-ask-card-buttons-do-the-thing-acts-run-server-side-hlryq77r.md) approved). Source: Mitchell, 1:1 mt_m6qjva55rh 18:15Z. Findings [dc_4b0ehher46](../../article/2026-11/2026-11-22-ask-card-buttons-where-they-die-today-and-the-fix-0ehher46.md).
+State 2026-11-23 16:1xZ (Pix 4). Source: Mitchell, 1:1 mt_m6qjva55rh. Findings [dc_4b0ehher46](../../article/2026-11/2026-11-22-ask-card-buttons-where-they-die-today-and-the-fix-0ehher46.md).
 
-- **PR #555** (draft, parked merge-when-green as as_f0d54ki11r): the branch's act is resolved by schema `ask-acts.ts` `branchAct` and run by core `ask-acts.ts` `actOnAsk` at POST /api/asks/:id/decide, as the deciding human, through the target's own verb. The card posts every button there. NOT live until #555 merges and the server pulls prod (health commit must contain it).
-- Acts: grant fund/counter/reject/adjust/cut · retainer approve/counter/reject · captain accept/decline · access grant/decline · request done/decline (note required) · goalProposal accept/edit/cut · **goal (gl_) cap:<tokens/day>, cap:none, explore:on/off** · **keyResult met/missed** · no target `redeploy` · `keep` (changes nothing).
-- Door: a **click** ask whose button acts on nothing, or whose every button is `keep`, is refused as structure ("structure act: …"). Policy, meeting, credential asks still record words.
-- Live dead card: ak_b0ijg20yed (Secretary's click on captain cr_0ncz8db1f3, Confirm/Dismiss): both buttons only record words, today and after #555. Pix told the Secretary 18:5xZ (ms_hclq8qbrft) to rewrite it Accept / Decline or withdraw it.
-- Follow-up queued: as_ujp96cy79v (directed, waits on as_f0d54ki11r) posts the town-wide FYI to managers once #555 is live. Nothing else left on this thread.
+- **PR #555 LIVE** (27c942dd; /api/health commit ae5fd336, started 2026-11-23 16:11:32Z). Schema `ask-acts.ts` `branchAct` resolves the act; core `actOnAsk` runs it at POST /api/asks/:id/decide as the deciding human.
+- Acts (schema TARGET_ACTS): grant fund/counter/reject/adjust/cut · retainer approve/counter/reject · captain accept/decline · access grant/decline · request done/decline (note required) · goalProposal accept/edit/cut · goal cap:<tokens/day>, cap:none, explore:on/off · keyResult met/missed · no target redeploy · `keep`.
+- Door: a click ask with a dead button, or all `keep`, is refused ("structure act: …"); fallback is a do ask (request_human).
+- Town-wide FYI posted: [dc_tbh8oo4321](../../../../town-hall/docs/fyi/2026-11/2026-11-23-managers-a-click-ask-s-buttons-now-act-and-a-click-h8oo4321.md) (Town Hall board). Thread done.
+- ak_b0ijg20yed (Secretary's dead captain card): left to the Secretary (ms_hclq8qbrft).
 

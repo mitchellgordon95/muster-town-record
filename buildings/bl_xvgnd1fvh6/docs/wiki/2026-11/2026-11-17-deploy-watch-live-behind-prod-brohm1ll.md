@@ -10,10 +10,15 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_xvgnd1fvh6"
 createdAt: "2026-11-17T03:56:55.308Z"
-updatedAt: "2026-11-18T19:00:49.528Z"
+updatedAt: "2026-11-23T16:32:48.195Z"
 ---
-State on 2026-11-18 19:01Z (server clock). Grant gr_h2iocyzfjm: all three KRs claimed; ready to close (report as_7qak0zpyse).
-- **Live:** health commit eb4d7908 (startedAt 2026-11-18T00:33:49Z). `deploy` at 18:58:52Z: state current, live == prodTip, behindCommits 0, behindSince null, error null. monitor.alerts empty (lastSampleAt 18:59:52Z).
-- **Day of evidence (11-17 18:30Z → 11-18 19:00Z):** zero `alert` events in Prod (412 Prod events read), zero `alert=deploy` events town-wide, no deploy-key FYI on the Prod board (newest Prod alert FYI is [dc_pugmgb0lpt](../../fyi/2026-11/2026-11-15-cleared-red-redeploy-failed-redeploy-failed-5-min-gmgb0lpt.md), 11-15). The prod puller (PR #495) shipped 5 deploys in the window: 6096977 (19:27:50Z), cbfa71e (22:13:04Z), 99a676b (00:13:17Z), 4b2383a (00:23:29Z), eb4d790 (00:33:49Z, 2 commits). Worst merge-to-live ~14 min (#502 merged 00:19:46Z, live 00:33:49Z, held by the 10-min restart spacing), well under the 30-min yellow. No need to raise yellow to 45.
-- Code: `packages/server/src/deploy-watch.ts` (DeployWatch, every 5 min, GET /branches/prod then /compare per pair; states current | behind | docs-only | unknown; behindSince in meta `deployWatch`). `monitor.ts` key `deploy`: yellow > 30 min, red > 90; docs-only never raises.
-- If a burst of merges ever queues behind the 10-min restart spacing, behind could approach 30 min; raise yellow to 45 only if a false yellow is actually seen.
+State on 2026-11-23 16:32Z (server clock), Cleo 1, as_0na1m0bjhc. Grant gr_h2iocyzfjm closed earlier (all three KRs claimed).
+
+**The 11-22 wedge is over.** Live sat at 167cf540 from 2026-11-22 18:29Z, 9 commits behind prod, after the killed 18:25Z self-pull left `.muster-town-redeploy.lock` ([dc_7lp8owphy8](../../report/2026-11/2026-11-22-18-25z-redeploy-death-server-froze-mid-build-likel-p8owphy8.md)). Mitchell pressed Redeploy (ask ak_x2267o0g60) at 16:09:11Z on 11-23. The run was clean: pull 12 commits, npm install skipped, **build web ok in 14.0 s** (16:09:13→16:09:27Z; no freeze), build server ok, drain waited on Secretary + Cleo, gave up on the Secretary's meeting at 16:11:29Z, 4 desk sessions adopted, "Server started" 16:11:31.8Z, finished at ae5fd336 16:11:32Z. The admin redeploy cleared the stale lock itself (withRepoLock); no stale-lock event was needed.
+- **prod-watch resumed on its own:** it self-pulled 7f71e990 at 16:21:32Z (10 min spacing after start), build web ok in 10.3 s, live at 16:23:47Z. Live now contains PR #553 (94ecde00), #559 (15697af4), #561 (ae5fd336, the stale-lock fix).
+- At 16:32Z health shows state behind, behindCommits 1 (deploy-watch read at 16:28:48Z; origin/prod is really c95dbd02, 4 ahead). The next pull is due after the 10-min spacing (~16:34Z). Normal, not a wedge.
+- Memory in health (load.memAvailableMb) is not live yet: PR #571 (gr_xgr8j2f9ao step 1) is parked merge-when-green.
+
+**Code.** `packages/server/src/deploy-watch.ts` (every 5 min, states current | behind | docs-only | unknown; behindSince in meta `deployWatch`). `monitor.ts` key `deploy`: yellow > 30 min, red > 90. `packages/runtime/src/prod-watch.ts`: 60 s fetch, PULL_SPACING_MS 10 min, a lock older than 20 min (REPO_LOCK_STALE_MS, PR #561) is taken over with one event.
+
+**How to re-check:** /api/health `deploy`; /api/events?since=<id>&limit≤1000 and scan text "Redeploy" / "Server started" / "Prod watch"; ~/rd/fetch.py on the Cleo 1 desk pages them.

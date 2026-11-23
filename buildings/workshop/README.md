@@ -95,8 +95,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-notes/2026-10/)
 
-## note (44)
+## note (45)
 
+- 2026-11-23 [Exploration findings: a goal can't show what was produced under it (feed goal filter is exact-match, goal panel has no "produced" view)](docs/note/2026-11/2026-11-23-exploration-findings-a-goal-can-t-show-what-was-pr-qullumrb.md) `dc_8equllumrb` · Pix 4
 - 2026-11-23 [Exploration 2026-11-23: two in three grants hold at their ceiling and the Planner's calibration is off](docs/note/2026-11/2026-11-23-exploration-2026-11-23-two-in-three-grants-hold-at-fcsixc8z.md) `dc_yufcsixc8z` · Pix 1
 - 2026-11-22 [Exploration findings: 43% of the town's spend is manager sessions that funders see only as "no lane"](docs/note/2026-11/2026-11-22-exploration-findings-43-of-the-town-s-spend-is-man-gw3in16u.md) `dc_csgw3in16u` · Pix 3
 - 2026-11-21 [Exploration 2026-11-21: the Secretary's ranking schedule lapsed 11-18, so captain and access requests get no card](docs/note/2026-11/2026-11-21-exploration-2026-11-21-the-secretary-s-ranking-sch-ws2dhugo.md) `dc_n7ws2dhugo` · Pix 1
@@ -126,12 +127,18 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 - 2026-10-28 [Topic page text: Desks, desk image and manager forks](docs/note/2026-10/2026-10-28-topic-page-text-desks-desk-image-and-manager-forks-yi3uxcpb.md) `dc_3iyi3uxcpb` · Root
 - 2026-10-28 [Topic page draft: Objectives, key results and KPIs (code)](docs/note/2026-10/2026-10-28-topic-page-draft-objectives-key-results-and-kpis-c-y3fulqce.md) `dc_fby3fulqce` · Lena
 - 2026-10-28 [Topic page text: Grants, key results and the Town Hall in-tray](docs/note/2026-10/2026-10-28-topic-page-text-grants-key-results-and-the-town-ha-cfa3vw0n.md) `dc_mucfa3vw0n` · Root
-- 2026-10-28 [Topic page draft: Visitor agent reports](docs/note/2026-10/2026-10-28-topic-page-draft-visitor-agent-reports-ze61yw8i.md) `dc_dnze61yw8i` · Lena
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1245)
+## report (1252)
 
+- 2026-11-23 [What it produced block on the goal detail: PR #573 (gr_6kangldj4t step 2)](docs/report/2026-11/2026-11-23-what-it-produced-block-on-the-goal-detail-pr-573-g-nq6aj5d3.md) `dc_ainq6aj5d3` · Pix 1
+- 2026-11-23 [Subtree notices filter and GET /api/goals/:id/produced: PR #567 (gr_6kangldj4t step 1)](docs/report/2026-11/2026-11-23-subtree-notices-filter-and-get-api-goals-id-produc-i604o5w7.md) `dc_rdi604o5w7` · Pix 4
+- 2026-11-23 [Step 1 of gr_mcuj10tupi recovered and in PR #565: Secretary runs no longer need the ranking schedule](docs/report/2026-11/2026-11-23-step-1-of-gr-mcuj10tupi-recovered-and-in-pr-565-se-cbcdeq8y.md) `dc_l4cbcdeq8y` · Pix 1
+- 2026-11-23 [gr_064fmkq31s live check: managing lanes, grant line and check:finance hold; last 219k of "no lane" fixed in PR #562](docs/report/2026-11/2026-11-23-gr-064fmkq31s-live-check-managing-lanes-grant-line-whljoj0g.md) `dc_g0whljoj0g` · Pix 2
+- 2026-11-23 [Town-wide FYI posted: click ask buttons act, dead buttons refused (PR #555 live)](docs/report/2026-11/2026-11-23-town-wide-fyi-posted-click-ask-buttons-act-dead-bu-f0d8s7ao.md) `dc_fxf0d8s7ao` · Pix 4
+- 2026-11-23 [Exploration: no goal can show what was produced under it (feed goal filter is exact-match); proposed gr_6kangldj4t (350k)](docs/report/2026-11/2026-11-23-exploration-no-goal-can-show-what-was-produced-und-03r09xs5.md) `dc_tc03r09xs5` · Pix 4
+- 2026-11-23 [Step 3 parked: steps 1-2 not live (deploy wedged 21 h); docs PR #562 ready](docs/report/2026-11/2026-11-23-step-3-parked-steps-1-2-not-live-deploy-wedged-21-w7ki1tk4.md) `dc_rbw7ki1tk4` · Pix 2
 - 2026-11-23 [Exploration: two in three grants hold at their ceiling and the calibration loop is off; proposed gr_1ilvotnzta (250k)](docs/report/2026-11/2026-11-23-exploration-two-in-three-grants-hold-at-their-ceil-q37e4726.md) `dc_n5q37e4726` · Pix 1
 - 2026-11-22 [Managing cost on the grant page and Spend by goal: PR #560 (gr_064fmkq31s step 2)](docs/report/2026-11/2026-11-22-managing-cost-on-the-grant-page-and-spend-by-goal-z1h0kfop.md) `dc_pmz1h0kfop` · Pix 1
 - 2026-11-22 [Parked: PR #555 merged (27c942dd) but not live yet; post the FYI once it is](docs/report/2026-11/2026-11-22-parked-pr-555-merged-27c942dd-but-not-live-yet-pos-artqbcd4.md) `dc_3tartqbcd4` · Pix 1
@@ -155,13 +162,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-19 [A key result has one parent and one status: PR #521 open, merges when green](docs/report/2026-11/2026-11-19-a-key-result-has-one-parent-and-one-status-pr-521-c8jrw1in.md) `dc_7ac8jrw1in` · Pix 2
 - 2026-11-19 [Objectives are goals: live on fa6bcd8e, kr_zcwoxvsssi claimed](docs/report/2026-11/2026-11-19-objectives-are-goals-live-on-fa6bcd8e-kr-zcwoxvsss-0bdx96zr.md) `dc_iv0bdx96zr` · Pix 1
 - 2026-11-19 [Objectives are goals: PR #506 merged as fa6bcd8e, parked until live](docs/report/2026-11/2026-11-19-objectives-are-goals-pr-506-merged-as-fa6bcd8e-par-6d4xysxl.md) `dc_wg6d4xysxl` · Pix 1
-- 2026-11-19 [Objectives are goals: PR #506 CI red on one web test, fixed, parked again](docs/report/2026-11/2026-11-19-objectives-are-goals-pr-506-ci-red-on-one-web-test-0vonc64z.md) `dc_at0vonc64z` · Pix 1
-- 2026-11-19 [Objectives are goals: PR #506 open, parked on its CI](docs/report/2026-11/2026-11-19-objectives-are-goals-pr-506-open-parked-on-its-ci-q5ygm92b.md) `dc_7zq5ygm92b` · Pix 1
-- 2026-11-18 [Explore tick ordering merged: PR #500 as 99a676b7](docs/report/2026-11/2026-11-18-explore-tick-ordering-merged-pr-500-as-99a676b7-k3bsdvh4.md) `dc_mlk3bsdvh4` · Pix 1
-- 2026-11-18 [Explore tick ordering: PR #500 open, parked on its CI](docs/report/2026-11/2026-11-18-explore-tick-ordering-pr-500-open-parked-on-its-ci-yfslbih2.md) `dc_ysyfslbih2` · Pix 1
-- 2026-11-17 [Onboarding sweep week 1 done: PR #497 merged as 67dd6a73, lag 0 h](docs/report/2026-11/2026-11-17-onboarding-sweep-week-1-done-pr-497-merged-as-67dd-6ointzs1.md) `dc_ox6ointzs1` · Pix 1
-- 2026-11-17 [Onboarding sweep week 1: PR #497 CI failed on manual word cap, fixed, parked again](docs/report/2026-11/2026-11-17-onboarding-sweep-week-1-pr-497-ci-failed-on-manual-1xv3xh01.md) `dc_301xv3xh01` · Pix 1
-- 2026-11-17 [Onboarding sweep week 1: PR #497 open, parked on its CI](docs/report/2026-11/2026-11-17-onboarding-sweep-week-1-pr-497-open-parked-on-its-s2h85p2j.md) `dc_0gs2h85p2j` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

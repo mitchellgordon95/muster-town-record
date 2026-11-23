@@ -40,11 +40,16 @@
   "mapLayout": "fountain",
   "operatingReserveTokens": 200000,
   "retainerLookaheadHours": 6,
+  "stepSizes": {
+    "S": 50000,
+    "M": 150000,
+    "L": 400000
+  },
   "publish": {
     "repoUrl": "https://github.com/mitchellgordon95/muster-town-record.git",
     "tokenSet": false,
-    "lastPushAt": "2026-11-23T14:36:20.083Z",
-    "lastPushCommit": "393fa60f15ce3966f5a8c1ba5d2ee07104d29947",
+    "lastPushAt": "2026-11-23T15:36:19.755Z",
+    "lastPushCommit": "5c5cc9648c0492fcdbd053ae95d731b11762970a",
     "lastPushError": null
   }
 }

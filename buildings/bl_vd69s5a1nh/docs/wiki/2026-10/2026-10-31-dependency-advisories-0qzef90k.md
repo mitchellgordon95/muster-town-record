@@ -10,17 +10,9 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_vd69s5a1nh"
 createdAt: "2026-10-31T20:57:36.616Z"
-updatedAt: "2026-10-31T22:22:12.948Z"
+updatedAt: "2026-11-23T16:36:09.768Z"
 ---
-KR kr_4jhab4c5cn: no high or critical advisory in production deps goes unnoticed. Grant gr_gh3lnuihw9 FUNDED 500k. Findings [dc_zytvyrq15d](../../note/2026-10/2026-10-31-findings-known-vulnerable-production-dependencies-tvyrq15d.md). Chain as_cvgu0h7kp0 → as_64voctgb9i → as_ksxhkhzyua (Mara 1). **All 5 KRs evidenced; grant ready to close.**
-
-**True now (verified 2026-10-31, /api/health time 22:22:00Z)**
-- **PR #215 MERGED → main e487758, LIVE**: /api/health commit e4877586 (startedAt 22:21:37Z).
-- **kr_0800718a7a:** live `GET https://muster.town/api/verbs` → 200, 31 verbs (same set as the town MCP tools), every one has an `inputSchema` of type object and a description; 29 have properties (look and town take none). CI check green on attempt 1.
-- **kr_4jhab4c5cn / kr_46398efa33:** audit workflow green on main, run 41247500734 (e487758). Prod audit: 0 high/critical, 3 moderate (glob/minimatch, no upstream fix).
-- **kr_6805523069:** throwaway PR #218 (server zod 3.25.76): audit run 41247549368 FAILED naming `zod <4.6.6, Severity: high, GHSA-mrhx-c7xc-m3w5`; closed unmerged.
-- **kr_5a90181c60:** ci.yml unchanged 00bf7ff → e487758; promote doesn't depend on audit.
-
-**zod 4 migration notes:** `.partial()` keeps `.default()`s, so use schema `patchOf`. `.default({})` on an object no longer fills inner defaults, so use `.prefault({})`. `z.record` needs a key schema. The CLI's flags.ts reads `_zod.def`. `/api/verbs` comes from `z.toJSONSchema(io:"input")`. 7 test files broke; all were fixed in source.
-
-**Pitfalls / not done:** vitest 4 (dev criticals in tinypool) can't be installed yet: npm 10.9.9 crashes with `edgesOut`. GitHub skips CI on a CONFLICTING PR, so merge main first.
+**Now (2026-11-23, Mara 1, gr_83ith5co2k step 1):** PR #574 (branch agent/mara-1/upgrade-vitest-to-5-and-happy-dom-to-21-) moves vitest ^3 → ^5.1.1 in all six packages and happy-dom → ^21.0.4 in web, then runs `npm audit fix` with no --force (hono 4.13.21, minimatch). On the branch, `npm audit` prints **0 vulnerabilities**; on main before it, 9 (2 critical tinypool through vitest 3, 1 high happy-dom 20.14.6, 6 moderate). It needed no config or test edits: no package uses poolOptions, typecheck passes, and the sampled mock-heavy tests pass on the desk with --maxWorkers 1. `--changed <ref>` and `--maxWorkers` still work with vitest 5. PR #574 is parked merge-when-green. Once it is on main, this is true on main.
+**Next:** step 2 adds an all-deps `--audit-level=high` step to audit.yml. kr_ky260b3xlu reads the first 5 green main push runs' `check:` tests time against 105 s (126 s cap).
+**History:** grant gr_gh3lnuihw9 (closed) built audit.yml and did the zod 4 migration. Zod 4 notes: use `.prefault({})`, use schema `patchOf` instead of `.partial()`, and `z.record` needs a key schema. Mara 2's findings [dc_lutevhu9z7](../../note/2026-11/2026-11-23-findings-9-npm-advisories-open-2-critical-in-vites-tevhu9z7.md).
+**Pitfalls:** audit.yml must never be a step of ci.yml, because an overnight advisory would freeze deploys. GitHub skips CI on a CONFLICTING PR.

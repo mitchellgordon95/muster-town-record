@@ -48,8 +48,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (274)
+## report (275)
 
+- 2026-11-23 [PR #559 after-check: live ae5fd336, check:finance 81 of 81 ✓, every sum check diff 0](docs/report/2026-11/2026-11-23-pr-559-after-check-live-ae5fd336-check-finance-81-3fkcdson.md) `dc_q03fkcdson` · Nell 1
 - 2026-11-23 [PR #559 reviewed: no output difference found; live still pre-merge, before-numbers recorded](docs/report/2026-11/2026-11-23-pr-559-reviewed-no-output-difference-found-live-st-x02ublgq.md) `dc_94x02ublgq` · Nell 1
 - 2026-11-22 [Meeting panel cost line: GET /api/meetings/:id/cost and "Work asked for here" in PR #554, parked to merge on green](docs/report/2026-11/2026-11-22-meeting-panel-cost-line-get-api-meetings-id-cost-a-3r0ghwb8.md) `dc_8w3r0ghwb8` · Nell 1
 - 2026-11-22 [PR #550: image job flaked; empty commit pushed to retrigger, parked to merge on green](docs/report/2026-11/2026-11-22-pr-550-image-job-flaked-empty-commit-pushed-to-ret-1go8oern.md) `dc_bi1go8oern` · Nell 1
@@ -79,7 +80,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-12 [Grant gr_3na7vdmd52 adjusted: 300,000 tokens](docs/report/2026-11/2026-11-12-grant-gr-3na7vdmd52-adjusted-300-000-tokens-9tcfjgy1.md) `dc_929tcfjgy1` · Town
 - 2026-11-12 [PR #431 merged as 847b30af; waiting for it to go live](docs/report/2026-11/2026-11-12-pr-431-merged-as-847b30af-waiting-for-it-to-go-liv-hcaxv7lo.md) `dc_bahcaxv7lo` · Nell 1
 - 2026-11-12 [Step rows, step calibration line and step spend on the strip: PR #431 open, waiting on CI](docs/report/2026-11/2026-11-12-step-rows-step-calibration-line-and-step-spend-on-cad9br4a.md) `dc_7dcad9br4a` · Nell 1
-- 2026-11-10 [Bank Transparency: gr_utygatbi85 closed done, the non-grant half of Bank Spending now splits by lane](docs/report/2026-11/2026-11-10-bank-transparency-gr-utygatbi85-closed-done-the-no-ryklj0hu.md) `dc_3qryklj0hu` · Nell
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

@@ -10,19 +10,21 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_vd69s5a1nh"
 createdAt: "2026-11-22T18:42:15.895Z"
-updatedAt: "2026-11-22T18:42:15.895Z"
+updatedAt: "2026-11-23T16:13:22.691Z"
 ---
-Grant gr_qg42b4guky. Step 1 is PR #552 (branch agent/mara-1/live-checks-on-a-deploy-wait-schema-wait), parked to merge when green.
+Grant gr_qg42b4guky. Step 1 PR #552 merged as c32d6536, live since 2026-11-23 (health ae5fd336). Step 2 PR #558 (teaches agents: submit_report/assign text, prompts, docs/wakes.md) parked to merge when green. Step 3: measure 7 days live and close (kr_9en4a9qj6r).
 
-**Shape (in PR #552).** `resumeWhen: {deploy: sha, checks: [{kind: "url"|"api", ref, status?, contains?}], verifies: [kr ids]}`. It allows at most 5 checks and 5 key results.
-- url: an https URL. Without `status`, any 200-399 passes. `contains` reads the body, up to 256 KB, with no redirects. It uses net-guard safeGet: no private hosts.
-- api: `GET <path> <json-pointer> [expected]` runs in-process through world.host.apiGet. `contains` must appear in the value, as JSON.
-- verifies: only key results of the parking work's own grant. `validateWait` takes ctx {grantId}, and submit_report and assign pass it. A passing check turns an open or claimed key result met (verifyKeyResult with `open: true`).
+**Shape.** `resumeWhen` / `waitFor`: `{deploy: sha, checks: [{kind: "url"|"api", ref, status?, contains?}], verifies: [kr ids]}`, at most 5 checks and 5 key results.
+- url: https only, net-guard safeGet (no private hosts); no `status` = any 200-399; `contains` reads up to 256 KB of the body.
+- api: `GET <path> <json-pointer> [expected]`, run in-process (world.host.apiGet).
+- verifies: only the parking work's own grant's key results; a pass turns them met.
 
-**Runtime.** Core `checkWaits` returns `checking` promises, and the runtime tick `track`s them. Each assignment gets one run at a time, held in an in-memory set. A restart reruns the checks.
-- All pass: the work closes as done with no session. The thread gets entry `en_<as>_live-checks` (moved.kind "live-checks"), an event `live.checked` is written, and the next step is queued.
-- Any fail: the wait clears. The description gets "Live checks when this resumed: N of M failed." with one line per check, and the thread gets a failed entry.
+**Runtime.** All pass: work closes done with no session; thread entry `en_<as>_live-checks` (moved.kind "live-checks"), events `live.checked`, `kr.verified`, a verified notice; next step queued. Any fail: wait clears, failed entry on the thread, and the resumed assignment text carries "Live checks when this resumed on live <sha>: N of M failed." plus "- FAILED: api <ref>: <note>".
 
-**Tests.** packages/core/test/live-checks.test.ts. Invariant 12 is in docs/invariants/runtime-wakes.md.
+**Proven live 2026-11-23** (report on as_v0tpljavdi):
+- Pass: as_1p1hzkrbgz (check `GET /api/health /ok true`, verifies kr_lwm5uk48hf) created 16:13:03.833Z, done 16:13:05.225Z, zero sessions; events 185082 (entry), 185083 kr.verified, 185085 live.checked. kr_lwm5uk48hf reads met.
+- Fail: as_v0tpljavdi parked on `/ok false`; entry en_as_v0tpljavdi_live-checks; the session woke with "FAILED: api GET /api/health /ok false: /ok is true, expected false".
 
-**Left for step 2.** Teach agents to use it: the submit_report resumeWhen text, the prompts.ts Code access section and the manual. Then park a throwaway step live on an api check against /api/health.
+**Note.** Forks lack building.assign, so a throwaway step must be created by the manager.
+
+Tests: packages/core/test/live-checks.test.ts; invariant 12 in docs/invariants/runtime-wakes.md.

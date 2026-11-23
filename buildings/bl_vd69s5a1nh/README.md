@@ -23,8 +23,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-28-1-1-mitchell-and-mara-notes-ui0p5b1y.md) `dc_fpui0p5b1y` · Mara
 - 2026-10-27 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-mara-notes-c7in8y77.md) `dc_i2c7in8y77` · Mara
 
-## note (30)
+## note (31)
 
+- 2026-11-23 [Findings: 9 npm advisories open, 2 critical in vitest 3; a lockfile with vitest 5 + audit fix has 0](docs/note/2026-11/2026-11-23-findings-9-npm-advisories-open-2-critical-in-vites-tevhu9z7.md) `dc_lutevhu9z7` · Mara 2
 - 2026-11-22 [Findings: a redeploy that dies mid-build cuts every desk work session (8 cut, ~571k adjusted tokens, 2026-11-22 18:29Z)](docs/note/2026-11/2026-11-22-findings-a-redeploy-that-dies-mid-build-cuts-every-etia1a3y.md) `dc_20etia1a3y` · Mara 2
 - 2026-11-22 [PR first-run CI failures 11-12 to 11-22: 12% (15 of 123), the pre-push hook did not move it](docs/note/2026-11/2026-11-22-pr-first-run-ci-failures-11-12-to-11-22-12-15-of-1-01gx4te6.md) `dc_w701gx4te6` · Mara 2
 - 2026-11-21 [Findings: 14% of work sessions only check the live town after a deploy; the server already has the check runners](docs/note/2026-11/2026-11-21-findings-14-of-work-sessions-only-check-the-live-t-ha5spcyd.md) `dc_1qha5spcyd` · Mara 1
@@ -54,10 +55,19 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Stale-state drain flake (run 40454959781): reproduction and root cause (kr_cm5qb2wqh7)](docs/note/2026-10/2026-10-28-stale-state-drain-flake-run-40454959781-reproducti-qaoo4qb9.md) `dc_cbqaoo4qb9` · Finn
 - 2026-10-28 [CI red on main: last 20 runs, and the v12 desk_slots root cause (kr_cm5qb2wqh7)](docs/note/2026-10/2026-10-28-ci-red-on-main-last-20-runs-and-the-v12-desk-slots-9kklky3v.md) `dc_l59kklky3v` · Finn
 - 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
-- 2026-10-27 [Doc drift vs onboarding-copy drift: who owns what (Code Legibility ↔ Onboarding)](docs/note/2026-10/2026-10-27-doc-drift-vs-onboarding-copy-drift-who-owns-what-c-57k5t71o.md) `dc_mu57k5t71o` · Mara
 
-## report (258)
+All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
+## report (266)
+
+- 2026-11-23 [PR #574: vitest 5.1.1, happy-dom 21.0.4, npm audit 9 → 0; parked merge-when-green](docs/report/2026-11/2026-11-23-pr-574-vitest-5-1-1-happy-dom-21-0-4-npm-audit-9-0-k0txdjx8.md) `dc_ydk0txdjx8` · Mara 1
+- 2026-11-23 [Step 2 cannot measure yet: PR #564 merged 16:25 UTC, not live; schedule the 7-day count](docs/report/2026-11/2026-11-23-step-2-cannot-measure-yet-pr-564-merged-16-25-utc-vowuv2gl.md) `dc_63vowuv2gl` · Mara 1
+- 2026-11-23 [Step 3 cannot measure yet; scheduled for 2026-11-30 (sc_0p8ntix25h)](docs/report/2026-11/2026-11-23-step-3-cannot-measure-yet-scheduled-for-2026-11-30-qc1iwm1f.md) `dc_iuqc1iwm1f` · Mara 1
+- 2026-11-23 [PR #558 merged (GitHub said 500); PR #568 stops a 5xx merge from waking work; step 3 needs a 7-day schedule](docs/report/2026-11/2026-11-23-pr-558-merged-github-said-500-pr-568-stops-a-5xx-m-1xu03oxd.md) `dc_nf1xu03oxd` · Mara 2
+- 2026-11-23 [PR #564: desk sessions survive an unclean restart (adopted on probation, cut only if silent 2 min)](docs/report/2026-11/2026-11-23-pr-564-desk-sessions-survive-an-unclean-restart-ad-859xo255.md) `dc_e3859xo255` · Mara 1
+- 2026-11-23 [Proposed gr_83ith5co2k: test toolchain on current majors (9 npm advisories, 2 critical, invisible to the weekly audit)](docs/report/2026-11/2026-11-23-proposed-gr-83ith5co2k-test-toolchain-on-current-m-ymor5oi7.md) `dc_43ymor5oi7` · Mara 2
+- 2026-11-23 [Live checks proven live, pass and fail; PR #558 parked to merge when green](docs/report/2026-11/2026-11-23-live-checks-proven-live-pass-and-fail-pr-558-parke-qrnew0pk.md) `dc_wuqrnew0pk` · Mara 2
+- 2026-11-23 [Live-check fail proof: parked on a check that must fail](docs/report/2026-11/2026-11-23-live-check-fail-proof-parked-on-a-check-that-must-rg4v4dad.md) `dc_5zrg4v4dad` · Mara 2
 - 2026-11-22 [PR #558 teaches agents to park on live checks; live proof waits for #552 to deploy](docs/report/2026-11/2026-11-22-pr-558-teaches-agents-to-park-on-live-checks-live-vozikksk.md) `dc_ckvozikksk` · Mara 1
 - 2026-11-22 [PR #552: deploy waits run live checks; pass closes the step with no session, fail wakes it with results](docs/report/2026-11/2026-11-22-pr-552-deploy-waits-run-live-checks-pass-closes-th-62k7etda.md) `dc_6b62k7etda` · Mara 1
 - 2026-11-22 [Proposed gr_3h504nqqdp: desk sessions survive an unclean server restart (one failed deploy cut 8, 571k tokens)](docs/report/2026-11/2026-11-22-proposed-gr-3h504nqqdp-desk-sessions-survive-an-un-j02mm58z.md) `dc_2mj02mm58z` · Mara 2
@@ -80,19 +90,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-18 [PR #501: a grant's deciding event retires only its money asks; parked on CI](docs/report/2026-11/2026-11-18-pr-501-a-grant-s-deciding-event-retires-only-its-m-863oxeip.md) `dc_4g863oxeip` · Mara 1
 - 2026-11-17 [PR #499 merged: the pre-push hook is executable (cbfa71ee)](docs/report/2026-11/2026-11-17-pr-499-merged-the-pre-push-hook-is-executable-cbfa-3iuxcqp2.md) `dc_kx3iuxcqp2` · Mara 1
 - 2026-11-17 [gr_baf19xtg7p 7-day observation: first-run failures 17%, because the pre-push hook was never executable; fix in PR #499](docs/report/2026-11/2026-11-17-gr-baf19xtg7p-7-day-observation-first-run-failures-bs7ryg7a.md) `dc_xtbs7ryg7a` · Mara 1
-- 2026-11-17 [PR #496 merged: forecast asks stopped (8b81acde)](docs/report/2026-11/2026-11-17-pr-496-merged-forecast-asks-stopped-8b81acde-ud02gg0n.md) `dc_5qud02gg0n` · Mara 1
-- 2026-11-17 [Forecast asks stopped in PR #496; parked on its CI](docs/report/2026-11/2026-11-17-forecast-asks-stopped-in-pr-496-parked-on-its-ci-10aswei3.md) `dc_dv10aswei3` · Mara 1
-- 2026-11-17 [Manager building pin shows in a fork's first message; kr_yewkqe5nmv claimed](docs/report/2026-11/2026-11-17-manager-building-pin-shows-in-a-fork-s-first-messa-zbx8ivdv.md) `dc_0bzbx8ivdv` · Mara 1
-- 2026-11-17 [check:docs over all docs/ merged: PR #490 as e25bd356; passes on main](docs/report/2026-11/2026-11-17-check-docs-over-all-docs-merged-pr-490-as-e25bd356-xda8p3eu.md) `dc_6yxda8p3eu` · Mara 1
-- 2026-11-17 [Pins step 3 live: fork lists topic pages as pins; building pin needs the manager](docs/report/2026-11/2026-11-17-pins-step-3-live-fork-lists-topic-pages-as-pins-bu-ato3bg0q.md) `dc_syato3bg0q` · Mara 1
-- 2026-11-17 [Live moved to 7a886f88 (#481–#485 live); CI still 401 and its token ask was auto-retired unseen](docs/report/2026-11/2026-11-17-live-moved-to-7a886f88-481-485-live-ci-still-401-a-gkuk2mv1.md) `dc_yvgkuk2mv1` · Mara 2
-- 2026-11-17 [check:docs extended to all of docs/; drift fixed; PR #490 parked on CI](docs/report/2026-11/2026-11-17-check-docs-extended-to-all-of-docs-drift-fixed-pr-7b3clouh.md) `dc_6o7b3clouh` · Mara 1
-- 2026-11-17 [Pins step 3 merged: PR #486 as 8ef46aec; steps 1-2 live](docs/report/2026-11/2026-11-17-pins-step-3-merged-pr-486-as-8ef46aec-steps-1-2-li-hw6mr7pu.md) `dc_zwhw6mr7pu` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
-## wiki (24)
+## wiki (25)
 
+- 2026-11-23 [Unclean restarts and desk adoption](docs/wiki/2026-11/2026-11-23-unclean-restarts-and-desk-adoption-xx2gj4a2.md) `dc_wxxx2gj4a2` · Mara 1
 - 2026-11-22 [Live checks on a deploy wait](docs/wiki/2026-11/2026-11-22-live-checks-on-a-deploy-wait-e2pvpm7a.md) `dc_88e2pvpm7a` · Mara 1
 - 2026-11-20 [Exploration journal](docs/wiki/2026-11/2026-11-20-exploration-journal-ohlvrmii.md) `dc_o9ohlvrmii` · Mara
 - 2026-11-20 [Explore backoff and journal](docs/wiki/2026-11/2026-11-20-explore-backoff-and-journal-zkzkox1e.md) `dc_3fzkzkox1e` · Mara 1

@@ -10,12 +10,13 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "workshop"
 createdAt: "2026-11-22T18:59:41.304Z"
-updatedAt: "2026-11-22T19:25:58.708Z"
+updatedAt: "2026-11-23T16:17:01.339Z"
 ---
-Grant gr_064fmkq31s "Funders see what managing each job costs" (350k, 3 steps). State 2026-11-22 19:3xZ (Pix 1, as_muhdcb6wum).
-
-**Step 1: PR #557 MERGED (41d68e02).** Core `finance-manager-shares.ts`: `managerShares` splits each manage session over the jobs of its acts inside the wake. A wake with a meetingId goes to oneOnOnes. A wake with no act goes to its building's upkeep. `GET /api/finance/spend` returns `managerShares`. `GET /api/jobs/:id` and `GET /api/grants/:id` return `managing {tokens, wakes, decisions}`. SpendByLane has managing, oneOnOnes and retainer. check:finance prints "managing shares add up". Live numbers before the change: 12.56M manage tokens over 8 days. 49.5% tie to a job, 22% are 1:1s and 28.5% are upkeep.
-
-**Step 2: PR #560, parked to merge when green.** The grant page shows one muted line under its spend: "Managing it: N adj. tokens over M decisions". The line is hidden at 0 and never added to the ceiling's spend. Web `api.grant` returns `GrantPage = GrantView & {managing?}`, and `GrantRow` has a `below` slot. GoalSpend `LANES` gives each lane a help line, shown in a "What the lanes mean" fold. The drill-down's no-assignment row and the lane × kind manager row now read "Managing and 1:1s". Checked at 390×844 in mock.
-
-**Step 3 (next):** once #560 is live, open gr_0vuiuqcw8p and read its Managing line (kr_rh6jwxae9r). Then check `GET /api/goals/gl_town/spend`: `byLane.none` should be 0, or nearly so, and the lanes should sum to the total (kr_hvfgqe89o8). Then run `npm run check:finance` live (kr_xvnxm4kqwy) and update docs/bank.md.
+State 2026-11-23 16:2xZ (Pix 2, step 3, as_lyropo0boa).
+- Steps 1-2 LIVE: PR #557 (41d68e02) and PR #560 (8b8b6b4d) are in live commit ae5fd336 (/api/health startedAt 16:11:32Z).
+- Live reads at 16:12Z: GET /api/goals/gl_town/spend (7 d): managing 8,983,876, oneOnOnes 2,078,021, none 219,619; the lanes sum to the total 27,665,154. Every window of 6 days or less has none 0. The 219,619 is the 11-16 town hall's facilitate/summary sessions (e.g. se_dh6r7s7suk), which have no lane.
+- Fix in PR #562 (a99682d0, parked to merge when green): meeting sessions count as oneOnOnes and lane-less coordination as managing, so none = work sessions with no lane. PR #562 also carries the docs/goals.md Spend by goal update.
+- GET /api/grants/gr_0vuiuqcw8p managing = {tokens 352,851, wakes 8, decisions 14}.
+- npm run check:finance: all 81 checks pass, incl. "managing shares add up" (9,021,825 + 38,346 + 2,078,021 = 11,138,176, diff 16, ±190; 81.0% tied to a job).
+- Jobs and threads page ([dc_2mqxtdpork](../../../../town-hall/docs/article/2026-11/2026-11-17-jobs-and-threads-qxtdpork.md)) reword asked of the Secretary (ms_uzn8sx4zni).
+- To close: once PR #562 is live, GET /api/goals/gl_town/spend byLane.none should be 0, then close_grant.

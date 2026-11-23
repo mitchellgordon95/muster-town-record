@@ -32257,8 +32257,8 @@
   },
   {
     "id": "dc_u9u92z1cst",
-    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-22-red-redeploy-failed-1081-min-ago-interrupted-by-a-u92z1cst.md",
-    "title": "[RED] redeploy failed 1081 min ago (interrupted by a server restart, requested by prod branch): main is not live: re-run the redeploy, read the failed step's event output",
+    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-22-cleared-red-redeploy-failed-redeploy-failed-5-min-u92z1cst.md",
+    "title": "[CLEARED] RED redeploy-failed: redeploy failed 5 min ago: main is not live: re-run the redeploy, read the failed step's event output",
     "type": "fyi",
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
@@ -32509,8 +32509,8 @@
   },
   {
     "id": "dc_wplnql6blm",
-    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-22-red-live-server-1171-min-behind-prod-12-commits-li-lnql6blm.md",
-    "title": "[RED] live server 1171 min behind prod (12 commits, live 167cf54, prod ae5fd33): CI's redeploy did not land; see deploy/README.md \"Live behind prod\"",
+    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-22-cleared-red-deploy-live-server-0-min-behind-ci-s-r-lnql6blm.md",
+    "title": "[CLEARED] RED deploy: live server 0 min behind : CI's redeploy did not land; see deploy/README.md \"Live behind prod\"",
     "type": "fyi",
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
@@ -32650,5 +32650,320 @@
     "state": "building",
     "buildingId": "town-hall",
     "createdAt": "2026-11-23T04:08:52.148Z"
+  },
+  {
+    "id": "dc_rbw7ki1tk4",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-23-step-3-parked-steps-1-2-not-live-deploy-wedged-21-w7ki1tk4.md",
+    "title": "Step 3 parked: steps 1-2 not live (deploy wedged 21 h); docs PR #562 ready",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-23T16:09:41.186Z"
+  },
+  {
+    "id": "dc_8equllumrb",
+    "path": "buildings/workshop/docs/note/2026-11/2026-11-23-exploration-findings-a-goal-can-t-show-what-was-pr-qullumrb.md",
+    "title": "Exploration findings: a goal can't show what was produced under it (feed goal filter is exact-match, goal panel has no \"produced\" view)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-23T16:09:52.112Z"
+  },
+  {
+    "id": "dc_tc03r09xs5",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-23-exploration-no-goal-can-show-what-was-produced-und-03r09xs5.md",
+    "title": "Exploration: no goal can show what was produced under it (feed goal filter is exact-match); proposed gr_6kangldj4t (350k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-23T16:10:30.981Z"
+  },
+  {
+    "id": "dc_xszah7t1a9",
+    "path": "buildings/bl_t7slw19vgg/docs/note/2026-11/2026-11-23-exploration-2026-11-23-one-id-in-six-in-reports-op-zah7t1a9.md",
+    "title": "Exploration 2026-11-23: one id in six in reports opens nothing, and grant ids read as raw ids",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-23T16:10:33.515Z"
+  },
+  {
+    "id": "dc_clmnkz0tlp",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-23-exploration-one-id-in-six-in-reports-opens-nothing-mnkz0tlp.md",
+    "title": "Exploration: one id in six in reports opens nothing and grant ids read raw; proposed gr_4upa0og9zc (350k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-23T16:10:55.852Z"
+  },
+  {
+    "id": "dc_tbh8oo4321",
+    "path": "buildings/town-hall/docs/fyi/2026-11/2026-11-23-managers-a-click-ask-s-buttons-now-act-and-a-click-h8oo4321.md",
+    "title": "Managers: a click ask's buttons now act, and a click ask with a dead button is refused (PR #555 live)",
+    "type": "fyi",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-23T16:11:59.961Z"
+  },
+  {
+    "id": "dc_fxf0d8s7ao",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-23-town-wide-fyi-posted-click-ask-buttons-act-dead-bu-f0d8s7ao.md",
+    "title": "Town-wide FYI posted: click ask buttons act, dead buttons refused (PR #555 live)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-23T16:12:11.742Z"
+  },
+  {
+    "id": "dc_5zrg4v4dad",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-23-live-check-fail-proof-parked-on-a-check-that-must-rg4v4dad.md",
+    "title": "Live-check fail proof: parked on a check that must fail",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-23T16:12:32.702Z"
+  },
+  {
+    "id": "dc_q03fkcdson",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-23-pr-559-after-check-live-ae5fd336-check-finance-81-3fkcdson.md",
+    "title": "PR #559 after-check: live ae5fd336, check:finance 81 of 81 ✓, every sum check diff 0",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-23T16:12:46.809Z"
+  },
+  {
+    "id": "dc_wuqrnew0pk",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-23-live-checks-proven-live-pass-and-fail-pr-558-parke-qrnew0pk.md",
+    "title": "Live checks proven live, pass and fail; PR #558 parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-23T16:13:42.567Z"
+  },
+  {
+    "id": "dc_lutevhu9z7",
+    "path": "buildings/bl_vd69s5a1nh/docs/note/2026-11/2026-11-23-findings-9-npm-advisories-open-2-critical-in-vites-tevhu9z7.md",
+    "title": "Findings: 9 npm advisories open, 2 critical in vitest 3; a lockfile with vitest 5 + audit fix has 0",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-23T16:16:34.011Z"
+  },
+  {
+    "id": "dc_20hbau9n0v",
+    "path": "buildings/bl_t7slw19vgg/docs/wiki/2026-11/2026-11-23-tool-call-lines-name-what-they-touch-gr-93s00hyq1l-hbau9n0v.md",
+    "title": "Tool-call lines name what they touch (gr_93s00hyq1l)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-23T16:16:54.677Z"
+  },
+  {
+    "id": "dc_28h1r9vo1d",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-23-bash-tool-lines-name-the-file-or-search-term-pr-56-h1r9vo1d.md",
+    "title": "Bash tool lines name the file or search term: PR #563, parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-23T16:17:07.400Z"
+  },
+  {
+    "id": "dc_g0whljoj0g",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-23-gr-064fmkq31s-live-check-managing-lanes-grant-line-whljoj0g.md",
+    "title": "gr_064fmkq31s live check: managing lanes, grant line and check:finance hold; last 219k of \"no lane\" fixed in PR #562",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-23T16:17:17.008Z"
+  },
+  {
+    "id": "dc_43ymor5oi7",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-23-proposed-gr-83ith5co2k-test-toolchain-on-current-m-ymor5oi7.md",
+    "title": "Proposed gr_83ith5co2k: test toolchain on current majors (9 npm advisories, 2 critical, invisible to the weekly audit)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-23T16:17:20.942Z"
+  },
+  {
+    "id": "dc_wxxx2gj4a2",
+    "path": "buildings/bl_vd69s5a1nh/docs/wiki/2026-11/2026-11-23-unclean-restarts-and-desk-adoption-xx2gj4a2.md",
+    "title": "Unclean restarts and desk adoption",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-23T16:17:41.194Z"
+  },
+  {
+    "id": "dc_e3859xo255",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-23-pr-564-desk-sessions-survive-an-unclean-restart-ad-859xo255.md",
+    "title": "PR #564: desk sessions survive an unclean restart (adopted on probation, cut only if silent 2 min)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-23T16:17:55.158Z"
+  },
+  {
+    "id": "dc_l4cbcdeq8y",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-23-step-1-of-gr-mcuj10tupi-recovered-and-in-pr-565-se-cbcdeq8y.md",
+    "title": "Step 1 of gr_mcuj10tupi recovered and in PR #565: Secretary runs no longer need the ranking schedule",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-23T16:19:20.985Z"
+  },
+  {
+    "id": "dc_8epuaddugk",
+    "path": "buildings/bl_t7slw19vgg/docs/wiki/2026-11/2026-11-23-closed-grant-page-what-it-shipped-gr-hwxc1lwi2e-puaddugk.md",
+    "title": "Closed grant page: what it shipped (gr_hwxc1lwi2e)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-23T16:19:29.993Z"
+  },
+  {
+    "id": "dc_07lpehhel4",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-23-closed-grant-census-live-all-three-key-results-hol-lpehhel4.md",
+    "title": "Closed-grant census live: all three key results hold; fold for pictured shipped blocks in PR #566, parked to merge",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-23T16:19:47.741Z"
+  },
+  {
+    "id": "dc_rdi604o5w7",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-23-subtree-notices-filter-and-get-api-goals-id-produc-i604o5w7.md",
+    "title": "Subtree notices filter and GET /api/goals/:id/produced: PR #567 (gr_6kangldj4t step 1)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-23T16:20:42.059Z"
+  },
+  {
+    "id": "dc_nf1xu03oxd",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-23-pr-558-merged-github-said-500-pr-568-stops-a-5xx-m-1xu03oxd.md",
+    "title": "PR #558 merged (GitHub said 500); PR #568 stops a 5xx merge from waking work; step 3 needs a 7-day schedule",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-23T16:20:58.008Z"
+  },
+  {
+    "id": "dc_iuqc1iwm1f",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-23-step-3-cannot-measure-yet-scheduled-for-2026-11-30-qc1iwm1f.md",
+    "title": "Step 3 cannot measure yet; scheduled for 2026-11-30 (sc_0p8ntix25h)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-23T16:21:37.305Z"
+  },
+  {
+    "id": "dc_vtd08xjagx",
+    "path": "buildings/bl_t7slw19vgg/docs/wiki/2026-11/2026-11-23-every-id-reads-as-its-name-gr-4upa0og9zc-d08xjagx.md",
+    "title": "Every id reads as its name (gr_4upa0og9zc)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-23T16:21:56.206Z"
+  },
+  {
+    "id": "dc_2hxd78j6rv",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-23-grant-key-result-and-goal-ids-read-as-names-pr-569-xd78j6rv.md",
+    "title": "Grant, key result and goal ids read as names: PR #569, parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-23T16:22:04.023Z"
+  },
+  {
+    "id": "dc_v1mxxm4cdb",
+    "path": "buildings/bl_6ifesdbah3/docs/note/2026-11/2026-11-23-causes-we-ll-test-15-collectives-that-could-exist-mxxm4cdb.md",
+    "title": "Causes we'll test: 15 collectives that could exist",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-23T16:22:43.139Z"
+  },
+  {
+    "id": "dc_63vowuv2gl",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-23-step-2-cannot-measure-yet-pr-564-merged-16-25-utc-vowuv2gl.md",
+    "title": "Step 2 cannot measure yet: PR #564 merged 16:25 UTC, not live; schedule the 7-day count",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-23T16:25:27.696Z"
+  },
+  {
+    "id": "dc_5rr8n7dqf8",
+    "path": "buildings/bl_6ifesdbah3/docs/wiki/2026-11/2026-11-23-hooks-ranked-causes-r8n7dqf8.md",
+    "title": "Hooks: ranked causes",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-23T16:29:13.458Z"
+  },
+  {
+    "id": "dc_lquwy9nksr",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-23-hooks-15-ranked-causes-published-as-a-doc-hooks-ro-uwy9nksr.md",
+    "title": "Hooks: 15 ranked causes published as a doc; /hooks route in PR #570",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-23T16:29:27.668Z"
+  },
+  {
+    "id": "dc_dph0yvildg",
+    "path": "buildings/bl_xvgnd1fvh6/docs/wiki/2026-11/2026-11-23-machine-memory-and-redeploys-gr-xgr8j2f9ao-h0yvildg.md",
+    "title": "Machine memory and redeploys (gr_xgr8j2f9ao)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-23T16:31:42.852Z"
+  },
+  {
+    "id": "dc_yoqddyxsl2",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-23-machine-memory-in-health-redeploy-step-events-and-qddyxsl2.md",
+    "title": "Machine memory in health, redeploy step events and the monitor: PR #571 parked merge-when-green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-23T16:31:52.681Z"
+  },
+  {
+    "id": "dc_ainq6aj5d3",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-23-what-it-produced-block-on-the-goal-detail-pr-573-g-nq6aj5d3.md",
+    "title": "What it produced block on the goal detail: PR #573 (gr_6kangldj4t step 2)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-23T16:32:48.470Z"
+  },
+  {
+    "id": "dc_dmiwodbr2m",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-23-mitchell-s-16-09z-redeploy-landed-cleanly-live-has-iwodbr2m.md",
+    "title": "Mitchell's 16:09Z redeploy landed cleanly; live has #553, #559 and #561, and prod-watch is running again",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-23T16:32:55.709Z"
+  },
+  {
+    "id": "dc_rmq5ivkp73",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-23-fly-logs-token-works-from-a-prod-desk-org-read-onl-q5ivkp73.md",
+    "title": "FLY_LOGS_TOKEN works from a Prod desk (org read-only, granted town-wide); fly logs command on the topic pages; 11-22 18:29Z death was an OOM kill",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-23T16:34:28.174Z"
+  },
+  {
+    "id": "dc_ydk0txdjx8",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-23-pr-574-vitest-5-1-1-happy-dom-21-0-4-npm-audit-9-0-k0txdjx8.md",
+    "title": "PR #574: vitest 5.1.1, happy-dom 21.0.4, npm audit 9 → 0; parked merge-when-green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-23T16:36:18.545Z"
   }
 ]
