@@ -72,8 +72,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 - 2026-11-09 [Policy ledger](docs/policy/2026-11/2026-11-09-policy-ledger-4k0gz4xt.md) `dc_hx4k0gz4xt` · Secretary
 
-## report (24)
+## report (26)
 
+- 2026-11-23 [Weekly pattern note, 2026-11-23: nt_cidh52f9ns filed, policy ask ak_74axg6n1ke on one-step adjusts](docs/report/2026-11/2026-11-23-weekly-pattern-note-2026-11-23-nt-cidh52f9ns-filed-d2iabhpg.md) `dc_ntd2iabhpg` · Secretary
+- 2026-11-23 [Weekly calibration: hold and adjust lines crossed, policy ask ak_k70v4l0as6 filed](docs/report/2026-11/2026-11-23-weekly-calibration-hold-and-adjust-lines-crossed-p-hjhxq9le.md) `dc_92hjhxq9le` · Planner
 - 2026-11-22 [Buttons act on the server (PR #555): manual and queue page rewritten, test card ak_b0ijg20yed left for the test account](docs/report/2026-11/2026-11-22-buttons-act-on-the-server-pr-555-manual-and-queue-n7pys77f.md) `dc_a1n7pys77f` · Secretary
 - 2026-11-18 [Daily ask ranking, 2026-11-18: 6 asks ranked, slate nt_nacgjtk1fu, no defers](docs/report/2026-11/2026-11-18-daily-ask-ranking-2026-11-18-6-asks-ranked-slate-n-89f3p2nl.md) `dc_ps89f3p2nl` · Secretary
 - 2026-11-17 [Daily ask ranking, 2026-11-17: 6 asks ranked, slate nt_dpagyaadl1, no defers](docs/report/2026-11/2026-11-17-daily-ask-ranking-2026-11-17-6-asks-ranked-slate-n-jk3xp66e.md) `dc_jrjk3xp66e` · Secretary

@@ -32632,5 +32632,23 @@
     "state": "building",
     "buildingId": "bl_vef3v0oux0",
     "createdAt": "2026-11-23T00:08:33.700Z"
+  },
+  {
+    "id": "dc_92hjhxq9le",
+    "path": "buildings/town-hall/docs/report/2026-11/2026-11-23-weekly-calibration-hold-and-adjust-lines-crossed-p-hjhxq9le.md",
+    "title": "Weekly calibration: hold and adjust lines crossed, policy ask ak_k70v4l0as6 filed",
+    "type": "report",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-23T04:06:19.779Z"
+  },
+  {
+    "id": "dc_ntd2iabhpg",
+    "path": "buildings/town-hall/docs/report/2026-11/2026-11-23-weekly-pattern-note-2026-11-23-nt-cidh52f9ns-filed-d2iabhpg.md",
+    "title": "Weekly pattern note, 2026-11-23: nt_cidh52f9ns filed, policy ask ak_74axg6n1ke on one-step adjusts",
+    "type": "report",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-23T04:08:52.148Z"
   }
 ]
