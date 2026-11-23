@@ -32257,8 +32257,8 @@
   },
   {
     "id": "dc_u9u92z1cst",
-    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-22-red-redeploy-failed-721-min-ago-interrupted-by-a-s-u92z1cst.md",
-    "title": "[RED] redeploy failed 721 min ago (interrupted by a server restart, requested by prod branch): main is not live: re-run the redeploy, read the failed step's event output",
+    "path": "buildings/bl_xvgnd1fvh6/docs/fyi/2026-11/2026-11-22-red-redeploy-failed-1081-min-ago-interrupted-by-a-u92z1cst.md",
+    "title": "[RED] redeploy failed 1081 min ago (interrupted by a server restart, requested by prod branch): main is not live: re-run the redeploy, read the failed step's event output",
     "type": "fyi",
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
