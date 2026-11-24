@@ -130,8 +130,9 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1260)
+## report (1261)
 
+- 2026-11-24 [gr_bre43gflz9 step 2: one Desks field, desks bound the forks, PR #600 merging on green](docs/report/2026-11/2026-11-24-gr-bre43gflz9-step-2-one-desks-field-desks-bound-t-wky84j16.md) `dc_muwky84j16` · Pix 1
 - 2026-11-24 [gr_bre43gflz9 step 1: exploration cap = desks × town default, PR #598 merging on green](docs/report/2026-11/2026-11-24-gr-bre43gflz9-step-1-exploration-cap-desks-town-de-kl77w1j8.md) `dc_jpkl77w1j8` · Pix 1
 - 2026-11-24 [Onboarding sweep week 2: lag 167.8 h → 0 h, streak 2 of 4; PR #587 merging on green](docs/report/2026-11/2026-11-24-onboarding-sweep-week-2-lag-167-8-h-0-h-streak-2-o-9pziv2x2.md) `dc_2x9pziv2x2` · Pix 1
 - 2026-11-23 [gr_6kangldj4t step 3 done: the subtree feed and the What it produced block checked live on the root, a middle goal and a leaf](docs/report/2026-11/2026-11-23-gr-6kangldj4t-step-3-done-the-subtree-feed-and-the-u7fuofzf.md) `dc_uuu7fuofzf` · Pix 1
@@ -161,7 +162,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-20 [Live check with a second captain: captain request still pending at 20:00Z, check stopped](docs/report/2026-11/2026-11-20-live-check-with-a-second-captain-captain-request-s-h1v6emas.md) `dc_cvh1v6emas` · Pix 1
 - 2026-11-20 [Live check with a second captain: #534 live, captain request still unanswered (no card in the queue); parked to 20:00Z](docs/report/2026-11/2026-11-20-live-check-with-a-second-captain-534-live-captain-bdlw4vu1.md) `dc_sxbdlw4vu1` · Pix 1
 - 2026-11-20 [Live check with a second captain: captain request filed, waiting on Mitchell](docs/report/2026-11/2026-11-20-live-check-with-a-second-captain-captain-request-f-kznc99te.md) `dc_6xkznc99te` · Pix 1
-- 2026-11-20 [Captains decide asks: PR #534 open, merges when green](docs/report/2026-11/2026-11-20-captains-decide-asks-pr-534-open-merges-when-green-3iirg71c.md) `dc_r93iirg71c` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

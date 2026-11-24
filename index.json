@@ -33739,5 +33739,14 @@
     "state": "building",
     "buildingId": "bl_vd69s5a1nh",
     "createdAt": "2026-11-24T22:33:57.961Z"
+  },
+  {
+    "id": "dc_muwky84j16",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-24-gr-bre43gflz9-step-2-one-desks-field-desks-bound-t-wky84j16.md",
+    "title": "gr_bre43gflz9 step 2: one Desks field, desks bound the forks, PR #600 merging on green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-24T22:48:59.764Z"
   }
 ]
