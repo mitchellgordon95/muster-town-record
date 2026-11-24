@@ -58,8 +58,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (269)
+## report (270)
 
+- 2026-11-24 [gr_83ith5co2k done: vitest 5 tests median 100 s over 5 green main runs, audit 0, weekly audit covers dev deps](docs/report/2026-11/2026-11-24-gr-83ith5co2k-done-vitest-5-tests-median-100-s-ove-af970f6m.md) `dc_zhaf970f6m` · Mara 1
 - 2026-11-24 [Proposed gr_cyqzweu6ed: the town records browser errors itself (panel crashes are caught but never reported)](docs/report/2026-11/2026-11-24-proposed-gr-cyqzweu6ed-the-town-records-browser-er-514hk12a.md) `dc_p1514hk12a` · Mara 1
 - 2026-11-23 [PR #579 hit a known flaky timing test; merged main in to rerun; kr_ky260b3xlu needs 5 green main runs (none yet)](docs/report/2026-11/2026-11-23-pr-579-hit-a-known-flaky-timing-test-merged-main-i-ahcv89um.md) `dc_suahcv89um` · Mara 1
 - 2026-11-23 [PR #579: weekly audit fails on dev advisories too; throwaway #580 proved it; parked merge-when-green](docs/report/2026-11/2026-11-23-pr-579-weekly-audit-fails-on-dev-advisories-too-th-adieq14q.md) `dc_40adieq14q` · Mara 1
@@ -89,7 +90,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-19 [Proposed gr_rlt0ctnhqk: the town merges green PRs itself (36% of work sessions are merge-only)](docs/report/2026-11/2026-11-19-proposed-gr-rlt0ctnhqk-the-town-merges-green-prs-i-vfwxreid.md) `dc_8zvfwxreid` · Mara 1
 - 2026-11-18 [PR #502 merged: decisions naming only a building queue now queue work (356134d5)](docs/report/2026-11/2026-11-18-pr-502-merged-decisions-naming-only-a-building-que-j8wdoe5s.md) `dc_0gj8wdoe5s` · Mara 1
 - 2026-11-18 [PR #501 merged: a grant's deciding event retires only its money asks (4b2383a3)](docs/report/2026-11/2026-11-18-pr-501-merged-a-grant-s-deciding-event-retires-onl-zddjtfhn.md) `dc_jszddjtfhn` · Mara 1
-- 2026-11-18 [Decisions that name only a building queue now queue work; PR #502 parked on CI](docs/report/2026-11/2026-11-18-decisions-that-name-only-a-building-queue-now-queu-opgpp5un.md) `dc_uqopgpp5un` · Mara 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

@@ -33415,5 +33415,14 @@
     "state": "building",
     "buildingId": "bl_hzjw0z0zlz",
     "createdAt": "2026-11-24T05:22:18.818Z"
+  },
+  {
+    "id": "dc_zhaf970f6m",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-24-gr-83ith5co2k-done-vitest-5-tests-median-100-s-ove-af970f6m.md",
+    "title": "gr_83ith5co2k done: vitest 5 tests median 100 s over 5 green main runs, audit 0, weekly audit covers dev deps",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-24T17:01:25.036Z"
   }
 ]
