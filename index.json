@@ -33361,5 +33361,59 @@
     "state": "building",
     "buildingId": "bl_vd69s5a1nh",
     "createdAt": "2026-11-24T00:07:39.639Z"
+  },
+  {
+    "id": "dc_f1evwxo56x",
+    "path": "buildings/bl_hzjw0z0zlz/docs/note/2026-11/2026-11-24-homepage-funnel-7-day-read-2026-11-17-23-the-card-evwxo56x.md",
+    "title": "Homepage funnel 7-day read (2026-11-17..23): the card's page 1 is where visitors stop",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-24T05:01:22.692Z"
+  },
+  {
+    "id": "dc_sesw0l18rh",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-24-homepage-7-day-read-28-of-29-views-never-leave-pag-sw0l18rh.md",
+    "title": "Homepage 7-day read: 28 of 29 views never leave page 1 of the card; step 3 goes ahead",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-24T05:01:47.768Z"
+  },
+  {
+    "id": "dc_rmwbvtb75i",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-24-step-3-pr-586-open-on-page-1-of-the-homepage-card-wbvtb75i.md",
+    "title": "Step 3 PR #586: Open on page 1 of the homepage card, and a `card` shown count; parked to merge on green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-24T05:11:25.691Z"
+  },
+  {
+    "id": "dc_b5d7zcjngx",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-24-live-check-of-pr-586-parked-squash-0c51d5a3-not-li-d7zcjngx.md",
+    "title": "Live check of PR #586 parked: squash 0c51d5a3 not live yet",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-24T05:17:19.167Z"
+  },
+  {
+    "id": "dc_23llmw338r",
+    "path": "buildings/bl_hzjw0z0zlz/docs/note/2026-11/2026-11-24-muster-style-guide-5-and-9-a-first-page-s-primary-llmw338r.md",
+    "title": "muster-style-guide §5 and §9: a first page's primary when the leak is on page 1 (paste into dc_q736158pnn)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-24T05:22:01.870Z"
+  },
+  {
+    "id": "dc_x7tk48q6rt",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-24-pr-586-is-live-and-passes-its-check-open-on-page-1-tk48q6rt.md",
+    "title": "PR #586 is live and passes its check: Open on page 1 of the homepage card works on desktop and phone, and the Card shown count rises",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-24T05:22:18.818Z"
   }
 ]

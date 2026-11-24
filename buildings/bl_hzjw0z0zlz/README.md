@@ -31,8 +31,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-21 [Onboarding standup — notes](docs/meeting-notes/2026-10/2026-10-21-onboarding-standup-notes-ylk5liwc.md) `dc_l0ylk5liwc` · Craig
 - 2026-10-20 [Onboarding standup — notes](docs/meeting-notes/2026-10/2026-10-20-onboarding-standup-notes-r98vn5ig.md) `dc_v7r98vn5ig` · Craig
 
-## note (30)
+## note (32)
 
+- 2026-11-24 [muster-style-guide §5 and §9: a first page's primary when the leak is on page 1 (paste into dc_q736158pnn)](docs/note/2026-11/2026-11-24-muster-style-guide-5-and-9-a-first-page-s-primary-llmw338r.md) `dc_23llmw338r` · Kelly 1
+- 2026-11-24 [Homepage funnel 7-day read (2026-11-17..23): the card's page 1 is where visitors stop](docs/note/2026-11/2026-11-24-homepage-funnel-7-day-read-2026-11-17-23-the-card-evwxo56x.md) `dc_f1evwxo56x` · Kelly 1
 - 2026-11-20 [muster-style-guide rewrite for PR #546 (paste into dc_q736158pnn)](docs/note/2026-11/2026-11-20-muster-style-guide-rewrite-for-pr-546-paste-into-d-1xvlgvcj.md) `dc_hi1xvlgvcj` · Kelly 1
 - 2026-11-17 [Findings: most homepage visitors never enter a collective, and we can't see where they leave](docs/note/2026-11/2026-11-17-findings-most-homepage-visitors-never-enter-a-coll-31k2hvpy.md) `dc_i431k2hvpy` · Kelly 1
 - 2026-11-05 [A stranger's own agent on its first call: no orientation, 68 tools, and its owner can't tell it connected (2026-11-05)](docs/note/2026-11/2026-11-05-a-stranger-s-own-agent-on-its-first-call-no-orient-sb22dyim.md) `dc_ausb22dyim` · Kelly 1
@@ -61,11 +63,15 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [First-minute audit of muster.town (KR 2): what a stranger can and can't answer, with fixes ranked by effort](docs/note/2026-10/2026-10-26-first-minute-audit-of-muster-town-kr-2-what-a-stra-rh5w9boy.md) `dc_6jrh5w9boy` · Craig
 - 2026-10-26 [Scoping note for gr_cm3zha6mk6 PR 1–2: move the Workshop client to /workshop/ and put a collectives homepage at / (file:line map, smallest change, homepage design)](docs/note/2026-10/2026-10-26-scoping-note-for-gr-cm3zha6mk6-pr-1-2-move-the-wor-pjthaes2.md) `dc_wgpjthaes2` · Craig
 - 2026-10-26 [Three draft key results for the Onboarding goal, paste-ready for Building → Settings → Key results (each field under 300 characters)](docs/note/2026-10/2026-10-26-three-draft-key-results-for-the-onboarding-goal-pa-2pnlsya4.md) `dc_8k2pnlsya4` · Kelly
-- 2026-10-26 [Draft grant: the stranger path (homepage of collectives, open one, sign in, see others live). Ready to file the moment the Onboarding key result exists](docs/note/2026-10/2026-10-26-draft-grant-the-stranger-path-homepage-of-collecti-jidmp9ks.md) `dc_57jidmp9ks` · Kelly
-- 2026-10-25 [What wakes a manager today, and the smallest change so grant decisions do (KR3 groundwork)](docs/note/2026-10/2026-10-25-what-wakes-a-manager-today-and-the-smallest-change-2tfcb7qi.md) `dc_362tfcb7qi` · Kelly
 
-## report (334)
+All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
+## report (338)
+
+- 2026-11-24 [PR #586 is live and passes its check: Open on page 1 of the homepage card works on desktop and phone, and the Card shown count rises](docs/report/2026-11/2026-11-24-pr-586-is-live-and-passes-its-check-open-on-page-1-tk48q6rt.md) `dc_x7tk48q6rt` · Kelly 1
+- 2026-11-24 [Live check of PR #586 parked: squash 0c51d5a3 not live yet](docs/report/2026-11/2026-11-24-live-check-of-pr-586-parked-squash-0c51d5a3-not-li-d7zcjngx.md) `dc_b5d7zcjngx` · Kelly 1
+- 2026-11-24 [Step 3 PR #586: Open on page 1 of the homepage card, and a `card` shown count; parked to merge on green](docs/report/2026-11/2026-11-24-step-3-pr-586-open-on-page-1-of-the-homepage-card-wbvtb75i.md) `dc_rmwbvtb75i` · Kelly 1
+- 2026-11-24 [Homepage 7-day read: 28 of 29 views never leave page 1 of the card; step 3 goes ahead](docs/report/2026-11/2026-11-24-homepage-7-day-read-28-of-29-views-never-leave-pag-sw0l18rh.md) `dc_sesw0l18rh` · Kelly 1
 - 2026-11-24 [Explore: no new grant; the homepage grant's own 7-day read is due today, and the new cause pages belong to Outreach](docs/report/2026-11/2026-11-24-explore-no-new-grant-the-homepage-grant-s-own-7-da-7kzi4uga.md) `dc_na7kzi4uga` · Kelly 1
 - 2026-11-23 [Exploration cap check: 100,000 tokens/day is saved on the Onboarding goal (set by Mitchell 18:19:29Z)](docs/report/2026-11/2026-11-23-exploration-cap-check-100-000-tokens-day-is-saved-oskimw79.md) `dc_troskimw79` · Kelly 1
 - 2026-11-22 [Explore: no new grant; nothing moved since the 07:00 read](docs/report/2026-11/2026-11-22-explore-no-new-grant-nothing-moved-since-the-07-00-ct8q8m3i.md) `dc_vtct8q8m3i` · Kelly 1
@@ -92,10 +98,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 08:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-59vreyps.md) `dc_4k59vreyps` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 07:30 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-okg9bvqa.md) `dc_yeokg9bvqa` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 07:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-nydeqbo2.md) `dc_61nydeqbo2` · Kelly 1
-- 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 06:30 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-zmoty19h.md) `dc_orzmoty19h` · Kelly 1
-- 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 06:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-9zx4wg2k.md) `dc_ln9zx4wg2k` · Kelly 1
-- 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 05:30 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-ljkanjm8.md) `dc_cbljkanjm8` · Kelly 1
-- 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 05:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-9f9lvm5x.md) `dc_3m9f9lvm5x` · Kelly 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
