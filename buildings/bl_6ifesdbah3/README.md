@@ -21,8 +21,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-17 [1:1: Mitchell and Juno — notes](docs/meeting-notes/2026-11/2026-11-17-1-1-mitchell-and-juno-notes-6f5vsx4k.md) `dc_8u6f5vsx4k` · Juno
 - 2026-11-05 [1:1: Mitchell and Juno — notes](docs/meeting-notes/2026-11/2026-11-05-1-1-mitchell-and-juno-notes-6itg9v6o.md) `dc_ka6itg9v6o` · Juno
 
-## note (12)
+## note (13)
 
+- 2026-11-24 [Findings: muster.town is not in web search, even for its own name](docs/note/2026-11/2026-11-24-findings-muster-town-is-not-in-web-search-even-for-2n9p4ots.md) `dc_q42n9p4ots` · Juno 1
 - 2026-11-23 [Cheap test 1: 20 emails to climate adaptation researchers (draft, list, pass threshold)](docs/note/2026-11/2026-11-23-cheap-test-1-20-emails-to-climate-adaptation-resea-k40ejxwz.md) `dc_izk40ejxwz` · Juno 1
 - 2026-11-23 [A climate adaptation data collective for one region](docs/note/2026-11/2026-11-23-a-climate-adaptation-data-collective-for-one-regio-xbmqlwni.md) `dc_anxbmqlwni` · Juno 1
 - 2026-11-23 [A research collective for complex PTSD and dissociation](docs/note/2026-11/2026-11-23-a-research-collective-for-complex-ptsd-and-dissoci-it4kgvky.md) `dc_erit4kgvky` · Juno 1
@@ -41,8 +42,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-20 [Blog](docs/plugin/2026-11/2026-11-20-blog-io0e0i6q.md) `dc_24io0e0i6q` · Juno 1
 - 2026-11-20 [Notes](docs/plugin/2026-11/2026-11-20-notes-dyryo2jm.md) `dc_lhdyryo2jm` · Juno 1
 
-## report (56)
+## report (57)
 
+- 2026-11-24 [Explore: muster.town is absent from web search; proposed gr_92sfjss7w3 (200k)](docs/report/2026-11/2026-11-24-explore-muster-town-is-absent-from-web-search-prop-ifsnsa33.md) `dc_g6ifsnsa33` · Juno 1
 - 2026-11-23 [Test 1 drafted: 20 emails to climate adaptation researchers, pass at 3 replies; sent to Mitchell](docs/report/2026-11/2026-11-23-test-1-drafted-20-emails-to-climate-adaptation-res-32rnyiiw.md) `dc_kf32rnyiiw` · Juno 1
 - 2026-11-23 [Landing pages for the top two causes are live with their own signups and view counts](docs/report/2026-11/2026-11-23-landing-pages-for-the-top-two-causes-are-live-with-hamr7tpr.md) `dc_rihamr7tpr` · Juno 1
 - 2026-11-23 [Hooks: 15 ranked causes published as a doc; /hooks route in PR #570](docs/report/2026-11/2026-11-23-hooks-15-ranked-causes-published-as-a-doc-hooks-ro-uwy9nksr.md) `dc_lquwy9nksr` · Juno 1
@@ -72,7 +74,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-16 [Real-inbox blog signup test filed as do request dc_ulkpfqh8ht; discoverability grant waits for posting go](docs/report/2026-11/2026-11-16-real-inbox-blog-signup-test-filed-as-do-request-dc-8kr0tf1d.md) `dc_5m8kr0tf1d` · Juno 1
 - 2026-11-15 [PR #459 green and merged: BLOG_MAIL_FROM format documented](docs/report/2026-11/2026-11-15-pr-459-green-and-merged-blog-mail-from-format-docu-mx4fic90.md) `dc_kxmx4fic90` · Juno 1
 - 2026-11-15 [Blog confirmation mail sends live (200); PR #459 waiting on CI](docs/report/2026-11/2026-11-15-blog-confirmation-mail-sends-live-200-pr-459-waiti-8iixkrnn.md) `dc_yr8iixkrnn` · Juno 1
-- 2026-11-15 [GitHub repo topics are live: About is complete (description, homepage, MIT, 5 topics)](docs/report/2026-11/2026-11-15-github-repo-topics-are-live-about-is-complete-desc-igrudjs8.md) `dc_0sigrudjs8` · Juno 1
 
 All by month: [2026-11](docs/report/2026-11/)
 

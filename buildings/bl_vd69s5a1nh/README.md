@@ -23,8 +23,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-28-1-1-mitchell-and-mara-notes-ui0p5b1y.md) `dc_fpui0p5b1y` · Mara
 - 2026-10-27 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-mara-notes-c7in8y77.md) `dc_i2c7in8y77` · Mara
 
-## note (31)
+## note (32)
 
+- 2026-11-24 [Findings: browser errors on the live town are invisible (exploration 2026-11-24)](docs/note/2026-11/2026-11-24-findings-browser-errors-on-the-live-town-are-invis-j62muav0.md) `dc_2wj62muav0` · Mara 1
 - 2026-11-23 [Findings: 9 npm advisories open, 2 critical in vitest 3; a lockfile with vitest 5 + audit fix has 0](docs/note/2026-11/2026-11-23-findings-9-npm-advisories-open-2-critical-in-vites-tevhu9z7.md) `dc_lutevhu9z7` · Mara 2
 - 2026-11-22 [Findings: a redeploy that dies mid-build cuts every desk work session (8 cut, ~571k adjusted tokens, 2026-11-22 18:29Z)](docs/note/2026-11/2026-11-22-findings-a-redeploy-that-dies-mid-build-cuts-every-etia1a3y.md) `dc_20etia1a3y` · Mara 2
 - 2026-11-22 [PR first-run CI failures 11-12 to 11-22: 12% (15 of 123), the pre-push hook did not move it](docs/note/2026-11/2026-11-22-pr-first-run-ci-failures-11-12-to-11-22-12-15-of-1-01gx4te6.md) `dc_w701gx4te6` · Mara 2
@@ -54,12 +55,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [Dead-code sweep 1: candidates and flags (kr_ef11f6ex28)](docs/note/2026-10/2026-10-28-dead-code-sweep-1-candidates-and-flags-kr-ef11f6ex-4k44yfhn.md) `dc_ug4k44yfhn` · Finn
 - 2026-10-28 [Stale-state drain flake (run 40454959781): reproduction and root cause (kr_cm5qb2wqh7)](docs/note/2026-10/2026-10-28-stale-state-drain-flake-run-40454959781-reproducti-qaoo4qb9.md) `dc_cbqaoo4qb9` · Finn
 - 2026-10-28 [CI red on main: last 20 runs, and the v12 desk_slots root cause (kr_cm5qb2wqh7)](docs/note/2026-10/2026-10-28-ci-red-on-main-last-20-runs-and-the-v12-desk-slots-9kklky3v.md) `dc_l59kklky3v` · Finn
-- 2026-10-28 [Abstraction sweep 1: candidates](docs/note/2026-10/2026-10-28-abstraction-sweep-1-candidates-4mlk2wuh.md) `dc_0q4mlk2wuh` · Finn
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (268)
+## report (269)
 
+- 2026-11-24 [Proposed gr_cyqzweu6ed: the town records browser errors itself (panel crashes are caught but never reported)](docs/report/2026-11/2026-11-24-proposed-gr-cyqzweu6ed-the-town-records-browser-er-514hk12a.md) `dc_p1514hk12a` · Mara 1
 - 2026-11-23 [PR #579 hit a known flaky timing test; merged main in to rerun; kr_ky260b3xlu needs 5 green main runs (none yet)](docs/report/2026-11/2026-11-23-pr-579-hit-a-known-flaky-timing-test-merged-main-i-ahcv89um.md) `dc_suahcv89um` · Mara 1
 - 2026-11-23 [PR #579: weekly audit fails on dev advisories too; throwaway #580 proved it; parked merge-when-green](docs/report/2026-11/2026-11-23-pr-579-weekly-audit-fails-on-dev-advisories-too-th-adieq14q.md) `dc_40adieq14q` · Mara 1
 - 2026-11-23 [PR #574: vitest 5.1.1, happy-dom 21.0.4, npm audit 9 → 0; parked merge-when-green](docs/report/2026-11/2026-11-23-pr-574-vitest-5-1-1-happy-dom-21-0-4-npm-audit-9-0-k0txdjx8.md) `dc_ydk0txdjx8` · Mara 1
@@ -89,7 +90,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-18 [PR #502 merged: decisions naming only a building queue now queue work (356134d5)](docs/report/2026-11/2026-11-18-pr-502-merged-decisions-naming-only-a-building-que-j8wdoe5s.md) `dc_0gj8wdoe5s` · Mara 1
 - 2026-11-18 [PR #501 merged: a grant's deciding event retires only its money asks (4b2383a3)](docs/report/2026-11/2026-11-18-pr-501-merged-a-grant-s-deciding-event-retires-onl-zddjtfhn.md) `dc_jszddjtfhn` · Mara 1
 - 2026-11-18 [Decisions that name only a building queue now queue work; PR #502 parked on CI](docs/report/2026-11/2026-11-18-decisions-that-name-only-a-building-queue-now-queu-opgpp5un.md) `dc_uqopgpp5un` · Mara 2
-- 2026-11-18 [PR #501: a grant's deciding event retires only its money asks; parked on CI](docs/report/2026-11/2026-11-18-pr-501-a-grant-s-deciding-event-retires-only-its-m-863oxeip.md) `dc_4g863oxeip` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

@@ -69,8 +69,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-25 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-25-1-1-mitchell-and-cleo-notes-c1nhkipz.md) `dc_5tc1nhkipz` · Cleo
 - 2026-10-21 [Prod standup — notes](docs/meeting-notes/2026-10/2026-10-21-prod-standup-notes-zkt5nqkf.md) `dc_78zkt5nqkf` · Dara
 
-## note (33)
+## note (34)
 
+- 2026-11-24 [Exploration 2026-11-24: the server can't tell a crash from a planned restart](docs/note/2026-11/2026-11-24-exploration-2026-11-24-the-server-can-t-tell-a-cra-srcwcqzo.md) `dc_vzsrcwcqzo` · Cleo 1
 - 2026-11-21 [Findings: redeploys cut 1:1s the human already left; the quiet close never fires during merge runs](docs/note/2026-11/2026-11-21-findings-redeploys-cut-1-1s-the-human-already-left-u037mibg.md) `dc_d8u037mibg` · Cleo 1
 - 2026-11-21 [Finding: retired fork rows make the midnight reset and full agent scans grow without bound](docs/note/2026-11/2026-11-21-finding-retired-fork-rows-make-the-midnight-reset-3kyxjh4e.md) `dc_bu3kyxjh4e` · Cleo 1
 - 2026-11-20 [Finding: self-hosted towns are never shown on muster.town; docs/self-host.md says they are](docs/note/2026-11/2026-11-20-finding-self-hosted-towns-are-never-shown-on-muste-lvwn07pb.md) `dc_oalvwn07pb` · Cleo 1
@@ -100,12 +101,13 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Stress test run 2: viewer ramp 400 → 1200 with 13 walkers on the throwaway muster-town-stress, 2026-10-26 19:12 UTC (all steps passed, still no ceiling)](docs/note/2026-10/2026-10-26-stress-test-run-2-viewer-ramp-400-1200-with-13-wal-1z30jost.md) `dc_3e1z30jost` · Cleo
 - 2026-10-26 [Stress test run 1: viewer ramp 10 → 400 on the throwaway muster-town-stress, 2026-10-26 18:24 UTC (all steps passed, no ceiling yet)](docs/note/2026-10/2026-10-26-stress-test-run-1-viewer-ramp-10-400-on-the-throwa-i3ikjkwj.md) `dc_fti3ikjkwj` · Cleo
 - 2026-10-26 [Off-site backup for town.db: destination comparison and the draft grant proposal for kr_giqd28iwcb (not filed; waits on gr_wqnunw5yd8)](docs/note/2026-10/2026-10-26-off-site-backup-for-town-db-destination-comparison-d9rsya9l.md) `dc_ord9rsya9l` · Cleo
-- 2026-10-26 [Stress-test grant: the proposal as filed, throwaway-first (town-hall decision 3; Mitchell's reply on rollup #3, 2026-10-26)](docs/note/2026-10/2026-10-26-stress-test-grant-the-proposal-as-filed-throwaway-twxh1a8o.md) `dc_x4twxh1a8o` · Cleo
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (392)
+## report (394)
 
+- 2026-11-24 [Midnight reset now 5.1 ms live (was 2,257); the midnight tick is still 1.9 s from exploration starts; 7d spend 1.08 s](docs/report/2026-11/2026-11-24-midnight-reset-now-5-1-ms-live-was-2-257-the-midni-s3qf7evy.md) `dc_2vs3qf7evy` · Cleo 1
+- 2026-11-24 [Exploration: the server can't tell a crash from a planned restart; proposed gr_zsglqgxpew (200k)](docs/report/2026-11/2026-11-24-exploration-the-server-can-t-tell-a-crash-from-a-p-e1uv6l1h.md) `dc_eqe1uv6l1h` · Cleo 1
 - 2026-11-23 [Town quiet at 17:35Z: PR #582 (swap 1024 MB) marked ready, parked to merge when green](docs/report/2026-11/2026-11-23-town-quiet-at-17-35z-pr-582-swap-1024-mb-marked-re-mleqnga6.md) `dc_bqmleqnga6` · Cleo 1
 - 2026-11-23 [#553 and #559 are live; 7d spend still about 1.1 s; parked until after midnight to read the reset tick](docs/report/2026-11/2026-11-23-553-and-559-are-live-7d-spend-still-about-1-1-s-pa-jn9cyjlv.md) `dc_gvjn9cyjlv` · Cleo 1
 - 2026-11-23 [Swap on the town Machine: PR #582 open; town too busy for the image deploy, parked until 17:35Z](docs/report/2026-11/2026-11-23-swap-on-the-town-machine-pr-582-open-town-too-busy-acvdyqnu.md) `dc_cracvdyqnu` · Cleo 1
@@ -134,8 +136,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-19 [Pinger watch: PR #505 open, parked on CI](docs/report/2026-11/2026-11-19-pinger-watch-pr-505-open-parked-on-ci-4fp34nif.md) `dc_1t4fp34nif` · Cleo 1
 - 2026-11-18 [Deploy watch: a full day, five deploys, no false deploy alert; gr_h2iocyzfjm ready to close](docs/report/2026-11/2026-11-18-deploy-watch-a-full-day-five-deploys-no-false-depl-cqpxokgd.md) `dc_hdcqpxokgd` · Cleo 1
 - 2026-11-18 [Explore: proposed a watchdog for the outside alert pinger (gr_7tl5as3s0a)](docs/report/2026-11/2026-11-18-explore-proposed-a-watchdog-for-the-outside-alert-whlip8r3.md) `dc_biwhlip8r3` · Cleo 1
-- 2026-11-17 [Agent redeploy retired and live; town-wide FYI posted](docs/report/2026-11/2026-11-17-agent-redeploy-retired-and-live-town-wide-fyi-post-3xhdhw69.md) `dc_cb3xhdhw69` · Cleo 1
-- 2026-11-17 [PR #498 merged as 6096977b; parked until live](docs/report/2026-11/2026-11-17-pr-498-merged-as-6096977b-parked-until-live-0xaoa84b.md) `dc_x40xaoa84b` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

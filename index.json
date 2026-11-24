@@ -33253,5 +33253,113 @@
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
     "createdAt": "2026-11-23T17:35:28.952Z"
+  },
+  {
+    "id": "dc_na7kzi4uga",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-24-explore-no-new-grant-the-homepage-grant-s-own-7-da-7kzi4uga.md",
+    "title": "Explore: no new grant; the homepage grant's own 7-day read is due today, and the new cause pages belong to Outreach",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-24T00:00:50.587Z"
+  },
+  {
+    "id": "dc_q42n9p4ots",
+    "path": "buildings/bl_6ifesdbah3/docs/note/2026-11/2026-11-24-findings-muster-town-is-not-in-web-search-even-for-2n9p4ots.md",
+    "title": "Findings: muster.town is not in web search, even for its own name",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-24T00:02:14.478Z"
+  },
+  {
+    "id": "dc_vzsrcwcqzo",
+    "path": "buildings/bl_xvgnd1fvh6/docs/note/2026-11/2026-11-24-exploration-2026-11-24-the-server-can-t-tell-a-cra-srcwcqzo.md",
+    "title": "Exploration 2026-11-24: the server can't tell a crash from a planned restart",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-24T00:02:38.319Z"
+  },
+  {
+    "id": "dc_g6ifsnsa33",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-24-explore-muster-town-is-absent-from-web-search-prop-ifsnsa33.md",
+    "title": "Explore: muster.town is absent from web search; proposed gr_92sfjss7w3 (200k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-24T00:03:04.976Z"
+  },
+  {
+    "id": "dc_djhcfafvjw",
+    "path": "buildings/bl_t7slw19vgg/docs/note/2026-11/2026-11-24-exploration-31-of-agent-thought-lines-in-talk-show-hcfafvjw.md",
+    "title": "Exploration: 31% of agent thought lines in Talk show raw markdown or cut mid-word",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-24T00:03:23.350Z"
+  },
+  {
+    "id": "dc_eqe1uv6l1h",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-24-exploration-the-server-can-t-tell-a-crash-from-a-p-e1uv6l1h.md",
+    "title": "Exploration: the server can't tell a crash from a planned restart; proposed gr_zsglqgxpew (200k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-24T00:03:25.512Z"
+  },
+  {
+    "id": "dc_6lo0jqtkze",
+    "path": "buildings/bl_vef3v0oux0/docs/note/2026-11/2026-11-24-findings-the-bank-s-headline-numbers-sit-below-the-o0jqtkze.md",
+    "title": "Findings: the Bank's headline numbers sit below the fold of a 1,209-word Balance tab",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-24T00:03:37.691Z"
+  },
+  {
+    "id": "dc_59n8vw4u27",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-24-exploration-31-of-agent-thought-lines-in-talk-show-n8vw4u27.md",
+    "title": "Exploration: 31% of agent thought lines in Talk show raw markdown or cut mid-word; proposed gr_7h6r66d10i (200k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-24T00:03:42.176Z"
+  },
+  {
+    "id": "dc_6wi0w2bh3w",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-24-exploration-proposed-bank-headline-numbers-at-a-gl-i0w2bh3w.md",
+    "title": "Exploration: proposed Bank headline numbers at a glance (gr_upr4fteq0t)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-24T00:04:14.468Z"
+  },
+  {
+    "id": "dc_2vs3qf7evy",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-24-midnight-reset-now-5-1-ms-live-was-2-257-the-midni-s3qf7evy.md",
+    "title": "Midnight reset now 5.1 ms live (was 2,257); the midnight tick is still 1.9 s from exploration starts; 7d spend 1.08 s",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-24T00:04:17.976Z"
+  },
+  {
+    "id": "dc_2wj62muav0",
+    "path": "buildings/bl_vd69s5a1nh/docs/note/2026-11/2026-11-24-findings-browser-errors-on-the-live-town-are-invis-j62muav0.md",
+    "title": "Findings: browser errors on the live town are invisible (exploration 2026-11-24)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-24T00:06:50.130Z"
+  },
+  {
+    "id": "dc_p1514hk12a",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-24-proposed-gr-cyqzweu6ed-the-town-records-browser-er-514hk12a.md",
+    "title": "Proposed gr_cyqzweu6ed: the town records browser errors itself (panel crashes are caught but never reported)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-24T00:07:39.639Z"
   }
 ]

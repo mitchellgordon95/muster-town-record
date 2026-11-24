@@ -24,8 +24,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-30 [1:1: Mitchell and Nell — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-nell-notes-ln43k253.md) `dc_i2ln43k253` · Nell
 - 2026-10-27 [1:1: Mitchell and Nell — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-nell-notes-w5kittck.md) `dc_wjw5kittck` · Nell
 
-## note (21)
+## note (22)
 
+- 2026-11-24 [Findings: the Bank's headline numbers sit below the fold of a 1,209-word Balance tab](docs/note/2026-11/2026-11-24-findings-the-bank-s-headline-numbers-sit-below-the-o0jqtkze.md) `dc_6lo0jqtkze` · Nell 1
 - 2026-11-22 [Findings: what limits spend when most credit expires (exploration cap binds, desks idle)](docs/note/2026-11/2026-11-22-findings-what-limits-spend-when-most-credit-expire-w1abz9xk.md) `dc_kmw1abz9xk` · Nell 2
 - 2026-11-21 [Findings: directed spend is a third of all spend and has no per-request view](docs/note/2026-11/2026-11-21-findings-directed-spend-is-a-third-of-all-spend-an-t98atdoo.md) `dc_v5t98atdoo` · Nell 1
 - 2026-11-20 [Findings: most subscription credit expires undrawn, and the Balance tab calls it a surplus](docs/note/2026-11/2026-11-20-findings-most-subscription-credit-expires-undrawn-qlcmbs5u.md) `dc_kmqlcmbs5u` · Nell 1
@@ -48,8 +49,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (279)
+## report (280)
 
+- 2026-11-24 [Exploration: proposed Bank headline numbers at a glance (gr_upr4fteq0t)](docs/report/2026-11/2026-11-24-exploration-proposed-bank-headline-numbers-at-a-gl-i0w2bh3w.md) `dc_6wi0w2bh3w` · Nell 1
 - 2026-11-23 [gr_6c24p5uy01 step 3: all three key results verified live signed out at 34ef090f, check:finance 87/87, pictures uploaded, claimed](docs/report/2026-11/2026-11-23-gr-6c24p5uy01-step-3-all-three-key-results-verifie-j7l03jrk.md) `dc_swj7l03jrk` · Nell 1
 - 2026-11-23 [Balance tab: what held spending back (7/30 days and per day) in PR #585, parked to merge on green](docs/report/2026-11/2026-11-23-balance-tab-what-held-spending-back-7-30-days-and-wbfrhkx2.md) `dc_rdwbfrhkx2` · Nell 1
 - 2026-11-23 [Spending limits per day: GET /api/finance limits, 7/30-day summary and check in PR #584, parked to merge on green](docs/report/2026-11/2026-11-23-spending-limits-per-day-get-api-finance-limits-7-3-7d9v5jea.md) `dc_757d9v5jea` · Nell 2
@@ -79,7 +81,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-16 [Ledger cutoff is live: Bank records before 2026-10-27 00:00Z deleted (757 sessions, 423 usage, 472 debits, 16 credits, 10 inputs, 4 donations), note on the Bank page](docs/report/2026-11/2026-11-16-ledger-cutoff-is-live-bank-records-before-2026-10-wfsky9dg.md) `dc_9zwfsky9dg` · Nell 1
 - 2026-11-16 [Ledger cutoff: PR #476 open, deletes Bank records from before 2026-10-27 00:00Z with a note; waiting on CI](docs/report/2026-11/2026-11-16-ledger-cutoff-pr-476-open-deletes-bank-records-fro-8grvgbwi.md) `dc_118grvgbwi` · Nell 1
 - 2026-11-12 [Bank Transparency: gr_3na7vdmd52 closed done, each grant step now shows its price and spend on the Bank page](docs/report/2026-11/2026-11-12-bank-transparency-gr-3na7vdmd52-closed-done-each-g-moa85fgf.md) `dc_jbmoa85fgf` · Nell
-- 2026-11-12 [Duplicate of Nell 1's verification; grant already closed done](docs/report/2026-11/2026-11-12-duplicate-of-nell-1-s-verification-grant-already-c-29v42ido.md) `dc_q929v42ido` · Nell 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

@@ -10,32 +10,30 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_vd69s5a1nh"
 createdAt: "2026-10-29T04:10:12.925Z"
-updatedAt: "2026-10-31T22:22:30.566Z"
+updatedAt: "2026-11-24T00:09:55.094Z"
 ---
-Status after Mara 1's as_ksxhkhzyua session (this page's updatedAt is the stamp). Building goal: avoid toil and bugs through proactive code management. **Budget mode is FORKS, recipe COMPLETE**; only Mara and her forks work here.
+State as of Mara's team-lead session of 2026-11-24 00:07 UTC (this page's updatedAt is the stamp). Building goal gl_bl_vd69s5a1nh: avoid toil and bugs through proactive code management. Forks of Mara (Mara 1...) do all work; Mara only decides, asks and assigns. There are no rollups: shipped work is told at `close_grant` (shipped), human decisions are filed with `ask`, grant cards are written diff-first from Mitchell's last decision.
 
-**Funded grants**
-- gr_gh3lnuihw9 (500k) → kr_4jhab4c5cn security advisories. **WORK DONE AND LIVE: ready for close_grant.** PR #215 → main e487758, live (/api/health commit e4877586, startedAt 2026-10-31T22:21:37Z). Live `/api/verbs`: 31 verbs, each with an object inputSchema and a description (kr_0800718a7a). Audit workflow green on main, run 41247500734 (kr_4jhab4c5cn, kr_46398efa33). Throwaway PR #218 (server zod 3.25.76): audit run 41247549368 FAILED naming GHSA-mrhx-c7xc-m3w5, closed unmerged (kr_6805523069). ci.yml unchanged (kr_5a90181c60). vitest 4 not done (npm 10.9.9 crashes). Evidence: [dc_niizq5j8g6](../../report/2026-10/2026-10-31-security-advisories-pr-215-merged-main-e487758-aud-izq5j8g6.md) + this session's report. Page "Dependency advisories".
+**Funded grants, each closed by a scheduled measurement (schedules fire one assignment on the building queue)**
+- gr_baf19xtg7p "A PR goes green on its first push" (funded 2026-11-10). Open kr_o6jibyr7jj (PR first-run failure rate; 16/161 = 10% over 11-13..11-23). Second 7-day window read sc_w67mqora3r 2026-11-25 01:00Z.
+- gr_rlt0ctnhqk "The town merges green PRs itself" (funded 2026-11-19). Merge-only sessions measured 7 days live: sc_tbb618c75x 2026-11-26 16:00Z closes it.
+- gr_6id9g7u9cj "Explore tick backs off and keeps a journal" (funded 2026-11-20). 7-day read sc_xkijd8xzkl 2026-11-27 06:00Z closes it. Page "Explore backoff and journal".
+- gr_qg42b4guky "The town runs live checks after a deploy" (adjusted by Mitchell 2026-11-23 16:17Z). PR #558 live; 7-day read sc_0p8ntix25h 2026-11-30 17:00Z closes it. Page "Live checks on a deploy wait".
+- gr_3h504nqqdp "Desk sessions survive an unclean server restart" (funded 2026-11-23 16:08Z). PR #564; mid-window read sc_zstk3d5k5d 11-27 04:00Z, 7-day read sc_awa3ys33uv 11-30 17:00Z closes it. Page "Unclean restarts and desk adoption".
+- gr_83ith5co2k "Test toolchain on current majors, audit clean" (funded 2026-11-23 16:31Z). PRs #574 (vitest 5.1.1, happy-dom 21.0.4, audit 9 → 0) and #579 (weekly audit covers dev deps) parked merge-when-green. kr_lme35mttqy and kr_h37fmyne4l claimable; kr_ky260b3xlu needs 5 green main runs: sc_ggefrp9arn 2026-11-24 17:00Z reads them and closes. Flaky export-import timing test is UI / UX's (as_34tt2c8kwl).
 
-**Closed grants (this week)**
-- gr_83jxsu8u0o (200k; 77,238 spent) → **kr_ealc55cjf5** dead exports can't come back: PR #201 → main c457d92, live. CLOSED as done; KRs claimed, Mitchell marks met/missed. Don't re-ask. Page "Dead-code sweeps".
+**Open proposal**
+- gr_cyqzweu6ed "The town records browser errors itself" (250k: M+S+S), proposed 2026-11-24 by exploration as_gsm1h5k32f; card ak_7h5nth7rjp in the decision queue; findings [dc_2wj62muav0](../../note/2026-11/2026-11-24-findings-browser-errors-on-the-live-town-are-invis-j62muav0.md), report [dc_p1514hk12a](../../report/2026-11/2026-11-24-proposed-gr-cyqzweu6ed-the-town-records-browser-er-514hk12a.md). Gap: PanelBoundary (packages/web/src/app.tsx:188) renders "This panel crashed" and sends nothing; no onerror/unhandledrejection handler, no client-error route. When funded, step 1 queues itself.
 
-**Objective ob_6j8s2588lp "Build times are fast and observable" (trust, 2026-Q4)**, set by Mitchell at 1:1 mt_cy04ix9cc3 ([dc_grvhp5dl9l](../../meeting-notes/2026-10/2026-10-29-1-1-mitchell-and-mara-notes-vhp5dl9l.md)):
-- kr_cm5qb2wqh7 CI on main green on attempt 1: **MET by Mitchell 2026-10-31 20:15Z** ([dc_pmb7rwi2bf](../../report/2026-10/2026-10-31-key-result-kr-cm5qb2wqh7-marked-met-by-mitchell-b7rwi2bf.md)). Watch item only. Main runs can show "failure" when the promote job's redeploy curl gets a 503; the check job itself passes. Page "CI on main".
-- kr_939kp3vjxc Fast check: CLAIMED; awaiting Mitchell's met/missed; don't re-ask. CI check total is now ~2m18s–2m38s, above the 73–116 s baseline [dc_r5j4bdtmzo](../../report/2026-10/2026-10-30-kr-8wilbokqcn-exploration-the-timing-line-already-j4bdtmzo.md). Page "Build times / fast check".
-- kr_8wilbokqcn Observable timings: not-started, no grant; edit awaiting Mitchell (rollup [dc_akibptfvlo](../../report/2026-10/2026-10-31-nothing-shipped-since-03beade-ci-exploration-found-ibptfvlo.md)). Weekly watch sc_45pi8pvl9q (first fire 2026-11-06 06:00Z).
+**Standing schedule**
+- sc_5qs03u3172 weekly check-timing watch (every 168 h until 2026-12-31). Page "Build times / fast check".
 
-**Directed**
-- PR #191 time subsystem: live and verified ([dc_0khofwophf](../../report/2026-10/2026-10-31-the-time-subsystem-pr-191-b72c9dc-is-live-the-brie-hofwophf.md)). Page "Time in words".
+**Noted, not worth a grant now ([dc_2wj62muav0](../../note/2026-11/2026-11-24-findings-browser-errors-on-the-live-town-are-invis-j62muav0.md))**: `DAY_MS` defined in 24 files; 57 `--noUnusedLocals` hits (unused imports); jscpd 0.22% duplication; source 66.5k lines, knip clean.
 
-**Unsorted**
-- kr_dctpbbwtno, kr_bo4codoha8, kr_ef11f6ex28, kr_doa59kdway: MET.
-- kr_oubxzkl4n6 doc drift: work done, evidence [dc_i7crbbfpsv](../../report/2026-10/2026-10-29-doc-drift-evidence-for-kr-oubxzkl4n6-main-green-ru-crbbfpsv.md), still not-started; asked once ([dc_mqf5pndj2t](../../report/2026-10/2026-10-29-gr-8ve21typt6-closed-as-done-3-abstractions-consol-f5pndj2t.md)). Don't re-ask.
+**Older closed/met work**: gr_gh3lnuihw9 advisories (page "Dependency advisories"), gr_83jxsu8u0o dead exports (page "Dead-code sweeps"), ob_6j8s2588lp build times (kr_cm5qb2wqh7 met; page "CI on main"), PR #191 time subsystem (page "Time in words"), docs/log.d ([dc_0g5zclwr09](../../../../town-hall/docs/fyi/2026-11/2026-11-10-town-log-entries-now-go-in-docs-log-d-not-docs-log-5zclwr09.md)).
 
-**Rules that apply to every assignment here**
-- Merge rule [dc_vzqoh7ppen](../../../../town-hall/docs/fyi/2026-10/2026-10-30-town-wide-merge-rules-revised-2026-11-05-ci-deploy-qoh7ppen.md): merge the building's green PRs and redeploy without asking; migrations ship with the PR; ask Mitchell first only for Bank/token-accounting code or another building's code. CI's promote job redeploys main on green, so an extra `redeploy` call is only needed when promote fails (redeploy churn helped cause the 2026-10-31 CPU-throttle outage).
-- Rollup rule (mt_mf00livfrz d.1): only when something visible shipped, a grant closes/checkpoints, a KR was written/edited, or a need only Mitchell can meet; strict four-heading format; Needs never names a gr_/dc_ already in his in-tray.
-- Mitchell looks at funding and KRs himself (mt_1u7mwyjrrz d.3); a town "KR met"/"grant adjusted" notice gets `review` approve only.
-- Check plans against past rejections (PR #71 hook twice; history page) BEFORE propose_grant.
-- GitHub skips CI on a CONFLICTING PR: merge main first (docs/log.md is the usual conflict; keep both entries).
-- `tell` refuses user ids. Don't run core and server suites at once on a desk. Time: never write a guessed "~HH:MM"; quote a server stamp or a duration.
+**Rules that apply here**
+- Merge rule [dc_gbk4jkbu1i](../../../../town-hall/docs/fyi/2026-11/2026-11-17-town-wide-merge-rules-revised-2026-11-17-the-serve-k4jkbu1i.md): the server pulls prod itself; nobody calls redeploy. Forks park PRs with resumeWhen {pr, merge: true}; the town merges on green. Never queue a session only to check CI or read the live town: use waitFor {pr, merge} or {deploy, checks, verifies}.
+- Click asks' buttons act ([dc_tbh8oo4321](../../../../town-hall/docs/fyi/2026-11/2026-11-23-managers-a-click-ask-s-buttons-now-act-and-a-click-h8oo4321.md)); the humans decide in the decision queue, not a "Town Hall in-tray" ([dc_dqu4d1etna](../../../../town-hall/docs/fyi/2026-11/2026-11-20-managers-rewrite-wiki-pages-that-say-town-hall-in-u4d1etna.md)).
+- Check plans against past rejections before propose_grant. GitHub skips CI on a conflicting PR: merge main first.
+- Don't run core and server suites at once on a desk. Time: never write a guessed "~HH:MM"; quote a server stamp or a duration.

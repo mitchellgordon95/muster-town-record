@@ -28,8 +28,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [1:1: Mitchell and Teo — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-teo-notes-tuy9g1zf.md) `dc_0ltuy9g1zf` · Teo
 - 2026-10-29 [1:1: Mitchell and Teo — notes](docs/meeting-notes/2026-10/2026-10-29-1-1-mitchell-and-teo-notes-nji0boyh.md) `dc_bqnji0boyh` · Teo
 
-## note (16)
+## note (17)
 
+- 2026-11-24 [Exploration: 31% of agent thought lines in Talk show raw markdown or cut mid-word](docs/note/2026-11/2026-11-24-exploration-31-of-agent-thought-lines-in-talk-show-hcfafvjw.md) `dc_djhcfafvjw` · Teo 1
 - 2026-11-23 [muster-style-guide: a "Tool-call lines" bullet for section 9 (paste into dc_q736158pnn)](docs/note/2026-11/2026-11-23-muster-style-guide-a-tool-call-lines-bullet-for-se-q8yeo1bk.md) `dc_vhq8yeo1bk` · Teo 1
 - 2026-11-23 [Exploration 2026-11-23: one id in six in reports opens nothing, and grant ids read as raw ids](docs/note/2026-11/2026-11-23-exploration-2026-11-23-one-id-in-six-in-reports-op-zah7t1a9.md) `dc_xszah7t1a9` · Teo 2
 - 2026-11-22 [Findings: 56% of live tool-call lines say only "Reading files" or "Searching files"](docs/note/2026-11/2026-11-22-findings-56-of-live-tool-call-lines-say-only-readi-vwut1jlo.md) `dc_shvwut1jlo` · Teo 2
@@ -47,8 +48,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (264)
+## report (265)
 
+- 2026-11-24 [Exploration: 31% of agent thought lines in Talk show raw markdown or cut mid-word; proposed gr_7h6r66d10i (200k)](docs/report/2026-11/2026-11-24-exploration-31-of-agent-thought-lines-in-talk-show-n8vw4u27.md) `dc_59n8vw4u27` · Teo 1
 - 2026-11-23 [Id census live: 0.6% dead, 3.7% raw; grant and ask ids read as names on muster.town. PR #581 parked to merge](docs/report/2026-11/2026-11-23-id-census-live-0-6-dead-3-7-raw-grant-and-ask-ids-oj2cqi1j.md) `dc_aboj2cqi1j` · Teo 2
 - 2026-11-23 [Main red at d77b853 was a flaky timer test: PR #583 sets the cap to 250 ms, parked to merge when green](docs/report/2026-11/2026-11-23-main-red-at-d77b853-was-a-flaky-timer-test-pr-583-n7w9yknw.md) `dc_tkn7w9yknw` · Teo 1
 - 2026-11-23 [Tool lines verified live at 4.9% generic; last leaks fixed in PR #572, parked to merge when green](docs/report/2026-11/2026-11-23-tool-lines-verified-live-at-4-9-generic-last-leaks-sb1ve6rm.md) `dc_qssb1ve6rm` · Teo 1
@@ -78,7 +80,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-19 [PR #516 green and squash-merged (d5735b17); parked until live](docs/report/2026-11/2026-11-19-pr-516-green-and-squash-merged-d5735b17-parked-unt-pnix8vk8.md) `dc_y6pnix8vk8` · Teo 1
 - 2026-11-19 [PR #515 green and squash-merged (78ae02a1); parked until live](docs/report/2026-11/2026-11-19-pr-515-green-and-squash-merged-78ae02a1-parked-unt-xji5uiqa.md) `dc_tnxji5uiqa` · Teo 1
 - 2026-11-19 [Census measures goal-tree title size and the queue: PR #516, parked on CI](docs/report/2026-11/2026-11-19-census-measures-goal-tree-title-size-and-the-queue-5j9bbjwj.md) `dc_495j9bbjwj` · Teo 2
-- 2026-11-19 [Flag "Done" notice on the manager's approve: PR #515, parked on CI](docs/report/2026-11/2026-11-19-flag-done-notice-on-the-manager-s-approve-pr-515-p-mo4o0ifv.md) `dc_5fmo4o0ifv` · Teo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
