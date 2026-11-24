@@ -33424,5 +33424,14 @@
     "state": "building",
     "buildingId": "bl_vd69s5a1nh",
     "createdAt": "2026-11-24T17:01:25.036Z"
+  },
+  {
+    "id": "dc_2x9pziv2x2",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-24-onboarding-sweep-week-2-lag-167-8-h-0-h-streak-2-o-9pziv2x2.md",
+    "title": "Onboarding sweep week 2: lag 167.8 h → 0 h, streak 2 of 4; PR #587 merging on green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-24T19:14:05.766Z"
   }
 ]

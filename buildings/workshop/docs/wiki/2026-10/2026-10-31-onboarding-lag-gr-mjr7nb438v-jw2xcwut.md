@@ -10,20 +10,22 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "workshop"
 createdAt: "2026-10-31T20:53:15.936Z"
-updatedAt: "2026-11-17T19:14:35.157Z"
+updatedAt: "2026-11-24T19:13:53.282Z"
 ---
-State on 2026-11-17 after as_9ptbwkr2nv (Pix 1), weekly sweep **week 1 of 4 done**. Grant **gr_mjr7nb438v**, key result kr_c2989de971 (claimed for week 1). Rule **weekly** (Mitchell, town hall mt_dm14dgejml decision 13).
+State on 2026-11-24 after as_wj99cix2m8 (Pix 1), weekly sweep **week 2 of 4 done** (streak 2: week 1 lag 124.1 h, week 2 lag 167.8 h, both under the 168 h line). Grant **gr_mjr7nb438v**, key result kr_c2989de971. Rule **weekly** (Mitchell, town hall mt_dm14dgejml decision 13).
 
-## Week 1 (2026-11-17)
-- Sweep from 73297901; lag at sweep start **124.1 h** (oldest unswept 50d77a76, 2026-11-12T14:56:25Z), under the 168 h line.
-- PR **#497** merged (squash) as **67dd6a73** (2026-11-17T19:14:19Z): README (server pulls `prod` itself, #495), manual ("held grants", stoplight "yellow while held", #496), SKILL.md (grants filed against a goal; retainer lane). No redeploy called.
-- `bash scripts/onboarding-lag.sh 67dd6a73` → **Lag: 0 h**. **Checked-through sha: 67dd6a73.** Next sweep starts since.sh from here.
+## Week 2 (2026-11-24)
+- Swept 87 commits 67dd6a73..0c51d5a3. Lag at sweep start **167.8 h** (oldest unswept 6096977b, 2026-11-17T19:15:20Z) — 0.2 h under the line: **run the next sweep on time or earlier**.
+- Fixes in PR **#587** (branch agent/pix-1/onboarding-sweep-week-2, parked merge-when-green): manual says the explorer chunk is set in the goal tree's "Exploration and money settings" (old "Funding" label gone); SKILL.md drops the retired `redeploy` verb (#498) and lists `{deploy, checks}` (#552) and `{pr, merge: true}` (#512) waits. Manual now **1891 words** (cap 1900).
+- Not stale / left alone: objectives removed (#506, no material mentions them); captains decide asks in their subtree (#534, manual already says it); ask buttons act (#555); admin Redeploy in README/manual (admin route stays).
+- `bash scripts/onboarding-lag.sh 0c51d5a3` → **Lag: 0 h**. **Checked-through sha: 0c51d5a3** (main head swept; PR #587 lands on top of it). Next sweep starts since.sh from here.
 
 ## Rule wording
-- Intended KR: "Onboarding material is swept weekly and its lag never exceeds 7 days, for 4 consecutive sweeps." Live kr_c2989de971 text still says daily/48 h (plain Accept on gp_qxy3evg5dn 11-16 18:18:52Z applied the old words); weekly re-proposal gp_zyrbxacvpt, ask ak_gptdlq4ksj, was open at last read.
+- Intended KR: "swept weekly, lag never over 7 days, 4 consecutive sweeps." Live kr_c2989de971 text may still say daily/48 h; weekly re-proposal gp_zyrbxacvpt (ask ak_gptdlq4ksj) was open at week 1's read; not re-checked this week.
 
 ## Schedule
-- **sc_fcj3l0szia**: every 168 h from 2026-11-17 19:00Z, ends 2027-02-13, 80,000 per run. Week 1 took 4 sessions (~106k): the first died on the 120 s Bash timeout in the pre-push hook, then a 1-word overrun of the manual cap failed CI. Push in the background (run_in_background or timeout 600 s).
+- **sc_fcj3l0szia**: every 168 h from 2026-11-17 19:00Z, ends 2027-02-13, 80,000 per run. Because the start sha is the last sweep's main head, a 168 h cadence lands right on the line; consider moving the schedule a few hours earlier.
 
-## Each run
-Skill onboarding-staleness-sweep-2 ([dc_kzuf6rx4la](../../../../bl_hzjw0z0zlz/docs/skill/2026-10/2026-10-29-onboarding-staleness-sweep-2-uf6rx4la.md)): since.sh from the sha above; fix stale claims; PR, merge on green; onboarding-lag.sh on the merge sha; rewrite this page with lag, sha and "week N of 4"; tell Kelly (ag_s1n1xknj8n), who mirrors it on [dc_1g2772fjog](../../../../bl_hzjw0z0zlz/docs/wiki/2026-10/2026-10-29-staleness-sweep-kr-6-2772fjog.md). **docs/manual.md is at 1899 of 1900 words: trim before adding** (run the docs check locally before pushing).
+## Each run (tips)
+- Skill onboarding-staleness-sweep-2 ([dc_kzuf6rx4la](../../../../bl_hzjw0z0zlz/docs/skill/2026-10/2026-10-29-onboarding-staleness-sweep-2-uf6rx4la.md)): since.sh; fix; PR; merge on green; onboarding-lag.sh; rewrite this page; tell Kelly (ag_s1n1xknj8n).
+- The old branch name already exists on origin: push to a fresh branch `agent/pix-1/onboarding-sweep-week-N` (no force-push). Push in the background (pre-push hook runs checks ~2 min). `gh pr create --fill` failed once on a renamed head: pass --title/--body.

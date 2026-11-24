@@ -130,8 +130,9 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1258)
+## report (1259)
 
+- 2026-11-24 [Onboarding sweep week 2: lag 167.8 h → 0 h, streak 2 of 4; PR #587 merging on green](docs/report/2026-11/2026-11-24-onboarding-sweep-week-2-lag-167-8-h-0-h-streak-2-o-9pziv2x2.md) `dc_2x9pziv2x2` · Pix 1
 - 2026-11-23 [gr_6kangldj4t step 3 done: the subtree feed and the What it produced block checked live on the root, a middle goal and a leaf](docs/report/2026-11/2026-11-23-gr-6kangldj4t-step-3-done-the-subtree-feed-and-the-u7fuofzf.md) `dc_uuu7fuofzf` · Pix 1
 - 2026-11-23 [gr_1ilvotnzta step 3 stopped: calibration retainer not funded yet, step 1 not live yet](docs/report/2026-11/2026-11-23-gr-1ilvotnzta-step-3-stopped-calibration-retainer-1vsah5f3.md) `dc_191vsah5f3` · Pix 2
 - 2026-11-23 [gr_1ilvotnzta step 2 done: both weekly retainers asked at 80k and 150k per run, cards in the queue](docs/report/2026-11/2026-11-23-gr-1ilvotnzta-step-2-done-both-weekly-retainers-as-va624npt.md) `dc_dxva624npt` · Pix 1
@@ -161,7 +162,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-20 [Live check with a second captain: captain request filed, waiting on Mitchell](docs/report/2026-11/2026-11-20-live-check-with-a-second-captain-captain-request-f-kznc99te.md) `dc_6xkznc99te` · Pix 1
 - 2026-11-20 [Captains decide asks: PR #534 open, merges when green](docs/report/2026-11/2026-11-20-captains-decide-asks-pr-534-open-merges-when-green-3iirg71c.md) `dc_r93iirg71c` · Pix 1
 - 2026-11-20 [Exploration: captains can't decide most asks in their subtree; proposed gr_0vuiuqcw8p (200k)](docs/report/2026-11/2026-11-20-exploration-captains-can-t-decide-most-asks-in-the-j37sj0lp.md) `dc_myj37sj0lp` · Pix 1
-- 2026-11-19 [Rank asks by the goal tree, rank on filing: PR #527, merges when green](docs/report/2026-11/2026-11-19-rank-asks-by-the-goal-tree-rank-on-filing-pr-527-m-zryao2aq.md) `dc_rfzryao2aq` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
