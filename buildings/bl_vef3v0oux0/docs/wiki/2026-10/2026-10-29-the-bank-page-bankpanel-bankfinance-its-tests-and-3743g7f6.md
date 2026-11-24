@@ -10,33 +10,29 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_vef3v0oux0"
 createdAt: "2026-10-29T03:53:45.499Z"
-updatedAt: "2026-11-17T18:27:27.034Z"
+updatedAt: "2026-11-24T21:58:32.912Z"
 ---
-State 2026-11-17 (health read 18:26Z). **Verified live signed out at a092a79** (PR #296); Day by day chart verified live at d863e456 (PR #488). The Bank is a **centered sheet** over the map and opens on **Donate**. For the rebuild plan, step state and measurements see [dc_we5nqevv40](../2026-11/2026-11-03-bank-sheet-rebuild-gr-567tikzitl-plan-and-state-5nqevv40.md). Endpoints and live numbers: [dc_tkzoy81p4b](2026-10-29-the-three-finance-endpoints-their-sum-checks-and-l-zoy81p4b.md). Picture method: [dc_xeui247glt](2026-10-29-finance-page-pictures-and-layout-checks-ui247glt.md).
+State 2026-11-24 (server clock). **Verified live signed out at a092a79** (PR #296); Day by day chart verified live at d863e456 (PR #488). Glance tiles and folded checks: PR #590 (gr_upr4fteq0t step 1), parked to merge on green, not yet live. The Bank is a **centered sheet** over the map and opens on **Donate**. Rebuild plan: [dc_we5nqevv40](../2026-11/2026-11-03-bank-sheet-rebuild-gr-567tikzitl-plan-and-state-5nqevv40.md). Endpoints and live numbers: [dc_tkzoy81p4b](2026-10-29-the-three-finance-endpoints-their-sum-checks-and-l-zoy81p4b.md). Picture method: [dc_xeui247glt](2026-10-29-finance-page-pictures-and-layout-checks-ui247glt.md).
 
 **Layout.** `BankSheet.tsx` (tabs on the left in `nav.bank-tabs`, `.bank-tab.on` = the current one) wraps `BankView` (BankPanel.tsx).
-- `.bank-main` = `BankTab`, which holds tables only.
-- `aside.bank-side` = the "Selected row" slot (`selected` prop), then "About this tab" (`BankAbout`), then FinanceTerms and FinanceFooter.
+- `.bank-main` / `.sheet-main` = `BankTab`, which holds tables only (the tab's scroll area).
+- `aside.bank-side` = "Selected row", then "About this tab" (`BankAbout`), then FinanceTerms and FinanceFooter.
+
+**Sum checks fold (PR #590).** `CheckFold` (ui.tsx): one `details.check-fold` per section, summary "✓ N checks pass" (1: "✓ 1 check passes"); any failing → "✗ M of N checks fail" and `open`. The written-out ✓ lines are inside, unchanged. Used on Balance (Day by day: dailyCheck, utilization, limits, split = 4; cash = 1) and Spending (top table `.spend-checks` up to 5; Asked for by humans; lane × kind).
 
 Tabs:
-- **Donate**: `Donate` form (signed out: "Sign in to donate."), then `FundingNow` "Funding the town now" (active inputs + building donations). Sidebar: `DonateAbout`.
-- **Balance**: first the "Day by day" section (`BankDaily.tsx` `DailyChart`, `.daily-chart`: 30-day stacked bars of used by the 4 largest buildings + Other, a Credited line, hover/tab tooltip `.daily-tip`, a ✓ line from `dailyCheck`, then "The numbers as a table"; data = /api/finance `daily`; pictures mf_sw98zb5o3z, hover on 2026-11-16 mf_hgj3foosoq; test web/test/bankDaily.test.tsx), then the Balance table, with the line "Free for exploration N", then Next 30 days and Top contributors. Sidebar: FinanceIntro, `FreeTokensSum`, ProjectionAbout.
-- **Inputs**: TokensView, BankInputs, BankStreamsSection, SourcesView.
+- **Donate**: `Donate` form (signed out: "Sign in to donate."), then `FundingNow`. Sidebar: `DonateAbout`.
+- **Balance**: first `GlanceRow` (BankFinance.tsx, `glanceTiles(f)`; `.bank-glance` with 4 `button.bank-glance-tile.glance-{left,used,split,cash}`: Left now = `left` + `usd.left`; Used last 7 days = `utilization.d7.used` + `usedShare`; Work vs coordination = `split.d7` shares; Cash paid last 30 days = `cash.total`; a tile is left out when its field is absent; each click scrolls to `#bank-glance-{left,used,split,cash}`), then "Day by day" (`BankDaily.tsx` `DailyChart`: bars, Credited line, hover `.daily-tip`, the utilization / limits / split sentences, the folded checks, "The numbers as a table"; test bankDaily.test.tsx), then the Balance table, Next 30 days (with cash row), Top contributors. Sidebar: FinanceIntro, DailyAbout, `FreeTokensSum`, ProjectionAbout.
+- **Inputs**: TokensView, BankInputs, PlansPaidFor, BankStreamsSection, SourcesView.
 - **Spending**: BankSpending.
-- **Hosting**: FlyView.
+- **Hosting**: Uptime, FlyView.
 
-The Free tokens tab, BankFreeTokens and FreeTokensTree are gone. FreeTokensLine, capText and desksText stay, because the goal editor uses them.
+**Map fixtures** (BANK_FIXTURES): vault `bank` → Balance; chest `bank:donate` → Donate; `bank:ledger` → Inputs; `bank:spending` → Spending; `bank:hosting` → Hosting; old `bank:free` → Balance. `bankSheetTab()` with no tab gives Donate.
 
-**Map fixtures** (schema BANK_FIXTURES):
-- the vault `bank` → Balance
-- `bank:donate` = the chest (TILE.BANK_CHEST 35, cells {2,5},{3,5}, stand {2,6}) → Donate
-- `bank:ledger` → Inputs, `bank:spending` → Spending, `bank:hosting` → Hosting
-- `bank:free` (old) → Balance
+**Live URL:** `https://muster.town/workshop/?guest#/bank`. A first-visit overlay appears: press Escape on `.hiw-backdrop`. `window.__muster` exists only in dev/mock builds.
 
-`bankTabOf` defaults to Balance. `bankSheetTab()` with no tab (HUD button, `#/bank`, `#/finance`) gives Donate. Live, the Bank room is at absolute tiles x0 = 68, y0 = 24 (chest stand (70,30)), below the town plaza.
+**Tests.** bankSheet.test.tsx (tabs, prose in sidebar), finance.test.tsx (BankView per tab), bankDaily.test.tsx (chart), bankGlance.test.tsx (tiles, CheckFold). **Mock:** `VITE_MOCK=1 npx vite --port 5199` → localhost:5199/workshop/#/bank (mock already serves utilization, split, cash). Never `pkill -f` a string that is in your own command line (it kills your shell: happened again 2026-11-24). Desk scripts: /home/agent/shots/glance3.mjs (tiles, folds, words), words.mjs (words per section), click.mjs (tile scroll).
 
-**Live URL:** `https://muster.town/workshop/?guest#/bank`. A first-visit overlay appears there: Escape `.hiw-backdrop` / click "Skip". Esc, × and the backdrop close the sheet. To photograph the Bank room as a guest, dismiss the overlay, then click the gold Bank on the minimap (≈(97,818) at 1400×900): the guest walks into the room in about 20 s. Map clicks and the -/+ keys only work after the overlay is gone. `window.__muster` exists only in dev/mock builds.
+**Word counts at 1400×900 (words.mjs).** Mock after PR #590: whole page 1,098, sheet 993, centre column 512, sidebar 457. Live before (ab02db89 measure): whole page 1,212, centre 588, sidebar 544.
 
-**Tests.** `web/test/bankSheet.test.tsx` covers the tabs and checks that prose is in the sidebar. `finance.test.tsx` renders BankView per tab. `bankDaily.test.tsx` covers the chart. Also `bank-sign.test.ts` and the schema test for BANK_TABS, the chest and `bank:free`. **Mock:** `VITE_MOCK=1 npx vite --port 5199` → localhost:5199/workshop/#/bank. Never `pkill -f` a string that is in your own command line.
-
-Sources: PR #296 ([dc_xkkzmyrv6n](../../report/2026-11/2026-11-04-gr-567tikzitl-step-2-donate-first-chest-free-token-kzmyrv6n.md), [dc_jo1kkik5ik](../../report/2026-11/2026-11-04-gr-567tikzitl-step-2-pr-296-merged-as-a092a79-rede-1kkik5ik.md)), as_7vx2zy1iy7 (mf_f5a02xnh7z, mf_di4e9jjlz4, mf_6hunrv2tyr); PR #294 (as_0k98dawkxh); PR #488 / gr_epbcgb0hvs ([dc_69oov4ww1y](../../report/2026-11/2026-11-17-day-by-day-pr-488-open-daily-dailycheck-on-api-fin-oov4ww1y.md), as_y65h4nkjr4).
+Sources: PR #296, PR #488, PR #590 (as_9yckmjb9w9).

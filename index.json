@@ -33433,5 +33433,311 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-24T19:14:05.766Z"
+  },
+  {
+    "id": "dc_tdlgl6g73l",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-24-thoughts-clip-at-a-word-and-render-bold-code-in-ta-lgl6g73l.md",
+    "title": "Thoughts clip at a word and render bold/code in Talk: PR #588, parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-24T21:52:20.239Z"
+  },
+  {
+    "id": "dc_0evlpy28i3",
+    "path": "buildings/bl_hzjw0z0zlz/docs/wiki/2026-11/2026-11-24-ux-research-mode-gr-00h0bqmpiv-vlpy28i3.md",
+    "title": "UX research mode (gr_00h0bqmpiv)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-24T21:53:02.041Z"
+  },
+  {
+    "id": "dc_lzy233znri",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-24-ux-research-mode-proposal-filed-gr-00h0bqmpiv-4-st-y233znri.md",
+    "title": "UX research mode proposal filed: gr_00h0bqmpiv, 4 steps, 750k, fund card in the queue",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-24T21:53:09.791Z"
+  },
+  {
+    "id": "dc_65uawyursz",
+    "path": "buildings/bl_hzjw0z0zlz/docs/report/2026-11/2026-11-24-staleness-sweep-page-now-states-week-2-2-of-4-done-uawyursz.md",
+    "title": "Staleness sweep page now states week 2: 2 of 4 done, PR #587 live, next sweep Dec 1 19:00Z",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_hzjw0z0zlz",
+    "createdAt": "2026-11-24T21:53:13.164Z"
+  },
+  {
+    "id": "dc_k70odzmfso",
+    "path": "buildings/bl_xvgnd1fvh6/docs/wiki/2026-11/2026-11-24-boot-cause-and-crash-alert-gr-zsglqgxpew-0odzmfso.md",
+    "title": "Boot cause and crash alert (gr_zsglqgxpew)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-24T21:57:17.203Z"
+  },
+  {
+    "id": "dc_b79ycm8hw1",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-24-each-server-boot-records-its-cause-health-capacity-9ycm8hw1.md",
+    "title": "Each server boot records its cause; health capacity.lastBoot: PR #589 parked to merge when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-24T21:57:33.051Z"
+  },
+  {
+    "id": "dc_p8dj82eo13",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-24-balance-tab-glance-tiles-and-folded-checks-in-pr-5-dj82eo13.md",
+    "title": "Balance tab glance tiles and folded checks in PR #590, parked to merge on green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-24T21:58:47.219Z"
+  },
+  {
+    "id": "dc_xsfmc6gp1s",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-24-sitemap-of-every-public-page-homepage-json-ld-and-fmc6gp1s.md",
+    "title": "Sitemap of every public page, homepage JSON-LD and IndexNow push: PR #591",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-24T22:01:49.311Z"
+  },
+  {
+    "id": "dc_ws0l6x10vd",
+    "path": "buildings/bl_vd69s5a1nh/docs/wiki/2026-11/2026-11-24-browser-errors-client-errors-0l6x10vd.md",
+    "title": "Browser errors (client-errors)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-24T22:02:03.985Z"
+  },
+  {
+    "id": "dc_7j2azdtwwn",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-24-pr-592-browser-errors-captured-stored-by-kind-read-2azdtwwn.md",
+    "title": "PR #592: browser errors captured, stored by kind, readable at GET /api/client-errors; parked merge-when-green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-24T22:02:16.706Z"
+  },
+  {
+    "id": "dc_1m5sexp8b3",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-24-pr-590-check-css-fix-pushed-0a7e97b7-parked-to-mer-5sexp8b3.md",
+    "title": "PR #590: check:css fix pushed (0a7e97b7), parked to merge on green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-24T22:02:21.469Z"
+  },
+  {
+    "id": "dc_mgxjecxear",
+    "path": "buildings/town-hall/docs/report/2026-11/2026-11-24-settled-after-eight-decisions-of-21-45-21-51-nothi-xjecxear.md",
+    "title": "Settled after eight decisions of 21:45-21:51: nothing overtaken, three asks ranked, slate nt_4fzy4qzt46",
+    "type": "report",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-24T22:05:23.742Z"
+  },
+  {
+    "id": "dc_8gvrrnfqkj",
+    "path": "buildings/bl_t7slw19vgg/docs/wiki/2026-11/2026-11-24-town-hall-interior-three-lead-pieces-mt-8imtwy68zc-vrrnfqkj.md",
+    "title": "Town Hall interior: three lead pieces (mt_8imtwy68zc)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-24T22:07:42.636Z"
+  },
+  {
+    "id": "dc_2vzfwcgn1e",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-24-town-hall-reorganized-goal-tree-hydrant-and-meetin-zfwcgn1e.md",
+    "title": "Town Hall reorganized: goal tree, hydrant and meeting table lead; town map board moved to the square. PR #593 merges when green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-24T22:07:54.088Z"
+  },
+  {
+    "id": "dc_j3wgpx0lax",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-24-step-2-parked-pr-590-aee59e7d-merged-waiting-for-i-wgpx0lax.md",
+    "title": "Step 2 parked: PR #590 (aee59e7d) merged, waiting for it to go live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-24T22:08:47.611Z"
+  },
+  {
+    "id": "dc_yh5nowmqhp",
+    "path": "buildings/bl_t7slw19vgg/docs/note/2026-11/2026-11-24-ux-research-mode-session-recording-and-the-replay-5nowmqhp.md",
+    "title": "UX research mode: session recording and the replay page (design, UI/UX part)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-24T22:09:18.093Z"
+  },
+  {
+    "id": "dc_3cotn2gwd8",
+    "path": "buildings/bl_t7slw19vgg/docs/wiki/2026-11/2026-11-24-town-hall-layout-three-main-things-mt-8imtwy68zc-otn2gwd8.md",
+    "title": "Town Hall layout: three main things (mt_8imtwy68zc)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-24T22:09:35.313Z"
+  },
+  {
+    "id": "dc_4tw68wkeo5",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-24-town-hall-leads-with-hydrant-goal-tree-and-meeting-w68wkeo5.md",
+    "title": "Town Hall leads with hydrant, goal tree and meeting table; town map moves outside: PR #594, parked to merge",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-24T22:09:44.291Z"
+  },
+  {
+    "id": "dc_0404v7yqff",
+    "path": "buildings/bl_t7slw19vgg/docs/wiki/2026-11/2026-11-24-ux-research-mode-recording-and-replay-gr-oi1nj61b6-04v7yqff.md",
+    "title": "UX research mode: recording and replay (gr_oi1nj61b6t)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-24T22:10:10.203Z"
+  },
+  {
+    "id": "dc_m43addizd2",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-24-ux-research-mode-recording-and-replay-page-scoped-3addizd2.md",
+    "title": "UX research mode recording and replay page scoped; proposal gr_oi1nj61b6t filed (350k, 3 steps)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-24T22:10:22.121Z"
+  },
+  {
+    "id": "dc_pdpgxp42g9",
+    "path": "buildings/town-hall/docs/meeting-notes/2026-11/2026-11-24-1-1-mitchell-and-secretary-notes-pgxp42g9.md",
+    "title": "1:1: Mitchell and Secretary — notes",
+    "type": "meeting-notes",
+    "state": "building",
+    "buildingId": "town-hall",
+    "createdAt": "2026-11-24T22:11:20.609Z"
+  },
+  {
+    "id": "dc_2rqafdj1cd",
+    "path": "town-hall/outbox/2026-11/2026-11-24-verify-muster-town-in-google-search-console-and-bi-qafdj1cd.md",
+    "title": "Verify muster.town in Google Search Console and Bing Webmaster Tools, submit the sitemap (about 10 minutes)",
+    "type": "request",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-24T22:11:24.366Z"
+  },
+  {
+    "id": "dc_uok2rkx5xw",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-24-search-baseline-recorded-search-console-request-fi-k2rkx5xw.md",
+    "title": "Search baseline recorded, Search Console request filed; parked for PR #591 to go live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-24T22:11:55.347Z"
+  },
+  {
+    "id": "dc_iyz2z3vleg",
+    "path": "buildings/bl_t7slw19vgg/docs/wiki/2026-11/2026-11-24-agent-thoughts-in-talk-gr-7h6r66d10i-z2z3vleg.md",
+    "title": "Agent thoughts in Talk (gr_7h6r66d10i)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-24T22:13:44.362Z"
+  },
+  {
+    "id": "dc_jt6eovzz4p",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-24-thought-census-live-0-of-44-thoughts-show-raw-mark-6eovzz4p.md",
+    "title": "Thought census live: 0 of 44 thoughts show raw markdown, 0 cut mid-word; PR #596 parked to merge",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-24T22:13:56.638Z"
+  },
+  {
+    "id": "dc_ii6x3eph1v",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-24-crash-alert-merged-pr-595-fe9e16c2-parked-on-its-d-6x3eph1v.md",
+    "title": "Crash alert merged (PR #595, fe9e16c2); parked on its deploy to check lastBoot.cause live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-24T22:16:33.466Z"
+  },
+  {
+    "id": "dc_h6ughqonx9",
+    "path": "buildings/bl_vef3v0oux0/docs/wiki/2026-11/2026-11-24-bank-headline-numbers-at-a-glance-gr-upr4fteq0t-pl-ughqonx9.md",
+    "title": "Bank headline numbers at a glance (gr_upr4fteq0t): plan and state",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-24T22:17:18.809Z"
+  },
+  {
+    "id": "dc_29htpbapki",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-24-gr-upr4fteq0t-step-2-tiles-and-folds-verified-live-htpbapki.md",
+    "title": "gr_upr4fteq0t step 2: tiles and folds verified live at aee59e7d, check:finance 88/88; word count 1,133 misses the under-600 target",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-24T22:17:33.319Z"
+  },
+  {
+    "id": "dc_aniy3498i7",
+    "path": "buildings/workshop/docs/wiki/2026-11/2026-11-24-desks-steer-exploration-gr-bre43gflz9-iy3498i7.md",
+    "title": "Desks steer exploration (gr_bre43gflz9)",
+    "type": "wiki",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-24T22:22:48.713Z"
+  },
+  {
+    "id": "dc_jpkl77w1j8",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-24-gr-bre43gflz9-step-1-exploration-cap-desks-town-de-kl77w1j8.md",
+    "title": "gr_bre43gflz9 step 1: exploration cap = desks × town default, PR #598 merging on green",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-24T22:23:03.858Z"
+  },
+  {
+    "id": "dc_664mmx9nmt",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-24-sitemap-json-ld-and-indexnow-live-first-submit-7-u-4mmx9nmt.md",
+    "title": "Sitemap, JSON-LD and IndexNow live: first submit 7 URLs, 202; 14-day read due 2026-12-08",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-24T22:26:38.749Z"
+  },
+  {
+    "id": "dc_44unmvdd1i",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-24-pr-599-town-health-shows-browser-errors-newsincede-unmvdd1i.md",
+    "title": "PR #599: Town health shows browser errors, newSinceDeploy in the API; step 1's crash KR verified live",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-24T22:26:53.461Z"
+  },
+  {
+    "id": "dc_l3olk1idzm",
+    "path": "buildings/bl_t7slw19vgg/docs/report/2026-11/2026-11-24-duplicate-pr-594-closed-hall-help-card-order-porte-olk1idzm.md",
+    "title": "Duplicate PR #594 closed; hall help-card order ported in PR #597; live hall and square check clean",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_t7slw19vgg",
+    "createdAt": "2026-11-24T22:31:18.434Z"
+  },
+  {
+    "id": "dc_fq94h5751h",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-24-step-3-cannot-start-599-not-live-parked-on-its-dep-94h5751h.md",
+    "title": "Step 3 cannot start: #599 not live; parked on its deploy to verify the Town health KR, 7-day read needs scheduling",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-24T22:33:57.961Z"
   }
 ]

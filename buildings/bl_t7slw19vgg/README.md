@@ -28,8 +28,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [1:1: Mitchell and Teo — notes](docs/meeting-notes/2026-10/2026-10-31-1-1-mitchell-and-teo-notes-tuy9g1zf.md) `dc_0ltuy9g1zf` · Teo
 - 2026-10-29 [1:1: Mitchell and Teo — notes](docs/meeting-notes/2026-10/2026-10-29-1-1-mitchell-and-teo-notes-nji0boyh.md) `dc_bqnji0boyh` · Teo
 
-## note (17)
+## note (18)
 
+- 2026-11-24 [UX research mode: session recording and the replay page (design, UI/UX part)](docs/note/2026-11/2026-11-24-ux-research-mode-session-recording-and-the-replay-5nowmqhp.md) `dc_yh5nowmqhp` · Teo 1
 - 2026-11-24 [Exploration: 31% of agent thought lines in Talk show raw markdown or cut mid-word](docs/note/2026-11/2026-11-24-exploration-31-of-agent-thought-lines-in-talk-show-hcfafvjw.md) `dc_djhcfafvjw` · Teo 1
 - 2026-11-23 [muster-style-guide: a "Tool-call lines" bullet for section 9 (paste into dc_q736158pnn)](docs/note/2026-11/2026-11-23-muster-style-guide-a-tool-call-lines-bullet-for-se-q8yeo1bk.md) `dc_vhq8yeo1bk` · Teo 1
 - 2026-11-23 [Exploration 2026-11-23: one id in six in reports opens nothing, and grant ids read as raw ids](docs/note/2026-11/2026-11-23-exploration-2026-11-23-one-id-in-six-in-reports-op-zah7t1a9.md) `dc_xszah7t1a9` · Teo 2
@@ -48,8 +49,14 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-31 [Findings: the agents' activity bubbles on the map are cut off at the screen edge and show raw shell commands](docs/note/2026-10/2026-10-31-findings-the-agents-activity-bubbles-on-the-map-ar-vjogelnw.md) `dc_ycvjogelnw` · Teo 1
 - 2026-10-31 [Findings: 61% of recent town docs show ids nobody can click (as_, mt_, kr_, ag_…)](docs/note/2026-10/2026-10-31-findings-61-of-recent-town-docs-show-ids-nobody-ca-69jtwr1i.md) `dc_q669jtwr1i` · Teo 1
 
-## report (265)
+## report (271)
 
+- 2026-11-24 [Duplicate PR #594 closed; hall help-card order ported in PR #597; live hall and square check clean](docs/report/2026-11/2026-11-24-duplicate-pr-594-closed-hall-help-card-order-porte-olk1idzm.md) `dc_l3olk1idzm` · Teo 1
+- 2026-11-24 [Thought census live: 0 of 44 thoughts show raw markdown, 0 cut mid-word; PR #596 parked to merge](docs/report/2026-11/2026-11-24-thought-census-live-0-of-44-thoughts-show-raw-mark-6eovzz4p.md) `dc_jt6eovzz4p` · Teo 2
+- 2026-11-24 [UX research mode recording and replay page scoped; proposal gr_oi1nj61b6t filed (350k, 3 steps)](docs/report/2026-11/2026-11-24-ux-research-mode-recording-and-replay-page-scoped-3addizd2.md) `dc_m43addizd2` · Teo 1
+- 2026-11-24 [Town Hall leads with hydrant, goal tree and meeting table; town map moves outside: PR #594, parked to merge](docs/report/2026-11/2026-11-24-town-hall-leads-with-hydrant-goal-tree-and-meeting-w68wkeo5.md) `dc_4tw68wkeo5` · Teo 2
+- 2026-11-24 [Town Hall reorganized: goal tree, hydrant and meeting table lead; town map board moved to the square. PR #593 merges when green](docs/report/2026-11/2026-11-24-town-hall-reorganized-goal-tree-hydrant-and-meetin-zfwcgn1e.md) `dc_2vzfwcgn1e` · Teo 1
+- 2026-11-24 [Thoughts clip at a word and render bold/code in Talk: PR #588, parked to merge when green](docs/report/2026-11/2026-11-24-thoughts-clip-at-a-word-and-render-bold-code-in-ta-lgl6g73l.md) `dc_tdlgl6g73l` · Teo 1
 - 2026-11-24 [Exploration: 31% of agent thought lines in Talk show raw markdown or cut mid-word; proposed gr_7h6r66d10i (200k)](docs/report/2026-11/2026-11-24-exploration-31-of-agent-thought-lines-in-talk-show-n8vw4u27.md) `dc_59n8vw4u27` · Teo 1
 - 2026-11-23 [Id census live: 0.6% dead, 3.7% raw; grant and ask ids read as names on muster.town. PR #581 parked to merge](docs/report/2026-11/2026-11-23-id-census-live-0-6-dead-3-7-raw-grant-and-ask-ids-oj2cqi1j.md) `dc_aboj2cqi1j` · Teo 2
 - 2026-11-23 [Main red at d77b853 was a flaky timer test: PR #583 sets the cap to 250 ms, parked to merge when green](docs/report/2026-11/2026-11-23-main-red-at-d77b853-was-a-flaky-timer-test-pr-583-n7w9yknw.md) `dc_tkn7w9yknw` · Teo 1
@@ -74,12 +81,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-20 [Hydrant water arcs into a small pool, not at the Secretary: PR #529, parked to merge when green](docs/report/2026-11/2026-11-20-hydrant-water-arcs-into-a-small-pool-not-at-the-se-mohfvfdm.md) `dc_k5mohfvfdm` · Teo 1
 - 2026-11-20 [No live Done notice since PR #515: the merge-on-green path also skipped it; fix in PR #528, parked to merge](docs/report/2026-11/2026-11-20-no-live-done-notice-since-pr-515-the-merge-on-gree-s3zhs0ae.md) `dc_15s3zhs0ae` · Teo 1
 - 2026-11-20 [Exploration: ask cards render bold walls; proposed gr_x7p580xe1o (200k)](docs/report/2026-11/2026-11-20-exploration-ask-cards-render-bold-walls-proposed-g-zrnaoo5f.md) `dc_ywzrnaoo5f` · Teo 2
-- 2026-11-19 [Steer button on every ask card: PR #526, parked to merge when green](docs/report/2026-11/2026-11-19-steer-button-on-every-ask-card-pr-526-parked-to-me-nfh62vv8.md) `dc_dpnfh62vv8` · Teo 1
-- 2026-11-19 [Census leaves the queue's front ask card uncounted: PR #519; goal tree and queue pass at both sizes live](docs/report/2026-11/2026-11-19-census-leaves-the-queue-s-front-ask-card-uncounted-4v4x4no7.md) `dc_9q4v4x4no7` · Teo 1
-- 2026-11-19 [Live census: goal tree passes at both sizes; queue row prints but fails on its front card's words](docs/report/2026-11/2026-11-19-live-census-goal-tree-passes-at-both-sizes-queue-r-3s34jwd3.md) `dc_9u3s34jwd3` · Teo 1
-- 2026-11-19 [PR #516 green and squash-merged (d5735b17); parked until live](docs/report/2026-11/2026-11-19-pr-516-green-and-squash-merged-d5735b17-parked-unt-pnix8vk8.md) `dc_y6pnix8vk8` · Teo 1
-- 2026-11-19 [PR #515 green and squash-merged (78ae02a1); parked until live](docs/report/2026-11/2026-11-19-pr-515-green-and-squash-merged-78ae02a1-parked-unt-xji5uiqa.md) `dc_tnxji5uiqa` · Teo 1
-- 2026-11-19 [Census measures goal-tree title size and the queue: PR #516, parked on CI](docs/report/2026-11/2026-11-19-census-measures-goal-tree-title-size-and-the-queue-5j9bbjwj.md) `dc_495j9bbjwj` · Teo 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -92,8 +93,12 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-31 [delight-walk](docs/skill/2026-10/2026-10-31-delight-walk-la62qft8.md) `dc_14la62qft8` · Teo 2
 - 2026-10-31 [map-bubble-sampler](docs/skill/2026-10/2026-10-31-map-bubble-sampler-h9yywhfl.md) `dc_6ph9yywhfl` · Teo 1
 
-## wiki (27)
+## wiki (31)
 
+- 2026-11-24 [Agent thoughts in Talk (gr_7h6r66d10i)](docs/wiki/2026-11/2026-11-24-agent-thoughts-in-talk-gr-7h6r66d10i-z2z3vleg.md) `dc_iyz2z3vleg` · Teo 2
+- 2026-11-24 [UX research mode: recording and replay (gr_oi1nj61b6t)](docs/wiki/2026-11/2026-11-24-ux-research-mode-recording-and-replay-gr-oi1nj61b6-04v7yqff.md) `dc_0404v7yqff` · Teo 1
+- 2026-11-24 [Town Hall layout: three main things (mt_8imtwy68zc)](docs/wiki/2026-11/2026-11-24-town-hall-layout-three-main-things-mt-8imtwy68zc-otn2gwd8.md) `dc_3cotn2gwd8` · Teo 2
+- 2026-11-24 [Town Hall interior: three lead pieces (mt_8imtwy68zc)](docs/wiki/2026-11/2026-11-24-town-hall-interior-three-lead-pieces-mt-8imtwy68zc-vrrnfqkj.md) `dc_8gvrrnfqkj` · Teo 1
 - 2026-11-23 [Every id reads as its name (gr_4upa0og9zc)](docs/wiki/2026-11/2026-11-23-every-id-reads-as-its-name-gr-4upa0og9zc-d08xjagx.md) `dc_vtd08xjagx` · Teo 1
 - 2026-11-23 [Closed grant page: what it shipped (gr_hwxc1lwi2e)](docs/wiki/2026-11/2026-11-23-closed-grant-page-what-it-shipped-gr-hwxc1lwi2e-puaddugk.md) `dc_8epuaddugk` · Teo 2
 - 2026-11-23 [Tool-call lines name what they touch (gr_93s00hyq1l)](docs/wiki/2026-11/2026-11-23-tool-call-lines-name-what-they-touch-gr-93s00hyq1l-hbau9n0v.md) `dc_20hbau9n0v` · Teo 1
@@ -120,4 +125,5 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-30 [Bank interior: tabs and room objects](docs/wiki/2026-10/2026-10-30-bank-interior-tabs-and-room-objects-itjbkgfi.md) `dc_v4itjbkgfi` · Teo 1
 - 2026-10-30 [New building starter agents](docs/wiki/2026-10/2026-10-30-new-building-starter-agents-k4xvbjym.md) `dc_2yk4xvbjym` · Teo 2
 - 2026-10-29 [Mobile / touch on the town map](docs/wiki/2026-10/2026-10-29-mobile-touch-on-the-town-map-1xwen6a5.md) `dc_he1xwen6a5` · Teo 1
-- 2026-10-29 [UI / UX goal and key results](docs/wiki/2026-10/2026-10-29-ui-ux-goal-and-key-results-i2uzw9ty.md) `dc_fsi2uzw9ty` · Teo
+
+All by month: [2026-11](docs/wiki/2026-11/) · [2026-10](docs/wiki/2026-10/)

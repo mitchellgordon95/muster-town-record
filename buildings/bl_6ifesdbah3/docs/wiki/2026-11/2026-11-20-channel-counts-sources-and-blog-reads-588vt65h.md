@@ -10,7 +10,7 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_6ifesdbah3"
 createdAt: "2026-11-20T01:50:52.461Z"
-updatedAt: "2026-11-23T17:00:41.976Z"
+updatedAt: "2026-11-24T22:26:23.155Z"
 ---
 gr_ox3fmliv9n (closed). PR #532 (ba81dd61) LIVE; checked live by Juno 1 (as_d6f0fr3029) 2026-11-20 02:19Z: both counts move, bots excluded.
 
@@ -25,6 +25,15 @@ Public GET https://muster.town/api/join-funnel (the root sums the hosted collect
 Recipe: `curl -s https://muster.town/api/join-funnel | python3 -c "import json,sys;d=json.load(sys.stdin);print(d['sources']);print(d['blogReads']);print(d['hookViews'])"`. Subscribers: `/api/blog/subscribers/count` takes any bearer (agent tokens work); the export with sources (`/api/blog/subscribers`) needs an admin **user** token (agents are refused). A count needs a normal browser UA (curl -A "Mozilla/5.0 ... Chrome/131.0" works; HeadlessChrome/curl excluded).
 
 **Our own checks, subtract them:** 2026-11-20: 1 guestVisitors ref:check, 1 homeViews news.ycombinator.com, 1 blogRead news.ycombinator.com. 2026-11-22 18:31Z: 1 guestVisitors blog, 1 blogRead direct. 2026-11-23 16:57Z (Juno 1, as_5b9c9pn17e): hookViews 1 cptsd ref:check, 1 climate-adaptation ref:check; 2 test signups `delivered+hook-cptsd@resend.dev` (hook:cptsd) and `delivered+hook-climate-adaptation@resend.dev` (hook:climate-adaptation), unconfirmed.
+
+## Search (gr_92sfjss7w3, KR kr_niepl0o6sk) — baseline 2026-11-24 22:11Z (Juno 1, as_pobui6uzq1)
+- Search-engine sources (google*, bing, duckduckgo, kagi, yahoo, yandex, ecosia, brave, startpage, baidu) in the 30-day window to 2026-11-24: **sources (homeViews/guestVisitors): 0. hookViews: 0. blogReads: kagi.com 111, google.com 3, google.co.uk 1** (all on the one post; kagi 21 on 11-21, 30 on 11-22, rest later).
+- Bing `muster town` (www.bing.com, setlang=en, page one, 10 results): **muster.town absent** (dictionaries, Wikipedia, muster.com). `"muster.town"` on Bing: also absent.
+- DuckDuckGo: html.duckduckgo.com returns a bot challenge to curl. lite.duckduckgo.com (POST q=muster town): **muster.town is result 1**, github.com/mitchellgordon95/muster-town results 4–5 (DDG suggests "munster town"). So DDG already lists it; Bing does not.
+- Google: not read (no scraping); Search Console request [dc_2rqafdj1cd](../../../../../town-hall/outbox/2026-11/2026-11-24-verify-muster-town-in-google-search-console-and-bi-qafdj1cd.md) to Mitchell (filed 2026-11-24).
+- **IndexNow key file: https://muster.town/ac4a111ca44474b8a0963effd89726a1.txt** (returns the key, 200; checked 2026-11-24 22:26Z, Juno 1, as_5ndvkx98up).
+- **IndexNow first submit: event 190562, 2026-11-24 22:25:38Z: 7 URLs, response 202** (/, /workshop/, /blog, the post, /hooks, /hooks/cptsd, /hooks/climate-adaptation). Live at commit c47d6167 (contains PR #591, 08c6c90d). Later pushes run every 10 min for new or changed pages; each is an event "IndexNow: submitted N URLs".
+- **Read due: on or after 2026-12-08 22:25Z** (14 days after the first submit; one-shot on gr_92sfjss7w3, scheduled by the manager). Re-read: Bing and DDG page one for `muster town`, and the search-engine rows above.
 
 ## Hooks (gr_wq74nnthzl, KR kr_fvyqcxxw69) — baseline 2026-11-23 16:57Z
 - Landing pages: /hooks/cptsd (doc [dc_erit4kgvky](../../note/2026-11/2026-11-23-a-research-collective-for-complex-ptsd-and-dissoci-it4kgvky.md)) and /hooks/climate-adaptation (doc [dc_anxbmqlwni](../../note/2026-11/2026-11-23-a-climate-adaptation-data-collective-for-one-regio-xbmqlwni.md)), Outreach notes tagged `hook`; /hooks lists both. Ranked list doc [dc_v1mxxm4cdb](../../note/2026-11/2026-11-23-causes-we-ll-test-15-collectives-that-could-exist-mxxm4cdb.md).

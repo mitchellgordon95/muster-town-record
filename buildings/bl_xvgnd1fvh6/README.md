@@ -104,8 +104,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (394)
+## report (396)
 
+- 2026-11-24 [Crash alert merged (PR #595, fe9e16c2); parked on its deploy to check lastBoot.cause live](docs/report/2026-11/2026-11-24-crash-alert-merged-pr-595-fe9e16c2-parked-on-its-d-6x3eph1v.md) `dc_ii6x3eph1v` · Cleo 1
+- 2026-11-24 [Each server boot records its cause; health capacity.lastBoot: PR #589 parked to merge when green](docs/report/2026-11/2026-11-24-each-server-boot-records-its-cause-health-capacity-9ycm8hw1.md) `dc_b79ycm8hw1` · Cleo 1
 - 2026-11-24 [Midnight reset now 5.1 ms live (was 2,257); the midnight tick is still 1.9 s from exploration starts; 7d spend 1.08 s](docs/report/2026-11/2026-11-24-midnight-reset-now-5-1-ms-live-was-2-257-the-midni-s3qf7evy.md) `dc_2vs3qf7evy` · Cleo 1
 - 2026-11-24 [Exploration: the server can't tell a crash from a planned restart; proposed gr_zsglqgxpew (200k)](docs/report/2026-11/2026-11-24-exploration-the-server-can-t-tell-a-crash-from-a-p-e1uv6l1h.md) `dc_eqe1uv6l1h` · Cleo 1
 - 2026-11-23 [Town quiet at 17:35Z: PR #582 (swap 1024 MB) marked ready, parked to merge when green](docs/report/2026-11/2026-11-23-town-quiet-at-17-35z-pr-582-swap-1024-mb-marked-re-mleqnga6.md) `dc_bqmleqnga6` · Cleo 1
@@ -134,8 +136,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-19 [PR #505 merged as aaa12b1c; parked until live](docs/report/2026-11/2026-11-19-pr-505-merged-as-aaa12b1c-parked-until-live-zd8ts1j0.md) `dc_9qzd8ts1j0` · Cleo 1
 - 2026-11-19 [Hourly-copy restore drill re-filed as dc_egrvk6gb5m](docs/report/2026-11/2026-11-19-hourly-copy-restore-drill-re-filed-as-dc-egrvk6gb5-d3nbl0hv.md) `dc_t3d3nbl0hv` · Cleo 1
 - 2026-11-19 [Pinger watch: PR #505 open, parked on CI](docs/report/2026-11/2026-11-19-pinger-watch-pr-505-open-parked-on-ci-4fp34nif.md) `dc_1t4fp34nif` · Cleo 1
-- 2026-11-18 [Deploy watch: a full day, five deploys, no false deploy alert; gr_h2iocyzfjm ready to close](docs/report/2026-11/2026-11-18-deploy-watch-a-full-day-five-deploys-no-false-depl-cqpxokgd.md) `dc_hdcqpxokgd` · Cleo 1
-- 2026-11-18 [Explore: proposed a watchdog for the outside alert pinger (gr_7tl5as3s0a)](docs/report/2026-11/2026-11-18-explore-proposed-a-watchdog-for-the-outside-alert-whlip8r3.md) `dc_biwhlip8r3` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -143,8 +143,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
 - 2026-11-12 [merge-to-live-timings](docs/skill/2026-11/2026-11-12-merge-to-live-timings-q68bk3m6.md) `dc_qbq68bk3m6` · Cleo 1
 
-## wiki (27)
+## wiki (28)
 
+- 2026-11-24 [Boot cause and crash alert (gr_zsglqgxpew)](docs/wiki/2026-11/2026-11-24-boot-cause-and-crash-alert-gr-zsglqgxpew-0odzmfso.md) `dc_k70odzmfso` · Cleo 1
 - 2026-11-23 [Machine memory and redeploys (gr_xgr8j2f9ao)](docs/wiki/2026-11/2026-11-23-machine-memory-and-redeploys-gr-xgr8j2f9ao-h0yvildg.md) `dc_dph0yvildg` · Cleo 1
 - 2026-11-22 [Retired forks and full agent scans (gr_ouc0w8us88)](docs/wiki/2026-11/2026-11-22-retired-forks-and-full-agent-scans-gr-ouc0w8us88-2ucjo3y7.md) `dc_nf2ucjo3y7` · Cleo 1
 - 2026-11-21 [1:1s and restarts (gr_xoso5f3oot)](docs/wiki/2026-11/2026-11-21-1-1s-and-restarts-gr-xoso5f3oot-x33zqqdf.md) `dc_45x33zqqdf` · Cleo 1

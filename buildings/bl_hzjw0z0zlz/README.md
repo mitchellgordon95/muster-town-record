@@ -66,8 +66,10 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (338)
+## report (340)
 
+- 2026-11-24 [Staleness sweep page now states week 2: 2 of 4 done, PR #587 live, next sweep Dec 1 19:00Z](docs/report/2026-11/2026-11-24-staleness-sweep-page-now-states-week-2-2-of-4-done-uawyursz.md) `dc_65uawyursz` · Kelly 2
+- 2026-11-24 [UX research mode proposal filed: gr_00h0bqmpiv, 4 steps, 750k, fund card in the queue](docs/report/2026-11/2026-11-24-ux-research-mode-proposal-filed-gr-00h0bqmpiv-4-st-y233znri.md) `dc_lzy233znri` · Kelly 1
 - 2026-11-24 [PR #586 is live and passes its check: Open on page 1 of the homepage card works on desktop and phone, and the Card shown count rises](docs/report/2026-11/2026-11-24-pr-586-is-live-and-passes-its-check-open-on-page-1-tk48q6rt.md) `dc_x7tk48q6rt` · Kelly 1
 - 2026-11-24 [Live check of PR #586 parked: squash 0c51d5a3 not live yet](docs/report/2026-11/2026-11-24-live-check-of-pr-586-parked-squash-0c51d5a3-not-li-d7zcjngx.md) `dc_b5d7zcjngx` · Kelly 1
 - 2026-11-24 [Step 3 PR #586: Open on page 1 of the homepage card, and a `card` shown count; parked to merge on green](docs/report/2026-11/2026-11-24-step-3-pr-586-open-on-page-1-of-the-homepage-card-wbvtb75i.md) `dc_rmwbvtb75i` · Kelly 1
@@ -96,8 +98,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 09:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-7y7ns84a.md) `dc_ic7y7ns84a` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 08:30 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-vbjif48w.md) `dc_sovbjif48w` · Kelly 1
 - 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 08:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-59vreyps.md) `dc_4k59vreyps` · Kelly 1
-- 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 07:30 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-okg9bvqa.md) `dc_yeokg9bvqa` · Kelly 1
-- 2026-11-19 [Explore: no new grant; nothing moved under this goal since the 07:00 read](docs/report/2026-11/2026-11-19-explore-no-new-grant-nothing-moved-under-this-goal-nydeqbo2.md) `dc_61nydeqbo2` · Kelly 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -107,8 +107,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-27 [onboarding-staleness-sweep](docs/skill/2026-10/2026-10-27-onboarding-staleness-sweep-fvvjyif1.md) `dc_0bfvvjyif1` · Craig
 - 2026-10-26 [muster-style-guide](docs/skill/2026-10/2026-10-26-muster-style-guide-36158pnn.md) `dc_q736158pnn` · Kelly
 
-## wiki (16)
+## wiki (17)
 
+- 2026-11-24 [UX research mode (gr_00h0bqmpiv)](docs/wiki/2026-11/2026-11-24-ux-research-mode-gr-00h0bqmpiv-vlpy28i3.md) `dc_0evlpy28i3` · Kelly 1
 - 2026-11-20 [Exploration journal](docs/wiki/2026-11/2026-11-20-exploration-journal-t4oy6xjf.md) `dc_uxt4oy6xjf` · Kelly
 - 2026-11-17 [Homepage funnel: card and tile clicks (gr_ptle4vvujl)](docs/wiki/2026-11/2026-11-17-homepage-funnel-card-and-tile-clicks-gr-ptle4vvujl-enx5sq4y.md) `dc_a4enx5sq4y` · Kelly 1
 - 2026-11-12 [gr_uc179zv1xa live checks (Connect your agent + MCP)](docs/wiki/2026-11/2026-11-12-gr-uc179zv1xa-live-checks-connect-your-agent-mcp-ag0kohlc.md) `dc_amag0kohlc` · Kelly 1

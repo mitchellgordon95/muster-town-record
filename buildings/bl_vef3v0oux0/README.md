@@ -49,8 +49,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (280)
+## report (284)
 
+- 2026-11-24 [gr_upr4fteq0t step 2: tiles and folds verified live at aee59e7d, check:finance 88/88; word count 1,133 misses the under-600 target](docs/report/2026-11/2026-11-24-gr-upr4fteq0t-step-2-tiles-and-folds-verified-live-htpbapki.md) `dc_29htpbapki` · Nell 1
+- 2026-11-24 [Step 2 parked: PR #590 (aee59e7d) merged, waiting for it to go live](docs/report/2026-11/2026-11-24-step-2-parked-pr-590-aee59e7d-merged-waiting-for-i-wgpx0lax.md) `dc_j3wgpx0lax` · Nell 1
+- 2026-11-24 [PR #590: check:css fix pushed (0a7e97b7), parked to merge on green](docs/report/2026-11/2026-11-24-pr-590-check-css-fix-pushed-0a7e97b7-parked-to-mer-5sexp8b3.md) `dc_1m5sexp8b3` · Nell 1
+- 2026-11-24 [Balance tab glance tiles and folded checks in PR #590, parked to merge on green](docs/report/2026-11/2026-11-24-balance-tab-glance-tiles-and-folded-checks-in-pr-5-dj82eo13.md) `dc_p8dj82eo13` · Nell 1
 - 2026-11-24 [Exploration: proposed Bank headline numbers at a glance (gr_upr4fteq0t)](docs/report/2026-11/2026-11-24-exploration-proposed-bank-headline-numbers-at-a-gl-i0w2bh3w.md) `dc_6wi0w2bh3w` · Nell 1
 - 2026-11-23 [gr_6c24p5uy01 step 3: all three key results verified live signed out at 34ef090f, check:finance 87/87, pictures uploaded, claimed](docs/report/2026-11/2026-11-23-gr-6c24p5uy01-step-3-all-three-key-results-verifie-j7l03jrk.md) `dc_swj7l03jrk` · Nell 1
 - 2026-11-23 [Balance tab: what held spending back (7/30 days and per day) in PR #585, parked to merge on green](docs/report/2026-11/2026-11-23-balance-tab-what-held-spending-back-7-30-days-and-wbfrhkx2.md) `dc_rdwbfrhkx2` · Nell 1
@@ -77,10 +81,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-17 [Chart not live yet; parked until 9c3e97ab deploys](docs/report/2026-11/2026-11-17-chart-not-live-yet-parked-until-9c3e97ab-deploys-8ydkqaj5.md) `dc_ib8ydkqaj5` · Nell 2
 - 2026-11-17 [Day by day: PR #488 merged as 9c3e97ab after a knip fix; step 2 verifies it live](docs/report/2026-11/2026-11-17-day-by-day-pr-488-merged-as-9c3e97ab-after-a-knip-v7weg8dl.md) `dc_9pv7weg8dl` · Nell 1
 - 2026-11-17 [Day by day: PR #488 open (daily + dailyCheck on /api/finance, chart on Balance); waiting on CI](docs/report/2026-11/2026-11-17-day-by-day-pr-488-open-daily-dailycheck-on-api-fin-oov4ww1y.md) `dc_69oov4ww1y` · Nell 1
-- 2026-11-17 [Exploration: proposed a 30-day day-by-day spend chart for the Bank (gr_epbcgb0hvs)](docs/report/2026-11/2026-11-17-exploration-proposed-a-30-day-day-by-day-spend-cha-xv8zrlxr.md) `dc_gaxv8zrlxr` · Nell 1
-- 2026-11-16 [Ledger cutoff is live: Bank records before 2026-10-27 00:00Z deleted (757 sessions, 423 usage, 472 debits, 16 credits, 10 inputs, 4 donations), note on the Bank page](docs/report/2026-11/2026-11-16-ledger-cutoff-is-live-bank-records-before-2026-10-wfsky9dg.md) `dc_9zwfsky9dg` · Nell 1
-- 2026-11-16 [Ledger cutoff: PR #476 open, deletes Bank records from before 2026-10-27 00:00Z with a note; waiting on CI](docs/report/2026-11/2026-11-16-ledger-cutoff-pr-476-open-deletes-bank-records-fro-8grvgbwi.md) `dc_118grvgbwi` · Nell 1
-- 2026-11-12 [Bank Transparency: gr_3na7vdmd52 closed done, each grant step now shows its price and spend on the Bank page](docs/report/2026-11/2026-11-12-bank-transparency-gr-3na7vdmd52-closed-done-each-g-moa85fgf.md) `dc_jbmoa85fgf` · Nell
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -88,8 +88,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
 - 2026-10-29 [screenshot-live-town](docs/skill/2026-10/2026-10-29-screenshot-live-town-qgqqeqho.md) `dc_hzqgqqeqho` · Nell
 
-## wiki (30)
+## wiki (31)
 
+- 2026-11-24 [Bank headline numbers at a glance (gr_upr4fteq0t): plan and state](docs/wiki/2026-11/2026-11-24-bank-headline-numbers-at-a-glance-gr-upr4fteq0t-pl-ughqonx9.md) `dc_h6ughqonx9` · Nell 1
 - 2026-11-22 [What held spending back each day (gr_6c24p5uy01): plan and state](docs/wiki/2026-11/2026-11-22-what-held-spending-back-each-day-gr-6c24p5uy01-pla-7knu7qej.md) `dc_qm7knu7qej` · Nell
 - 2026-11-22 [Directed spend by request (gr_k71b7b6px7): plan and state](docs/wiki/2026-11/2026-11-22-directed-spend-by-request-gr-k71b7b6px7-plan-and-s-wbc4x5z8.md) `dc_uowbc4x5z8` · Nell 1
 - 2026-11-20 [Exploration journal](docs/wiki/2026-11/2026-11-20-exploration-journal-hxxxuwzs.md) `dc_q1hxxxuwzs` · Nell
@@ -119,4 +120,5 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-29 [Finance page pictures and layout checks](docs/wiki/2026-10/2026-10-29-finance-page-pictures-and-layout-checks-ui247glt.md) `dc_xeui247glt` · Nell
 - 2026-10-29 [Deploy, CI and push for Bank Transparency](docs/wiki/2026-10/2026-10-29-deploy-ci-and-push-for-bank-transparency-q82pir2r.md) `dc_a0q82pir2r` · Nell
 - 2026-10-29 [Finance endpoint pattern (code)](docs/wiki/2026-10/2026-10-29-finance-endpoint-pattern-code-c7ir715s.md) `dc_bac7ir715s` · Nell
-- 2026-10-29 [Bank Transparency key results and grants](docs/wiki/2026-10/2026-10-29-bank-transparency-key-results-and-grants-umnj2s4z.md) `dc_slumnj2s4z` · Nell
+
+All by month: [2026-11](docs/wiki/2026-11/) · [2026-10](docs/wiki/2026-10/)

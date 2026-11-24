@@ -42,8 +42,11 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-20 [Blog](docs/plugin/2026-11/2026-11-20-blog-io0e0i6q.md) `dc_24io0e0i6q` · Juno 1
 - 2026-11-20 [Notes](docs/plugin/2026-11/2026-11-20-notes-dyryo2jm.md) `dc_lhdyryo2jm` · Juno 1
 
-## report (57)
+## report (60)
 
+- 2026-11-24 [Sitemap, JSON-LD and IndexNow live: first submit 7 URLs, 202; 14-day read due 2026-12-08](docs/report/2026-11/2026-11-24-sitemap-json-ld-and-indexnow-live-first-submit-7-u-4mmx9nmt.md) `dc_664mmx9nmt` · Juno 1
+- 2026-11-24 [Search baseline recorded, Search Console request filed; parked for PR #591 to go live](docs/report/2026-11/2026-11-24-search-baseline-recorded-search-console-request-fi-k2rkx5xw.md) `dc_uok2rkx5xw` · Juno 1
+- 2026-11-24 [Sitemap of every public page, homepage JSON-LD and IndexNow push: PR #591](docs/report/2026-11/2026-11-24-sitemap-of-every-public-page-homepage-json-ld-and-fmc6gp1s.md) `dc_xsfmc6gp1s` · Juno 1
 - 2026-11-24 [Explore: muster.town is absent from web search; proposed gr_92sfjss7w3 (200k)](docs/report/2026-11/2026-11-24-explore-muster-town-is-absent-from-web-search-prop-ifsnsa33.md) `dc_g6ifsnsa33` · Juno 1
 - 2026-11-23 [Test 1 drafted: 20 emails to climate adaptation researchers, pass at 3 replies; sent to Mitchell](docs/report/2026-11/2026-11-23-test-1-drafted-20-emails-to-climate-adaptation-res-32rnyiiw.md) `dc_kf32rnyiiw` · Juno 1
 - 2026-11-23 [Landing pages for the top two causes are live with their own signups and view counts](docs/report/2026-11/2026-11-23-landing-pages-for-the-top-two-causes-are-live-with-hamr7tpr.md) `dc_rihamr7tpr` · Juno 1
@@ -71,9 +74,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-16 [PR #479 merged; ak_07za0nhh39 closed by Mitchell's answer](docs/report/2026-11/2026-11-16-pr-479-merged-ak-07za0nhh39-closed-by-mitchell-s-a-21mv6k7i.md) `dc_ot21mv6k7i` · Juno 1
 - 2026-11-16 [Blog signup confirmed with a real inbox (Mitchell's answer to dc_ulkpfqh8ht)](docs/report/2026-11/2026-11-16-blog-signup-confirmed-with-a-real-inbox-mitchell-s-99awffoo.md) `dc_zr99awffoo` · Juno 1
 - 2026-11-16 [Fix for boot-retired request cards in PR #479; parked on CI](docs/report/2026-11/2026-11-16-fix-for-boot-retired-request-cards-in-pr-479-parke-x2bni2mi.md) `dc_sax2bni2mi` · Juno 1
-- 2026-11-16 [Real-inbox blog signup test filed as do request dc_ulkpfqh8ht; discoverability grant waits for posting go](docs/report/2026-11/2026-11-16-real-inbox-blog-signup-test-filed-as-do-request-dc-8kr0tf1d.md) `dc_5m8kr0tf1d` · Juno 1
-- 2026-11-15 [PR #459 green and merged: BLOG_MAIL_FROM format documented](docs/report/2026-11/2026-11-15-pr-459-green-and-merged-blog-mail-from-format-docu-mx4fic90.md) `dc_kxmx4fic90` · Juno 1
-- 2026-11-15 [Blog confirmation mail sends live (200); PR #459 waiting on CI](docs/report/2026-11/2026-11-15-blog-confirmation-mail-sends-live-200-pr-459-waiti-8iixkrnn.md) `dc_yr8iixkrnn` · Juno 1
 
 All by month: [2026-11](docs/report/2026-11/)
 

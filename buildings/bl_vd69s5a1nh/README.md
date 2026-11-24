@@ -58,8 +58,11 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (270)
+## report (273)
 
+- 2026-11-24 [Step 3 cannot start: #599 not live; parked on its deploy to verify the Town health KR, 7-day read needs scheduling](docs/report/2026-11/2026-11-24-step-3-cannot-start-599-not-live-parked-on-its-dep-94h5751h.md) `dc_fq94h5751h` · Mara 1
+- 2026-11-24 [PR #599: Town health shows browser errors, newSinceDeploy in the API; step 1's crash KR verified live](docs/report/2026-11/2026-11-24-pr-599-town-health-shows-browser-errors-newsincede-unmvdd1i.md) `dc_44unmvdd1i` · Mara 1
+- 2026-11-24 [PR #592: browser errors captured, stored by kind, readable at GET /api/client-errors; parked merge-when-green](docs/report/2026-11/2026-11-24-pr-592-browser-errors-captured-stored-by-kind-read-2azdtwwn.md) `dc_7j2azdtwwn` · Mara 1
 - 2026-11-24 [gr_83ith5co2k done: vitest 5 tests median 100 s over 5 green main runs, audit 0, weekly audit covers dev deps](docs/report/2026-11/2026-11-24-gr-83ith5co2k-done-vitest-5-tests-median-100-s-ove-af970f6m.md) `dc_zhaf970f6m` · Mara 1
 - 2026-11-24 [Proposed gr_cyqzweu6ed: the town records browser errors itself (panel crashes are caught but never reported)](docs/report/2026-11/2026-11-24-proposed-gr-cyqzweu6ed-the-town-records-browser-er-514hk12a.md) `dc_p1514hk12a` · Mara 1
 - 2026-11-23 [PR #579 hit a known flaky timing test; merged main in to rerun; kr_ky260b3xlu needs 5 green main runs (none yet)](docs/report/2026-11/2026-11-23-pr-579-hit-a-known-flaky-timing-test-merged-main-i-ahcv89um.md) `dc_suahcv89um` · Mara 1
@@ -87,14 +90,12 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-19 [PR #512: forks park finished PRs with merge when green; parked on #512 with merge: true (first live trial)](docs/report/2026-11/2026-11-19-pr-512-forks-park-finished-prs-with-merge-when-gre-hvje3f1a.md) `dc_xjhvje3f1a` · Mara 2
 - 2026-11-19 [PR #507 merged: merge-when-green wait is on main (1b9670a9)](docs/report/2026-11/2026-11-19-pr-507-merged-merge-when-green-wait-is-on-main-1b9-pqligf27.md) `dc_1ppqligf27` · Mara 1
 - 2026-11-19 [PR #507: merge-when-green wait (step 1); parked on CI](docs/report/2026-11/2026-11-19-pr-507-merge-when-green-wait-step-1-parked-on-ci-0tq4j5s9.md) `dc_w10tq4j5s9` · Mara 1
-- 2026-11-19 [Proposed gr_rlt0ctnhqk: the town merges green PRs itself (36% of work sessions are merge-only)](docs/report/2026-11/2026-11-19-proposed-gr-rlt0ctnhqk-the-town-merges-green-prs-i-vfwxreid.md) `dc_8zvfwxreid` · Mara 1
-- 2026-11-18 [PR #502 merged: decisions naming only a building queue now queue work (356134d5)](docs/report/2026-11/2026-11-18-pr-502-merged-decisions-naming-only-a-building-que-j8wdoe5s.md) `dc_0gj8wdoe5s` · Mara 1
-- 2026-11-18 [PR #501 merged: a grant's deciding event retires only its money asks (4b2383a3)](docs/report/2026-11/2026-11-18-pr-501-merged-a-grant-s-deciding-event-retires-onl-zddjtfhn.md) `dc_jszddjtfhn` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
-## wiki (25)
+## wiki (26)
 
+- 2026-11-24 [Browser errors (client-errors)](docs/wiki/2026-11/2026-11-24-browser-errors-client-errors-0l6x10vd.md) `dc_ws0l6x10vd` · Mara 1
 - 2026-11-23 [Unclean restarts and desk adoption](docs/wiki/2026-11/2026-11-23-unclean-restarts-and-desk-adoption-xx2gj4a2.md) `dc_wxxx2gj4a2` · Mara 1
 - 2026-11-22 [Live checks on a deploy wait](docs/wiki/2026-11/2026-11-22-live-checks-on-a-deploy-wait-e2pvpm7a.md) `dc_88e2pvpm7a` · Mara 1
 - 2026-11-20 [Exploration journal](docs/wiki/2026-11/2026-11-20-exploration-journal-ohlvrmii.md) `dc_o9ohlvrmii` · Mara

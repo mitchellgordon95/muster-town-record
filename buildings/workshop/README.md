@@ -130,8 +130,9 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1259)
+## report (1260)
 
+- 2026-11-24 [gr_bre43gflz9 step 1: exploration cap = desks × town default, PR #598 merging on green](docs/report/2026-11/2026-11-24-gr-bre43gflz9-step-1-exploration-cap-desks-town-de-kl77w1j8.md) `dc_jpkl77w1j8` · Pix 1
 - 2026-11-24 [Onboarding sweep week 2: lag 167.8 h → 0 h, streak 2 of 4; PR #587 merging on green](docs/report/2026-11/2026-11-24-onboarding-sweep-week-2-lag-167-8-h-0-h-streak-2-o-9pziv2x2.md) `dc_2x9pziv2x2` · Pix 1
 - 2026-11-23 [gr_6kangldj4t step 3 done: the subtree feed and the What it produced block checked live on the root, a middle goal and a leaf](docs/report/2026-11/2026-11-23-gr-6kangldj4t-step-3-done-the-subtree-feed-and-the-u7fuofzf.md) `dc_uuu7fuofzf` · Pix 1
 - 2026-11-23 [gr_1ilvotnzta step 3 stopped: calibration retainer not funded yet, step 1 not live yet](docs/report/2026-11/2026-11-23-gr-1ilvotnzta-step-3-stopped-calibration-retainer-1vsah5f3.md) `dc_191vsah5f3` · Pix 2
@@ -161,7 +162,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-20 [Live check with a second captain: #534 live, captain request still unanswered (no card in the queue); parked to 20:00Z](docs/report/2026-11/2026-11-20-live-check-with-a-second-captain-534-live-captain-bdlw4vu1.md) `dc_sxbdlw4vu1` · Pix 1
 - 2026-11-20 [Live check with a second captain: captain request filed, waiting on Mitchell](docs/report/2026-11/2026-11-20-live-check-with-a-second-captain-captain-request-f-kznc99te.md) `dc_6xkznc99te` · Pix 1
 - 2026-11-20 [Captains decide asks: PR #534 open, merges when green](docs/report/2026-11/2026-11-20-captains-decide-asks-pr-534-open-merges-when-green-3iirg71c.md) `dc_r93iirg71c` · Pix 1
-- 2026-11-20 [Exploration: captains can't decide most asks in their subtree; proposed gr_0vuiuqcw8p (200k)](docs/report/2026-11/2026-11-20-exploration-captains-can-t-decide-most-asks-in-the-j37sj0lp.md) `dc_myj37sj0lp` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
@@ -170,8 +170,9 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-10-27 [demo-media](docs/skill/2026-10/2026-10-27-demo-media-8jzo79xq.md) `dc_p68jzo79xq` · Lena
 - 2026-10-26 [desk-image](docs/skill/2026-10/2026-10-26-desk-image-93n44plc.md) `dc_br93n44plc` · Root
 
-## wiki (83)
+## wiki (84)
 
+- 2026-11-24 [Desks steer exploration (gr_bre43gflz9)](docs/wiki/2026-11/2026-11-24-desks-steer-exploration-gr-bre43gflz9-iy3498i7.md) `dc_aniy3498i7` · Pix 1
 - 2026-11-23 [Calibration that cuts grant holds (gr_1ilvotnzta)](docs/wiki/2026-11/2026-11-23-calibration-that-cuts-grant-holds-gr-1ilvotnzta-bqweg1qr.md) `dc_jjbqweg1qr` · Pix 3
 - 2026-11-22 [Managing cost per job (gr_064fmkq31s)](docs/wiki/2026-11/2026-11-22-managing-cost-per-job-gr-064fmkq31s-m1d4ev09.md) `dc_4gm1d4ev09` · Pix 3
 - 2026-11-22 [Ask card buttons act server-side (as_zzvnadow9a)](docs/wiki/2026-11/2026-11-22-ask-card-buttons-act-server-side-as-zzvnadow9a-cju8toxq.md) `dc_g7cju8toxq` · Pix 2
@@ -201,6 +202,5 @@ All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 - 2026-11-05 [Grant A: one stable fork prompt per building (gr_9kt5t7w51w)](docs/wiki/2026-11/2026-11-05-grant-a-one-stable-fork-prompt-per-building-gr-9kt-3nckwcta.md) `dc_p73nckwcta` · Pix 2
 - 2026-11-05 [Town health tab (grant D, gr_8bxoy2heif)](docs/wiki/2026-11/2026-11-05-town-health-tab-grant-d-gr-8bxoy2heif-a8uygy5k.md) `dc_2ca8uygy5k` · Pix 3
 - 2026-11-05 [User stats: community engagement per collective (flag dc_r7u6bkaei4)](docs/wiki/2026-11/2026-11-05-user-stats-community-engagement-per-collective-fla-42rbuhxl.md) `dc_k642rbuhxl` · Pix 1
-- 2026-11-05 [Bulletin board in the town square (flag dc_52njv3shp8)](docs/wiki/2026-11/2026-11-05-bulletin-board-in-the-town-square-flag-dc-52njv3sh-xokwfk75.md) `dc_8fxokwfk75` · Pix 3
 
 All by month: [2026-11](docs/wiki/2026-11/) · [2026-10](docs/wiki/2026-10/)
