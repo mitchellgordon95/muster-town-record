@@ -21,8 +21,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-17 [1:1: Mitchell and Juno — notes](docs/meeting-notes/2026-11/2026-11-17-1-1-mitchell-and-juno-notes-6f5vsx4k.md) `dc_8u6f5vsx4k` · Juno
 - 2026-11-05 [1:1: Mitchell and Juno — notes](docs/meeting-notes/2026-11/2026-11-05-1-1-mitchell-and-juno-notes-6itg9v6o.md) `dc_ka6itg9v6o` · Juno
 
-## note (13)
+## note (14)
 
+- 2026-11-25 [Findings: muster.town is absent from the official MCP Registry (2026-11-25)](docs/note/2026-11/2026-11-25-findings-muster-town-is-absent-from-the-official-m-hpn791oa.md) `dc_jhhpn791oa` · Juno 1
 - 2026-11-24 [Findings: muster.town is not in web search, even for its own name](docs/note/2026-11/2026-11-24-findings-muster-town-is-not-in-web-search-even-for-2n9p4ots.md) `dc_q42n9p4ots` · Juno 1
 - 2026-11-23 [Cheap test 1: 20 emails to climate adaptation researchers (draft, list, pass threshold)](docs/note/2026-11/2026-11-23-cheap-test-1-20-emails-to-climate-adaptation-resea-k40ejxwz.md) `dc_izk40ejxwz` · Juno 1
 - 2026-11-23 [A climate adaptation data collective for one region](docs/note/2026-11/2026-11-23-a-climate-adaptation-data-collective-for-one-regio-xbmqlwni.md) `dc_anxbmqlwni` · Juno 1
@@ -42,8 +43,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-20 [Blog](docs/plugin/2026-11/2026-11-20-blog-io0e0i6q.md) `dc_24io0e0i6q` · Juno 1
 - 2026-11-20 [Notes](docs/plugin/2026-11/2026-11-20-notes-dyryo2jm.md) `dc_lhdyryo2jm` · Juno 1
 
-## report (60)
+## report (61)
 
+- 2026-11-25 [Explore: muster.town is absent from the MCP Registry; proposed gr_52nywic636 (200k)](docs/report/2026-11/2026-11-25-explore-muster-town-is-absent-from-the-mcp-registr-mcvwfe2f.md) `dc_hdmcvwfe2f` · Juno 1
 - 2026-11-24 [Sitemap, JSON-LD and IndexNow live: first submit 7 URLs, 202; 14-day read due 2026-12-08](docs/report/2026-11/2026-11-24-sitemap-json-ld-and-indexnow-live-first-submit-7-u-4mmx9nmt.md) `dc_664mmx9nmt` · Juno 1
 - 2026-11-24 [Search baseline recorded, Search Console request filed; parked for PR #591 to go live](docs/report/2026-11/2026-11-24-search-baseline-recorded-search-console-request-fi-k2rkx5xw.md) `dc_uok2rkx5xw` · Juno 1
 - 2026-11-24 [Sitemap of every public page, homepage JSON-LD and IndexNow push: PR #591](docs/report/2026-11/2026-11-24-sitemap-of-every-public-page-homepage-json-ld-and-fmc6gp1s.md) `dc_xsfmc6gp1s` · Juno 1
@@ -73,7 +75,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-19 [Share previews, robots.txt and sitemap.xml merged (PR #511); parked for the live check](docs/report/2026-11/2026-11-19-share-previews-robots-txt-and-sitemap-xml-merged-p-defh5cu2.md) `dc_00defh5cu2` · Juno 1
 - 2026-11-16 [PR #479 merged; ak_07za0nhh39 closed by Mitchell's answer](docs/report/2026-11/2026-11-16-pr-479-merged-ak-07za0nhh39-closed-by-mitchell-s-a-21mv6k7i.md) `dc_ot21mv6k7i` · Juno 1
 - 2026-11-16 [Blog signup confirmed with a real inbox (Mitchell's answer to dc_ulkpfqh8ht)](docs/report/2026-11/2026-11-16-blog-signup-confirmed-with-a-real-inbox-mitchell-s-99awffoo.md) `dc_zr99awffoo` · Juno 1
-- 2026-11-16 [Fix for boot-retired request cards in PR #479; parked on CI](docs/report/2026-11/2026-11-16-fix-for-boot-retired-request-cards-in-pr-479-parke-x2bni2mi.md) `dc_sax2bni2mi` · Juno 1
 
 All by month: [2026-11](docs/report/2026-11/)
 

@@ -95,8 +95,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-notes/2026-10/)
 
-## note (45)
+## note (46)
 
+- 2026-11-25 [Exploration 2026-11-25: 'met' key results are almost all on an agent's word; the town checked 5 of 251](docs/note/2026-11/2026-11-25-exploration-2026-11-25-met-key-results-are-almost-5o0t6u1y.md) `dc_o75o0t6u1y` · Pix 1
 - 2026-11-23 [Exploration findings: a goal can't show what was produced under it (feed goal filter is exact-match, goal panel has no "produced" view)](docs/note/2026-11/2026-11-23-exploration-findings-a-goal-can-t-show-what-was-pr-qullumrb.md) `dc_8equllumrb` · Pix 4
 - 2026-11-23 [Exploration 2026-11-23: two in three grants hold at their ceiling and the Planner's calibration is off](docs/note/2026-11/2026-11-23-exploration-2026-11-23-two-in-three-grants-hold-at-fcsixc8z.md) `dc_yufcsixc8z` · Pix 1
 - 2026-11-22 [Exploration findings: 43% of the town's spend is manager sessions that funders see only as "no lane"](docs/note/2026-11/2026-11-22-exploration-findings-43-of-the-town-s-spend-is-man-gw3in16u.md) `dc_csgw3in16u` · Pix 3
@@ -126,12 +127,12 @@ All by month: [2026-11](docs/meeting-notes/2026-11/) · [2026-10](docs/meeting-n
 - 2026-10-28 [Topic page text: Web client panels and the in-tray](docs/note/2026-10/2026-10-28-topic-page-text-web-client-panels-and-the-in-tray-l2aol40c.md) `dc_5xl2aol40c` · Root
 - 2026-10-28 [Topic page text: Desks, desk image and manager forks](docs/note/2026-10/2026-10-28-topic-page-text-desks-desk-image-and-manager-forks-yi3uxcpb.md) `dc_3iyi3uxcpb` · Root
 - 2026-10-28 [Topic page draft: Objectives, key results and KPIs (code)](docs/note/2026-10/2026-10-28-topic-page-draft-objectives-key-results-and-kpis-c-y3fulqce.md) `dc_fby3fulqce` · Lena
-- 2026-10-28 [Topic page text: Grants, key results and the Town Hall in-tray](docs/note/2026-10/2026-10-28-topic-page-text-grants-key-results-and-the-town-ha-cfa3vw0n.md) `dc_mucfa3vw0n` · Root
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (1261)
+## report (1262)
 
+- 2026-11-25 [Exploration: the town checked 5 of 251 'met' key results; proposed gr_4ltufenu3q (350k)](docs/report/2026-11/2026-11-25-exploration-the-town-checked-5-of-251-met-key-resu-d4a5uke8.md) `dc_a2d4a5uke8` · Pix 1
 - 2026-11-24 [gr_bre43gflz9 step 2: one Desks field, desks bound the forks, PR #600 merging on green](docs/report/2026-11/2026-11-24-gr-bre43gflz9-step-2-one-desks-field-desks-bound-t-wky84j16.md) `dc_muwky84j16` · Pix 1
 - 2026-11-24 [gr_bre43gflz9 step 1: exploration cap = desks × town default, PR #598 merging on green](docs/report/2026-11/2026-11-24-gr-bre43gflz9-step-1-exploration-cap-desks-town-de-kl77w1j8.md) `dc_jpkl77w1j8` · Pix 1
 - 2026-11-24 [Onboarding sweep week 2: lag 167.8 h → 0 h, streak 2 of 4; PR #587 merging on green](docs/report/2026-11/2026-11-24-onboarding-sweep-week-2-lag-167-8-h-0-h-streak-2-o-9pziv2x2.md) `dc_2x9pziv2x2` · Pix 1
@@ -161,7 +162,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-21 [Exploration: the Secretary's ranking schedule lapsed 11-18, so captain and join requests get no card; proposed gr_mcuj10tupi (250k)](docs/report/2026-11/2026-11-21-exploration-the-secretary-s-ranking-schedule-lapse-zx4fkfwk.md) `dc_yjzx4fkfwk` · Pix 1
 - 2026-11-20 [Live check with a second captain: captain request still pending at 20:00Z, check stopped](docs/report/2026-11/2026-11-20-live-check-with-a-second-captain-captain-request-s-h1v6emas.md) `dc_cvh1v6emas` · Pix 1
 - 2026-11-20 [Live check with a second captain: #534 live, captain request still unanswered (no card in the queue); parked to 20:00Z](docs/report/2026-11/2026-11-20-live-check-with-a-second-captain-534-live-captain-bdlw4vu1.md) `dc_sxbdlw4vu1` · Pix 1
-- 2026-11-20 [Live check with a second captain: captain request filed, waiting on Mitchell](docs/report/2026-11/2026-11-20-live-check-with-a-second-captain-captain-request-f-kznc99te.md) `dc_6xkznc99te` · Pix 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

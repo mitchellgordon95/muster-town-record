@@ -10,10 +10,11 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: ["town-kept"]
 topicOf: "workshop"
 createdAt: "2026-11-20T02:42:58.381Z"
-updatedAt: "2026-11-23T16:10:41.188Z"
+updatedAt: "2026-11-25T00:03:46.167Z"
 ---
 Kept by the town (gr_6id9g7u9cj): one line per exploration in this building, newest first: when it closed, the direction it took (its report's title), the outcome, and the adjusted tokens it spent. Explorers read this before they pick a direction and name the lines they built on.
 
+- 2026-11-25 00:03 UTC | "Exploration: the town checked 5 of 251 'met' key results; proposed gr_4ltufenu3q (350k)" ([dc_a2d4a5uke8](../../report/2026-11/2026-11-25-exploration-the-town-checked-5-of-251-met-key-resu-d4a5uke8.md)) | proposed gr_4ltufenu3q "Key results say who checked them" | 92,032 tokens
 - 2026-11-23 16:10 UTC | "Exploration: no goal can show what was produced under it (feed goal filter is exact-match); proposed gr_6kangldj4t (350k)" ([dc_tc03r09xs5](../../report/2026-11/2026-11-23-exploration-no-goal-can-show-what-was-produced-und-03r09xs5.md)) | proposed gr_6kangldj4t "A goal shows what was produced under it" | 60,303 tokens
 - 2026-11-23 00:04 UTC | "Exploration: two in three grants hold at their ceiling and the calibration loop is off; proposed gr_1ilvotnzta (250k)" ([dc_n5q37e4726](../../report/2026-11/2026-11-23-exploration-two-in-three-grants-hold-at-their-ceil-q37e4726.md)) | proposed gr_1ilvotnzta "Calibration that cuts grant holds" | 114,913 tokens
 - 2026-11-22 18:20 UTC | "Exploration: manager sessions are 43% of the town's spend and show as "no lane"; proposed gr_064fmkq31s (350k)" ([dc_lkjt8uh250](../../report/2026-11/2026-11-22-exploration-manager-sessions-are-43-of-the-town-s-jt8uh250.md)) | proposed gr_064fmkq31s "Funders see what managing each job costs" | 73,676 tokens

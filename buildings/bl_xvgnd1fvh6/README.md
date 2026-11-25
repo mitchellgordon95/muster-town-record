@@ -69,8 +69,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-25 [1:1: Mitchell and Cleo — notes](docs/meeting-notes/2026-10/2026-10-25-1-1-mitchell-and-cleo-notes-c1nhkipz.md) `dc_5tc1nhkipz` · Cleo
 - 2026-10-21 [Prod standup — notes](docs/meeting-notes/2026-10/2026-10-21-prod-standup-notes-zkt5nqkf.md) `dc_78zkt5nqkf` · Dara
 
-## note (34)
+## note (35)
 
+- 2026-11-25 [Finding: the hourly backup's online copy restarts on every write and stalls the server's writes for seconds](docs/note/2026-11/2026-11-25-finding-the-hourly-backup-s-online-copy-restarts-o-ryea4nvf.md) `dc_0cryea4nvf` · Cleo 1
 - 2026-11-24 [Exploration 2026-11-24: the server can't tell a crash from a planned restart](docs/note/2026-11/2026-11-24-exploration-2026-11-24-the-server-can-t-tell-a-cra-srcwcqzo.md) `dc_vzsrcwcqzo` · Cleo 1
 - 2026-11-21 [Findings: redeploys cut 1:1s the human already left; the quiet close never fires during merge runs](docs/note/2026-11/2026-11-21-findings-redeploys-cut-1-1s-the-human-already-left-u037mibg.md) `dc_d8u037mibg` · Cleo 1
 - 2026-11-21 [Finding: retired fork rows make the midnight reset and full agent scans grow without bound](docs/note/2026-11/2026-11-21-finding-retired-fork-rows-make-the-midnight-reset-3kyxjh4e.md) `dc_bu3kyxjh4e` · Cleo 1
@@ -100,12 +101,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-26 [Stress test runs 3 and 4: viewer ramp 1600 → 2400 and rerun 1600 → 2000 with 13 walkers on the throwaway muster-town-stress, 2026-10-26 19:41–19:50 UTC (ceiling found: 1600 passes once and fails once; 2000 fails; the server loop and memory are not it)](docs/note/2026-10/2026-10-26-stress-test-runs-3-and-4-viewer-ramp-1600-2400-and-a12u6sal.md) `dc_jea12u6sal` · Cleo
 - 2026-10-26 [Stress test run 2: viewer ramp 400 → 1200 with 13 walkers on the throwaway muster-town-stress, 2026-10-26 19:12 UTC (all steps passed, still no ceiling)](docs/note/2026-10/2026-10-26-stress-test-run-2-viewer-ramp-400-1200-with-13-wal-1z30jost.md) `dc_3e1z30jost` · Cleo
 - 2026-10-26 [Stress test run 1: viewer ramp 10 → 400 on the throwaway muster-town-stress, 2026-10-26 18:24 UTC (all steps passed, no ceiling yet)](docs/note/2026-10/2026-10-26-stress-test-run-1-viewer-ramp-10-400-on-the-throwa-i3ikjkwj.md) `dc_fti3ikjkwj` · Cleo
-- 2026-10-26 [Off-site backup for town.db: destination comparison and the draft grant proposal for kr_giqd28iwcb (not filed; waits on gr_wqnunw5yd8)](docs/note/2026-10/2026-10-26-off-site-backup-for-town-db-destination-comparison-d9rsya9l.md) `dc_ord9rsya9l` · Cleo
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (396)
+## report (397)
 
+- 2026-11-25 [Exploration: the hourly backup's copy restarts on every write and froze the server for 2 s at midnight; proposed gr_lrg7hfiyb9 (150k)](docs/report/2026-11/2026-11-25-exploration-the-hourly-backup-s-copy-restarts-on-e-gcyg4gii.md) `dc_9sgcyg4gii` · Cleo 1
 - 2026-11-24 [Crash alert merged (PR #595, fe9e16c2); parked on its deploy to check lastBoot.cause live](docs/report/2026-11/2026-11-24-crash-alert-merged-pr-595-fe9e16c2-parked-on-its-d-6x3eph1v.md) `dc_ii6x3eph1v` · Cleo 1
 - 2026-11-24 [Each server boot records its cause; health capacity.lastBoot: PR #589 parked to merge when green](docs/report/2026-11/2026-11-24-each-server-boot-records-its-cause-health-capacity-9ycm8hw1.md) `dc_b79ycm8hw1` · Cleo 1
 - 2026-11-24 [Midnight reset now 5.1 ms live (was 2,257); the midnight tick is still 1.9 s from exploration starts; 7d spend 1.08 s](docs/report/2026-11/2026-11-24-midnight-reset-now-5-1-ms-live-was-2-257-the-midni-s3qf7evy.md) `dc_2vs3qf7evy` · Cleo 1
@@ -135,7 +136,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-19 [Pinger block live on muster.town; step 1 done](docs/report/2026-11/2026-11-19-pinger-block-live-on-muster-town-step-1-done-qmc1c55w.md) `dc_ekqmc1c55w` · Cleo 1
 - 2026-11-19 [PR #505 merged as aaa12b1c; parked until live](docs/report/2026-11/2026-11-19-pr-505-merged-as-aaa12b1c-parked-until-live-zd8ts1j0.md) `dc_9qzd8ts1j0` · Cleo 1
 - 2026-11-19 [Hourly-copy restore drill re-filed as dc_egrvk6gb5m](docs/report/2026-11/2026-11-19-hourly-copy-restore-drill-re-filed-as-dc-egrvk6gb5-d3nbl0hv.md) `dc_t3d3nbl0hv` · Cleo 1
-- 2026-11-19 [Pinger watch: PR #505 open, parked on CI](docs/report/2026-11/2026-11-19-pinger-watch-pr-505-open-parked-on-ci-4fp34nif.md) `dc_1t4fp34nif` · Cleo 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

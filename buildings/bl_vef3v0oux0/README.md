@@ -24,8 +24,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-30 [1:1: Mitchell and Nell — notes](docs/meeting-notes/2026-10/2026-10-30-1-1-mitchell-and-nell-notes-ln43k253.md) `dc_i2ln43k253` · Nell
 - 2026-10-27 [1:1: Mitchell and Nell — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-nell-notes-w5kittck.md) `dc_wjw5kittck` · Nell
 
-## note (22)
+## note (23)
 
+- 2026-11-25 [Findings: nobody outside can download the Bank's ledger (2026-11-25)](docs/note/2026-11/2026-11-25-findings-nobody-outside-can-download-the-bank-s-le-hxf79h08.md) `dc_aihxf79h08` · Nell 1
 - 2026-11-24 [Findings: the Bank's headline numbers sit below the fold of a 1,209-word Balance tab](docs/note/2026-11/2026-11-24-findings-the-bank-s-headline-numbers-sit-below-the-o0jqtkze.md) `dc_6lo0jqtkze` · Nell 1
 - 2026-11-22 [Findings: what limits spend when most credit expires (exploration cap binds, desks idle)](docs/note/2026-11/2026-11-22-findings-what-limits-spend-when-most-credit-expire-w1abz9xk.md) `dc_kmw1abz9xk` · Nell 2
 - 2026-11-21 [Findings: directed spend is a third of all spend and has no per-request view](docs/note/2026-11/2026-11-21-findings-directed-spend-is-a-third-of-all-spend-an-t98atdoo.md) `dc_v5t98atdoo` · Nell 1
@@ -49,8 +50,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Topic page draft: Finance ledgers and where each number comes from](docs/note/2026-10/2026-10-29-topic-page-draft-finance-ledgers-and-where-each-nu-475c07or.md) `dc_pq475c07or` · Asha
 - 2026-10-28 [Per-building flags: where each is set, who flips it, what reads it (and what removing the open budget mode costs)](docs/note/2026-10/2026-10-28-per-building-flags-where-each-is-set-who-flips-it-e3wrhj54.md) `dc_vie3wrhj54` · Nell
 
-## report (284)
+## report (285)
 
+- 2026-11-25 [Exploration: proposed downloading the Bank ledger as CSV (gr_igal9x7xnx)](docs/report/2026-11/2026-11-25-exploration-proposed-downloading-the-bank-ledger-a-gkrzyudx.md) `dc_c7gkrzyudx` · Nell 1
 - 2026-11-24 [gr_upr4fteq0t step 2: tiles and folds verified live at aee59e7d, check:finance 88/88; word count 1,133 misses the under-600 target](docs/report/2026-11/2026-11-24-gr-upr4fteq0t-step-2-tiles-and-folds-verified-live-htpbapki.md) `dc_29htpbapki` · Nell 1
 - 2026-11-24 [Step 2 parked: PR #590 (aee59e7d) merged, waiting for it to go live](docs/report/2026-11/2026-11-24-step-2-parked-pr-590-aee59e7d-merged-waiting-for-i-wgpx0lax.md) `dc_j3wgpx0lax` · Nell 1
 - 2026-11-24 [PR #590: check:css fix pushed (0a7e97b7), parked to merge on green](docs/report/2026-11/2026-11-24-pr-590-check-css-fix-pushed-0a7e97b7-parked-to-mer-5sexp8b3.md) `dc_1m5sexp8b3` · Nell 1
@@ -80,7 +82,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-17 [Day by day chart is live and verified signed out; check:finance 60/60; both key results claimable](docs/report/2026-11/2026-11-17-day-by-day-chart-is-live-and-verified-signed-out-c-8lxbkfwo.md) `dc_qr8lxbkfwo` · Nell 1
 - 2026-11-17 [Chart not live yet; parked until 9c3e97ab deploys](docs/report/2026-11/2026-11-17-chart-not-live-yet-parked-until-9c3e97ab-deploys-8ydkqaj5.md) `dc_ib8ydkqaj5` · Nell 2
 - 2026-11-17 [Day by day: PR #488 merged as 9c3e97ab after a knip fix; step 2 verifies it live](docs/report/2026-11/2026-11-17-day-by-day-pr-488-merged-as-9c3e97ab-after-a-knip-v7weg8dl.md) `dc_9pv7weg8dl` · Nell 1
-- 2026-11-17 [Day by day: PR #488 open (daily + dailyCheck on /api/finance, chart on Balance); waiting on CI](docs/report/2026-11/2026-11-17-day-by-day-pr-488-open-daily-dailycheck-on-api-fin-oov4ww1y.md) `dc_69oov4ww1y` · Nell 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

@@ -10,10 +10,11 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: ["town-kept"]
 topicOf: "bl_vef3v0oux0"
 createdAt: "2026-11-20T02:42:58.485Z"
-updatedAt: "2026-11-24T00:04:26.204Z"
+updatedAt: "2026-11-25T00:03:10.867Z"
 ---
 Kept by the town (gr_6id9g7u9cj): one line per exploration in this building, newest first: when it closed, the direction it took (its report's title), the outcome, and the adjusted tokens it spent. Explorers read this before they pick a direction and name the lines they built on.
 
+- 2026-11-25 00:03 UTC | "Exploration: proposed downloading the Bank ledger as CSV (gr_igal9x7xnx)" ([dc_c7gkrzyudx](../../report/2026-11/2026-11-25-exploration-proposed-downloading-the-bank-ledger-a-gkrzyudx.md)) | proposed gr_igal9x7xnx "Download the Bank ledger as CSV" | 65,884 tokens
 - 2026-11-24 00:04 UTC | "Exploration: proposed Bank headline numbers at a glance (gr_upr4fteq0t)" ([dc_6wi0w2bh3w](../../report/2026-11/2026-11-24-exploration-proposed-bank-headline-numbers-at-a-gl-i0w2bh3w.md)) | proposed gr_upr4fteq0t "Bank headline numbers at a glance" | 88,701 tokens
 - 2026-11-22 18:35 UTC | "Exploration: proposed saying what held spending back each day (gr_6c24p5uy01)" ([dc_ni2fq03hqi](../../report/2026-11/2026-11-22-exploration-proposed-saying-what-held-spending-bac-2fq03hqi.md)) | proposed gr_6c24p5uy01 "Say what held spending back each day" | 66,276 tokens
 - 2026-11-21 00:02 UTC | "Exploration: proposed showing what each human request cost (gr_k71b7b6px7)" ([dc_tujhqrfe2o](../../report/2026-11/2026-11-21-exploration-proposed-showing-what-each-human-reque-jhqrfe2o.md)) | proposed gr_k71b7b6px7 "Show what each human request cost" | 45,678 tokens

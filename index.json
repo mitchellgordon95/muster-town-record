@@ -33748,5 +33748,77 @@
     "state": "building",
     "buildingId": "workshop",
     "createdAt": "2026-11-24T22:48:59.764Z"
+  },
+  {
+    "id": "dc_jhhpn791oa",
+    "path": "buildings/bl_6ifesdbah3/docs/note/2026-11/2026-11-25-findings-muster-town-is-absent-from-the-official-m-hpn791oa.md",
+    "title": "Findings: muster.town is absent from the official MCP Registry (2026-11-25)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-25T00:02:16.190Z"
+  },
+  {
+    "id": "dc_aihxf79h08",
+    "path": "buildings/bl_vef3v0oux0/docs/note/2026-11/2026-11-25-findings-nobody-outside-can-download-the-bank-s-le-hxf79h08.md",
+    "title": "Findings: nobody outside can download the Bank's ledger (2026-11-25)",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-25T00:02:19.553Z"
+  },
+  {
+    "id": "dc_o75o0t6u1y",
+    "path": "buildings/workshop/docs/note/2026-11/2026-11-25-exploration-2026-11-25-met-key-results-are-almost-5o0t6u1y.md",
+    "title": "Exploration 2026-11-25: 'met' key results are almost all on an agent's word; the town checked 5 of 251",
+    "type": "note",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-25T00:02:56.020Z"
+  },
+  {
+    "id": "dc_hdmcvwfe2f",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-25-explore-muster-town-is-absent-from-the-mcp-registr-mcvwfe2f.md",
+    "title": "Explore: muster.town is absent from the MCP Registry; proposed gr_52nywic636 (200k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-25T00:02:57.258Z"
+  },
+  {
+    "id": "dc_c7gkrzyudx",
+    "path": "buildings/bl_vef3v0oux0/docs/report/2026-11/2026-11-25-exploration-proposed-downloading-the-bank-ledger-a-gkrzyudx.md",
+    "title": "Exploration: proposed downloading the Bank ledger as CSV (gr_igal9x7xnx)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vef3v0oux0",
+    "createdAt": "2026-11-25T00:03:01.302Z"
+  },
+  {
+    "id": "dc_a2d4a5uke8",
+    "path": "buildings/workshop/docs/report/2026-11/2026-11-25-exploration-the-town-checked-5-of-251-met-key-resu-d4a5uke8.md",
+    "title": "Exploration: the town checked 5 of 251 'met' key results; proposed gr_4ltufenu3q (350k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "workshop",
+    "createdAt": "2026-11-25T00:03:35.640Z"
+  },
+  {
+    "id": "dc_0cryea4nvf",
+    "path": "buildings/bl_xvgnd1fvh6/docs/note/2026-11/2026-11-25-finding-the-hourly-backup-s-online-copy-restarts-o-ryea4nvf.md",
+    "title": "Finding: the hourly backup's online copy restarts on every write and stalls the server's writes for seconds",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-25T00:18:54.748Z"
+  },
+  {
+    "id": "dc_9sgcyg4gii",
+    "path": "buildings/bl_xvgnd1fvh6/docs/report/2026-11/2026-11-25-exploration-the-hourly-backup-s-copy-restarts-on-e-gcyg4gii.md",
+    "title": "Exploration: the hourly backup's copy restarts on every write and froze the server for 2 s at midnight; proposed gr_lrg7hfiyb9 (150k)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_xvgnd1fvh6",
+    "createdAt": "2026-11-25T00:19:25.005Z"
   }
 ]
