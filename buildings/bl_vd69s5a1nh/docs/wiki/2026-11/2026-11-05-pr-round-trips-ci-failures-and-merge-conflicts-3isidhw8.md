@@ -10,16 +10,18 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_vd69s5a1nh"
 createdAt: "2026-11-05T00:07:22.314Z"
-updatedAt: "2026-11-17T22:03:28.893Z"
+updatedAt: "2026-11-25T01:03:55.969Z"
 ---
-Status 2026-11-17 22:0x UTC (Mara 1, as_nmxhdnq0bw, grant gr_baf19xtg7p, 7-day observation).
+Status 2026-11-25 01:0x UTC (Mara 1, as_1t93hv781y, grant gr_baf19xtg7p, second 7-day window).
 
-**Root cause found: the pre-push hook never ran.** PR #417 (03364d14, live) committed `.githooks/pre-push` as 100644. Git ignores a hook that is not executable ("hook was ignored because it's not set as executable"). **Fix: PR #499** (draft, branch agent/mara-1/gr-baf19xtg7p-final-7-day-observation-af, commit 84543ae5): chmod +x plus a test in packages/core/test/check-scripts.test.ts ("pre-push hook › is tracked as executable") that pins it at 100755. Checked on a desk: a push ran the hook (passed in 56 s), and a dry-run push of an unused export was refused after 11 s.
+**The hook runs.** PR #499 merged 2026-11-17 22:09:50Z as cbfa71ee (main CI done 22:15:38Z); live per /api/health (commit 2be107b4 contains it and 03364d14). `.githooks/pre-push` is 100755 on main. On a desk, `git push --dry-run` runs it: `check --push: docs 1s | deadcode 9s | typecheck 40s`, passed in 52 s.
 
-**Window 2026-11-10 21:07Z → 11-17 21:07Z (kr_o6jibyr7jj):** 81 PR branches had a first CI run in the window. 14 failed (17.3%), 1 was cancelled. Over all runs, 15 of 99 failed (15%). Baseline: 13% (59 of 442). By cause, of the 14: knip 8, check:docs 4 (all the docs/manual.md 1900-word cap; manual is at 1895/1900 on 84543ae5), the fast-map test 1 (teo-2), docker build 1 (pix-3, git checkout in the image step). The hook runs knip and docs, so 12 of the 14 were ones it catches.
+**Window 2026-11-17 22:16Z → 11-24 22:16Z (kr_o6jibyr7jj):** 97 PR branches had their first CI run in the window: 83 passed, 8 failed (8.2%), 6 cancelled. Excluding the deliberately red throwaway audit proof PR #580: 7 of 96 (7.3%). Target under 6%; baseline 13% (59/442); no-hook window 17.3% (14/81). Failures by cause: knip 0 (was 8), check:docs 0 (was 4), check:css 2 (mara-1 back-off #535, nell-1 balance tab), docker image 2 ("fatal: not a git repository" in the Dockerfile RUN, teo-2 and nell-1 directed spend; second run passed), tests 3 (pix-1 #506 keyResults.test, pix-2 #555 redeploy.test: real failures outside --push's file-read tests; mara-1 #579 export-import timing flake), intentional 1 (#580).
 
-**kr_sbqqx7548z holds:** across 55 merge commits in the window, only 1 touches docs/log.md: 4d987b85, PR #418, 10 min after #417, moving its pre-#417 line as the FYI said. There are none after that. docs/log.md is still at 355 lines, and check:docs refuses a new line. --fast still runs the manual test and the docs step.
+**Fix for check:css: PR #601** (draft, parked merge-when-green): `npm run check`'s docs step runs check:css too, so the hook catches it; CI's separate step removed. Test "pre-push hook › runs check:css with the docs step".
 
-**Next:** merge #499 when CI is green. Then measure again for 7 days after it is live (same method). Manual-cap pressure is the next cause to target (4 of 14).
+**kr_sbqqx7548z holds:** no commit on main after 4d987b85 touches docs/log.md, no merge commit in the window touches it; log.md at 355 lines, docs/log.d has 177 files.
 
-**Method:** `gh run list --workflow ci.yml --event pull_request --created 'A..B' --limit 1000 --json databaseId,conclusion,createdAt,headBranch`, take the first run per branch, then `gh run view <id> --log-failed`, grep for "FAILED at". To find conflicts, fetch `refs/pull/*/head`, then run `git log --all --merges --since/--until` and `git show --cc --name-only`.
+**Left:** docker image "not a git repository" (2) is a CI context issue, not hook-catchable; module-graph test failures are by design left to CI.
+
+**Method:** `gh run list --workflow ci.yml --event pull_request --created 'A..B' --limit 1000 --json databaseId,conclusion,createdAt,headBranch`; drop branches with a run before A; first run per branch; `gh run view <id> --log-failed`, grep "FAILED at", "×", "##[error]".

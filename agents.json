@@ -165,8 +165,8 @@
     "direction": "",
     "sprite": 0,
     "pos": {
-      "x": 88,
-      "y": 10
+      "x": 91,
+      "y": 5
     },
     "status": "idle",
     "activity": "",
@@ -177,7 +177,7 @@
     "currentAssignmentId": null,
     "currentMeetingId": null,
     "createdAt": "2026-10-20T00:17:06.060Z",
-    "lastActiveAt": "2026-11-24T22:11:24.171Z",
+    "lastActiveAt": "2026-11-25T01:32:28.555Z",
     "lastSeenAt": null,
     "inheritsOwner": true,
     "deniedPermissions": [],
@@ -543,19 +543,19 @@
     "status": "idle",
     "activity": "Writing a log line",
     "model": "claude-fable-5-1",
-    "spentTokensToday": 0,
-    "spentTokensTotal": 9130526,
-    "spentUsdTotal": 233.07442199999997,
+    "spentTokensToday": 106216,
+    "spentTokensTotal": 9236742,
+    "spentUsdTotal": 235.19874999999996,
     "currentAssignmentId": null,
     "currentMeetingId": null,
     "createdAt": "2026-10-27T05:50:00.105Z",
-    "lastActiveAt": "2026-11-24T22:34:31.767Z",
-    "lastSeenAt": "2026-11-24T22:34:22.876Z",
+    "lastActiveAt": "2026-11-25T01:07:26.143Z",
+    "lastSeenAt": "2026-11-25T01:07:24.857Z",
     "inheritsOwner": false,
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 0
+    "familySpentToday": 160025
   },
   {
     "id": "ag_ehvfty1gx3",
@@ -67421,6 +67421,37 @@
     "inheritsOwner": false,
     "deniedPermissions": [],
     "forkOf": "ag_qtxi6eg1ul",
+    "forkN": 1,
+    "familySpentToday": 0
+  },
+  {
+    "id": "ag_xh93ezxhtp",
+    "name": "Mara 1",
+    "kind": "resident",
+    "buildingId": "bl_vd69s5a1nh",
+    "homeBuildingId": "bl_vd69s5a1nh",
+    "ownerUserId": "us_1la74k332n",
+    "title": "",
+    "direction": "",
+    "sprite": 1,
+    "pos": {
+      "x": 152,
+      "y": 10
+    },
+    "status": "retired",
+    "activity": "",
+    "model": "claude-opus-5-5",
+    "spentTokensToday": 53809,
+    "spentTokensTotal": 53809,
+    "spentUsdTotal": 1.0761703000000002,
+    "currentAssignmentId": null,
+    "currentMeetingId": null,
+    "createdAt": "2026-11-25T01:00:01.549Z",
+    "lastActiveAt": "2026-11-25T01:04:07.764Z",
+    "lastSeenAt": "2026-11-25T01:04:07.075Z",
+    "inheritsOwner": false,
+    "deniedPermissions": [],
+    "forkOf": "ag_croreod6q3",
     "forkN": 1,
     "familySpentToday": 0
   }

@@ -33820,5 +33820,14 @@
     "state": "building",
     "buildingId": "bl_xvgnd1fvh6",
     "createdAt": "2026-11-25T00:19:25.005Z"
+  },
+  {
+    "id": "dc_gid54je37c",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-25-second-window-after-499-first-run-ci-failures-8-2-d54je37c.md",
+    "title": "Second window after #499: first-run CI failures 8.2% (8 of 97), knip and docs 0; check:css fix in PR #601",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-25T01:04:07.395Z"
   }
 ]

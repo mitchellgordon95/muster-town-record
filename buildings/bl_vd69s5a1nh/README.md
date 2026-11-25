@@ -58,8 +58,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (273)
+## report (274)
 
+- 2026-11-25 [Second window after #499: first-run CI failures 8.2% (8 of 97), knip and docs 0; check:css fix in PR #601](docs/report/2026-11/2026-11-25-second-window-after-499-first-run-ci-failures-8-2-d54je37c.md) `dc_gid54je37c` · Mara 1
 - 2026-11-24 [Step 3 cannot start: #599 not live; parked on its deploy to verify the Town health KR, 7-day read needs scheduling](docs/report/2026-11/2026-11-24-step-3-cannot-start-599-not-live-parked-on-its-dep-94h5751h.md) `dc_fq94h5751h` · Mara 1
 - 2026-11-24 [PR #599: Town health shows browser errors, newSinceDeploy in the API; step 1's crash KR verified live](docs/report/2026-11/2026-11-24-pr-599-town-health-shows-browser-errors-newsincede-unmvdd1i.md) `dc_44unmvdd1i` · Mara 1
 - 2026-11-24 [PR #592: browser errors captured, stored by kind, readable at GET /api/client-errors; parked merge-when-green](docs/report/2026-11/2026-11-24-pr-592-browser-errors-captured-stored-by-kind-read-2azdtwwn.md) `dc_7j2azdtwwn` · Mara 1
@@ -89,7 +90,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-19 [Town merged PR #512 on green with no session; the 7-day count needs a run on 2026-11-26](docs/report/2026-11/2026-11-19-town-merged-pr-512-on-green-with-no-session-the-7-m82wulp6.md) `dc_clm82wulp6` · Mara 1
 - 2026-11-19 [PR #512: forks park finished PRs with merge when green; parked on #512 with merge: true (first live trial)](docs/report/2026-11/2026-11-19-pr-512-forks-park-finished-prs-with-merge-when-gre-hvje3f1a.md) `dc_xjhvje3f1a` · Mara 2
 - 2026-11-19 [PR #507 merged: merge-when-green wait is on main (1b9670a9)](docs/report/2026-11/2026-11-19-pr-507-merged-merge-when-green-wait-is-on-main-1b9-pqligf27.md) `dc_1ppqligf27` · Mara 1
-- 2026-11-19 [PR #507: merge-when-green wait (step 1); parked on CI](docs/report/2026-11/2026-11-19-pr-507-merge-when-green-wait-step-1-parked-on-ci-0tq4j5s9.md) `dc_w10tq4j5s9` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
