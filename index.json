@@ -33829,5 +33829,23 @@
     "state": "building",
     "buildingId": "bl_vd69s5a1nh",
     "createdAt": "2026-11-25T01:04:07.395Z"
+  },
+  {
+    "id": "dc_54su8371pq",
+    "path": "buildings/bl_vd69s5a1nh/docs/note/2026-11/2026-11-26-findings-the-last-first-run-ci-failures-are-edited-su8371pq.md",
+    "title": "Findings: the last first-run CI failures are edited tests the hook skips and an image-build race",
+    "type": "note",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-26T00:03:24.619Z"
+  },
+  {
+    "id": "dc_5lw2lezzdo",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-26-proposed-gr-4ld3zbxvrf-push-hook-runs-edited-tests-w2lezzdo.md",
+    "title": "Proposed gr_4ld3zbxvrf: push hook runs edited tests, image build stops flaking (the rest of the 8.2% first-run CI failures)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-26T00:04:18.924Z"
   }
 ]

@@ -23,8 +23,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-28 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-28-1-1-mitchell-and-mara-notes-ui0p5b1y.md) `dc_fpui0p5b1y` · Mara
 - 2026-10-27 [1:1: Mitchell and Mara — notes](docs/meeting-notes/2026-10/2026-10-27-1-1-mitchell-and-mara-notes-c7in8y77.md) `dc_i2c7in8y77` · Mara
 
-## note (32)
+## note (33)
 
+- 2026-11-26 [Findings: the last first-run CI failures are edited tests the hook skips and an image-build race](docs/note/2026-11/2026-11-26-findings-the-last-first-run-ci-failures-are-edited-su8371pq.md) `dc_54su8371pq` · Mara 1
 - 2026-11-24 [Findings: browser errors on the live town are invisible (exploration 2026-11-24)](docs/note/2026-11/2026-11-24-findings-browser-errors-on-the-live-town-are-invis-j62muav0.md) `dc_2wj62muav0` · Mara 1
 - 2026-11-23 [Findings: 9 npm advisories open, 2 critical in vitest 3; a lockfile with vitest 5 + audit fix has 0](docs/note/2026-11/2026-11-23-findings-9-npm-advisories-open-2-critical-in-vites-tevhu9z7.md) `dc_lutevhu9z7` · Mara 2
 - 2026-11-22 [Findings: a redeploy that dies mid-build cuts every desk work session (8 cut, ~571k adjusted tokens, 2026-11-22 18:29Z)](docs/note/2026-11/2026-11-22-findings-a-redeploy-that-dies-mid-build-cuts-every-etia1a3y.md) `dc_20etia1a3y` · Mara 2
@@ -54,12 +55,12 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-10-29 [Fast check step 1: desk timings, cold vs warm, and the CPU diagnosis (kr_939kp3vjxc)](docs/note/2026-10/2026-10-29-fast-check-step-1-desk-timings-cold-vs-warm-and-th-xve66v1t.md) `dc_adxve66v1t` · Finn
 - 2026-10-28 [Dead-code sweep 1: candidates and flags (kr_ef11f6ex28)](docs/note/2026-10/2026-10-28-dead-code-sweep-1-candidates-and-flags-kr-ef11f6ex-4k44yfhn.md) `dc_ug4k44yfhn` · Finn
 - 2026-10-28 [Stale-state drain flake (run 40454959781): reproduction and root cause (kr_cm5qb2wqh7)](docs/note/2026-10/2026-10-28-stale-state-drain-flake-run-40454959781-reproducti-qaoo4qb9.md) `dc_cbqaoo4qb9` · Finn
-- 2026-10-28 [CI red on main: last 20 runs, and the v12 desk_slots root cause (kr_cm5qb2wqh7)](docs/note/2026-10/2026-10-28-ci-red-on-main-last-20-runs-and-the-v12-desk-slots-9kklky3v.md) `dc_l59kklky3v` · Finn
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (274)
+## report (275)
 
+- 2026-11-26 [Proposed gr_4ld3zbxvrf: push hook runs edited tests, image build stops flaking (the rest of the 8.2% first-run CI failures)](docs/report/2026-11/2026-11-26-proposed-gr-4ld3zbxvrf-push-hook-runs-edited-tests-w2lezzdo.md) `dc_5lw2lezzdo` · Mara 1
 - 2026-11-25 [Second window after #499: first-run CI failures 8.2% (8 of 97), knip and docs 0; check:css fix in PR #601](docs/report/2026-11/2026-11-25-second-window-after-499-first-run-ci-failures-8-2-d54je37c.md) `dc_gid54je37c` · Mara 1
 - 2026-11-24 [Step 3 cannot start: #599 not live; parked on its deploy to verify the Town health KR, 7-day read needs scheduling](docs/report/2026-11/2026-11-24-step-3-cannot-start-599-not-live-parked-on-its-dep-94h5751h.md) `dc_fq94h5751h` · Mara 1
 - 2026-11-24 [PR #599: Town health shows browser errors, newSinceDeploy in the API; step 1's crash KR verified live](docs/report/2026-11/2026-11-24-pr-599-town-health-shows-browser-errors-newsincede-unmvdd1i.md) `dc_44unmvdd1i` · Mara 1
@@ -89,7 +90,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-20 [Proposed gr_6id9g7u9cj: the explore tick backs off after empty explorations (Onboarding looped 29× on 11-19)](docs/report/2026-11/2026-11-20-proposed-gr-6id9g7u9cj-the-explore-tick-backs-off-lgamgxvb.md) `dc_nllgamgxvb` · Mara 1
 - 2026-11-19 [Town merged PR #512 on green with no session; the 7-day count needs a run on 2026-11-26](docs/report/2026-11/2026-11-19-town-merged-pr-512-on-green-with-no-session-the-7-m82wulp6.md) `dc_clm82wulp6` · Mara 1
 - 2026-11-19 [PR #512: forks park finished PRs with merge when green; parked on #512 with merge: true (first live trial)](docs/report/2026-11/2026-11-19-pr-512-forks-park-finished-prs-with-merge-when-gre-hvje3f1a.md) `dc_xjhvje3f1a` · Mara 2
-- 2026-11-19 [PR #507 merged: merge-when-green wait is on main (1b9670a9)](docs/report/2026-11/2026-11-19-pr-507-merged-merge-when-green-wait-is-on-main-1b9-pqligf27.md) `dc_1ppqligf27` · Mara 1
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 
