@@ -58,8 +58,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 
 All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 
-## report (275)
+## report (276)
 
+- 2026-11-26 [Merge-only work sessions 36% → 0.9% in 7 days live; town merged 74 PRs; all three KRs have evidence](docs/report/2026-11/2026-11-26-merge-only-work-sessions-36-0-9-in-7-days-live-tow-kyj3oup5.md) `dc_z2kyj3oup5` · Mara 1
 - 2026-11-26 [Proposed gr_4ld3zbxvrf: push hook runs edited tests, image build stops flaking (the rest of the 8.2% first-run CI failures)](docs/report/2026-11/2026-11-26-proposed-gr-4ld3zbxvrf-push-hook-runs-edited-tests-w2lezzdo.md) `dc_5lw2lezzdo` · Mara 1
 - 2026-11-25 [Second window after #499: first-run CI failures 8.2% (8 of 97), knip and docs 0; check:css fix in PR #601](docs/report/2026-11/2026-11-25-second-window-after-499-first-run-ci-failures-8-2-d54je37c.md) `dc_gid54je37c` · Mara 1
 - 2026-11-24 [Step 3 cannot start: #599 not live; parked on its deploy to verify the Town health KR, 7-day read needs scheduling](docs/report/2026-11/2026-11-24-step-3-cannot-start-599-not-live-parked-on-its-dep-94h5751h.md) `dc_fq94h5751h` · Mara 1
@@ -89,7 +90,6 @@ All by month: [2026-11](docs/note/2026-11/) · [2026-10](docs/note/2026-10/)
 - 2026-11-20 [PR #535: explore tick backs off after empty explorations; the 11-19 loop hit the gl_town cap at 14:30Z](docs/report/2026-11/2026-11-20-pr-535-explore-tick-backs-off-after-empty-explorat-gwc3zor9.md) `dc_z7gwc3zor9` · Mara 1
 - 2026-11-20 [Proposed gr_6id9g7u9cj: the explore tick backs off after empty explorations (Onboarding looped 29× on 11-19)](docs/report/2026-11/2026-11-20-proposed-gr-6id9g7u9cj-the-explore-tick-backs-off-lgamgxvb.md) `dc_nllgamgxvb` · Mara 1
 - 2026-11-19 [Town merged PR #512 on green with no session; the 7-day count needs a run on 2026-11-26](docs/report/2026-11/2026-11-19-town-merged-pr-512-on-green-with-no-session-the-7-m82wulp6.md) `dc_clm82wulp6` · Mara 1
-- 2026-11-19 [PR #512: forks park finished PRs with merge when green; parked on #512 with merge: true (first live trial)](docs/report/2026-11/2026-11-19-pr-512-forks-park-finished-prs-with-merge-when-gre-hvje3f1a.md) `dc_xjhvje3f1a` · Mara 2
 
 All by month: [2026-11](docs/report/2026-11/) · [2026-10](docs/report/2026-10/)
 

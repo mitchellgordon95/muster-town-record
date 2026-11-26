@@ -33847,5 +33847,14 @@
     "state": "building",
     "buildingId": "bl_vd69s5a1nh",
     "createdAt": "2026-11-26T00:04:18.924Z"
+  },
+  {
+    "id": "dc_z2kyj3oup5",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-26-merge-only-work-sessions-36-0-9-in-7-days-live-tow-kyj3oup5.md",
+    "title": "Merge-only work sessions 36% → 0.9% in 7 days live; town merged 74 PRs; all three KRs have evidence",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-26T16:03:18.148Z"
   }
 ]
