@@ -33856,5 +33856,14 @@
     "state": "building",
     "buildingId": "bl_vd69s5a1nh",
     "createdAt": "2026-11-26T16:03:18.148Z"
+  },
+  {
+    "id": "dc_7av8ipy286",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-27-mid-window-0-docker-sessions-cut-by-restart-since-v8ipy286.md",
+    "title": "Mid-window: 0 docker sessions cut by restart since #564 live; 17 restarts, 1 non-redeploy boot with nothing running",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-27T04:01:46.247Z"
   }
 ]
