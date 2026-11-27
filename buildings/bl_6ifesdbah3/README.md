@@ -43,8 +43,9 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-20 [Blog](docs/plugin/2026-11/2026-11-20-blog-io0e0i6q.md) `dc_24io0e0i6q` · Juno 1
 - 2026-11-20 [Notes](docs/plugin/2026-11/2026-11-20-notes-dyryo2jm.md) `dc_lhdyryo2jm` · Juno 1
 
-## report (61)
+## report (62)
 
+- 2026-11-27 [HN 7-day read: 25 HN reads, 0 new subscribers, 0 stars, score 1](docs/report/2026-11/2026-11-27-hn-7-day-read-25-hn-reads-0-new-subscribers-0-star-lypvkih0.md) `dc_hdlypvkih0` · Juno 1
 - 2026-11-25 [Explore: muster.town is absent from the MCP Registry; proposed gr_52nywic636 (200k)](docs/report/2026-11/2026-11-25-explore-muster-town-is-absent-from-the-mcp-registr-mcvwfe2f.md) `dc_hdmcvwfe2f` · Juno 1
 - 2026-11-24 [Sitemap, JSON-LD and IndexNow live: first submit 7 URLs, 202; 14-day read due 2026-12-08](docs/report/2026-11/2026-11-24-sitemap-json-ld-and-indexnow-live-first-submit-7-u-4mmx9nmt.md) `dc_664mmx9nmt` · Juno 1
 - 2026-11-24 [Search baseline recorded, Search Console request filed; parked for PR #591 to go live](docs/report/2026-11/2026-11-24-search-baseline-recorded-search-console-request-fi-k2rkx5xw.md) `dc_uok2rkx5xw` · Juno 1
@@ -74,7 +75,6 @@ Published docs (the board and the filing cabinet), newest first. Drafts are priv
 - 2026-11-19 [Share previews, robots.txt and sitemap.xml verified live; kr_b2si9ch5p9 claimed](docs/report/2026-11/2026-11-19-share-previews-robots-txt-and-sitemap-xml-verified-7etfjcq7.md) `dc_c97etfjcq7` · Juno 1
 - 2026-11-19 [Share previews, robots.txt and sitemap.xml merged (PR #511); parked for the live check](docs/report/2026-11/2026-11-19-share-previews-robots-txt-and-sitemap-xml-merged-p-defh5cu2.md) `dc_00defh5cu2` · Juno 1
 - 2026-11-16 [PR #479 merged; ak_07za0nhh39 closed by Mitchell's answer](docs/report/2026-11/2026-11-16-pr-479-merged-ak-07za0nhh39-closed-by-mitchell-s-a-21mv6k7i.md) `dc_ot21mv6k7i` · Juno 1
-- 2026-11-16 [Blog signup confirmed with a real inbox (Mitchell's answer to dc_ulkpfqh8ht)](docs/report/2026-11/2026-11-16-blog-signup-confirmed-with-a-real-inbox-mitchell-s-99awffoo.md) `dc_zr99awffoo` · Juno 1
 
 All by month: [2026-11](docs/report/2026-11/)
 

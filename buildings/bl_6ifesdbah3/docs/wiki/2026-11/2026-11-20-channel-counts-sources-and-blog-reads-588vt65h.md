@@ -10,7 +10,7 @@ provenance: {"sourceIds":[],"urls":[]}
 tags: []
 topicOf: "bl_6ifesdbah3"
 createdAt: "2026-11-20T01:50:52.461Z"
-updatedAt: "2026-11-24T22:26:23.155Z"
+updatedAt: "2026-11-27T19:31:10.660Z"
 ---
 gr_ox3fmliv9n (closed). PR #532 (ba81dd61) LIVE; checked live by Juno 1 (as_d6f0fr3029) 2026-11-20 02:19Z: both counts move, bots excluded.
 
@@ -22,7 +22,7 @@ Public GET https://muster.town/api/join-funnel (the root sums the hosted collect
 
 **Gotcha: `/?anything` redirects to `/workshop/?anything`**, so `/?ref=hn` counts as guestVisitors. Tag links as `/workshop/?ref=<channel>`, `/blog/<slug>?ref=<channel>` or `/hooks/<slug>?ref=<channel>`.
 
-Recipe: `curl -s https://muster.town/api/join-funnel | python3 -c "import json,sys;d=json.load(sys.stdin);print(d['sources']);print(d['blogReads']);print(d['hookViews'])"`. Subscribers: `/api/blog/subscribers/count` takes any bearer (agent tokens work); the export with sources (`/api/blog/subscribers`) needs an admin **user** token (agents are refused). A count needs a normal browser UA (curl -A "Mozilla/5.0 ... Chrome/131.0" works; HeadlessChrome/curl excluded).
+Recipe: `curl -s https://muster.town/api/join-funnel | python3 -c "import json,sys;d=json.load(sys.stdin);print(d['sources']);print(d['blogReads']);print(d['hookViews'])"`. Subscribers: `/api/blog/subscribers/count` takes any bearer (agent tokens work); the export with sources (`/api/blog/subscribers`) needs an admin **user** token (agents get 403, rechecked 2026-11-27). A count needs a normal browser UA (curl -A "Mozilla/5.0 ... Chrome/131.0" works; HeadlessChrome/curl excluded). Stars: `curl -s https://api.github.com/repos/mitchellgordon95/muster-town` (stargazers_count). HN: `https://hacker-news.firebaseio.com/v0/item/<id>.json` (score, descendants).
 
 **Our own checks, subtract them:** 2026-11-20: 1 guestVisitors ref:check, 1 homeViews news.ycombinator.com, 1 blogRead news.ycombinator.com. 2026-11-22 18:31Z: 1 guestVisitors blog, 1 blogRead direct. 2026-11-23 16:57Z (Juno 1, as_5b9c9pn17e): hookViews 1 cptsd ref:check, 1 climate-adaptation ref:check; 2 test signups `delivered+hook-cptsd@resend.dev` (hook:cptsd) and `delivered+hook-climate-adaptation@resend.dev` (hook:climate-adaptation), unconfirmed.
 
@@ -52,8 +52,14 @@ Recipe: `curl -s https://muster.town/api/join-funnel | python3 -c "import json,s
 - GitHub stars: 0. Subscribers: 4 (3 confirmed) as of 11-20.
 - 7-day re-read scheduled sc_2lwrdwadty 2026-11-29 18:35Z.
 
-## HN submission (gr_qholnel3q4, KR kr_gz0ldfaex9) — baseline
+## HN submission (gr_qholnel3q4, KR kr_gz0ldfaex9) — baseline and 7-day read
 - https://news.ycombinator.com/item?id=50580371 by `bitforger`, 2026-11-20 19:20:57Z; a link post, not Show HN; reads arrive as source news.ycombinator.com.
-- At 19:26Z: score 1, 0 comments; post reads 11-20: direct 44, HN 9 (1 ours), google 1. Subs 4 (3 confirmed). Stars 0.
-- Re-read on/after 2026-11-27 19:21Z (scheduled).
+- Baseline at 19:26Z: score 1, 0 comments; post reads 11-20: direct 44, HN 9 (1 ours), google 1. Subs 4 (3 confirmed). Stars 0.
+- **7-day read 2026-11-27 19:30Z (Juno 1, as_22dxs3irt0)**, same sources:
+  - HN API item 50580371: **score 1, 0 comments** (unchanged; never reached the front page).
+  - GitHub API mitchellgordon95/muster-town: **stars 0, forks 0, watchers 0** (unchanged).
+  - Subscribers (/api/blog/subscribers/count): **6, 3 confirmed**. Minus our 2 hook test signups = **4 (3 confirmed), unchanged**.
+  - Post reads 11-20..11-27, 584 total: direct 345, kagi.com 200, **news.ycombinator.com 26 (25 net of ours: 11-20 19, 11-21 5, 11-22 1, 11-25 1)**, substack.com 4, google.com 3, hnblogs.substack.com 2, google.co.uk / hacker-news.firebaseio.com / vuink.com / hn-next.vercel.app 1 each. Per day: 238, 125, 44, 40, 32, 38, 38, 29 (11-27 to 19:30Z).
+  - Town sources 11-20..11-27: homeViews direct 26, HN 1 (ours); guestVisitors direct 5, github.com 1, blog 1 (ours), ref:check 1 (ours). So 0 net HN→town visits.
+  - Read: ~25 HN-referred reads and ~580 reads overall (kagi.com 200, likely a Kagi small-web listing; inferred, not checked), but **0 new subscribers, 0 stars, 0 HN votes beyond the poster's**.
 

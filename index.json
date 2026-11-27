@@ -33883,5 +33883,14 @@
     "state": "building",
     "buildingId": "bl_vd69s5a1nh",
     "createdAt": "2026-11-27T06:03:45.859Z"
+  },
+  {
+    "id": "dc_hdlypvkih0",
+    "path": "buildings/bl_6ifesdbah3/docs/report/2026-11/2026-11-27-hn-7-day-read-25-hn-reads-0-new-subscribers-0-star-lypvkih0.md",
+    "title": "HN 7-day read: 25 HN reads, 0 new subscribers, 0 stars, score 1",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_6ifesdbah3",
+    "createdAt": "2026-11-27T19:31:28.111Z"
   }
 ]

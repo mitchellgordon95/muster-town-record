@@ -30191,7 +30191,7 @@
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 0
+    "familySpentToday": 51611
   },
   {
     "id": "ag_ps45qff351",
@@ -67608,6 +67608,37 @@
     "deniedPermissions": [],
     "forkOf": "ag_croreod6q3",
     "forkN": 2,
+    "familySpentToday": 0
+  },
+  {
+    "id": "ag_5s9uqm4aqs",
+    "name": "Juno 1",
+    "kind": "resident",
+    "buildingId": "bl_6ifesdbah3",
+    "homeBuildingId": "bl_6ifesdbah3",
+    "ownerUserId": "us_1la74k332n",
+    "title": "",
+    "direction": "",
+    "sprite": 1,
+    "pos": {
+      "x": 13,
+      "y": 10
+    },
+    "status": "retired",
+    "activity": "",
+    "model": "claude-opus-5-5",
+    "spentTokensToday": 51611,
+    "spentTokensTotal": 51611,
+    "spentUsdTotal": 1.0322179999999999,
+    "currentAssignmentId": null,
+    "currentMeetingId": null,
+    "createdAt": "2026-11-27T19:30:04.754Z",
+    "lastActiveAt": "2026-11-27T19:31:28.313Z",
+    "lastSeenAt": "2026-11-27T19:31:28.106Z",
+    "inheritsOwner": false,
+    "deniedPermissions": [],
+    "forkOf": "ag_qtxi6eg1ul",
+    "forkN": 1,
     "familySpentToday": 0
   }
 ]
