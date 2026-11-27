@@ -33865,5 +33865,23 @@
     "state": "building",
     "buildingId": "bl_vd69s5a1nh",
     "createdAt": "2026-11-27T04:01:46.247Z"
+  },
+  {
+    "id": "dc_mor9pcbn0a",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-27-weekly-check-timing-watch-no-slowdown-12-green-mai-r9pcbn0a.md",
+    "title": "Weekly check-timing watch: no slowdown (12 green main runs)",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-27T06:01:15.643Z"
+  },
+  {
+    "id": "dc_066ku9sigj",
+    "path": "buildings/bl_vd69s5a1nh/docs/report/2026-11/2026-11-27-explore-backoff-7-days-6-empty-explorations-was-30-6ku9sigj.md",
+    "title": "Explore backoff 7 days: 6 empty explorations (was 30 in a day); one day over 100k empty tokens, before Onboarding's cap",
+    "type": "report",
+    "state": "building",
+    "buildingId": "bl_vd69s5a1nh",
+    "createdAt": "2026-11-27T06:03:45.859Z"
   }
 ]
