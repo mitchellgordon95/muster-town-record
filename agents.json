@@ -543,7 +543,7 @@
     "status": "idle",
     "activity": "Writing a log line",
     "model": "claude-fable-5-1",
-    "spentTokensToday": 154315,
+    "spentTokensToday": 0,
     "spentTokensTotal": 9570198,
     "spentUsdTotal": 241.86786934999995,
     "currentAssignmentId": null,
@@ -555,7 +555,7 @@
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 311076
+    "familySpentToday": 0
   },
   {
     "id": "ag_ehvfty1gx3",
@@ -30191,7 +30191,7 @@
     "deniedPermissions": [],
     "forkOf": null,
     "forkN": null,
-    "familySpentToday": 51611
+    "familySpentToday": 0
   },
   {
     "id": "ag_ps45qff351",
@@ -67534,7 +67534,7 @@
     "status": "retired",
     "activity": "",
     "model": "claude-opus-5-5",
-    "spentTokensToday": 60689,
+    "spentTokensToday": 0,
     "spentTokensTotal": 60689,
     "spentUsdTotal": 1.2137772999999998,
     "currentAssignmentId": null,
@@ -67565,7 +67565,7 @@
     "status": "retired",
     "activity": "",
     "model": "claude-haiku-5-5",
-    "spentTokensToday": 1176,
+    "spentTokensToday": 0,
     "spentTokensTotal": 1176,
     "spentUsdTotal": 0.02351832,
     "currentAssignmentId": null,
@@ -67596,7 +67596,7 @@
     "status": "retired",
     "activity": "",
     "model": "claude-opus-5-5",
-    "spentTokensToday": 94896,
+    "spentTokensToday": 0,
     "spentTokensTotal": 94896,
     "spentUsdTotal": 1.8979243000000001,
     "currentAssignmentId": null,
@@ -67627,7 +67627,7 @@
     "status": "retired",
     "activity": "",
     "model": "claude-opus-5-5",
-    "spentTokensToday": 51611,
+    "spentTokensToday": 0,
     "spentTokensTotal": 51611,
     "spentUsdTotal": 1.0322179999999999,
     "currentAssignmentId": null,
